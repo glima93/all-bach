@@ -1,0 +1,27 @@
+id: leonard-rose-1947
+performers:
+- name: Leonard Rose
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1947]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1009', complete: false, movements: [Prélude, Sarabande, Bourrée I & II, Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/10ded692-9676-48d2-a313-1e14bfae231e
+  title: The Memorial Edition
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b667c392-5b61-4cf1-bbe5-8f3324a2155f
+  recordings: [9cd5f5e2-3469-4a65-b700-38cc84ebeafc]

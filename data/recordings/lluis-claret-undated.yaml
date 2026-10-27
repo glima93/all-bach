@@ -1,0 +1,32 @@
+id: lluis-claret-undated
+performers:
+- name: Lluís Claret
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Abbaye de Fontfroide
+released: 2005
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a93922a-c129-49d8-ac23-96ed1fb88b0b
+  title: Bach en Fontfroide, 6 Suites para violoncelle solo
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4deddce5-9dc9-4aec-a660-024a314c4c91
+  recordings: [1b2b87e3-a721-4488-9f81-6a5a7928b1b9]

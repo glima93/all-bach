@@ -1,0 +1,28 @@
+id: laurie-haines-reese-undated
+performers:
+- name: Laurie Haines Reese
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b57b0628-b6d6-48ab-ad68-65cb724aba16
+  title: Piper's Dream
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 171c4122-9239-49ae-b288-39538ba0e6c6
+  recordings: [bfa2b1f5-fd3d-42c5-a62b-f83f20b331fb]

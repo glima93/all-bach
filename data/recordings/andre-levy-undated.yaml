@@ -1,0 +1,33 @@
+id: andre-levy-undated
+performers:
+- name: André Lévy
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: false, movements: [Prélude, Allemande, Courante, Sarabande, Gigue]}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/23e47786-6c72-4ba0-b976-58542476a806
+  title: The Six Suites for Unaccompanied Cello
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d0f78f74-2724-49d6-921b-f517477a6a6d
+  recordings: [bab9e3e1-c0ca-49c1-b48a-f69ecfd463e5]

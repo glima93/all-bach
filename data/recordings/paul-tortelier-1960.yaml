@@ -1,0 +1,31 @@
+id: paul-tortelier-1960
+performers:
+- name: Paul Tortelier
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: Salle Wagram
+released: 1987
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f00b8ed6-abe0-4593-8c18-f58ffd352a9e
+  title: Les 6 Suites pour violoncelle
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0664393e-2347-47b7-b30c-bd756e598591
+  recordings: [996f5ee7-e8d6-443b-b214-7e549d1b8512]

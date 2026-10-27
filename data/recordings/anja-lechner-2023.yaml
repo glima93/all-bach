@@ -1,0 +1,27 @@
+id: anja-lechner-2023
+performers:
+- name: Anja Lechner
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2023]
+  place: Himmelfahrtskirche
+released: 2024
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9328d1f0-a800-4bd6-88dd-fbfbf4eb257a
+  title: Bach / Abel / Hume
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cb4dfd8a-5aac-4228-b5ce-25a412ba3064
+  recordings: [2b61c7fa-c7d9-4adf-a7f1-874cdede26e9]

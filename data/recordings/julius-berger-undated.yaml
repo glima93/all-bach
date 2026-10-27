@@ -1,0 +1,29 @@
+id: julius-berger-undated
+performers:
+- name: Julius Berger
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1009', complete: false, movements: [Bourrée I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/821d3224-08f6-41a9-88e5-f0020d9f494d
+  title: Kolibri (3 Audio-CDs und 1 DVD zum Musikbuch 1/2)
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d619c045-d034-4281-bb53-1ae80b12a5c8
+  recordings: [c37ab113-5d6e-43c3-9d4d-3f917c55bc9f]

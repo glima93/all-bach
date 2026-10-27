@@ -1,0 +1,31 @@
+id: rohan-de-saram-2009
+performers:
+- name: Rohan de Saram
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: St Bartholomew's Church
+released: 2021
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/faf1ee35-23fe-4da2-b4c4-ed3ad6d64f80
+  title: Bach Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8cb8be08-bed6-4f2a-b9a4-669ec70b8943
+  recordings: [db4d631a-b40a-49eb-b5f9-dd44a8750885]

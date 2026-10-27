@@ -1,0 +1,28 @@
+id: collectivecadenza-undated
+performers:
+- name: collectivecadenza
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Terminus Recording Studios
+released: 2013
+original_label: null
+works:
+- {bwv: '1008', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fc626119-8d00-41e3-8e77-1cfac8866666
+  title: Story of the Bass
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on electric guitar, drums (drum set), grand piano.
+musicbrainz:
+  artist: 492c3d71-e972-484d-8786-e60eb41e70db
+  recordings: [b5084407-c52c-403c-acdf-2eb5b7133e7f]

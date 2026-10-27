@@ -1,0 +1,28 @@
+id: douglas-cummings-undated
+performers:
+- name: Douglas Cummings
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1008', complete: false, movements: [Allemande, Courante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b537224d-c21f-4b54-a61f-acb5570585e9
+  title: The British Cello Phenomenon
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 77c1d772-fddd-4bb2-a143-80413e53f212
+  recordings: [0d0cd5b4-9fe7-43ce-b407-865634180b05]

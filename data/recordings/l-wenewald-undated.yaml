@@ -1,0 +1,28 @@
+id: l-wenewald-undated
+performers:
+- name: L. Wenewald
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d135d7f-2145-45a0-bde8-40df258c3408
+  title: Les grands moments de la musique classique vol. 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7a62c17b-a2bf-475e-bb1d-75efd63e364b
+  recordings: [5b3e55fb-819d-4048-b617-debe37844d4c]

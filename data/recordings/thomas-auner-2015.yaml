@@ -1,0 +1,28 @@
+id: thomas-auner-2015
+performers:
+- name: Thomas Auner
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: Lutherische Stadtkirche
+released: 2015
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Gigue]}
+- {bwv: '1009', complete: false, movements: [Allemande]}
+- {bwv: '1012', complete: false, movements: [Courante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/393198ad-a014-498d-9acd-4c1d35225c09
+  title: Aufforderung zum Tanz
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7aedbbe2-4dbd-4deb-990b-6b94a767470e
+  recordings: [905f4312-c6d4-4d7b-928b-7c981e4cfe10]

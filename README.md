@@ -2,18 +2,20 @@
 
 An open archive of recordings of Johann Sebastian Bach, catalogued by BWV number, with links to where each recording can be heard.
 
-The pilot covers the six Cello Suites, BWV 1007–1012.
+The pilot covers the six Cello Suites, BWV 1007–1012: 264 recordings, most of them imported from [MusicBrainz](https://musicbrainz.org) (CC0) and listed as drafts until a contributor checks them.
 
 ## How it works
 
 ```
 data/
   works/          one file per BWV number (1007.yaml, 1046a.yaml, anh-3.yaml)
-  recordings/     one file per recorded performance (rostropovich-1991.yaml)
+  recordings/     one file per recorded performance (mstislav-rostropovich-1991.yaml)
+  sources/        source snapshots used for imports, with notes on how they were made
 schema/           JSON Schemas for both file types
 scripts/
-  validate.py     checks every file; runs on each pull request
-  build.py        turns the data into the website (site/index.html)
+  validate.py              checks every file; runs on each pull request
+  build.py                 turns the data into the website (site/index.html)
+  import_musicbrainz.py    creates or updates recording files from a MusicBrainz snapshot
 site-template/    the page design
 ```
 

@@ -1,0 +1,31 @@
+id: maria-kliegel-2003
+performers:
+- name: Maria Kliegel
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2003]
+  place: Phoenix Studios
+released: 2005
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf7e14a8-084d-43ef-8bef-6abeccf0a3a6
+  title: Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b8079656-af91-4aa7-a2a3-d59e7343b69c
+  recordings: [35724282-9433-4af4-a591-79bf3c3d70ce]

@@ -1,0 +1,33 @@
+id: viola-de-hoog-undated
+performers:
+- name: Viola de Hoog
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c76f7019-ecbb-4e51-8c74-07aad183dc7a
+  title: The 6 Cello Suites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ab7507c9-25fb-4fb5-88b0-4781d38c3018
+  recordings: [ab006745-aa2e-4db5-96b1-529f6802d2e8]

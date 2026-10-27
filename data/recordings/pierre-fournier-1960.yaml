@@ -1,0 +1,31 @@
+id: pierre-fournier-1960
+performers:
+- name: Pierre Fournier
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960, 1961]
+  place: Beethovensaal
+released: 1961
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a772e3ad-7b6d-4900-995f-3ce253781f3a
+  title: Sechs Suiten für Violoncello solo, BWV 1007–1012
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8ce5c26a-9b10-4a8b-a41b-f12e58d1066e
+  recordings: [6e67ddf4-a185-410f-ba04-96623f33a3d2]

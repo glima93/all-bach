@@ -1,0 +1,33 @@
+id: kathryn-pirtle-undated
+performers:
+- name: Kathryn Pirtle
+  role: clarinet
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude, Courante, Menuet I & II, Gigue]}
+- {bwv: '1008', complete: false, movements: [Prélude, Gigue]}
+- {bwv: '1009', complete: false, movements: [Allemande, Courante, Bourrée I & II, Gigue]}
+- {bwv: '1010', complete: false, movements: [Prélude, Allemande, Courante, Bourrée I & II, Gigue]}
+- {bwv: '1012', complete: false, movements: [Courante, Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/36620bac-b1f6-417f-b2ed-15ec2f73da0a
+  title: 'Works for Unaccompanied Clarinet: The Music of J.S. Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on clarinet.
+musicbrainz:
+  artist: fe4da93a-b61c-4105-a811-440d49a29e37
+  recordings: [fe848451-e75b-4d31-a5ac-bef851a5832a]

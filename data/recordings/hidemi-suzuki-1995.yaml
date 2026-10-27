@@ -1,0 +1,31 @@
+id: hidemi-suzuki-1995
+performers:
+- name: Hidemi Suzuki
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Lutherse Kerk
+released: 1995
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3281dfd4-94d1-44de-bd1c-ea3044294e96
+  title: 6 Suites a Violoncello Solo Senza Basso, BWV 1007-1012
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b51e876-a2f3-4a32-8289-a223728d3ce4
+  recordings: [8f49510f-7ecb-41f4-8e09-455b6e3955e0]

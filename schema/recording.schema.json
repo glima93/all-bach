@@ -28,7 +28,7 @@
     "instrument": {
       "description": "The instrument actually heard for the main part.",
       "type": "string",
-      "enum": ["cello", "baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "viola", "viola-da-gamba", "violin", "guitar", "lute", "harpsichord", "piano", "organ", "clavichord", "ensemble", "voices-and-instruments", "other"]
+      "enum": ["cello", "baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "viola", "viola-da-gamba", "violin", "guitar", "lute", "harpsichord", "piano", "organ", "clavichord", "ensemble", "voices-and-instruments", "other", "unknown"]
     },
     "performance_practice": {
       "type": "string",
@@ -81,9 +81,9 @@
         "properties": {
           "platform": {
             "type": "string",
-            "enum": ["spotify", "apple-music", "youtube", "youtube-music", "idagio", "qobuz", "tidal", "deezer", "presto", "label", "archive-org", "other"]
+            "enum": ["spotify", "apple-music", "youtube", "youtube-music", "idagio", "qobuz", "tidal", "deezer", "presto", "label", "archive-org", "musicbrainz", "other"]
           },
-          "kind": { "type": "string", "enum": ["album", "track", "playlist", "video", "page"] },
+          "kind": { "type": "string", "enum": ["album", "track", "playlist", "video", "page", "release"] },
           "url": { "type": "string", "pattern": "^https://" },
           "title": { "type": ["string", "null"] }
         }
@@ -93,6 +93,18 @@
       "description": "draft = added but some facts unchecked; reviewed = a second contributor checked the facts against the booklet or label.",
       "type": "string",
       "enum": ["draft", "reviewed"]
+    },
+    "musicbrainz": {
+      "description": "MusicBrainz identifiers this entry was built from or matched to. Lets updates be re-imported without duplicates.",
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "artist": { "type": "string", "pattern": "^[0-9a-f-]{36}$" },
+        "recordings": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[0-9a-f-]{36}$" }
+        }
+      }
     },
     "help_wanted": {
       "description": "Short list of facts still missing, shown on the site to invite contributions.",

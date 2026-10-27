@@ -1,0 +1,28 @@
+id: lynden-cranham-2020
+performers:
+- name: Lynden Cranham
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2020, 2021]
+  place: Church of St Peter & St Mary
+released: 2022
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1011', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/978fb036-2031-4cc8-b3eb-39e613c55832
+  title: 'The Cello Suites, Volume 1: Suites 1, 2 & 5'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 33676bd5-3386-481e-9023-3ecb715c6873
+  recordings: [b214f118-8526-4353-8d63-7507d2e514c3]

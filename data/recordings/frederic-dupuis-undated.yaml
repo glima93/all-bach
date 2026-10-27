@@ -1,0 +1,29 @@
+id: frederic-dupuis-undated
+performers:
+- name: Frédéric Dupuis
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+- {bwv: '1008', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4215ee67-1787-4747-b29a-789f0dcb846a
+  title: Méditation - violoncelle & harpe
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ba8fe3c-9724-442d-b782-122e1a19f3f5
+  recordings: [f2dcd5dd-2256-4ce0-947c-f33633ed1156]

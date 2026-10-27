@@ -1,0 +1,28 @@
+id: timo-veikko-valve-undated
+performers:
+- name: Timo-Veikko Valve
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1011', complete: false, movements: [Prélude, Allemande, Courante, Gavotte I & II, Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a3f73d9b-633e-4d92-accb-c4e6ad177cf9
+  title: Timo-Veikko Valve, Violoncello
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 338738bd-0534-4c2d-90f8-b7e7c0dd9d6b
+  recordings: [5ca9e55a-795d-420e-9d2b-479bba052261]

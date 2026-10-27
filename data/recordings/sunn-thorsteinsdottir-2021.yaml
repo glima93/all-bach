@@ -1,0 +1,31 @@
+id: sunn-thorsteinsdottir-2021
+performers:
+- name: Sæunn Thorsteinsdóttir
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: Sono Luminus Studios
+released: 2023
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85f4e192-c8d8-46e3-bd17-17132f0d9cf8
+  title: Marrow
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6b7dcd4e-7a03-477d-a5c4-5facb1fbc658
+  recordings: [90cdc567-98bb-40c2-8922-3152b732b966]

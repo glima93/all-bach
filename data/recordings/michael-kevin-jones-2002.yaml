@@ -1,0 +1,31 @@
+id: michael-kevin-jones-2002
+performers:
+- name: Michael Kevin Jones
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002]
+  place: Metropolitan Museum of Art
+released: 2014
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55b3b720-f126-44c0-90f8-c03a5bdbf144
+  title: 6 Cello Suites / Michael Kevin Jones, 1667 Stradivarius cello
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 668a237c-8b16-4676-9ccc-45c769edd8cb
+  recordings: [ddf542bd-6914-4c5d-b629-2787170455a0]

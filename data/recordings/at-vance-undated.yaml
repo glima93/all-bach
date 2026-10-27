@@ -1,0 +1,29 @@
+id: at-vance-undated
+performers:
+- name: At Vance
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fcf42a5a-6f8d-4f37-9a11-e37425bdc8f3
+  title: VII
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17828264-0f4a-40b3-bfc5-8544f30debed
+  recordings: [fe117861-4480-4468-ad35-b6c15187a252]

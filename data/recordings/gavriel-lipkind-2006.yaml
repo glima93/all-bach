@@ -1,0 +1,31 @@
+id: gavriel-lipkind-2006
+performers:
+- name: Gavriel Lipkind
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2006]
+  place: Protestant Church of the Parish of Oberursel-Oberstedten
+released: 2006
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c9f33bb-e5b2-4d4d-85f8-5ce2a1dae1be
+  title: 6 Suites A Violoncello Solo Senza Basso
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29975b7d-546a-4d58-8510-2bcbc9144a05
+  recordings: [26e066c1-88d2-4ba7-b4ee-761db54c67c0]

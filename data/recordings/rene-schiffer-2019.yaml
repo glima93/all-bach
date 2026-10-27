@@ -1,0 +1,30 @@
+id: rene-schiffer-2019
+performers:
+- name: René Schiffer
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2019, 2020, 2022]
+  place: St. Paul's Episcopal Church
+released: 2026
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/502a94f7-ad77-44b6-8a53-3c339716517e
+  title: Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d4337198-7e66-473b-b983-4675cd205d21
+  recordings: [7b48bc71-c3cc-44b5-8962-3229da7dcee8]

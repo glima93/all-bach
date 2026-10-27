@@ -1,0 +1,28 @@
+id: guy-danel-undated
+performers:
+- name: Guy Danel
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c8bbef8e-5467-4fda-914e-b3535f998629
+  title: 'Meditation: Classical Moments for Relaxation'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 11b5a478-d484-4cb6-a6a2-3a810123b1e9
+  recordings: [96942fee-15e6-4a01-b326-d6c1b86d3da4]

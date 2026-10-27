@@ -1,0 +1,26 @@
+id: yo-yo-ma-1987
+performers:
+- name: Yo‐Yo Ma
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1987]
+  place: Carnegie Hall
+released: 1988
+original_label: null
+works:
+- {bwv: '1009', complete: false, movements: [Prélude, Sarabande, Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/787c0b2e-26b9-46a7-af6c-62dde83154ca
+  title: Music for Life
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 62fe877d-b7a5-43e8-952e-2610d7614bff
+  recordings: [86c226d8-aa1f-44b9-9023-2fcf30eb39e7]

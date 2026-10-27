@@ -1,0 +1,35 @@
+id: jean-guihen-queyras-2007
+performers:
+- name: Jean-Guihen Queyras
+  role: cello
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2007]
+  place: St. Cyriak
+released: 2007
+original_label: Harmonia Mundi
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: spotify
+  kind: album
+  url: https://open.spotify.com/album/7G7uMmAHmB4qhgOpDzLtF9
+  title: 'J.S. Bach: Complete Cello Suites'
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f473418d-90d0-434e-89be-5e34b624197b
+  title: Cello Suites
+status: draft
+help_wanted:
+- Whether performance_practice should be "modern" (modern cello with a period-informed bow and style)
+notes: null
+musicbrainz:
+  recordings: [7e89e1f4-68c4-43b3-b58c-c358d7a625b5]
+  artist: 6ada7176-3fdb-4015-b1f4-cbefb3bf82d3

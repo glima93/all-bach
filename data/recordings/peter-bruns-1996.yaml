@@ -1,0 +1,31 @@
+id: peter-bruns-1996
+performers:
+- name: Peter Bruns
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Église Saint-Jean-Baptiste de Grenelle
+released: 1997
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c40e434b-a72d-4dbf-9fed-c88b34c199ea
+  title: Bach Cello Suites 1-6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3001df5f-ee1d-4e4b-a2c5-f9d2fad711ce
+  recordings: [915991b0-ff67-4be7-a906-0248765ae400]

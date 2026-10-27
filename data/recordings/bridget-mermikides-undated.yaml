@@ -1,0 +1,29 @@
+id: bridget-mermikides-undated
+performers:
+- name: Bridget Mermikides
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e9d7e4c-cf38-48cc-a434-c03073e8e777
+  title: Let’s All… Make Noise!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dc657684-fc61-4276-bf0f-9a5a95ec3422
+  recordings: [e3f6b557-85fb-4b54-93bd-64e52067f9eb]

@@ -1,0 +1,31 @@
+id: robert-cohen-1990
+performers:
+- name: Robert Cohen
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: Snape Maltings Concert Hall
+released: 1990
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9bf56a35-cde6-4bd1-a895-0c254eeeaf17
+  title: 'The Sound of Snape: The Music of the Maltings'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f52321b7-4c07-4dbc-9559-364e3f551f19
+  recordings: [261f4ac4-727d-4d6a-a03d-cd46313dd0da]

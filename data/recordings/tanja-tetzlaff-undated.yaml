@@ -1,0 +1,30 @@
+id: tanja-tetzlaff-undated
+performers:
+- name: Tanja Tetzlaff
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9f38e99-74b0-4bbc-9adb-7b3f5be2ed9b
+  title: 'Bach: Cello Suites nos. 4-6 / Encke: Cracks / Clouds'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 72990f59-d04f-4adf-83ef-854f0fe80d26
+  recordings: [8128fcbf-dbbb-4b86-a41e-4e61a39ded41]

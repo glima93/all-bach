@@ -1,0 +1,31 @@
+id: joseph-johnson-undated
+performers:
+- name: Joseph Johnson, cello
+  role: performer
+- name: Judith Jaimes, piano
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1009', complete: false, movements: [Bourrée I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a2fd572-6923-46da-81e9-996f6be91fc0
+  title: The Cello Collection Intermediate Level
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 831b581f-1242-4120-b25d-b9f4778ed592
+  recordings: [73c13b61-d5a3-4946-969d-421d964c8fb5]

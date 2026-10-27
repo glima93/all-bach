@@ -1,0 +1,29 @@
+id: somatone-interactive-music-undated
+performers:
+- name: SomaTone Interactive Music
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude, Sarabande]}
+- {bwv: '1009', complete: false, movements: [Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e5122a2-dd71-4abb-8ae2-85ec93e20e0d
+  title: 'Nancy Drew: Music for Mysteries, Volume V'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 671addca-4a3f-46cd-a13a-00f5e5a36e2a
+  recordings: [d6455ece-8581-4c5b-89e0-bcb060db2a00]

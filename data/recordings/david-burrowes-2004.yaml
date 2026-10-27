@@ -1,0 +1,28 @@
+id: david-burrowes-2004
+performers:
+- name: David Burrowes
+  role: cello
+- name: Tim Carey
+  role: grand piano
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2004]
+  place: George Abbott School
+released: 2005
+original_label: null
+works:
+- {bwv: '1008', complete: false, movements: [Courante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/16b6f73d-c698-4ead-80ba-9b7b381e911a
+  title: 'Grade 7 Cello Exam Pieces: Complete Syllabus from 2005'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6239ee3f-a57c-4877-b1c9-cb8dfef7a776
+  recordings: [b416455b-8833-4d7e-961d-389190867868]

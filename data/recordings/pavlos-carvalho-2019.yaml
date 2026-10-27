@@ -1,0 +1,28 @@
+id: pavlos-carvalho-2019
+performers:
+- name: Pavlos Carvalho
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2019]
+  place: Church of St Margaret the Queen
+released: 2022
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5050313a-7b17-4159-9c4d-bbb050b35745
+  title: The Cello Suites, Vol. 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: db0f9f4d-da68-4916-8be7-8ea402bc4542
+  recordings: [a5ee102b-e2da-4fcf-8c13-fb1379b392d6]

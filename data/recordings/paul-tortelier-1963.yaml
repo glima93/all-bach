@@ -1,0 +1,27 @@
+id: paul-tortelier-1963
+performers:
+- name: Paul Tortelier
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1963]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1009', complete: false, movements: [Bourrée I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e3f3c777-b0c2-425c-b470-da735b656f8a
+  title: Paul Tortelier Plays and Conducts
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0664393e-2347-47b7-b30c-bd756e598591
+  recordings: [6ea1f710-d06c-49dd-9984-f40f68611799]

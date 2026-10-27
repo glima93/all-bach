@@ -1,0 +1,29 @@
+id: daniel-yeadon-undated
+performers:
+- name: Daniel Yeadon
+  role: viola da gamba
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5ddc07d3-b036-4119-b023-84f4d38e0669
+  title: 'Classics at the Movies II: Classical Music From the World of Cinema'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6a80f34d-ccc4-46aa-b090-86375d6ed285
+  recordings: [7a60ca3e-3032-4402-b073-c6ec21362823]

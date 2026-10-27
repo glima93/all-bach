@@ -1,0 +1,28 @@
+id: adam-mital-2022
+performers:
+- name: Adam Mital
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2022]
+  place: Reformierte Kirche
+released: 2023
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7273b8e6-7fcb-4ffe-a656-3d23e493f827
+  title: A Harmonious Journey
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2fa62333-e473-4e1a-92d4-375518ea5aa2
+  recordings: [6576d448-8907-4fd5-b09d-93b5d39efa91]

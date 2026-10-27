@@ -1,0 +1,28 @@
+id: jorg-baumann-1982
+performers:
+- name: Jörg Baumann
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1982]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+- {bwv: '1011', complete: false, movements: [Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85567e3f-5fe6-46e7-8154-e7e19c17d4d9
+  title: The Ultimate Collection
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9efb7352-7748-4869-b358-b95376dd6c8b
+  recordings: [2fd4bd96-6f45-42f4-9120-057e720ab33a]

@@ -1,0 +1,28 @@
+id: beatrice-reibel-undated
+performers:
+- name: Béatrice Reibel
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6dd60245-c359-4a09-8d03-854cfd0577b7
+  title: Main Ouverte
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b968f639-5be4-48ac-8119-973717db30f3
+  recordings: [9a7214f2-3629-4b57-8d1f-bc4679560cb3]

@@ -1,0 +1,31 @@
+id: julius-berger-1995
+performers:
+- name: Julius Berger
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Chiesa di San Vigilio
+released: 1997
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4257db3c-b68d-4bc0-8804-998dd598d5d2
+  title: Sechs Suiten für Violoncello solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d619c045-d034-4281-bb53-1ae80b12a5c8
+  recordings: [a3b02d0a-e4df-492b-baa6-4dc9147b05ea]

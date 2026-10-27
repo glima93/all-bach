@@ -1,0 +1,34 @@
+id: yo-yo-ma-1982
+performers:
+- name: Yo-Yo Ma
+  role: cello
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1982]
+  place: Vanguard Studios
+released: 1983
+original_label: CBS Masterworks
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: spotify
+  kind: album
+  url: https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI
+  title: 'Bach: Unaccompanied Cello Suites (Remastered)'
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fe663c53-4765-428a-84bd-70b886f476c4
+  title: The Unaccompanied Cello Suites no. 1 & no. 2
+status: draft
+help_wanted: []
+notes: Ma's first of three complete recordings.
+musicbrainz:
+  artist: 62fe877d-b7a5-43e8-952e-2610d7614bff
+  recordings: [5e506d2e-b849-4ae3-8e23-198a9df5f136]

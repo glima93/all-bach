@@ -1,0 +1,27 @@
+id: fahmi-alqhai-2016
+performers:
+- name: Fahmi Alqhai
+  role: viola da gamba
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [2016]
+  place: Estudio Sputnik
+released: 2017
+original_label: null
+works:
+- {bwv: '1010', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/73be707a-b6b7-4f10-a472-49a3ad00651f
+  title: The Bach Album
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9c59411b-7d7e-4e35-9cdf-12b4ff5702e6
+  recordings: [c5e52b66-9f0c-46c1-8e70-952992619eb4]

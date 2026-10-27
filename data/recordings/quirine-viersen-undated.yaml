@@ -1,0 +1,33 @@
+id: quirine-viersen-undated
+performers:
+- name: Quirine Viersen
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/defc7094-936e-4df7-af2f-0f267493bb24
+  title: 6 Suites a Violoncello Solo senza Basso BWV 1007-1012
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45b65b26-0e2f-4e81-9cda-27a6ff57b536
+  recordings: [7a0bea1e-f032-4fb9-a31e-1bfea12d3b47]

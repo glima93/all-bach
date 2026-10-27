@@ -1,0 +1,31 @@
+id: sonia-wieder-atherton-2018
+performers:
+- name: Sonia Wieder‐Atherton
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018, 2021, 2023]
+  place: Abbaye de Noirlac
+released: 2020
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1bca5456-f015-4da4-a738-6ba1c8cb2e90
+  title: Cello Suites nos. 1 & 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1bd36a15-2078-4a31-aa59-c2c0ab5ac10a
+  recordings: [2c691ed5-c9f6-426d-9fb9-257b6b66670f]

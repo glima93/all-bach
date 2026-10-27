@@ -1,0 +1,32 @@
+id: jorg-metzger-undated
+performers:
+- name: Jörg Metzger
+  role: cello
+- name: The City of Prague Philharmonic Orchestra
+  role: performer
+- name: James Fitzpatrick
+  role: performer
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b973ce6e-d9ff-4e84-a9fc-ba39c6c28948
+  title: 'Top 200 Classics: The Very Best of Classical Music'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c6a91be-ba35-455a-ada6-74cb2fc1b518
+  recordings: [49cae92c-24ec-4a81-85a6-73708c66aa11]

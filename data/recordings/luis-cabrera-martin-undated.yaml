@@ -1,0 +1,29 @@
+id: luis-cabrera-martin-undated
+performers:
+- name: Luis Cabrera Martin
+  role: double bass
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/afb63e80-d371-4db8-8714-743282d3bee0
+  title: Luis Cabrera plays Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on double bass.
+musicbrainz:
+  artist: e4c300df-03b6-49da-9ffd-5ed28b847c0b
+  recordings: [74826787-ef62-497c-8451-35c0d516a269]

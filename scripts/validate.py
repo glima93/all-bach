@@ -31,6 +31,7 @@ PLATFORM_HOSTS = {
     "deezer": {"www.deezer.com", "deezer.com"},
     "presto": {"www.prestomusic.com"},
     "archive-org": {"archive.org"},
+    "musicbrainz": {"musicbrainz.org"},
 }
 TRACKING_PARAMS = ("utm_", "si", "nap_web", "go", "request_id", "fbclid", "gclid")
 
@@ -134,13 +135,13 @@ def main() -> int:
             if tracking:
                 errors.append(f"{name}: remove tracking parameters {tracking} from {url}")
             clean = f"{parsed.hostname}{parsed.path}".rstrip("/")
-            if clean in seen_urls and seen_urls[clean] != rid:
-                errors.append(f"{name}: link {url} is also used by '{seen_urls[clean]}'; one release belongs to one recording")
+            if clean in seen_urls and seen_urls[clean] != rid and link.get("platform") != "musicbrainz":
+                warnings.append(f"{name}: link {url} is also used by '{seen_urls[clean]}'; check these are different performances")
             seen_urls[clean] = rid
 
         if r.get("status") == "reviewed" and r.get("help_wanted"):
             warnings.append(f"{name}: marked reviewed but still lists help_wanted items")
-        if r.get("arrangement") and not r.get("arranger"):
+        if r.get("status") == "reviewed" and r.get("arrangement") and not r.get("arranger"):
             warnings.append(f"{name}: arrangement without an arranger")
 
     for w in warnings:

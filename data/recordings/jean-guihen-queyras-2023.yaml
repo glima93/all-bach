@@ -1,0 +1,31 @@
+id: jean-guihen-queyras-2023
+performers:
+- name: Jean‐Guihen Queyras
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2023]
+  place: Doopsgezinde kerk
+released: 2024
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: false, movements: [Prélude, Allemande, Courante, Gavotte I & II, Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/796aa0c3-caef-4806-bbb9-654bfc879cf0
+  title: Complete Cello Suites (The 2023 Sessions)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ada7176-3fdb-4015-b1f4-cbefb3bf82d3
+  recordings: [b8f8b55f-1ed0-422b-8174-7f3b1c4e6d84]

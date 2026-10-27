@@ -1,0 +1,31 @@
+id: matthias-michael-beckmann-2008
+performers:
+- name: Matthias Michael Beckmann
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008, 2009]
+  place: Dorothea-Porsche-Saal
+released: 2016
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/edda8e8d-3c93-47dd-9d6d-4af1e7c7ccc2
+  title: 6 Cello-Suiten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 33d4d238-a671-454d-b561-8ab5dc559175
+  recordings: [08f54b7c-4eaf-4a33-94ec-bd96e985f4c0]

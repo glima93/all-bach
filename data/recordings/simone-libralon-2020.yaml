@@ -1,0 +1,32 @@
+id: simone-libralon-2020
+performers:
+- name: Simone Libralon
+  role: viola
+instrument: viola
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2020]
+  place: Chiesa Santa Maria Nascente
+released: 2021
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f98fb769-093a-4bb9-a722-6c3230114e76
+  title: Six Suites for Viola Solo, BWV 1007–1012
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 44329c32-c4ed-44d5-9e84-8d55222376e6
+  recordings: [df461190-9fa1-4571-b225-9f2bc556d52e]

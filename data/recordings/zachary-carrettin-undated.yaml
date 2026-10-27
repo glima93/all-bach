@@ -1,0 +1,31 @@
+id: zachary-carrettin-undated
+performers:
+- name: Zachary Carrettin
+  role: viola
+instrument: viola
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a880f6f-987d-4cfb-a00f-1e50c78296f1
+  title: Metamorphosis
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2197d02d-ed0c-4f95-bb98-87388567f68d
+  recordings: [ae6b8ed6-22a3-4e9b-a17e-c359720dc901]

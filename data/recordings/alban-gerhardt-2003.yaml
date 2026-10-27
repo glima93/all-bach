@@ -1,0 +1,27 @@
+id: alban-gerhardt-2003
+performers:
+- name: Alban Gerhardt
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2003]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1011', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf9427ce-7959-47c0-bbb9-3d187923f0c1
+  title: 'Britten: Cello Suite No. 1 / Bach, J.S.: Cello Suite no. 5 / Kodaly: Cello Sonata'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9bc7f71c-e77f-4fbc-8fd2-9bb9eb963c5d
+  recordings: [1340bfeb-4237-4feb-b1ab-f66357e4f550]

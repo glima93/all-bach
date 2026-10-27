@@ -1,0 +1,30 @@
+id: anner-bylsma-undated
+performers:
+- name: Anner Bylsma
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+- {bwv: '1009', complete: false, movements: [Bourrée I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/277816cb-23ba-4243-9bdc-d24accbbdbd7
+  title: 金色のコルダ～primo passo～ クラシック・コレクション -最終セレクション編-
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 68ff4d23-dbd3-459a-a295-df867b8ce9b9
+  recordings: [ef5872b7-f5fe-4717-a7ea-eb63b7ea70b4]

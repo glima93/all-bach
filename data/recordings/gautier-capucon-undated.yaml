@@ -1,0 +1,28 @@
+id: gautier-capucon-undated
+performers:
+- name: Gautier Capuçon
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0cad9b35-98d1-46d7-a720-01790dcf4d04
+  title: Souvenirs
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 03ebaa38-5d45-4347-93a5-1b31e9e7a44c
+  recordings: [8ac333d3-9cad-4e4e-959c-305076ebca6c]

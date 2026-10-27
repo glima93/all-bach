@@ -1,0 +1,34 @@
+id: lillian-fuchs-undated
+performers:
+- name: Lillian Fuchs
+  role: viola
+instrument: viola
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8a2f613a-f07c-4db6-a60f-55bd8547d576
+  title: 'The Fuchs legacy, Volume 1: 6 Suites for Cello Solo played on the Viola'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a96d6231-735f-4f59-93e1-308c2259ed6b
+  recordings: [12375070-3511-4d1d-8622-2b9c3d4ecff3]

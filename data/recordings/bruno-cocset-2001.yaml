@@ -1,0 +1,31 @@
+id: bruno-cocset-2001
+performers:
+- name: Bruno Cocset
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2001]
+  place: Chapelle de l'hôpital Notre-Dame de Bon Secours
+released: 2002
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/94c66660-448c-4ac8-9cfe-3efac224cad8
+  title: 6 Suites a Violoncello Solo senza Basso
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2cacb9dd-2453-4173-8427-b708fe654bf2
+  recordings: [e321cc6c-c385-4ada-8fae-64b80c1954c7]

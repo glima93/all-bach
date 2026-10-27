@@ -1,0 +1,31 @@
+id: steven-isserlis-2005
+performers:
+- name: Steven Isserlis
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2005, 2006]
+  place: Henry Wood Hall
+released: 2007
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8d77583a-eb12-4f28-81d1-ba228fccacb4
+  title: Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f194b541-726e-4201-9773-fa87a5a18cfc
+  recordings: [be0e29c9-b7b7-4bbf-844b-b51d07d7a8f8]

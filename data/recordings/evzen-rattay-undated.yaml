@@ -1,0 +1,30 @@
+id: evzen-rattay-undated
+performers:
+- name: Evžen Rattay
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f12674b-1b69-4162-9c50-60fd05d3e9db
+  title: Suites violoncelle 1 à 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 78a452c9-9753-4667-993a-07b0706e0e7d
+  recordings: [8bcde87a-3deb-42e4-8e70-10fa8b60a366]

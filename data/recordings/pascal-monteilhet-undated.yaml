@@ -1,0 +1,29 @@
+id: pascal-monteilhet-undated
+performers:
+- name: Pascal Monteilhet
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude, Allemande]}
+- {bwv: '1008', complete: false, movements: [Prélude, Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8e17d0c0-bb84-436b-8f18-efe833d9c788
+  title: Klara Serveert
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0e96cb13-6b88-4128-b0f2-55ebb32feaa1
+  recordings: [c3ab0f3f-7ab1-4581-aa71-908c32cdefa0]

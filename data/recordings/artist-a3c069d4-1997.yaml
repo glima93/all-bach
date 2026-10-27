@@ -1,0 +1,28 @@
+id: artist-a3c069d4-1997
+performers:
+- name: 新日本フィルハーモニー交響楽団
+  role: performer
+- name: デリック・イノウエ
+  role: performer
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: オーチャードホール
+released: 1997
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f7e4ba0-2adb-4f57-9418-594e96b01925
+  title: エヴァンゲリオン交響楽
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: a3c069d4-fed9-4289-ac83-5f0d05fed4cf
+  recordings: [bb424dcc-b3b5-4b94-bc15-c2070e240dbd]

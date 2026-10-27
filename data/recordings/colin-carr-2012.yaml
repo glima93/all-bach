@@ -1,0 +1,31 @@
+id: colin-carr-2012
+performers:
+- name: Colin Carr
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: Wigmore Hall
+released: 2012
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/23770793-7042-4048-8e07-32055497c2e8
+  title: Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bbccdd43-641b-417a-a38e-6c2e24578930
+  recordings: [8a309fc3-77d2-4524-8b07-ecffd1534a17]

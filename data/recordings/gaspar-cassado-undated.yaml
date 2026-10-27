@@ -1,0 +1,28 @@
+id: gaspar-cassado-undated
+performers:
+- name: Gaspar Cassadó
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/67a27907-56cd-4cdc-bb88-56f314c57eab
+  title: The Most Essential Classical Music in Movies
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 71271d27-f3ed-4c3e-a4da-9e3a0927b2ce
+  recordings: [e6b58f30-fecb-4d32-8c3e-72540a7e99ce]

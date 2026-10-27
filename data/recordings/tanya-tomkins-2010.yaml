@@ -1,0 +1,31 @@
+id: tanya-tomkins-2010
+performers:
+- name: Tanya Tomkins
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: Green Music Center
+released: 2011
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e758248-4c44-4ffd-b87d-5e4433985bcb
+  title: Six Suites for Unaccompanied Cello
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c109b61-74b7-44c1-85a4-f3dd82a69d5a
+  recordings: [5dbe262c-a9fd-4235-a9a8-66747777f26f]

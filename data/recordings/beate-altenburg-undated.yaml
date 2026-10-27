@@ -1,0 +1,28 @@
+id: beate-altenburg-undated
+performers:
+- name: Beate Altenburg
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c3d9a3c6-3371-4813-b784-a920df70c04d
+  title: Cello Portrait
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e77065de-2484-4df9-89d6-edd865c9e02c
+  recordings: [35b589ee-194c-453b-9fb8-c85b6728f78f]

@@ -1,0 +1,29 @@
+id: jordi-savall-1998
+performers:
+- name: Jordi Savall
+  role: viola da gamba
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [1998]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Gigue]}
+- {bwv: '1010', complete: false, movements: [Bourrée I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee46fb71-5566-48db-a539-fed36af4600b
+  title: Les voix humaines
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9a4bb654-35c5-4c88-8460-39d5bb01aa57
+  recordings: [731c8715-7aec-4ef8-8c8c-d72b6a0fdb7f]

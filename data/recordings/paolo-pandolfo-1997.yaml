@@ -1,0 +1,27 @@
+id: paolo-pandolfo-1997
+performers:
+- name: Paolo Pandolfo
+  role: viola da gamba
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [1997]
+  place: Royal Site of San Lorenzo de El Escorial
+released: 1998
+original_label: null
+works:
+- {bwv: '1010', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/206b0a1b-576f-495e-9cce-0c9f952df2af
+  title: A Solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8c546e4-7c90-4818-9796-8f4bc7d2a7b1
+  recordings: [fc9abec6-4a3e-44cf-9a1d-5f49667107a8]

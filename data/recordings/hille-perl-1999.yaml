@@ -1,0 +1,27 @@
+id: hille-perl-1999
+performers:
+- name: Hille Perl
+  role: viola da gamba
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [1999]
+  place: St. Marien
+released: 1999
+original_label: null
+works:
+- {bwv: '1011', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30d3fc83-d355-45a6-9e62-c8c506530473
+  title: '...per la viola da gamba...'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0e672875-c893-4b15-b68c-6a5beac9462a
+  recordings: [bd30a037-dc76-413f-aaae-88fda7fcfc35]

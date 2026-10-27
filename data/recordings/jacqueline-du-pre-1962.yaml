@@ -1,0 +1,27 @@
+id: jacqueline-du-pre-1962
+performers:
+- name: Jacqueline du Pré
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: BBC Studios
+released: 1989
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee5358cc-213b-4e08-9331-9354ef8e1b83
+  title: Her Early BBC Recordings, Volume 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6e26a58f-63e8-4397-8cb7-b9f46aedfd32
+  recordings: [9751b000-2193-42ce-b8fb-a38b0d6d4657]

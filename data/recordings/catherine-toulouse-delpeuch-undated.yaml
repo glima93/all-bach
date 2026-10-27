@@ -1,0 +1,31 @@
+id: catherine-toulouse-delpeuch-undated
+performers:
+- name: Catherine Toulouse-Delpeuch
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/63182ce5-2018-409b-85c2-dd7afc075591
+  title: Suites pour violoncelle seul
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d358a783-0f8b-4812-8542-c24242fd01f8
+  recordings: [77df3a19-c979-4708-9706-63f07c0b06cd]

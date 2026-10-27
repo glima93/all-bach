@@ -1,0 +1,33 @@
+id: alfia-nakipbekova-undated
+performers:
+- name: Alfia Nakipbekova
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/596b9f8c-5ae5-41b5-9ce6-634cbc0bb3a9
+  title: Six Suites for Solo Cello
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a7f4039f-e573-4fb4-8449-7514fabdc0ce
+  recordings: [14f69982-50c1-44c1-816f-147322afc84c]

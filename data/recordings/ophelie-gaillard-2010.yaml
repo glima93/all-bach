@@ -1,0 +1,31 @@
+id: ophelie-gaillard-2010
+performers:
+- name: Ophélie Gaillard
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: Espace de projection
+released: 2011
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac3476a1-716f-45d1-af0d-d497f7386920
+  title: Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 339ba985-4d0f-484e-86b4-97f11623d00f
+  recordings: [a2bac6e3-82f6-4600-88d1-70f629bf60c1]

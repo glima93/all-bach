@@ -1,0 +1,31 @@
+id: alban-gerhardt-2018
+performers:
+- name: Alban Gerhardt
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018]
+  place: Wyastone Concert Hall
+released: 2019
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e37fc7f-56e1-45c8-91c7-166261092854
+  title: The Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9bc7f71c-e77f-4fbc-8fd2-9bb9eb963c5d
+  recordings: [a267ad15-21f6-426f-8db7-626bc4d3c125]

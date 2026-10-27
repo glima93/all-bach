@@ -1,0 +1,31 @@
+id: pieter-wispelwey-1989
+performers:
+- name: Pieter Wispelwey
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989, 1990]
+  place: Hervormde Kerk
+released: 1990
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8e8e4df7-6c50-4b7a-b4a6-3b95be42351d
+  title: 6 Suites for Cello Solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9e0a084-82ae-4e84-8ff5-a832f720a194
+  recordings: [d1dab820-fb0c-4fee-bbcb-157f5a04d65e]

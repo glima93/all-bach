@@ -1,0 +1,29 @@
+id: artist-b365fc1d-undated
+performers:
+- name: 多井智紀
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/277816cb-23ba-4243-9bdc-d24accbbdbd7
+  title: 金色のコルダ～primo passo～ クラシック・コレクション -最終セレクション編-
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b365fc1d-8420-48a6-8991-75eb77477077
+  recordings: [6581d55b-4dd1-402b-9725-64df3b767b8e]

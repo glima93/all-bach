@@ -1,0 +1,28 @@
+id: zygmunt-kubala-undated
+performers:
+- name: Zygmunt Kubala
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/261c1da4-1caa-4064-acde-ed0db3acc7ae
+  title: Solo ma non abbandonato
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 417cabf7-d04e-480d-9936-8788fbd8e93d
+  recordings: [2182ace3-3912-4a95-8c67-1aab561049c0]

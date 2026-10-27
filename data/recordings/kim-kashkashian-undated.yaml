@@ -1,0 +1,33 @@
+id: kim-kashkashian-undated
+performers:
+- name: Kim Kashkashian
+  role: viola
+instrument: viola
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: The American Academy of Arts and Letters
+released: 2018
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9cd12a22-2263-4ef5-a1ee-c3d2753bc830
+  title: Six Suites for Viola Solo
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fa870f84-178c-4533-9fed-4f034d69e7e8
+  recordings: [ba9278a4-e274-4387-9084-7bb79fcbf0f9]

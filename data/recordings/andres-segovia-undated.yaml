@@ -1,0 +1,31 @@
+id: andres-segovia-undated
+performers:
+- name: Andrés Segovia
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+- {bwv: '1009', complete: false, movements: [Courante, Bourrée I & II]}
+- {bwv: '1012', complete: false, movements: [Gavotte I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2928df3b-e51a-43aa-b42b-57edfb1e2fc3
+  title: Andrés Segovia – Ritratti (I grandi interpreti della classica)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 443aad48-c7e7-476f-96bf-90f123a4829b
+  recordings: [e0269712-4904-43d2-823a-655d0e9998bf]

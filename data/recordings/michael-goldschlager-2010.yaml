@@ -1,0 +1,32 @@
+id: michael-goldschlager-2010
+performers:
+- name: Michael Goldschlager
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92b91ccc-f860-4a17-af11-19992f916431
+  title: The Cello Suites
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 388ccfcc-a9f1-4cce-a97c-8517b67fa961
+  recordings: [c9fe1d3f-5f06-4efb-be83-56028dc9c4c8]

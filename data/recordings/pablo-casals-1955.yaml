@@ -1,0 +1,27 @@
+id: pablo-casals-1955
+performers:
+- name: Pablo Casals
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1955]
+  place: Beethoven-Haus
+released: 2001
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1009', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cb17b1f8-42f8-4760-93e3-6ba3d280e322
+  title: Pablo Casals im Bonner Beethoven-Haus
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 2fcffd9a-f02a-4a2c-8085-6257f918949d
+  recordings: [f7c1d08a-b2ac-40f8-b917-90e38704d177]

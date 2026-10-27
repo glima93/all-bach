@@ -1,0 +1,33 @@
+id: bryndis-halla-gylfadottir-undated
+performers:
+- name: Bryndís Halla Gylfadóttir
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9b60fbe7-b1a1-4d95-b5c2-a33e31daa53a
+  title: Sex svítur fyrir selló
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ce2aa0d-88c0-4b02-8d53-2202ac8cccb7
+  recordings: [446709f7-b494-48b7-9ba6-c96e89eef2f5]

@@ -1,0 +1,34 @@
+id: yo-yo-ma-2017
+performers:
+- name: Yo-Yo Ma
+  role: cello
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2017]
+  place: Mechanics Hall
+released: 2018
+original_label: Sony Classical
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: spotify
+  kind: album
+  url: https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb
+  title: 'Six Evolutions - Bach: Cello Suites'
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bc34376b-a873-4d8e-ae1f-1dd47198d195
+  title: 'Six Evolutions: Bach Cello Suites'
+status: draft
+help_wanted: []
+notes: Released as "Six Evolutions". Ma's second complete set (1997, "Inspired by Bach") still needs a file.
+musicbrainz:
+  artist: 62fe877d-b7a5-43e8-952e-2610d7614bff
+  recordings: [0eafbcad-14ee-4a0e-99fa-7d1296b72962]

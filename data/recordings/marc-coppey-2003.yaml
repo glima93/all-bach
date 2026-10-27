@@ -1,0 +1,31 @@
+id: marc-coppey-2003
+performers:
+- name: Marc Coppey
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2003]
+  place: Espace de projection
+released: 2003
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/54b6047d-8aad-4c32-a164-39ebf3ac18ec
+  title: The Six Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fc9bb0e5-aff9-43e0-b42f-9acf4c844302
+  recordings: [ebcdb120-7310-45e8-a114-e68741f9f878]

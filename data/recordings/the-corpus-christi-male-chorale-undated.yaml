@@ -1,0 +1,29 @@
+id: the-corpus-christi-male-chorale-undated
+performers:
+- name: The Corpus Christi Male Chorale
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Courante, Menuet I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/08aba780-60d6-4047-9589-bca78f1d1621
+  title: A Christmas Collection of Music & Miracles
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 21c53cb5-6132-4c5b-ac5c-3ff84fac6fa6
+  recordings: [5283e442-ad51-438a-ac03-678927d6d400]

@@ -1,0 +1,26 @@
+id: ana-topalovic-2020
+performers:
+- name: Ana Topalovic
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2020]
+  place: 'Wiener Flötenwerkstatt: Eventsaal'
+released: 2022
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/633497cb-6035-4304-925d-ec0d9f951564
+  title: 'Bachiana: A Solo Cello Fantasy'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2d6218e0-695c-4204-8f67-5dc80b0e8c3c
+  recordings: [0cfc18c7-37dd-4270-88ea-0c41b3dcae43]

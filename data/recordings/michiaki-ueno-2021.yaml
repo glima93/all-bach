@@ -1,0 +1,31 @@
+id: michiaki-ueno-2021
+performers:
+- name: Michiaki Ueno
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021, 2022]
+  place: Evangelische Kirche
+released: 2022
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a158e431-559d-4866-93ad-f0701393f0c7
+  title: The Six Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38fe9f4a-8851-4ddb-b742-945450b69339
+  recordings: [4d0493de-8bc5-4b49-abdc-df7d499646db]

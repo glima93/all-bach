@@ -1,0 +1,31 @@
+id: ophelie-gaillard-2000
+performers:
+- name: Ophélie Gaillard
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000, 2001]
+  place: Chateau de Corroy
+released: 2000
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2414982e-9d0d-4ecf-8c07-320eb93ce7a6
+  title: 'Suites a violoncello solo senza basso: 1, 2, 6'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 339ba985-4d0f-484e-86b4-97f11623d00f
+  recordings: [57dc0299-9035-49cc-8589-909302a9f8ab]

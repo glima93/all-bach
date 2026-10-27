@@ -1,0 +1,36 @@
+id: pablo-casals-1936
+performers:
+- name: Pau Casals
+  role: cello
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1936, 1938, 1939]
+  place: London (Abbey Road) and Paris
+released: 1957
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: spotify
+  kind: album
+  url: https://open.spotify.com/album/5zTUkNfRzspEjeGI76sUib
+  title: 'Bach: Cello Suites, BWV 1007 - 1012'
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cfc69eeb-4450-470b-b956-bb0b5633d6a4
+  title: 6 Suiten Für Violoncello / Les 6 Suites Pour Violoncelle / The 6 Cello Suites
+status: draft
+help_wanted:
+- Confirm which suites were recorded in which year and city
+- Original label and catalogue number
+notes: The first complete recording of the suites.
+musicbrainz:
+  artist: 2fcffd9a-f02a-4a2c-8085-6257f918949d
+  recordings: [1b16a7c0-254f-494a-9725-503036db588c]

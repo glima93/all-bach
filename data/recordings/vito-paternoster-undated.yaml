@@ -1,0 +1,28 @@
+id: vito-paternoster-undated
+performers:
+- name: Vito Paternoster
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1012', complete: false, movements: [Gavotte I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/41664fed-5306-4683-9b8b-c52ec2d05d69
+  title: Romantic Dinner Classical Compilation (Magnatune Compilation)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 98ba42c7-bb8e-45bc-9d26-e6dc4d7ec93e
+  recordings: [d102db69-3e7e-4679-b460-0ca3428b63d8]

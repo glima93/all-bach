@@ -1,0 +1,26 @@
+id: yo-yo-ma-2000
+performers:
+- name: Yo‐Yo Ma
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: KCRW Studios
+released: 2001
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1649dd12-d4e4-4a4a-be45-2493275ac167
+  title: Sounds Eclectic
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 62fe877d-b7a5-43e8-952e-2610d7614bff
+  recordings: [f300f575-25e2-450f-9cbe-47bae34416b5]

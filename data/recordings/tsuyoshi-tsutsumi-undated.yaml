@@ -1,0 +1,29 @@
+id: tsuyoshi-tsutsumi-undated
+performers:
+- name: Tsuyoshi Tsutsumi
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude, Allemande, Menuet I & II]}
+- {bwv: '1009', complete: false, movements: [Bourrée I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cfdf8e8a-2cc6-4252-ac46-5869e1ba66f7
+  title: Suzuki Cello School, Volume 8
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c82083d3-0d01-4359-85ac-bc48810d7416
+  recordings: [b48cc409-7920-4283-8a61-f2d41549a72c]

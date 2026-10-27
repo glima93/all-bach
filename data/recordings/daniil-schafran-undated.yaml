@@ -1,0 +1,32 @@
+id: daniil-schafran-undated
+performers:
+- name: Daniil Schafran
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1008', complete: false, movements: [Courante, Sarabande, Menuet I & II, Gigue]}
+- {bwv: '1009', complete: false, movements: [Allemande, Courante, Sarabande, Bourrée I & II, Gigue]}
+- {bwv: '1010', complete: false, movements: [Allemande, Courante, Sarabande, Bourrée I & II, Gigue]}
+- {bwv: '1011', complete: false, movements: [Allemande, Courante, Sarabande, Gavotte I & II, Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/87667635-ca43-43b5-8b22-ae07fae70556
+  title: Suites nos. 2, 3, 4 & 5 for Solo Cello
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a8128e3-959c-4cc9-8cb4-8a6089a7453b
+  recordings: [6c40bd5d-9c07-40df-86ad-41fa4c1253b3]

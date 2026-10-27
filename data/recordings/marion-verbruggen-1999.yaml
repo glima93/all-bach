@@ -1,0 +1,27 @@
+id: marion-verbruggen-1999
+performers:
+- name: Marion Verbruggen
+  role: treble recorder / alto recorder
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1999]
+  place: Campion Center
+released: 2001
+original_label: null
+works:
+- {bwv: '1012', complete: false, movements: [Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/36031547-db22-40d7-a947-865f1a293d93
+  title: Johan Sebastian Bach Suites BWV 1010-1012
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on treble recorder / alto recorder.
+musicbrainz:
+  artist: 358bf6b5-60b7-447f-b311-0d235d08b398
+  recordings: [15f2b77e-de00-4049-96b0-a7751b800135]

@@ -1,0 +1,31 @@
+id: asier-polo-2019
+performers:
+- name: Asier Polo
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2019]
+  place: Collegiate Church of Zenarruza
+released: 2021
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2ee4848-f44e-43ba-89e1-0089ba262288
+  title: Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93643ad4-5f6b-45c9-9470-9827ab0cefd6
+  recordings: [29bb9b8e-55ce-44fb-b3f5-d4e869e5f16e]

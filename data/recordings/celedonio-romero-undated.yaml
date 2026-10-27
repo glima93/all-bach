@@ -1,0 +1,29 @@
+id: celedonio-romero-undated
+performers:
+- name: Celedonio Romero
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1012', complete: false, movements: [Gavotte I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6c6da00b-5d15-42ca-ba0e-e7e89bcb90af
+  title: 'Bach for Babies: Fun and Games for Budding Brains'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 801f98e9-c10f-4a59-91c0-15e8bf75549f
+  recordings: [634f2704-3edc-475f-a602-178243ba924e]

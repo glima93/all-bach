@@ -1,0 +1,31 @@
+id: janos-starker-undated
+performers:
+- name: János Starker
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+- {bwv: '1009', complete: false, movements: [Sarabande]}
+- {bwv: '1012', complete: false, movements: [Gavotte I & II, Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c1746b1e-f778-4b89-8900-b908afa5bbaf
+  title: Classic FM Music For Studying
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8ec9a9fe-3709-43a9-adba-6a1a11b7e7da
+  recordings: [d9c903f8-1635-4871-9267-f8e6204229af]

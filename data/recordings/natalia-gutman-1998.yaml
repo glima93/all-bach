@@ -1,0 +1,28 @@
+id: natalia-gutman-1998
+performers:
+- name: Natalia Gutman
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1009', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c02a6ab6-97a4-481f-8228-9fafb8ec4cbf
+  title: Debussy / Schnittke / Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c863732d-de4e-4154-9a73-f07ef4008f63
+  recordings: [3d9abb58-8fc3-4655-9a8f-83f33246187b]

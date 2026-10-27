@@ -1,0 +1,26 @@
+id: andrei-ionita-2018
+performers:
+- name: Andrei Ioniță
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018]
+  place: Turner Sims Concert Hall
+released: 2019
+original_label: null
+works:
+- {bwv: '1011', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/011df504-521c-41b1-923f-47be40d5578e
+  title: 'BBC Music, Volume 28, Number 2: Bach: Cello Suite No. 5, Keyboard Partita No. 1'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 085d7802-49bd-4f87-a6e1-641c0db8ad14
+  recordings: [c47b3a84-b7dd-4785-b8bc-ff8f8f43ac6e]

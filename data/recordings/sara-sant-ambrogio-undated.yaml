@@ -1,0 +1,33 @@
+id: sara-sant-ambrogio-undated
+performers:
+- name: Sara Sant’Ambrogio
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/21a174a2-9d25-46ad-87bf-17c6641cbd02
+  title: Cello Suites 1 3 5
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 30c51f54-5557-4989-b385-683350334ee6
+  recordings: [83fa6b59-0203-4a2c-9386-86845e242f4b]

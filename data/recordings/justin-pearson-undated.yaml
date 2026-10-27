@@ -1,0 +1,28 @@
+id: justin-pearson-undated
+performers:
+- name: Justin Pearson
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c9dde18-9fd5-4efc-a0c2-196329ad5308
+  title: Chasing the Dragon - Audiophile Recordings by Mike Valentine
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b181587d-1008-46f0-85a6-34befa25e06e
+  recordings: [d47e98c4-63ef-45b2-b823-e063f6cfac06]

@@ -1,0 +1,31 @@
+id: valerie-aimard-2022
+performers:
+- name: Valérie Aimard
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2022]
+  place: Église Notre-Dame
+released: 2023
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3ab39255-a19c-472e-99e0-e9c86b0a1353
+  title: Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38ae345a-b629-407e-b281-6b20e1195c23
+  recordings: [4d51bbec-7fcc-43a6-955a-5dcc06cf0166]

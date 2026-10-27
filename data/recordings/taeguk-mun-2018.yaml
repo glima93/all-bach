@@ -1,0 +1,26 @@
+id: taeguk-mun-2018
+performers:
+- name: Taeguk Mun
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018]
+  place: 'WGBH Studios: Fraser Performance Studio'
+released: 2019
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/568091c6-5eaf-4253-9127-f52d7b1423f5
+  title: 'Songs of the Cello: Homage to Pablo Casals'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f47127a3-5d08-405d-b2ae-345128f88abd
+  recordings: [1bf344a2-1742-4c9a-b3e2-0ac39cf7da29]

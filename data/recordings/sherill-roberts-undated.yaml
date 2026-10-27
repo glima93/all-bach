@@ -1,0 +1,28 @@
+id: sherill-roberts-undated
+performers:
+- name: Sherill Roberts
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/406a7dc6-3337-40b3-b80e-4f8977a3efb8
+  title: Mello Cello
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fa3e6913-109b-4dfa-8af4-8958e9a73d10
+  recordings: [180c0177-77b0-4bf1-9c96-d2f097639c78]

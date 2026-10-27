@@ -1,0 +1,31 @@
+id: hopkinson-smith-undated
+performers:
+- name: Hopkinson Smith
+  role: theorbo
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Courante]}
+- {bwv: '1010', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ebae7ebc-d978-4bb8-a6a7-4a514ca06dd7
+  title: 'Les Diapason d''or : Mars 2013'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on theorbo.
+musicbrainz:
+  artist: dfa6d053-2bd8-4119-9b17-7bb39af0a5a5
+  recordings: [560f0430-213f-4496-a950-8eec84c0c4b0]

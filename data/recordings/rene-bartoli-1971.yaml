@@ -1,0 +1,28 @@
+id: rene-bartoli-1971
+performers:
+- name: René Bartoli
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1971]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1012', complete: false, movements: [Gavotte I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4622c116-1bdf-47cb-ad1e-d44f19f7f9cf
+  title: Recital de guitare
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a88469ee-eee6-48f4-a16a-4d1c70f456a5
+  recordings: [3e9aacad-0e47-44eb-8daf-27a604f1f17d]

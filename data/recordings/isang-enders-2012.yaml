@@ -1,0 +1,31 @@
+id: isang-enders-2012
+performers:
+- name: Isang Enders
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: Teldex Studio
+released: 2014
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: false, movements: [Prélude, Allemande, Courante, Sarabande, Bourrée I & II]}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/620f3213-642c-4043-99ad-0fb858b9a8d5
+  title: Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 13c58775-0c5b-49b0-bc51-12b271683fa5
+  recordings: [1318c022-541b-4a2e-b68c-cd1b205316fd]

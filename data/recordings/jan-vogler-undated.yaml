@@ -1,0 +1,28 @@
+id: jan-vogler-undated
+performers:
+- name: Jan Vogler
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1743b590-585e-4da5-b194-bfb7dd4f527c
+  title: Ich mag keine Klassik, aber das gefällt mir
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0bc61746-9303-43dc-9527-236b61d941da
+  recordings: [253bb6ee-a148-4aec-b66d-53943dc150ba]

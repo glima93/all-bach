@@ -1,0 +1,26 @@
+id: yorick-alexander-abel-2018
+performers:
+- name: Yorick-Alexander Abel
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018]
+  place: Kapelle der Schulschwestern von Unserer Lieben Frau
+released: 2019
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Allemande, Courante, Sarabande, Menuet I & II, Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/21281789-ee15-46ea-a020-005e809a64c3
+  title: Hommage à Pablo Casals
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 486fe441-5cfa-432c-9a97-ab04b8565765
+  recordings: [8d6fea58-5414-448e-a285-0b3607d0af08]

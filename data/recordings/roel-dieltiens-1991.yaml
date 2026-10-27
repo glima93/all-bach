@@ -1,0 +1,31 @@
+id: roel-dieltiens-1991
+performers:
+- name: Roel Dieltiens
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: Doopsgezinde kerk
+released: 2005
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/527ee3b2-8cac-4f24-9ab2-914140c61743
+  title: 6 Suiten für Violoncello
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 97c10a4a-0a09-48bb-bec6-93541438f4d3
+  recordings: [1e934e20-7a36-4027-84c8-f3ebbd68c66e]

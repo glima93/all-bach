@@ -1,0 +1,31 @@
+id: matilda-colliard-2020
+performers:
+- name: Matilda Colliard
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2020]
+  place: Classica Viva Recording Studio
+released: 2021
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude, Allemande, Courante, Menuet I & II, Gigue]}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e8be6541-f2eb-49e8-bb51-319f94ae1a4d
+  title: Complete Suites for Cello Solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a7eeaba6-f1ad-488e-b53f-08edd6191b69
+  recordings: [186b0401-536b-495f-8689-8cbded536359]

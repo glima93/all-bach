@@ -1,0 +1,27 @@
+id: yasunori-imamura-2022
+performers:
+- name: Yasunori Imamura
+  role: theorbo
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2022]
+  place: Katholische Kirche Maria Himmelfahrt
+released: 2025
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/734df93c-ea54-40f0-9b3c-1e352176151d
+  title: 'Cello Suites 1: Nos. 1, 4 and 5'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on theorbo.
+musicbrainz:
+  artist: 9a4c3d70-4556-43fa-9098-25cae4561fd9
+  recordings: [decf62ae-9b95-468c-90b7-863ff1917861]

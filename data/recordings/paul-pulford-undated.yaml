@@ -1,0 +1,30 @@
+id: paul-pulford-undated
+performers:
+- name: Paul Pulford
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/558703bf-4f4b-4b78-8d11-982c66f89077
+  title: Suites for Cello nos. 1, 2 and 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 109d5a0b-86ea-49ca-8d36-82b75eb047d9
+  recordings: [546d4248-3168-407e-979e-3b54fa1295b5]

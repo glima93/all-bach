@@ -1,0 +1,29 @@
+id: rolf-romer-quartet-1999
+performers:
+- name: Rolf Römer Quartet
+  role: performer
+- name: Bill Dobbins
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1999]
+  place: Topaz Studio
+released: 1999
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9380816-f557-40d9-8d60-88200bb59c6a
+  title: A Tribute to B.A.C.H.
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on double bass, saxophone, percussion.
+musicbrainz:
+  artist: f6b58d7b-785b-455b-b586-fd9bd93f4a91
+  recordings: [6291ba77-31b9-44de-957e-7fdc47142b12]

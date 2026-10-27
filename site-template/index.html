@@ -98,8 +98,12 @@ nav.top a[aria-current="page"] { color: var(--ink); }
 .note { padding-block: 18px; color: var(--muted); max-width: 70ch; border-bottom: 1px solid var(--rule); }
 
 .recs-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px; padding-block: 32px 14px; }
-.recs-head h2 { font-family: var(--f-display); font-size: var(--s2); }
-.filters { display: flex; flex-wrap: wrap; gap: 6px; }
+.recs-head h2 { font-family: var(--f-display); font-size: var(--s2); display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.tools { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.search { display: flex; align-items: center; gap: 8px; }
+.search input { font: inherit; font-size: 0.92rem; color: var(--ink); background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 6px 10px; width: 14rem; max-width: 60vw; }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; padding-bottom: 16px; }
+.chip .n { font-family: var(--f-mono); font-weight: 400; opacity: 0.7; margin-left: 2px; }
 .chip { font: 600 var(--s-1)/1 var(--f-body); letter-spacing: 0.02em; padding: 8px 12px; border-radius: 999px; border: 1px solid var(--rule); background: transparent; color: var(--ink); cursor: pointer; }
 .chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .sortbox { display: flex; align-items: center; gap: 8px; font-size: var(--s-1); color: var(--muted); }
@@ -152,7 +156,7 @@ footer.site { margin-top: 56px; padding-top: 16px; border-top: 1px solid var(--r
   </header>
   <main id="app"></main>
   <footer class="site">
-    <span>Catalogued by BWV number. Recording data is open and edited by contributors.</span>
+    <span>Catalogued by BWV number. Recording data is open, edited by contributors, and partly imported from <a href="https://musicbrainz.org" rel="noopener">MusicBrainz</a>.</span>
     <span id="built"></span>
   </footer>
 </div>
@@ -169,12 +173,12 @@ const INSTRUMENT = {
 const PRACTICE = { historical: "Period instruments", modern: "Modern instruments", unknown: "Practice not yet recorded" };
 const PLATFORM = { "spotify": "Spotify", "apple-music": "Apple Music", "youtube": "YouTube", "youtube-music": "YouTube Music",
   "idagio": "Idagio", "qobuz": "Qobuz", "tidal": "Tidal", "deezer": "Deezer", "presto": "Presto Music", "label": "Label page",
-  "archive-org": "Internet Archive", "other": "Link" };
+  "archive-org": "Internet Archive", "musicbrainz": "MusicBrainz", "other": "Link" };
 
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const slug = bwv => bwv.toLowerCase().replace(/anh\.\s?/, "anh-").replace(/\s+/g, "-");
 const app = document.getElementById("app");
-const state = { practice: "all", sort: "year" };
+const state = { kind: "all", sort: "year", q: "" };
 
 function recordingsFor(bwv) {
   return DATA.recordings.filter(r => r.works.some(w => w.bwv === bwv));
@@ -223,9 +227,18 @@ function renderCatalogue() {
 }
 
 function renderWork(w) {
-  let recs = recordingsFor(w.bwv);
-  const practices = [...new Set(recs.map(r => r.performance_practice))];
-  if (state.practice !== "all") recs = recs.filter(r => r.performance_practice === state.practice);
+  const all = recordingsFor(w.bwv);
+  const partOf = r => r.works.find(x => x.bwv === w.bwv);
+  const kinds = {
+    all: () => true,
+    complete: r => !r.arrangement && partOf(r).complete,
+    excerpt: r => !r.arrangement && !partOf(r).complete,
+    period: r => r.performance_practice === "historical",
+    arrangement: r => r.arrangement,
+  };
+  const count = k => all.filter(kinds[k]).length;
+  const q = state.q.trim().toLowerCase();
+  let recs = all.filter(kinds[state.kind]).filter(r => !q || r.performers.some(p => p.name.toLowerCase().includes(q)));
   recs = recs.slice().sort((a, b) => {
     if (state.sort === "performer") return a.performers[0].name.localeCompare(b.performers[0].name);
     const ya = firstYear(a), yb = firstYear(b);
@@ -233,7 +246,7 @@ function renderWork(w) {
     if (ya === null) return 1; if (yb === null) return -1;
     return ya - yb;
   });
-  const chip = (val, text) => `<button class="chip" type="button" data-practice="${val}" aria-pressed="${state.practice === val}">${text}</button>`;
+  const chip = (val, text) => count(val) ? `<button class="chip" type="button" data-kind="${val}" aria-pressed="${state.kind === val}">${text} <span class="n">${count(val)}</span></button>` : "";
   const links = [];
   if (w.links && w.links.wikipedia) links.push(`<a href="${esc(w.links.wikipedia)}" rel="noopener">Wikipedia</a>`);
   if (w.links && w.links.bach_digital) links.push(`<a href="${esc(w.links.bach_digital)}" rel="noopener">Bach Digital</a>`);
@@ -253,11 +266,11 @@ function renderWork(w) {
   </dl>
   ${w.notes ? `<p class="note">${esc(w.notes)}</p>` : ""}
   <div class="recs-head">
-    <h2>Recordings</h2>
-    <div class="filters" role="group" aria-label="Filter by performance practice">
-      ${chip("all", "All")}
-      ${practices.includes("historical") ? chip("historical", "Period") : ""}
-      ${practices.includes("modern") ? chip("modern", "Modern") : ""}
+    <h2>Recordings <span class="label mono">${recs.length} of ${all.length}</span></h2>
+    <div class="tools">
+      <label class="search" for="q"><span class="label">Performer</span>
+        <input id="q" type="search" placeholder="Search by name" value="${esc(state.q)}" autocomplete="off">
+      </label>
       <label class="sortbox" for="sort">Sort
         <select id="sort">
           <option value="year"${state.sort === "year" ? " selected" : ""}>By year</option>
@@ -266,14 +279,18 @@ function renderWork(w) {
       </label>
     </div>
   </div>
-  ${recs.length ? `<ul class="recs">${recs.map(r => renderRec(r, w)).join("")}</ul>` : `<p class="empty">No recordings match this filter.</p>`}`;
+  <div class="filters" role="group" aria-label="Filter recordings">
+    ${chip("all", "All")}${chip("complete", "Complete suite")}${chip("excerpt", "Excerpts")}${chip("period", "Period instruments")}${chip("arrangement", "Other instruments")}
+  </div>
+  ${recs.length ? `<ul class="recs">${recs.map(r => renderRec(r, w)).join("")}</ul>` : `<p class="empty">No recordings match. Try another filter or name.</p>`}`;
 }
 
 function renderRec(r, w) {
   const part = r.works.find(x => x.bwv === w.bwv);
   const yl = yearLabel(r);
   const where = [r.recorded && r.recorded.place, r.original_label].filter(Boolean).join(" · ");
-  const tags = [`<span class="tag">${esc(INSTRUMENT[r.instrument] || r.instrument)}</span>`];
+  const tags = [];
+  if (r.instrument !== "unknown") tags.push(`<span class="tag">${esc(INSTRUMENT[r.instrument] || r.instrument)}</span>`);
   if (r.performance_practice !== "unknown") tags.push(`<span class="tag">${esc(PRACTICE[r.performance_practice])}</span>`);
   if (r.arrangement) tags.push(`<span class="tag">Arrangement${r.arranger ? " · " + esc(r.arranger) : ""}</span>`);
   if (part && !part.complete) tags.push(`<span class="tag">Excerpt: ${esc(part.movements.join(", "))}</span>`);
@@ -349,15 +366,24 @@ function route() {
 }
 
 app.addEventListener("click", e => {
-  const b = e.target.closest("[data-practice]");
+  const b = e.target.closest("[data-kind]");
   if (!b) return;
-  state.practice = b.dataset.practice;
+  state.kind = b.dataset.kind;
   route();
+  document.querySelector(`[data-kind="${state.kind}"]`)?.focus();
 });
 app.addEventListener("change", e => {
   if (e.target.id === "sort") { state.sort = e.target.value; route(); document.getElementById("sort").focus(); }
 });
-window.addEventListener("hashchange", () => { state.practice = "all"; route(); window.scrollTo(0, 0); });
+app.addEventListener("input", e => {
+  if (e.target.id !== "q") return;
+  const pos = e.target.selectionStart;
+  state.q = e.target.value;
+  route();
+  const q = document.getElementById("q");
+  q.focus(); q.setSelectionRange(pos, pos);
+});
+window.addEventListener("hashchange", () => { state.kind = "all"; state.q = ""; route(); window.scrollTo(0, 0); });
 document.getElementById("built").textContent = DATA.built ? "Data updated " + DATA.built : "";
 route();
 </script>

@@ -1,0 +1,31 @@
+id: julia-maclaine-2021
+performers:
+- name: Julia MacLaine
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: Église Saint-Augustin
+released: 2022
+original_label: null
+works:
+- {bwv: '1007', complete: false, movements: [Prélude]}
+- {bwv: '1008', complete: false, movements: [Prélude]}
+- {bwv: '1009', complete: false, movements: [Prélude]}
+- {bwv: '1010', complete: false, movements: [Prélude]}
+- {bwv: '1011', complete: false, movements: [Prélude]}
+- {bwv: '1012', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15bde6af-da84-4d08-abd0-a2dc3e526cd2
+  title: Preludes
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4db4c17f-59f8-4a45-afa4-b7be323ff0a4
+  recordings: [66f1df61-4667-4d69-b821-0ed6a3e933f7]

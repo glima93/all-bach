@@ -1,0 +1,31 @@
+id: paolo-beschi-1996
+performers:
+- name: Paolo Beschi
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Villa Medici-Giulini
+released: 1997
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bcb1ad77-addb-4544-83db-12405c5a1229
+  title: Violoncello Solo Suites I, II, III
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 440deade-855e-42bd-a15b-6f50c3197816
+  recordings: [3e4fe5d0-4a37-4b6b-8e0f-9aa8b4fca81d]

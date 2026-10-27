@@ -1,0 +1,33 @@
+id: karine-georgian-undated
+performers:
+- name: Karine Georgian
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b94b5341-bfb6-4a6c-a0dc-f6bdbf0f738d
+  title: Six Suites for Solo Cello - Three Sonatas for viola da gamba & harpsichord
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f591ea72-4576-4073-8b17-e4f592e2da6a
+  recordings: [c169004d-8f27-4b2f-9835-39afc451578b]

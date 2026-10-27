@@ -1,0 +1,29 @@
+id: maurice-andre-1977
+performers:
+- name: Maurice André
+  role: trumpet
+- name: Jane Parker‐Smith
+  role: organ
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1977]
+  place: Église protestante Saint-Pierre-le-Jeune
+released: 1987
+original_label: null
+works:
+- {bwv: '1010', complete: false, movements: [Bourrée I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/929f1d1e-772e-49fc-af3d-d8ed4a9c7a85
+  title: Trumpet & Organ - Trompete & Orgel - Trompette & Orgue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on trumpet, organ.
+musicbrainz:
+  artist: 24568d6a-34bb-44a0-8379-423709aa8ef0
+  recordings: [d327aa4e-38ae-4767-8716-4a6ed22eaf40]

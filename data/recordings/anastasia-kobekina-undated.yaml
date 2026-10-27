@@ -1,0 +1,37 @@
+id: anastasia-kobekina-undated
+performers:
+- name: Anastasia Kobekina
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Théâtre Saint-Bonnet
+released: 2025
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: spotify
+  kind: album
+  url: https://open.spotify.com/album/1AxgfOUwe0LCmQiwxElEzb
+  title: 'Bach: Cello Suites'
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a67fff73-1c1a-4fb2-859d-dffe4615b6c5
+  title: Cello Suites
+status: draft
+help_wanted:
+- Check that all six suites are on the album
+- Instrument and performance practice
+- Recording and release year, label
+notes: null
+musicbrainz:
+  artist: 8f985a30-7eb1-4d40-8969-ac31e2c98a4e
+  recordings: [236f61e9-d216-4600-89b7-183fbcedda32]

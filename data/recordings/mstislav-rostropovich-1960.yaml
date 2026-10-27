@@ -1,0 +1,27 @@
+id: mstislav-rostropovich-1960
+performers:
+- name: Mstislav Rostropovich
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1011', complete: false, movements: [Prélude, Allemande, Courante, Sarabande, Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cde625bd-6537-48e0-ba9d-ff48b01ed101
+  title: 'Historic Russian Archives: Mstislav Rostropovich Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: e2b294b7-f705-4317-a96b-fd94da3719e5
+  recordings: [2b1c50b6-f6f2-4ec3-bde6-111d8df194ee]

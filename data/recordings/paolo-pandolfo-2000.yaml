@@ -1,0 +1,33 @@
+id: paolo-pandolfo-2000
+performers:
+- name: Paolo Pandolfo
+  role: viola da gamba
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [2000]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1c1326b7-fff9-40fb-a932-b0544941bd4e
+  title: The Six Suites
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8c546e4-7c90-4818-9796-8f4bc7d2a7b1
+  recordings: [c72c3868-f60d-49cf-bde5-686b84b990f0]

@@ -1,0 +1,26 @@
+id: astrig-siranossian-2022
+performers:
+- name: Astrig Siranossian
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2022]
+  place: Teldex Studio
+released: 2022
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4a43b6b6-7bcc-4546-8785-ecc4da23e229
+  title: Duo Solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1b29608b-6ab4-4f4a-ab01-f6863d72b782
+  recordings: [fef070c3-bddc-4ec6-ace7-eba16dbbd5e9]

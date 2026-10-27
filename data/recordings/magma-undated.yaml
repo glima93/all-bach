@@ -1,0 +1,28 @@
+id: magma-undated
+performers:
+- name: Magma
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Le Triton
+released: 2006
+original_label: null
+works:
+- {bwv: '1009', complete: false, movements: [Courante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a30a075a-7a1d-413c-9de6-9ab5d15fe292
+  title: Mythes et légendes, volume II
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on electric bass guitar.
+musicbrainz:
+  artist: 7f89e84d-4c35-4d53-a965-4f3ce1c4ef4f
+  recordings: [b6fcf73e-d022-4217-ac05-5fc23fc38a6e]

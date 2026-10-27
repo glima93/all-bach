@@ -1,0 +1,29 @@
+id: nata-belkin-undated
+performers:
+- name: Nata Belkin
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1008', complete: false, movements: [Prélude]}
+- {bwv: '1011', complete: false, movements: [Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3a5a9f7a-3cc1-4822-af99-1d9546fe7a83
+  title: 'Violoncello: A. Vivaldi, J. S. Bach, Z. Kodály'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b2ef31f2-84d5-4cc4-b669-4be6c0a96d74
+  recordings: [3cfdad52-c836-4129-901f-be450e6a7be8]

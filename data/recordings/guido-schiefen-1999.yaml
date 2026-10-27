@@ -1,0 +1,31 @@
+id: guido-schiefen-1999
+performers:
+- name: Guido Schiefen
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Tonstudio van Geest
+released: 1996
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c756aef6-bd7f-4b94-92ad-efe239bf7087
+  title: Cello Suites BWV 1007-1012
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 42947d15-b201-4e01-989b-28220fe9ceaf
+  recordings: [e5371209-86b2-4ad3-934a-de3526d6c85c]

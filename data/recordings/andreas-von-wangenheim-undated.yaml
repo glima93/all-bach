@@ -1,0 +1,28 @@
+id: andreas-von-wangenheim-undated
+performers:
+- name: Andreas von Wangenheim
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Kolosseum
+released: 1999
+original_label: null
+works:
+- {bwv: '1008', complete: false, movements: [Allemande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/63eb3fcd-85ed-4f0b-aa68-ff45d5e21c3f
+  title: Six Cello-Suites for Guitar
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62f7078d-8e7f-437a-bd9f-a054b0cf69bd
+  recordings: [8336c9f7-ebb0-4b04-9c07-32fd33c4c235]

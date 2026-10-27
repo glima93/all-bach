@@ -1,0 +1,31 @@
+id: alexander-rudin-2000
+performers:
+- name: Alexander Rudin
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: 'Moscow Conservatory: The Small Hall'
+released: 2002
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a4cc801a-1e43-49a8-925c-0b03f39964b7
+  title: High Fidelity Reference CD No. 70
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0387ca46-0de0-452c-8a5d-54cc7e87dc97
+  recordings: [972617a2-6b35-4157-a070-297d3dde74d3]

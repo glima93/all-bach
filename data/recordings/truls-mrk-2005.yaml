@@ -1,0 +1,31 @@
+id: truls-mrk-2005
+performers:
+- name: Truls Mørk
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2005]
+  place: Ris kirke
+released: 2005
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cabe1717-95da-4270-bc50-5f5e56453345
+  title: Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6b615abc-3b9b-4064-97ea-25f8079ff21b
+  recordings: [f501cbf9-4f7b-4cc3-8309-a309d1e9a81d]

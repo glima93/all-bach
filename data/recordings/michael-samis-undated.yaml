@@ -1,0 +1,28 @@
+id: michael-samis-undated
+performers:
+- name: Michael Samis
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1008', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/20610e6b-ba7d-44dc-9309-8ba583dd3f37
+  title: '[promotional EP]'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 90a47d5f-0f44-4f99-a9e2-8cdd32be662b
+  recordings: [3bf08260-74d8-471c-ab1e-0eeca7fde746]

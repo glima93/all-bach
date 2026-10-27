@@ -1,0 +1,33 @@
+id: bion-tsang-undated
+performers:
+- name: Bion Tsang
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: false, movements: [Prélude, Courante, Sarabande, Gavotte I & II, Gigue]}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d6f92689-216f-4f7e-8d42-0d429ded86bd
+  title: Cello Suites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a70d066-fe68-4fd2-be91-597c914ff764
+  recordings: [a5bff94d-0950-4382-bc90-005e5bf9acf4]

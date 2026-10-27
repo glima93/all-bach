@@ -1,0 +1,30 @@
+id: daniil-schafran-1970
+performers:
+- name: Daniil Schafran
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970, 1971]
+  place: Всесоюзная студия грамзаписи
+released: 1975
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: false, movements: [Prélude, Allemande]}
+- {bwv: '1009', complete: false, movements: [Prélude]}
+- {bwv: '1010', complete: false, movements: [Prélude]}
+- {bwv: '1011', complete: false, movements: [Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/25301c72-b36c-4ba2-ae03-6b0d69359fcf
+  title: Suiten für Violoncello solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a8128e3-959c-4cc9-8cb4-8a6089a7453b
+  recordings: [866bb67f-f187-48da-b65b-385c4cd7dfb8]

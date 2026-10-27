@@ -1,0 +1,33 @@
+id: jan-sciffer-undated
+performers:
+- name: Jan Sciffer
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/814c5ada-d2e6-4627-965e-9e3c386692d1
+  title: '6 Suiten für Violoncello Solo BWV1007-1012 / Encore: 3. Suite für Violoncello und Klavier'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5f1bc265-aaa4-4abe-bf69-12bdd4d38ad2
+  recordings: [64747757-25bd-4480-a082-e1bc0044963a]

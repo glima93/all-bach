@@ -1,0 +1,29 @@
+id: pepe-romero-undated
+performers:
+- name: Pepe Romero
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1009', complete: false, movements: [Sarabande, Bourrée I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3a535cae-0a61-4b74-aee9-f1e15f23df1d
+  title: 'Bach at Bedtime: Lullabies for the Still of the Night'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b3620030-fdea-4cf4-b9b0-cb5121451e53
+  recordings: [8c0cbd13-58e9-454d-ad0f-c01306c83592]

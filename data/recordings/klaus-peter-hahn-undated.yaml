@@ -1,0 +1,33 @@
+id: klaus-peter-hahn-undated
+performers:
+- name: Klaus-Peter Hahn
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bdc86b65-489d-4107-8e73-b9509d5924b4
+  title: 'The World''s Greatest Composers: Bach (Collector''s Edition)'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ba7514f9-f8ef-4fd1-8313-ba8efb83a10c
+  recordings: [f7fa15cd-5e3b-42cf-b4e0-aca08d215ec2]

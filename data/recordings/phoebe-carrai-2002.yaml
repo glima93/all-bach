@@ -1,0 +1,31 @@
+id: phoebe-carrai-2002
+performers:
+- name: Phoebe Carrai
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002]
+  place: Crear
+released: 2003
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3b82f947-d223-4f8c-88f9-99af8ac5518a
+  title: Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9b6c0362-2ca3-4054-aec6-6342bf8a2513
+  recordings: [7c13f61c-ea61-4ce3-9a28-8a3d78d7b37a]

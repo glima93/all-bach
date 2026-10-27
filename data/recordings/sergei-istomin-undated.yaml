@@ -1,0 +1,33 @@
+id: sergei-istomin-undated
+performers:
+- name: Sergei Istomin
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1007', complete: true}
+- {bwv: '1008', complete: true}
+- {bwv: '1009', complete: true}
+- {bwv: '1010', complete: true}
+- {bwv: '1011', complete: true}
+- {bwv: '1012', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c426208-9e33-46b7-a529-3fb8cf0bd762
+  title: Six Suites for Solo Cello
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a42d3946-26ad-4f9f-a74f-3c95770f8791
+  recordings: [106dceff-9118-455a-b449-ab4fbeae464a]
