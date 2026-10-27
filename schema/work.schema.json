@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/all-bach/all-bach/schema/work.schema.json",
+  "title": "Work",
+  "description": "One entry in the BWV catalogue. One file per BWV number in data/works/.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["bwv", "title", "collection", "genre", "scoring", "movements"],
+  "properties": {
+    "bwv": {
+      "description": "BWV number as a string, so variants (1046a) and appendix numbers (Anh. 3) fit.",
+      "type": "string",
+      "pattern": "^(Anh\\. ?)?[0-9]{1,4}(\\.[0-9]+)?[a-z]?$"
+    },
+    "variant_of": {
+      "description": "For alternative versions: the BWV number of the main work.",
+      "type": "string"
+    },
+    "title": { "type": "string", "minLength": 3 },
+    "key": { "type": ["string", "null"] },
+    "collection": {
+      "description": "Group shown on the catalogue page, e.g. 'Six Suites for Violoncello solo'.",
+      "type": "string"
+    },
+    "genre": {
+      "type": "string",
+      "enum": ["cantata", "motet", "mass", "passion", "oratorio", "chorale", "song", "organ", "keyboard", "lute", "chamber", "solo-instrumental", "orchestral", "canon", "other"]
+    },
+    "scoring": { "type": "string" },
+    "composed": { "type": ["string", "null"] },
+    "movements": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string" }
+    },
+    "notes": { "type": ["string", "null"] },
+    "links": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "bach_digital": { "type": ["string", "null"], "pattern": "^https://" },
+        "wikipedia": { "type": ["string", "null"], "pattern": "^https://" },
+        "imslp": { "type": ["string", "null"], "pattern": "^https://" }
+      }
+    }
+  }
+}

@@ -1,0 +1,363 @@
+<title>All Bach</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="An open, BWV-ordered archive of recordings of Johann Sebastian Bach, with links to where each can be heard.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gloock&family=IBM+Plex+Mono:wght@400;500&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+/* Layout: a catalogue ledger. The BWV number is the identity of every page; works list
+   like an index, each work opens to a sheet with its recordings beneath. */
+:root {
+  --paper: #f1f2ee;
+  --sheet: #fbfbf8;
+  --ink: #1b2130;
+  --muted: #5b6273;
+  --rule: #d6d9d0;
+  --prussian: #1f4a78;
+  --prussian-soft: #e2e9f1;
+  --draft: #8a5a12;
+  --draft-soft: #f6ead3;
+  --focus: #2f6db0;
+  --f-display: "Gloock", "Iowan Old Style", Georgia, serif;
+  --f-body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --s-1: 0.8125rem; --s0: 1rem; --s1: 1.25rem; --s2: 1.75rem; --s3: 2.75rem; --s4: clamp(4rem, 14vw, 8.5rem);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #12161d; --sheet: #181d26; --ink: #e5e7eb; --muted: #9aa1b0; --rule: #2b3240;
+    --prussian: #8fb6e3; --prussian-soft: #1d2b3d; --draft: #e3b467; --draft-soft: #33281a; --focus: #9cc2f0;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #12161d; --sheet: #181d26; --ink: #e5e7eb; --muted: #9aa1b0; --rule: #2b3240;
+  --prussian: #8fb6e3; --prussian-soft: #1d2b3d; --draft: #e3b467; --draft-soft: #33281a; --focus: #9cc2f0;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--paper); color: var(--ink);
+  font-family: var(--f-body); font-size: var(--s0); line-height: 1.55;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+.wrap { max-width: 980px; margin: 0 auto; padding-block: 28px 64px; }
+a { color: var(--prussian); text-underline-offset: 3px; }
+a:focus-visible, button:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; border-radius: 3px; }
+h1, h2, h3 { text-wrap: balance; margin: 0; font-weight: 400; }
+.mono { font-family: var(--f-mono); font-variant-numeric: tabular-nums; }
+.label { font-size: var(--s-1); text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); font-weight: 600; }
+
+/* masthead */
+.mast { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 12px 24px; padding-bottom: 18px; border-bottom: 1px solid var(--rule); }
+.brand { font-family: var(--f-display); font-size: var(--s2); color: var(--ink); text-decoration: none; letter-spacing: -0.01em; }
+.brand span { color: var(--prussian); }
+nav.top { display: flex; gap: 20px; font-size: var(--s-1); font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; }
+nav.top a { color: var(--muted); text-decoration: none; }
+nav.top a[aria-current="page"] { color: var(--ink); }
+
+/* catalogue home */
+.lede { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 24px; align-items: end; padding-block: 40px 32px; }
+.lede h1 { font-family: var(--f-display); font-size: var(--s3); line-height: 1.05; max-width: 16ch; }
+.lede p { color: var(--muted); max-width: 58ch; margin: 14px 0 0; }
+.tally { display: flex; gap: 28px; }
+.tally div { display: grid; }
+.tally b { font-family: var(--f-display); font-weight: 400; font-size: var(--s2); line-height: 1; }
+@media (max-width: 640px) { .lede { grid-template-columns: 1fr; } }
+
+.collection { margin-top: 8px; }
+.collection header { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 16px; align-items: baseline; padding-bottom: 10px; border-bottom: 2px solid var(--ink); }
+.collection h2 { font-family: var(--f-display); font-size: var(--s1); }
+.index { list-style: none; margin: 0; padding: 0; }
+.index a { display: grid; grid-template-columns: 4.5rem minmax(0, 1fr) auto; gap: 16px; align-items: baseline; padding: 14px 4px; border-bottom: 1px solid var(--rule); color: inherit; text-decoration: none; }
+.index a:hover { background: var(--sheet); }
+.index .num { font-family: var(--f-mono); font-size: var(--s1); color: var(--prussian); }
+.index .t { min-width: 0; }
+.index .t strong { font-weight: 600; }
+.index .t span { color: var(--muted); }
+.index .c { font-size: var(--s-1); color: var(--muted); white-space: nowrap; }
+.index .c b { color: var(--ink); font-family: var(--f-mono); font-weight: 500; }
+.coming { margin-top: 36px; padding: 18px 20px; border: 1px dashed var(--rule); border-radius: 6px; color: var(--muted); font-size: 0.95rem; }
+
+/* work sheet */
+.back { display: inline-block; margin-top: 24px; font-size: var(--s-1); font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; text-decoration: none; }
+.sheet { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 8px 36px; align-items: end; padding-block: 18px 30px; border-bottom: 2px solid var(--ink); }
+.bwv { font-family: var(--f-display); font-size: var(--s4); line-height: 0.85; color: var(--prussian); letter-spacing: -0.02em; }
+.bwv small { display: block; font-family: var(--f-mono); font-size: var(--s-1); letter-spacing: 0.12em; color: var(--muted); margin-bottom: 10px; }
+.sheet h1 { font-family: var(--f-display); font-size: var(--s3); line-height: 1.05; }
+.sheet .key { font-size: var(--s1); color: var(--muted); margin-top: 6px; }
+@media (max-width: 640px) { .sheet { grid-template-columns: 1fr; } }
+
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px 32px; padding-block: 24px; border-bottom: 1px solid var(--rule); }
+.facts dd { margin: 4px 0 0; }
+.movements { display: flex; flex-wrap: wrap; gap: 6px 4px; margin: 6px 0 0; padding: 0; list-style: none; }
+.movements li { white-space: nowrap; }
+.movements li:not(:last-child)::after { content: "·"; color: var(--muted); margin-left: 4px; }
+.note { padding-block: 18px; color: var(--muted); max-width: 70ch; border-bottom: 1px solid var(--rule); }
+
+.recs-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 12px; padding-block: 32px 14px; }
+.recs-head h2 { font-family: var(--f-display); font-size: var(--s2); }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font: 600 var(--s-1)/1 var(--f-body); letter-spacing: 0.02em; padding: 8px 12px; border-radius: 999px; border: 1px solid var(--rule); background: transparent; color: var(--ink); cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+.sortbox { display: flex; align-items: center; gap: 8px; font-size: var(--s-1); color: var(--muted); }
+.sortbox select { font: inherit; color: var(--ink); background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 6px 8px; }
+
+.recs { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.rec { display: grid; grid-template-columns: 6.5rem minmax(0, 1fr) auto; gap: 6px 20px; padding: 18px 20px; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; }
+.rec .yr { font-family: var(--f-mono); font-size: var(--s1); line-height: 1.2; }
+.rec .yr.unknown { color: var(--muted); font-size: var(--s0); }
+.rec .who { min-width: 0; }
+.rec .who h3 { font-family: var(--f-body); font-weight: 600; font-size: 1.075rem; }
+.rec .meta { color: var(--muted); font-size: 0.92rem; }
+.tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+.tag { font-size: 0.75rem; font-weight: 600; letter-spacing: 0.04em; padding: 3px 8px; border-radius: 4px; background: var(--prussian-soft); color: var(--prussian); }
+.tag.draft { background: var(--draft-soft); color: var(--draft); }
+.listen { display: flex; flex-direction: column; gap: 6px; align-items: flex-end; }
+.listen a { display: inline-flex; align-items: center; gap: 8px; font-size: 0.875rem; font-weight: 600; text-decoration: none; padding: 7px 12px; border: 1px solid var(--prussian); border-radius: 6px; white-space: nowrap; }
+.listen a:hover { background: var(--prussian-soft); }
+.listen a span { font-weight: 400; color: var(--muted); }
+details.help { grid-column: 2 / -1; font-size: 0.9rem; }
+details.help summary { cursor: pointer; color: var(--draft); font-weight: 600; }
+details.help ul { margin: 8px 0 0; padding-left: 1.2em; color: var(--muted); }
+@media (max-width: 640px) {
+  .rec { grid-template-columns: minmax(0, 1fr); }
+  .listen { align-items: flex-start; flex-direction: row; flex-wrap: wrap; }
+  details.help { grid-column: 1; }
+}
+.empty { padding: 24px; color: var(--muted); text-align: center; border: 1px dashed var(--rule); border-radius: 6px; }
+
+/* contribute */
+.prose { max-width: 68ch; padding-block: 36px; }
+.prose h1 { font-family: var(--f-display); font-size: var(--s3); line-height: 1.05; margin-bottom: 18px; }
+.prose h2 { font-family: var(--f-display); font-size: var(--s1); margin: 30px 0 8px; }
+.prose ol { padding-left: 1.3em; }
+.prose li { margin-bottom: 6px; }
+.prose code { font-family: var(--f-mono); font-size: 0.88em; background: var(--sheet); border: 1px solid var(--rule); padding: 1px 5px; border-radius: 4px; }
+pre.yaml { font-family: var(--f-mono); font-size: 0.85rem; line-height: 1.6; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 16px; overflow-x: auto; }
+
+footer.site { margin-top: 56px; padding-top: 16px; border-top: 1px solid var(--rule); font-size: var(--s-1); color: var(--muted); display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; }
+@media (prefers-reduced-motion: no-preference) { .view { animation: rise 0.25s ease-out; } @keyframes rise { from { transform: translateY(4px); } } }
+</style>
+
+<div class="wrap">
+  <header class="mast">
+    <a class="brand" href="#">All <span>Bach</span></a>
+    <nav class="top" aria-label="Main">
+      <a href="#" id="nav-cat">Catalogue</a>
+      <a href="#contribute" id="nav-con">Contribute</a>
+    </nav>
+  </header>
+  <main id="app"></main>
+  <footer class="site">
+    <span>Catalogued by BWV number. Recording data is open and edited by contributors.</span>
+    <span id="built"></span>
+  </footer>
+</div>
+
+<script>
+const DATA = /*__DATA__*/null;
+
+const INSTRUMENT = {
+  "cello": "Cello", "baroque-cello": "Baroque cello", "violoncello-piccolo": "Violoncello piccolo",
+  "violoncello-da-spalla": "Violoncello da spalla", "viola": "Viola", "viola-da-gamba": "Viola da gamba",
+  "violin": "Violin", "guitar": "Guitar", "lute": "Lute", "harpsichord": "Harpsichord", "piano": "Piano",
+  "organ": "Organ", "clavichord": "Clavichord", "ensemble": "Ensemble", "voices-and-instruments": "Voices and instruments", "other": "Other"
+};
+const PRACTICE = { historical: "Period instruments", modern: "Modern instruments", unknown: "Practice not yet recorded" };
+const PLATFORM = { "spotify": "Spotify", "apple-music": "Apple Music", "youtube": "YouTube", "youtube-music": "YouTube Music",
+  "idagio": "Idagio", "qobuz": "Qobuz", "tidal": "Tidal", "deezer": "Deezer", "presto": "Presto Music", "label": "Label page",
+  "archive-org": "Internet Archive", "other": "Link" };
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const slug = bwv => bwv.toLowerCase().replace(/anh\.\s?/, "anh-").replace(/\s+/g, "-");
+const app = document.getElementById("app");
+const state = { practice: "all", sort: "year" };
+
+function recordingsFor(bwv) {
+  return DATA.recordings.filter(r => r.works.some(w => w.bwv === bwv));
+}
+function firstYear(r) { return (r.recorded && r.recorded.years && r.recorded.years.length) ? Math.min(...r.recorded.years) : (r.released || null); }
+function yearLabel(r) {
+  const ys = (r.recorded && r.recorded.years) || [];
+  if (ys.length) return ys.length > 1 ? `${Math.min(...ys)}–${String(Math.max(...ys)).slice(-2)}` : String(ys[0]);
+  if (r.released) return `rel. ${r.released}`;
+  return "";
+}
+
+function renderCatalogue() {
+  const recCount = DATA.recordings.length;
+  const linkCount = DATA.recordings.reduce((n, r) => n + r.links.length, 0);
+  const groups = {};
+  for (const w of DATA.works) (groups[w.collection] ||= []).push(w);
+  let html = `
+  <section class="lede">
+    <div>
+      <h1>Every recording of Bach, filed by BWV number</h1>
+      <p>An open catalogue that anyone can add to. Each work in the Bach-Werke-Verzeichnis gets one page listing its recordings, who played them, on what instrument, and where to listen.</p>
+    </div>
+    <div class="tally" aria-label="Archive size">
+      <div><b class="mono">${DATA.works.length}</b><span class="label">Works</span></div>
+      <div><b class="mono">${recCount}</b><span class="label">Recordings</span></div>
+      <div><b class="mono">${linkCount}</b><span class="label">Links</span></div>
+    </div>
+  </section>`;
+  for (const [name, works] of Object.entries(groups)) {
+    const first = works[0].bwv, last = works[works.length - 1].bwv;
+    html += `<section class="collection">
+      <header><h2>${esc(name)}</h2><span class="label mono">BWV ${esc(first)}${works.length > 1 ? "–" + esc(last) : ""}</span></header>
+      <ul class="index">` +
+      works.map(w => {
+        const n = recordingsFor(w.bwv).length;
+        return `<li><a href="#bwv-${slug(w.bwv)}">
+          <span class="num">${esc(w.bwv)}</span>
+          <span class="t"><strong>${esc(w.title)}</strong> <span>in ${esc(w.key || "")}</span></span>
+          <span class="c"><b>${n}</b> recording${n === 1 ? "" : "s"}</span>
+        </a></li>`;
+      }).join("") + `</ul></section>`;
+  }
+  html += `<p class="coming">This pilot covers the six Cello Suites. The rest of the catalogue, from BWV 1 to the latest additions, opens as contributors add works and recordings. <a href="#contribute">How to contribute</a></p>`;
+  return html;
+}
+
+function renderWork(w) {
+  let recs = recordingsFor(w.bwv);
+  const practices = [...new Set(recs.map(r => r.performance_practice))];
+  if (state.practice !== "all") recs = recs.filter(r => r.performance_practice === state.practice);
+  recs = recs.slice().sort((a, b) => {
+    if (state.sort === "performer") return a.performers[0].name.localeCompare(b.performers[0].name);
+    const ya = firstYear(a), yb = firstYear(b);
+    if (ya === null && yb === null) return a.performers[0].name.localeCompare(b.performers[0].name);
+    if (ya === null) return 1; if (yb === null) return -1;
+    return ya - yb;
+  });
+  const chip = (val, text) => `<button class="chip" type="button" data-practice="${val}" aria-pressed="${state.practice === val}">${text}</button>`;
+  const links = [];
+  if (w.links && w.links.wikipedia) links.push(`<a href="${esc(w.links.wikipedia)}" rel="noopener">Wikipedia</a>`);
+  if (w.links && w.links.bach_digital) links.push(`<a href="${esc(w.links.bach_digital)}" rel="noopener">Bach Digital</a>`);
+  if (w.links && w.links.imslp) links.push(`<a href="${esc(w.links.imslp)}" rel="noopener">Score (IMSLP)</a>`);
+
+  return `
+  <a class="back" href="#">← Catalogue</a>
+  <section class="sheet">
+    <div class="bwv"><small>BWV</small>${esc(w.bwv)}</div>
+    <div><h1>${esc(w.title)}</h1><div class="key">${esc(w.key || "")}</div></div>
+  </section>
+  <dl class="facts">
+    <div><dt class="label">Scoring</dt><dd>${esc(w.scoring)}</dd></div>
+    <div><dt class="label">Composed</dt><dd>${esc(w.composed || "Unknown")}</dd></div>
+    <div><dt class="label">Movements</dt><dd><ul class="movements">${w.movements.map(m => `<li>${esc(m)}</li>`).join("")}</ul></dd></div>
+    ${links.length ? `<div><dt class="label">Read more</dt><dd>${links.join(" · ")}</dd></div>` : ""}
+  </dl>
+  ${w.notes ? `<p class="note">${esc(w.notes)}</p>` : ""}
+  <div class="recs-head">
+    <h2>Recordings</h2>
+    <div class="filters" role="group" aria-label="Filter by performance practice">
+      ${chip("all", "All")}
+      ${practices.includes("historical") ? chip("historical", "Period") : ""}
+      ${practices.includes("modern") ? chip("modern", "Modern") : ""}
+      <label class="sortbox" for="sort">Sort
+        <select id="sort">
+          <option value="year"${state.sort === "year" ? " selected" : ""}>By year</option>
+          <option value="performer"${state.sort === "performer" ? " selected" : ""}>By performer</option>
+        </select>
+      </label>
+    </div>
+  </div>
+  ${recs.length ? `<ul class="recs">${recs.map(r => renderRec(r, w)).join("")}</ul>` : `<p class="empty">No recordings match this filter.</p>`}`;
+}
+
+function renderRec(r, w) {
+  const part = r.works.find(x => x.bwv === w.bwv);
+  const yl = yearLabel(r);
+  const where = [r.recorded && r.recorded.place, r.original_label].filter(Boolean).join(" · ");
+  const tags = [`<span class="tag">${esc(INSTRUMENT[r.instrument] || r.instrument)}</span>`];
+  if (r.performance_practice !== "unknown") tags.push(`<span class="tag">${esc(PRACTICE[r.performance_practice])}</span>`);
+  if (r.arrangement) tags.push(`<span class="tag">Arrangement${r.arranger ? " · " + esc(r.arranger) : ""}</span>`);
+  if (part && !part.complete) tags.push(`<span class="tag">Excerpt: ${esc(part.movements.join(", "))}</span>`);
+  if (r.status === "draft") tags.push(`<span class="tag draft">Draft</span>`);
+  const help = (r.help_wanted || []);
+  return `<li class="rec">
+    <div class="yr ${yl ? "" : "unknown"}">${yl ? esc(yl) : "Year?"}</div>
+    <div class="who">
+      <h3>${r.performers.map(p => esc(p.name)).join(", ")}</h3>
+      <div class="meta">${r.performers.map(p => esc(p.role)).join(", ")}${where ? " · " + esc(where) : ""}</div>
+      ${r.notes ? `<div class="meta">${esc(r.notes)}</div>` : ""}
+      <div class="tags">${tags.join("")}</div>
+    </div>
+    <div class="listen">${r.links.map(l => `<a href="${esc(l.url)}" rel="noopener" title="${esc(l.title || "")}">${esc(PLATFORM[l.platform] || l.platform)} <span>${esc(l.kind)}</span></a>`).join("")}</div>
+    ${help.length ? `<details class="help"><summary>${help.length} fact${help.length === 1 ? "" : "s"} missing — can you help?</summary><ul>${help.map(h => `<li>${esc(h)}</li>`).join("")}</ul></details>` : ""}
+  </li>`;
+}
+
+function renderContribute() {
+  const repo = DATA.repo_url;
+  return `<article class="prose">
+    <h1>Add a recording</h1>
+    <p>Everything on this site comes from small text files, one per work and one per recording. Adding a recording means adding one file and opening a pull request${repo ? ` on <a href="${esc(repo)}" rel="noopener">GitHub</a>` : " on GitHub"}. A check runs automatically and tells you if anything is missing.</p>
+    <h2>What counts as one recording</h2>
+    <p>One performance, recorded once. A remaster or a box-set reissue of the same performance is another link on the same recording, not a new entry. A cellist who recorded the suites twice gets two entries.</p>
+    <h2>Steps</h2>
+    <ol>
+      <li>Check the work's page here to see whether the recording is already listed.</li>
+      <li>Copy an existing file in <code>data/recordings/</code> and name it after the main performer and the recording year, for example <code>fournier-1960.yaml</code>.</li>
+      <li>Fill in what you know. Leave unknown facts empty and list them under <code>help_wanted</code>.</li>
+      <li>Paste listening links without tracking parameters (everything after the <code>?</code>).</li>
+      <li>Open a pull request. A second contributor checks the facts against the booklet or label and changes <code>status</code> from <code>draft</code> to <code>reviewed</code>.</li>
+    </ol>
+    <h2>Example</h2>
+<pre class="yaml">id: fournier-1960
+performers:
+  - name: Pierre Fournier
+    role: cello
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1960]
+  place: null
+works:
+  - { bwv: "1007", complete: true }
+  - { bwv: "1009", complete: false, movements: [Prélude, Sarabande] }
+links:
+  - platform: spotify
+    kind: album
+    url: https://open.spotify.com/album/...
+status: draft
+help_wanted:
+  - Recording place</pre>
+    <h2>Fixing a fact</h2>
+    <p>Each draft recording lists the facts it is missing. If you can confirm one from a booklet, a label catalogue or a discography, edit the file and say where the fact came from in the pull request.</p>
+  </article>`;
+}
+
+function route() {
+  const h = location.hash.replace(/^#/, "");
+  let html, current = "cat";
+  if (h === "contribute") { html = renderContribute(); current = "con"; }
+  else if (h.startsWith("bwv-")) {
+    const w = DATA.works.find(x => slug(x.bwv) === h.slice(4));
+    html = w ? renderWork(w) : `<p class="empty">No work with that BWV number yet. <a href="#">Back to the catalogue</a></p>`;
+  } else html = renderCatalogue();
+  app.innerHTML = `<div class="view">${html}</div>`;
+  for (const [id, key] of [["nav-cat", "cat"], ["nav-con", "con"]]) {
+    const el = document.getElementById(id);
+    if (current === key) el.setAttribute("aria-current", "page"); else el.removeAttribute("aria-current");
+  }
+}
+
+app.addEventListener("click", e => {
+  const b = e.target.closest("[data-practice]");
+  if (!b) return;
+  state.practice = b.dataset.practice;
+  route();
+});
+app.addEventListener("change", e => {
+  if (e.target.id === "sort") { state.sort = e.target.value; route(); document.getElementById("sort").focus(); }
+});
+window.addEventListener("hashchange", () => { state.practice = "all"; route(); window.scrollTo(0, 0); });
+document.getElementById("built").textContent = DATA.built ? "Data updated " + DATA.built : "";
+route();
+</script>

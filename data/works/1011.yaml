@@ -1,0 +1,19 @@
+bwv: "1011"
+title: Cello Suite No. 5
+key: C minor
+collection: Six Suites for Violoncello solo
+genre: solo-instrumental
+scoring: violoncello solo, scordatura (top string tuned down from A to G)
+composed: Köthen, c. 1720
+movements:
+  - Prélude
+  - Allemande
+  - Courante
+  - Sarabande
+  - Gavotte I
+  - Gavotte II
+  - Gigue
+notes: Bach also arranged this suite for lute as the Suite in G minor, BWV 995.
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Cello_Suites_(Bach)
+  bach_digital: null

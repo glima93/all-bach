@@ -1,0 +1,29 @@
+id: malov
+performers:
+  - name: Sergey Malov
+    role: violoncello da spalla
+instrument: violoncello-da-spalla
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+  - { bwv: "1007", complete: true }
+  - { bwv: "1008", complete: true }
+  - { bwv: "1009", complete: true }
+  - { bwv: "1010", complete: true }
+  - { bwv: "1011", complete: true }
+  - { bwv: "1012", complete: true }
+links:
+  - platform: spotify
+    kind: album
+    url: https://open.spotify.com/album/3dr7vCh7IQBGp6YC6fSttT
+    title: "J.S. Bach: 6 Cello Suites, BWVV 1007-1012"
+status: draft
+help_wanted:
+  - Confirm the instrument from the album notes
+  - Recording and release year, label
+notes: The shoulder-held cello some scholars think Bach had in mind. The typo "BWVV" is Spotify's album title, kept as listed.

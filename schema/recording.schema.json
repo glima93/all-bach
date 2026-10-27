@@ -1,0 +1,104 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/all-bach/all-bach/schema/recording.schema.json",
+  "title": "Recording",
+  "description": "One performance, recorded once. Reissues of the same performance are extra links, not new recordings. One file per recording in data/recordings/.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "performers", "instrument", "performance_practice", "arrangement", "works", "links", "status"],
+  "properties": {
+    "id": {
+      "description": "Lowercase slug; must match the file name. Convention: <main-performer>-<recording-year>, or a label/series name when the year is unknown.",
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "performers": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["name", "role"],
+        "properties": {
+          "name": { "type": "string" },
+          "role": { "type": "string", "description": "Instrument or function: cello, conductor, soprano, ensemble, choir ..." }
+        }
+      }
+    },
+    "instrument": {
+      "description": "The instrument actually heard for the main part.",
+      "type": "string",
+      "enum": ["cello", "baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "viola", "viola-da-gamba", "violin", "guitar", "lute", "harpsichord", "piano", "organ", "clavichord", "ensemble", "voices-and-instruments", "other"]
+    },
+    "performance_practice": {
+      "type": "string",
+      "enum": ["historical", "modern", "unknown"]
+    },
+    "arrangement": {
+      "description": "true for transcriptions to a different medium (cello suites on guitar, organ works orchestrated). Instrument variants Bach's sources allow do not count.",
+      "type": "boolean"
+    },
+    "arranger": { "type": ["string", "null"] },
+    "recorded": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "years": {
+          "type": "array",
+          "items": { "type": "integer", "minimum": 1888, "maximum": 2100 }
+        },
+        "place": { "type": ["string", "null"] }
+      }
+    },
+    "released": { "type": ["integer", "null"], "minimum": 1888, "maximum": 2100 },
+    "original_label": { "type": ["string", "null"] },
+    "works": {
+      "description": "Which BWV works this recording contains.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["bwv", "complete"],
+        "properties": {
+          "bwv": { "type": "string" },
+          "complete": { "type": "boolean" },
+          "movements": {
+            "description": "When complete is false: which movements are included.",
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      }
+    },
+    "links": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["platform", "kind", "url"],
+        "properties": {
+          "platform": {
+            "type": "string",
+            "enum": ["spotify", "apple-music", "youtube", "youtube-music", "idagio", "qobuz", "tidal", "deezer", "presto", "label", "archive-org", "other"]
+          },
+          "kind": { "type": "string", "enum": ["album", "track", "playlist", "video", "page"] },
+          "url": { "type": "string", "pattern": "^https://" },
+          "title": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "status": {
+      "description": "draft = added but some facts unchecked; reviewed = a second contributor checked the facts against the booklet or label.",
+      "type": "string",
+      "enum": ["draft", "reviewed"]
+    },
+    "help_wanted": {
+      "description": "Short list of facts still missing, shown on the site to invite contributions.",
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "notes": { "type": ["string", "null"] }
+  }
+}

@@ -1,0 +1,30 @@
+id: kobekina
+performers:
+  - name: Anastasia Kobekina
+    role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+  - { bwv: "1007", complete: true }
+  - { bwv: "1008", complete: true }
+  - { bwv: "1009", complete: true }
+  - { bwv: "1010", complete: true }
+  - { bwv: "1011", complete: true }
+  - { bwv: "1012", complete: true }
+links:
+  - platform: spotify
+    kind: album
+    url: https://open.spotify.com/album/1AxgfOUwe0LCmQiwxElEzb
+    title: "Bach: Cello Suites"
+status: draft
+help_wanted:
+  - Check that all six suites are on the album
+  - Instrument and performance practice
+  - Recording and release year, label
+notes: null

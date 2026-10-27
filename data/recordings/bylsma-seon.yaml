@@ -1,0 +1,29 @@
+id: bylsma-seon
+performers:
+  - name: Anner Bylsma
+    role: baroque cello
+instrument: baroque-cello
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+  - { bwv: "1007", complete: true }
+  - { bwv: "1008", complete: true }
+  - { bwv: "1009", complete: true }
+  - { bwv: "1010", complete: true }
+  - { bwv: "1011", complete: true }
+  - { bwv: "1012", complete: true }
+links:
+  - platform: spotify
+    kind: album
+    url: https://open.spotify.com/album/34rMJitNldIJBLxFdDNU8Q
+    title: "Bach: The 6 Unaccompanied Cello Suites, BWV 1007-1012"
+status: draft
+help_wanted:
+  - Recording year (Bylsma recorded the suites twice; this is probably the earlier Seon set)
+  - Original label
+notes: Bylsma's later recording of the suites needs its own file once identified.
