@@ -1,0 +1,27 @@
+id: petteri-iivonen-2008
+performers:
+- name: Petteri Iivonen
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: Newman Recital Hall
+released: 2011
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82bcdfa3-06a0-4ef2-8fb8-55b4e6b6c37d
+  title: Art of the Violin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d84ed3a3-6208-4a14-9412-ec3d8b542ed5
+  recordings: [02b058ad-3780-493d-92e5-8784e832ad84]

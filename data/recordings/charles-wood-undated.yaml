@@ -1,0 +1,28 @@
+id: charles-wood-undated
+performers:
+- name: Charles Wood
+  role: banjo
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Fire Creek Recording Studio
+released: 2005
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/200ac8bc-8f2c-415d-b2a7-0e5d7be9d5ae
+  title: Tour de Banjo
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on banjo.
+musicbrainz:
+  artist: 64b13c43-f6ff-4d71-bf9c-b0d860980a29
+  recordings: [8166bc75-9768-4afc-8a55-4e7f5390104b]

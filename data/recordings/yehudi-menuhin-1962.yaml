@@ -1,0 +1,26 @@
+id: yehudi-menuhin-1962
+performers:
+- name: Yehudi Menuhin
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: 'Московская Государственная Консерватория им. П. И. Чайковского: большой зал'
+released: 2008
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/19b6a76f-11c0-46e3-84f4-72e494b43fc2
+  title: Menuhin in Moscow
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a8949f5-d681-4df2-a2fd-a08966ae2d31
+  recordings: [e1134ee2-728d-42f8-baad-ae4b6647f9f7]

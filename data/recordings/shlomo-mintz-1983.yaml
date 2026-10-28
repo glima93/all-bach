@@ -1,0 +1,31 @@
+id: shlomo-mintz-1983
+performers:
+- name: Shlomo Mintz
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1983]
+  place: Nikolauskloster
+released: 1984
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/71c73efe-b8ee-4964-9a09-4873363dfad0
+  title: J.S. Bach Sonaten & Partiten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e32e635d-ee6e-45c7-bcf3-aad9407dfefa
+  recordings: [1d4a9c0b-d0c3-4d15-b5d0-bce0fe40a457]

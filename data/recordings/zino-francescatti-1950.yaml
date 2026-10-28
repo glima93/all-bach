@@ -1,0 +1,28 @@
+id: zino-francescatti-1950
+performers:
+- name: Zino Francescatti
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1950, 1952]
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/902f3fac-9487-4c33-ac34-7ce397334944
+  title: 'Zino Francescatti, Vol. 1: Live Broadcasts & Studio Recordings 1946-1952'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ae7d1650-42b0-48c7-b3a9-3dcfa6a45db3
+  recordings: [3b2538f8-2cff-4f2a-a649-bdf42c0bcfb6]

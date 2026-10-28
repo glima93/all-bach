@@ -1,0 +1,27 @@
+id: yehudi-menuhin-1973
+performers:
+- name: Yehudi Menuhin
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973, 1976]
+  place: Salle Wagram
+released: 2013
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6fbd1c00-4ab4-4aed-a608-a86eb3404d98
+  title: Baroque Bach, Volume 3, Instrumental Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 2a8949f5-d681-4df2-a2fd-a08966ae2d31
+  recordings: [096e67b4-8865-4b2d-a9bc-3edcb1c56e94]

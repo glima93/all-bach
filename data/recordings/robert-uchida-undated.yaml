@@ -1,0 +1,27 @@
+id: robert-uchida-undated
+performers:
+- name: Robert Uchida
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Francis Winspear Centre for Music
+released: 2025
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d307e965-d940-49f6-84bb-0280c4dab866
+  title: I Can Finally Feel the Sun
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 521f2233-b0ad-413b-852c-f18c8b0c9b55
+  recordings: [0b4300a8-a7fa-40c4-a18c-53b55396d56d]

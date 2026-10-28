@@ -1,0 +1,26 @@
+id: yehudi-menuhin-1929
+performers:
+- name: Yehudi Menuhin
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1929]
+  place: 'Queen''s Small Hall: Studio C'
+released: 2016
+original_label: null
+works:
+- {bwv: '1005', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0bd0d893-18db-45a3-a8ad-b26b11205c0a
+  title: The Menuhin Century
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a8949f5-d681-4df2-a2fd-a08966ae2d31
+  recordings: [1ade43e7-3cc0-4961-8592-736877e66079]

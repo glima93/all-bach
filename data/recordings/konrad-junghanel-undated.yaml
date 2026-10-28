@@ -1,0 +1,29 @@
+id: konrad-junghanel-undated
+performers:
+- name: Konrad Junghänel
+  role: lute
+instrument: lute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/05e20570-452d-4671-9401-445ed35b6a3c
+  title: German Lute Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a7a2487a-8721-4fa7-ab60-8a55a2184f54
+  recordings: [4daab6ee-52cf-43ea-9176-798d6e0981f2]

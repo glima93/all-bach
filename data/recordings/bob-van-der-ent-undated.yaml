@@ -1,0 +1,33 @@
+id: bob-van-der-ent-undated
+performers:
+- name: Bob van der Ent
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cb064d11-7a74-41d5-ae4b-ce90ba5a1131
+  title: Sonatas and Partitas for Violin Solo
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: db892a38-653a-4ed3-ae39-c36c6b95064d
+  recordings: [05d706dd-b042-4cb9-9ecb-9b00e61d2934]

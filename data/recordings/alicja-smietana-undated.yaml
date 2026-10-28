@@ -1,0 +1,28 @@
+id: alicja-smietana-undated
+performers:
+- name: Alicja Śmietana
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f0fb2cc-e91d-494a-8db8-c6e70daaac85
+  title: Bach / Gould / Previn / Pärt
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e1b76265-a855-43d6-9597-5333ff1014cb
+  recordings: [160d196d-4647-434b-87d4-fdd1bb9e86ef]

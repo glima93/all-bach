@@ -1,0 +1,31 @@
+id: arthur-grumiaux-1960
+performers:
+- name: Arthur Grumiaux
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960, 1961]
+  place: Bachzaal
+released: 1977
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b96375a0-8973-3206-9346-c1667d8b8339
+  title: Complete Sonatas and Partitas for Solo Violin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9ad83920-b9c8-4aa3-b758-cd2632191538
+  recordings: [2d79753d-353c-4e3d-be70-a6cf3bc0cb27]

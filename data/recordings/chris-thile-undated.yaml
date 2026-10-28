@@ -1,0 +1,31 @@
+id: chris-thile-undated
+performers:
+- name: Chris Thile
+  role: mandolin
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/03235367-62cc-41d3-b1a5-d10bac68194a
+  title: Sonatas and Partitas, Vol. 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on mandolin.
+musicbrainz:
+  artist: ca452a01-b9db-461d-8e62-23d68747f6ab
+  recordings: [0d4d8368-b89c-44ab-bed0-4ab2a69db58b]

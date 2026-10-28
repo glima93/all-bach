@@ -1,0 +1,27 @@
+id: liza-ferschtman-2009
+performers:
+- name: Liza Ferschtman
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: Galaxy Studios
+released: 2010
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c8829b2a-2e92-42d4-b23a-5c1370ae5c58
+  title: Works for Violin Solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9034097c-3263-42e6-90df-85c449d1e665
+  recordings: [0439e021-b09e-4c4d-9665-34c1a8c70271]

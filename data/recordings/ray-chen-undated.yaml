@@ -1,0 +1,28 @@
+id: ray-chen-undated
+performers:
+- name: Ray Chen
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Corrente, Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/806a29f2-17e7-4c17-bba1-f0c27a292c9a
+  title: Virtuoso
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e036050b-9973-4c91-b532-4136df15a26b
+  recordings: [72c8b274-1a71-403c-98cd-342ce70d7fc9]

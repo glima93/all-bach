@@ -1,0 +1,34 @@
+id: kyung-wha-chung-undated
+performers:
+- name: Kyung Wha Chung
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3c0be995-838c-4320-8a84-c02c24cd457e
+  title: Sonatas & Partitas
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a83500d7-4b80-4a5c-ada8-60676bbb2848
+  recordings: [049e2c50-5cce-4730-862e-65b1e6a76171]

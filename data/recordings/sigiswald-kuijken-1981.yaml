@@ -1,0 +1,31 @@
+id: sigiswald-kuijken-1981
+performers:
+- name: Sigiswald Kuijken
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1981]
+  place: Villa Medicea di Artimino
+released: 1990
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e890b99f-25da-458e-95c9-4d77b16389db
+  title: Sonatas & Partitas BWV 1001-1006
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8dde51e7-de48-4cfe-9904-7b8af564f2ef
+  recordings: [0cb1523a-1147-4f4a-ac0d-6d2050ed353d]

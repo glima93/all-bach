@@ -1,0 +1,28 @@
+id: thibault-noally-undated
+performers:
+- name: Thibault Noally
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b61a05f7-47c7-4272-be9d-5cabdb6de83c
+  title: à violino solo
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6cbd8029-ba18-48a1-a9b6-f252874ae306
+  recordings: [106ecb2e-2d13-456b-9b66-66c46c939a1a]

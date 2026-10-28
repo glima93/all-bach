@@ -1,0 +1,27 @@
+id: vadim-gluzman-2011
+performers:
+- name: Vadim Gluzman
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2011]
+  place: Sendesaal Bremen
+released: 2012
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d6743b4e-8350-4741-9f0f-1416a58dbb20
+  title: par.ti.ta
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 509e666a-2f09-4ae9-823d-5413226caf15
+  recordings: [11559ff6-4f8b-4393-9bdd-03b7d75f48dd]

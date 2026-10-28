@@ -1,0 +1,31 @@
+id: bojan-cicic-2021
+performers:
+- name: Bojan Čičić
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: Crichton Collegiate Church
+released: 2023
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc19859b-d07f-4382-8ee7-e85d5eb71ee2
+  title: Partitas & Sonatas, BWV 1001–1006
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22045da6-da49-4a80-80f5-23915b77acd0
+  recordings: [21c208b3-99c0-4f6d-aee7-b8be2df847b6]

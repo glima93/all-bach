@@ -1,0 +1,31 @@
+id: benjamin-schmid-1999
+performers:
+- name: Benjamin Schmid
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Kleine Kollegiumskapelle Kalksburg
+released: 2003
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55e5c62c-a61d-428e-b311-0fd0e3ef6fa6
+  title: Sonatas and Partitas for Solo Violin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7454057b-dbe0-43bc-800f-410204549a78
+  recordings: [05b6d56d-d0e5-4a80-906b-6befeeef8c4f]

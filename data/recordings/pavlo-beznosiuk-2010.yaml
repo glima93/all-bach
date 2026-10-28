@@ -1,0 +1,32 @@
+id: pavlo-beznosiuk-2010
+performers:
+- name: Pavlo Beznosiuk
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/46e378e8-513f-48bc-9b98-77caed516d66
+  title: Sonatas & Partitas for Solo Violin
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a7bcdae4-4053-44c7-a3f4-bd429f91db39
+  recordings: [11dd13a7-5be9-4995-b559-57cc1292403f]

@@ -1,0 +1,33 @@
+id: ruggiero-ricci-undated
+performers:
+- name: Ruggiero Ricci
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: false, movements: [Allemanda, Corrente, Sarabande, Tempo di Borea]}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/676243cf-c70e-48da-97e8-b1112862812e
+  title: The Complete Sonatas and Partitas for Solo Violin BWV 1001–1006
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e86890da-bc10-4732-8b07-f5cc749b9028
+  recordings: [071bb99f-9bb1-4608-b5c5-f5f6429a2441]

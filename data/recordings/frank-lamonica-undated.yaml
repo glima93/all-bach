@@ -1,0 +1,29 @@
+id: frank-lamonica-undated
+performers:
+- name: Frank LaMonica
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d05b07b0-f472-4ea1-8f0a-a995a13b2a2d
+  title: Stage IV
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a49afab4-18f0-4873-bd51-4c00bc022acc
+  recordings: [55f8d251-037e-4ef5-ad33-56fc7db75da5]

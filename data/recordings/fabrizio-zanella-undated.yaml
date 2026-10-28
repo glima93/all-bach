@@ -1,0 +1,30 @@
+id: fabrizio-zanella-undated
+performers:
+- name: Fabrizio Zanella
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1005', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e52d5723-017c-4aaa-9a74-027fa75c61c6
+  title: 'Sonatas para violín solo sin acompañamiento: Sonatas I, II y III'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a75b0d1-2191-495b-bd4b-7aad107f58a7
+  recordings: [1a7a7b0e-55b6-4f6c-815e-97ba0ebcab6f]

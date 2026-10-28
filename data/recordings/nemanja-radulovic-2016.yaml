@@ -1,0 +1,27 @@
+id: nemanja-radulovic-2016
+performers:
+- name: Nemanja Radulović
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Église Notre‐Dame du Liban
+released: 2016
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+- {bwv: '1006', complete: false, movements: [Gavotte en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/282c5622-09e3-4cb8-a73b-bf79d973dcf1
+  title: Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c5ee7c2c-97b2-4b5a-96c8-b6a32102c9e9
+  recordings: [5ced4510-1f66-4aed-93a3-e0938d5db045]

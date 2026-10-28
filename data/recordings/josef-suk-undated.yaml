@@ -1,0 +1,28 @@
+id: josef-suk-undated
+performers:
+- name: Josef Suk
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/01825c55-9f36-4d3f-9543-de0dcecf93cf
+  title: 'Johann Sebastian Bach: Composer of the Millennium'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 286b0e0a-0d34-4624-8536-034ed01ac722
+  recordings: [5bbae68d-d746-4a73-ae1c-a59954d047e7]

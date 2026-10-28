@@ -1,0 +1,32 @@
+id: artist-65add7bb-1988
+performers:
+- name: 前橋汀子
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/78aa2cd6-b5e3-4cc7-9288-8649a934c3d5
+  title: のだめカンタービレ Best 100
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65add7bb-7ca9-44a3-97d0-0ae00ecda187
+  recordings: [bc986f2f-c464-4417-bc41-8a4e134e5d10]

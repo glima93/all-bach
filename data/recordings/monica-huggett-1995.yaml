@@ -1,0 +1,31 @@
+id: monica-huggett-1995
+performers:
+- name: Monica Huggett
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995, 1996]
+  place: The Warehouse
+released: 1997
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e5b64194-774c-4feb-81f5-507cc96f64ff
+  title: Sonatas and Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc09438e-edd7-4e5c-b9e4-635bf039879f
+  recordings: [09558f71-4f1b-4878-8726-93cce52dc21d]

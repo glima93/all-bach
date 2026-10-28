@@ -1,0 +1,29 @@
+id: kathryn-pirtle-undated-2
+performers:
+- name: Kathryn Pirtle
+  role: clarinet
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1002', complete: false, movements: [Corrente]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/36620bac-b1f6-417f-b2ed-15ec2f73da0a
+  title: 'Works for Unaccompanied Clarinet: The Music of J.S. Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on clarinet.
+musicbrainz:
+  artist: fe4da93a-b61c-4105-a811-440d49a29e37
+  recordings: [64a4225b-84a2-4374-954e-7b7047cbd9a0]

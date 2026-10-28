@@ -1,0 +1,29 @@
+id: george-enescu-undated
+performers:
+- name: George Enescu
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1003', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b8bcdbbc-b868-4a5e-a448-46f400bada85
+  title: Compozitor și interpret (Înregistrări din fonoteca de aur)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 30f53666-aa3b-44c1-80c1-4d09929e28e8
+  recordings: [1169c17c-9f94-41da-a81b-7414033e5e06]

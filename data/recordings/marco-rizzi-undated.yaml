@@ -1,0 +1,33 @@
+id: marco-rizzi-undated
+performers:
+- name: Marco Rizzi
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f76bf3a6-e991-4550-9773-6f64c9531eb3
+  title: Sonate e partite per violino solo BWV 1001-1006
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2942b879-6c72-4992-a660-ee17202aa468
+  recordings: [01b6a50d-6f3d-4e48-9a1a-1caeaa79731e]

@@ -1,0 +1,29 @@
+id: maya-homburger-2007
+performers:
+- name: Maya Homburger
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007, 2010]
+  place: Stadtkirche Böblingen
+released: 2008
+original_label: null
+works:
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: false, movements: [Allemanda, Ciaccona]}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: false, movements: [Menuet I, Menuet II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e2fe6165-493d-4d7f-b288-10d309e5f5dd
+  title: 'J. S. Bach: Sonata in A minor, BWV1003 / Partita in D minor, BWV1004 / Barry Guy: Aglais'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc4858fc-eec1-4c42-9974-308b1b7c9837
+  recordings: [04906329-0721-4b31-94ba-e079eae85596]

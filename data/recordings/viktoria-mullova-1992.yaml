@@ -1,0 +1,28 @@
+id: viktoria-mullova-1992
+performers:
+- name: Viktoria Mullova
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1992, 1993]
+  place: Saint George’s, Bristol
+released: 1994
+original_label: null
+works:
+- {bwv: '1002', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/66b71c0d-4079-4b4a-bf84-9823c25c59e5
+  title: Partitas for Violin Solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 02bd2dff-f337-4788-9e75-0eb6beb932ac
+  recordings: [214ce157-00a1-4d65-8804-5ce06dac1719]

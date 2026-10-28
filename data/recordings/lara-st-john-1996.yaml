@@ -1,0 +1,28 @@
+id: lara-st-john-1996
+performers:
+- name: Lara St. John
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ebb84a43-0778-4fba-9220-3f1feb515dec
+  title: Works for Violin Solo
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a05b33fd-c464-440c-8ebc-83fa84e4620d
+  recordings: [4325e5b8-f2ad-4caa-a2ee-2021f11ca924]

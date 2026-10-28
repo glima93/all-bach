@@ -1,0 +1,31 @@
+id: conrad-von-der-goltz-undated
+performers:
+- name: Conrad von der Goltz
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cadc3fa7-684c-4fde-87af-aa3250c1df0b
+  title: Works For Solo Cello And Solo Violin
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2411543e-7830-4628-8b18-dce384afc661
+  recordings: [061d9db4-4a5f-4810-8635-6b4e4ab62dc8]

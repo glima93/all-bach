@@ -1,0 +1,27 @@
+id: rachel-barton-pine-2004
+performers:
+- name: Rachel Barton Pine
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2004]
+  place: WFMT
+released: 2004
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6ef415ce-6c82-4fab-b8cb-98045fb18b3b
+  title: Solo Baroque
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 786fbccf-559a-4779-b45b-be1a8b90da90
+  recordings: [14b1ab43-b45d-48e0-a1df-0fb44f702bb5]

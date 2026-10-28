@@ -1,0 +1,29 @@
+id: kammerensemble-viva-la-musica-undated
+performers:
+- name: Kammerensemble "Viva la musica"
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15265f8d-1373-48ff-a46f-53a9acbc2170
+  title: Musik der Bach-Söhne
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a6e8f06c-b2f2-4201-8b8a-d70542f507c7
+  recordings: [9819f31f-aee0-4cc7-8eed-bb3e1a33491a]

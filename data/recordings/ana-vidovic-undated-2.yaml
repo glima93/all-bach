@@ -1,0 +1,29 @@
+id: ana-vidovic-undated-2
+performers:
+- name: Ana Vidović
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/51d4c565-5814-46f7-9656-3ea1fc4db10f
+  title: Live at Hampden Hall
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 36b04c93-4bad-45e0-96ad-8cf7313ecce1
+  recordings: [41f8b036-4ecc-4a6f-b487-3bf4485c94bb]

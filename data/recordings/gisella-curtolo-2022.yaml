@@ -1,0 +1,31 @@
+id: gisella-curtolo-2022
+performers:
+- name: Gisella Curtolo
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2022]
+  place: 'Kulturzentrum Grand Hotel: Gustav-Mahler-Saal'
+released: 2024
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d32a3a7-6d6f-475b-90f8-73661fe2ad31
+  title: Violin Sonatas & Partitas, BWV 1001–1006
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0ce459f9-a0a7-43cd-af32-bd2a4b632ae2
+  recordings: [0d941e11-275a-4ebb-bee9-31ab543dd094]

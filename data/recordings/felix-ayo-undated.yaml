@@ -1,0 +1,33 @@
+id: felix-ayo-undated
+performers:
+- name: Felix Ayo
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c7e6e2ad-f28a-4e59-918a-fa058e60d219
+  title: The Sonatas and Partitas for Solo Violin
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a26d8d54-5682-446e-8a52-651166574573
+  recordings: [0046a4f1-749e-46b8-941e-6dfb3f61c783]

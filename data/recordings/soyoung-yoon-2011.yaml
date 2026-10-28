@@ -1,0 +1,27 @@
+id: soyoung-yoon-2011
+performers:
+- name: Soyoung Yoon
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2011]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Adagio, Fuga (Allegro)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/76813145-5a87-4dbe-92df-b01c97ae6921
+  title: XIV Międzynarodowy Konkurs Skrzypcowy im. Henryka Wieniawskiego
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 6a69d714-810a-4888-a020-19e328dc772d
+  recordings: [79fb7c7e-9f0d-4972-8792-22d0d0ecc4ed]

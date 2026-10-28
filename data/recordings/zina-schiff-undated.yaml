@@ -1,0 +1,27 @@
+id: zina-schiff-undated
+performers:
+- name: Zina Schiff
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Jerusalem Music Centre
+released: 1989
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f9c60c5-c8f6-4a0e-aac5-a6533c8f5b02
+  title: Bach & Vivaldi
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 840493b4-40a9-4bfb-ae5c-f6fa0ddf6c04
+  recordings: [3a566cf6-cfa4-412f-a03f-af4c66210ac1]

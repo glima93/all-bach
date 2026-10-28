@@ -1,0 +1,27 @@
+id: hugo-heermann-1909
+performers:
+- name: Hugo Heermann
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1909]
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/62e52f87-f6a2-4933-8fca-3f95f74522f7
+  title: 'Important Early Sound Recordings: Violinists, Vol. 1'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45ecd447-e9fa-4b15-a14b-bc1a781a1fb1
+  recordings: [8cec9349-e506-4f44-8676-654bc8b394c7]

@@ -1,0 +1,26 @@
+id: nigel-kennedy-2000
+performers:
+- name: Nigel Kennedy
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: Charterhouse
+released: 2002
+original_label: null
+works:
+- {bwv: '1005', complete: false, movements: [Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/374df7cd-06b7-32ba-899a-c68c8d1a977c
+  title: Nigel Kennedy's Greatest Hits
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2171e02c-e6c5-4109-85b7-ce4f13576a36
+  recordings: [c7de1721-79c3-44a2-a806-54b8a41fa1c4]

@@ -1,0 +1,31 @@
+id: kristof-barati-2009
+performers:
+- name: Kristóf Baráti
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: Siemens‐Villa
+released: 2010
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3fa8de67-3177-45c2-8228-35955ebb21b4
+  title: Die sechs Sonaten & Partiten für Violine
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a9a5cc6-3aae-4200-80ee-0392ef727aac
+  recordings: [05a16c1e-fb58-43db-a40c-515d45fc3b3f]

@@ -1,0 +1,31 @@
+id: daniel-auner-2019
+performers:
+- name: Daniel Auner
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2019]
+  place: 'Universität Mozarteum: Solitär Hall'
+released: 2022
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef0a7f58-e1a4-4d90-b4e1-ddfa16061a53
+  title: Sonaten und Partiten für Violine solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 89e80637-748c-491b-b934-c3f3ecb1d527
+  recordings: [0cb817cc-ce98-48b8-a984-d2655eefde93]

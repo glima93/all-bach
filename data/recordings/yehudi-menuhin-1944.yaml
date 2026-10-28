@@ -1,0 +1,26 @@
+id: yehudi-menuhin-1944
+performers:
+- name: Yehudi Menuhin
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1944]
+  place: Palais Garnier
+released: 2016
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0bd0d893-18db-45a3-a8ad-b26b11205c0a
+  title: The Menuhin Century
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a8949f5-d681-4df2-a2fd-a08966ae2d31
+  recordings: [9f1e21b6-8c8e-4c81-a826-6ca2b390d09f]

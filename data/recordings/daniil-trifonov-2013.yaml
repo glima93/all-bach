@@ -1,0 +1,27 @@
+id: daniil-trifonov-2013
+performers:
+- name: Daniil Trifonov
+  role: piano
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2013]
+  place: Carnegie Hall
+released: 2013
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Gavotte en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/da2eff56-b232-476e-904e-35b94540efbe
+  title: The Carnegie Recital
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d41468ad-65f9-4b68-9b2b-f5fdcac88c45
+  recordings: [351e41e5-9a38-48c0-9553-bd80d1a88d19]

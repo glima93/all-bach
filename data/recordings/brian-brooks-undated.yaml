@@ -1,0 +1,30 @@
+id: brian-brooks-undated
+performers:
+- name: Brian Brooks
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/24944b88-f95b-479a-8812-5e348f8662b6
+  title: Complete Sonatas & Partitas for Solo Violin, Vol. II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 548c686f-6d73-4495-99de-3372023d26a8
+  recordings: [347e4133-1fe4-4e1d-b71a-e3fbc9f77cfd]

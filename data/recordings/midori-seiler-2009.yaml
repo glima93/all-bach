@@ -1,0 +1,28 @@
+id: midori-seiler-2009
+performers:
+- name: Midori Seiler
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: Johann-Sebastian-Bach-Saal
+released: 2009
+original_label: null
+works:
+- {bwv: '1002', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8ab980b4-44ce-4b5f-b6d2-ce30da21460b
+  title: Partitas for Solo Violin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 08a5b5f7-b08d-4ed3-a2b7-8b4ba39280d1
+  recordings: [071b9ca2-1542-4a1b-9ce9-40007866d310]

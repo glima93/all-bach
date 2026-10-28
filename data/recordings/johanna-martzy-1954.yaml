@@ -1,0 +1,31 @@
+id: johanna-martzy-1954
+performers:
+- name: Johanna Martzy
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1954, 1955]
+  place: Abbey Road Studios
+released: 2007
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef451fbb-78c9-40b7-81b8-ad031e355419
+  title: Sonates & Partitas Pour Violon Seul / Suites Pour Violoncelle Seul / Petit Livre D'Anna-Magdalena Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f27ac449-4998-425c-a2d1-dd7cd246677e
+  recordings: [17e51d72-c8cf-487c-bc52-009d8d3546c5]

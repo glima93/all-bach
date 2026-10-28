@@ -1,0 +1,28 @@
+id: lara-lev-undated
+performers:
+- name: Lara Lev
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/66dbb281-6102-4735-bdbf-ea8fa551d646
+  title: Best of Baroque
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9eab920a-cac7-4a59-bdae-62af6cc17d5d
+  recordings: [d72fa77b-6fd3-4862-b78c-0a5247160308]

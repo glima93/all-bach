@@ -1,0 +1,29 @@
+id: jean-frederic-molard-undated
+performers:
+- name: Jean-Frédéric Molard
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cee08e82-f343-45fe-93e7-904f6c1c07cc
+  title: 'Bartók: Sonata for Solo Violin / Bach: Partita no. 2'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 952d8d3e-bbf4-440f-92ea-cfcf2db0efab
+  recordings: [3e17b9e9-f141-42cc-a9f7-1cc35809cb4a]

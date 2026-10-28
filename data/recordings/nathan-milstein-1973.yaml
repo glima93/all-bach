@@ -1,0 +1,31 @@
+id: nathan-milstein-1973
+performers:
+- name: Nathan Milstein
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973, 1974]
+  place: Conway Hall
+released: 1975
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb29d0de-c0ca-459f-96e3-7a45761e7924
+  title: Sonaten & Partiten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0a428818-2623-406e-8453-600dce442e78
+  recordings: [0e48cf41-f8b2-4c33-87a9-31077c6d5408]

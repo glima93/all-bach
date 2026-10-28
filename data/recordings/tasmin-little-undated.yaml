@@ -1,0 +1,28 @@
+id: tasmin-little-undated
+performers:
+- name: Tasmin Little
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/012e4d25-97ce-49ed-ba9b-9537af314ea8
+  title: The Naked Violin
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e24be060-b525-4502-bd5b-e3ae8ab39c63
+  recordings: [3e7e07a6-7d4e-4a87-9c99-6d86c4d4ff0e]

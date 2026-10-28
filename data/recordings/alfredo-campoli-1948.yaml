@@ -1,0 +1,26 @@
+id: alfredo-campoli-1948
+performers:
+- name: Alfredo Campoli
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1948]
+  place: Decca Studios
+released: 2018
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf4fad01-dc5c-4bc7-aa99-950956a73b17
+  title: The Bel Canto Violin, Volume 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: af56bbbf-58da-4105-a4df-24b9dc9d9d58
+  recordings: [3fae3cb2-1c72-4a91-9af0-ab10d553b531]

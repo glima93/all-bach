@@ -1,0 +1,31 @@
+id: yayoi-toda-2021
+performers:
+- name: Yayoi Toda
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: Luxman Hall
+released: 2022
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5c150244-b1bf-4886-ae42-92cd1ec2f9b2
+  title: The Sonatas and Partitas for Violin Solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e25165e7-9e43-4eb7-bdb1-70f92b66d377
+  recordings: [045a91b5-e6a0-41a7-984a-4f9fd5a39c0e]

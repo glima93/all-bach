@@ -1,0 +1,27 @@
+id: lisa-batiashvili-1999
+performers:
+- name: Lisa Batiashvili
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Potton Hall
+released: 2001
+original_label: null
+works:
+- {bwv: '1002', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/40b674f6-de44-4081-ae09-5c4feb7c844e
+  title: 'BBC Music, Volume 9, Number 11: Debut Recordings by Elisabeth Batiashvili (violin), Alexander Melnikov
+    (piano), Belcea Quartet'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b0f0c8b-d661-4d1e-96e0-eed0f68ef495
+  recordings: [198ec601-bedb-4805-80a7-a75156eaef9c]

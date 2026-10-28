@@ -1,0 +1,31 @@
+id: john-holloway-2004
+performers:
+- name: John Holloway
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2004]
+  place: Propstei Sankt Gerold
+released: 2006
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/39a8041d-6480-4704-812d-4c5c0e76e619
+  title: The Sonatas and Partitas for Violin Solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ea0573a-f97b-45ab-8099-ea4dca87cb39
+  recordings: [03d94743-290b-4889-a9a5-03aa357b644c]

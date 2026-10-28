@@ -1,0 +1,28 @@
+id: michael-rabin-undated
+performers:
+- name: Michael Rabin
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1005', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b34bb46f-b6fd-405a-9e0c-7fcc4ebb78dc
+  title: Michael Rabin 1936-1972
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f85593c8-4c9e-42a4-a12a-fb4b5b60d24f
+  recordings: [3154703e-12ef-4c94-9f28-9490bb0bc264]

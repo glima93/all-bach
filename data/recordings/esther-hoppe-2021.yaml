@@ -1,0 +1,31 @@
+id: esther-hoppe-2021
+performers:
+- name: Esther Hoppe
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: Kirche Neumünster
+released: 2022
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4acbbca9-c5cb-4d83-9da8-936d23ec5fd2
+  title: Sonatas & Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bcea78fa-c495-4981-b63b-31bca57f2057
+  recordings: [0106b884-71a0-4f8f-9dce-a61229319784]

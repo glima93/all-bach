@@ -1,0 +1,30 @@
+id: enrico-onofri-undated
+performers:
+- name: Enrico Onofri
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/32554c33-a325-4abe-86d6-0ef83d729aae
+  title: Sonata & Partitas, BWV 1001, 1004, 1006
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 602bb157-6a6c-4e13-a091-4f71ad640833
+  recordings: [05c53c44-8fa3-4ec5-9e2a-c2a563d08a76]

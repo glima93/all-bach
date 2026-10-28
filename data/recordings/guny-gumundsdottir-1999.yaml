@@ -1,0 +1,26 @@
+id: guny-gumundsdottir-1999
+performers:
+- name: Guðný Guðmundsdóttir
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Seltjarnarneskirkja
+released: 2002
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ecdc9907-38f0-47e2-a5c5-9388fb0da420
+  title: Þórarinn Jónsson / Johann Sebastian Bach / Hallgrímur Helgason / Hafliði Hallgrímsson
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: af6d0f99-c8ce-42a1-b498-a4b09e11e70e
+  recordings: [46731752-e446-427f-b0f7-bbed7a4eaee3]

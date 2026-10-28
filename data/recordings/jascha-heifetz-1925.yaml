@@ -1,0 +1,26 @@
+id: jascha-heifetz-1925
+performers:
+- name: Jascha Heifetz
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1925]
+  place: Victor’s Church Studio
+released: 1992
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Menuet I, Menuet II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a078cd4a-b350-4b02-92ad-f496f70c44e3
+  title: Sonaten/Sonates/Sonatas BWV 1001 & 1005, Partita BWV 1004
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eb7fb527-e324-441c-a0e9-63b5f899d990
+  recordings: [340b46a8-394e-4fd4-a089-c6e701acccf2]

@@ -1,0 +1,31 @@
+id: lucy-van-dael-1996
+performers:
+- name: Lucy van Dael
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Maria Minor
+released: 1999
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c10f4554-8766-4e2f-8702-1931e148db76
+  title: Sonatas and Partitas for Solo Violin, Volume 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 939208fe-2d06-4cfa-84f1-d6f42e949148
+  recordings: [0b04f32e-6f85-4837-a68d-8bd0ad543b7e]

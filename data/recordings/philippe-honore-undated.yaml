@@ -1,0 +1,28 @@
+id: philippe-honore-undated
+performers:
+- name: Philippe Honoré
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bddc30a8-f4ff-4e23-9c59-7ad9094f8476
+  title: 'Vikram Seth: An Equal Music'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cf308c38-160e-4a5d-bac9-8d6dda890d42
+  recordings: [ecdc7b04-b654-4ff5-9a22-7575800bebd3]

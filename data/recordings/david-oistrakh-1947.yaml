@@ -1,0 +1,27 @@
+id: david-oistrakh-1947
+performers:
+- name: David Oistrakh
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1947]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9b8ea64f-fbd3-4526-bee2-97c06d6da0e9
+  title: 'Historic Russian Archives: David Oistrakh: Chamber Music Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 67d957a2-8dc8-4036-bb2e-c00946f6cac3
+  recordings: [48b15a3e-469f-4a25-81d9-16645158e23e]

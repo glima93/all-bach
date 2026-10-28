@@ -1,0 +1,27 @@
+id: adam-kostecki-2023
+performers:
+- name: Adam Kostecki
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2023]
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dc87e21f-e9a8-48e1-876a-a0e85339d931
+  title: Chaconne in Two
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0db31a6b-dc8a-43f9-a1ed-89b2a179a45f
+  recordings: [cd2ce444-d51c-4236-ae2c-2ffee44050bd]

@@ -1,0 +1,28 @@
+id: hlif-sigurjonsdottir-2000
+performers:
+- name: Hlíf Sigurjónsdóttir
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000, 2001, 2002]
+  place: Reykholt Church
+released: null
+original_label: null
+works:
+- {bwv: '1002', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/efe8f649-9bfb-4ad5-a846-ab79c55da638
+  title: Sonatas and Partitas for Solo Violin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6032a4c5-eb5f-46d0-b587-b665297e38a8
+  recordings: [1346ef3d-f5bd-43a9-912a-feffec60b4dc]

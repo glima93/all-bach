@@ -1,0 +1,32 @@
+id: uto-ughi-1991
+performers:
+- name: Uto Ughi
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: Accademia Musicale Chigiana
+released: 1991
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: false, movements: [Allemanda, Double (Allemanda), Corrente, Sarabande, Double (Sarabande),
+    Tempo di Borea, Double (Tempo di Borea)]}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: false, movements: [Preludio, Loure, Gavotte en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/37adfb7b-ad23-4bda-8bc2-8cabefc0ee13
+  title: Violin Sonatas & Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0f1d6de-8c34-4a03-9dc2-f9e4578756a9
+  recordings: [03de26f0-af7a-4350-af2e-04be309e149f]

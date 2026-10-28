@@ -1,0 +1,28 @@
+id: emily-webb-undated
+performers:
+- name: Emily Webb
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/61c3646c-0801-41a4-9852-74113d284883
+  title: 'Bach Violin Sonata n.1 in G minor: Adagio'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2302385c-65e9-48bc-be39-88fa1a0504e5
+  recordings: [93cb25f4-fe59-4894-bcd0-24321b543bda]

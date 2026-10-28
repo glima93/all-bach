@@ -1,0 +1,29 @@
+id: capella-fidicinia-leipzig-undated
+performers:
+- name: Capella Fidicinia Leipzig
+  role: harpsichord
+instrument: harpsichord
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Siciliana]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6acb75d6-716f-4276-8401-17a40459e42f
+  title: 'Kammermusik 4: Hausmusik & Lieder'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0480f55d-c416-4537-91bd-fac323b5f78e
+  recordings: [198a6f3a-a141-424c-a8c2-fdfaa50987b9]

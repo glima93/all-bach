@@ -1,0 +1,34 @@
+id: gerard-poulet-undated
+performers:
+- name: Gérard Poulet
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Siciliana, Presto]}
+- {bwv: '1002', complete: false, movements: [Allemanda, Double (Allemanda), 'Double (Corrente), Presto', Sarabande,
+    Double (Sarabande), Tempo di Borea, Double (Tempo di Borea)]}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/23e9888f-fbfc-4683-b1ea-d30c00738cfd
+  title: Sonates & Partitas pour violon seul
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e979408a-b966-437d-94e3-a765e1c034f0
+  recordings: [0954bbfc-da00-47d5-93da-20b370cf93fd]

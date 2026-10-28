@@ -1,0 +1,31 @@
+id: martha-goldstein-undated
+performers:
+- name: Martha Goldstein
+  role: harpsichord
+- name: Alexander Murray
+  role: flute
+instrument: harpsichord
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Giga]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/445e661a-a4ea-49ba-8011-a1daeeb95173
+  title: The Murray Flute
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With flute.
+musicbrainz:
+  artist: e0ef8e76-94bc-4f2c-8295-d4208524b6d1
+  recordings: [e9e1af44-5b71-40aa-91ee-38b2ea56fa03]

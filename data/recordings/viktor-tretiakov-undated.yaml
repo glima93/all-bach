@@ -1,0 +1,28 @@
+id: viktor-tretiakov-undated
+performers:
+- name: Viktor Tretiakov
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/570a541a-2168-4c12-8434-9a930f3e89aa
+  title: 'Historic Russian Archives: Viktor Tretiakov Edition'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b70c091c-175a-4c02-be5d-2aae1765c0ea
+  recordings: [232b805b-a543-458e-be01-e18e11929491]

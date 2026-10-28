@@ -1,0 +1,28 @@
+id: joachim-kuhn-1999
+performers:
+- name: Joachim Kühn
+  role: piano
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1999]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5ffbdca2-bb80-4a62-bcf6-5049c28ba572
+  title: The Diminished Augmented System
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62804fe5-01d5-40f3-baa9-4e58fc74b5b0
+  recordings: [67fc1a9b-c852-4ec7-b6fa-73c33f7df932]

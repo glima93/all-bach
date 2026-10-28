@@ -1,0 +1,28 @@
+id: burkhard-wolk-1988
+performers:
+- name: Burkhard Wolk
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: Auferstehungskirche
+released: 1988
+original_label: null
+works:
+- {bwv: '1002', complete: true}
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6cc2ca84-c62f-4d3a-8eee-d096f5958811
+  title: Partita Nr. 1 h-moll, BWV 1002 / Partita Nr. 2 d-moll, BWV 1004
+status: draft
+help_wanted:
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c8f14ca8-9c28-48b3-b951-7cee111153e9
+  recordings: [40651612-b3eb-4319-a567-2b1e6f4c8cb9]

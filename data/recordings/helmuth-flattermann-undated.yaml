@@ -1,0 +1,28 @@
+id: helmuth-flattermann-undated
+performers:
+- name: Helmuth Flattermann
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b973ce6e-d9ff-4e84-a9fc-ba39c6c28948
+  title: 'Top 200 Classics: The Very Best of Classical Music'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 87a87873-7d9d-4c18-a9bc-e3fe5c2431fe
+  recordings: [a56b56ac-d158-4a94-b9b1-b4970d3158cc]

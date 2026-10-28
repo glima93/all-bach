@@ -1,0 +1,31 @@
+id: pavel-sporcl-2015
+performers:
+- name: Pavel Šporcl
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: Chapel of the Brethren Church
+released: 1999
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f1c6f293-816d-40a4-af4b-866e19df7320
+  title: 'Bach: Sonatas and Partitas for Solo Violin'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a832a441-9a87-4b76-8c1f-8fd4c40242a3
+  recordings: [0b150913-aea9-4864-b409-7a4f90e82b30]

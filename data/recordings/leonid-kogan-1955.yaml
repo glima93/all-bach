@@ -1,0 +1,28 @@
+id: leonid-kogan-1955
+performers:
+- name: Leonid Kogan
+  role: violin
+- name: Elizaveta Gilels
+  role: performer
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1955]
+  place: 'Abbey Road Studios: Studio 3'
+released: 2002
+original_label: null
+works:
+- {bwv: '1002', complete: false, movements: [Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f9fad37f-b082-45bf-8b56-a01c4f2218ba
+  title: 'Sonatas by Ysaÿe, Leclair, Telemann, Locatelli / Bach: Sarabande / Paganini: Cantabile'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5e80e838-a498-4dfc-8cf5-57e647fe4a6e
+  recordings: [af6509e9-d528-43b1-99ac-b3cedc805421]

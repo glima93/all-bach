@@ -1,0 +1,28 @@
+id: yulian-sitkovetsky-undated
+performers:
+- name: Yulian Sitkovetsky
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/90b6103a-4577-47de-900b-0f1acb3135de
+  title: Julian Sitkovetsky. Collection
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 46e190e8-dca2-438c-8404-6143e182ae89
+  recordings: [8b8f6531-aaf9-45d3-ba62-1e2c57dff875]

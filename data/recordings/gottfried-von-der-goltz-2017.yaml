@@ -1,0 +1,31 @@
+id: gottfried-von-der-goltz-2017
+performers:
+- name: Gottfried von der Goltz
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Ensemblehaus Freiburg
+released: 2018
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6778c5cd-103e-49a0-ba44-4e29d73c8fed
+  title: 'Bach: Sonatas & Partitas, BWV 1001-1006'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdd589cd-d6a9-44e9-913f-ae78f8f6c6d6
+  recordings: [1334d72d-2e57-49a8-9e7e-ea4fdcc06f4d]

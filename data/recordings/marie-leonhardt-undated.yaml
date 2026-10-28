@@ -1,0 +1,28 @@
+id: marie-leonhardt-undated
+performers:
+- name: Marie Leonhardt
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/52db7519-882a-4f66-91b6-85e00052f7a8
+  title: Chaconnes & Passacailles
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: be0803b9-5d9c-4336-b8d4-1ff26b7ebad0
+  recordings: [58b0c4ac-9295-4914-bc67-472ac3eb1d6d]

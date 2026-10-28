@@ -1,0 +1,31 @@
+id: joseph-szigeti-1955
+performers:
+- name: Joseph Szigeti
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1955, 1956]
+  place: CBS 30th Street Studio
+released: 1993
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cba70057-5963-4c8c-8610-a6a62ada5ec0
+  title: 6 Sonatas & Partitas for Violin Alone
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d8328ef7-c811-4e44-a56d-81a25da29ff0
+  recordings: [14a51738-1878-4e92-b80a-17b559f54d35]

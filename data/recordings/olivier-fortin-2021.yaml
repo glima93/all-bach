@@ -1,0 +1,29 @@
+id: olivier-fortin-2021
+performers:
+- name: Olivier Fortin
+  role: harpsichord
+- name: Julien Martin
+  role: recorder
+instrument: harpsichord
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2021]
+  place: Maison Forte
+released: 2023
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0013f822-4654-485f-9bcf-1d85e74f21b5
+  title: Bach Transcriptions
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With recorder.
+musicbrainz:
+  artist: 5d79f4ac-ff93-4e5b-a714-d5e1400ec8c4
+  recordings: [36ad8ce0-5bd1-482f-bc4b-acb03748975f]

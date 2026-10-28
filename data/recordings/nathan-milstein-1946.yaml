@@ -1,0 +1,26 @@
+id: nathan-milstein-1946
+performers:
+- name: Nathan Milstein
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1946]
+  place: Coolidge Auditorium
+released: 1996
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c33bfe91-c733-467e-9104-af38846ae36b
+  title: The 1946 Library of Congress Recital
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 0a428818-2623-406e-8453-600dce442e78
+  recordings: [4050b3ca-f122-409b-8a7e-04a8d891622c]

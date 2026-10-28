@@ -1,0 +1,28 @@
+id: stefan-nilsson-undated
+performers:
+- name: Stefan Nilsson
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9dc1f1ec-a46d-4317-a7d8-b2e846e0a309
+  title: Wie im Himmel
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b555a525-f5d0-43e1-87aa-94a0c80cc5e3
+  recordings: [3d74c4e6-762b-4e90-a7e6-d346050dcd2f]

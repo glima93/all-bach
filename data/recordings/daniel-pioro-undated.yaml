@@ -1,0 +1,28 @@
+id: daniel-pioro-undated
+performers:
+- name: Daniel Pioro
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/829adfd0-138f-476c-8c83-cd540e91fefa
+  title: 'Octatonic Volume 1: Partita no. 2 in D minor'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8b3ab413-172b-4ece-9f92-7a5a779e5a1e
+  recordings: [25e084b8-e953-414f-bada-46ef7df9f7c5]

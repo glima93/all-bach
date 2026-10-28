@@ -1,0 +1,31 @@
+id: tedi-papavrami-2020
+performers:
+- name: Tedi Papavrami
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2020]
+  place: Arsenal de Metz
+released: 2021
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d333619-58a8-4c75-9ac5-57c4c9159a88
+  title: Sonatas & Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 68fbb1a9-d898-46d5-be5e-145276309a63
+  recordings: [10e0bba6-4a82-415a-bc59-7c269076fee6]

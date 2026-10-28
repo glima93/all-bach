@@ -1,0 +1,28 @@
+id: mari-samuelsen-2018
+performers:
+- name: Mari Samuelsen
+  role: violin
+- name: Jonathan Stockhammer
+  role: performer
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018]
+  place: Teldex Studio
+released: 2019
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d205d5a7-8a65-439b-b02b-8fb32b74b820
+  title: Mari
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ecf7e740-3242-464f-8377-b8017b41e670
+  recordings: [478caf68-2953-42c3-b8b4-ef5a1e89ae81]

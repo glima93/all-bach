@@ -1,0 +1,28 @@
+id: susanne-lautenbacher-undated
+performers:
+- name: Susanne Lautenbacher
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1978
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/65f8fc32-f8ae-44bd-9391-994bd3f501d9
+  title: The Rage of 1710
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 051633e1-4d79-4e18-91ff-626c5bc480b7
+  recordings: [124e471d-3263-43b7-acd7-2f77cfa43eb6]

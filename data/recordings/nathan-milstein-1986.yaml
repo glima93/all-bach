@@ -1,0 +1,27 @@
+id: nathan-milstein-1986
+performers:
+- name: Nathan Milstein
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986]
+  place: Berwaldhallen
+released: 1995
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+- {bwv: '1005', complete: false, movements: [Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c27b46a5-3c04-41b7-b4d1-8d18bdb52852
+  title: The Last Recital
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 0a428818-2623-406e-8453-600dce442e78
+  recordings: [551bab9f-308f-43d4-829b-cb94d3a73199]

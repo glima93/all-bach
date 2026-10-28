@@ -1,0 +1,31 @@
+id: artist-d3f0fe2f-undated
+performers:
+- name: 川田知子
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59853312-1023-4a1c-a6c6-001123b963fb
+  title: Sonata & Partita BWV1004 - 1006
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d3f0fe2f-7859-44ea-a71c-f1737e78a13a
+  recordings: [1d0ffa93-65b9-4e42-bb38-83e3541cfe90]

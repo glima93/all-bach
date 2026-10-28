@@ -1,0 +1,29 @@
+id: priscilla-palmer-undated
+performers:
+- name: Priscilla Palmer
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd568a45-e02c-4050-9523-a35e07ff27e4
+  title: Partita II in D minor / Partita III in E major
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 87926527-4952-468a-be56-9e8f7d675d27
+  recordings: [1abd6042-3511-4afd-a8ce-193f1a7f0b26]

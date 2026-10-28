@@ -1,0 +1,31 @@
+id: lara-st-john-2006
+performers:
+- name: Lara St. John
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2006]
+  place: Skywalker Sound
+released: 2008
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/980ac468-3e17-48f9-8a42-adcf9043c241
+  title: The Six Sonatas & Partitas for Violin Solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a05b33fd-c464-440c-8ebc-83fa84e4620d
+  recordings: [0c4f6437-359f-4423-b44d-8595ea862d33]

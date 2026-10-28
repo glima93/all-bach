@@ -1,0 +1,28 @@
+id: ilya-gringolts-2002
+performers:
+- name: Ilya Gringolts
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002]
+  place: Galaxy Studios
+released: 2003
+original_label: null
+works:
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7dad50d9-e908-4bae-ba24-5b2a665d013d
+  title: Partitas For Violin Nos. 1 & 3 Sonata No. 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 311fd710-7035-4248-972e-f4b6296ede0b
+  recordings: [20dec91c-45cf-4955-a9a1-b17b56af35b7]

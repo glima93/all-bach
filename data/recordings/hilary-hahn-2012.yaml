@@ -1,0 +1,29 @@
+id: hilary-hahn-2012
+performers:
+- name: Hilary Hahn
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: Sosnoff Theater
+released: 2018
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: false, movements: [Allemanda, Double (Allemanda), Corrente, 'Double (Corrente), Presto',
+    Sarabande, Double (Sarabande), Tempo di Borea]}
+- {bwv: '1003', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/059885b9-9e50-4faa-979f-2ef331fff409
+  title: 'Hilary Hahn plays Bach: Sonatas 1 & 2 / Partita 1'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93dbb52a-3d19-4f64-adc6-524f1921765b
+  recordings: [0edf7ee5-fece-4853-9942-ea36571614dd]

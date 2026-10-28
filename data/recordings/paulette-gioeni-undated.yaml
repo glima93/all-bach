@@ -1,0 +1,29 @@
+id: paulette-gioeni-undated
+performers:
+- name: Paulette Gioeni
+  role: marimba
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/39638de6-1022-42a6-ae9b-7fe15c77ac3f
+  title: Gioeni Plays Bach, Giuliani, Cheung
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on marimba.
+musicbrainz:
+  artist: b85d974e-7a00-4ae7-8a9d-ef9b26bc42d2
+  recordings: [5fb1460f-183d-4d7d-8d0f-a14037b72c37]

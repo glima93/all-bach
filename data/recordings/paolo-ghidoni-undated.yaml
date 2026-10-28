@@ -1,0 +1,28 @@
+id: paolo-ghidoni-undated
+performers:
+- name: Paolo Ghidoni
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/46334cb5-1bd2-4b3c-8dae-b700c2f5f68f
+  title: The Essential Chamber Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e1757f3c-d245-45e4-8260-52d044e9529f
+  recordings: [ec8f609f-70b6-46e8-9394-a6dd3584c19c]

@@ -1,0 +1,28 @@
+id: luigi-attademo-2009
+performers:
+- name: Luigi Attademo
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2009]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ea9c46c9-7f69-45c4-82b0-da5771993273
+  title: Suites for Guitar
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5275f58a-10e2-4e77-ac05-b57bb3defebd
+  recordings: [547516a3-d374-4977-a827-8c99e9c1ccb3]

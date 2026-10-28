@@ -1,0 +1,31 @@
+id: miriam-fried-2016
+performers:
+- name: Miriam Fried
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Jerusalem Music Centre
+released: 2017
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/657c64f2-6d8d-4084-b395-045567520ba4
+  title: Sonatas & Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e94aad58-cc67-4955-b1a0-53bd6ea6ff2f
+  recordings: [08559a51-3a92-4b1f-81ce-784c28a66b8a]

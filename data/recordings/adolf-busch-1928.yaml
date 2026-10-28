@@ -1,0 +1,27 @@
+id: adolf-busch-1928
+performers:
+- name: Adolf Busch
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1928]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Sarabanda]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7eada0c2-a184-4907-8d8d-595a2cccc58b
+  title: The European Busch-Serkin Duo Recordings, Vol. 3
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c9a5f1be-50cd-4136-9330-67370734a311
+  recordings: [a34f3efa-9772-45c4-b8e0-db907c6fa929]

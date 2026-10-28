@@ -1,0 +1,31 @@
+id: gidon-kremer-1980
+performers:
+- name: Gidon Kremer
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980]
+  place: Lutherse Kerk
+released: 1983
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e9c4f59e-0284-4314-9560-25e8c53b083f
+  title: 3 Sonate e 3 Partite per violino solo BWV 1001–1006
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e2c8b2ea-8b6e-4d6e-9ea5-e2b34b073045
+  recordings: [04b25e9f-4aeb-4949-8ffc-743e97e659bd]

@@ -1,0 +1,26 @@
+id: francisco-fullana-2021
+performers:
+- name: Francisco Fullana
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: Saint Joseph’s Art Society
+released: 2021
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c8672919-a626-4cc5-b5db-63f85cfd028a
+  title: 'Bach’s Long Shadow: The Chaconne Files'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6dece192-6fb1-4e09-a963-e4580846da14
+  recordings: [179fda05-f0b4-4ee1-941b-0eb2f71ff316]

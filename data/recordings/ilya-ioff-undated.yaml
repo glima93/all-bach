@@ -1,0 +1,28 @@
+id: ilya-ioff-undated
+performers:
+- name: Ilya Ioff
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b080e461-fab7-4739-ac40-b99b85ebd67c
+  title: 'Classical Masterpieces: The Best of Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4d5fa31c-d5f5-436d-8614-7fe1fda3fc0f
+  recordings: [fe5a89db-64bc-4489-a0e9-3e8f92500b41]

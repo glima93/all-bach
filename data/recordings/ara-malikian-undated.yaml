@@ -1,0 +1,33 @@
+id: ara-malikian-undated
+performers:
+- name: Ara Malikian
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fe68db42-a96d-4941-a591-0395670fdba9
+  title: Sonatas y partitas para violín solo BWV 1001 - 1006
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 50d60dda-b9c3-46e3-8b75-cd5e7ea20f1c
+  recordings: [06a13a57-33b6-4c34-a0eb-39fd3aad973d]

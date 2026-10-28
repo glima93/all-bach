@@ -1,0 +1,31 @@
+id: sirkka-liisa-kaakinen-pilch-2012
+performers:
+- name: Sirkka-Liisa Kaakinen-Pilch
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: Sankta Katarina kyrka
+released: 2013
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d280a452-93eb-496e-9228-33ca2c874514
+  title: Sonatas and Partitas for Solo Violin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6db59a33-9cf2-452d-90aa-15e1dd76bfad
+  recordings: [0735be3e-8773-4604-99e7-5572ec531474]

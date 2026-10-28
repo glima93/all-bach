@@ -1,0 +1,33 @@
+id: tamas-fejes-undated
+performers:
+- name: Tamás Fejes
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Rosslyn Chapel
+released: 2016
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: false, movements: [Allemanda, Corrente, 'Double (Corrente), Presto', Sarabande, Double
+      (Sarabande), Tempo di Borea, Double (Tempo di Borea)]}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a19b281c-06db-4114-8249-99c1e5856dfe
+  title: Bach Sonatas and Partitas for solo violin
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 093d5194-37ce-4d32-b889-2b910024cd35
+  recordings: [04537cb6-6e9e-4282-a068-5f79b34becc0]

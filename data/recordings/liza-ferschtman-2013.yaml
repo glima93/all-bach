@@ -1,0 +1,26 @@
+id: liza-ferschtman-2013
+performers:
+- name: Liza Ferschtman
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2013]
+  place: Galaxy Studios
+released: 2014
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/27408ea3-55fe-4e37-96d0-88ab56591ee9
+  title: Biber / Bartók / Berio / Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9034097c-3263-42e6-90df-85c449d1e665
+  recordings: [7de68336-9dcc-47a8-82c4-e7a64539ea42]

@@ -1,0 +1,26 @@
+id: tomo-keller-1999
+performers:
+- name: Tomo Keller
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Theodor-Egel-Saal
+released: 2000
+original_label: null
+works:
+- {bwv: '1002', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/591848ce-07e9-4577-b387-204c935a9a63
+  title: Violine
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c6de3f95-74e7-4cac-89cb-84cc7ef00a3a
+  recordings: [289d33f7-f325-4d63-9d2b-55f84dee6ee7]

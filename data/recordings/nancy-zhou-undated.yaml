@@ -1,0 +1,28 @@
+id: nancy-zhou-undated
+performers:
+- name: Nancy Zhou
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '1002', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de9682dc-fad6-41b5-8a20-06b4651b05d4
+  title: Stories (re)Traced
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ff74a057-623d-4b5f-adcf-0ddc7ff50141
+  recordings: [070784e7-d81f-4055-a650-9a7275a47615]

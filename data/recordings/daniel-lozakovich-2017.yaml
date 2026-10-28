@@ -1,0 +1,27 @@
+id: daniel-lozakovich-2017
+performers:
+- name: Daniel Lozakovich
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017, 2019]
+  place: Teldex Studio
+released: 2018
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Adagio]}
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c5acf96c-c37c-4e54-86a5-45ea19c8a3da
+  title: Violin Concertos nos. 1 & 2 / Partita no. 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52a7dc7a-cc8a-4501-91e9-4e5071a8820d
+  recordings: [50d90a53-9482-4060-8f3d-2054e68f04b4]

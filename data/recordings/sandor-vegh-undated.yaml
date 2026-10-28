@@ -1,0 +1,30 @@
+id: sandor-vegh-undated
+performers:
+- name: Sándor Végh
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/229d81df-20c8-48eb-8513-d06d2c19bf35
+  title: Sonates et Partitas pour violon seul BWV 1001 - 1006
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 97bb0876-eb88-4e55-b2b3-5087b150bba7
+  recordings: [0008f1f2-609d-4897-8934-a3f2c04abe2f]

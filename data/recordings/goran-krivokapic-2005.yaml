@@ -1,0 +1,27 @@
+id: goran-krivokapic-2005
+performers:
+- name: Goran Krivokapić
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2005]
+  place: Saint John Chrysostom Church
+released: 2005
+original_label: null
+works:
+- {bwv: '1005', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f30f4a14-7010-48a4-bdd9-097dcb68c51b
+  title: Guitar Recital
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 23c015ca-dcca-4841-ae4f-f56c9a6563ad
+  recordings: [3f0496a2-e35f-4dc9-b5d3-be53c03d4eeb]

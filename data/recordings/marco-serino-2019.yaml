@@ -1,0 +1,26 @@
+id: marco-serino-2019
+performers:
+- name: Marco Serino
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2019]
+  place: Auditorium della Compagnia
+released: 2025
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15bbeec3-f2eb-499b-b53f-7d2dab488c4d
+  title: 'Metamorphoses: Toccata, Partita and Suites for Solo Violin'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bbae0eb1-7d1b-4ecb-b141-02fd67a28c3f
+  recordings: [433be732-2517-4a36-a23d-83d406ef3b44]

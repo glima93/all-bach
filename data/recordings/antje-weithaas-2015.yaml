@@ -1,0 +1,29 @@
+id: antje-weithaas-2015
+performers:
+- name: Antje Weithaas
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: Deutschlandfunk Kammermusiksaal
+released: 2014
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9a44e285-7392-45e1-a03e-ff63c481e7a1
+  title: Bach & Ysaÿe 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29ab2eae-f7f0-4561-ad4b-f472507a129e
+  recordings: [166121b9-7131-4dc4-8696-651dcba920d1]

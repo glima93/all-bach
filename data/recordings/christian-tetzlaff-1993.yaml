@@ -1,0 +1,31 @@
+id: christian-tetzlaff-1993
+performers:
+- name: Christian Tetzlaff
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: Saint George’s, Bristol
+released: 2004
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6275b06e-7b1b-4003-ab7d-39025cce85ae
+  title: Sonatas & Partitas for Solo Violin / Cello Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 914e5482-8981-4f52-8b4a-98c4da0e2819
+  recordings: [082d196c-f87d-42e5-875c-209dd478a562]

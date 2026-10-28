@@ -1,0 +1,31 @@
+id: david-grimal-2021
+performers:
+- name: David Grimal
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: 'Abbaye de Royaumont: Réfectoire des moines'
+released: 2023
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f861f54f-84b2-468a-8681-a7025bc0dbbf
+  title: Sonatas & Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 77f5c6f7-03e1-4237-8966-54cc202d038d
+  recordings: [02be7c2f-6c3f-459f-b7a0-48ba13aedfc2]

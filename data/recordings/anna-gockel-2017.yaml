@@ -1,0 +1,31 @@
+id: anna-gockel-2017
+performers:
+- name: Anna Göckel
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Église luthérienne de Bon Secours
+released: 2018
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4af63fd0-46da-48fe-94e4-655219263627
+  title: 'Sei solo: Sonates et partitas pour violon seul'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52bd65ad-cfae-428c-8b2b-b4b899e231d1
+  recordings: [27241473-dda3-410b-82c3-37571e76ef8e]

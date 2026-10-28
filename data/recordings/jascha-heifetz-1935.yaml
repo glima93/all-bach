@@ -1,0 +1,28 @@
+id: jascha-heifetz-1935
+performers:
+- name: Jascha Heifetz
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1935]
+  place: Abbey Road Studios
+released: 1992
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a078cd4a-b350-4b02-92ad-f496f70c44e3
+  title: Sonaten/Sonates/Sonatas BWV 1001 & 1005, Partita BWV 1004
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eb7fb527-e324-441c-a0e9-63b5f899d990
+  recordings: [0837a834-10e8-470b-8fd9-952be8644e1c]

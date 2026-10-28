@@ -1,0 +1,28 @@
+id: bela-fleck-undated
+performers:
+- name: Béla Fleck
+  role: banjo
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Sanctuary Studios
+released: 2001
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f264b968-4e65-4b6c-8cbb-340f13cc77c0
+  title: Perpetual Motion
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on banjo.
+musicbrainz:
+  artist: e1a889b7-5e45-447f-baa0-b9c6cbc0d39f
+  recordings: [86a58361-b449-4c1d-a7e4-95a227469334]

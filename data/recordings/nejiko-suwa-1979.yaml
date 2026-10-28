@@ -1,0 +1,27 @@
+id: nejiko-suwa-1979
+performers:
+- name: Nejiko Suwa
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4c12cc1f-25b2-4fe4-b6b6-07be8fb58f05
+  title: エヴァンゲリオン・クラシック4 バッハ:管弦楽組曲第3番「アリア」他
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9c952ea4-4cd7-4631-9a48-9dbf617401d5
+  recordings: [1d46f644-7547-4d0e-8226-6d5d11cac629]

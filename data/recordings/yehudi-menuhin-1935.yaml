@@ -1,0 +1,29 @@
+id: yehudi-menuhin-1935
+performers:
+- name: Yehudi Menuhin
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1935, 1936]
+  place: Studio Albert
+released: 1989
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/580be619-923c-4a1c-94bf-48641ebf2e84
+  title: Sonatas & Partitas for solo violin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a8949f5-d681-4df2-a2fd-a08966ae2d31
+  recordings: [08a0921a-3af7-47ba-86f7-6db26c00321d]

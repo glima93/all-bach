@@ -1,0 +1,32 @@
+id: gunar-letzbor-2011
+performers:
+- name: Gunar Letzbor
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2011]
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4712512a-2fcf-461f-9da3-87888fa658b2
+  title: 'Sonatas: BWV 1001, 1003, 1005'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f9aad703-d5f0-422c-bb9d-644e82f0d454
+  recordings: [28d7cb3a-8498-47dd-bce6-2714af2b4b0f]

@@ -1,0 +1,26 @@
+id: maxim-vengerov-2012
+performers:
+- name: Maxim Vengerov
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: Wigmore Hall
+released: 2012
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3dabea47-b141-4ed9-bff9-3ae896e118a1
+  title: Bach / Beethoven
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: e7aa41e4-23c2-48ef-a89c-89296edabf41
+  recordings: [672e0c3d-eb66-4482-9470-f01d625cfbbc]

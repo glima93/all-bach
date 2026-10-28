@@ -1,0 +1,29 @@
+id: sebastian-bohren-2017
+performers:
+- name: Sebastian Bohren
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1b1569ff-2ddb-4e04-bae7-68321dfc7cdf
+  title: Sonatas & Partitas BWV 1004 -1006
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7384781e-3981-43b8-9b93-4d22ca48413f
+  recordings: [2ca7bfec-3252-45e5-ace0-b7dd812bad07]

@@ -1,0 +1,26 @@
+id: michelle-makarski-1995
+performers:
+- name: Michelle Makarski
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Propstei Sankt Gerold
+released: 1997
+original_label: null
+works:
+- {bwv: '1002', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6b747834-2d7c-4be0-ab2a-5a00f9c0b751
+  title: Caoine
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dae9e0ba-fcaf-4046-9e2f-818e33f37ab8
+  recordings: [1ca6cfdd-e241-4905-96e5-cfb974d20843]

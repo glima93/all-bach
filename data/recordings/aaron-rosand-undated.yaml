@@ -1,0 +1,30 @@
+id: aaron-rosand-undated
+performers:
+- name: Aaron Rosand
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1006', complete: false, movements: [Preludio, Gavotte en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2ab8983a-2c9c-48d3-81f8-d20ae0fdcf1e
+  title: The 50 Most Essential Pieces of Classical Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e26627cb-cd86-4c7e-ac6b-bc7676d9a4d8
+  recordings: [2873be2d-478d-4fdc-bb7c-c40e2c0b5e7c]

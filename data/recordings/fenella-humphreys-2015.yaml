@@ -1,0 +1,27 @@
+id: fenella-humphreys-2015
+performers:
+- name: Fenella Humphreys
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: Music Room at Champs Hill
+released: 2015
+original_label: null
+works:
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/72ed0055-3b69-435d-9bb6-f8e9c997d927
+  title: Bach 2 the Future, Vol. 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 836fd1a2-b253-4907-8b7a-1f7e0563b350
+  recordings: [4528d655-107e-4938-bf01-50e9373148f7]

@@ -1,0 +1,33 @@
+id: gilles-colliard-undated
+performers:
+- name: Gilles Colliard
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd57e8d5-33c2-44f7-b189-228b9e00c2a1
+  title: Violin Sonatas & Partitas, BWV 1001-1006
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95a0d083-e655-4e90-81c3-4cfc5eb690ec
+  recordings: [05257e37-9638-4683-b6de-d73a7508847e]

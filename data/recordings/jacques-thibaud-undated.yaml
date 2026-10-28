@@ -1,0 +1,28 @@
+id: jacques-thibaud-undated
+performers:
+- name: Jacques Thibaud
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio, Gavotte en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/04bb6a06-6839-4e11-8b46-b7e5f2709180
+  title: 'The Complete Solo Recordings, 1929-1936 / Lalo: Symphonie espagnole'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 88c06e6f-283d-4efe-b587-5143396d0f63
+  recordings: [730fbad1-a35c-493f-9eeb-61fae8c6eabf]

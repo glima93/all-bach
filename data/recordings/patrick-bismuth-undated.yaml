@@ -1,0 +1,28 @@
+id: patrick-bismuth-undated
+performers:
+- name: Patrick Bismuth
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1003', complete: false, movements: [Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/093a7ecb-df14-42fa-bd7e-b145dfa9e082
+  title: 25 années d'urgence et de création
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b0d03632-a907-4c0a-a770-899e355d08fb
+  recordings: [fa8228a9-940d-4657-b264-c1e070a6bfd5]

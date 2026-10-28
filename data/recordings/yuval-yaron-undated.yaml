@@ -1,0 +1,33 @@
+id: yuval-yaron-undated
+performers:
+- name: Yuval Yaron
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee89e365-f2e5-4869-b1b0-0a85e754add9
+  title: Les Sonates et Partitas pour Violon Seul BWV 1001-1006
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8da425cf-a8c8-4bc0-acfc-29b0449e44d3
+  recordings: [06773a63-1b35-4bee-9744-48a8e431e4bf]

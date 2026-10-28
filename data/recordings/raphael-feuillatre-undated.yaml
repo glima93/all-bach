@@ -1,0 +1,28 @@
+id: raphael-feuillatre-undated
+performers:
+- name: Raphaël Feuillâtre
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: b‐sharp
+released: 2023
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Gavotte en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3bfed6d7-42d5-4425-901d-37cab7152ee4
+  title: Visages baroques
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 78975763-1398-4725-b1be-80ad7e60dc54
+  recordings: [b5a56012-edd6-456a-8e89-86f902f40958]

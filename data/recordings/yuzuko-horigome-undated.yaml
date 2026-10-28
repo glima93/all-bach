@@ -1,0 +1,28 @@
+id: yuzuko-horigome-undated
+performers:
+- name: Yuzuko Horigome
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f2a7aeb-f879-4d33-bb64-2856ff2f3139
+  title: 'Greatest Hits: Violin'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6dcd325c-0d20-4ec7-94e9-b5b2820d6707
+  recordings: [88cd3a7d-e261-4064-8898-365b6eef1e7e]

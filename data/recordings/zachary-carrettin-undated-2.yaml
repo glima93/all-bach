@@ -1,0 +1,28 @@
+id: zachary-carrettin-undated-2
+performers:
+- name: Zachary Carrettin
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c31b434b-7d0f-4e7c-baa0-1c44eb62e493
+  title: Bach Uncaged
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2197d02d-ed0c-4f95-bb98-87388567f68d
+  recordings: [5d0e410d-6bd1-4a03-b909-5517344cc9cc]

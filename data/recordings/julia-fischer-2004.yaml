@@ -1,0 +1,32 @@
+id: julia-fischer-2004
+performers:
+- name: Julia Fischer
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2004]
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7c6b13ae-7223-46f0-9317-615c9b5d8473
+  title: Sonatas and Partitas for Solo Violin
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 80c55753-a426-4aa5-8d47-d60c2be82a81
+  recordings: [009ee787-085b-4927-a93f-993972c231d8]

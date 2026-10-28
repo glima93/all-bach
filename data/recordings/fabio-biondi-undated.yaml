@@ -1,0 +1,33 @@
+id: fabio-biondi-undated
+performers:
+- name: Fabio Biondi
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8ef97ff-a77d-4c77-96d0-1955ef608892
+  title: Sonatas & Partitas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 564ff36e-509d-4827-9c3f-6e5e3f2c0553
+  recordings: [0210f3ec-7eb2-4104-8b51-5472e8373b07]

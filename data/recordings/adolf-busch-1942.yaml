@@ -1,0 +1,27 @@
+id: adolf-busch-1942
+performers:
+- name: Adolf Busch
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1942]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1005', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/12a9f7dc-4d7c-4b8e-9136-25be63616401
+  title: Sonata no. 3 in C major for Violin Unaccompanied
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c9a5f1be-50cd-4136-9330-67370734a311
+  recordings: [27526c98-3c91-49cc-baf4-91f726598647]

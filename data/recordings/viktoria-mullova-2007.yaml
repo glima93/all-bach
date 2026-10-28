@@ -1,0 +1,32 @@
+id: viktoria-mullova-2007
+performers:
+- name: Viktoria Mullova
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8cf67837-ebd5-42cb-8e4e-245504af838c
+  title: 6 Solo Sonatas and Partitas
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 02bd2dff-f337-4788-9e75-0eb6beb932ac
+  recordings: [0985a52e-4ab2-460a-a7fb-adacfedaefd8]

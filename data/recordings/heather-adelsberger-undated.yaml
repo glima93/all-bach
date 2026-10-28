@@ -1,0 +1,30 @@
+id: heather-adelsberger-undated
+performers:
+- name: Heather Adelsberger
+  role: piano
+- name: Destiny Ann Mermagen
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Harris Concert Hall; White Recital Hall, University of Missouri-Kansas City
+released: 2018
+original_label: null
+works:
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0d2eda2-954f-4cf1-a9e1-f52056f4583d
+  title: Bach to Barn Burners
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With piano.
+musicbrainz:
+  artist: e813dfa0-1721-4965-b81a-9332a561c7ed
+  recordings: [0757d051-2bcd-42e9-8703-f1cf027e4ede]

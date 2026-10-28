@@ -1,0 +1,33 @@
+id: bretislav-novotny-undated
+performers:
+- name: Břetislav Novotný
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7c536519-10f3-4733-a988-2a041c218388
+  title: Sonatas and Partitas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 12b9bca5-80f7-4df9-a8a2-9c8e03420397
+  recordings: [0657071f-0402-408d-b913-5a93cecd08ed]

@@ -1,0 +1,28 @@
+id: esther-yoo-undated
+performers:
+- name: Esther Yoo
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: The Friary
+released: 2018
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/be8c7ccc-1824-4c82-a147-a94958d071f9
+  title: On Chesil Beach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With viola, cello.
+musicbrainz:
+  artist: fb169e2f-2636-4f84-9041-079a28a2a066
+  recordings: [d792e318-e539-4bde-a38b-666bb77f2518]

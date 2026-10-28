@@ -1,0 +1,31 @@
+id: rachel-podger-1997
+performers:
+- name: Rachel Podger
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: Doopsgezinde kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9dc1188d-2131-49e7-8bc4-5392ad2e3081
+  title: Sonatas and Partitas, Vol. 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a11b6112-9a07-4fc9-b0a6-a7487275bb2b
+  recordings: [07e523ee-5720-46d8-9104-d359dd2e6f66]

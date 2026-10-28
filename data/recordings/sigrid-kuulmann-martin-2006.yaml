@@ -1,0 +1,27 @@
+id: sigrid-kuulmann-martin-2006
+performers:
+- name: Sigrid Kuulmann-Martin
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2006]
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30cd1e85-0761-4af7-b4f8-5d8bb8739d2d
+  title: Works for Solo Violin
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1e539bca-ca77-42d2-9e94-29d1a71340f4
+  recordings: [68970f78-14b8-40e8-8096-6619e3b0aef4]

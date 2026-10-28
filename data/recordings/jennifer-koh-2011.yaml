@@ -1,0 +1,31 @@
+id: jennifer-koh-2011
+performers:
+- name: Jennifer Koh
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2011, 2012, 2014, 2017, 2019]
+  place: The American Academy of Arts and Letters
+released: 2012
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6e82e396-f7b9-43b5-9b93-f8ed135f2fa6
+  title: Bach & Beyond, Part 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b347cd47-034f-4437-8419-ca3f372ca8b4
+  recordings: [64d7dac8-4ff2-4955-9cc0-a0674548fc68]

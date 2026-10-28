@@ -1,0 +1,26 @@
+id: gordan-nikolitch-2012
+performers:
+- name: Gordan Nikolitch
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: St. Giles’ without Cripplegate
+released: 2012
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Allemanda, Corrente, Sarabanda, Giga]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c0c8b86c-d5ce-47dd-93d9-3cea31ff12cb
+  title: 'Fauré: Requiem / Bach: Partita, Chorales & Ciaconna'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 3206cf3e-4aae-4a7d-908b-6af02ed1e2a6
+  recordings: [4a1a7edc-c075-4c06-bbb8-45377a8075bf]

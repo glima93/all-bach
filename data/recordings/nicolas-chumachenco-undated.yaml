@@ -1,0 +1,28 @@
+id: nicolas-chumachenco-undated
+performers:
+- name: Nicolas Chumachenco
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8680d14c-072f-4921-be50-3feca8699b78
+  title: The Art of the Disc
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ae6dedd2-bf99-4ac3-87c2-d21186f35947
+  recordings: [1453c8e6-f776-43a1-82a0-a7d6d0a62552]

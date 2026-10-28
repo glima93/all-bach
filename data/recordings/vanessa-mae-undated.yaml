@@ -1,0 +1,28 @@
+id: vanessa-mae-undated
+performers:
+- name: Vanessa‐Mae
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0cb4433-6510-40a6-aa10-a039391b2fd1
+  title: The Classical Album 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c75d637d-bcca-4123-9ffa-fab3c01be71a
+  recordings: [0c39a55f-f433-49d5-9fc5-60981e624a24]

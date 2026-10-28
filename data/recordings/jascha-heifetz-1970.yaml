@@ -1,0 +1,27 @@
+id: jascha-heifetz-1970
+performers:
+- name: Jascha Heifetz
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970, 1972]
+  place: Studio 102, Radio France
+released: 1975
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+- {bwv: '1006', complete: false, movements: [Preludio, Loure, Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e43586e5-4b7c-4bf5-b340-ef7e02221cfd
+  title: 'The Heifetz Collection, Volume 34: Mozart: Quintet, K. 515 / Bach: Chaconne / Mendelssohn: Trio, op. 66'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: eb7fb527-e324-441c-a0e9-63b5f899d990
+  recordings: [7cb10c03-1ac3-42e9-b354-69a6e87c3862]

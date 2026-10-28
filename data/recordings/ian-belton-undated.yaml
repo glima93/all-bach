@@ -1,0 +1,36 @@
+id: ian-belton-undated
+performers:
+- name: Ian Belton
+  role: violin
+- name: Paul Cassidy
+  role: viola
+- name: Gina McCormack
+  role: violin
+- name: Jacqueline Thomas
+  role: cello
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: St. Silas the Martyr
+released: 2021
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1005', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/36de60c5-d6a1-4484-8b54-ef973e49073a
+  title: Homage to Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With viola, cello.
+musicbrainz:
+  artist: e82bd232-3281-4ab1-8fd0-bc33c544cc8f
+  recordings: [034bd6be-4cf0-42a6-9d0c-2966ba97ddc4]

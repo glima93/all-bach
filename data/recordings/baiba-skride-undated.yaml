@@ -1,0 +1,29 @@
+id: baiba-skride-undated
+performers:
+- name: Baiba Skride
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c82fd130-3640-4e30-9933-2cc918167515
+  title: 'Bach: Partita no. 2 for Violin Solo / Ysaÿe: Sonata no. 1 for Violin Solo / Bartók: Sonata for Violin
+    Solo'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2f7c41b1-152b-4c53-8efd-54cd229789ac
+  recordings: [6c537bcc-b557-43c3-8759-3e47e8b2372b]

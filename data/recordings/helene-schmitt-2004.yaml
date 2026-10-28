@@ -1,0 +1,32 @@
+id: helene-schmitt-2004
+performers:
+- name: Hélène Schmitt
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2004]
+  place: Chapelle de l'hôpital Notre-Dame de Bon Secours
+released: 2005
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: false, movements: [Allemanda, Double (Allemanda), Corrente, 'Double (Corrente), Presto',
+    Sarabande, Tempo di Borea, Double (Tempo di Borea)]}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/78549db8-0b98-44db-8156-6b7e1839a93d
+  title: Sei Solo a Violino senza Basso accompagnato - I
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3fd3174d-2587-44bc-9876-a76142116e8f
+  recordings: [060502e8-767c-467a-b814-ee255c15c1a3]

@@ -1,0 +1,31 @@
+id: leila-schayegh-2019
+performers:
+- name: Leila Schayegh
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2019]
+  place: Salle de Musique
+released: 2021
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/32c963f2-7519-459b-afde-ab081d605921
+  title: Sonatas & Partitas, BWVV 1001-1006
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 903ea9cf-352a-4e16-8210-2fa2133b2ecb
+  recordings: [2d040b2c-d06e-4ddb-8dc2-4f316b1cf854]

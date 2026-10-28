@@ -1,0 +1,26 @@
+id: carolin-widmann-2021
+performers:
+- name: Carolin Widmann
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: Auditorio Stelio Molo
+released: 2022
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8a023cc3-26f6-474d-92e2-dd2ab71f29d3
+  title: L’Aurore
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a0a03e54-177f-4013-9a16-30808886ff0b
+  recordings: [969a700f-93c8-4e92-9e71-4f28e953582e]

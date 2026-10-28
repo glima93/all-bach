@@ -1,0 +1,28 @@
+id: lionel-tertis-1925
+performers:
+- name: Lionel Tertis
+  role: viola
+instrument: viola
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1925]
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e496cc83-4d73-425a-b1bf-de1a1407c06d
+  title: 'Bax: Viola Sonata / Brahms: Sonata in F minor / Bach: Chaconne / Delius: Second Sonata'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5286b09d-f187-4a2c-a85f-6db982a94482
+  recordings: [f91493be-6c2a-46e0-8d99-eaf8fec30f57]

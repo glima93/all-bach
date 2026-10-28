@@ -1,0 +1,34 @@
+id: rudolf-gahler-undated
+performers:
+- name: Rudolf Gähler
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: false, movements: [Allemanda, Double (Allemanda), Corrente, 'Double (Corrente), Presto',
+    Double (Sarabande), Tempo di Borea, Double (Tempo di Borea)]}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44f53f7b-7a0c-4796-b06c-1077327b13ff
+  title: Baroque Masterpieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bba1def-53ac-4875-a7ff-c14237ff9f62
+  recordings: [0256ba37-15d9-4d5e-92fa-01d2bda48e8e]

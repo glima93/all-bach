@@ -1,0 +1,31 @@
+id: thomas-zehetmair-2016
+performers:
+- name: Thomas Zehetmair
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Propstei Sankt Gerold
+released: 2019
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cadc78c7-3666-4789-a7c8-5d3d8b09a840
+  title: 'Sei Solo: The Sonatas and Partitas for Violin Solo'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 966e515c-1544-45b1-9597-5bc2b1de44a2
+  recordings: [0ade08f1-9fc5-4f8a-a790-e424c532397c]

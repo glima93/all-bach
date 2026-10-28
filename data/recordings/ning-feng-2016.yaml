@@ -1,0 +1,31 @@
+id: ning-feng-2016
+performers:
+- name: Ning Feng
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Doopsgezinde kerk
+released: 2018
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fbd769f5-fddf-4a57-8205-85eb3cb43122
+  title: Sonatas and Partitas for solo violin BWV 1001-1006
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed86eb0b-4317-4f53-b5c0-a6d5ad0299ba
+  recordings: [008f70fe-7837-4205-84a4-6a37a7ec0b4b]

@@ -1,0 +1,26 @@
+id: lisa-batiashvili-2014
+performers:
+- name: Lisa Batiashvili
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2014]
+  place: Himmelfahrtskirche
+released: 2014
+original_label: null
+works:
+- {bwv: '1003', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d3c6edf-de15-40ee-b90b-a422953c3d5c
+  title: Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b0f0c8b-d661-4d1e-96e0-eed0f68ef495
+  recordings: [523c057f-abd6-4f69-8d78-334b6e794909]

@@ -1,0 +1,30 @@
+id: henryk-szeryng-undated
+performers:
+- name: Henryk Szeryng
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+- {bwv: '1006', complete: false, movements: [Preludio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f46ec669-dfa9-494c-bbc6-c5c94bff428f
+  title: Basic Violin
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df6220cf-9efb-4c4e-a46c-9f0bfc9611b2
+  recordings: [5b45e814-8234-4b14-bed4-8e9c7e6f3c3e]

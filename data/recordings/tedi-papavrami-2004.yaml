@@ -1,0 +1,32 @@
+id: tedi-papavrami-2004
+performers:
+- name: Tedi Papavrami
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2004]
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/08da670c-8563-4012-93e4-541562a65759
+  title: The Six Sonatas & Partitas
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 68fbb1a9-d898-46d5-be5e-145276309a63
+  recordings: [02b50e55-997f-4db0-9ccf-4f464f0f4155]

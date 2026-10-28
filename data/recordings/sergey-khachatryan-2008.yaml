@@ -1,0 +1,31 @@
+id: sergey-khachatryan-2008
+performers:
+- name: Sergey Khachatryan
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: Salle de Musique
+released: 2010
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fb7139d0-f366-450f-a272-ad96529811f8
+  title: Sonatas and Partitas for Solo Violin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7fe5b36a-9ef7-476f-8a5e-ca78fcea4d8e
+  recordings: [03694840-d07c-4f75-ae21-6286ba7cece2]

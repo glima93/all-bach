@@ -1,0 +1,16 @@
+bwv: "1003"
+title: Violin Sonata No. 2
+key: A minor
+collection: Sonatas and Partitas for solo violin
+genre: solo-instrumental
+scoring: violin solo
+composed: Köthen, autograph fair copy dated 1720
+movements:
+  - Grave
+  - Fuga
+  - Andante
+  - Allegro
+notes: Bach arranged the whole sonata for harpsichord as BWV 964.
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Sonatas_and_Partitas_for_Solo_Violin_(Bach)
+  bach_digital: null

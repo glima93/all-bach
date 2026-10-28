@@ -1,0 +1,29 @@
+id: roberto-michelucci-undated
+performers:
+- name: Roberto Michelucci
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/412ed9fa-fafe-4eed-8468-596ba8885f94
+  title: Johann Sebastian Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 28b3fbb2-ccf0-46ca-aff3-5ff6aa766e59
+  recordings: [14719552-74a9-4b6e-a39c-efedd79b9db2]

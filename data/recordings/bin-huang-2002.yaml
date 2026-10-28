@@ -1,0 +1,26 @@
+id: bin-huang-2002
+performers:
+- name: Bin Huang
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002]
+  place: River Run Center
+released: 2002
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Preludio, Gavotte en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9af3cdc-7a30-4792-9a5a-938721617898
+  title: Baroque Violin Favourites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a3c46d8c-557d-438b-9794-71526c2ac563
+  recordings: [0b11a6c9-818e-4976-b778-a94ab425846a]

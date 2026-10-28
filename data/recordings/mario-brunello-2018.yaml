@@ -1,0 +1,32 @@
+id: mario-brunello-2018
+performers:
+- name: Mario Brunello
+  role: violoncello piccolo
+instrument: violoncello-piccolo
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [2018]
+  place: 'Villa Parco Bolasco: Sala delle Feste'
+released: 2019
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/91726824-9906-414d-931d-f9f1d2678013
+  title: Sonatas & Partitas for Solo Violoncello Piccolo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 78deac60-a5c2-47ef-a29e-709656b10c85
+  recordings: [083a9481-d0dd-4f3f-a910-b1ccba8c2232]

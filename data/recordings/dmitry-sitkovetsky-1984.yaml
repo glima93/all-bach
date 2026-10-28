@@ -1,0 +1,32 @@
+id: dmitry-sitkovetsky-1984
+performers:
+- name: Dmitry Sitkovetsky
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: false, movements: [Grave, Fuga, Andante]}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/000f80db-3954-4ad5-9413-2677841f278c
+  title: Die Sonaten und Partiten für Violine solo
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84e8f035-2532-4af3-bc9d-f3334882d875
+  recordings: [0891cae0-6f7f-40c5-b5a5-21562f0e4e59]

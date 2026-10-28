@@ -1,0 +1,27 @@
+id: pekka-kuusisto-undated
+performers:
+- name: Pekka Kuusisto
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: 'Järvenpää-talo: Sibelius-sali'
+released: 1997
+original_label: null
+works:
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a6b65b9a-1b16-48d6-ab40-f86be1b4cedc
+  title: Strings Attached
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8f844284-3b50-4695-b795-e15495fdef23
+  recordings: [0725fc60-e75c-4c8d-b4ad-4b33255a5522]

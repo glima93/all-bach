@@ -1,0 +1,31 @@
+id: david-seixas-undated
+performers:
+- name: David Seixas
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1002', complete: false, movements: [Sarabande, Double (Sarabande)]}
+- {bwv: '1003', complete: false, movements: [Andante]}
+- {bwv: '1004', complete: false, movements: [Sarabanda]}
+- {bwv: '1006', complete: false, movements: [Gavotte en Rondeau, Menuet II, Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7348327a-be9b-4c5d-9f13-6b21efa16a06
+  title: Serene Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2292724a-e909-4e9f-a32e-a6c1a0632520
+  recordings: [384447b6-a96a-4f34-bddd-f0dbdc72429b]

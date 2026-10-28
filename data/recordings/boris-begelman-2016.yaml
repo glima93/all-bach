@@ -1,0 +1,31 @@
+id: boris-begelman-2016
+performers:
+- name: Boris Begelman
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Steppenwolf Studio
+released: 2017
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dcf6647c-5054-4551-ac4b-3bbd1abd17e4
+  title: Violin Sonatas & Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdb124d3-42e5-4163-b5b5-bfb255780f61
+  recordings: [0c027900-490e-45d8-8e2e-55cd74b1bf71]

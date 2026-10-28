@@ -1,0 +1,31 @@
+id: christian-tetzlaff-2005
+performers:
+- name: Christian Tetzlaff
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2005]
+  place: Hoff kirke
+released: 2006
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2bfe2493-56c7-414d-a0ed-f20118239ed7
+  title: Sonatas & Partitas for Violin Solo, BWV 1001-1006
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 914e5482-8981-4f52-8b4a-98c4da0e2819
+  recordings: [00d23d6f-0a8b-446e-8f4c-c2ba2d97b7cb]

@@ -1,0 +1,16 @@
+bwv: "1001"
+title: Violin Sonata No. 1
+key: G minor
+collection: Sonatas and Partitas for solo violin
+genre: solo-instrumental
+scoring: violin solo
+composed: Köthen, autograph fair copy dated 1720
+movements:
+  - Adagio
+  - Fuga (Allegro)
+  - Siciliana
+  - Presto
+notes: Bach's fair copy is titled "Sei Solo à Violino senza Basso accompagnato" and survives complete. Bach arranged the fugue for organ (BWV 539) and for lute (BWV 1000).
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Sonatas_and_Partitas_for_Solo_Violin_(Bach)
+  bach_digital: null

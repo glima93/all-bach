@@ -1,0 +1,26 @@
+id: nobuko-imai-2001
+performers:
+- name: Nobuko Imai
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2001]
+  place: Länna Kyrka
+released: 2004
+original_label: null
+works:
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9003f4c0-99a3-4462-bfdc-cfa5eb05e1cb
+  title: Antiquities
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4063cf21-166f-413a-a371-a9a50c02156c
+  recordings: [2f1f23ad-77d6-4913-bc27-29b3564b59b3]

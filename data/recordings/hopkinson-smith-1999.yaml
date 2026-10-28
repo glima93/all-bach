@@ -1,0 +1,27 @@
+id: hopkinson-smith-1999
+performers:
+- name: Hopkinson Smith
+  role: lute
+instrument: lute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1999]
+  place: Kirche St. Osdag
+released: 2007
+original_label: null
+works:
+- {bwv: '1002', complete: false, movements: [Double (Tempo di Borea)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/83047de2-25bc-4f19-9015-5e9f745dc535
+  title: Album
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dfa6d053-2bd8-4119-9b17-7bb39af0a5a5
+  recordings: [6c749958-1f15-4fa1-9ded-6989f210e79f]

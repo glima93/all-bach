@@ -1,0 +1,28 @@
+id: florian-hasenburger-undated
+performers:
+- name: Florian Hasenburger
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1002', complete: false, movements: [Double (Sarabande)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2c86d28-0d84-4b82-82d4-6a2da116ba16
+  title: Bach für Kinder - Mit Gesang und Himmelsklang
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d2f5eec0-e274-43f6-91fe-6f247b3ba3cf
+  recordings: [f575b95f-a56d-4838-94d9-1c118ed3b0ef]

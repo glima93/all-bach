@@ -1,0 +1,28 @@
+id: martin-walch-undated
+performers:
+- name: Martin Walch
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1002', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55fc12d3-bcfb-48c7-a69f-f2c77db37070
+  title: 1000 Meisterwerke der klassischen Musik
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b863470f-c493-453b-aa7e-57182a395a9f
+  recordings: [05a13e29-a754-4038-8fbe-c8dd66086e47]

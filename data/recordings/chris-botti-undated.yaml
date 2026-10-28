@@ -1,0 +1,29 @@
+id: chris-botti-undated
+performers:
+- name: Chris Botti
+  role: keyboard
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1003', complete: false, movements: [Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/71c07ddd-6062-40c7-bfbe-19fcd2683048
+  title: 'A Quiet Revolution: 30 Years of Windham Hill'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With keyboard, trumpet, drums (drum set).
+musicbrainz:
+  artist: 0939452b-0c6f-422a-997f-e7c496ce1113
+  recordings: [891c48f6-7d2c-4247-99e7-985a517535c2]

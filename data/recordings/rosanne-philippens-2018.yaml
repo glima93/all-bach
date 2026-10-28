@@ -1,0 +1,26 @@
+id: rosanne-philippens-2018
+performers:
+- name: Rosanne Philippens
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018]
+  place: Koepelkerk, Renswoude
+released: 2019
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Allemanda, Corrente, Sarabanda, Giga]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e4d2c1d1-a88d-4b09-a8e4-0fff7a06bd68
+  title: Insight
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cb099cfb-f657-4643-92bf-095cc974fa8c
+  recordings: [211c175f-48ca-44c4-8a02-40dc313d1594]

@@ -1,0 +1,31 @@
+id: gil-shaham-2014
+performers:
+- name: Gil Shaham
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2014]
+  place: 'Bavarian Radio: Studio 2'
+released: 2015
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f4bc41e3-e7ad-41ca-a8d1-4ee8c65d6029
+  title: 'J.S. Bach: Sonatas & Partitas for Violin'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7bb53313-9859-45e6-9201-5a922e6059e5
+  recordings: [0002e236-ce8e-4c1f-89b5-b703c9090731]

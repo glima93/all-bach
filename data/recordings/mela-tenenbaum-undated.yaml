@@ -1,0 +1,28 @@
+id: mela-tenenbaum-undated
+performers:
+- name: Mela Tenenbaum
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cb2f9b23-240e-4b50-88a2-0cbb33c4cdd7
+  title: Musical Evenings With the Captain, Volume II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdabedc5-d279-47d6-9751-056d6ac9964d
+  recordings: [40eb1c85-7c98-4209-afdb-fd17d5068b0b]

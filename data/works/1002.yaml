@@ -1,0 +1,20 @@
+bwv: "1002"
+title: Violin Partita No. 1
+key: B minor
+collection: Sonatas and Partitas for solo violin
+genre: solo-instrumental
+scoring: violin solo
+composed: Köthen, autograph fair copy dated 1720
+movements:
+  - Allemanda
+  - Double (Allemanda)
+  - Corrente
+  - Double (Corrente), Presto
+  - Sarabande
+  - Double (Sarabande)
+  - Tempo di Borea
+  - Double (Tempo di Borea)
+notes: Each of the four dances is followed by a double, a variation on the same harmonies.
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Partita_for_Violin_No._1_(Bach)
+  bach_digital: null

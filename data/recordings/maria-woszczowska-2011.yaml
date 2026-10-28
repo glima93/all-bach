@@ -1,0 +1,27 @@
+id: maria-woszczowska-2011
+performers:
+- name: Maria Włoszczowska
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2011]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1005', complete: false, movements: [Adagio, Fuga (Alla breve)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/76813145-5a87-4dbe-92df-b01c97ae6921
+  title: XIV Międzynarodowy Konkurs Skrzypcowy im. Henryka Wieniawskiego
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d9a52513-6b1e-454d-9955-746adb6ede9b
+  recordings: [2de6af51-a89a-4587-bf29-3ae99351cc81]

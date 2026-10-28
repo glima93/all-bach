@@ -1,0 +1,31 @@
+id: itzhak-perlman-1986
+performers:
+- name: Itzhak Perlman
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986]
+  place: Concordia College
+released: 1988
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd071a90-5ecb-3e6c-abec-137d2e3aa959
+  title: Sonaten und Partiten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5e85f4f1-a491-4e63-9103-6065c5e997d4
+  recordings: [097cf41c-3117-46bb-8457-fc796f783e5c]

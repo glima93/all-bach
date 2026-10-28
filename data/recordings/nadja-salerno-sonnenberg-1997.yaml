@@ -1,0 +1,26 @@
+id: nadja-salerno-sonnenberg-1997
+performers:
+- name: Nadja Salerno-Sonnenberg
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: 'Abbey Road Studios: Studio 1'
+released: 1998
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/abc0a952-3104-4ad5-8e9e-b3837887e788
+  title: Humoresque
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a71e5aa4-ebc0-4b10-b2a0-be774ec3fc44
+  recordings: [63df8205-ee3a-4a33-912e-0d455499b210]

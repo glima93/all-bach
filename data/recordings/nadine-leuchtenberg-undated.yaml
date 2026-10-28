@@ -1,0 +1,31 @@
+id: nadine-leuchtenberg-undated
+performers:
+- name: Nadine Leuchtenberg
+  role: piano
+- name: 諏訪根自子
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Gavotte en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6210cd6b-cd56-4387-a33f-9e67a34a71b2
+  title: 諏訪根自子の芸術
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With piano.
+musicbrainz:
+  artist: 5635dd64-b594-4fae-bbef-fc8d4424e69e
+  recordings: [47404664-3398-464c-9afe-4f128c04436f]

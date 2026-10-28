@@ -1,0 +1,27 @@
+id: serguei-azizian-1994
+performers:
+- name: Serguei Azizian
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c188e36-2d4a-4b48-ae28-de0360cdc2af
+  title: A Musical Portrait
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ea9e64d-80fa-44d9-9e42-05098ec9ea71
+  recordings: [09fb2829-d846-4cd3-8050-7b18d1e827c4]

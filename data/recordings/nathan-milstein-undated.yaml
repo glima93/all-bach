@@ -1,0 +1,29 @@
+id: nathan-milstein-undated
+performers:
+- name: Nathan Milstein
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2cc4ab4-c0b7-4638-8edc-6988bd840cfb
+  title: '"Ich bin der letzte Mohikaner"'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0a428818-2623-406e-8453-600dce442e78
+  recordings: [622f1130-d127-4af3-abb8-b1860b7fd2c3]

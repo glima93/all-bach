@@ -1,0 +1,31 @@
+id: amandine-beyer-2010
+performers:
+- name: Amandine Beyer
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: Théâtre L'heure Bleu
+released: 2011
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/60a4546a-d670-405d-b3c5-731f89ec733f
+  title: Sonates & Partitas, BWV 1001-1006
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eee9d1c8-b609-4373-97b9-48807d7d1b85
+  recordings: [07591bd4-5d0d-4fac-b205-17e65ccff760]

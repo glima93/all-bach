@@ -1,0 +1,31 @@
+id: james-ehnes-1999
+performers:
+- name: James Ehnes
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Église Saint-Augustin
+released: 2000
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/810bbff7-dcff-4b2f-bbb5-c0484e63e95d
+  title: The Six Sonatas & Partitas for Solo Violin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e9d3cf06-25b2-4453-873e-d4672bb34538
+  recordings: [12f142ea-77a8-47d4-8033-53fdb5188bd2]

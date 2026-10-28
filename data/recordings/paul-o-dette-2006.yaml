@@ -1,0 +1,27 @@
+id: paul-o-dette-2006
+performers:
+- name: Paul O’Dette
+  role: lute
+instrument: lute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2006]
+  place: 'Domaine Forget: Salle Françoys-Bernier'
+released: 2005
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Bourrée]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/94eae67a-e0e7-45de-a222-7d435ce2ae18
+  title: Lute Works, Volume I
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b4f8e022-16e0-4ed3-8ef9-7d22691340c2
+  recordings: [bf6b795f-b502-4650-b852-d0571c15600b]

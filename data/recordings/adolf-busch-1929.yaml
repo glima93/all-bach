@@ -1,0 +1,27 @@
+id: adolf-busch-1929
+performers:
+- name: Adolf Busch
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1929]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c44f2868-a2c2-4aa5-950b-a359357b612e
+  title: Complete Works
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c9a5f1be-50cd-4136-9330-67370734a311
+  recordings: [073217ef-805c-4b69-bba1-4213778deeb7]

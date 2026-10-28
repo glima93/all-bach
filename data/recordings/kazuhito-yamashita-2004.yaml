@@ -1,0 +1,28 @@
+id: kazuhito-yamashita-2004
+performers:
+- name: Kazuhito Yamashita
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2004]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1003', complete: false, movements: [Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30bd7f64-ff99-4b3d-ae69-49c32737b223
+  title: Sonatas and Partitas for Violin Solo, BWV1001-1006 [Guitar Version]
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4d9f3414-b87c-4ff0-91ce-f880cd94ea7a
+  recordings: [8bdbd934-abad-41d1-a8e2-87e1a26dd570]

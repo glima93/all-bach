@@ -1,0 +1,27 @@
+id: peter-mulvey-2009
+performers:
+- name: Peter Mulvey
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Fuga (Allegro)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/196f8ae0-f4ed-4cb4-8b9d-d1ae8e4e3601
+  title: Letters From a Flying Machine
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a9e5337b-0608-4401-91d4-18ab4cf47ff8
+  recordings: [47f6ae4e-d526-4c2d-afbf-4e99df95e827]

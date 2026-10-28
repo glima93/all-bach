@@ -1,0 +1,29 @@
+id: al-di-meola-undated
+performers:
+- name: Al Di Meola
+  role: acoustic guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1976
+original_label: null
+works:
+- {bwv: '1002', complete: false, movements: [Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0dd200f1-0d98-47e7-9629-6618e4e14601
+  title: Land of the Midnight Sun
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 09c0f334-f9de-4970-b9ee-ef799cd093be
+  recordings: [c749dffb-f929-4b91-bc4e-9c1a84b1c580]

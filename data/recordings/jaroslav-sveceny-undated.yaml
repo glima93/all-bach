@@ -1,0 +1,28 @@
+id: jaroslav-sveceny-undated
+performers:
+- name: Jaroslav Svěcený
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Gavotte en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d82e80ea-5ea5-439e-bdb6-ec4e454c6f8d
+  title: Dreams of Violin
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b142bc3-df18-4945-be05-78c98ceb7cbf
+  recordings: [7d8b5391-e176-4497-bac0-1389b13307f4]

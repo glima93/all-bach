@@ -1,0 +1,28 @@
+id: jean-jacques-kantorow-undated
+performers:
+- name: Jean‐Jacques Kantorow
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '1006', complete: false, movements: [Gavotte en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b9b72946-83ce-453c-8317-bb948daafa09
+  title: This Is “Denon CD”
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c1f7f011-0e72-49d2-b5a6-970ec9048731
+  recordings: [828ed4d4-214d-4ad5-a925-990efe7522ff]

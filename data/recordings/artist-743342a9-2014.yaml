@@ -1,0 +1,31 @@
+id: artist-743342a9-2014
+performers:
+- name: 千住真理子
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2014]
+  place: 草津音楽の森国際コンサートホール
+released: 2015
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17b98c6a-e4c1-4f68-b3fe-61bd5f2dc252
+  title: 6 Sonatas and Partitas for Violin Solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 743342a9-f71f-4888-ac16-5db99e7c8e15
+  recordings: [06c83a00-717e-46e3-8da4-f4ae3f29a11b]

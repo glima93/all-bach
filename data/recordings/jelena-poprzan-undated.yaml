@@ -1,0 +1,28 @@
+id: jelena-poprzan-undated
+performers:
+- name: Jelena Popržan
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Studio Wavegarden
+released: 2020
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Fuga (Allegro)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/96871295-1894-4624-92f4-9b35447282a2
+  title: La Folia
+status: draft
+help_wanted:
+- Recording year
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6d653b6c-bac7-4a5c-b6f2-ccadbe4452ea
+  recordings: [7655a987-c6ef-4440-b217-cf9f94327f7c]

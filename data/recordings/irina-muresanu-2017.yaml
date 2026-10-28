@@ -1,0 +1,26 @@
+id: irina-muresanu-2017
+performers:
+- name: Irina Muresanu
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Sono Luminus Studios
+released: 2018
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d3ce8db4-8057-4003-87c6-bf61f5f8687e
+  title: Four Strings Around the World
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 612fa3fb-6442-4670-be0f-1a510d39c8e5
+  recordings: [57293c5d-569e-4970-8e50-a50cd19cbd6a]

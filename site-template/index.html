@@ -197,7 +197,7 @@ const DATA = /*__DATA__*/null;
 const INSTRUMENT = {
   "cello": "Cello", "baroque-cello": "Baroque cello", "violoncello-piccolo": "Violoncello piccolo",
   "violoncello-da-spalla": "Violoncello da spalla", "viola": "Viola", "viola-da-gamba": "Viola da gamba",
-  "violin": "Violin", "guitar": "Guitar", "lute": "Lute", "harpsichord": "Harpsichord", "piano": "Piano",
+  "violin": "Violin", "baroque-violin": "Baroque violin", "guitar": "Guitar", "lute": "Lute", "harpsichord": "Harpsichord", "piano": "Piano",
   "organ": "Organ", "clavichord": "Clavichord", "ensemble": "Ensemble", "voices-and-instruments": "Voices and instruments", "other": "Other"
 };
 const PRACTICE = { historical: "Period instruments", modern: "Modern instruments", unknown: "Practice not yet recorded" };
@@ -241,13 +241,15 @@ function renderCatalogue() {
   <section class="finder" role="search">
     <label class="label" for="gq">Search all recordings</label>
     <input id="gq" type="search" autocomplete="off" spellcheck="false" value="${esc(state.gq)}"
-      placeholder="Performer, year, instrument or key">
+      placeholder="Performer, year, instrument, key or movement">
     <p class="try" id="gq-try">Try
+      <button type="button" data-try="Chaconne">Chaconne</button>
       <button type="button" data-try="Casals">Casals</button>
       <button type="button" data-try="1960s">1960s</button>
       <button type="button" data-try="viola da gamba">viola da gamba</button>
       <button type="button" data-try="D minor">D minor</button>
       <button type="button" data-try="Es-Dur">Es-Dur</button>
+      <button type="button" data-try="guitar">guitar</button>
       <button type="button" data-try="Fournier 1960">Fournier 1960</button>
     </p>
   </section>
@@ -267,7 +269,7 @@ function renderCatalogue() {
         </a></li>`;
       }).join("") + `</ul></section>`;
   }
-  html += `<p class="coming">This pilot covers the six Cello Suites. The rest of the catalogue, from BWV 1 to the latest additions, opens as contributors add works and recordings. <a href="#contribute">How to contribute</a></p></div>`;
+  html += `<p class="coming">The pilot covers Bach's music for unaccompanied strings: the Sonatas and Partitas for violin and the Cello Suites. The rest of the catalogue, from BWV 1 to the latest additions, opens as contributors add works and recordings. <a href="#contribute">How to contribute</a></p></div>`;
   return html;
 }
 
@@ -309,6 +311,7 @@ function parseQuery(raw) {
 }
 
 let searchIndex = null;
+const INSTRUMENT_WORDS = new Set(fold(Object.values(INSTRUMENT).join(" ") + " baroque period").split(/\s+/).filter(w => w.length > 2 && !["and", "other", "voices"].includes(w)));
 function buildIndex() {
   const workKey = Object.fromEntries(DATA.works.map(w => [w.bwv, parseKey(w.key || "")]));
   return DATA.recordings.map(r => {
@@ -319,7 +322,13 @@ function buildIndex() {
       r.performance_practice === "historical" ? "period instruments baroque" : "",
       r.arrangement ? "arrangement transcription" : "",
     ].filter(Boolean).join(" | ")).replace(/-/g, " ");
-    return { r, ys, hay, works: r.works.map(w => ({ ...w, key: workKey[w.bwv] })) };
+    return { r, ys, hay, works: r.works.map(w => {
+      const work = DATA.works.find(x => x.bwv === w.bwv);
+      const moves = w.complete ? work.movements : (w.movements || []);
+      const whay = fold([work.title, work.collection, ...moves].join(" | ")).replace(/-/g, " ")
+        .replace(/ciaccona/g, "ciaccona chaconne").replace(/sarabanda/g, "sarabanda sarabande").replace(/giga/g, "giga gigue");
+      return { ...w, key: workKey[w.bwv], hay: whay };
+    }) };
   });
 }
 
@@ -327,9 +336,14 @@ function runSearch(q) {
   searchIndex ||= buildIndex();
   const hits = [];
   for (const e of searchIndex) {
-    if (!q.text.every(t => e.hay.includes(t))) continue;
+    // A word not found in the performer/instrument/place text must name a work or movement.
+    // Instrument words ("violin", "baroque") only ever match the instrument actually played.
+    if (q.text.some(t => INSTRUMENT_WORDS.has(t) && !e.hay.includes(t))) continue;
+    const workWords = q.text.filter(t => !e.hay.includes(t));
+    if (workWords.some(t => !e.works.some(w => w.hay.includes(t)))) continue;
     if (q.years.length && !e.ys.some(y => q.years.some(([a, b]) => y >= a && y <= b))) continue;
     const works = e.works.filter(w =>
+      workWords.every(t => w.hay.includes(t)) &&
       (!q.bwv.length || q.bwv.includes(w.bwv)) &&
       (!q.key || sameKey(q.key, w.key)) &&
       (!q.mode || (w.key && w.key.mode === q.mode)));
@@ -344,7 +358,7 @@ function runSearch(q) {
 
 function describe(q) {
   const parts = [];
-  if (q.text.length) parts.push(`Name, instrument or place “${esc(q.text.join(" "))}”`);
+  if (q.text.length) parts.push(`Text “${esc(q.text.join(" "))}”`);
   q.years.forEach(([a, b]) => parts.push(a === b ? `Recorded ${a}` : `Recorded ${a}–${b}`));
   if (q.key) parts.push(`Key ${keyLabel(q.key)}`);
   if (q.mode) parts.push(`Any ${q.mode} key`);
@@ -444,7 +458,7 @@ function renderWork(w) {
     </div>
   </div>
   <div class="filters" role="group" aria-label="Filter recordings">
-    ${chip("all", "All")}${chip("complete", "Complete suite")}${chip("excerpt", "Excerpts")}${chip("period", "Period instruments")}${chip("arrangement", "Other instruments")}
+    ${chip("all", "All")}${chip("complete", "Complete work")}${chip("excerpt", "Excerpts")}${chip("period", "Period instruments")}${chip("arrangement", "Other instruments")}
   </div>
   ${recs.length ? `<ul class="recs">${recs.map(r => renderRec(r, w)).join("")}</ul>` : `<p class="empty">No recordings match. Try another filter or name.</p>`}`;
 }

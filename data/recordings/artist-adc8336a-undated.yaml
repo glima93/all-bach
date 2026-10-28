@@ -1,0 +1,34 @@
+id: artist-adc8336a-undated
+performers:
+- name: 諏訪内晶子
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Het Witte Kerkje, Baarn
+released: 2006
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: false, movements: [Allemanda, Corrente, 'Double (Corrente), Presto', Sarabande, Double
+      (Sarabande), Tempo di Borea, Double (Tempo di Borea)]}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0a4117a-2170-4261-9cf1-2c615b513012
+  title: The Sonatas And Partitas For Violin Solo
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: adc8336a-93aa-4507-a436-c20468b1a0e9
+  recordings: [0326a574-8b4a-4be3-8f7d-4502ef741928]

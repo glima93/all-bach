@@ -1,0 +1,31 @@
+id: christiane-edinger-1991
+performers:
+- name: Christiane Edinger
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: Tonstudio van Geest
+released: 1991
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6993daa2-ec54-4c4d-a88b-81bbdba51cba
+  title: 'BACH, J.S.: Sonatas and Partitas for Solo Violin, Vol. 1'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 05ec6bc0-313a-4878-bea7-f8fa1fd47a5c
+  recordings: [05ad0752-6531-411f-8302-e7d5a76c5088]

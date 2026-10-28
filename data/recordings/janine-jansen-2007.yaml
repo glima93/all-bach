@@ -1,0 +1,26 @@
+id: janine-jansen-2007
+performers:
+- name: Janine Jansen
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: St Martin’s Church
+released: 2007
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d5761a8b-088b-48d7-972e-79dc87aae42e
+  title: Inventions & Partita
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6c5f045e-7f1e-42b8-8cbc-d2fad7279513
+  recordings: [1493869b-e3ae-4c77-b0d4-634033b1610f]

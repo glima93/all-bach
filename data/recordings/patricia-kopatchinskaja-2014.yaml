@@ -1,0 +1,30 @@
+id: patricia-kopatchinskaja-2014
+performers:
+- name: Patricia Kopatchinskaja
+  role: violin
+- name: Anthony Romaniuk
+  role: harpsichord
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2014]
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/754cc57c-46b0-46ac-a2ef-eae8935a0fe8
+  title: Take Two
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With harpsichord.
+musicbrainz:
+  artist: d290d27c-ed19-415a-ab43-ddb2f4071f76
+  recordings: [55d07e52-4519-4e62-adbc-67e7f70eb995]

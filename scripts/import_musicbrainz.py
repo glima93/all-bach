@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """Turn a MusicBrainz snapshot into recording files, merging with existing ones.
 
-Usage:  python scripts/import_musicbrainz.py data/sources/musicbrainz-cello-suites.json
+Usage:  python scripts/import_musicbrainz.py data/sources/<snapshot>.json
 
-The snapshot is a list of *performances*: MusicBrainz recordings grouped by
-performer and recording year (see data/sources/README.md for how it was made).
+A snapshot lists *performances*: MusicBrainz recordings grouped by performer
+and recording year (see data/sources/README.md for how they were made). It is
+either a bare list of rows (the first snapshot, the Cello Suites) or
+{"works": [BWV, ...], "native": [instrument, ...], "rows": [...]}, where
+"works" gives the order of the movement masks and "native" the instruments
+the music was written for (anything else counts as an arrangement).
 
 Rules:
 - A performance whose MusicBrainz recording ID already appears in a file
@@ -30,7 +34,7 @@ import yaml
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from validate import DATA, load  # noqa: E402
 
-BWVS = ["1007", "1008", "1009", "1010", "1011", "1012"]
+CELLO_SUITES = ["1007", "1008", "1009", "1010", "1011", "1012"]
 ALIASES = {"pau casals": "pablo casals"}
 
 # MusicBrainz "[unknown]" artist: no performer to file the recording under.
@@ -46,6 +50,11 @@ EXCLUDE = {
     "9cb32a24-055a-4bb5-aa3d-d5e37830ef5a": "release is trio sonatas",
     "0e978aec-44f7-4839-9f8a-d50b3af73f50": "accompaniment-only track of the Burrowes recording",
     "b0554f83-50e2-4505-8a48-628c6dc792c8": "magazine lesson disc, not a performance",
+    # Sonatas and Partitas for solo violin
+    "ce8bd6ab-9ac8-497b-9a92-000f6f5440fd": "Bach's own keyboard versions (BWV 964/968), which have their own BWV numbers",
+    "631731fb-8ba3-439c-90de-8ba0d8b397c6": "release is a keyboard partita",
+    "30537d65-f1fe-4f4b-93f1-f83c2e106151": "release is Schubert and Mozart",
+    "60c1ace9-813b-40ff-a960-0b4029adc451": "release is the sonatas for violin and keyboard",
 }
 
 INSTRUMENTS = {
@@ -54,12 +63,13 @@ INSTRUMENTS = {
     "violoncello piccolo": "violoncello-piccolo", "five-string cello": "violoncello-piccolo",
     "violoncello da spalla": "violoncello-da-spalla", "viola da spalla": "violoncello-da-spalla",
     "viola": "viola", "viola da gamba": "viola-da-gamba", "violin": "violin",
+    "baroque violin": "baroque-violin",
     "guitar": "guitar", "classical guitar": "guitar", "acoustic guitar": "guitar",
     "lute": "lute", "harpsichord": "harpsichord", "piano": "piano", "grand piano": "piano",
     "organ": "organ", "clavichord": "clavichord",
 }
-CELLO_FAMILY = {"cello", "baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "unknown"}
-HISTORICAL = {"baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "viola-da-gamba"}
+CELLO_FAMILY = ["cello", "baroque-cello", "violoncello-piccolo", "violoncello-da-spalla"]
+HISTORICAL = {"baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "viola-da-gamba", "baroque-violin"}
 
 
 class Flow(list):
@@ -104,16 +114,25 @@ def movement_names() -> dict[str, list[str]]:
     return {w["bwv"]: w["movements"] for _, w in load("works")}
 
 
-def expand(c: dict) -> dict:
+def expand(c: dict, bwvs: list[str], moves: dict[str, list[str]]) -> dict:
     """Snapshot rows are compact; turn one into the shape the importer works with.
 
-    Row keys: n performer names, a artist MBIDs, y recording years, m six bitmasks
-    (one per suite, bit i = movement i present), f first release year, l live,
-    ins instruments credited, roles {performer: instrument}, pl places recorded at,
-    r [release MBID, title], rep representative recording MBID.
+    Row keys: n performer names, a artist MBIDs, y recording years, m one bitmask
+    per work in snapshot order (bit i = movement i present), f first release year,
+    l live, ins instruments credited, roles {performer: instrument}, pl places
+    recorded at, r [release MBID, title], rep representative recording MBID.
     """
     masks = [int(x) for x in c["m"].split(",")]
-    mv = [f"{BWVS[k]}:{i}" for k, mask in enumerate(masks) for i in range(6) if mask >> i & 1]
+    mv = []
+    for bwv, mask in zip(bwvs, masks):
+        if mask >> len(moves[bwv]):
+            raise SystemExit(f"Row {c['rep']}: BWV {bwv} has more movements in MusicBrainz than in data/works/{bwv}.yaml")
+        names = moves[bwv]
+        have = {i for i in range(len(names)) if mask >> i & 1}
+        # Paired dances (Menuet I / Menuet II) are often one track in MusicBrainz,
+        # linked only to the first: count the second as recorded too.
+        have |= {i for i in range(1, len(names)) if names[i].endswith(" II") and names[i - 1] == names[i][:-1] and i - 1 in have}
+        mv += [f"{bwv}:{i}" for i in sorted(have)]
     return {
         "names": c["n"], "ids": c["a"], "years": c["y"], "mv": mv,
         "firstRelease": c.get("f"), "live": bool(c.get("l")),
@@ -124,22 +143,30 @@ def expand(c: dict) -> dict:
     }
 
 
-def instrument_of(perf: dict) -> tuple[str, dict]:
-    """Main instrument (first credited) and per-performer roles."""
+def instrument_of(perf: dict, native: set[str]) -> tuple[str, list[str], dict]:
+    """Main instrument, other instruments credited, and per-performer roles.
+
+    The main instrument is the first credited one the music was written for;
+    failing that, the first credited instrument of any kind.
+    """
+    roles = {k: v.lower() for k, v in perf["roles"].items()}
     if not perf["ins"]:
-        return "unknown", {}
-    first = perf["ins"][0].lower()
-    return INSTRUMENTS.get(first, "other"), {k: v.lower() for k, v in perf["roles"].items()}
+        return "unknown", [], roles
+    mapped = [(i, INSTRUMENTS.get(i.lower(), "other")) for i in perf["ins"]]
+    main = next((m for _, m in mapped if m in native), mapped[0][1])
+    main_label = next(i for i, m in mapped if m == main)
+    others = [i for i, m in mapped if i != main_label and m != main]
+    return main, others, roles
 
 
-def works_block(perf: dict, moves: dict[str, list[str]]) -> list:
+def works_block(perf: dict, bwvs: list[str], moves: dict[str, list[str]]) -> list:
     out = []
     have = set(perf["mv"])
-    for bwv in BWVS:
-        idx = [i for i in range(6) if f"{bwv}:{i}" in have]
+    for bwv in bwvs:
+        idx = [i for i in range(len(moves[bwv])) if f"{bwv}:{i}" in have]
         if not idx:
             continue
-        if len(idx) == 6:
+        if len(idx) == len(moves[bwv]):
             out.append(FlowDict(bwv=bwv, complete=True))
         else:
             out.append(FlowDict(bwv=bwv, complete=False, movements=Flow(moves[bwv][i] for i in idx)))
@@ -170,8 +197,8 @@ def help_items(rec: dict, same_performer: int) -> list[str]:
     return items
 
 
-def from_perf(perf: dict, moves: dict[str, list[str]], same_performer: int) -> dict:
-    instrument, roles = instrument_of(perf)
+def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: set[str], same_performer: int) -> dict:
+    instrument, others, roles = instrument_of(perf, native)
     solo = len(perf["names"]) == 1
     performers = []
     for name in perf["names"]:
@@ -184,11 +211,11 @@ def from_perf(perf: dict, moves: dict[str, list[str]], same_performer: int) -> d
         "performers": performers,
         "instrument": instrument,
         "performance_practice": "historical" if instrument in HISTORICAL else "unknown",
-        "arrangement": instrument not in CELLO_FAMILY,
+        "arrangement": instrument not in native | {"unknown"} or bool(others),
         "recorded": {"years": Flow(sorted(perf["years"])), "place": "; ".join(dict.fromkeys(perf["places"])) or None},
         "released": year(perf.get("firstRelease")),
         "original_label": None,
-        "works": works_block(perf, moves),
+        "works": works_block(perf, bwvs, moves),
         "links": mb_links(perf),
         "status": "draft",
         "musicbrainz": {"artist": perf["ids"][0], "recordings": Flow(sorted(perf["recIds"]))},
@@ -199,6 +226,8 @@ def from_perf(perf: dict, moves: dict[str, list[str]], same_performer: int) -> d
         rec["arranger"] = None
         if instrument == "other" and perf["ins"]:
             rec["notes"] = ((rec["notes"] or "") + f" Played on {', '.join(perf['ins'][:3])}.").strip()
+        elif others:
+            rec["notes"] = ((rec["notes"] or "") + f" With {', '.join(others[:3])}.").strip()
     rec["help_wanted"] = help_items(rec, same_performer)
     return rec
 
@@ -240,9 +269,15 @@ def order(rec: dict) -> dict:
 
 
 def main(snapshot: str) -> int:
-    rows = json.loads(Path(snapshot).read_text(encoding="utf-8"))
-    perfs = [expand(c) for c in rows if c["rep"] not in EXCLUDE and UNKNOWN_ARTIST not in c["a"]]
+    data = json.loads(Path(snapshot).read_text(encoding="utf-8"))
+    if isinstance(data, list):
+        data = {"works": CELLO_SUITES, "native": CELLO_FAMILY, "rows": data}
+    bwvs, native, rows = data["works"], set(data["native"]), data["rows"]
     moves = movement_names()
+    missing = [b for b in bwvs if b not in moves]
+    if missing:
+        raise SystemExit(f"Add work files for BWV {', '.join(missing)} before importing")
+    perfs = [expand(c, bwvs, moves) for c in rows if c["rep"] not in EXCLUDE and UNKNOWN_ARTIST not in c["a"]]
     existing = {p: r for p, r in load("recordings")}
     by_mbid = {m: p for p, r in existing.items() for m in (r.get("musicbrainz") or {}).get("recordings", [])}
 
@@ -254,11 +289,13 @@ def main(snapshot: str) -> int:
     results = []
     for perf in perfs:
         main_name = norm(perf["names"][0])
-        new = from_perf(perf, moves, per_performer[main_name])
+        new = from_perf(perf, bwvs, moves, native, per_performer[main_name])
         target = next((by_mbid[m] for m in perf["recIds"] if m in by_mbid), None)
         if target is None:
             for path, r in existing.items():
                 if path in used_paths or r.get("musicbrainz") or norm(r["performers"][0]["name"]) != main_name:
+                    continue
+                if not {w["bwv"] for w in r["works"]} & set(bwvs):
                     continue
                 ys = (r.get("recorded") or {}).get("years") or []
                 rel = r.get("released")
@@ -292,8 +329,10 @@ def main(snapshot: str) -> int:
             yaml.dump(order(rec), fh, Dumper=_dumper(), allow_unicode=True, sort_keys=False, width=110)
 
     merged = sum(1 for t, _ in results if t is not None)
+    unmatched = [p.name for p in untouched if {w["bwv"] for w in existing[p]["works"]} & set(bwvs)
+                 and not existing[p].get("musicbrainz")]
     print(f"{len(rows) - len(perfs)} rows skipped (see EXCLUDE), {merged} existing files updated, "
-          f"{len(results) - merged} new files, untouched: {[p.name for p in untouched]}")
+          f"{len(results) - merged} new files; hand-made files for these works not matched: {unmatched}")
     return 0
 
 

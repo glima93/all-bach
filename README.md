@@ -2,7 +2,7 @@
 
 An open archive of recordings of Johann Sebastian Bach, catalogued by BWV number, with links to where each recording can be heard.
 
-The pilot covers the six Cello Suites, BWV 1007–1012: 264 recordings, most of them imported from [MusicBrainz](https://musicbrainz.org) (CC0) and listed as drafts until a contributor checks them.
+The pilot covers Bach's music for unaccompanied strings: the Sonatas and Partitas for solo violin (BWV 1001–1006) and the Cello Suites (BWV 1007–1012). That is 590 recordings, most of them imported from [MusicBrainz](https://musicbrainz.org) (CC0) and listed as drafts until a contributor checks them.
 
 ## How it works
 

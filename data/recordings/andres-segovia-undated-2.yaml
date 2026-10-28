@@ -1,0 +1,29 @@
+id: andres-segovia-undated-2
+performers:
+- name: Andrés Segovia
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1001', complete: false, movements: [Siciliana]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/90c8392b-2777-4cc8-a0c8-039c85dde334
+  title: 'Definitive Gold: Andrés Segovia'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 443aad48-c7e7-476f-96bf-90f123a4829b
+  recordings: [a8d7e5bc-7fc3-4d88-9a53-81d9f395f89d]

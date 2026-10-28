@@ -1,0 +1,32 @@
+id: markku-luolajan-mikkola-2013
+performers:
+- name: Markku Luolajan-Mikkola
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2013]
+  place: Sankta Katarina kyrka
+released: 2016
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c0553ed3-a3f7-4d0f-8f27-aa3dd0e0a5bc
+  title: Sonatas and Partitas, BWV 1001–1006
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e4b9c6ef-754a-4ca7-ad17-46991463853c
+  recordings: [19e3767a-5b9e-4486-a221-f6048f25800a]

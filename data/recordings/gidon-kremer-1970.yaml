@@ -1,0 +1,27 @@
+id: gidon-kremer-1970
+performers:
+- name: Gidon Kremer
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1003', complete: false, movements: [Grave, Fuga]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0128828f-ee33-4a45-9aed-15ffbeba9ca4
+  title: 'Historical Russian Archives: Gidon Kremer Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e2c8b2ea-8b6e-4d6e-9ea5-e2b34b073045
+  recordings: [2181f8ed-2b29-41de-875b-d3db3de899dc]

@@ -1,0 +1,27 @@
+id: lara-st-john-2001
+performers:
+- name: Lara St. John
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2001]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/67e51d74-07d4-4a44-8c5a-1a2523a78249
+  title: The Concerto Album
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a05b33fd-c464-440c-8ebc-83fa84e4620d
+  recordings: [3af90fa6-042b-42e7-aab4-7f2966072a4c]

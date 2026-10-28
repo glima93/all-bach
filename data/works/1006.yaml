@@ -1,0 +1,19 @@
+bwv: "1006"
+title: Violin Partita No. 3
+key: E major
+collection: Sonatas and Partitas for solo violin
+genre: solo-instrumental
+scoring: violin solo
+composed: Köthen, autograph fair copy dated 1720
+movements:
+  - Preludio
+  - Loure
+  - Gavotte en Rondeau
+  - Menuet I
+  - Menuet II
+  - Bourrée
+  - Gigue
+notes: Bach reused the Preludio as the opening sinfonia of Cantatas BWV 120a and 29, and arranged the whole partita for lute or lute-harpsichord as BWV 1006a.
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Partita_for_Violin_No._3_(Bach)
+  bach_digital: null

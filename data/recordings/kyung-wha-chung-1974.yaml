@@ -1,0 +1,27 @@
+id: kyung-wha-chung-1974
+performers:
+- name: Kyung Wha Chung
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974]
+  place: All Saints’ Church
+released: 1975
+original_label: null
+works:
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7e77cba7-5584-4f58-9da2-ee24af146eb7
+  title: Partita no. 2 in D minor / Sonata no. 3 in C major
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a83500d7-4b80-4a5c-ada8-60676bbb2848
+  recordings: [08cd44da-52f3-46c1-89cc-aa6c7480f186]

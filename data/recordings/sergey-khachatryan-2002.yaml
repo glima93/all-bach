@@ -1,0 +1,26 @@
+id: sergey-khachatryan-2002
+performers:
+- name: Sergey Khachatryan
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002]
+  place: Potton Hall
+released: 2002
+original_label: null
+works:
+- {bwv: '1004', complete: false, movements: [Ciaccona]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0616181-43e5-4637-a7a2-792a1f61c136
+  title: Music for Violin and Piano
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7fe5b36a-9ef7-476f-8a5e-ca78fcea4d8e
+  recordings: [eb13b7ca-cd9f-4fed-94d3-9b6a26380ca0]

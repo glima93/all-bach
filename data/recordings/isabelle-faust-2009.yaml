@@ -1,0 +1,31 @@
+id: isabelle-faust-2009
+performers:
+- name: Isabelle Faust
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009, 2011]
+  place: Teldex Studio
+released: 2010
+original_label: null
+works:
+- {bwv: '1001', complete: true}
+- {bwv: '1002', complete: true}
+- {bwv: '1003', complete: true}
+- {bwv: '1004', complete: true}
+- {bwv: '1005', complete: true}
+- {bwv: '1006', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1330eb88-7cde-405e-be6c-119dab3bf441
+  title: 'Sonatas & Partitas: BWV 1004-1006'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b12b238a-c19b-4160-8b06-17c7b1fc3be6
+  recordings: [3ab26888-e150-4e5a-9e5d-74864c141363]
