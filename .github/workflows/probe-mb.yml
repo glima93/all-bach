@@ -1,0 +1,16 @@
+name: Probe MusicBrainz
+on:
+  push:
+    branches: [probe-mb]
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          for i in 1 2 3; do
+            code=$(curl -s -o out.json -w "%{http_code}" -A "AllBach/0.1 ( https://github.com/glima93/all-bach )" \
+              "https://musicbrainz.org/ws/2/recording?work=7481c7f5-71bd-464e-956a-c670f4117de3&fmt=json&limit=5")
+            echo "attempt $i: HTTP $code"; head -c 300 out.json; echo
+            [ "$code" = 200 ] && exit 0; sleep 2
+          done
+          exit 1
