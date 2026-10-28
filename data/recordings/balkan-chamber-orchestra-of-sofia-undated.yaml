@@ -1,0 +1,36 @@
+id: balkan-chamber-orchestra-of-sofia-undated
+performers:
+- name: Balkan Chamber Orchestra of Sofia
+  role: orchestra
+- name: Vassil Kazandjiev
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33990b45-6c76-4475-a921-46f6da55ef41
+  title: The Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 30470b55-b83f-4f76-b465-7ebcf305013e
+  recordings: [63c52f54-3805-43fc-9c68-3c741cf78505]

@@ -1,0 +1,31 @@
+id: prades-festival-orchester-undated
+performers:
+- name: Prades Festival Orchester
+  role: orchestra
+- name: Pau Casals
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/62bc3418-34ef-4b44-8b1b-b4946fe2b2bb
+  title: The Three Gamba Sonatas / Brandenburg Concerto no. 4
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: abb9348e-5120-4f40-866b-93356a00e748
+  recordings: [fedcc3b8-3e5c-4012-8678-24b16b69a83b]

@@ -1,0 +1,36 @@
+id: prague-soloists-undated
+performers:
+- name: Prague Soloists
+  role: orchestra
+- name: Jean‐Pierre Rampal
+  role: flute
+- name: Zuzana Růžičková
+  role: harpsichord
+- name: Josef Suk
+  role: violin
+- name: Eduard Fischer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b26959e-6e3c-4514-b379-0fe1d376c076
+  title: The Complete Erato Recordings II. 1963–1969
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c49c9138-d218-4497-92df-ba8511f6fd64
+  recordings: [e26188a8-d215-4d42-a377-d0a2e107cf5d]

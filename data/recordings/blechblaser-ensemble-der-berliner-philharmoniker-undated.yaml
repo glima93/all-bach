@@ -1,0 +1,29 @@
+id: blechblaser-ensemble-der-berliner-philharmoniker-undated
+performers:
+- name: Blechbläser-Ensemble der Berliner Philharmoniker
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/edd5d8f2-a380-45a9-a342-a4c7cd88bdd8
+  title: Best of Brass
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 60a4f858-2a14-4de4-ad29-5a107b8961bd
+  recordings: [9decb0bd-0be4-46a5-ac84-d94385c36745]

@@ -1,0 +1,32 @@
+id: st-petersburg-classical-music-studio-orchestra-undated
+performers:
+- name: St. Petersburg Classical Music Studio Orchestra
+  role: orchestra
+- name: Alexander Titov
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3d46ef33-d626-4be3-9c47-61c8f12245b8
+  title: Brandenburg Concertos Nos. 3, 4 & 6
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 262ccb87-4c63-487e-95db-35bf1e4b68d5
+  recordings: [682dc668-f6ae-43ed-9c0e-cc25acaa976c]

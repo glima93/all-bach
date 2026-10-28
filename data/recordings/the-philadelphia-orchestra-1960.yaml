@@ -1,0 +1,34 @@
+id: the-philadelphia-orchestra-1960
+performers:
+- name: The Philadelphia Orchestra
+  role: orchestra
+- name: Fernando Valenti
+  role: harp
+- name: Anshel Brusilow
+  role: violin
+- name: William Kincaid
+  role: flute
+- name: Leopold Stokowski
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: Broadwood Hotel
+released: 2012
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/782950e8-cd95-47c0-9f3b-996a58575163
+  title: The Columbia Stereo Recordings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ff3fcff7-6c85-49d6-b954-ed7011a44e5a
+  recordings: [c9428609-4f8b-4302-bf3d-8f1a59ac2ae1]

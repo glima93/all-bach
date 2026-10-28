@@ -1,0 +1,37 @@
+id: kammerorchester-carl-philipp-emanuel-bach-undated
+performers:
+- name: Kammerorchester Carl Philipp Emanuel Bach
+  role: orchestra
+- name: Peter Schreier
+  role: conductor
+- name: Hartmut Haenchen
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6fd66179-45f6-4cee-8a13-33adfe29f1a1
+  title: Brandenburg Concertos / Triple Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49abd8a6-b063-477e-a27c-661fb0a5feb3
+  recordings: [69b44e5c-2949-4cb7-ae66-a7ac6620ad08]

@@ -1,0 +1,30 @@
+id: wiener-festorchester-undated
+performers:
+- name: Wiener Festorchester
+  role: orchestra
+- name: Carl Michalski
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b4e1b8de-ea3e-40db-a129-c154e0fa404d
+  title: 'Die Goldene Meisteredition: Johann Sebastian Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 12d94c23-1fa3-476f-8de0-6d2dcb31b81a
+  recordings: [dcc5f174-b820-4739-8994-4e31eb120764]

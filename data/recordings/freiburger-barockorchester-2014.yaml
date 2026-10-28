@@ -1,0 +1,31 @@
+id: freiburger-barockorchester-2014
+performers:
+- name: Freiburger Barockorchester
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Ensemblehaus Freiburg
+released: 2014
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a91ddfd0-7211-482f-bef7-5925a871a226
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 21a558f0-22b1-4959-aa24-df7b0d7a571d
+  recordings: [92d9c440-f28b-4b4e-9d5f-c029f0594480]

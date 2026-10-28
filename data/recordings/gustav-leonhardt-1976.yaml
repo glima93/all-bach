@@ -1,0 +1,26 @@
+id: gustav-leonhardt-1976
+performers:
+- name: Gustav Leonhardt
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1976]
+  place: Doopsgezinde kerk
+released: 1977
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [I. Allegro, II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e4b0209-cfcd-4811-9044-edffa5d3089b
+  title: Brandenburgische Konzerte Nr. 1-6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [667ace86-3148-4473-803d-991ab939d835]

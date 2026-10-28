@@ -1,0 +1,31 @@
+id: the-english-concert-undated
+performers:
+- name: The English Concert
+  role: orchestra
+- name: Trevor Pinnock
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8146cea0-ce58-458c-b9ee-42eec4a4ce8c
+  title: 'Music: An Appreciation, Sixth Edition'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8af55e27-c6ad-44f3-a6d2-53df5462798c
+  recordings: [336ece96-23da-438d-b958-c2d9cafcddcd]

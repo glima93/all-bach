@@ -1,0 +1,30 @@
+id: karl-munchinger-undated
+performers:
+- name: Karl Münchinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3e591628-1782-44fd-9f2e-4435f557f0a9
+  title: Brandenburg Concertos 4-6
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e2740c56-3109-451f-96c7-95583d3b8669
+  recordings: [92f8a50c-e619-43a6-83b1-057506c14785]

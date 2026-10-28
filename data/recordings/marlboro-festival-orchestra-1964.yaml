@@ -1,0 +1,55 @@
+id: marlboro-festival-orchestra-1964
+performers:
+- name: Marlboro Festival Orchestra
+  role: orchestra
+- name: Pablo Casals
+  role: performer
+- name: Alexander Schneider
+  role: violin
+- name: John Mack
+  role: oboe
+- name: Rudolf Serkin
+  role: piano
+- name: Peter Serkin
+  role: performer
+- name: Ornulf Gulbransen
+  role: performer
+- name: Ronald Richards
+  role: oboe
+- name: Peter Christ
+  role: oboe
+- name: Myron Bloom
+  role: horn
+- name: Robert Johnson
+  role: horn
+- name: Donald MacCourt
+  role: bassoon
+- name: Robert Nagel
+  role: performer
+- name: Leslie Parnas
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1964, 1965]
+  place: Marlboro Music Festival
+released: 1965
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b3cee72e-13ff-425c-93d3-28c0e182d805
+  title: The Six Brandenburg Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bc73b0bb-1e45-457f-8f81-a518beb9b74c
+  recordings: [044489bf-6524-4568-be91-7c5dbd53e58e]

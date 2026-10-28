@@ -1,0 +1,29 @@
+id: royal-philharmonic-orchestra-1997
+performers:
+- name: Royal Philharmonic Orchestra
+  role: orchestra
+- name: Jonathan Carney
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: CTS Studios
+released: 2005
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [III. Allegro assai]}
+- {bwv: '1049', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b9fcda66-c292-407a-be11-dd7f3460aa75
+  title: 'Coleção Folha de música clássica, volume 17: Johann Sebastian Bach'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 299597ae-3a20-4bf1-973e-03704af69f6b
+  recordings: [bcfcbc13-d772-4edd-aee4-0492e5f6f98d]

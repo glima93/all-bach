@@ -1,0 +1,36 @@
+id: wiener-philharmoniker-1950
+performers:
+- name: Wiener Philharmoniker
+  role: orchestra
+- name: Willi Boskovsky
+  role: violin
+- name: Wilhelm Furtwängler
+  role: conductor
+- name: Josef Niedermayer
+  role: flute
+- name: Josef Niedermayr
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1950]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2d5f333-83e6-493b-ae74-d3b63f981848
+  title: Suite no. 3 / Brandenburg Concertos no. 3, no. 5
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d770374d-05e9-4ed3-a068-3fbd4e6e4dd6
+  recordings: [5f45997d-798b-4a04-8d13-ed2fea1a5938]

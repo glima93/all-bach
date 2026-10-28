@@ -1,0 +1,55 @@
+id: kolner-kammerorchester-1999
+performers:
+- name: Kölner Kammerorchester
+  role: orchestra
+- name: Helmut Müller‐Brühl
+  role: conductor
+- name: Nadja Schubert
+  role: performer
+- name: Thomas Falke
+  role: double bass
+- name: Harald Hoeren
+  role: harpsichord
+- name: Christian Hommel
+  role: oboe
+- name: Winfried Rademacher
+  role: violino piccolo
+- name: Jürgen Schuster
+  role: performer
+- name: Corinne Chapelle
+  role: performer
+- name: Daniel Rothert
+  role: performer
+- name: Karl Kaiser
+  role: performer
+- name: Christine Pichlmeier
+  role: performer
+- name: Robert Hill
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Deutschlandradio Studios
+released: 1988
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/042a26dc-f4b3-407e-b82a-5fa7907dc475
+  title: Complete Orchestral Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b93816c3-b729-439c-95f3-d9976e0620cc
+  recordings: [d4bfa178-874a-437a-a23f-762acdf98cb7]

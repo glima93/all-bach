@@ -1,0 +1,28 @@
+id: orchestre-du-festival-de-prades-undated
+performers:
+- name: Orchestre du Festival de Prades
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43a663d2-5974-4771-955c-69da6b1ee8a4
+  title: Pablo Casals à Prades
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5a20495e-f0c6-4052-9fd4-db4828b7f580
+  recordings: [da0fdbc1-ab21-462e-bb3c-daaeb6a6dae3]

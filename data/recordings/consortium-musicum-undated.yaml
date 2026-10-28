@@ -1,0 +1,33 @@
+id: consortium-musicum-undated
+performers:
+- name: Consortium Musicum
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a384a33a-17d1-48fd-b2e7-ff6454feafb2
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3c0c90b7-6be5-48b6-a684-e6b03f7c3764
+  recordings: [f9716a1d-ed56-4e54-95ea-051d29445785]

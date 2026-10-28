@@ -1,0 +1,37 @@
+id: liszt-ferenc-kamarazenekar-undated
+performers:
+- name: Liszt Ferenc Kamarazenekar
+  role: orchestra
+- name: Frigyes Sándor
+  role: conductor
+- name: Maurice André
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1977
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4a01bcef-a822-41d9-be12-bfcf0a82a303
+  title: Brandenburg Concertos Nos. 1-6
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1a935ca0-550a-4922-b480-c6dcfe3a2350
+  recordings: [6f3ae9ed-82ed-4b17-8bab-0a5990a6b8c6]

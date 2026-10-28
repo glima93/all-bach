@@ -1,0 +1,34 @@
+id: reinhold-friedrich-1998
+performers:
+- name: Reinhold Friedrich
+  role: trumpet
+- name: Rainer Kussmaul
+  role: violin
+- name: Albrecht Mayer
+  role: oboe
+- name: Michala Petri
+  role: recorder
+- name: Peter Laenger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: Teldec-Studio
+released: 1998
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5de34e26-0f21-42c2-ba91-5bc4caabe1c7
+  title: Bach / Telemann
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a79cba00-73e2-42d2-b683-9d9f59ae98b8
+  recordings: [716c175c-575c-4fee-a0c8-29877afb71af]

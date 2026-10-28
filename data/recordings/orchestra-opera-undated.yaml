@@ -1,0 +1,47 @@
+id: orchestra-opera-undated
+performers:
+- name: Orchestra Opera
+  role: orchestra
+- name: Александр Титов
+  role: conductor
+- name: Alexander Rakhlis
+  role: violin
+- name: Andrei Antonov
+  role: french horn
+- name: Igor Prokofiev
+  role: performer
+- name: Vladimir Aleshkov
+  role: performer
+- name: Sergei Bliznetzov
+  role: performer
+- name: Александр Кискачи
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/080fb5f7-d09b-488f-b277-56477a997116
+  title: Diamond Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 298cffd6-ce90-492e-8044-cc2fcafcfae9
+  recordings: [e51ec9fa-bb3a-40f5-857d-b9cdc133a751]

@@ -1,0 +1,28 @@
+id: seldom-sene-undated
+performers:
+- name: Seldom Sene
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Oud Katholieke Kerk de Hoop
+released: 2019
+original_label: null
+works:
+- {bwv: '1051', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9fc68399-b182-437e-a379-37c9c8e16876
+  title: Anthology of the Recorder
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6d31dcc8-78e7-41a3-8d75-a5e003a0e143
+  recordings: [d565d907-6a47-4830-850f-c13eb20a11bf]

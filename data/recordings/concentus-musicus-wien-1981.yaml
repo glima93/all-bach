@@ -1,0 +1,34 @@
+id: concentus-musicus-wien-1981
+performers:
+- name: Concentus Musicus Wien
+  role: orchestra
+- name: Nikolaus Harnoncourt
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1981]
+  place: null
+released: 1967
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a128eddd-59c1-4876-9869-67b10b79dfc1
+  title: Brandenburgische Konzerte Nos. 2, 4, 1
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9b891046-35af-4eb0-a058-eba4c9b8d01f
+  recordings: [a612dc9c-7659-4ab7-b23a-51abd63267e7]

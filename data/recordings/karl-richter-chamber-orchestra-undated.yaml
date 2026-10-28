@@ -1,0 +1,34 @@
+id: karl-richter-chamber-orchestra-undated
+performers:
+- name: Karl Richter Chamber Orchestra
+  role: orchestra
+- name: Karl Richter
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [I. Allegro]}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6547ca27-990f-4bdb-8945-e45465fe492d
+  title: 'Klassik für Kinder: Meisterwerke, die begeistern'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 77006e20-995e-4764-917f-ef83d92dbf08
+  recordings: [12efde7b-81e7-4019-8d70-9f4f1ee029b6]

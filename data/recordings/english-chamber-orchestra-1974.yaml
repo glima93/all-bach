@@ -1,0 +1,42 @@
+id: english-chamber-orchestra-1974
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Raymond Leppard
+  role: conductor
+- name: José‐Luis García
+  role: violino piccolo
+- name: David Munrow
+  role: performer
+- name: John Turner
+  role: performer
+- name: Richard Adeney
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974]
+  place: null
+released: 1976
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dee833c0-dac3-420b-90d4-99ef9bf8a869
+  title: The Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [55435788-9658-4d0e-bdc1-0f351c34b59d]

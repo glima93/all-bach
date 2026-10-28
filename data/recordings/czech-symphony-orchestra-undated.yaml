@@ -1,0 +1,31 @@
+id: czech-symphony-orchestra-undated
+performers:
+- name: Czech Symphony Orchestra
+  role: orchestra
+- name: Bernhard Stopler
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [I. Allegro]}
+- {bwv: '1049', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0df89fc-d3c6-4c47-87c2-3566f2d5a1c8
+  title: The World of Baroque
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 77138803-0cef-4a03-ac17-b43064310bda
+  recordings: [b18550db-7ad2-4b22-9ac5-e2f957031314]

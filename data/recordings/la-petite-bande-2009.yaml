@@ -1,0 +1,34 @@
+id: la-petite-bande-2009
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Sigiswald Kuijken
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: false, movements: [I. Allegro, II. Adagio]}
+- {bwv: '1049', complete: false, movements: [I. Allegro, II. Andante]}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3100aa02-598c-4fa8-9e38-d5d84420cb8a
+  title: The Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [da60179e-7704-4d81-8946-15e01f0a3f10]

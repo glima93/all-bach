@@ -1,0 +1,65 @@
+id: gewandhausorchester-leipzig-2007
+performers:
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Riccardo Chailly
+  role: conductor
+- name: Hans Pischner
+  role: performer
+- name: Konrad Siebach
+  role: performer
+- name: Helmut Koch
+  role: performer
+- name: Karl Suske
+  role: performer
+- name: Gerhard Bosse
+  role: performer
+- name: Peter Fischer
+  role: performer
+- name: Willy Krug
+  role: performer
+- name: Thekla Waldbaur
+  role: performer
+- name: Heinz Hörtzsch
+  role: performer
+- name: Hans-Christian Bartel
+  role: performer
+- name: Peter-Carsten Braun
+  role: performer
+- name: Friedemann Erben
+  role: performer
+- name: Wolfgang Espig
+  role: performer
+- name: Günther Glaß
+  role: performer
+- name: Dietmar Hallmann
+  role: performer
+- name: Lothar Max
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: Gewandhaus
+released: 1966
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/45fc36fe-2f64-4c11-9f46-d28a7cfcecef
+  title: Brandenburgische Konzerte
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [51d92ae7-386e-499c-a843-ef22894c3172]

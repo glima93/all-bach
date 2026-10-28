@@ -1,0 +1,29 @@
+id: wendy-carlos-1968
+performers:
+- name: Wendy Carlos
+  role: moog
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1968, 1969]
+  place: null
+released: 1968
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0ccc0b2a-6e9f-467d-8bb5-ff0d329f52fb
+  title: Switched‐On Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on Moog.
+musicbrainz:
+  artist: 7e3b3173-2c1f-42c0-8544-0e6d19bb181f
+  recordings: [b4847748-fbf6-42b5-8104-ffe32b530f93]

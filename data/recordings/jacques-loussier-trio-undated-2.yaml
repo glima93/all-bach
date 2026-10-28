@@ -1,0 +1,30 @@
+id: jacques-loussier-trio-undated-2
+performers:
+- name: Jacques Loussier Trio
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [I. Allegro, II. Adagio, III. Allegro]}
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c87cc98b-33ad-4459-8324-1bba743a475a
+  title: 'Bach: The Brandenburgs'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 03b10e63-04f5-4f59-9954-fc22a4386945
+  recordings: [bd3765cc-cdf2-4622-a53c-d2531b8edc08]

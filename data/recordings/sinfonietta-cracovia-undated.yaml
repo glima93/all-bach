@@ -1,0 +1,33 @@
+id: sinfonietta-cracovia-undated
+performers:
+- name: Sinfonietta Cracovia
+  role: orchestra
+- name: Craig Leon
+  role: conductor
+- name: Jennifer Pike
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7e681373-8184-4afc-9f2c-834868c03390
+  title: 'Bach to Moog: A Realisation for Electronics and Orchestra'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With synthesizer, Moog.
+musicbrainz:
+  artist: 55eb0836-e7c3-4a8a-9a60-b62931a27cf5
+  recordings: [f5d70bca-1e26-4ffd-8384-ca5344ecf3e7]

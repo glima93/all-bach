@@ -1,0 +1,29 @@
+id: st-louis-brass-quintet-undated
+performers:
+- name: St. Louis Brass Quintet
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [I. Allegro, III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/162e6831-c33b-4b2b-83ee-e769b672b52b
+  title: Baroque Brass Festival
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dfd316e0-cf58-4ba7-b3c0-372ed751d764
+  recordings: [50b36c38-488e-442a-9071-600eb7739c7c]

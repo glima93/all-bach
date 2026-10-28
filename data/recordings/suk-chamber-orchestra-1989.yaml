@@ -1,0 +1,33 @@
+id: suk-chamber-orchestra-1989
+performers:
+- name: Suk Chamber Orchestra
+  role: orchestra
+- name: Josef Suk
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989]
+  place: House of Culture Vltavská
+released: 1989
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e4d0ecc-05b6-4c6e-89f9-e3c16e35d7a2
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38f32342-5fc1-4ebc-baf4-8c7e82ba15e0
+  recordings: [b54479f2-921b-4542-a669-e070b9aa3d0a]

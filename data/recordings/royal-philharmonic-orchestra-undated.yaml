@@ -1,0 +1,35 @@
+id: royal-philharmonic-orchestra-undated
+performers:
+- name: Royal Philharmonic Orchestra
+  role: orchestra
+- name: Louis Clark
+  role: conductor
+- name: Paul Brooks
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1981
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [I. Allegro]}
+- {bwv: '1048', complete: true}
+- {bwv: '1050', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/88fb5878-ab36-4f26-8dcf-5b6cc7fc7908
+  title: Hooked on Classics
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 299597ae-3a20-4bf1-973e-03704af69f6b
+  recordings: [a9004660-b72b-4158-832c-48a45f51b045]

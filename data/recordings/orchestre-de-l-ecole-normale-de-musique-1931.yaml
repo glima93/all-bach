@@ -1,0 +1,40 @@
+id: orchestre-de-l-ecole-normale-de-musique-1931
+performers:
+- name: Orchestre de l'École Normale de Musique, Paris
+  role: orchestra
+- name: Alfred Cortot
+  role: conductor
+- name: Gabriel Bourdon
+  role: performer
+- name: Monsieur Cortet
+  role: performer
+- name: Monsieur Marceau
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1931, 1932, 1933]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9f6e3b0f-6cd6-4dcd-ae17-b1c6415ff5e3
+  title: Brandenburg Concertos / Concerto BWV 596 / Largo (Concerto BWV 1056)
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c21141c3-d642-4a0c-b795-770e09ce49b8
+  recordings: [b4042faa-6e11-4da1-9659-2095dd68f11e]

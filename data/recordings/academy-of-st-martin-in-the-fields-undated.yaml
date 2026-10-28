@@ -1,0 +1,44 @@
+id: academy-of-st-martin-in-the-fields-undated
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Sir Neville Marriner
+  role: conductor
+- name: George Malcolm
+  role: performer
+- name: Iona Brown
+  role: performer
+- name: Claude Monteux
+  role: performer
+- name: William Bennett
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1971
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: ['IV. Menuet, Trio I, Polacca, Trio II']}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: false, movements: [I. Allegro, II. Affettuoso]}
+- {bwv: '1051', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3e1b7dbc-81b1-4215-8c7c-2f7ddb034736
+  title: Brandenburgische Konzerte 1-2-6
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [efd5d621-a4bd-4eee-8451-b0fe95d21543]

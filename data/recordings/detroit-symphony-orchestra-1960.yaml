@@ -1,0 +1,34 @@
+id: detroit-symphony-orchestra-1960
+performers:
+- name: Detroit Symphony Orchestra
+  role: orchestra
+- name: Glenn Gould
+  role: piano
+- name: Mischa Mischakoff
+  role: violin
+- name: Albert Tipton
+  role: flute
+- name: Paul Paray
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: Ford Auditorium
+released: 2011
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c0718718-1dc5-4a52-a53a-7db27e303939
+  title: Glenn Gould In Concert 1951-1960
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 5e7ec05a-3473-4bd0-967a-8546525555cc
+  recordings: [ea3ac540-e6be-4373-bcf3-7164473de0f3]

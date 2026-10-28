@@ -1,0 +1,30 @@
+id: boston-symphony-orchestra-undated
+performers:
+- name: Boston Symphony Orchestra
+  role: orchestra
+- name: Charles Munch
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [II. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4a66fa63-9567-4834-b715-cc0c89612b11
+  title: A Midsummer Night’s Dream – A Classical Wedding Album
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ed6a493-0300-428d-82da-91c62b4d50aa
+  recordings: [1be74761-5c69-44d2-a280-217be7c01020]

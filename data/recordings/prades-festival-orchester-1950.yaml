@@ -1,0 +1,34 @@
+id: prades-festival-orchester-1950
+performers:
+- name: Prades Festival Orchester
+  role: orchestra
+- name: Eugene Istomin
+  role: piano
+- name: Joseph Szigeti
+  role: violin
+- name: John Wummer
+  role: flute
+- name: Pau Casals
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1950]
+  place: Église luthérienne Saint-Pierre
+released: 2015
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c2447048-00fd-4ea1-82ca-3765173c94ab
+  title: The Concerto and Solo Recordings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: abb9348e-5120-4f40-866b-93356a00e748
+  recordings: [ae94befe-6b25-4008-81fc-2de370bebbec]

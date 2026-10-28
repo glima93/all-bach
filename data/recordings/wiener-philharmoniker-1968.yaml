@@ -1,0 +1,28 @@
+id: wiener-philharmoniker-1968
+performers:
+- name: Wiener Philharmoniker
+  role: orchestra
+- name: Otto Klemperer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1968]
+  place: 'Wiener Musikverein: Großer Musikvereinssaal'
+released: 2005
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d5c9a834-565b-4323-bdbb-de42b0780cda
+  title: Live Broadcast Performances
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d770374d-05e9-4ed3-a068-3fbd4e6e4dd6
+  recordings: [0edb23bf-d535-4913-8040-c703b7e843b3]

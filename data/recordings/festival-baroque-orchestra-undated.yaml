@@ -1,0 +1,30 @@
+id: festival-baroque-orchestra-undated
+performers:
+- name: Festival Baroque Orchestra
+  role: orchestra
+- name: Allan Burdon
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/35d81e1c-38e3-4927-953e-2de8d181e116
+  title: 'Golden Baroque: The Most Beautiful Baroque Masterpieces'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ecf3ee5a-5eff-4765-837f-c9fe9d4545f0
+  recordings: [92eed9e6-2459-478c-acb9-d5678ec8f5d6]

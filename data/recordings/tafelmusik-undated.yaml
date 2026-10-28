@@ -1,0 +1,33 @@
+id: tafelmusik-undated
+performers:
+- name: Tafelmusik
+  role: orchestra
+- name: Jeanne Lamon
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [I. Allegro]}
+- {bwv: '1048', complete: true}
+- {bwv: '1050', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fcd1dacf-6f90-41ce-a187-9e869989deb7
+  title: Sounds of Music
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0ca59def-f1bc-4e74-b17e-45276faa12f0
+  recordings: [3f95a1cb-c6a9-4f66-9360-6a1557a3cbea]

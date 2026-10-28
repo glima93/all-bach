@@ -1,0 +1,29 @@
+id: british-symphony-orchestra-1930
+performers:
+- name: British Symphony Orchestra
+  role: orchestra
+- name: Sir Henry Wood
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1930]
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/344cf478-4983-4454-ade1-c8e9d6c85a5a
+  title: Wood’s Eroica
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 513053f4-00ad-41d5-b6fb-32949c37496d
+  recordings: [e60967e9-8500-4cff-92aa-28216ac50f26]

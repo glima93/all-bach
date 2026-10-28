@@ -1,0 +1,36 @@
+id: orchestra-mozart-undated
+performers:
+- name: Orchestra Mozart
+  role: orchestra
+- name: Giuliano Carmignola
+  role: violin
+- name: Michala Petri
+  role: recorder
+- name: Nikola Tarasov
+  role: recorder
+- name: Claudio Abbado
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Teatro Municipale di Reggio Emilia
+released: 2011
+original_label: null
+works:
+- {bwv: '1049', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33510ce0-dc2d-4d6b-8a19-2842b23d9d1e
+  title: Brandenburg Concertos 1-6
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 214e30b6-9552-4c00-9afe-fa82f4a203a0
+  recordings: [3d4cb993-4b57-4fa2-8f3c-e2c9d99270a6]

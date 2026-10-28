@@ -1,0 +1,34 @@
+id: boston-baroque-undated
+performers:
+- name: Boston Baroque
+  role: orchestra
+- name: Martin Pearlman
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Mechanics Hall
+released: 1993
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aaa3f053-297c-4d72-bee8-025a95ea3c2f
+  title: Brandenburg Concertos nos. 1, 2, & 3
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2dcc28ab-e43c-4ce4-b8b9-5dcc07bb87cf
+  recordings: [4fd48464-5d92-4fd5-81e1-373af770d523]

@@ -1,0 +1,35 @@
+id: combattimento-consort-amsterdam-undated
+performers:
+- name: Combattimento Consort Amsterdam
+  role: orchestra
+- name: Jan Willem de Vriend
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/be26b13a-2a68-43b6-9d54-a414d3f80ab0
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d91526ce-ee11-4530-8fe1-021674b6bd57
+  recordings: [78896dac-66e3-4a40-b653-52507da593d9]

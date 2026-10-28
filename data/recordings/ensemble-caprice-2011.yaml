@@ -1,0 +1,33 @@
+id: ensemble-caprice-2011
+performers:
+- name: Ensemble Caprice
+  role: orchestra
+- name: Matthias Maute
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: Église Saint-Augustin
+released: 2012
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f17c8d52-e8e6-436e-8d0e-17f8182dcb97
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed09b0a6-4309-492a-ab06-11339945eae5
+  recordings: [03acdba2-53df-4032-a6c7-aecbfd390e6b]

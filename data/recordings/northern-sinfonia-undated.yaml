@@ -1,0 +1,35 @@
+id: northern-sinfonia-undated
+performers:
+- name: Northern Sinfonia
+  role: orchestra
+- name: George Malcolm
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4902c0ed-9e95-4c06-840e-99c3510f53cb
+  title: Brandenburg Concertos Nos. 1-3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b4cd94be-c8d8-48ab-8bf5-4eba5fb69f98
+  recordings: [2abf7cdd-71d0-46cb-87b6-80b4cff01988]

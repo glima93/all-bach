@@ -1,0 +1,29 @@
+id: academy-of-ancient-music-2008
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Richard Egarr
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/771a771d-2b15-4303-af9f-6773d8251cfc
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [3de7670e-7a1d-4713-840d-13d811b0c1de]

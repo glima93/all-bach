@@ -1,0 +1,30 @@
+id: i-solisti-dell-olimpico-undated
+performers:
+- name: I Solisti Dell'Olimpico
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6242877d-0970-4417-ab74-92dafaf313e6
+  title: Concerti Brandeburghesi No. 4, 5 & 6
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e4d61277-b825-4d37-8a45-6ea61bf8c418
+  recordings: [900af9d5-944a-4469-8f6a-1e49d17d62b6]

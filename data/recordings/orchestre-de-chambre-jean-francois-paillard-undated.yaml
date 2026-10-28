@@ -1,0 +1,67 @@
+id: orchestre-de-chambre-jean-francois-paillard-undated
+performers:
+- name: Orchestre de chambre Jean‐François Paillard
+  role: orchestra
+- name: Jean‐François Paillard
+  role: conductor
+- name: Gérard Jarry
+  role: violin
+- name: Jean‐Pierre Rampal
+  role: performer
+- name: Anne-Marie Beckensteiner
+  role: performer
+- name: Maurice André
+  role: trumpet
+- name: Pierre Pierlot
+  role: oboe
+- name: Jacques Chambon
+  role: oboe
+- name: Paul Hongne
+  role: bassoon
+- name: Claude Maisonneuve
+  role: oboe
+- name: Robert Tassin
+  role: horn
+- name: Alain Marion
+  role: performer
+- name: Christian Lormand
+  role: performer
+- name: Alain Courmont
+  role: performer
+- name: Bernard Fonteny
+  role: performer
+- name: Gérard Granier
+  role: performer
+- name: Guy Besnard
+  role: performer
+- name: Michel Martin
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/97ba2990-7c38-4b5e-ae75-1fc8ad324636
+  title: 6 Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 736d2231-9b64-4f71-b3aa-f5936eb55938
+  recordings: [f546b53d-2c40-41a9-b74c-527cba4fd627]

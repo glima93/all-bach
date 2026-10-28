@@ -1,0 +1,28 @@
+id: the-moscow-symphony-orchestra-undated
+performers:
+- name: The Moscow Symphony Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1050', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/704c50ed-14bd-49e2-82a3-956b905daf4c
+  title: The Essential Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 37cc7c15-da2c-4f9f-b316-ebbcb2eeb418
+  recordings: [f903fe33-3416-4f58-89c1-5cc0c0b7d688]

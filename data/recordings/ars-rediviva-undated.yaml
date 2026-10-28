@@ -1,0 +1,32 @@
+id: ars-rediviva-undated
+performers:
+- name: Ars Rediviva
+  role: orchestra
+- name: Milan Munclinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [I. Allegro]}
+- {bwv: '1047', complete: false, movements: [III. Allegro assai]}
+- {bwv: '1050', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c820c533-b586-4eb3-8311-aaab207b422c
+  title: Best Of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ab56484-5a98-47e2-9b32-25ac9f890f08
+  recordings: [23cd70b3-e7f4-4331-a7d9-8d18ada7beea]

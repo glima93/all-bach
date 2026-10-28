@@ -1,0 +1,32 @@
+id: wendy-carlos-undated
+performers:
+- name: Wendy Carlos
+  role: moog
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1973
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: ['IV. Menuet, Trio I, Polacca, Trio II']}
+- {bwv: '1048', complete: true}
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aa5381e3-55ac-4009-96d5-11327850c17a
+  title: Switched‐On Boxed Set
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on Moog.
+musicbrainz:
+  artist: 7e3b3173-2c1f-42c0-8544-0e6d19bb181f
+  recordings: [cca1a78d-e78a-4047-994b-957ebe0dc6c6]

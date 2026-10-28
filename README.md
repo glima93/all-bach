@@ -2,7 +2,7 @@
 
 An open archive of recordings of Johann Sebastian Bach, catalogued by BWV number, with links to where each recording can be heard.
 
-The pilot covers the Well-Tempered Clavier (BWV 846–893), the Goldberg Variations (BWV 988) and Bach's music for unaccompanied strings: the Sonatas and Partitas for solo violin (BWV 1001–1006) and the Cello Suites (BWV 1007–1012). That is 1,158 recordings, most of them imported from [MusicBrainz](https://musicbrainz.org) (CC0) and listed as drafts until a contributor checks them.
+The pilot covers the Well-Tempered Clavier (BWV 846–893), the Goldberg Variations (BWV 988), Bach's music for unaccompanied strings (the Sonatas and Partitas for solo violin, BWV 1001–1006, and the Cello Suites, BWV 1007–1012) and the Brandenburg Concertos (BWV 1046–1051). That is 1,480 recordings, most of them imported from [MusicBrainz](https://musicbrainz.org) (CC0) and listed as drafts until a contributor checks them.
 
 ## How it works
 

@@ -1,0 +1,33 @@
+id: munich-chamber-ensemble-undated
+performers:
+- name: Munich Chamber Ensemble
+  role: orchestra
+- name: Henry Adolph
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/357d2ef2-455b-3d6f-99a9-efc33240c8fc
+  title: Les Triomphes de la musique classique
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 68d49ef2-1cbd-4f44-9c1e-45c06975f56a
+  recordings: [2d2d1bab-a8ef-4926-817e-3302b22c05e1]

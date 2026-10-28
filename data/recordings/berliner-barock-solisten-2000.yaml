@@ -1,0 +1,30 @@
+id: berliner-barock-solisten-2000
+performers:
+- name: Berliner Barock Solisten
+  role: orchestra
+- name: Emmanuel Pahud
+  role: flute
+- name: Rainer Kussmaul
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Teldec Studio
+released: 2001
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/56aa78bc-9773-407d-8244-b7b542b632f5
+  title: Brandenburg Concerto no. 5 / Orchestral Suite no. 2 / Trio Sonata / Partita
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5a22dc2a-1479-4bb7-b914-b8d55569b8e0
+  recordings: [c1292e46-6eda-4af6-a1be-91321e8e4a84]

@@ -1,0 +1,28 @@
+id: los-angeles-chamber-orchestra-2011
+performers:
+- name: Los Angeles Chamber Orchestra
+  role: orchestra
+- name: Margaret Batjer
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2011]
+  place: Royce Hall
+released: 2013
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6e0b147-bd82-44bc-807c-3d4ee0ed8387
+  title: Lorraine
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cdba7b15-9b28-4ea3-ab75-e9c7002e990d
+  recordings: [f81133e8-a694-4b92-b7c6-8d564562f0ff]

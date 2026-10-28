@@ -1,0 +1,28 @@
+id: the-sarahbanda-2025
+performers:
+- name: The Sarahbanda
+  role: ensemble
+- name: Sarah Willis
+  role: horn
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2025]
+  place: Traumton
+released: 2025
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b5a585b2-1e36-49e6-a28b-d3d9eb470be7
+  title: Cuban Christmas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aeb97a08-751d-4a34-ab3e-85449f7be153
+  recordings: [f74e75cd-d7be-4db5-b093-6b78462278a6]

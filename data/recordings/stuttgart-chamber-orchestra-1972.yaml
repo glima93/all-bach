@@ -1,0 +1,39 @@
+id: stuttgart-chamber-orchestra-1972
+performers:
+- name: Stuttgart Chamber Orchestra
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+- name: Stoika Milanova
+  role: violin
+- name: Aurèle Nicolet
+  role: flute
+- name: Peter Reidemeister
+  role: flute
+- name: Igor Kipnis
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c19c9ab2-8d4a-4b9a-8517-1aabdc2dc56b
+  title: Brandenburg Concertos 4‐6 / Air / Sinfonia
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [4106b109-f02f-4354-9150-8cda2d5c3285]

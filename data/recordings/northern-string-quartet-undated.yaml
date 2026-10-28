@@ -1,0 +1,28 @@
+id: northern-string-quartet-undated
+performers:
+- name: Northern String Quartet
+  role: string quartet
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f139d53d-c1e8-4a39-a314-517212010986
+  title: Classical Music – I Know This One!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ee1a680-4f47-41c6-857c-51489c850b78
+  recordings: [0391796d-882e-4235-8390-d0244cf11a75]

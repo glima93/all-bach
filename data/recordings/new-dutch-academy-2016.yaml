@@ -1,0 +1,30 @@
+id: new-dutch-academy-2016
+performers:
+- name: New Dutch Academy
+  role: orchestra
+- name: Annegret Meder
+  role: viola
+- name: Simon Murphy
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Gotische Zaal
+released: 2017
+original_label: null
+works:
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3cb9ea21-98b0-4e64-8f11-2b03a653bad6
+  title: 'Grand Tour: Baroque Road Trip'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6dff1e82-bfc5-416f-bccb-810735b1a466
+  recordings: [d5a62b8a-cf44-4c3b-ba2c-4afb6f39cf27]

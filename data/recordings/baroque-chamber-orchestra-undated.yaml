@@ -1,0 +1,30 @@
+id: baroque-chamber-orchestra-undated
+performers:
+- name: Baroque Chamber Orchestra
+  role: orchestra
+- name: Jean-Pierre Rampal
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef269a18-1438-4384-8736-45524dd7f361
+  title: The Art of the Flute
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 60a622df-9422-4127-b5e0-0ac4bfc68cce
+  recordings: [7d90fa40-4f78-49ca-b5e1-29d0896b2c67]

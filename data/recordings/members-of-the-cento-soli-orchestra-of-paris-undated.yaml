@@ -1,0 +1,59 @@
+id: members-of-the-cento-soli-orchestra-of-paris-undated
+performers:
+- name: Members of the Cento Soli Orchestra of Paris
+  role: orchestra
+- name: Hermann Scherchen
+  role: conductor
+- name: Georges Tessier
+  role: violin
+- name: Robert Casier
+  role: oboe
+- name: Lucien Lavaillotte
+  role: performer
+- name: Georges Barboteu
+  role: french horn
+- name: Louis Bernard
+  role: french horn
+- name: Roger Delmotte
+  role: performer
+- name: Robert Hériché
+  role: performer
+- name: Ruggero Gerlin
+  role: performer
+- name: Jacques Balout
+  role: performer
+- name: Robert Cordier
+  role: performer
+- name: Pierre Ladhuie
+  role: performer
+- name: Jean Lamy
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d236881-f33e-4745-a599-768e41caccc3
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4e5de7ad-96e4-48de-aef2-bfd92bf24be8
+  recordings: [c820eed8-296f-4358-9dfe-031b82022726]

@@ -1,0 +1,28 @@
+id: bhimf-chamber-orchestra-undated
+performers:
+- name: BHIMF Chamber Orchestra
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1bde4a6e-6386-4692-b620-0b3992bf7573
+  title: Brandenburg Concerto / Serenade for Winds / Petite Symphonie / Simple Symphony / Dance of the Pink Girl
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d6e4a086-f147-4bb8-ba63-55908a296e37
+  recordings: [f238bbbf-8714-4cbd-8b63-a9efa244faa2]

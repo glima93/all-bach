@@ -1,0 +1,30 @@
+id: german-brass-undated
+performers:
+- name: German Brass
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [II. Adagio]}
+- {bwv: '1047', complete: false, movements: [III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/28bd061d-99c6-4933-9871-53fe2184b1c6
+  title: Fascination Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6e0558a0-c9cc-4dd6-9cfa-f32b24d35f9c
+  recordings: [2aa1764c-0ee6-4316-8a9e-d843dc098fde]

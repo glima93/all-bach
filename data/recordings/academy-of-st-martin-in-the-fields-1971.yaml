@@ -1,0 +1,34 @@
+id: academy-of-st-martin-in-the-fields-1971
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Sir Neville Marriner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1971]
+  place: null
+released: 1971
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [III. Allegro, 'IV. Menuet, Trio I, Polacca, Trio II']}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3e1b7dbc-81b1-4215-8c7c-2f7ddb034736
+  title: Brandenburgische Konzerte 1-2-6
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [5764e2fc-bbb0-49dc-b677-6073d65cfeed]

@@ -1,0 +1,41 @@
+id: orchestra-of-the-antipodes-undated
+performers:
+- name: Orchestra of the Antipodes
+  role: orchestra
+- name: Antony Walker
+  role: conductor
+- name: Erin Helyard
+  role: performer
+- name: Anna McDonald
+  role: performer
+- name: Will Wroth
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9756beb2-2fab-49ac-8f20-44e20286efa8
+  title: The Classic 100 Concerto
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bb991732-f9ac-4396-bc66-e13793250056
+  recordings: [878d51d2-b72c-4311-a89a-31bb0f8a3e90]

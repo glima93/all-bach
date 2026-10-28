@@ -1,0 +1,44 @@
+id: stuttgart-chamber-orchestra-undated
+performers:
+- name: Stuttgart Chamber Orchestra
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+- name: Dennis Russell Davies
+  role: performer
+- name: Bernard Gabel
+  role: performer
+- name: Aurèle Nicolet
+  role: performer
+- name: Helmut Winschermann
+  role: oboe
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ec1cb610-4b5c-4e9f-91dc-ef9f513f1943
+  title: Orchestral Suites 2 & 3 / Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [326bcdcf-2107-434a-b5be-ba0a7a61093d]

@@ -1,0 +1,29 @@
+id: balkan-chamber-orchestra-of-sofia-undated-2
+performers:
+- name: Balkan Chamber Orchestra of Sofia
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1050', complete: false, movements: [II. Affettuoso]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8abf5f7e-563f-492a-b3f1-a1fdff238076
+  title: 100 Relaxing Classics
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 33ead232-b18d-4e34-ba3e-b72879a0ba08
+  recordings: [fcc1ae9e-bea5-4443-a9d2-ff3d8b191b00]

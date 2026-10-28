@@ -1,0 +1,66 @@
+id: philomusica-of-london-1959
+performers:
+- name: Philomusica of London
+  role: orchestra
+- name: Thurston Dart
+  role: conductor
+- name: Granville Jones
+  role: performer
+- name: Denis Clift
+  role: trumpet
+- name: Peter Graeme
+  role: oboe
+- name: Christopher Taylor
+  role: performer
+- name: Neil Black
+  role: oboe
+- name: Vernon Elliott
+  role: bassoon
+- name: Sidney Ellison
+  role: trumpet
+- name: Carl Pini
+  role: violino piccolo
+- name: Rosemary Wells
+  role: oboe
+- name: Richard Taylor
+  role: performer
+- name: Richard Adeney
+  role: performer
+- name: Cecil Aronowitz
+  role: performer
+- name: Desmond Dupré
+  role: performer
+- name: Rosemary Green
+  role: performer
+- name: Dietrich Kessler
+  role: performer
+- name: Bernard Richards
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959]
+  place: null
+released: 1977
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9cb24150-492a-4e5f-b66a-92e243831743
+  title: The Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e36486b6-2dc8-406c-bed2-4e5081b4ddf6
+  recordings: [1664f810-5446-45c8-b1c5-46dbebbd359d]

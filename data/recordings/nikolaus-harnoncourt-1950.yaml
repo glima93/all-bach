@@ -1,0 +1,40 @@
+id: nikolaus-harnoncourt-1950
+performers:
+- name: Nikolaus Harnoncourt
+  role: viola da gamba
+- name: Gustav Leonhardt
+  role: viola da gamba
+- name: Edith Steinbauer
+  role: viola
+- name: Eduard Melkus
+  role: viola
+- name: Alfred Altenburger
+  role: viola
+- name: Frieda Krause-Litschauer
+  role: performer
+- name: Bruno Seidlhofer
+  role: harpsichord
+- name: Josef Mertin
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1950]
+  place: Casino Baumgarten
+released: 2023
+original_label: null
+works:
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b59a910-6efa-4b97-a878-5d4a37d2872e
+  title: 'Early Music Log: J.S Bach'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 98b95966-64db-4631-8b9f-8aa66f32cc98
+  recordings: [70106252-dace-494e-8eb7-08f5767c39a5]

@@ -1,0 +1,32 @@
+id: suddeutsche-philharmonie-undated
+performers:
+- name: Süddeutsche Philharmonie
+  role: orchestra
+- name: Alberto Lizzio
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6cde560d-d45e-4147-8231-5d1fefb5ff82
+  title: Brandenburgische Konzerte nos. 1, 2 und 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a9ff697e-eda9-4539-b97e-ce87e5ace80b
+  recordings: [6aa3dfc3-b7d5-4e2a-b761-7038f420315e]

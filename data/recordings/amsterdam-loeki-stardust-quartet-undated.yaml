@@ -1,0 +1,29 @@
+id: amsterdam-loeki-stardust-quartet-undated
+performers:
+- name: Amsterdam Loeki Stardust Quartet
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9bc8debc-b0eb-473e-aeec-6f67796a9e21
+  title: Extra Time
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 98c15e59-ca3a-4ae5-b718-87c6b97fa694
+  recordings: [55e6e99f-44c7-4e81-88f4-2b2faa3ff440]

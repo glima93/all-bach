@@ -1,0 +1,72 @@
+id: amsterdam-baroque-orchestra-1983
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Ton Koopman
+  role: conductor
+- name: Monica Huggett
+  role: violino piccolo
+- name: Ricardo Kanji
+  role: performer
+- name: Reine-Marie Verhagen
+  role: performer
+- name: Ku Ebbinge
+  role: oboe
+- name: Alison Bury
+  role: performer
+- name: Trevor Jones
+  role: performer
+- name: Jaap ter Linden
+  role: performer
+- name: Jan Schlapp
+  role: performer
+- name: Paul Dombrecht
+  role: oboe
+- name: Michael Henry
+  role: oboe
+- name: Michel Henry
+  role: performer
+- name: Jos Konings
+  role: horn
+- name: Michel Garcin Marrou
+  role: performer
+- name: Crispian Steele‐Perkins
+  role: performer
+- name: Nicola Cleminson
+  role: performer
+- name: Graham Cracknell
+  role: performer
+- name: Richte van der Meer
+  role: performer
+- name: Wouter Möller
+  role: performer
+- name: Christophe Coin
+  role: performer
+- name: Sarah Cunningham
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1983]
+  place: Waalse Kerk
+released: 1985
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b20d175b-c463-4748-81e8-43b34e7768c8
+  title: Brandenburgische Konzerte 1-3-4
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [1c81b217-6a24-42fd-b25e-3d3017627da5]

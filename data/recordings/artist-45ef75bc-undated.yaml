@@ -1,0 +1,31 @@
+id: artist-45ef75bc-undated
+performers:
+- name: Ансамбль скрипачей Большого театра
+  role: ensemble
+- name: Борис Хайкин
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/84e9c5b8-2560-4919-be65-0340f342fac2
+  title: The Greatest Hits
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45ef75bc-1ba0-4468-9cbb-ea30eac386f8
+  recordings: [5b70e8ca-ac53-4e31-aeeb-b2a98a6482be]

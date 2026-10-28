@@ -81,7 +81,7 @@ KEYBOARD = ["harpsichord", "piano", "clavichord", "organ", "fortepiano"]
 # working out is whether the group plays period instruments, and whether it is an arrangement.
 GROUP_TYPES = {"Orchestra", "Group", "Choir"}
 # Credits that only a period-instrument performance has.
-PERIOD_INSTRUMENT = re.compile(r"baroque|natural (horn|trumpet)|corno da caccia|violone|traverso|transverse flute \(baroque\)")
+PERIOD_INSTRUMENT = re.compile(r"baroque|natural (horn|trumpet)|corno da caccia|traverso|transverse flute \(baroque\)")
 # Ensembles that play on period instruments. Matched against performer names, so it also
 # catches them when MusicBrainz gives no instrument credits.
 PERIOD_ENSEMBLE = re.compile(
@@ -92,11 +92,20 @@ PERIOD_ENSEMBLE = re.compile(
     r"freiburger|netherlands bach society|nederlandse bachvereniging|pratum integrum|la stravaganza|collegium musicum 90|"
     r"orchestra of the antipodes|australian brandenburg|concerto k.ln|kammerakademie|cantus c.lln|il pomo d.oro|"
     r"les arts florissants|le concert d.astr.e|ensemble 415|harmonie universelle|sonnerie|la serenissima|"
-    r"academy of ancient|monteverdi|english baroque|holland baroque|il complesso barocco|modo antiquo", re.I)
+    r"academy of ancient|monteverdi|english baroque|holland baroque|il complesso barocco|modo antiquo|ensemble 1700|"
+    r"incogniti|florilegium|freitagsakademie|hanover band|musica florea|simphonie du marais|ensemble caprice|"
+    r"wiener akademie|eighteenth century|new london consort|linde consort|schola cantorum basiliensis|musica amphion|"
+    r"combattimento|harmony of nations|nova stravaganza|muses galantes|new dutch academy|magnifica comunit|"
+    r"dantone|beznosiuk", re.I)
+# Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
+MODERN_ENSEMBLE = re.compile(r"m.nchener bach|zurich baroque ensemble|^baroque chamber orchestra|"
+                             r"hamburg symphony baroque|festival baroque orchestra", re.I)
 # Credits or names that mean the music was arranged for other forces (jazz trio, brass band, synthesizer …).
 ARRANGED = re.compile(r"drum|saxophone|synthesi[sz]er|moog|electric|accordion|marimba|vibraphone|tuba|"
                       r"clarinet|banjo|mandolin|ukulele|harmonica|beatbox|bass guitar|guitar", re.I)
-ARRANGED_NAMES = re.compile(r"brass|sax|swingle|jazz|loussier|guitar|switched.on|synth|beat", re.I)
+ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone)?\b|swingle|jazz|loussier|guitar|switched.on|synth|\bbeat\b|"
+                            r"loeki|seldom sene|baby einstein|babies|sweet little band|pink mice|\bthe nice\b|"
+                            r"\ble orme\b|softcore|camarata", re.I)
 
 
 class Flow(list):
@@ -205,14 +214,21 @@ def ensemble_of(perf: dict) -> tuple[str, str, bool, list[str]]:
     group = (any(t in GROUP_TYPES for t in perf["types"]) or roles & {"conductor", "orchestra"}
              or len(perf["names"]) >= 3 or len(set(ins)) >= 3)
     arranged = [i for i in perf["ins"] if ARRANGED.search(i)]
+    if arranged or ARRANGED_NAMES.search(names) or "Choir" in perf["types"]:
+        main = "ensemble" if group else (INSTRUMENTS.get(ins[0], "other") if ins else "unknown")
+        return main, "unknown", True, arranged
     if group:
-        if arranged or ARRANGED_NAMES.search(names) or "Choir" in perf["types"]:
-            return "ensemble", "unknown", True, arranged
-        period = any(PERIOD_INSTRUMENT.search(i) for i in ins) or bool(PERIOD_ENSEMBLE.search(names))
+        period = (any(PERIOD_INSTRUMENT.search(i) for i in ins) or bool(PERIOD_ENSEMBLE.search(names))) \
+            and not MODERN_ENSEMBLE.search(perf["names"][0])
         return "ensemble", "historical" if period else "unknown", False, []
-    if ins:  # one or two players with instrument credits: piano, organ, guitar … arrangements
+    if ins:
         main = INSTRUMENTS.get(ins[0], "other")
-        return main, "unknown", True, perf["ins"] if main == "other" else []
+        bwvs = {m.split(":")[0] for m in perf["mv"]}
+        # A keyboard player alone on a work other than BWV 1050 (whose harpsichord is a solo part) is a
+        # transcription; any other single credit is a soloist named on a compilation, not an arrangement.
+        if main in KEYBOARD and bwvs - {"1050"}:
+            return main, "unknown", True, []
+        return "ensemble", "unknown", False, []
     return "unknown", "unknown", False, []
 
 
@@ -349,7 +365,7 @@ def main(snapshot: str) -> int:
     missing = [b for b in bwvs if b not in moves]
     if missing:
         raise SystemExit(f"Add work files for BWV {', '.join(missing)} before importing")
-    perfs = [expand(c, bwvs, moves) for c in rows if c["rep"] not in EXCLUDE and UNKNOWN_ARTIST not in c["a"]]
+    perfs = [expand(c, bwvs, moves) for c in rows if c["a"] and c["rep"] not in EXCLUDE and UNKNOWN_ARTIST not in c["a"]]
     existing = {p: r for p, r in load("recordings")}
     by_mbid = {m: p for p, r in existing.items() for m in (r.get("musicbrainz") or {}).get("recordings", [])}
 

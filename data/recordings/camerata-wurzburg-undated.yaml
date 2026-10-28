@@ -1,0 +1,33 @@
+id: camerata-wurzburg-undated
+performers:
+- name: Camerata Würzburg
+  role: orchestra
+- name: Professor H. Reinartz
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1974
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [I. Allegro, II. Adagio, III. Allegro]}
+- {bwv: '1047', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f6e37799-acd3-4cb1-9d9e-795da468fed8
+  title: Brandenburg Concertos no. 1, 3, 4, & 6
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b83ff762-a6c2-4fca-800c-1caf13d728f3
+  recordings: [e3b0ab3e-152b-4420-aacc-0fa137098e63]

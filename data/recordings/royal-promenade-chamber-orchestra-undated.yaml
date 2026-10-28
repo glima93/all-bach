@@ -1,0 +1,30 @@
+id: royal-promenade-chamber-orchestra-undated
+performers:
+- name: Royal Promenade Chamber Orchestra
+  role: orchestra
+- name: Nigel Simpson
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92744e0b-74dc-49e7-bed8-b53cb64d9479
+  title: Bach Family Notebook
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b24b768b-7ea7-4a0a-bb22-89d4f71b5da4
+  recordings: [18951e57-07c4-43fc-939a-a2426cb8aeef]

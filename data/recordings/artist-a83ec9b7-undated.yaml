@@ -1,0 +1,34 @@
+id: artist-a83ec9b7-undated
+performers:
+- name: Ленинградский камерный оркестр
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1971
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/052b04ee-626b-4196-a9d4-6b187d936eed
+  title: Бранденбургские концерты
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a83ec9b7-6af9-481d-abbb-18507c0cf1dc
+  recordings: [b81c029f-cd85-41b3-9311-793e2c7f8c28]

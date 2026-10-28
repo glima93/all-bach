@@ -1,0 +1,49 @@
+id: karl-richter-chamber-orchestra-1958
+performers:
+- name: Karl Richter Chamber Orchestra
+  role: orchestra
+- name: Friedrich Wührer
+  role: violin
+- name: Karl Richter
+  role: conductor
+- name: Fritz Sommer
+  role: performer
+- name: Fritz Huth
+  role: horn
+- name: Harald Kaehne
+  role: oboe
+- name: Walter Reuband
+  role: horn
+- name: Heinz Nordbruch
+  role: performer
+- name: Adolf Scherbaum
+  role: performer
+- name: Klaus Schochow
+  role: performer
+- name: Paul Meisen
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1ed1ba6-d398-4ca7-b57f-2f3fa024e402
+  title: Brandenburgische Konzerte Nr. 1, 2, 5
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 77006e20-995e-4764-917f-ef83d92dbf08
+  recordings: [0be279cc-ae56-402d-bec5-839b693f0ca5]

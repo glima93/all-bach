@@ -1,0 +1,31 @@
+id: mandolin-orchestra-mauro-e-claudio-terroni-2015
+performers:
+- name: Mandolin Orchestra Mauro e Claudio Terroni
+  role: orchestra
+- name: Silvia Tenchini
+  role: mandolin
+- name: Dorina Frati
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2015]
+  place: Chiesa Vecchia
+released: 2017
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/95bbb9e3-3903-4095-bc21-fc59d59994eb
+  title: Bach & Vivaldi for Mandolin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With mandolin.
+musicbrainz:
+  artist: 031f4d89-e147-4796-9b93-9cde4ebff245
+  recordings: [e9eae264-2675-4e7d-8123-ea221e75d182]

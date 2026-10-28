@@ -1,0 +1,32 @@
+id: bach-collegium-japan-undated
+performers:
+- name: Bach Collegium Japan
+  role: orchestra
+- name: Masaaki Suzuki
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [I. Allegro]}
+- {bwv: '1051', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7d14df31-021c-40a7-aa6f-c0b0a859815e
+  title: The Nation's Favorite Volume One
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [c289f9bb-b369-4dbd-85c0-830a760a12e7]

@@ -1,0 +1,53 @@
+id: berliner-philharmoniker-1978
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Herbert von Karajan
+  role: conductor
+- name: Thomas Brandis
+  role: violino piccolo
+- name: Hansjörg Schellenberger
+  role: oboe
+- name: Norbert Hauptmann
+  role: horn
+- name: Burkhard Rohde
+  role: oboe
+- name: Gerd Seifert
+  role: horn
+- name: Gerhard Stempnik
+  role: oboe
+- name: Andreas Blau
+  role: performer
+- name: Ottomar Borwitzky
+  role: performer
+- name: Konradin Groth
+  role: performer
+- name: Wilfried Strehle
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978, 1979]
+  place: Berliner Philharmonie
+released: 1985
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bcf812f1-fd16-4263-9865-de74aa3f9067
+  title: Brandenburgische Konzerte
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [0057e68e-368a-4cb2-b81e-ee6279e678c8]

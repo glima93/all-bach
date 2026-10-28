@@ -1,0 +1,34 @@
+id: ensemble-orchestral-de-normandie-undated
+performers:
+- name: Ensemble Orchestral de Normandie
+  role: orchestra
+- name: Beatrice André
+  role: performer
+- name: Maurice André
+  role: trumpet
+- name: Jean-Pierre Berlingen
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee58c331-d468-4bc1-ab47-96d245945753
+  title: Baroque en famille
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6eecdb17-b313-4915-bffb-8aa7327e1f87
+  recordings: [b4327dbb-c1b5-4a2f-a4d0-9b9c1a41c597]

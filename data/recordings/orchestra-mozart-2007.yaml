@@ -1,0 +1,39 @@
+id: orchestra-mozart-2007
+performers:
+- name: Orchestra Mozart
+  role: orchestra
+- name: Giuliano Carmignola
+  role: soprano violin
+- name: Claudio Abbado
+  role: conductor
+- name: Ottavio Dantone
+  role: performer
+- name: Jacques Zoon
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: Teatro Municipale di Reggio Emilia
+released: 2011
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: false, movements: [II. Andante, III. Presto]}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33510ce0-dc2d-4d6b-8a19-2842b23d9d1e
+  title: Brandenburg Concertos 1-6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 214e30b6-9552-4c00-9afe-fa82f4a203a0
+  recordings: [33a42da5-a31f-4921-8261-17e268f79c49]

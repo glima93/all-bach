@@ -1,0 +1,28 @@
+id: accademia-magnifica-comunita-undated
+performers:
+- name: Accademia Magnifica Comunita
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1050', complete: false, movements: [II. Affettuoso]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/db2fd68d-71e5-4c94-8ba6-b3b90558b8ff
+  title: Dzieła Wielkich Mistrzów
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f5fc15b-8006-4211-9850-7d97610feafa
+  recordings: [b2e89c5f-d89d-4cf5-8a46-7cdd6e3d056a]

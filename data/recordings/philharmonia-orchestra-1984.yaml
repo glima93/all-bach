@@ -1,0 +1,30 @@
+id: philharmonia-orchestra-1984
+performers:
+- name: Philharmonia Orchestra
+  role: orchestra
+- name: Maurice André
+  role: trumpet
+- name: Riccardo Muti
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: 'Abbey Road Studios: Studio 1'
+released: 1985
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/594b0ef8-a851-4991-8304-592e47820326
+  title: 'Bach: Brandenburg Concerto No. 2 / Haydn, Telemann & Torelli: Trumpet Concertos'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [60817cca-6acf-41f2-87db-e4b8b97aa767]

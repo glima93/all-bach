@@ -1,0 +1,28 @@
+id: slovenian-national-orchestra-undated
+performers:
+- name: Slovenian National Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0054046c-2cf6-4b56-8df9-bafb533ae31d
+  title: A Night at the Symphony
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cf366c1a-cf2a-4755-b676-92700a880730
+  recordings: [e5728788-9b7e-4971-b5b6-5dc089ca9b55]

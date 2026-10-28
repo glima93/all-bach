@@ -1,0 +1,28 @@
+id: royal-philharmonic-orchestra-1993
+performers:
+- name: Royal Philharmonic Orchestra
+  role: orchestra
+- name: Jonathan Carney
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: All Hallows’ Church
+released: 1996
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6cf66fec-eb7a-4305-a53d-1a6bfa947966
+  title: 'Vivaldi: The Four Seasons / Pachelbel: Canon / Bach: Brandenburg Concerto no. 3 in G, BWV1048'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 299597ae-3a20-4bf1-973e-03704af69f6b
+  recordings: [b1ee70f8-3d66-47c4-9727-c40650fca358]

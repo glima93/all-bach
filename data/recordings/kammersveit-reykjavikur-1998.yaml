@@ -1,0 +1,31 @@
+id: kammersveit-reykjavikur-1998
+performers:
+- name: Kammersveit Reykjavíkur
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998, 1999]
+  place: Áskirkja
+released: null
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f66f512a-7550-4419-b6ec-443557f0bef4
+  title: Brandenborgarkonsertar
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93fe9e80-35ef-467b-b178-7f2f9e1c0d7a
+  recordings: [9744aecd-d4af-4fed-80d1-1bbbcf4046ce]

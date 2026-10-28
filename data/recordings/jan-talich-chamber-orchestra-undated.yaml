@@ -1,0 +1,29 @@
+id: jan-talich-chamber-orchestra-undated
+performers:
+- name: Jan Talich Chamber Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4cbdf7b1-ec56-4f0a-bc21-8e98775a8d52
+  title: Live Prague Spring '94
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e7e58643-3351-4147-9e6a-72f23c3ed7c7
+  recordings: [f38deb95-784d-4c30-91d9-75de39f3ad28]

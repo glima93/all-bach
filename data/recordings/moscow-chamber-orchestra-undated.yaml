@@ -1,0 +1,36 @@
+id: moscow-chamber-orchestra-undated
+performers:
+- name: Moscow Chamber Orchestra
+  role: orchestra
+- name: Alexander Korneev
+  role: performer
+- name: David Oistrakh
+  role: performer
+- name: Naum Zaidel
+  role: performer
+- name: Rudolf Barshai
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a36d8b27-6d0d-4b0c-897e-2a0d1997bf3a
+  title: A Tribute to Rudolf Barshai
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b7bb73fe-a011-47ea-a4f3-4893d026c6fb
+  recordings: [f014e7c4-f215-4857-b0b8-af22c5f2e33b]

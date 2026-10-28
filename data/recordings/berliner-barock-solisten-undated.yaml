@@ -1,0 +1,45 @@
+id: berliner-barock-solisten-undated
+performers:
+- name: Berliner Barock Solisten
+  role: orchestra
+- name: Raphael Alpermann
+  role: harpsichord
+- name: Kristin von der Goltz
+  role: cello
+- name: Reinhard Goebel
+  role: conductor
+- name: Roberto González-Monjas
+  role: solo
+- name: Stefan Fuchs
+  role: cello
+- name: Daniel Gaede
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Jesus‐Christus‐Kirche
+released: 2017
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2fc39841-3d48-45b5-8160-dc60e20dd4e2
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5a22dc2a-1479-4bb7-b914-b8d55569b8e0
+  recordings: [dcd3d2ae-9c6a-44f5-a9e0-412644fd1f56]

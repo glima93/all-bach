@@ -1,0 +1,35 @@
+id: the-english-philharmonic-orchestra-undated
+performers:
+- name: The English Philharmonic Orchestra
+  role: orchestra
+- name: Simon Addison
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c89c591d-3b5b-447c-988f-72601cf4a57c
+  title: 'Critic''s Choice: The Basic Brandenburg Concertos'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a4121652-9058-43ba-8b72-3e3ad8b45a5a
+  recordings: [cd1f597f-b4cc-4146-a25e-a1aaf3e311c9]

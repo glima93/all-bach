@@ -1,0 +1,46 @@
+id: neues-bachisches-collegium-musicum-undated
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Max Pommer
+  role: conductor
+- name: Rainer Hucke
+  role: performer
+- name: Burkhard Schmidt
+  role: performer
+- name: Christine Schornsheim
+  role: performer
+- name: Christiane Jaccottet
+  role: performer
+- name: Ludwig Güttler
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [II. Adagio]}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f6b880e-b442-4ec9-829e-faa00ec12c01
+  title: 'Sternstunden der Musik: J. S. Bach'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [ff6377e3-0843-44ba-9b26-242d7f4a32e1]

@@ -1,0 +1,45 @@
+id: camerata-romana-undated-4
+performers:
+- name: Camerata Romana
+  role: orchestra
+- name: Musici di San Marco
+  role: orchestra
+- name: Philharmonia Slavonia
+  role: orchestra
+- name: Südwest-Studioorchester
+  role: orchestra
+- name: Karel Brazda
+  role: conductor
+- name: Eugen Duvier
+  role: conductor
+- name: Francesco Macci
+  role: conductor
+- name: Heribert Münchner
+  role: conductor
+- name: Rudolf Pribil
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1050', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9b8e35e6-28ea-4fe1-8bae-edced2794c18
+  title: Brandenburg Concertos 4, 5 & 6 / Violin Concerto no. 2
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9b04359-c185-4b36-b4c5-944bb2944b29
+  recordings: [1d90aad3-f4fa-4a69-813b-dd2ba5b5dc5d]

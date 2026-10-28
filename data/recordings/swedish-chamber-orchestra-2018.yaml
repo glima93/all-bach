@@ -1,0 +1,33 @@
+id: swedish-chamber-orchestra-2018
+performers:
+- name: Swedish Chamber Orchestra
+  role: orchestra
+- name: Thomas Dausgaard
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018]
+  place: 'Örebro universitet: Musikhögskolan'
+released: 2021
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fab12c59-dcbc-432d-aa08-69dd82fbc858
+  title: The Brandenburg Project
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8f7649f2-a4b1-43d2-8475-dba79db26ad4
+  recordings: [08f4eff9-98ac-415e-9955-ac8afd041da6]

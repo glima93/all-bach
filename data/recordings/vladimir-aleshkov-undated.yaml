@@ -1,0 +1,58 @@
+id: vladimir-aleshkov-undated
+performers:
+- name: Vladimir Aleshkov
+  role: trumpet
+- name: Viktor Alexeyev
+  role: double bass
+- name: Sergei Bliznetzov
+  role: oboe
+- name: Ekaterina Garshina
+  role: viola
+- name: Anna Glukhova
+  role: violin
+- name: Александр Кискачи
+  role: flute
+- name: Julia Malkova
+  role: viola
+- name: Alexander Rakhlis
+  role: violin
+- name: Sergei Roldugin
+  role: performer
+- name: Yuri Semyonov
+  role: harpsichord
+- name: Alexandr Shirokov
+  role: violin
+- name: Anna Vaiman
+  role: violin family
+- name: Nicolai Vasiliev
+  role: cello
+- name: Vsevolod Vasiliev
+  role: violin
+- name: Leonid Veksler
+  role: violin
+- name: Александр Титов
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [II. Andante, III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b080e461-fab7-4739-ac40-b99b85ebd67c
+  title: 'Classical Masterpieces: The Best of Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7616de0b-9820-4fcd-8fd6-070fe7c34c29
+  recordings: [c8b16aba-7187-4aa2-beaf-6c9f56ff4260]

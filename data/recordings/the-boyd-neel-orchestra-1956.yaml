@@ -1,0 +1,37 @@
+id: the-boyd-neel-orchestra-1956
+performers:
+- name: The Boyd Neel Orchestra
+  role: orchestra
+- name: Dennis Brain
+  role: french horn
+- name: Léon Goossens
+  role: oboe
+- name: Emanuel Hurwitz
+  role: violin
+- name: George Malcolm
+  role: harpsichord
+- name: Boyd Neel
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1956]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7c19ce56-b3dc-4d50-a04e-1a0ebbef62d5
+  title: 'Britten: Serenade / Berkeley: Horn Trio / Bach: Brandenburg Concerto no. 1'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1c6d71b5-873d-4a00-b0d4-d99361749eb3
+  recordings: [ed341278-265a-4fb4-8b87-bfe7b53fdaa8]

@@ -1,0 +1,28 @@
+id: alison-bury-undated
+performers:
+- name: Alison Bury
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/87929f22-4fae-4bbd-b06c-ec78c5b77cdd
+  title: Best Bach 100
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2be047ec-a484-4531-9400-e4af371ec1d6
+  recordings: [5a106cd8-f33b-4a51-aea4-8bc000ac72a0]

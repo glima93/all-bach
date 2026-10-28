@@ -1,0 +1,34 @@
+id: st-lawrence-string-quartet-undated
+performers:
+- name: St. Lawrence String Quartet
+  role: string quartet
+- name: Demarre McGill
+  role: flute
+- name: Awadagin Pratt
+  role: piano
+- name: Stephen Tramontozzi
+  role: double bass
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb8c2d93-65e0-40a2-96bd-21382e282351
+  title: Play Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f5ed0f7a-5d84-4058-827e-b535fa255a4a
+  recordings: [51f2ae26-a56d-472c-8bd9-c72db2206ac9]

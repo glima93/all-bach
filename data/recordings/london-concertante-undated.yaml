@@ -1,0 +1,28 @@
+id: london-concertante-undated
+performers:
+- name: London Concertante
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c4bfb499-2112-4228-8a32-76f5ac5b7cf9
+  title: The CD Single
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e0c74ac-3ff1-4303-80cc-70af3b160ae6
+  recordings: [3febfa9d-5f95-4cd4-b5e4-6ebb04c0f051]
