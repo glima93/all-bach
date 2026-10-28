@@ -1,0 +1,15 @@
+bwv: "1048"
+title: Brandenburg Concerto No. 3
+key: G major
+collection: Brandenburg Concertos
+genre: orchestral
+scoring: 3 violins, 3 violas, 3 cellos and continuo
+composed: Weimar and Köthen; the dedication score to Christian Ludwig, Margrave of Brandenburg, is dated 24 March 1721
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Allegro"
+notes: The slow movement is a single bar of two chords, a Phrygian half cadence, probably meant to frame an improvised cadenza; some performers substitute a slow movement from another work. The first movement carries no tempo marking in Bach's score.
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Brandenburg_Concertos
+  bach_digital: null

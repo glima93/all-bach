@@ -1,0 +1,15 @@
+bwv: "1049"
+title: Brandenburg Concerto No. 4
+key: G major
+collection: Brandenburg Concertos
+genre: orchestral
+scoring: violin and two recorders (flauti d'echo), strings and continuo
+composed: Weimar and Köthen; the dedication score to Christian Ludwig, Margrave of Brandenburg, is dated 24 March 1721
+movements:
+  - "I. Allegro"
+  - "II. Andante"
+  - "III. Presto"
+notes: Bach later arranged it as the Harpsichord Concerto in F major, BWV 1057.
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Brandenburg_Concertos
+  bach_digital: null
