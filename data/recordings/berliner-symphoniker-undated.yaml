@@ -1,0 +1,28 @@
+id: berliner-symphoniker-undated
+performers:
+- name: Berliner Symphoniker
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1485a603-ddbb-4990-acba-106345ee135a
+  title: Joyas de la Música, Volume 31
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ebd26f0-5067-417e-8544-981fb945169a
+  recordings: [e8c32148-d037-489b-9472-179e6fad3594]

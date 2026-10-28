@@ -1,0 +1,29 @@
+id: bernard-salles-undated-2
+performers:
+- name: Bernard Salles
+  role: double bass
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ec5abe14-4381-4369-9155-2da080db4554
+  title: Musiques pour contrebasse et quintette à cordes
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on double bass.
+musicbrainz:
+  artist: 87ae22b5-0b4f-4b3b-b0f1-b1314bd31a1f
+  recordings: [5b682dfd-381a-4eea-9f8f-8013e0006f7c]

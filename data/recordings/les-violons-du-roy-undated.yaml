@@ -1,0 +1,30 @@
+id: les-violons-du-roy-undated
+performers:
+- name: Les Violons du Roy
+  role: orchestra
+- name: Bernard Labadie
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1070', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3ea89e08-5663-4402-8410-74efba97104a
+  title: Music of Bach's Sons
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a118464e-b220-41ff-959d-08da62fa39b7
+  recordings: [b8896e2f-0580-4ff2-86c9-f1f49ed6d234]

@@ -1,0 +1,30 @@
+id: berner-bach-solisten-undated
+performers:
+- name: Berner Bach Solisten
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [I. Ouverture, II. Courante, III. Gavotte I & II, IV. Forlane, V. Menuet
+      I & II, VII. Passepied I & II]}
+- {bwv: '1069', complete: false, movements: [II. Bourrée I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/71292558-d33c-4b18-9a3a-70e82aa32e76
+  title: Les Concerts J. S. Bach au Temple de Lutry
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 35b203e2-a173-4560-b492-032fdf976a5a
+  recordings: [8655601f-eeef-4ecd-a61e-1de5ae79b143]

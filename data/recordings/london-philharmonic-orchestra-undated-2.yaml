@@ -1,0 +1,39 @@
+id: london-philharmonic-orchestra-undated-2
+performers:
+- name: London Philharmonic Orchestra
+  role: orchestra
+- name: Sir Adrian Boult
+  role: performer
+- name: Alfred Scholz
+  role: performer
+- name: David Parry
+  role: performer
+- name: Ben Gernon
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5bbc3ff4-b3a6-4ee9-95d8-b4d61b39cf44
+  title: Bach and Bagels
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fa37018e-3557-4cb7-973f-555003c30174
+  recordings: [58527f6f-48b3-444f-a9e6-68569537c82b]

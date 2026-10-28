@@ -1,0 +1,32 @@
+id: madeira-festival-orchestra-undated
+performers:
+- name: Madeira Festival Orchestra
+  role: orchestra
+- name: Anthony Newman
+  role: conductor
+- name: Julius Baker
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d6df9de1-f91d-4908-bf51-36687395bcdd
+  title: Suites for Flute & Orchestra
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aba9afc4-6faa-4343-afe0-98cc237fdcac
+  recordings: [b876637d-59c1-44ca-a70a-fb0fd79abec2]

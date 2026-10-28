@@ -1,0 +1,35 @@
+id: german-bach-soloists-undated-2
+performers:
+- name: German Bach Soloists
+  role: orchestra
+- name: Helmut Winschermann
+  role: conductor
+- name: Christian Altenburger
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/401a08d2-453c-46d5-8261-deb3f85744c0
+  title: Orchestral Suites / Overtures 1–3 incl. „Air“
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bf5a484-6a6a-40a2-bbd4-95129f53fbc3
+  recordings: [9a8f1ec8-18ef-495c-a7a4-61de2a02beb8]

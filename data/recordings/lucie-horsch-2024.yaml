@@ -1,0 +1,34 @@
+id: lucie-horsch-2024
+performers:
+- name: Lucie Horsch
+  role: recorder
+- name: Rachel Podger
+  role: violin
+- name: Esther van der Eijk
+  role: viola
+- name: Albert Brüggen
+  role: cello
+- name: Tom Foster
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2024]
+  place: Keizersgrachtkerk
+released: 2024
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8fc67281-bae0-479d-9cca-f45a376b1bf1
+  title: The Frans Brüggen Project
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 675afc23-1cc1-4358-b490-16568035e853
+  recordings: [3236f10b-1785-4918-b228-8d18b620784c]

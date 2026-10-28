@@ -1,0 +1,30 @@
+id: le-concert-des-nations-1990-2
+performers:
+- name: Le Concert des Nations
+  role: orchestra
+- name: La Capella Reial de Catalunya
+  role: choir
+- name: Fabio Biondi
+  role: violin
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Grande Salle
+released: 1991
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [I. Ouverture]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b3380180-d49f-462f-a8d6-4f049ab94b1a
+  title: 'Les Quatre Ouvertures: Suites pour Orchestre, BWV 1066–1069'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e3b43b6a-14b0-4b2a-abd4-a41307cf10a0
+  recordings: [35d26141-3e5d-4aa7-b685-4ad0a1179b3e]

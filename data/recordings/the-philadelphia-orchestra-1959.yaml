@@ -1,0 +1,29 @@
+id: the-philadelphia-orchestra-1959
+performers:
+- name: The Philadelphia Orchestra
+  role: orchestra
+- name: Eugene Ormandy
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959]
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/47e13358-1627-4e3f-8e6b-576eefc84079
+  title: Jesu, Joy of Man's Desiring / Sleepers, Awake / Sheep May Safely Graze / Minuet in G major
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ff3fcff7-6c85-49d6-b954-ed7011a44e5a
+  recordings: [db2e5efa-a2a5-46a0-909e-39ab8ce7d9b3]

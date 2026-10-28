@@ -1,0 +1,31 @@
+id: angel-garcia-jermann-undated
+performers:
+- name: Ángel García Jermann
+  role: cello
+- name: Mónica Raga
+  role: flute
+instrument: cello
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [V. Polonaise & Double]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/77762a5b-c24e-4937-89e8-98c1d5fc6d11
+  title: + Clásicos populares infantiles
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cf0cc279-fbca-4a92-b1e9-ca8039e53ce5
+  recordings: [aa418bfc-8338-420c-acfe-f7f4b419f967]

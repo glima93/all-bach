@@ -1,0 +1,28 @@
+id: combattimento-consort-amsterdam-1988
+performers:
+- name: Combattimento Consort Amsterdam
+  role: orchestra
+- name: Jan Willem de Vriend
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: Maria Minor
+released: 1995
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [I. Ouverture]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a036d70f-bbb2-4a78-b57c-f96f564b42bd
+  title: Barok - de collectie
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d91526ce-ee11-4530-8fe1-021674b6bd57
+  recordings: [ed5dc25f-80bf-412e-8207-41b3b99e7d85]

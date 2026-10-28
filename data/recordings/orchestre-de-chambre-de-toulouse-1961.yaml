@@ -1,0 +1,30 @@
+id: orchestre-de-chambre-de-toulouse-1961
+performers:
+- name: Orchestre de Chambre de Toulouse
+  role: orchestra
+- name: Louis Auriacombe
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e1c131b-dcd6-4638-933d-7c7478827342
+  title: Deuxième Suite En Si Mineur, Quatrième Suite En Ré Majeur
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 840e7bd6-20c6-4086-96a9-d33803f2fa5c
+  recordings: [854733f1-d313-4d4e-85ec-5c0dc5445f3b]

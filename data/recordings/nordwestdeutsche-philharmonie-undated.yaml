@@ -1,0 +1,29 @@
+id: nordwestdeutsche-philharmonie-undated
+performers:
+- name: Nordwestdeutsche Philharmonie
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9caaccb1-7a8b-4f09-834c-bf3b62262f9e
+  title: Classics for Relaxation
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4df83d02-3eb3-4929-aaa5-d0782b64e144
+  recordings: [3051122c-7c6e-46e3-b615-c81a56e082e0]

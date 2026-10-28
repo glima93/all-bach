@@ -1,0 +1,29 @@
+id: jacques-loussier-trio-undated-3
+performers:
+- name: Jacques Loussier Trio
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air, III. Gavotte I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4ff8bd6f-faf9-4319-ba9e-d2d0de3039b5
+  title: The Best of Play Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With drums (drum set).
+musicbrainz:
+  artist: 03b10e63-04f5-4f59-9954-fc22a4386945
+  recordings: [c8bd2a22-e284-4c4c-8b95-d7f3b04cfe81]

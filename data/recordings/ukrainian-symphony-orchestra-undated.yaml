@@ -1,0 +1,30 @@
+id: ukrainian-symphony-orchestra-undated
+performers:
+- name: Ukrainian Symphony Orchestra
+  role: orchestra
+- name: Peter Machevski
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8cb23590-f0a5-4b7c-8405-58945c416909
+  title: Classic Masterpieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c4005ce8-be7c-4116-8077-8ec9253f3828
+  recordings: [12f928e4-ffb4-49bc-ba74-84cfbbc53ea5]

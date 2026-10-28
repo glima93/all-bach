@@ -1,0 +1,33 @@
+id: the-boston-early-music-soloists-undated
+performers:
+- name: The Boston Early Music Soloists
+  role: orchestra
+- name: William Malloch
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Pilgrim Congregational Church
+released: 1991
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: false, movements: [I. Ouverture, II. Rondeau, III. Sarabande, V. Polonaise & Double, VII.
+      Badinerie]}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8729ed02-aa86-428b-a229-6bf3fe359e18
+  title: Suites for Dancing
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e4fffa40-8fad-482a-8034-1db2a9586be5
+  recordings: [70652064-36c4-4235-af06-1fbf4b15952b]

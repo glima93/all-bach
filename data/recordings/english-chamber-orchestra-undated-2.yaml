@@ -1,0 +1,46 @@
+id: english-chamber-orchestra-undated-2
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Sir Philip Ledger
+  role: performer
+- name: Raymond Leppard
+  role: performer
+- name: William Bennett
+  role: performer
+- name: Anne Akiko Meyers
+  role: performer
+- name: Steven Mercurio
+  role: performer
+- name: Liona Boyd
+  role: performer
+- name: Andrew Davis
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1982
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/354ac6e9-56a4-44d4-98af-103e81ee5c86
+  title: Orchestral Suites nos. 1-3
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [ef9acd82-49de-46a4-9adb-350f155ddbbe]

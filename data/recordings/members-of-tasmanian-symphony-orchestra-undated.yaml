@@ -1,0 +1,28 @@
+id: members-of-tasmanian-symphony-orchestra-undated
+performers:
+- name: Members of Tasmanian Symphony Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [I. Ouverture]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e48b7e0e-f13a-4190-81fc-5b71121782e4
+  title: 'ABC Classics: 1994 Catalogue Sampler'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e33a84d-0866-4d2c-b578-1ced0150d856
+  recordings: [b5ceccd3-fa12-4e8b-bd46-b1a3d0c0d0fe]

@@ -1,0 +1,30 @@
+id: new-york-philharmonia-virtuosi-undated-2
+performers:
+- name: New York Philharmonia Virtuosi
+  role: orchestra
+- name: Richard Kapp
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1977
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e73c8790-5243-45e2-8e0f-5a61922e71dc
+  title: Greatest Hits of 1720
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24f7fdaa-f1e0-4fab-ae05-a186137a921a
+  recordings: [ff00ca03-ddd3-4c23-8e07-e39ce4f7a8ea]

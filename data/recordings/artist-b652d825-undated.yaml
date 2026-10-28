@@ -1,0 +1,31 @@
+id: artist-b652d825-undated
+performers:
+- name: 水月陵
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/099f6699-4421-4a80-ad46-d0342982abd6
+  title: 初恋1/1 Original SoundTrack
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b652d825-c00c-4cb0-9a36-dbec4c0b8bed
+  recordings: [ac291843-dc4d-4e2f-b906-9a280c22c185]

@@ -1,0 +1,30 @@
+id: artist-ed1bd492-undated
+performers:
+- name: 鈴木鎮一
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [III. Gavotte I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fc379b44-c8be-4bc8-b674-f811a9da26fc
+  title: Suzuki Violin School, Volume 3
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed1bd492-9b98-4028-8ab7-de0abb19b68b
+  recordings: [0c15d2ad-0e43-4467-bfb6-73f28b0a9842]

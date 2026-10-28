@@ -1,0 +1,30 @@
+id: ensemble-zefiro-2015
+performers:
+- name: Ensemble Zefiro
+  role: orchestra
+- name: Alfredo Bernardini
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2015]
+  place: 'Kulturzentrum Grand Hotel: Gustav-Mahler-Saal'
+released: 2016
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6f8c2788-b03d-4e46-9e6c-d9922203883f
+  title: 'Bach: Overtures (Orchestral Suites)'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7facdd33-d62e-425d-a5a1-b36d64db5650
+  recordings: [7476e6a7-cf99-4e6d-8e79-a8e8980d301e]

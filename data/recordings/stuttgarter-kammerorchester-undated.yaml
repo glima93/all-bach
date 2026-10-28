@@ -1,0 +1,40 @@
+id: stuttgarter-kammerorchester-undated
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+- name: Jean‐Pierre Rampal
+  role: performer
+- name: Bernhard Güller
+  role: performer
+- name: Magali Mosnier
+  role: performer
+- name: Michael Hofstetter
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1971
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ae3e8ff0-17b8-46c3-901e-91988b0f43b7
+  title: Musikalisches Opfer / Orchestral Suite no. 2
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [7cbb2c2a-b54f-4ecd-a5b5-5c80f090d73a]

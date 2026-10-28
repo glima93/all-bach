@@ -1,0 +1,29 @@
+id: paul-bryan-undated
+performers:
+- name: Paul Bryan
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/18e97bdf-7cc2-44a6-b5b9-4c44b8cd87cb
+  title: Guitare Solo I
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: 89003fd8-744b-4f83-a3bc-453f4341a983
+  recordings: [50eadb31-84db-4c3d-9f2c-28ff6b7b3044]

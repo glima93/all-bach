@@ -1,0 +1,28 @@
+id: nbc-symphony-orchestra-1946
+performers:
+- name: NBC Symphony Orchestra
+  role: orchestra
+- name: Arturo Toscanini
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1946]
+  place: Carnegie Hall
+released: 1990
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/332e66b6-7d8d-49e0-90fe-ed057391fe0d
+  title: An der schönen, blauen Donau
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 229d5a97-b8e1-4195-a696-d74bc8db90ed
+  recordings: [842e2739-a999-46f7-b574-86d7c16f390e]

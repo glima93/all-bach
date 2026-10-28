@@ -1,0 +1,28 @@
+id: lotus-undated
+performers:
+- name: Lotus
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/edad316d-a6e6-497b-8969-ab84efb7db71
+  title: Lotus
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce1bda3-cd32-4a6b-88a0-8df9aac98e40
+  recordings: [94346e4f-617b-44f3-a77c-e91ffe53be8b]

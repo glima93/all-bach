@@ -1,0 +1,30 @@
+id: syrinx-undated
+performers:
+- name: Syrinx
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VI. Menuet]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/148394cd-2985-4178-88e4-286a67e8b726
+  title: 'Flûte de Pan : Les Plus Grands Thèmes'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f4877fb0-13d9-44e2-bc76-596d241a5d26
+  recordings: [53f986b0-50b9-4177-bb24-4a353c31a2ec]

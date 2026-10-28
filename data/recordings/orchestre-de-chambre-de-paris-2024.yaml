@@ -1,0 +1,30 @@
+id: orchestre-de-chambre-de-paris-2024
+performers:
+- name: Orchestre de chambre de Paris
+  role: orchestra
+- name: Lucienne Renaudin Vary
+  role: trumpet
+- name: Sascha Goetzel
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2024]
+  place: RIFFX 1 Studio
+released: 2024
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/77779171-b5bb-42c3-b353-595c06426cb4
+  title: Winter Gardens
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3062b9fd-923f-49d7-9ee7-2933d9356ad7
+  recordings: [0f0acbe0-93c7-40d3-900e-ba694baa6006]

@@ -1,0 +1,31 @@
+id: camerata-bern-1985
+performers:
+- name: Camerata Bern
+  role: orchestra
+- name: Thomas Füri
+  role: conductor
+- name: Aurèle Nicolet
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985]
+  place: Radio Bern
+released: 1986
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b18c09c2-25e4-4b58-b51f-01ebff56394d
+  title: Overtures nos. 1 & 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b562bf23-c7db-4254-9435-4772b66d08cd
+  recordings: [6bb08b76-d226-49ee-b68d-c1ee0ab84449]

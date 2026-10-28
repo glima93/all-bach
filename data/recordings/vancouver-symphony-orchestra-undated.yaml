@@ -1,0 +1,28 @@
+id: vancouver-symphony-orchestra-undated
+performers:
+- name: Vancouver Symphony Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f9bd224f-3924-4b67-9067-3df471ec1305
+  title: Selections from the VSO's 2002/03 Season
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32460ab0-4f5e-4ac1-aa49-1e050339a996
+  recordings: [647be788-d41d-49b2-8e5f-4f7fd93147df]

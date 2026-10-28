@@ -1,0 +1,31 @@
+id: h-d-karras-undated
+performers:
+- name: H. D. Karras
+  role: performer
+- name: P. Maack
+  role: performer
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b28e3000-2635-4cb4-85dc-dcbc2f4c3bbd
+  title: Famous Overtures
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cb23c512-857a-43a5-a8dd-b7b5007beba2
+  recordings: [0cfe4ac5-0526-4145-8778-cb24684b8abf]

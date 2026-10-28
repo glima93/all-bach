@@ -1,0 +1,33 @@
+id: collegium-aureum-1969
+performers:
+- name: Collegium Aureum
+  role: orchestra
+- name: Franzjosef Maier
+  role: conductor
+- name: Hans-Martin Linde
+  role: flute
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1969]
+  place: Fuggerschloss Kirchheim
+released: 1980
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f38c82d3-9e21-47c9-a4d4-de4ef7783e78
+  title: Brandenburgische Konzerte 1-6 / Ouvertüren 1-4
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2cdc12f9-aae5-4b64-a769-6448f2c1c586
+  recordings: [e1a91ac1-ba52-42f4-aad7-74bba397922e]

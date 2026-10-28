@@ -1,0 +1,29 @@
+id: boccherini-guitar-quartet-undated
+performers:
+- name: Boccherini Guitar Quartet
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ca24edc4-8583-416d-b4a5-a503fb69f0b6
+  title: Classical Guitar
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c7e616a5-0329-4058-9fe8-48c1456c7110
+  recordings: [8d8ef35c-fa5b-469f-9f13-d089225c70f5]

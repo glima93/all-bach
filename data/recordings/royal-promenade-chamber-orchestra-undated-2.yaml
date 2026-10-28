@@ -1,0 +1,30 @@
+id: royal-promenade-chamber-orchestra-undated-2
+performers:
+- name: Royal Promenade Chamber Orchestra
+  role: orchestra
+- name: Nigel Simpson
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92744e0b-74dc-49e7-bed8-b53cb64d9479
+  title: Bach Family Notebook
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b24b768b-7ea7-4a0a-bb22-89d4f71b5da4
+  recordings: [a6ae0e75-5fab-49fb-87d7-f5eb67244eaf]

@@ -1,0 +1,35 @@
+id: english-chamber-orchestra-undated-3
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Symphonieorchester des Bayerischen Rundfunks
+  role: orchestra
+- name: Eugen Jochum
+  role: conductor
+- name: Raymond Leppard
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [V. Menuet I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c6a5e4c8-8b2e-438d-a831-a9ded108f9d7
+  title: 'Das große Abenteuer Musik, Folge 9: Aufforderung zum Tanz'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [bd205bb7-8940-4f1a-ba86-aa7a4d791e24]

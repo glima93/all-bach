@@ -1,0 +1,30 @@
+id: german-chamber-orchestra-undated
+performers:
+- name: German Chamber Orchestra
+  role: orchestra
+- name: Udo Messner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/35d81e1c-38e3-4927-953e-2de8d181e116
+  title: 'Golden Baroque: The Most Beautiful Baroque Masterpieces'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 807f4889-48b5-49ef-a0a4-dda0de8a95c4
+  recordings: [26139f4f-5c19-40f4-8a92-7ebddeee2910]

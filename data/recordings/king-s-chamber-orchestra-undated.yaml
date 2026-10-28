@@ -1,0 +1,27 @@
+id: king-s-chamber-orchestra-undated
+performers:
+- name: King’s Chamber Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Holy Trinity
+released: 2005
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c7d7d62-9dfa-4f1d-85e1-e580b7392a14
+  title: Romance
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 86240c58-f6c1-422e-bcde-4f73f4c5644c
+  recordings: [edb9a424-3870-4363-926d-45ba60f5243e]

@@ -1,0 +1,28 @@
+id: the-arcangelos-chamber-ensemble-undated-2
+performers:
+- name: The Arcangelos Chamber Ensemble
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [V. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/beeff341-3662-473b-99c6-f958a48dd9bd
+  title: Baroque Garden
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6364d59c-5f00-453f-9ea2-cf228159ebe9
+  recordings: [1d0fa70d-d80a-4e29-86d5-4cdc98f38c3d]

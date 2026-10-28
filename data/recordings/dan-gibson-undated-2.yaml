@@ -1,0 +1,30 @@
+id: dan-gibson-undated-2
+performers:
+- name: Dan Gibson
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4bcef082-7fde-46f3-b2d6-014cedec7bd5
+  title: Classical Garden
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8b91414e-6f3f-416e-8f2b-138c74b92635
+  recordings: [3dc3208f-f77b-49d3-bffd-f655ca082bf8]

@@ -1,0 +1,30 @@
+id: sofia-chamber-orchestra-undated
+performers:
+- name: Sofia Chamber Orchestra
+  role: orchestra
+- name: Vassil Kazandjiev
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee46be5c-26ed-4c57-9b19-6ec46480d52e
+  title: 101 Famous Classical Masterpieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 30470b55-b83f-4f76-b465-7ebcf305013e
+  recordings: [1fe58f82-ea22-419d-8386-722b60e449a4]

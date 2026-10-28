@@ -1,0 +1,27 @@
+id: kyung-wha-chung-1994
+performers:
+- name: Kyung-Wha Chung
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1994]
+  place: サントリーホール
+released: 2013
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f0eedc4-f034-430f-8d21-dad79b43b9f9
+  title: 'Stravinsky: Duo Concertante / J.S. Bach: Violin Partita No. 2 / Bartok: Violin Sonata No. 2 / Ravel: Tzigane'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: a83500d7-4b80-4a5c-ada8-60676bbb2848
+  recordings: [30250004-647a-4868-9454-d38afaeb8733]

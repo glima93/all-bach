@@ -1,0 +1,31 @@
+id: erik-schultz-undated
+performers:
+- name: Erik Schultz
+  role: performer
+- name: Jan Overduin
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5119ec89-eae1-4721-b050-9a3d7a44d43e
+  title: Music for Trumpet and Organ, Volume 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 90e64067-f80d-4b9a-aae9-829df5950c09
+  recordings: [df0c7f76-8d8c-4559-b660-6b281c5a69e7]

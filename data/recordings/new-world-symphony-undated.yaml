@@ -1,0 +1,28 @@
+id: new-world-symphony-undated
+performers:
+- name: New World Symphony
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/68e2dcf5-8ce6-4c7d-a231-8dacb8b5c701
+  title: Sunday Morning Classics, Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a50e4e3-c065-4bfe-a997-43ec42d50d0b
+  recordings: [897d0cba-8e18-4d1f-90bb-dc90ad0ad9cc]

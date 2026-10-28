@@ -1,0 +1,32 @@
+id: philharmonia-slavonica-undated
+performers:
+- name: Philharmonia Slavonica
+  role: orchestra
+- name: Henry Adolph
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e1d078dc-f3dd-4537-9651-ba0992ae353c
+  title: Orchestra-Suite No.1+2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9a99bc67-1c17-4197-9a57-80ae70681939
+  recordings: [015bd42e-69ec-44e6-807f-ad287d913bc4]

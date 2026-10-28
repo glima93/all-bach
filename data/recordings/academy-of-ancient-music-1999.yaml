@@ -1,0 +1,28 @@
+id: academy-of-ancient-music-1999
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Stephen Cleobury
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999, 2000]
+  place: King’s College Chapel
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/74f93e6d-6dc5-40e1-9f4a-413528995e0b
+  title: Magnificat
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [80fc6150-d7a6-4de2-b11e-d64fe9f6518f]

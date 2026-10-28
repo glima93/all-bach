@@ -1,0 +1,37 @@
+id: scottish-chamber-orchestra-undated-2
+performers:
+- name: Scottish Chamber Orchestra
+  role: orchestra
+- name: Rolf Smedvig
+  role: trumpet
+- name: Jahja Ling
+  role: orchestra
+- name: Jaime Laredo
+  role: performer
+- name: Paul Tortelier
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1c3669da-a8f6-414a-8e76-50b4336ab041
+  title: Virtuoso Trumpet
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 068632ae-2db3-4817-be30-f035fdc2478b
+  recordings: [05b1b09e-e7b5-4d38-8f1f-d1626034551f]

@@ -1,0 +1,17 @@
+bwv: "1070"
+title: Orchestral Suite No. 5
+key: G minor
+collection: Orchestral Suites
+genre: orchestral
+scoring: Strings and continuo
+composed: Unknown; known only from a copy made after Bach's death
+movements:
+  - "I. Larghetto – Un poco allegro"
+  - "II. Torneo"
+  - "III. Aria"
+  - "IV. Menuetto alternativo"
+  - "V. Capriccio"
+notes: Doubtful. The style points away from Bach, and the suite is often attributed to his eldest son, Wilhelm Friedemann.
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Orchestral_suites_(Bach)
+  bach_digital: null

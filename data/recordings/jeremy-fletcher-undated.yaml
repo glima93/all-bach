@@ -1,0 +1,28 @@
+id: jeremy-fletcher-undated
+performers:
+- name: Jeremy Fletcher
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: New Norcia Abbey Church
+released: 2005
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/858c7aee-3450-460b-8778-811e368d1da4
+  title: Musica pro Organo
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ba53e28a-8f04-4a5d-8737-4d2b9f5277c3
+  recordings: [9285b076-6568-4918-9e01-93fabf8098c0]

@@ -1,0 +1,30 @@
+id: ljubljana-symphony-orchestra-undated
+performers:
+- name: Ljubljana Symphony Orchestra
+  role: orchestra
+- name: Anton Nanut
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f7a919a2-cdfa-44cb-ada8-0a3ae3c7755f
+  title: 100 Classical Masterpieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cf366c1a-cf2a-4755-b676-92700a880730
+  recordings: [b2683828-7534-4bcd-b2df-9d96cccd541b]

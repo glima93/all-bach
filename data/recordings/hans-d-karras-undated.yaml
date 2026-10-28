@@ -1,0 +1,31 @@
+id: hans-d-karras-undated
+performers:
+- name: Hans D. Karras
+  role: organ
+- name: Peter Maack
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ceb25c24-ded3-47e4-91da-5dac95fe3a40
+  title: 'Classical Treasures: Classical Moods'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f71bf1b8-d5bc-4b27-8fc4-007f3ce982c5
+  recordings: [d61d3db0-0735-444c-beca-e466ed02fa6e]

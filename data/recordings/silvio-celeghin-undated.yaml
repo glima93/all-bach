@@ -1,0 +1,29 @@
+id: silvio-celeghin-undated
+performers:
+- name: Silvio Celeghin
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/54600f2d-f9d7-4329-b795-244a78b1b116
+  title: J.S. Bach Collection
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93c468dd-7aa7-4083-9a1d-aa491399a223
+  recordings: [0d93397e-8904-4462-86e8-c4abca93bd86]

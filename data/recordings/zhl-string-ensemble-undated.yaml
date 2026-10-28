@@ -1,0 +1,28 @@
+id: zhl-string-ensemble-undated
+performers:
+- name: ZHL String Ensemble
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/54b707d5-f7c3-4c46-87e1-9ddbdaf46aa5
+  title: Classical Dreams
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b29d6760-708d-48dc-904b-29788d37ccea
+  recordings: [2b428524-7690-486f-bdb4-4d2a9cec8359]

@@ -1,0 +1,30 @@
+id: australian-chamber-orchestra-undated
+performers:
+- name: Australian Chamber Orchestra
+  role: orchestra
+- name: Richard Tognetti
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [I. Ouverture, II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/329bf625-9bf3-4fab-9aa3-e400584d4f84
+  title: The Qantas Collection 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22f136e2-6007-41e2-976d-c4dec0c973bc
+  recordings: [9ae80861-697f-4e5e-871a-4a57787ed756]

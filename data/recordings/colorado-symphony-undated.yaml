@@ -1,0 +1,29 @@
+id: colorado-symphony-undated
+performers:
+- name: Colorado Symphony
+  role: orchestra
+- name: Scott O’Neil
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Boettcher Concert Hall
+released: 2012
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f809197-f960-4280-a538-eae86f65156a
+  title: True Classics
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b9221984-913e-4845-8487-518f8f71b741
+  recordings: [8def7560-405d-4db5-b5ea-50079944dd17]

@@ -1,0 +1,29 @@
+id: duckmandu-undated
+performers:
+- name: Duckmandu!
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50da6570-9caf-4c89-815c-d08a1c6f3bb5
+  title: Shut the Duck Up and Play Your Accordion!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on musical saw.
+musicbrainz:
+  artist: e2ed7dc9-84bb-4a4e-833a-6b001f5320ff
+  recordings: [13954c49-430d-4038-9826-33fbd6f99e4f]

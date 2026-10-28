@@ -1,0 +1,29 @@
+id: canadian-brass-undated-2
+performers:
+- name: Canadian Brass
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a06bea76-d11b-4f1f-8fe5-b2491fb44fc9
+  title: Baroque Brass
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17e574e0-402a-4fe0-b513-4184c23f8873
+  recordings: [a184446e-7512-4f60-9a3a-83cf1d9c890a]

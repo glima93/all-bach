@@ -1,0 +1,28 @@
+id: kolner-rundfunk-sinfonie-orchester-1955
+performers:
+- name: Kölner Rundfunk-Sinfonie-Orchester
+  role: ensemble
+- name: Otto Klemperer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1955]
+  place: Funkhaus Wallrafplatz
+released: 2014
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d674a4c-cdda-41cb-b9c9-c4797fc6b818
+  title: Bach - Mozart - Beethoven
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ec20f06c-354b-4795-a931-142117f3ced1
+  recordings: [d3198578-c342-4205-92de-4760813a6efa]

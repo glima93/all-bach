@@ -1,0 +1,30 @@
+id: orkiestra-kameralna-filharmonii-narodowej-undated
+performers:
+- name: Orkiestra Kameralna Filharmonii Narodowej
+  role: orchestra
+- name: Karol Teutsch
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bdb374a0-8aef-4331-aa6d-e09eea7977bd
+  title: Ave Maria
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f80608e0-5ba0-45bf-abb0-0aa2f13269c8
+  recordings: [ae51e32b-b371-49d0-92b2-392c46b8d79e]

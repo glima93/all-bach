@@ -39,23 +39,32 @@ ALIASES = {"pau casals": "pablo casals"}
 
 # MusicBrainz "[unknown]" artist: no performer to file the recording under.
 UNKNOWN_ARTIST = "125ec42a-7229-4250-afc5-e057484327fe"
+NO_ARTIST = "eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61"  # MusicBrainz "[no artist]"
 
-# Recordings MusicBrainz links to the suites that are not performances of them.
-# Keyed by representative recording ID, with the reason. Fix upstream in
-# MusicBrainz too, then remove the entry here.
-EXCLUDE = {
+# Recordings MusicBrainz links to a collection's works that are not performances of them, per snapshot
+# (data/sources/musicbrainz-<id>.json), keyed by representative recording ID, with the reason. Scoped by
+# snapshot because a recording mislinked to one collection is often a real performance of another.
+# Fix upstream in MusicBrainz too, then remove the entry here.
+EXCLUDE_BY_SNAPSHOT = {
+  "cello-suites": {
     "04f657f2-dbb1-4b2a-8c4b-e96a1e4f4080": "release is the Orchestral Suites BWV 1066-1069",
     "91db1c6e-aa80-4cfc-8ef5-50639f20bc1e": "release is Rameau's harpsichord works",
     "a81b39e1-c432-4893-a829-295bfd14ae80": "release is orchestral suites by other composers",
     "9cb32a24-055a-4bb5-aa3d-d5e37830ef5a": "release is trio sonatas",
     "0e978aec-44f7-4839-9f8a-d50b3af73f50": "accompaniment-only track of the Burrowes recording",
     "b0554f83-50e2-4505-8a48-628c6dc792c8": "magazine lesson disc, not a performance",
-    # Sonatas and Partitas for solo violin
+  },
+  "violin-solo": {
     "ce8bd6ab-9ac8-497b-9a92-000f6f5440fd": "Bach's own keyboard versions (BWV 964/968), which have their own BWV numbers",
     "631731fb-8ba3-439c-90de-8ba0d8b397c6": "release is a keyboard partita",
     "30537d65-f1fe-4f4b-93f1-f83c2e106151": "release is Schubert and Mozart",
     "60c1ace9-813b-40ff-a960-0b4029adc451": "release is the sonatas for violin and keyboard",
+  },
+  "orchestral-suites": {
+    "8580bc9d-bfdc-4e33-a087-acd8e8497e2c": "release is the keyboard Partitas (a Partita movement linked to the suites)",
+  },
 }
+EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 
 INSTRUMENTS = {
     "cello": "cello", "violoncello": "cello",
@@ -104,7 +113,9 @@ PERIOD_ENSEMBLE = re.compile(
     r"incogniti|florilegium|freitagsakademie|hanover band|musica florea|simphonie du marais|ensemble caprice|"
     r"wiener akademie|eighteenth century|new london consort|linde consort|schola cantorum basiliensis|musica amphion|"
     r"combattimento|harmony of nations|nova stravaganza|muses galantes|new dutch academy|magnifica comunit|"
-    r"dantone|beznosiuk", re.I)
+    r"dantone|beznosiuk|barok|ensemble masques|les surprises|il fondamento|concert fran.ais|insula orchestra|"
+    r"early music|voices of music|tulipa consort|trillium consort|apollon ensemble|american bach soloists|"
+    r"ama deus|madeuf|blumenstock", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
 MODERN_ENSEMBLE = re.compile(r"m.nchener bach|zurich baroque ensemble|^baroque chamber orchestra|"
                              r"hamburg symphony baroque|festival baroque orchestra", re.I)
@@ -113,7 +124,15 @@ ARRANGED = re.compile(r"drum|saxophone|synthesi[sz]er|moog|electric|accordion|ma
                       r"clarinet|banjo|mandolin|ukulele|harmonica|beatbox|bass guitar|guitar", re.I)
 ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone)?\b|swingle|jazz|loussier|guitar|switched.on|synth|\bbeat\b|"
                             r"loeki|seldom sene|baby einstein|babies|sweet little band|pink mice|\bthe nice\b|"
-                            r"\ble orme\b|softcore|camarata", re.I)
+                            r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
+                            r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
+                            r"early learning centre", re.I)
+# In orchestral works only: names of groups that are not orchestras, so play the music arranged.
+ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
+                                  r"trumpet ensemble|brass", re.I)
+# Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
+ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
+                               r"\bspa\b|for sleep|relaxation|meditation", re.I)
 
 
 class Flow(list):
@@ -214,7 +233,18 @@ def instrument_of(perf: dict, native: set[str]) -> tuple[str, list[str], dict]:
     return main, others, roles
 
 
-def ensemble_of(perf: dict) -> tuple[str, str, bool, list[str]]:
+def in_scoring(instrument: str, scoring: str) -> bool:
+    """Whether a credited instrument is one the work is written for (scoring text of data/works/)."""
+    i, sc = instrument.lower(), scoring.lower()
+    # Continuo keyboards count; plain "strings" does not, so a violinist or cellist alone on a suite (the Air
+    # with piano) is a transcription, while the violinist named in a violin concerto's scoring is a soloist.
+    if re.search(r"harpsichord|organ|cembalo", i) and "continuo" in sc:
+        return True
+    word = re.sub(r"^(baroque|natural|piccolo|transverse|french) ", "", i).split(" ")[0].rstrip("s")
+    return bool(word) and word in sc
+
+
+def ensemble_of(perf: dict, scoring: str = "") -> tuple[str, str, bool, list[str]]:
     """For an ensemble work: instrument, performance practice, arrangement, instruments to mention."""
     roles = {v.lower() for v in perf["roles"].values()}
     ins = [i.lower() for i in perf["ins"]]
@@ -222,7 +252,9 @@ def ensemble_of(perf: dict) -> tuple[str, str, bool, list[str]]:
     group = (any(t in GROUP_TYPES for t in perf["types"]) or roles & {"conductor", "orchestra"}
              or len(perf["names"]) >= 3 or len(set(ins)) >= 3)
     arranged = [i for i in perf["ins"] if ARRANGED.search(i)]
-    if arranged or ARRANGED_NAMES.search(names) or "Choir" in perf["types"]:
+    release = " ".join(r["title"] for r in perf["releases"])
+    if (arranged or ARRANGED_NAMES.search(names) or "Choir" in perf["types"] or ARRANGED_RELEASES.search(release)
+            or (scoring and ARRANGED_GROUP_NAMES.search(perf["names"][0]))):
         main = "ensemble" if group else (INSTRUMENTS.get(ins[0], "other") if ins else "unknown")
         return main, "unknown", True, arranged
     if group:
@@ -231,9 +263,13 @@ def ensemble_of(perf: dict) -> tuple[str, str, bool, list[str]]:
         return "ensemble", "historical" if period else "unknown", False, []
     if ins:
         main = INSTRUMENTS.get(ins[0], "other")
+        if scoring:
+            # One or two players with credits: soloists named on a compilation when every instrument credited
+            # is in the work's scoring (a trumpeter in Brandenburg No. 2); otherwise a transcription.
+            if all(in_scoring(i, scoring) for i in ins) and not all(INSTRUMENTS.get(i) in KEYBOARD for i in ins):
+                return "ensemble", "unknown", False, []
+            return main, "unknown", True, []
         bwvs = {m.split(":")[0] for m in perf["mv"]}
-        # A keyboard player alone on a work other than BWV 1050 (whose harpsichord is a solo part) is a
-        # transcription; any other single credit is a soloist named on a compilation, not an arrangement.
         if main in KEYBOARD and bwvs - {"1050"}:
             return main, "unknown", True, []
         return "ensemble", "unknown", False, []
@@ -328,11 +364,12 @@ def chamber_of(perf: dict, lead: list[str]) -> tuple[str, str, bool, list[str]]:
 
 
 def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: set[str], same_performer: int,
-              mode: str = "classic", lead: list[str] | None = None) -> dict:
+              mode: str = "classic", lead: list[str] | None = None, scoring: str | None = None) -> dict:
     ensemble_work = mode in ("ensemble", "vocal", "chamber") or (mode == "open" and is_group(perf))
     if ensemble_work:
         instrument, practice, arranged, mention = (
-            vocal_of(perf) if mode == "vocal" else chamber_of(perf, lead or []) if mode == "chamber" else ensemble_of(perf))
+            vocal_of(perf) if mode == "vocal" else chamber_of(perf, lead or []) if mode == "chamber"
+            else ensemble_of(perf, scoring or ""))
         others, roles = [], {k: v.lower() for k, v in perf["roles"].items()}
     else:
         instrument, others, roles = instrument_of(perf, native)
@@ -425,17 +462,24 @@ def order(rec: dict) -> dict:
 
 def main(snapshot: str) -> int:
     data = json.loads(Path(snapshot).read_text(encoding="utf-8"))
+    EXCLUDE.clear()
+    EXCLUDE.update(EXCLUDE_BY_SNAPSHOT.get(Path(snapshot).stem.removeprefix("musicbrainz-"), {}))
     if isinstance(data, list):
         data = {"works": CELLO_SUITES, "native": CELLO_FAMILY, "rows": data}
     bwvs, native, rows = data["works"], set(data["native"]), data["rows"]
     # Importer mode (docs/catalogue-plan.md): older snapshots have none; "ensemble" was then the native list.
     mode = data.get("mode") or ("ensemble" if "ensemble" in native else "classic")
     lead = data["native"] if mode == "chamber" else None
+    # Scoring of the works, for telling soloists from transcriptions in orchestral works. Snapshots from the
+    # browser collector (no "mode" key) keep their original rules, so re-importing them changes nothing.
+    scorings = {w["bwv"]: w.get("scoring") or "" for _, w in load("works")}
+    scoring = " ".join(scorings.get(b, "") for b in bwvs) if data.get("mode") == "ensemble" else None
     moves = movement_names()
     missing = [b for b in bwvs if b not in moves]
     if missing:
         raise SystemExit(f"Add work files for BWV {', '.join(missing)} before importing")
-    perfs = [expand(c, bwvs, moves) for c in rows if c["a"] and c["rep"] not in EXCLUDE and UNKNOWN_ARTIST not in c["a"]]
+    perfs = [expand(c, bwvs, moves) for c in rows if c["a"] and c["rep"] not in EXCLUDE and UNKNOWN_ARTIST not in c["a"]
+             and NO_ARTIST not in c["a"]]
     existing = {p: r for p, r in load("recordings")}
     by_mbid = {m: p for p, r in existing.items() for m in (r.get("musicbrainz") or {}).get("recordings", [])}
 
@@ -447,7 +491,7 @@ def main(snapshot: str) -> int:
     results = []
     for perf in perfs:
         main_name = norm(perf["names"][0])
-        new = from_perf(perf, bwvs, moves, native, per_performer[main_name], mode, lead)
+        new = from_perf(perf, bwvs, moves, native, per_performer[main_name], mode, lead, scoring)
         target = next((by_mbid[m] for m in perf["recIds"] if m in by_mbid), None)
         if target is None:
             for path, r in existing.items():

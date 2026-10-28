@@ -1,0 +1,27 @@
+id: cafe-zimmermann-2003
+performers:
+- name: Café Zimmermann
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003, 2004]
+  place: Arsenal de Metz
+released: 2003
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/467b9648-09c7-479d-9a2f-9a9308c09bde
+  title: Concerts avec plusieurs instruments - II
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 287b6163-2115-42c1-90fd-217d667b9d96
+  recordings: [56e1666f-2cbc-4875-abc9-a15a43affcb8]

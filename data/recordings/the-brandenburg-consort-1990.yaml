@@ -1,0 +1,34 @@
+id: the-brandenburg-consort-1990
+performers:
+- name: The Brandenburg Consort
+  role: orchestra
+- name: Roy Goodman
+  role: conductor
+- name: Rachel Brown
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dc492488-2c80-4dca-84be-5288e15a3d61
+  title: The Four Orchestral Suites
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22b1e838-fbd1-4b60-a4c6-5314625f1697
+  recordings: [64742120-45e0-4ec2-b5c5-c13e42711552]

@@ -1,0 +1,33 @@
+id: il-fondamento-undated
+performers:
+- name: Il Fondamento
+  role: orchestra
+- name: Paul Dombrecht
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7057a7eb-6a34-48a3-bc14-d204f96526d2
+  title: Orchestral suites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1b01f336-b3dc-4d5d-b7c2-897537b36677
+  recordings: [936db391-6995-43ee-9623-8be63cafbc62]

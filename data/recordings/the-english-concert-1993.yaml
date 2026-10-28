@@ -1,0 +1,31 @@
+id: the-english-concert-1993
+performers:
+- name: The English Concert
+  role: orchestra
+- name: Trevor Pinnock
+  role: conductor
+- name: Lisa Beznosiuk
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993, 1994]
+  place: Henry Wood Hall
+released: 1994
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b55330fc-1a37-4963-93c4-e88a422f6ef0
+  title: Orchestral Suites / Ouvertüren BWV 1066-1069 (Sinfonias from BWV 42, 52, 110, 174, 249)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8af55e27-c6ad-44f3-a6d2-53df5462798c
+  recordings: [5432d6bb-cbfa-4b93-a6d1-ad0257a419ee]

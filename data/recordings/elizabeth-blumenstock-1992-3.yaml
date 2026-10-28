@@ -1,0 +1,54 @@
+id: elizabeth-blumenstock-1992-3
+performers:
+- name: Elizabeth Blumenstock
+  role: violin
+- name: Virginia Brewer
+  role: oboe
+- name: Dennis Ferry
+  role: trumpet
+- name: John Gibbons
+  role: harpsichord
+- name: Dennis Godburn
+  role: bassoon
+- name: John Grimes
+  role: percussion
+- name: Stephen Hammer
+  role: oboe
+- name: Jesse Levine
+  role: trumpet
+- name: Myron Lutzke
+  role: cello
+- name: Anthony Martin
+  role: violin
+- name: David Miller
+  role: viola
+- name: Marc Schachman
+  role: oboe
+- name: John Thiessen
+  role: trumpet
+- name: Michael Willens
+  role: double bass
+- name: Andrew Parrott
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1992]
+  place: Methuen Memorial Music Hall
+released: 1993
+original_label: null
+works:
+- {bwv: '1069', complete: false, movements: [I. Ouverture, II. Bourrée I & II, III. Gavotte, IV. Menuet I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf4941d5-61c3-458b-af5a-36c925e04d50
+  title: Suites / Concerto for Flute, Violin and Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 40d3f695-1a6b-45ea-a0e2-1798866a8c0b
+  recordings: [02d8c486-fc2d-47d5-8f1e-b0a655e968ee]

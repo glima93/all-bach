@@ -1,0 +1,28 @@
+id: the-portsmouth-sinfonia-undated
+performers:
+- name: The Portsmouth Sinfonia
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1973
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/804338c7-e3a2-44ed-8aae-2c8e4eaaf3bf
+  title: Plays the Popular Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1e33bf82-1736-4d25-9829-52bf0b2d1ddb
+  recordings: [eff9117c-d3b5-49a0-8ba8-33d1b6c12642]

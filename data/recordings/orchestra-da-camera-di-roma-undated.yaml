@@ -1,0 +1,32 @@
+id: orchestra-da-camera-di-roma-undated
+performers:
+- name: Orchestra da camera di Roma
+  role: orchestra
+- name: Vittoria Fanti
+  role: flute
+- name: Pierre Lamont
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/40ccb626-6c08-4a13-aec1-1f1bd410a933
+  title: Greatest Composer’s Greatest Hits
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5043a9bc-dd48-4aeb-ad65-3e9edb038672
+  recordings: [01c5f129-837a-4ea6-8058-ad30377411dc]

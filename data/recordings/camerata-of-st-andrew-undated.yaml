@@ -1,0 +1,31 @@
+id: camerata-of-st-andrew-undated
+performers:
+- name: Camerata of St. Andrew
+  role: orchestra
+- name: Leonard Friedman
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15c84612-5ab5-4f94-9ae9-bb3fe41190a9
+  title: The Classical Love Collection
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bdc9e221-f941-46fe-8d94-a3c02094fe59
+  recordings: [658e0711-e0c0-4305-a148-ec6a208cee26]

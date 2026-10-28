@@ -1,0 +1,30 @@
+id: the-orchestra-of-st-john-s-undated
+performers:
+- name: The Orchestra of St. John’s, Smith Square
+  role: orchestra
+- name: John Lubbock
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f7b0ffb-03e6-4fb7-8529-fdfdada85fa6
+  title: 39 Plus Grand Titres du Classique
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c0b4b374-89e2-4c0f-96e0-162f0a101b8a
+  recordings: [ca4c8afa-e5cf-495c-a720-5fd8c8146ced]

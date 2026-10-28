@@ -1,0 +1,28 @@
+id: paris-conservatoire-orchestra-1939
+performers:
+- name: Paris Conservatoire Orchestra
+  role: orchestra
+- name: Felix Weingartner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1939]
+  place: Studio Albert
+released: 2001
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/582bf8e0-801b-4d1f-b227-562ab3bc87d6
+  title: Orchestral Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: acfa74c8-af58-4327-bbd7-53b81d00d7c2
+  recordings: [2e3eafdd-9a58-423b-9b94-3c159da04114]

@@ -1,0 +1,29 @@
+id: noel-rawsthorne-undated
+performers:
+- name: Noel Rawsthorne
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b8c89531-e6e0-4fa3-b790-7073947954e6
+  title: Organ Spectacular
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ec26b1b-99dc-4b8a-b706-11b43ed3ee5b
+  recordings: [b95217e7-9119-4f65-881b-52ee7fc577f7]

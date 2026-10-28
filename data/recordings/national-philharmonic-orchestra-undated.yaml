@@ -1,0 +1,33 @@
+id: national-philharmonic-orchestra-undated
+performers:
+- name: National Philharmonic Orchestra
+  role: orchestra
+- name: Charles Gerhardt
+  role: conductor
+- name: Edward Beckett
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cacf3188-af65-4a29-95e3-fd4afbef5342
+  title: 'Klenoty Klasické Hudby: Johann Sebastian Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a94c0f47-7caa-42b6-b9b3-4708f6fbe7de
+  recordings: [31cc92b8-9e27-4e14-b148-995987c80b45]

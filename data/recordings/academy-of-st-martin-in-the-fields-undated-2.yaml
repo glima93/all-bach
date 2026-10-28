@@ -1,0 +1,38 @@
+id: academy-of-st-martin-in-the-fields-undated-2
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Sir Neville Marriner
+  role: conductor
+- name: William Bennett
+  role: flute
+- name: Iona Brown
+  role: performer
+- name: Henryk Szeryng
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: false, movements: [II. Air, III. Gavotte I & II, IV. Bourrée]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dc392468-3631-4a44-b9d5-d52fa9876943
+  title: The Best of Bach
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [41762f62-46ec-464b-ac13-93eda7ca34d0]

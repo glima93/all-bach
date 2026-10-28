@@ -1,0 +1,32 @@
+id: de-nederlandse-bachvereniging-2014
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Shunske Sato
+  role: performer
+- name: Lars Ulrik Mortensen
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014, 2017]
+  place: TivoliVredenburg
+released: null
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/e72aac1d-8186-4163-86b5-d2cda8211f09
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [e72aac1d-8186-4163-86b5-d2cda8211f09]

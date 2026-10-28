@@ -1,0 +1,30 @@
+id: radio-sinfonieorchester-stuttgart-des-swr-undated
+performers:
+- name: Radio‐Sinfonieorchester Stuttgart des SWR
+  role: orchestra
+- name: Sir Roger Norrington
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [V. Menuet I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6cab5bc3-62a1-4739-956c-2f7658723d8d
+  title: Der musikalische Adventskalender
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 09caaa4a-868f-4434-bcc3-4921ac8539df
+  recordings: [6579c400-e47f-4b1b-9117-29976c2e86dc]

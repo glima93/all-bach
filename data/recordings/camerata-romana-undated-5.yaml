@@ -1,0 +1,33 @@
+id: camerata-romana-undated-5
+performers:
+- name: Camerata Romana
+  role: orchestra
+- name: Eugen Duvier
+  role: conductor
+- name: Vittoria Fanti
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: false, movements: [I. Ouverture, VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/abd94295-dbb5-4070-8675-3e69474db520
+  title: 'Palestrina: Missa Brevis / Messe "Tu es Petrus" / Bach: Ouverture Suite No. 1 C-major'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9b04359-c185-4b36-b4c5-944bb2944b29
+  recordings: [8fbcfeaa-f8e5-4f03-b17d-fbf6d7a8d4d6]

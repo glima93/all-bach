@@ -1,0 +1,32 @@
+id: dordt-college-chamber-orchestra-undated
+performers:
+- name: Dordt College Chamber Orchestra
+  role: orchestra
+- name: Henry Duitman
+  role: conductor
+- name: Ruth Lynch
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [II. Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9dfa90c6-4957-4736-9a2d-be3765c59fa0
+  title: In My Heart
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 43605867-85a9-47fd-ab4f-b720935f478c
+  recordings: [f41225d0-b0c4-458d-bcb1-32c23bea9722]

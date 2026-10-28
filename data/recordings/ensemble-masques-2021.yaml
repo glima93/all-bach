@@ -1,0 +1,31 @@
+id: ensemble-masques-2021
+performers:
+- name: Ensemble Masques
+  role: ensemble
+- name: Olivier Fortin
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Théâtre Auditorium de Poitiers
+released: 2022
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f096584c-ed70-408b-b5a4-777be348ca73
+  title: Ouvertures-Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 86ed2e67-1702-4586-adda-54a41f5aea32
+  recordings: [c34b129d-0f0c-4d22-8fd6-a1dbceb83e81]

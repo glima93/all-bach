@@ -1,0 +1,29 @@
+id: daniel-estrem-undated
+performers:
+- name: Daniel Estrem
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d6a8030-ebea-48c5-ba40-e57ffb53b28e
+  title: J.S. Bach on 8 String Guitar, Volume 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: f14aee8d-5f9c-4c7b-822b-ac281add2ef8
+  recordings: [63c65633-c3fc-4107-838f-9b14c351e234]

@@ -1,0 +1,27 @@
+id: goran-sollscher-2003
+performers:
+- name: Göran Söllscher
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2003]
+  place: Galaxy Studios
+released: 2004
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2262138b-ee5f-4ae7-ae42-1415d95331db
+  title: Eleven String Baroque
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With classical guitar.
+musicbrainz:
+  artist: 918bf939-1e0f-47fd-9a14-9f0ca15a76b9
+  recordings: [82129969-b85f-4fa8-b641-0b9e871a8923]

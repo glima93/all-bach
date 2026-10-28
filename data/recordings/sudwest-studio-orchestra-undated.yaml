@@ -1,0 +1,30 @@
+id: sudwest-studio-orchestra-undated
+performers:
+- name: Südwest-Studio-Orchestra
+  role: orchestra
+- name: Heribert Münchner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b28e3000-2635-4cb4-85dc-dcbc2f4c3bbd
+  title: Famous Overtures
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bd9564dc-0747-4386-9b6f-4d0174ad4ae7
+  recordings: [719cd43e-0eb3-4512-9bda-0595401fae3a]

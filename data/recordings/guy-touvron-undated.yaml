@@ -1,0 +1,39 @@
+id: guy-touvron-undated
+performers:
+- name: Guy Touvron
+  role: trumpet
+- name: Miroslav Kejmar
+  role: trumpet
+- name: Zdeněk Šedivý
+  role: trumpet
+- name: Jirí Krejci
+  role: oboe
+- name: Gabriela Krcková
+  role: oboe
+- name: Václav Mazácek
+  role: timpani
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [I. Ouverture, III. Gavotte I & II, IV. Bourrée, V. Gigue]}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/842e135a-b092-4dab-ace7-ad456ce8e6ed
+  title: Classica D’Oro, Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 30660f57-775d-4270-a493-c25d54db5848
+  recordings: [7653fdef-0ebc-4ac8-aa5b-ca787d33905a]

@@ -1,0 +1,29 @@
+id: the-swingle-singers-undated-2
+performers:
+- name: The Swingle Singers
+  role: choir
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1976
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9c9eb8e9-94a2-441d-b8a5-bd22a7ac0a7e
+  title: 'Swingle II: Baroque'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1709e9f2-c77f-4779-b67d-44905fbc35c0
+  recordings: [8cd483c6-ade3-4869-94a1-f608e4d0a723]

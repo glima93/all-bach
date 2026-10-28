@@ -1,0 +1,30 @@
+id: los-angeles-philharmonic-undated
+performers:
+- name: Los Angeles Philharmonic
+  role: orchestra
+- name: Esa‐Pekka Salonen
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30f9f7d9-888e-4e30-868d-f92203151183
+  title: LandLust
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 98e4313e-dfb0-4084-805c-3e42ef9301d0
+  recordings: [cfb8fa2c-967c-4691-9d71-a59b32664a06]

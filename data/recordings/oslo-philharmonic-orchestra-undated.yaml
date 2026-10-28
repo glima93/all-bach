@@ -1,0 +1,30 @@
+id: oslo-philharmonic-orchestra-undated
+performers:
+- name: Oslo Philharmonic Orchestra
+  role: orchestra
+- name: Mariss Jansons
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15ec2486-4fe3-4d6c-a9e2-4962f9f681aa
+  title: World Encores
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3c02bde3-1aa2-4fcf-a961-9e619f75c07b
+  recordings: [137fa75d-f08c-4578-ba23-26fdfc55498b]

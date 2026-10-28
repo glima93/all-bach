@@ -1,0 +1,33 @@
+id: tokyo-concert-orchestra-undated
+performers:
+- name: Tokyo Concert Orchestra
+  role: orchestra
+- name: Jean‐Pierre Rampal
+  role: flute
+- name: Shigenobu Yamaoka
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [V. Polonaise & Double]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d3acf602-00e6-4295-8e5f-57d18185dea6
+  title: Favorite Encores
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1db7ee2b-6ffa-44c3-8c87-8b41a36c36fd
+  recordings: [47945f1d-0019-4040-acae-73013c08dc5b]

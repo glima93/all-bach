@@ -1,0 +1,34 @@
+id: koninklijk-concertgebouworkest-1955
+performers:
+- name: Koninklijk Concertgebouworkest
+  role: orchestra
+- name: Eduard van Beinum
+  role: conductor
+- name: Willem Mengelberg
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1955, 1956]
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9c93b68b-a7fa-46e9-9f0c-15afffcdb2b8
+  title: 'Original Masters: Eduard van Beinum - Philips Recordings 1954-1958, Volume 2'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad8260b2-2767-4e9b-9ece-7977fbcedadf
+  recordings: [2c81e12c-a6c8-4809-a8cd-75eb6880d7ab]

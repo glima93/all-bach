@@ -1,0 +1,31 @@
+id: ars-rediviva-undated-2
+performers:
+- name: Ars Rediviva
+  role: orchestra
+- name: Milan Munclinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [I. Ouverture, II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c820c533-b586-4eb3-8311-aaab207b422c
+  title: Best Of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ab56484-5a98-47e2-9b32-25ac9f890f08
+  recordings: [5fb4c773-df0d-449f-9d14-ee767dfa911f]

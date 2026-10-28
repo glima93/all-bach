@@ -1,0 +1,29 @@
+id: the-san-francisco-saxophone-quartet-undated
+performers:
+- name: The San Francisco Saxophone Quartet
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/638d2b3f-4fd9-43b1-8e7c-d0b1898f53ef
+  title: Tails of the City
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fe7ceb65-f709-4ad3-870a-bd157cd922df
+  recordings: [548c3072-649a-4304-9b05-4c1b4606388d]

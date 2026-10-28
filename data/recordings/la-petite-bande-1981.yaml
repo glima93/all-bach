@@ -1,0 +1,32 @@
+id: la-petite-bande-1981
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Sigiswald Kuijken
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1981]
+  place: Schlosskirche Schleiden
+released: 1987
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: false, movements: [I. Ouverture, II. Rondeau, III. Sarabande, V. Polonaise & Double, VI.
+      Menuet, VII. Badinerie]}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b39f4f25-bf5d-45e4-a9e0-ff5a700d7cb3
+  title: Suites (Overtures) BWV 1066-1069
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [08968251-16ef-4566-9193-811eb9c1bb96]

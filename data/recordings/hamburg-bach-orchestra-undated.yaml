@@ -1,0 +1,30 @@
+id: hamburg-bach-orchestra-undated
+performers:
+- name: Hamburg Bach Orchestra
+  role: orchestra
+- name: Robert Stehli
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/120dbeea-baa7-4197-a074-b4e231099b49
+  title: 'Baroque Music: Bach & Handel'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d5f486ca-54f3-411d-9109-ea4f7ebf621d
+  recordings: [b5b5bdd3-874e-45ae-9117-0371748ccfa8]

@@ -1,0 +1,30 @@
+id: nationalmusei-kammarorkester-1975
+performers:
+- name: Nationalmusei Kammarorkester
+  role: orchestra
+- name: Gunilla von Bahr
+  role: flute
+- name: Claude Génetay
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1975]
+  place: Nacka Aula
+released: 1987
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/41d03928-8c34-4616-990b-e21ffcc1ddb5
+  title: Piccolo Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c90c8ce7-a446-4cb3-9b3a-3698f90f7acf
+  recordings: [b3bb5856-4d75-4166-9423-b0ccd8e8c2ca]

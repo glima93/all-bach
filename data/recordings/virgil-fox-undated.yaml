@@ -1,0 +1,28 @@
+id: virgil-fox-undated
+performers:
+- name: Virgil Fox
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Cathedral of Saint Mary of the Assumption
+released: 2004
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/388076e5-e250-4b7a-be3e-07b71ec6ca7b
+  title: The Bach Gamut, Volume I
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0005682c-3083-415e-ae4c-debd7be3e47e
+  recordings: [05a04ec3-5f06-416d-b055-533bec350044]

@@ -1,0 +1,29 @@
+id: l-orchestre-de-la-suisse-romande-1966
+performers:
+- name: L’Orchestre de la Suisse Romande
+  role: orchestra
+- name: Ernest Ansermet
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966]
+  place: null
+released: 1977
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3e6520e2-b155-436f-a5af-647a3a246fc9
+  title: Classical Favourites
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9914f9f9-36c0-4156-8799-6544c60ab08c
+  recordings: [3b759b47-6ee4-415f-920c-cb6bbff61251]

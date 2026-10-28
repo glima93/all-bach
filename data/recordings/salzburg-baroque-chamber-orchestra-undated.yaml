@@ -1,0 +1,28 @@
+id: salzburg-baroque-chamber-orchestra-undated
+performers:
+- name: Salzburg Baroque Chamber Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c6e190be-e46d-45fc-8c91-c591e6244519
+  title: Pachelbel, Bach, Vivaldi And Many More
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 07f530bf-e4c3-43cf-956f-144c35c9c95a
+  recordings: [cd815690-b771-45e7-b786-48ac3930a56a]

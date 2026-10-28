@@ -1,0 +1,35 @@
+id: the-english-philharmonic-orchestra-undated-3
+performers:
+- name: The English Philharmonic Orchestra
+  role: orchestra
+- name: London Festival Orchestra
+  role: orchestra
+- name: Philharmonic Orchestra London
+  role: orchestra
+- name: Simon Addison
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dbf350b4-5447-47eb-a5f0-02b968dabd4c
+  title: Classical Gold, Volume 1
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a4121652-9058-43ba-8b72-3e3ad8b45a5a
+  recordings: [a1cf083b-cfc2-4abb-ab5c-8bb7c3dd0a08]

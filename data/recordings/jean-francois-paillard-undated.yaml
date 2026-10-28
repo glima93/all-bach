@@ -1,0 +1,28 @@
+id: jean-francois-paillard-undated
+performers:
+- name: Jean‐François Paillard
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aedd5bce-2546-4df1-afd1-3816e7d4c165
+  title: C’est quoi ça déjà ? Classique
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e9fb3a0c-1718-48a5-a52b-b2336e17ef2a
+  recordings: [691c01a2-af78-411e-b203-d863c81a1d98]

@@ -1,0 +1,31 @@
+id: le-concert-francais-undated
+performers:
+- name: Le Concert Français
+  role: orchestra
+- name: Pierre Hantaï
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0be136ea-76a7-470d-933d-db79e303ed45
+  title: Suites pour Orchestre 1 & 4
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ac25c76a-077e-4311-90fa-11a8a625bbdb
+  recordings: [dba3c386-86eb-4059-ab53-a510fbfddd37]

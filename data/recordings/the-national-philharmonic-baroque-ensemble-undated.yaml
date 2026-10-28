@@ -1,0 +1,33 @@
+id: the-national-philharmonic-baroque-ensemble-undated
+performers:
+- name: The National Philharmonic Baroque Ensemble
+  role: orchestra
+- name: Charles Gerhardt
+  role: conductor
+- name: Edward Beckett
+  role: flute
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d1f43a78-6e83-44f6-86ff-e1541e633ee8
+  title: 'Klassische Kostbarkeiten: Johann Sebastian Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a1cdc69a-2fda-4f60-9100-2f61277dc6a6
+  recordings: [dcf964a7-e29f-4eb5-861c-3f16234a8260]

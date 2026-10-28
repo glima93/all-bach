@@ -1,0 +1,30 @@
+id: boston-baroque-2003
+performers:
+- name: Boston Baroque
+  role: orchestra
+- name: Martin Pearlman
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [IV. Bourrée, V. Gigue]}
+- {bwv: '1069', complete: false, movements: [I. Ouverture]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/efe3d4ba-6352-4f2c-9acf-b36eccaa732f
+  title: The Complete Orchestral Suites
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2dcc28ab-e43c-4ce4-b8b9-5dcc07bb87cf
+  recordings: [65938205-9bf5-4d84-8c47-a7a7dc30d119]

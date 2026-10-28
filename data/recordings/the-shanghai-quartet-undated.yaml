@@ -1,0 +1,33 @@
+id: the-shanghai-quartet-undated
+performers:
+- name: The Shanghai Quartet
+  role: string quartet
+- name: Anthony Newman
+  role: harpsichord
+- name: Eugenia Zukerman
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e954d994-771e-4b8e-9c40-40417f6608ff
+  title: Music for a Sunday Morning
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8b1b6989-5904-47a3-9129-6d7523f4bc2f
+  recordings: [51418451-6e36-451a-9eb2-6bd05466ffe0]

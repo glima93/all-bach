@@ -1,0 +1,29 @@
+id: artist-49a1c991-undated
+performers:
+- name: ベルリン・フィル弦楽ゾリステン
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44280c25-6480-441c-b140-ae032714e55b
+  title: ベスト・クラシック100 プラチナム
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49a1c991-745d-4fb9-af61-ed4fe3a59bd2
+  recordings: [ab71c0ba-55bd-425c-9d8b-b1abe2ac77ff]

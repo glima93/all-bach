@@ -1,0 +1,29 @@
+id: ulrik-spang-hanssen-undated
+performers:
+- name: Ulrik Spang-Hanssen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1981e15-30f1-47ed-89b3-fe352b9159cf
+  title: Organ Bon Bons
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 13f89d82-7128-4768-92c3-2e7317eb8eea
+  recordings: [7997a545-8b4e-4cab-9304-8dbd1208a28f]

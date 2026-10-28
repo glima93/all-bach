@@ -1,0 +1,28 @@
+id: freiburger-barockorchester-1991
+performers:
+- name: Freiburger Barockorchester
+  role: orchestra
+- name: Thomas Hengelbrock
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1991]
+  place: Ev. Auenkirche Berlin-Wilmersdorf
+released: 1993
+original_label: null
+works:
+- {bwv: '1069', complete: false, movements: [I. Ouverture, II. Bourrée I & II, III. Gavotte, V. Réjouissance]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/41c59db4-462b-465e-b187-c32f0c99b4bc
+  title: Overtures, Sinfonias, Concerti
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 21a558f0-22b1-4959-aa24-df7b0d7a571d
+  recordings: [12c41ae3-7c11-4daa-8cf0-38029222bc39]

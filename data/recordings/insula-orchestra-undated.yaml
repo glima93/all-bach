@@ -1,0 +1,30 @@
+id: insula-orchestra-undated
+performers:
+- name: Insula Orchestra
+  role: orchestra
+- name: Laurence Equilbey
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a1f9b79-5ae2-45cb-9137-7651ed5c6250
+  title: Musiques de cinéma
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c9b2107d-1646-4ecd-b6ee-0dc80cf95785
+  recordings: [901adcaf-3bf4-498c-abe1-1c32a7f2956d]

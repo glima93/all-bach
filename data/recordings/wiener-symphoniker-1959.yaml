@@ -1,0 +1,29 @@
+id: wiener-symphoniker-1959
+performers:
+- name: Wiener Symphoniker
+  role: orchestra
+- name: Otto Klemperer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959]
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b132e8a-2a5a-4ad5-8eaf-91db5afbf0a7
+  title: 'Klemperer Live: Vienna, Vol. 2 — Concert 8 March 1956 (Live Historical Recording)'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: fdec141a-f2a7-4b07-9257-8909c294546b
+  recordings: [4419a2b5-e572-49c0-8ee1-21b0c4149cd3]

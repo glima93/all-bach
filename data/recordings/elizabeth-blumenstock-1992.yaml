@@ -1,0 +1,40 @@
+id: elizabeth-blumenstock-1992
+performers:
+- name: Elizabeth Blumenstock
+  role: violin
+- name: John Gibbons
+  role: harpsichord
+- name: Dennis Godburn
+  role: bassoon
+- name: Stephen Hammer
+  role: oboe
+- name: Anthony Martin
+  role: violin
+- name: David Miller
+  role: viola
+- name: Marc Schachman
+  role: oboe
+- name: Andrew Parrott
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1992]
+  place: Methuen Memorial Music Hall
+released: 1993
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf4941d5-61c3-458b-af5a-36c925e04d50
+  title: Suites / Concerto for Flute, Violin and Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 40d3f695-1a6b-45ea-a0e2-1798866a8c0b
+  recordings: [8f14a72f-9c85-4295-ab6b-2fe2aa0cd091]

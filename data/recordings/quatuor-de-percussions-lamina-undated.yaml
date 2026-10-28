@@ -1,0 +1,29 @@
+id: quatuor-de-percussions-lamina-undated
+performers:
+- name: Quatuor de Percussions Lamina
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0f75f23-28a9-41f9-8eea-ef74ebb0a8e7
+  title: Résonances
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 888fa0a9-1655-4154-8908-30e5c839c5de
+  recordings: [9faf9047-cd94-4093-a0db-e93c5644e2e3]

@@ -1,0 +1,29 @@
+id: gareth-jones-undated
+performers:
+- name: Gareth Jones
+  role: piano
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e7afe622-4d21-4539-b33a-a9b449335a1e
+  title: The Most Beautiful Piano Music Ever
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dd561dfd-15c1-4eaf-b4dc-4cd751370e55
+  recordings: [e55a8c3d-0b98-4090-a2af-b2a856aada21]

@@ -1,0 +1,28 @@
+id: orchestra-of-the-moscow-state-conservatory-undated
+performers:
+- name: Orchestra of The Moscow State Conservatory
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b82c1be3-b973-4dae-8715-16e76d2c3fac
+  title: Music for Strings
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: afc0e9e4-78b2-4f12-a3fe-61fab50c0d1f
+  recordings: [84a654c1-b044-44c9-a0f8-cd5d945e5a37]

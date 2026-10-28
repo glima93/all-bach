@@ -1,0 +1,29 @@
+id: maurice-andre-undated-3
+performers:
+- name: Maurice André
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4de2c11d-d4a7-4d89-9e63-d7f26281cd61
+  title: Les 40 Merveilles Du Classique
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24568d6a-34bb-44a0-8379-423709aa8ef0
+  recordings: [e46c7102-befe-4621-b753-fdae822c0703]

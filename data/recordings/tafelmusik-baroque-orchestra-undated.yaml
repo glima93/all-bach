@@ -1,0 +1,32 @@
+id: tafelmusik-baroque-orchestra-undated
+performers:
+- name: Tafelmusik Baroque Orchestra
+  role: orchestra
+- name: Jeanne Lamon
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Grace Church on-the-Hill
+released: 2002
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d848e76d-d574-4322-9b4f-cc099097167e
+  title: 'BBC Music, Volume 21, Number 6: Bach: Orchestral Suites Nos 1 & 3 / Telemann: Suite in B-flat "La Bourse"'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0ca59def-f1bc-4e74-b17e-45276faa12f0
+  recordings: [28a02c3c-072f-46fe-8a94-b41ee3fd5ec4]

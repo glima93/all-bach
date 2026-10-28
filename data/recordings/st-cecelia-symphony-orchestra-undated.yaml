@@ -1,0 +1,28 @@
+id: st-cecelia-symphony-orchestra-undated
+performers:
+- name: St. Cecelia Symphony Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/56ef1f66-0090-4618-8e8f-5e75db3ec0e0
+  title: 'The Greatest Classical Composers: Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3d7bf924-66d0-43cb-9db1-2896df35a0bf
+  recordings: [4114cf95-91b4-42de-9e1f-6e46aaec7e9f]

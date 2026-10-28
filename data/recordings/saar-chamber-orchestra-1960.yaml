@@ -1,0 +1,32 @@
+id: saar-chamber-orchestra-1960
+performers:
+- name: Saar Chamber Orchestra
+  role: orchestra
+- name: Karl Ristenpart
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/90b63442-011f-4faa-b8fa-954a76ff4430
+  title: Œuvres pour orchestre
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 42da034d-8355-4237-885c-ac00656924aa
+  recordings: [e0e9e6a9-5a70-40ca-a4f0-a811d0edf7ac]

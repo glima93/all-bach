@@ -1,0 +1,31 @@
+id: st-petersburg-classical-music-studio-orchestra-undated-2
+performers:
+- name: St. Petersburg Classical Music Studio Orchestra
+  role: orchestra
+- name: Aleksander Titov
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f007b2f-1af2-484b-9d1f-5da12632713e
+  title: 'Bach: Suites Nos. 1 & 2 / Handel: Concerto Grosso, Op. 6, No. 7'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 262ccb87-4c63-487e-95db-35bf1e4b68d5
+  recordings: [53a7cd90-59d1-4b27-ad8a-fdae1f7f3ffb]

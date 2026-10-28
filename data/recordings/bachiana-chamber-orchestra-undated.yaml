@@ -1,0 +1,33 @@
+id: bachiana-chamber-orchestra-undated
+performers:
+- name: Bachiana Chamber Orchestra
+  role: orchestra
+- name: João Carlos Martins
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9354ed3c-3d42-45ab-b4b1-25cbdb620bf6
+  title: Orchestral Suites 1-4
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 491bdc0d-8854-4c49-a05c-09e717064406
+  recordings: [dff7d910-813e-4927-b096-9126bd6c2e9a]

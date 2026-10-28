@@ -1,0 +1,31 @@
+id: stuttgart-chamber-orchestra-1961
+performers:
+- name: Stuttgart Chamber Orchestra
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: Victoria Hall
+released: 2009
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/83edc501-e676-4431-915f-f86c8ec7af5e
+  title: The Baroque Legacy
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [4a159437-8a0e-4316-95c0-3f803e854e04]

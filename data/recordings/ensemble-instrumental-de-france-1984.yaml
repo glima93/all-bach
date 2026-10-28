@@ -1,0 +1,28 @@
+id: ensemble-instrumental-de-france-1984
+performers:
+- name: Ensemble Instrumental de France
+  role: orchestra
+- name: Alain Marion
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Christuskirche - Église protestante allemande à Paris
+released: 1984
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [V. Polonaise & Double, VI. Menuet, VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c6bd3683-2a4c-450d-b75b-b2d3cb2111f4
+  title: L'Adagio d'Albinoni
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e18b6b0-8bc6-4f7d-9952-5d0b3008c62d
+  recordings: [8b1c6ace-7885-4d22-a4f2-36936ac58db8]

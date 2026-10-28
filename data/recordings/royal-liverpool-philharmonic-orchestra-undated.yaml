@@ -1,0 +1,29 @@
+id: royal-liverpool-philharmonic-orchestra-undated
+performers:
+- name: Royal Liverpool Philharmonic Orchestra
+  role: orchestra
+- name: Vasily Petrenko
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Philharmonic Hall
+released: 2010
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9bdb886-8d9d-4c62-8aaf-b1815a11d5b8
+  title: 'Classic FM: Music From the Masters'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 887b4dfd-269c-46a8-a42d-32560b417760
+  recordings: [1d7e6bb8-9d16-4a00-9b35-1fe1469f64df]

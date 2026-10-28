@@ -1,0 +1,33 @@
+id: akademie-fur-alte-musik-berlin-undated-2
+performers:
+- name: Akademie für Alte Musik Berlin
+  role: orchestra
+- name: Isabelle Faust
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/80eb92eb-ff57-4cec-8dd0-c3db2824ace2
+  title: Ouvertüren - Quatre Suites BWV 1066-69
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad1b876d-1f4a-4126-8965-7e35076b9962
+  recordings: [a5135582-db7b-4e35-abe8-6f6b63abe14d]

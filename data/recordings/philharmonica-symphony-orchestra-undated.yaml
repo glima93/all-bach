@@ -1,0 +1,28 @@
+id: philharmonica-symphony-orchestra-undated
+performers:
+- name: Philharmonica Symphony Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/07430bb7-c13c-42b3-aa02-1b2c41e7a1fd
+  title: Summer Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bbba0033-2ed0-4e68-8a68-ab2da5b20bfd
+  recordings: [51036254-88b9-4d12-aad5-6e30727471b6]

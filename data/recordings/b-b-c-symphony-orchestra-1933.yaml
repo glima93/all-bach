@@ -1,0 +1,29 @@
+id: b-b-c-symphony-orchestra-1933
+performers:
+- name: B.B.C. Symphony Orchestra
+  role: orchestra
+- name: Adrian Boult
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1933]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4077f471-72c6-4173-9a68-70dd43161636
+  title: Suite no. 3 in D major
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5b13c665-88eb-4e80-9a06-218a660fcf6b
+  recordings: [9ed5c8f1-cc75-4eb1-bcd2-9f467faee049]

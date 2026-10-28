@@ -1,0 +1,28 @@
+id: peter-schreier-undated
+performers:
+- name: Peter Schreier
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9ae4d344-e3ca-46ea-a937-7a7b9a588a4c
+  title: 100 Classical Hits
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 91affe0e-2034-4e18-a6d6-e3c99a861319
+  recordings: [2a0c2375-753a-4bae-ae5f-30c039f53925]

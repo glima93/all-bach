@@ -1,0 +1,32 @@
+id: stockholm-chamber-ensemble-1978
+performers:
+- name: Stockholm Chamber Ensemble
+  role: orchestra
+- name: Jan‐Olav Wedin
+  role: conductor
+- name: Gunilla von Bahr
+  role: flute
+- name: Roland Östblom
+  role: organ
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978]
+  place: Täby kyrka
+released: 1978
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/254ec08a-f681-45ce-98f7-7cbd9ed37ba6
+  title: Solflöjt 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c85b83f3-ea17-4780-bffc-1d18e90779e7
+  recordings: [f71c9738-70ef-4720-b50d-91c5cd2328d5]

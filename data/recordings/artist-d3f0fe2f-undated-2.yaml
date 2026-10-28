@@ -1,0 +1,32 @@
+id: artist-d3f0fe2f-undated-2
+performers:
+- name: 川田知子
+  role: violin
+- name: 福田進一
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5171d7f8-4e0b-41d3-829f-ebce77c2d38c
+  title: Mi Buenos Aires Querido
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: d3f0fe2f-7859-44ea-a71c-f1737e78a13a
+  recordings: [63465859-c24b-4dbb-ae5e-3dc3d7fb0ac2]

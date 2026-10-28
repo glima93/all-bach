@@ -1,0 +1,28 @@
+id: nurnberger-symphoniker-undated
+performers:
+- name: Nürnberger Symphoniker
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f3fa3d33-644c-4f0b-baee-c29eb02a6261
+  title: The Great Works of Johann Sebastian Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 703d17c5-6c70-458d-b2ee-9b331e34d504
+  recordings: [e8f210ed-a950-4777-ad9b-ce607e790022]

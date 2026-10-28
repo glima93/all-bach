@@ -1,0 +1,30 @@
+id: david-drury-undated
+performers:
+- name: David Drury
+  role: organ
+- name: John Foster
+  role: trumpet
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c18aa14e-f962-4fe2-8ff4-13eb12c6d4d1
+  title: 'The Essential Trumpet: Bright, Bold and Beautiful'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c19d05be-9373-400e-8a12-3ccc17258c8b
+  recordings: [fd757ab5-77fd-4468-b16d-b73245b947da]

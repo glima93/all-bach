@@ -1,0 +1,34 @@
+id: cafe-zimmermann-undated-2
+performers:
+- name: Café Zimmermann
+  role: ensemble
+- name: Céline Frisch
+  role: harpsichord
+- name: Pablo Valetti
+  role: violin
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0469810-790a-45b2-8d1d-dba24b4581cc
+  title: Concerts avec plusieurs instruments – V
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 287b6163-2115-42c1-90fd-217d667b9d96
+  recordings: [5e9f7988-592a-4ac9-9b1d-0aba14376d0d]

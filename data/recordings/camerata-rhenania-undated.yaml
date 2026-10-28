@@ -1,0 +1,35 @@
+id: camerata-rhenania-undated
+performers:
+- name: Camerata Rhenania
+  role: orchestra
+- name: Eugen Duvier
+  role: conductor
+- name: Hanspeter Gmür
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [I. Ouverture, II. Rondeau, III. Sarabande, IV. Bourrée I & II, V. Polonaise
+      & Double]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dd01cbd7-c575-4f61-a963-3ac368a85788
+  title: A Baroque Festival (1600-1750)
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a3c1fe52-a980-417f-8c4a-50d3d552c4a1
+  recordings: [9b8069bc-004d-4ee0-a6ff-10c69c51e125]

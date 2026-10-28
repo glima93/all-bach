@@ -1,0 +1,28 @@
+id: baroque-ensemble-of-vienna-undated
+performers:
+- name: Baroque Ensemble of Vienna
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f638ebf-ff45-4075-aa64-fa4bd15b50ca
+  title: Joyas de la Música Clásica, Volume 15
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ec972fcb-42dc-4579-9e24-fecd92d8c821
+  recordings: [ce9e1480-b658-4fff-ba24-9455c321145b]

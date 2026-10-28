@@ -1,0 +1,28 @@
+id: amsterdam-concertgebouw-orchestra-1931
+performers:
+- name: Amsterdam Concertgebouw Orchestra
+  role: orchestra
+- name: Willem Mengelberg
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1931]
+  place: Concertgebouw
+released: 2001
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/582bf8e0-801b-4d1f-b227-562ab3bc87d6
+  title: Orchestral Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad8260b2-2767-4e9b-9ece-7977fbcedadf
+  recordings: [51ad1f6f-4484-4c05-85ab-9f6dcc6819ed]

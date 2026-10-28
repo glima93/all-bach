@@ -1,0 +1,28 @@
+id: tafelmusik-2011
+performers:
+- name: Tafelmusik
+  role: orchestra
+- name: Jeanne Lamon
+  role: violin
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: Humbercrest United Church
+released: 2011
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c4fcf702-e1ca-4346-8c1f-d334f334fe0f
+  title: Cantatas, BWV 54 & 170 / Concerto, BWV 1060 / Suite, BWV 1067
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0ca59def-f1bc-4e74-b17e-45276faa12f0
+  recordings: [90f6a100-a38c-4034-9d9f-ec897134a14d]

@@ -1,0 +1,34 @@
+id: boston-baroque-undated-2
+performers:
+- name: Boston Baroque
+  role: orchestra
+- name: Martin Pearlman
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: false, movements: [I. Ouverture, II. Air, III. Gavotte I & II]}
+- {bwv: '1069', complete: false, movements: [II. Bourrée I & II, III. Gavotte, IV. Menuet I & II, V. Réjouissance]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/efe3d4ba-6352-4f2c-9acf-b36eccaa732f
+  title: The Complete Orchestral Suites
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2dcc28ab-e43c-4ce4-b8b9-5dcc07bb87cf
+  recordings: [d67ce7cd-492a-44c1-81da-176f9ab36f04]

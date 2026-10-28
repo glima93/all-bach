@@ -1,0 +1,34 @@
+id: halle-orchestra-undated
+performers:
+- name: Hallé Orchestra
+  role: orchestra
+- name: Owain Arwel Hughes
+  role: conductor
+- name: Roger Rostron
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/73692710-71dc-4024-bbfd-ab26962ca3dd
+  title: Favourite Bach
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e2e9da6e-de76-4a92-a9c7-347158d885df
+  recordings: [389d742b-5074-4d1e-be1b-29b3f5892c02]

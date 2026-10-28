@@ -1,0 +1,29 @@
+id: david-nadien-undated
+performers:
+- name: David Nadien
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [III. Gavotte I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5111ebea-3cbb-4eec-8e9d-d608692be8f0
+  title: Suzuki Violin School, Volume 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 512598a0-8a21-4f93-93ca-f2ec75f98a4a
+  recordings: [c61e7bed-1d72-4f6a-aafd-404afab3f986]

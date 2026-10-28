@@ -1,0 +1,29 @@
+id: nova-stravaganza-2001
+performers:
+- name: Nova Stravaganza
+  role: orchestra
+- name: Siegbert Rampe
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: Spiegelsaal Schloss Köthen
+released: 2002
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [I. Ouverture, II. Courante, III. Gavotte I & II, V. Menuet I & II,
+    VI. Bourrée I & II, VII. Passepied I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1c954b5e-9546-44ad-96aa-449dc9b081f8
+  title: The Early Overtures
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fed56f7-aefb-41f8-9ce7-2a3afb572e75
+  recordings: [ae35edb5-8878-4fd4-83bf-8ddf15a6a679]

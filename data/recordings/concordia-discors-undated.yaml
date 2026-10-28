@@ -1,0 +1,33 @@
+id: concordia-discors-undated
+performers:
+- name: Concordia Discors
+  role: ensemble
+- name: Michel Tirabosco
+  role: performer
+- name: Denis Fedorov
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [II. Rondeau, III. Sarabande, IV. Bourrée I & II, VI. Menuet, VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33052dca-b12c-4602-85c5-6348d97508bf
+  title: Printemps
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fec02576-fcd5-4315-9daa-2ed74432a161
+  recordings: [40c693de-ee67-439c-b0a6-3aa83d2d9b2d]

@@ -1,0 +1,30 @@
+id: berliner-philharmoniker-1983
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: David Bell
+  role: organ
+- name: Herbert von Karajan
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1983]
+  place: Berliner Philharmonie
+released: 1984
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6d5aa587-71a6-4aed-9759-e7a468620315
+  title: 'Albinoni: Adagio / Pachelbel: Canon'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [e9abdb84-d10f-4d2a-ad11-ca82f0d5bd4c]

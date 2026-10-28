@@ -1,0 +1,28 @@
+id: academy-of-st-martin-in-the-fields-1973
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Sir Neville Marriner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973]
+  place: 'Abbey Road Studios: Studio 1'
+released: 1986
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/38fab183-41fb-4d8a-b433-263c5bb824e5
+  title: Eine kleine Nachtmusik
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [dccae056-b0a1-4797-aef4-5b9c53ab412a]

@@ -1,0 +1,31 @@
+id: i-fiamminghi-undated
+performers:
+- name: I Fiamminghi
+  role: orchestra
+- name: Rudolf Werthen
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c3d22e18-d81f-4047-91a0-c1c0ec05f583
+  title: Meisterwerke der Klassik Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fe72688c-e5a7-40c9-bfad-e73d7ee106f4
+  recordings: [e7ee276b-ce27-43ed-9ae8-993161d3d5a3]

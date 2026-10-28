@@ -1,0 +1,31 @@
+id: orchestre-de-chambre-jean-francois-paillard-1968
+performers:
+- name: Orchestre de chambre Jean‐François Paillard
+  role: orchestra
+- name: Maurice André
+  role: trumpet
+- name: Jean‐François Paillard
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1968]
+  place: null
+released: 1975
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/910016a9-5a42-4cc1-a050-293f95e6f577
+  title: Le grand trompettiste de notre temps
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 736d2231-9b64-4f71-b3aa-f5936eb55938
+  recordings: [91991eb3-6f62-47e4-a690-e3f133c7297b]

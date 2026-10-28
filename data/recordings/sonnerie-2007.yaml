@@ -1,0 +1,32 @@
+id: sonnerie-2007
+performers:
+- name: Sonnerie
+  role: orchestra
+- name: Monica Huggett
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: St. Silas the Martyr
+released: 2009
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [I. Ouverture, II. Courante, III. Gavotte I & II, IV. Forlane, V. Menuet
+      I & II, VII. Passepied I & II]}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: false, movements: [II. Air, III. Gavotte I & II, IV. Bourrée, V. Gigue]}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6db09a36-5925-45bb-822f-9089c0d8a114
+  title: Orchestral Suites for a Young Prince
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 11554576-309b-45a5-b055-22d68fb4de65
+  recordings: [e7be6a69-1ea5-4426-93a2-022f6d038628]

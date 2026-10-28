@@ -1,0 +1,31 @@
+id: il-giardino-armonico-undated
+performers:
+- name: Il giardino armonico
+  role: ensemble
+- name: Giovanni Antonini
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fb2b048f-7e0f-45a6-baa7-b4db621915ba
+  title: Musica Barocca
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 96bcdacc-59bc-41b5-ac66-18e5b55f1689
+  recordings: [900cb2a6-2fa6-43dd-b326-b13074db38f7]

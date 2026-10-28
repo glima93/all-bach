@@ -1,0 +1,28 @@
+id: salzburg-consort-undated
+performers:
+- name: Salzburg Consort
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1697f0f9-7658-48dd-8411-a03ae4ce1e33
+  title: Quiet Nights
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c9a10d9f-5a40-45eb-985f-ce3e18e6d94b
+  recordings: [cd001406-d39a-49c4-8091-abe1e747571f]

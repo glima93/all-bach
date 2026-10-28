@@ -1,0 +1,30 @@
+id: i-musici-undated-2
+performers:
+- name: I Musici
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2a4de458-80ee-49b1-b23c-99557a912261
+  title: Pearls of the Baroque
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0febca2d-aeed-48fc-9d44-180f6346e4ab
+  recordings: [3a3ec34e-a1b2-4e8a-af26-fea2d11394da]

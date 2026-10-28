@@ -1,0 +1,31 @@
+id: kpm-baroque-orchestra-undated
+performers:
+- name: Kpm Baroque Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [VII. Passepied I & II]}
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+- {bwv: '1069', complete: false, movements: [V. Réjouissance]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7561a72b-956c-4c13-842d-54f3bb9898af
+  title: Essential Classic Barocco
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32bfd121-4d3e-4658-a0b8-387303e7ecc1
+  recordings: [c6b69528-0a54-472d-8861-c0e4345eddc3]

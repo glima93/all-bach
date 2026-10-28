@@ -1,0 +1,28 @@
+id: staatskapelle-dresden-2006
+performers:
+- name: Staatskapelle Dresden
+  role: orchestra
+- name: Peter Schreier
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2006]
+  place: Frauenkirche Dresden
+released: 2007
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6a458885-5dca-48cf-b377-6fc252050f65
+  title: Festliches Adventskonzert aus der Dresdner Frauenkirche
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 62250633-e888-49bb-ab9f-d6f14ef21012
+  recordings: [deb071ff-e894-4633-a5ef-3ce336b87849]

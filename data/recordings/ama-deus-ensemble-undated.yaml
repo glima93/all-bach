@@ -1,0 +1,28 @@
+id: ama-deus-ensemble-undated
+performers:
+- name: Ama Deus Ensemble
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/228e3307-9db8-4873-8a45-55e5e838d9a6
+  title: The 99 Most Essential Baroque Masterpieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ce2a99ec-da14-4213-a8eb-4931f48f6ba7
+  recordings: [09f6552f-833b-420a-a5b5-16a6b6b001dc]
