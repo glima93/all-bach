@@ -50,11 +50,11 @@ For each collected collection, on a branch `run-<N>` from `main` with `collect/<
    - Add the snapshot row to `data/sources/README.md`: works, date, parent work id, movements, MusicBrainz
      recordings, performances.
    - Update the coverage sentence in `README.md`.
-   - Set the collection's status to `imported`.
+   - Set the collection's status to `imported`: `python scripts/plan_status.py <id> imported`.
 
 ## 2. Queue the next run
 
-1. Set the next run's collections to `queued` in `collections.yaml`. Give each its MusicBrainz parent work id
+1. Set the next run's collections to `queued`: `python scripts/plan_status.py <id> queued`. Give each its MusicBrainz parent work id
    (`mb_parent`) if one exists; the collector otherwise searches by BWV number.
 2. **Commit, open the pull request, and merge it if it is clean.**
    - Author `Gonçalo <glima93@gmail.com>`. End the message with the attribution lines the session gives.

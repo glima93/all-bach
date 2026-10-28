@@ -69,6 +69,10 @@ INSTRUMENTS = {
     "organ": "organ", "pipe organ": "organ", "clavichord": "clavichord", "fortepiano": "fortepiano",
     "harpsichord / cembalo": "harpsichord", "cembalo": "harpsichord",
     "lautenwerck": "harpsichord", "lute-harpsichord": "harpsichord",
+    "flute": "flute", "transverse flute": "flute", "concert flute": "flute",
+    "baroque flute": "traverso", "traverso": "traverso", "flauto traverso": "traverso",
+    "transverse flute (baroque)": "traverso", "recorder": "recorder", "alto recorder": "recorder",
+    "treble recorder": "recorder", "oboe": "oboe", "baroque oboe": "oboe",
 }
 IMPLIED = {"1048": {1: [0, 2]}}
 CELLO_FAMILY = ["cello", "baroque-cello", "violoncello-piccolo", "violoncello-da-spalla"]
@@ -76,6 +80,10 @@ HISTORICAL = {"baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "
               "harpsichord", "clavichord", "fortepiano"}
 MODERN = {"piano"}
 KEYBOARD = ["harpsichord", "piano", "clavichord", "organ", "fortepiano"]
+# Chamber mode: instruments that usually play the continuo, so a credit for one of them alone does not say
+# what the solo part was played on.
+CONTINUO = {"harpsichord", "piano", "organ", "fortepiano", "lute", "cello", "baroque-cello", "viola-da-gamba"}
+HISTORICAL_LEAD = {"baroque-violin", "baroque-cello", "viola-da-gamba", "traverso", "recorder"}
 
 # Orchestral and other ensemble works (snapshot native ["ensemble"]): the group plays; what needs
 # working out is whether the group plays period instruments, and whether it is an arrangement.
@@ -273,13 +281,65 @@ def help_items(rec: dict, same_performer: int) -> list[str]:
 TYPE_ROLE = {"Orchestra": "orchestra", "Choir": "choir", "Group": "ensemble"}
 
 
-def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: set[str], same_performer: int) -> dict:
-    ensemble_work = "ensemble" in native
+def is_group(perf: dict) -> bool:
+    roles = {v.lower() for v in perf["roles"].values()}
+    ins = {i.lower() for i in perf["ins"]}
+    return bool(any(t in GROUP_TYPES for t in perf["types"]) or roles & {"conductor", "orchestra"}
+                or len(perf["names"]) >= 3 or len(ins) >= 3)
+
+
+def period_group(perf: dict) -> bool:
+    return (any(PERIOD_INSTRUMENT.search(i.lower()) for i in perf["ins"])
+            or bool(PERIOD_ENSEMBLE.search(" ".join(perf["names"])))) and not MODERN_ENSEMBLE.search(perf["names"][0])
+
+
+def arranged_credits(perf: dict) -> list[str]:
+    return [i for i in perf["ins"] if ARRANGED.search(i)]
+
+
+def vocal_of(perf: dict) -> tuple[str, str, bool, list[str]]:
+    """Vocal works: choir, orchestra and soloists are all native; only jazz, pop and the like are arrangements."""
+    arranged = arranged_credits(perf)
+    if arranged or ARRANGED_NAMES.search(" ".join(perf["names"])):
+        return "voices-and-instruments", "unknown", True, arranged
+    return "voices-and-instruments", "historical" if period_group(perf) else "unknown", False, []
+
+
+def chamber_of(perf: dict, lead: list[str]) -> tuple[str, str, bool, list[str]]:
+    """Chamber works: `lead` is the solo part's instrument family, the written instrument first.
+
+    Another orchestral instrument on the solo part (cello for gamba, recorder for flute) is filed as that
+    instrument, not as an arrangement; keyboard and other continuo credits alone don't name the solo part.
+    """
+    arranged = arranged_credits(perf)
+    if arranged or ARRANGED_NAMES.search(" ".join(perf["names"])):
+        return ("ensemble" if is_group(perf) else INSTRUMENTS.get(arranged[0].lower(), "other") if arranged else "unknown",
+                "unknown", True, arranged)
+    mapped = [INSTRUMENTS.get(i.lower(), "other") for i in perf["ins"]]
+    if lead == ["ensemble"]:
+        main = "ensemble"
+    else:
+        main = next((m for m in mapped if m in lead), None) \
+            or next((m for m in mapped if m not in CONTINUO and m != "other"), None) \
+            or (lead[0] if perf["ins"] or len(perf["names"]) > 1 else "unknown")
+    practice = ("historical" if main in HISTORICAL_LEAD or period_group(perf)
+                else "modern" if "piano" in mapped else "unknown")
+    return main, practice, False, []
+
+
+def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: set[str], same_performer: int,
+              mode: str = "classic", lead: list[str] | None = None) -> dict:
+    ensemble_work = mode in ("ensemble", "vocal", "chamber") or (mode == "open" and is_group(perf))
     if ensemble_work:
-        instrument, practice, arranged, mention = ensemble_of(perf)
+        instrument, practice, arranged, mention = (
+            vocal_of(perf) if mode == "vocal" else chamber_of(perf, lead or []) if mode == "chamber" else ensemble_of(perf))
         others, roles = [], {k: v.lower() for k, v in perf["roles"].items()}
     else:
         instrument, others, roles = instrument_of(perf, native)
+        if mode == "organ" and instrument == "unknown" and len(perf["names"]) == 1:
+            instrument = "organ"  # a lone performer of an organ work, with no instrument credit
+        if mode == "open":
+            others = [i for i in others if ARRANGED.search(i)]
     solo = len(perf["names"]) == 1
     performers = []
     types = perf.get("types") or []
@@ -310,6 +370,13 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         rec["performance_practice"] = practice
         rec["arrangement"] = arranged
         others = mention
+    elif mode == "open":
+        rec["arrangement"] = instrument == "other" and bool(arranged_credits(perf)) \
+            or bool(ARRANGED_NAMES.search(" ".join(perf["names"])))
+    elif mode == "lute" and instrument == "guitar":
+        rec["performance_practice"] = "modern"  # decided 28 Oct 2026: guitar is native for the lute works
+    elif mode == "lute" and instrument == "lute":
+        rec["performance_practice"] = "historical"
     if rec["arrangement"]:
         rec["arranger"] = None
         if instrument == "other" and perf["ins"]:
@@ -361,6 +428,9 @@ def main(snapshot: str) -> int:
     if isinstance(data, list):
         data = {"works": CELLO_SUITES, "native": CELLO_FAMILY, "rows": data}
     bwvs, native, rows = data["works"], set(data["native"]), data["rows"]
+    # Importer mode (docs/catalogue-plan.md): older snapshots have none; "ensemble" was then the native list.
+    mode = data.get("mode") or ("ensemble" if "ensemble" in native else "classic")
+    lead = data["native"] if mode == "chamber" else None
     moves = movement_names()
     missing = [b for b in bwvs if b not in moves]
     if missing:
@@ -377,7 +447,7 @@ def main(snapshot: str) -> int:
     results = []
     for perf in perfs:
         main_name = norm(perf["names"][0])
-        new = from_perf(perf, bwvs, moves, native, per_performer[main_name])
+        new = from_perf(perf, bwvs, moves, native, per_performer[main_name], mode, lead)
         target = next((by_mbid[m] for m in perf["recIds"] if m in by_mbid), None)
         if target is None:
             for path, r in existing.items():

@@ -142,6 +142,8 @@ nav.top a[aria-current="page"] { color: var(--ink); text-decoration: underline; 
 .shelf-scroll:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
 .shelf-inner { min-width: max-content; }
 .plank { height: 16px; margin: 0 0 18px; background: linear-gradient(var(--plank), var(--plank-dark)); border-radius: 2px; box-shadow: 0 14px 18px -12px rgba(60, 40, 20, 0.45); }
+.chapter + .chapter { margin-top: 34px; }
+.chapter-h { font-family: var(--f-display); font-weight: 400; font-size: 1.25rem; margin: 0 0 4px; color: var(--muted); }
 .shelf-note { margin: 28px 0 0; color: var(--muted); font-size: 0.95rem; max-width: 62ch; }
 @media (max-width: 640px) {
   /* on a narrow screen the volumes stay upright, a little smaller, and the shelf scrolls sideways */
@@ -268,7 +270,8 @@ const INSTRUMENT = {
   "cello": "Cello", "baroque-cello": "Baroque cello", "violoncello-piccolo": "Violoncello piccolo",
   "violoncello-da-spalla": "Violoncello da spalla", "viola": "Viola", "viola-da-gamba": "Viola da gamba",
   "violin": "Violin", "baroque-violin": "Baroque violin", "guitar": "Guitar", "lute": "Lute", "harpsichord": "Harpsichord", "piano": "Piano",
-  "organ": "Organ", "clavichord": "Clavichord", "fortepiano": "Fortepiano", "ensemble": "Ensemble", "voices-and-instruments": "Voices and instruments", "other": "Other"
+  "organ": "Organ", "clavichord": "Clavichord", "fortepiano": "Fortepiano", "flute": "Flute", "traverso": "Traverso",
+  "recorder": "Recorder", "oboe": "Oboe", "ensemble": "Ensemble", "voices-and-instruments": "Voices and instruments", "other": "Other"
 };
 const PRACTICE = { historical: "Period instruments", modern: "Modern instruments", unknown: "Practice not yet recorded" };
 const PLATFORM = { "spotify": "Spotify", "apple-music": "Apple Music", "youtube": "YouTube", "youtube-music": "YouTube Music",
@@ -280,8 +283,23 @@ const slug = bwv => bwv.toLowerCase().replace(/anh\.\s?/, "anh-").replace(/\s+/g
 const app = document.getElementById("app");
 const state = { kind: "all", sort: "year", q: "", gq: "", glimit: 50 };
 
+// Recordings live in site/data/<volume>.json, fetched when a work page first needs them; search uses
+// site/data/search.json, fetched on the first query. The page itself only carries works and counts.
+const RECS = new Map(), LOADED = new Set(), PENDING = {};
+let SEARCH = null, SEARCH_PENDING = null;
+const getJSON = url => fetch(url).then(r => { if (!r.ok) throw new Error(url + ": " + r.status); return r.json(); });
+function loadCol(slug) {
+  if (LOADED.has(slug)) return Promise.resolve();
+  return PENDING[slug] ||= getJSON(`data/${slug}.json`).then(list => {
+    for (const r of list) RECS.set(r.id, r);
+    LOADED.add(slug);
+  }).finally(() => { delete PENDING[slug]; });
+}
+function loadSearch() {
+  return SEARCH_PENDING ||= getJSON("data/search.json").then(list => { SEARCH = list; });
+}
 function recordingsFor(bwv) {
-  return DATA.recordings.filter(r => r.works.some(w => w.bwv === bwv));
+  return [...RECS.values()].filter(r => r.works.some(w => w.bwv === bwv));
 }
 function firstYear(r) { return (r.recorded && r.recorded.years && r.recorded.years.length) ? Math.min(...r.recorded.years) : (r.released || null); }
 function yearLabel(r) {
@@ -296,27 +314,14 @@ const CLOTH = ["#2b4767", "#2e5143", "#6d2b2b", "#77612f", "#4b3651", "#3a4a58",
 const SPINE_H = [380, 356, 392, 344, 372, 362, 388, 350];
 const FLAT = [["100%", "0%"], ["94%", "4%"], ["97%", "1%"], ["91%", "6%"], ["96%", "2%"]];
 let COLLECTIONS = null;
-const colSlug = name => fold(name).replace(/^the /, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+// One volume per collection, in BWV order: {name, slug, chapter, n recordings, since, works, …}.
 function collections() {
   if (COLLECTIONS) return COLLECTIONS;
-  const groups = [];
-  for (const w of DATA.works) {
-    let g = groups.find(g => g.name === w.collection);
-    if (!g) groups.push(g = { name: w.collection, works: [] });
-    g.works.push(w);
-  }
-  groups.forEach((g, i) => {
-    g.slug = colSlug(g.name);
-    g.cloth = CLOTH[i % CLOTH.length];
-    g.i = i;
-    const bwvs = new Set(g.works.map(w => w.bwv));
-    g.recs = DATA.recordings.filter(r => r.works.some(w => bwvs.has(w.bwv)));
-    const ys = g.recs.map(firstYear).filter(y => y);
-    g.since = ys.length ? Math.min(...ys) : null;
-    g.first = g.works[0].bwv; g.last = g.works[g.works.length - 1].bwv;
-    g.grid = g.works.length > 12;
-  });
-  return (COLLECTIONS = groups);
+  return (COLLECTIONS = DATA.cols.map((c, i) => {
+    const works = DATA.works.filter(w => w.collection === c.name);
+    return { ...c, works, i, cloth: CLOTH[i % CLOTH.length], first: works[0].bwv, last: works[works.length - 1].bwv,
+             grid: works.length > 12 };
+  }));
 }
 const collectionOf = w => collections().find(g => g.name === w.collection);
 const num = n => n.toLocaleString("en-GB");
@@ -325,10 +330,10 @@ function renderSpine(g) {
   const [mw, mo] = FLAT[g.i % FLAT.length];
   const lab = g.works.length > 1 ? `${esc(g.first)}<i>–</i>${esc(g.last)}` : esc(g.first);
   return `<li><a class="spine" href="#col-${g.slug}" style="--cloth:${g.cloth};--w:${Math.min(76 + g.works.length * 2, 128)}px;--h:${SPINE_H[g.i % SPINE_H.length]}px;--mw:${mw};--mo:${mo};--vt:vol-${g.slug}"
-      aria-label="${esc(g.name)}, BWV ${esc(g.first)}${g.works.length > 1 ? " to " + esc(g.last) : ""}, ${g.recs.length} recordings">
+      aria-label="${esc(g.name)}, BWV ${esc(g.first)}${g.works.length > 1 ? " to " + esc(g.last) : ""}, ${g.n} recordings">
     <span class="lab" aria-hidden="true">${lab}</span>
     <span class="ti" aria-hidden="true">${esc(g.name.replace(/^The /, ""))}</span>
-    <span class="ft" aria-hidden="true">${num(g.recs.length)}<span>rec.</span></span>
+    <span class="ft" aria-hidden="true">${num(g.n)}<span>rec.</span></span>
   </a></li>`;
 }
 
@@ -337,7 +342,7 @@ function renderCatalogue() {
   return `
   <section class="lede">
     <h1>Every recording of Bach, filed by BWV number</h1>
-    <p>An open catalogue anyone can add to. Each work in the Bach-Werke-Verzeichnis gets a page of its recordings: who played, on what instrument, when, and where to listen. So far it holds ${num(DATA.recordings.length)} recordings of ${DATA.works.length} works.</p>
+    <p>An open catalogue anyone can add to. Each work in the Bach-Werke-Verzeichnis gets a page of its recordings: who played, on what instrument, when, and where to listen. So far it holds ${num(DATA.total)} recordings of ${DATA.works.length} works.</p>
   </section>
   <section class="finder" role="search">
     <label for="gq">Search every recording</label>
@@ -358,18 +363,22 @@ function renderCatalogue() {
   <section id="catalogue-index" aria-labelledby="shelf-h">
     <div class="shelf-head">
       <h2 id="shelf-h">The shelf</h2>
-      <p>One volume per collection. Take one down to see the works inside.</p>
+      <p>One volume per collection, one shelf per part of the catalogue. Take one down to see the works inside.</p>
     </div>
-    <div class="shelf-scroll" tabindex="0" aria-label="Shelf of volumes">
-    <div class="shelf-inner">
-    <ul class="shelf">
-      ${groups.map(renderSpine).join("")}
-      <li><a class="spine ghost" href="#contribute" style="--w:76px;--h:340px;--mw:88%;--mo:6%"><span></span><span class="ti">Add the next volume</span><span></span></a></li>
-    </ul>
-    <div class="plank" aria-hidden="true"></div>
-    </div>
-    </div>
-    <p class="shelf-note">The shelf holds the Well-Tempered Clavier, the Goldberg Variations, Bach's music for unaccompanied strings, and the Brandenburg Concertos. The rest of the catalogue, from BWV 1 onwards, arrives as contributors add works and recordings. <a href="#contribute">How to contribute</a></p>
+    ${DATA.chapters.map((ch, ci) => `
+    <div class="chapter">
+      ${DATA.chapters.length > 1 ? `<h3 class="chapter-h">${esc(ch)}</h3>` : ""}
+      <div class="shelf-scroll" tabindex="0" aria-label="${esc(ch)}: shelf of volumes">
+      <div class="shelf-inner">
+      <ul class="shelf">
+        ${groups.filter(g => g.chapter === ch).map(renderSpine).join("")}
+        ${ci === DATA.chapters.length - 1 ? `<li><a class="spine ghost" href="#contribute" style="--w:76px;--h:340px;--mw:88%;--mo:6%"><span></span><span class="ti">Add the next volume</span><span></span></a></li>` : ""}
+      </ul>
+      <div class="plank" aria-hidden="true"></div>
+      </div>
+      </div>
+    </div>`).join("")}
+    <p class="shelf-note">The shelf holds ${groups.length} volume${groups.length === 1 ? "" : "s"} so far. The rest of the catalogue, from BWV 1 to 1128, is being added volume by volume, and anyone can add a recording that is missing. <a href="#contribute">How to contribute</a></p>
   </section>`;
 }
 
@@ -381,19 +390,18 @@ function renderCollection(g) {
   <header class="cover" style="--cloth:${g.cloth};--vt:vol-${g.slug}">
     <div class="range">${span}</div>
     <h1>${esc(g.name)}</h1>
-    <p>${what}, ${num(g.recs.length)} recording${g.recs.length === 1 ? "" : "s"}${g.since ? `, the earliest from ${g.since}` : ""}.</p>
+    <p>${what}, ${num(g.n)} recording${g.n === 1 ? "" : "s"}${g.since ? `, the earliest from ${g.since}` : ""}.</p>
   </header>
   <ul class="works" style="--cloth:${g.cloth}">
     ${g.works.map(w => {
-      const recs = recordingsFor(w.bwv);
-      const ys = recs.map(firstYear).filter(y => y);
+      const [n, since] = DATA.stats[w.bwv] || [0, null];
       const head = g.grid ? (w.key || w.title) : w.title;
       const sub = g.grid ? w.title : (w.key || "");
       return `<li><a class="wcard" href="#bwv-${slug(w.bwv)}">
         <span class="n inked">${esc(w.bwv)}</span>
         <strong>${esc(head)}</strong>
         <span class="sub">${esc(sub)}</span>
-        <span class="cnt"><b>${num(recs.length)}</b> recording${recs.length === 1 ? "" : "s"}${ys.length ? `, since ${Math.min(...ys)}` : ""}</span>
+        <span class="cnt"><b>${num(n)}</b> recording${n === 1 ? "" : "s"}${since ? `, since ${since}` : ""}</span>
       </a></li>`;
     }).join("")}
   </ul>`;
@@ -440,7 +448,7 @@ let searchIndex = null;
 const INSTRUMENT_WORDS = new Set(fold(Object.values(INSTRUMENT).join(" ") + " baroque period").split(/\s+/).filter(w => w.length > 2 && !["and", "other", "voices"].includes(w)));
 function buildIndex() {
   const workKey = Object.fromEntries(DATA.works.map(w => [w.bwv, parseKey(w.key || "")]));
-  return DATA.recordings.map(r => {
+  return SEARCH.map(r => {
     const ys = r.recorded && r.recorded.years && r.recorded.years.length ? r.recorded.years : (r.released ? [r.released] : []);
     const hay = fold([
       ...r.performers.flatMap(p => [p.name, p.role]),
@@ -536,6 +544,11 @@ function updateSearch() {
   const raw = state.gq.trim();
   box.hidden = !raw; index.hidden = !!raw; tryLine.hidden = !!raw;
   if (!raw) { box.innerHTML = ""; return; }
+  if (!SEARCH) {
+    box.innerHTML = `<p class="empty">Loading every recording…</p>`;
+    loadSearch().then(updateSearch, () => { box.innerHTML = `<p class="empty">The search index could not be loaded. Reload the page to try again.</p>`; });
+    return;
+  }
   const q = parseQuery(raw);
   const hits = runSearch(q);
   const shown = hits.slice(0, state.glimit);
@@ -683,7 +696,13 @@ function route() {
     html = g ? renderCollection(g) : `<p class="empty">That volume is not on the shelf. <a href="#">Back to the shelf</a></p>`;
   } else if (h.startsWith("bwv-")) {
     const w = DATA.works.find(x => slug(x.bwv) === h.slice(4));
-    html = w ? renderWork(w) : `<p class="empty">No work with that BWV number yet. <a href="#">Back to the shelf</a></p>`;
+    const g = w && collectionOf(w);
+    if (!w) html = `<p class="empty">No work with that BWV number yet. <a href="#">Back to the shelf</a></p>`;
+    else if (!LOADED.has(g.slug)) {
+      html = `<p class="empty">Opening ${esc(w.title)}…</p>`;
+      loadCol(g.slug).then(() => { if (location.hash === "#" + h) route(); },
+        () => { app.innerHTML = `<div class="view"><p class="empty">The recordings could not be loaded. Reload the page to try again.</p></div>`; });
+    } else html = renderWork(w);
   } else html = renderCatalogue();
   app.innerHTML = `<div class="view">${html}</div>`;
   updateSearch();

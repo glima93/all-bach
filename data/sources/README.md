@@ -10,7 +10,7 @@ Each file here is a snapshot of what [MusicBrainz](https://musicbrainz.org) knew
 | `musicbrainz-wtc.json` | The Well-Tempered Clavier, Books I and II, BWV 846–893 | 28 Oct 2026 | `dce85d48-7ce6-4bd6-b21e-a7c1be6eb1b4` (Book I), `a9fabb1b-4b9e-4bdb-b177-452dbffeaed6` (Book II) | 96 | 8,072 | 321 |
 | `musicbrainz-brandenburg.json` | Brandenburg Concertos, BWV 1046–1051 | 28 Oct 2026 | `7481c7f5-71bd-464e-956a-c670f4117de3` | 19 | 3,860 | 324 |
 
-Snapshots are made with `scripts/musicbrainz-collect.js`, run in a browser tab on musicbrainz.org; its header explains how.
+The first five snapshots were made with `scripts/musicbrainz-collect.js`, run in a browser tab on musicbrainz.org. From run 1 of the [catalogue plan](../../docs/catalogue-plan.md) on, they are made by `scripts/collect_musicbrainz.py`, a port of it, which the GitHub workflow `collect.yml` runs every night for each collection marked `queued` in `data/plan/collections.yaml`. It writes the snapshot and `tree-<id>.json`, the MusicBrainz works and movements it found for each BWV number (input to `scripts/work_stub.py`), to the branch `collect/<id>`.
 
 Import or re-import one with:
 
@@ -22,12 +22,14 @@ Files already linked to MusicBrainz are updated without overwriting anything a c
 
 ## How a snapshot is made
 
-1. Start from the MusicBrainz parent work and take its works and their movements, in MusicBrainz's order. That order must match the movement lists in `data/works/`, or the importer stops.
+1. Start from the MusicBrainz parent work and take its works and their movements, in MusicBrainz's order. That order must match the movement lists in `data/works/`, or the importer stops. Collections without a parent work (`mb_parent` in the plan) are found work by work: a search for "BWV <n>" among Bach's works, dropping movements, arrangements and transcriptions, keeping the candidate with the most movements. Every candidate is listed in the tree file for review. Movements that have movements of their own (a mass's Gloria) are followed down to the last level.
 2. For each movement, list every recording linked to it, with its artist credit and recording date (`work/<id>?inc=recording-rels` and `recording?work=<id>&inc=artist-credits`).
 3. Group recordings into performances: same performers (Bach excluded) and same recording year. Groups from nearby years (up to three apart) whose movements don't overlap are joined, because a set is often recorded over several sessions (Casals, 1936–39; Milstein, 1954–56). Undated recordings join a dated performance only when exactly one dated performance by that performer contains all of their movements.
 4. For one representative recording per performance, look up instrument credits, the recording venue and the releases it appears on (`recording/<id>?inc=artist-rels+place-rels+releases`).
 
 Orchestral works are grouped differently: each concerto of a set is often credited to a different line-up of soloists, so recordings are grouped by the orchestra, ensemble or choir credited (when there is one) and the year, and the performance lists everyone credited on any of its recordings.
+
+The Python collector also counts recordings linked to a whole multi-movement work rather than to its movements (a prelude and fugue on one track) as complete performances of it. The browser collector did not, so the first five snapshots leave those out.
 
 Only recordings linked to the original movements are included. MusicBrainz files most transcriptions (the Chaconne for piano by Busoni or for guitar, the suites on viola or marimba …) under separate arrangement works, so those are not in these snapshots yet.
 

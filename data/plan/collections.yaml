@@ -10,6 +10,8 @@
 #   chapter   BWV chapter, used to group volumes on the shelf
 #   bwv       numbers and ranges ("1066-1071")
 #   mode      how the importer reads performers (see docs/catalogue-plan.md, "Importer modes")
+#   native    chamber mode only: the solo part's instruments, the written one first
+#   mb_parent MusicBrainz parent work, when there is one; otherwise works are found by BWV number
 #   wave      1 = instrumental, existing pipeline; 2 = needs the vocal mode; 3 = long tail
 #   run       the scheduled run that collects it (runs go in order; small collections share a run)
 #   status    done | todo | queued (for the GitHub collector) | collected | imported
@@ -41,13 +43,13 @@ collections:
    note: "No scoring: harpsichord, organ, piano, string quartet, viol consort and orchestra are all native. Movement order differs between editions"}
 - {id: musical-offering, title: "The Musical Offering", chapter: Late contrapuntal works, bwv: ["1079"], mode: open, wave: 1, run: 9, status: todo,
    note: "Ricercars on keyboard, canons and trio sonata for mixed forces; movement order varies by edition"}
-- {id: violin-keyboard-sonatas, title: "Sonatas for violin and harpsichord", chapter: Chamber, bwv: ["1014-1026"], mode: chamber, wave: 1, run: 10, status: todo,
+- {id: violin-keyboard-sonatas, title: "Sonatas for violin and harpsichord", chapter: Chamber, bwv: ["1014-1026"], mode: chamber, native: [violin, baroque-violin, viola], wave: 1, run: 10, status: todo,
    note: "1014–1019 the six sonatas; 1020–1026 other violin works (several doubtful)"}
-- {id: gamba-sonatas, title: "Sonatas for viola da gamba and harpsichord", chapter: Chamber, bwv: ["1027-1029"], mode: chamber, wave: 1, run: 11, status: todo,
+- {id: gamba-sonatas, title: "Sonatas for viola da gamba and harpsichord", chapter: Chamber, bwv: ["1027-1029"], mode: chamber, native: [viola-da-gamba, cello, baroque-cello, viola], wave: 1, run: 11, status: todo,
    note: "Cello and viola versions are common: file the instrument, modern practice, not an arrangement"}
-- {id: flute-works, title: "Flute Sonatas and Partita", chapter: Chamber, bwv: ["1013", "1030-1035"], mode: chamber, wave: 1, run: 11, status: todo,
+- {id: flute-works, title: "Flute Sonatas and Partita", chapter: Chamber, bwv: ["1013", "1030-1035"], mode: chamber, native: [flute, traverso, recorder], wave: 1, run: 11, status: todo,
    note: "1013 is the solo partita (mode solo for that work); 1031 and 1033 doubtful"}
-- {id: chamber-trio-sonatas, title: "Trio Sonatas", chapter: Chamber, bwv: ["1036-1040"], mode: chamber, wave: 1, run: 12, status: todo,
+- {id: chamber-trio-sonatas, title: "Trio Sonatas", chapter: Chamber, bwv: ["1036-1040"], mode: chamber, native: [ensemble], wave: 1, run: 12, status: todo,
    note: "1038 and 1039 (= gamba sonata 1027); 1036 and 1037 are spurious"}
 - {id: lute-works, title: "Works for lute", chapter: Lute, bwv: ["995-1000"], mode: lute, wave: 1, run: 12, status: todo,
    note: "Most recordings are on guitar; lute-harpsichord too. Guitar is filed as the instrument (practice modern), not as an arrangement: decided 28 Oct 2026"}

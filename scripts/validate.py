@@ -85,6 +85,8 @@ def main() -> int:
             errors.append(f"{name}: file should be named {bwv_to_filename(bwv)}.yaml for BWV {bwv}")
         if bwv in by_bwv:
             errors.append(f"{name}: BWV {bwv} is defined twice")
+        if "TODO" in str(w.get("scoring")) or "TODO" in str(w.get("title")):
+            errors.append(f"{name}: work stub not filled in yet (title and scoring are still TODO)")
         by_bwv[bwv] = w
 
     for path, w in works:

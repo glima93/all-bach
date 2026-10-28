@@ -52,7 +52,10 @@ with the most recorded works first. Wave 2 (runs 22–30) is vocal music and nee
 (runs 31–36) is the long tail: chorale preludes, chorales, songs and canons. Numbering is BWV2a (1998),
 which is what MusicBrainz and record labels use; BWV3 (2022) decimal numbers can be added later as aliases.
 
-## 2. Phase 0: what has to change before the schedule starts
+## 2. Phase 0: what had to change before the schedule starts
+
+Done on 28 Oct 2026, except item 6, which waits for run 1 to pass end to end. The Python collector re-collected the
+Brandenburg Concertos on GitHub row for row identical to the browser snapshot (324 performances, about 20 minutes).
 
 This is one session, not unattended. Nothing in it needs Gonçalo's computer.
 
