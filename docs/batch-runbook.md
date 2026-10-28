@@ -56,19 +56,27 @@ For each collected collection, on a branch `run-<N>` from `main` with `collect/<
 
 1. Set the next run's collections to `queued` in `collections.yaml`. Give each its MusicBrainz parent work id
    (`mb_parent`) if one exists; the collector otherwise searches by BWV number.
-2. **Commit and pull request.**
+2. **Commit, open the pull request, and merge it if it is clean.**
    - Author `Gonçalo <glima93@gmail.com>`. End the message with the attribution lines the session gives.
    - Push `run-<N>` and open a pull request titled "Run N: <collections>".
-   - Make it a draft if more than 5% of rows were disputed.
-   - The workflow reads the queue from `main`, so the next collection starts once this pull request is
-     merged. A run that only queues (nothing collected yet) pushes the change straight to a small pull
-     request of its own.
+   - **Doubtful runs stay open as drafts for Gonçalo.** A run is doubtful if any of these holds:
+     - more than 5% of rows were disputed by the review or the checker;
+     - the checker reported something the lead could not resolve;
+     - a stop rule was hit;
+     - a test or check failed.
+     For a doubtful run, write the reasons in the pull request description and do not merge.
+   - **Otherwise merge it yourself** (Gonçalo's standing decision, 28 Oct 2026):
+     - Wait for the pull request's checks to pass, then `gh pr merge --merge`.
+     - If `gh` is refused, merge `run-<N>` into an up-to-date `main` locally, re-run `validate.py` and
+       `build.py`, and push `main`. Never force-push.
+   - The workflow reads the queue from `main`, so a merged run queues the next collection for that night. A
+     doubtful run holds the queue until Gonçalo merges it. That is intended.
 3. **Report.** One message: what was imported (counts and notable sets), what is queued now, and any
    decision that needs Gonçalo.
 
 ## Stop rules
 
-- **Unattended decisions:** never merge to `main`, never delete tracked files, and never force-push.
+- **Unattended decisions:** merge to `main` only as described in section 2, step 2. Never delete tracked files and never force-push.
 - **Contradictions:** if the MusicBrainz movement order disagrees with an existing work file, or a snapshot
   fails to parse, stop at a draft pull request with the problem described.
 - **Usage:** if the run is cut short, the next run picks up from the statuses and branches. Every step above

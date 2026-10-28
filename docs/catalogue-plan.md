@@ -80,7 +80,7 @@ This is one session, not unattended. Nothing in it needs Gonçalo's computer.
      as arrangements.
    - `organ` (new): native organ. Piano or orchestra versions are arrangements, but most of those are
      separate MusicBrainz works and drop out anyway.
-   - `lute` (new): see decision 3.
+   - `lute` (new): lute, lute-harpsichord and guitar are all native; guitar is filed as itself with practice "modern" (decision 3).
    - `open` (new): Art of Fugue, Musical Offering and canons have no fixed scoring. Every classical
      instrument and combination is native; only jazz, electronic and the like count as arrangements.
    - `vocal` (new): a choir is native, not an arrangement. Performers are grouped by choir and orchestra.
@@ -130,16 +130,17 @@ Nothing runs on Gonçalo's computer, so the timings only need to keep runs away 
 - **A run with nothing collected** (for example the workflow failed, or MusicBrainz was down) reports it and
   stops, costing almost nothing. The next morning picks up the same run.
 
-## 5. Decisions to settle before Phase 0 ends
+## 5. Decisions
 
-1. **Merging.** Unattended runs open a pull request and Gonçalo merges, which is the default. The
-   collector reads its queue from `main`, so an unmerged pull request also holds back the next collection:
-   the pace is one merge a day. The alternative is that runs merge to `main` themselves when every check
-   passes, and leave only draft pull requests (disputed data) for Gonçalo.
-2. **Doubtful and spurious works.** The default keeps them, marked doubtful on their page (BWV 1036,
+1. **Merging (decided 28 Oct 2026).** A run merges its own pull request into `main` when every check passes
+   and the review found nothing doubtful. Doubtful runs (more than 5% of rows disputed, an unresolved
+   checker finding, a failed check or a stop rule) stay open as drafts for Gonçalo, with the reasons in
+   the description. A doubtful run also holds back the next collection until it is merged.
+2. **Doubtful and spurious works (open).** The default keeps them, marked doubtful on their page (BWV 1036,
    1037, 246, 553–560, 217–224 …).
-3. **Lute works on guitar.** Most recordings of 995–1000 are on guitar. Either file guitar as the instrument
-   with practice "modern" (proposed; it is the work's main life today), or treat it as an arrangement.
+3. **Lute works on guitar (decided 28 Oct 2026).** Guitar is filed as the instrument, with practice
+   "modern", not as an arrangement. The `lute` importer mode must therefore exempt guitar from the
+   `ARRANGED` rule that applies to every other collection.
 4. **Transcriptions under separate MusicBrainz works** (Busoni, Siloti, Stokowski …) stay out, as now. They
    could become their own "arrangements" volume after run 36.
 

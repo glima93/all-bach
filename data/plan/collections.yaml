@@ -50,7 +50,7 @@ collections:
 - {id: chamber-trio-sonatas, title: "Trio Sonatas", chapter: Chamber, bwv: ["1036-1040"], mode: chamber, wave: 1, run: 12, status: todo,
    note: "1038 and 1039 (= gamba sonata 1027); 1036 and 1037 are spurious"}
 - {id: lute-works, title: "Works for lute", chapter: Lute, bwv: ["995-1000"], mode: lute, wave: 1, run: 12, status: todo,
-   note: "Most recordings are on guitar; lute-harpsichord too. Decide how to file guitar before importing (see plan, decision 3)"}
+   note: "Most recordings are on guitar; lute-harpsichord too. Guitar is filed as the instrument (practice modern), not as an arrangement: decided 28 Oct 2026"}
 - {id: toccatas, title: "Toccatas", chapter: Keyboard, bwv: ["910-916"], mode: keyboard, wave: 1, run: 13, status: todo}
 - {id: keyboard-preludes-fugues, title: "Fantasias, Preludes and Fugues for keyboard", chapter: Keyboard, bwv: ["894-909", "917-923", "944-962"], mode: keyboard, wave: 1, run: 13, status: todo,
    note: "Includes the Chromatic Fantasia and Fugue (903)"}
