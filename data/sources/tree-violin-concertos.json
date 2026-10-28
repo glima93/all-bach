@@ -1,0 +1,152 @@
+{
+ "collection": "violin-concertos",
+ "taken": "2026-10-28",
+ "recordings": 2050,
+ "performances": 336,
+ "works": [
+  {
+   "bwv": "1041",
+   "id": "5543ddeb-d430-4d04-9dd3-5217cff3fc89",
+   "candidates": [
+    {
+     "id": "5543ddeb-d430-4d04-9dd3-5217cff3fc89",
+     "title": "Violin Concerto in A minor, BWV 1041"
+    },
+    {
+     "id": "17284d04-3cdf-4f16-960b-baeaf2f678d9",
+     "title": "Concerto in A minor, BWV 1041"
+    },
+    {
+     "id": "bf7d29cd-099e-4199-aa8c-fa3926ffeb65",
+     "title": "Violin Concerto in A minor, BWV 1041"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Violin Concerto in A minor, BWV 1041",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "8d6f551f-bae5-3e36-ad2d-a5617101c6a8",
+     "title": "Violin Concerto in A minor, BWV 1041: I. Allegro"
+    },
+    {
+     "id": "e2f7417e-0c99-3814-94d0-aee06e4c1805",
+     "title": "Violin Concerto in A minor, BWV 1041: II. Andante"
+    },
+    {
+     "id": "7e85b930-e12f-33cd-8878-89cbf7a46dfe",
+     "title": "Violin Concerto in A minor, BWV 1041: III. Allegro assai"
+    }
+   ]
+  },
+  {
+   "bwv": "1042",
+   "id": "7e466a70-2864-4db1-8470-94f0372624eb",
+   "candidates": [
+    {
+     "id": "7e466a70-2864-4db1-8470-94f0372624eb",
+     "title": "Konzert für Violine und Orchester E-Dur, BWV 1042"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Konzert für Violine und Orchester E-Dur, BWV 1042",
+   "key": "E major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "db760d4f-ee78-32a2-b0b9-c9f66d283bcf",
+     "title": "Konzert für Violine und Orchester E-Dur, BWV 1042: I. Allegro"
+    },
+    {
+     "id": "c677eb74-a31b-3377-ba8f-e950f143c3bc",
+     "title": "Konzert für Violine und Orchester E-Dur, BWV 1042: II. Adagio"
+    },
+    {
+     "id": "0388f6fe-6b27-3c09-852b-9bba3bb72544",
+     "title": "Konzert für Violine und Orchester E-Dur, BWV 1042: III. Allegro assai"
+    }
+   ]
+  },
+  {
+   "bwv": "1043",
+   "id": "fe8612d1-8610-3fba-ba56-2ee110b6eedb",
+   "candidates": [
+    {
+     "id": "fe8612d1-8610-3fba-ba56-2ee110b6eedb",
+     "title": "Concerto for 2 Violins in D minor, BWV 1043"
+    },
+    {
+     "id": "9ddab27c-5fa7-42e7-b8fe-2647e06171b3",
+     "title": "Concerto for 2 Violins in D minor, BWV 1043"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto for 2 Violins in D minor, BWV 1043",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "a4910f73-44d5-3931-8b7b-db46e48efd15",
+     "title": "Concerto for 2 Violins in D minor, BWV 1043: I. Vivace"
+    },
+    {
+     "id": "88498de8-9c28-3e93-8b2a-2e66ecff890a",
+     "title": "Concerto for 2 Violins in D minor, BWV 1043: II. Largo ma non tanto"
+    },
+    {
+     "id": "3d2cb5f2-ba7c-3ea4-9427-e7d8ca74c13a",
+     "title": "Concerto for 2 Violins in D minor, BWV 1043: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1044",
+   "id": "e10360f3-bbfd-4483-ba0c-1baa47211d0e",
+   "candidates": [
+    {
+     "id": "e10360f3-bbfd-4483-ba0c-1baa47211d0e",
+     "title": "Concerto for Flute, Violin, Harpsichord, Strings and Continuo in A minor, BWV 1044 \"Triple Concerto\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto for Flute, Violin, Harpsichord, Strings and Continuo in A minor, BWV 1044 \"Triple Concerto\"",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "3051cb44-8f64-360b-864e-82f82f88b451",
+     "title": "Concerto for Flute, Violin, Harpsichord, Strings and Continuo in A minor, BWV 1044 \"Triple Concerto\": I. Allegro"
+    },
+    {
+     "id": "67845e84-9878-39cf-b963-2534d9f1c57f",
+     "title": "Concerto for Flute, Violin, Harpsichord, Strings and Continuo in A minor, BWV 1044 \"Triple Concerto\": II. Adagio, ma non tanto e dolce"
+    },
+    {
+     "id": "6b402efb-b12f-3bfe-8b66-a7d858504405",
+     "title": "Concerto for Flute, Violin, Harpsichord, Strings and Continuo in A minor, BWV 1044 \"Triple Concerto\": III. Alla breve"
+    }
+   ]
+  },
+  {
+   "bwv": "1045",
+   "id": "64dc7ae1-0a11-4610-9fff-46a4b05c72ca",
+   "candidates": [
+    {
+     "id": "64dc7ae1-0a11-4610-9fff-46a4b05c72ca",
+     "title": "Sinfonia in D major, BWV 1045"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia in D major, BWV 1045",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "64dc7ae1-0a11-4610-9fff-46a4b05c72ca",
+     "title": "Sinfonia in D major, BWV 1045"
+    }
+   ]
+  }
+ ]
+}
