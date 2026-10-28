@@ -1,0 +1,28 @@
+id: the-brandenburg-sinfonia-1997
+performers:
+- name: The Brandenburg Sinfonia
+  role: ensemble
+- name: David Guest
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: Dulwich College
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/31561ea0-cd93-441f-9e97-5557fceff338
+  title: Music for a Civil Wedding
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 697fc1bf-5691-45e2-8197-ea09b5e52803
+  recordings: [b5680c71-271d-432c-a84e-ec30e4a746fc]

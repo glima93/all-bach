@@ -1,0 +1,30 @@
+id: city-of-london-sinfonia-undated
+performers:
+- name: City of London Sinfonia
+  role: orchestra
+- name: Andrew Watkinson
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f60d05f2-6e31-48ff-b579-d3b961768b42
+  title: Midsummer Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ee56bc1-d642-4f71-adfb-48e4eea89f12
+  recordings: [298266d6-fe5c-4c43-b241-21a5f87048af]

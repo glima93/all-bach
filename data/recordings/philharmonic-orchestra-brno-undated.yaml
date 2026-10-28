@@ -1,0 +1,30 @@
+id: philharmonic-orchestra-brno-undated
+performers:
+- name: Philharmonic Orchestra Brno
+  role: orchestra
+- name: Jan Stanovsky
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c682ae0-377a-44af-886d-41d5e41cb579
+  title: The Magic Violin
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 00ec1381-1ce3-4e02-8da3-d99faa984df0
+  recordings: [68e4a903-fdc1-480e-ab77-324371f3f146]

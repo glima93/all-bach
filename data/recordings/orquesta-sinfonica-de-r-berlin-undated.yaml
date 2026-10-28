@@ -1,0 +1,30 @@
+id: orquesta-sinfonica-de-r-berlin-undated
+performers:
+- name: Orquesta Sinfónica de R. Berlin
+  role: orchestra
+- name: Albert von Cammus
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [V. Polonaise & Double]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd614fc3-91b6-42be-8316-4986b7da1e26
+  title: Joyas de la Música, Volume 17
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49e9e1ca-8a85-4a76-b02f-5566532705f0
+  recordings: [f227dad5-f9fa-4bc0-9d42-979cecb54f15]

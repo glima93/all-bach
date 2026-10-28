@@ -1,0 +1,27 @@
+id: tafelmusik-1982
+performers:
+- name: Tafelmusik
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1982]
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d884a0c1-02eb-4b57-a349-fa703fbf42f3
+  title: Audio Soundshow
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0ca59def-f1bc-4e74-b17e-45276faa12f0
+  recordings: [235e6827-1f4e-44f5-906b-920e545eebf2]

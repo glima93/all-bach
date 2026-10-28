@@ -1,0 +1,33 @@
+id: berliner-philharmoniker-1964-2
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Herbert von Karajan
+  role: conductor
+- name: Edith Picht‐Axenfeld
+  role: harpsichord
+- name: Karlheinz Zöller
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1964]
+  place: Victoria Konzertsaal
+released: 1988
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a3cdddb-5e40-4a47-a061-eb7df9eabc3d
+  title: The Brandenburg Concertos. Orchestral Suites Nos. 2 & 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [af0dc63c-a112-4883-b05f-b317b141b18c]

@@ -1,0 +1,27 @@
+id: yngwie-malmsteen-2024
+performers:
+- name: Yngwie Malmsteen
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2024]
+  place: Zepp DiverCity (TOKYO)
+released: 2025
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/19dd7cc8-c21d-4622-b3be-fab1a68edf5b
+  title: Tokyo Live
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording. With guitar.
+musicbrainz:
+  artist: 8fa5d80d-37e8-4133-9d5c-6bad446c63f0
+  recordings: [7aa80176-2636-4210-b82d-6b0ee7bfa0ad]

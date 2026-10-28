@@ -1,0 +1,32 @@
+id: english-baroque-soloists-undated
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a3f2bab0-f6bd-44ed-8654-f70ed5b94924
+  title: The Ultimate Baroque Collection
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [39873234-0116-465c-b61c-0e2b03e330c6]

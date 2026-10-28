@@ -1,0 +1,29 @@
+id: artist-1fe4e038-2020
+performers:
+- name: ΜΜΜΔ
+  role: ensemble
+- name: Alem
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2020]
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/78cb4187-435a-43a9-a21f-4f30ac69c1ec
+  title: L’âge de l’absolutisme
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1fe4e038-d219-46b0-bb52-286ffd994ee3
+  recordings: [37119b06-c934-4292-b3f3-86bab592675e]

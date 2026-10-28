@@ -1,0 +1,28 @@
+id: peter-blanchette-1998
+performers:
+- name: Peter Blanchette
+  role: 12 string guitar
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1998]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [V. Polonaise & Double]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6dcbc551-324c-4d30-9bce-e29e85117ea7
+  title: Had Miles Met Maurice
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on 12 string guitar, trumpet.
+musicbrainz:
+  artist: f067fc75-cfd1-4355-94c4-e4da00c96bbf
+  recordings: [f03d8b3c-4853-43f9-8460-f515aa53a66b]

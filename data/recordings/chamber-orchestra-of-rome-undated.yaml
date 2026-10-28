@@ -1,0 +1,32 @@
+id: chamber-orchestra-of-rome-undated
+performers:
+- name: Chamber Orchestra of Rome
+  role: orchestra
+- name: Vittoria Fanti
+  role: flute
+- name: Pierre Lamont
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b0debef-9dfd-4418-86cf-2e1d5cfb2d6b
+  title: Bach in the Evening
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e94312e-6444-4005-af1e-a29e70e4bf76
+  recordings: [c7b27ff7-b2b0-4d11-8fb9-fd1cf5cdf7fd]

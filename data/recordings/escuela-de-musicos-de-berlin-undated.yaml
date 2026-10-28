@@ -1,0 +1,30 @@
+id: escuela-de-musicos-de-berlin-undated
+performers:
+- name: Escuela de músicos de Berlín
+  role: orchestra
+- name: Günther von Trifch
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [III. Gavotte I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9fccace0-834e-41e4-8cfa-acc36672479d
+  title: Joyas de la Música, Volume 10
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 70239f6e-80d6-4d0f-94b5-67206959857d
+  recordings: [56acc24c-119e-4a64-9420-ffa2de5b198d]

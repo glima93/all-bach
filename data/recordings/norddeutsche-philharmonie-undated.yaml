@@ -1,0 +1,30 @@
+id: norddeutsche-philharmonie-undated
+performers:
+- name: Norddeutsche Philharmonie
+  role: orchestra
+- name: Wilhelm Brückner-Rüggeberg
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a4fc842-d446-44b2-8a3c-5aad14bb37bb
+  title: Wunderbare Welt der Klassik
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 77fe42c6-d3db-403e-828d-dff6de80d4e5
+  recordings: [69303be0-cc4a-45c9-97e1-cbe60145f10d]

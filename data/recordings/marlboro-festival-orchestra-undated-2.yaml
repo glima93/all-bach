@@ -1,0 +1,33 @@
+id: marlboro-festival-orchestra-undated-2
+performers:
+- name: Marlboro Festival Orchestra
+  role: orchestra
+- name: Pablo Casals
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1969
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4285f2bb-4b61-41c1-a079-13aaf1b6c2ca
+  title: Brandenburg Concertos nos. 1–3 / Orchestral Suite no. 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc73b0bb-1e45-457f-8f81-a518beb9b74c
+  recordings: [381d8800-1c38-4850-88c0-a2be485cadc2]

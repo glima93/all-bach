@@ -1,0 +1,30 @@
+id: nashville-symphony-orchestra-undated
+performers:
+- name: Nashville Symphony Orchestra
+  role: orchestra
+- name: Kenneth Schermerhorn
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3b5ad8bc-85e8-4d92-ad24-8315c548c61e
+  title: Romance at Sunset
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7988e620-8524-4fb8-a0ba-021c416e07e3
+  recordings: [75122ac2-dc1b-4f66-bba6-5eda07ee8d4a]

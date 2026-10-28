@@ -1,0 +1,28 @@
+id: robert-stehli-undated
+performers:
+- name: Robert Stehli
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4032392c-71cf-4112-a890-74ede182fcae
+  title: The Best of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c4fee276-96b6-404d-8b29-b0efd607931d
+  recordings: [0f4186c4-5376-4924-ad1e-4fc8bdb5733f]

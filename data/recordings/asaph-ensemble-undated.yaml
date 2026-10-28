@@ -1,0 +1,30 @@
+id: asaph-ensemble-undated
+performers:
+- name: Asaph Ensemble
+  role: ensemble
+- name: Patrick Kavanaugh
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6e6aee4-2fa8-4b32-861e-d79c6bd63af4
+  title: A Taste for the Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9fa12442-03fe-4b82-b73b-3db5ac8f4ff8
+  recordings: [15e79771-a62c-405b-aee7-3915576909d3]

@@ -1,0 +1,30 @@
+id: rainer-kussmaul-1998
+performers:
+- name: Rainer Kussmaul
+  role: performer
+- name: Michala Petri
+  role: recorder
+- name: Peter Laenger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: Teldec-Studio
+released: 1998
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5de34e26-0f21-42c2-ba91-5bc4caabe1c7
+  title: Bach / Telemann
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b09fe7d-6d7e-4ead-b126-7be073791d82
+  recordings: [854ac7f1-4fee-4c31-a5fa-9b8a38dd90a7]

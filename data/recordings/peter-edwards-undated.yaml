@@ -1,0 +1,38 @@
+id: peter-edwards-undated
+performers:
+- name: Peter Edwards
+  role: violin
+- name: Michael Fortescue
+  role: double bass
+- name: Barbara Jane Gilby
+  role: violin
+- name: Sue-Ellen Paulsen
+  role: cello
+- name: Janet Rutherford
+  role: viola
+- name: Geoffrey Lancaster
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/134648ac-0d71-41a7-bbd2-c6d4dfdbc2d2
+  title: 'The Classic 100: Baroque & Before'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: abf66ad7-0b0b-4d9c-bb6b-521f7b44b0aa
+  recordings: [6933ee8d-19df-438f-8f21-f13a3470cb3a]

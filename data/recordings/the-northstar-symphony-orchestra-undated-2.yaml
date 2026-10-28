@@ -1,0 +1,28 @@
+id: the-northstar-symphony-orchestra-undated-2
+performers:
+- name: The Northstar Symphony Orchestra
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d362b040-043f-476d-a3fb-9c566a0a7e1f
+  title: Classicworks (disc 1)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ec967327-bee0-44e9-96b4-747cecfdb25d
+  recordings: [afda851c-6b47-4434-97a6-194dc871741c]

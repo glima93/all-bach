@@ -1,0 +1,31 @@
+id: english-chamber-orchestra-1968-2
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Richard Adeney
+  role: flute
+- name: Raymond Leppard
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1968]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef1abd77-ef51-4aab-a807-58b4a79dcf81
+  title: Orchestral Suite no. 2 / The Violin Concertos / Triple Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [5f4c093f-59ac-4a4d-96df-8e9ad6ac5434]

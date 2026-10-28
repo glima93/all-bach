@@ -1,0 +1,29 @@
+id: halle-orchestra-1984
+performers:
+- name: Hallé Orchestra
+  role: orchestra
+- name: Owain Arwel Hughes
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f93bb18-1ed1-492d-ba6b-0aa868ee0b3f
+  title: 'Unforgettable Classics: Peace'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e2e9da6e-de76-4a92-a9c7-347158d885df
+  recordings: [db3eeab2-cd25-4b8e-bc6f-3a7a251b1d8d]

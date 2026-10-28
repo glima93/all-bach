@@ -1,0 +1,28 @@
+id: berliner-philharmoniker-1948
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Wilhelm Furtwängler
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1948]
+  place: Gemeindehaus, Berlin-Dahlem
+released: 2004
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e729adee-9594-485f-9f62-5ddaf7bc1047
+  title: An Anniversary Tribute
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [ddcd9972-65f3-46a4-b130-05aa6641bca1]

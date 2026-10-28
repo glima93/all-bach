@@ -1,0 +1,30 @@
+id: the-baarova-orchestra-undated
+performers:
+- name: The Baarová Orchestra
+  role: orchestra
+- name: Lenka Baarová
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/af1f68fa-efc9-42b8-ac42-c491e9c1c667
+  title: Flute Concertos, op. 10
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ecc338b-6b04-49b3-81f7-4dea6b02ac7f
+  recordings: [18555776-a7f3-4748-baa5-4aff44ddb7e4]

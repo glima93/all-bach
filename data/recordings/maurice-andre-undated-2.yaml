@@ -1,0 +1,39 @@
+id: maurice-andre-undated-2
+performers:
+- name: Maurice André
+  role: trumpet
+- name: Wolfgang Karius
+  role: organ
+- name: Guy Pedersen
+  role: double bass
+- name: Jean-Marc Pulfer
+  role: organ
+- name: Gus Wallez
+  role: drums (drum set)
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [IV. Bourrée I & II, VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air, III. Gavotte I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c652ed71-63f8-45d8-9750-a2b95b41590a
+  title: Trompettissimo
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With drums (drum set).
+musicbrainz:
+  artist: 24568d6a-34bb-44a0-8379-423709aa8ef0
+  recordings: [5801296d-10d9-42c5-84c0-011741288ff4]

@@ -1,0 +1,29 @@
+id: nobuko-imai-1994
+performers:
+- name: Nobuko Imai
+  role: performer
+- name: Roland Pöntinen
+  role: piano
+instrument: viola
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1994]
+  place: Musica Théâtre
+released: 1996
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9de20dd3-43d7-470a-aa57-821cc481f2ec
+  title: Viola Bouquet
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4063cf21-166f-413a-a371-a9a50c02156c
+  recordings: [c09fb42c-f456-4c68-92c3-60e3c6d3fa8c]

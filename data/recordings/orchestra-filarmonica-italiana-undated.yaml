@@ -1,0 +1,31 @@
+id: orchestra-filarmonica-italiana-undated
+performers:
+- name: Orchestra Filarmonica Italiana
+  role: orchestra
+- name: Alessandro Arigoni
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+- {bwv: '1069', complete: false, movements: [I. Ouverture]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/db2fd68d-71e5-4c94-8ba6-b3b90558b8ff
+  title: Dzieła Wielkich Mistrzów
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3e44e35d-c044-453a-b5ae-905ce6aee61a
+  recordings: [c84b8238-e206-409a-b26b-3dea3af8d29b]

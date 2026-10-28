@@ -1,0 +1,29 @@
+id: norsk-barokkorkester-undated
+performers:
+- name: Norsk Barokkorkester
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [I. Ouverture, II. Rondeau, III. Sarabande, IV. Bourrée I & II, VI.
+      Menuet, VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b6bb040-fc8e-424a-a939-b302295d5b26
+  title: Alto Arias
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f2458365-5aaa-4069-9d45-9aa09745ed8a
+  recordings: [028b15aa-b4f6-4e61-a04c-f575611a201b]

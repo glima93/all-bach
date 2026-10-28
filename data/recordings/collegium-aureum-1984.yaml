@@ -1,0 +1,27 @@
+id: collegium-aureum-1984
+performers:
+- name: Collegium Aureum
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: Evangelische Kirche
+released: 1984
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [V. Polonaise & Double, VI. Menuet, VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0176a613-2c5d-463d-a56d-83495734e906
+  title: 'Stereoplay Highlights CD 4: Collegium Aureum'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2cdc12f9-aae5-4b64-a769-6448f2c1c586
+  recordings: [5ac40917-ada0-40da-9821-8b4ad54028ba]

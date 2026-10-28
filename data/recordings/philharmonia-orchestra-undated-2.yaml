@@ -1,0 +1,33 @@
+id: philharmonia-orchestra-undated-2
+performers:
+- name: Philharmonia Orchestra
+  role: orchestra
+- name: Otto Klemperer
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e2474f98-8278-4764-b84b-bcc1c02f9814
+  title: Bach / Rameau / Handel / Gluck / Haydn
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [4c45cdc9-0b92-40a4-b342-e4bbd75e4504]

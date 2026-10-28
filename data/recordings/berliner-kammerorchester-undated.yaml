@@ -1,0 +1,38 @@
+id: berliner-kammerorchester-undated
+performers:
+- name: Berliner Kammerorchester
+  role: orchestra
+- name: Helmut Koch
+  role: performer
+- name: Peter Wohlert
+  role: conductor
+- name: Eberhard Grünenthal
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: false, movements: [I. Ouverture, II. Rondeau, III. Sarabande, IV. Bourrée I & II, V. Polonaise
+      & Double, VII. Badinerie]}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/14ce8a34-d2b5-4724-85bd-dd5a7ef1c897
+  title: Ouvertüren 1&4
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f416ff60-3894-4275-af38-f8c96e6a278d
+  recordings: [b6f23f36-a832-4f9f-82e0-3292c314cf72]

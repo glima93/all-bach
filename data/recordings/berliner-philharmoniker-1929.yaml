@@ -1,0 +1,29 @@
+id: berliner-philharmoniker-1929
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Wilhelm Furtwängler
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1929]
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d99e0bc-ac32-42b0-9541-9f08d59913bc
+  title: Das Vermächtnis (The Legacy)
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [62c8383d-c953-4ccd-aa42-ba97dc2765e2]

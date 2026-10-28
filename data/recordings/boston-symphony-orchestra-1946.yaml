@@ -1,0 +1,28 @@
+id: boston-symphony-orchestra-1946
+performers:
+- name: Boston Symphony Orchestra
+  role: orchestra
+- name: Serge Koussevitzky
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1946]
+  place: 'Tanglewood: Koussevitsky Music Shed'
+released: 2001
+original_label: null
+works:
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/582bf8e0-801b-4d1f-b227-562ab3bc87d6
+  title: Orchestral Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ed6a493-0300-428d-82da-91c62b4d50aa
+  recordings: [ad5f6a4c-10c0-4743-80c3-0f93f0ccead1]

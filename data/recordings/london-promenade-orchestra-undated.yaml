@@ -1,0 +1,30 @@
+id: london-promenade-orchestra-undated
+performers:
+- name: London Promenade Orchestra
+  role: orchestra
+- name: Eric Hammerstein
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9a4f6bf5-39e9-435b-99dc-f8c26b2adc5c
+  title: 'By Moonlight: World’s Most Beautiful Melodies'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 935df0f7-26ae-41e4-87dd-d9c6c0253f0f
+  recordings: [c8d26c6c-671b-4a1f-987d-0f7b95276913]

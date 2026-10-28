@@ -1,0 +1,29 @@
+id: giovanni-marradi-undated
+performers:
+- name: Giovanni Marradi
+  role: piano
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0279c7ea-6e99-4853-a3e8-0112b1901db0
+  title: Giovanni's Classic Favorites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e862cadb-b5fc-4074-b84d-59874ee03080
+  recordings: [8e17710d-3d8c-41c7-a79f-34d6c13b9b6a]

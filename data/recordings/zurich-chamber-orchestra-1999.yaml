@@ -1,0 +1,33 @@
+id: zurich-chamber-orchestra-1999
+performers:
+- name: Zurich Chamber Orchestra
+  role: orchestra
+- name: Simion Stanciu Syrinx
+  role: performer
+- name: Edmond de Stoutz
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1999]
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [I. Ouverture, II. Rondeau, III. Sarabande, V. Polonaise & Double, VI.
+      Menuet, VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2b5e0d31-fd1b-4f84-a07a-c282530f1e72
+  title: Bach by Syrinx
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8b0f8e51-e556-41cf-962c-9f16ce880405
+  recordings: [c5e344c1-6d14-4ac0-92a1-e96faa1c6a5c]

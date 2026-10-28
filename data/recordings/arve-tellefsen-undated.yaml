@@ -1,0 +1,28 @@
+id: arve-tellefsen-undated
+performers:
+- name: Arve Tellefsen
+  role: violin
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Nidarosdomen
+released: 1998
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3ee3a86d-f9a3-47a2-87b0-ddfd814d8693
+  title: Stille natt
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b3e134a-e635-49e0-a13e-c6dd796dc765
+  recordings: [b0d63525-34f7-4d68-962d-04325fa0d217]

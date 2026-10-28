@@ -1,0 +1,17 @@
+bwv: "1069"
+title: Orchestral Suite No. 4
+key: D major
+collection: Orchestral Suites
+genre: orchestral
+scoring: 3 trumpets, timpani, 3 oboes, bassoon, strings and continuo
+composed: Probably Köthen, without trumpets and timpani; the festive version dates from Leipzig, about 1725
+movements:
+  - "I. Ouverture"
+  - "II. Bourrée I & II"
+  - "III. Gavotte"
+  - "IV. Menuet I & II"
+  - "V. Réjouissance"
+notes: Bach reused the overture, with a choir added, as the opening chorus of the Christmas cantata Unser Mund sei voll Lachens, BWV 110.
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Orchestral_suites_(Bach)
+  bach_digital: null

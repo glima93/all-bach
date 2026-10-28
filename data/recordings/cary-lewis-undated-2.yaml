@@ -1,0 +1,30 @@
+id: cary-lewis-undated-2
+performers:
+- name: Cary Lewis
+  role: piano
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [III. Gavotte I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c45f5986-6629-4a32-ad87-72f8840ef5e1
+  title: Suzuki Violin School, Volume 3, Revised
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 43830581-ff26-40fa-a5fc-9d38f1169d54
+  recordings: [2ea6f0c9-057e-4e6e-a80b-9e39854c905a]

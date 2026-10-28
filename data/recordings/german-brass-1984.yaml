@@ -1,0 +1,27 @@
+id: german-brass-1984
+performers:
+- name: German Brass
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1984]
+  place: Dominikanerbau
+released: 1985
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [I. Ouverture]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/08d2bcb1-8831-434c-adf4-55e736c5be27
+  title: Bach 300
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6e0558a0-c9cc-4dd6-9cfa-f32b24d35f9c
+  recordings: [9e644a18-02b4-47e1-9953-169325f4a0d5]

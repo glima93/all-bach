@@ -1,0 +1,34 @@
+id: american-bach-soloists-undated
+performers:
+- name: American Bach Soloists
+  role: ensemble
+- name: Jeffrey Thomas
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [I. Ouverture, II. Courante, III. Gavotte I & II, IV. Forlane, V. Menuet
+      I & II, VI. Bourrée I & II]}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e5ab226-dfcc-4a40-81de-e3c84a045f8a
+  title: Orchestral Suites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cfc35bbe-7855-4674-a8f9-9d5e2cb31ff9
+  recordings: [39c17df7-9393-429f-8def-d0207b39b8c1]

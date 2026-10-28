@@ -1,0 +1,28 @@
+id: orchestra-of-the-eighteenth-century-2021-2
+performers:
+- name: Orchestra of the Eighteenth Century
+  role: orchestra
+- name: Michael Schmidt-Casdorff
+  role: flute
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Keizersgrachtkerk
+released: 2021
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/89ee4982-faff-4e87-8a4c-7b69605e5632
+  title: The Hidden Reunion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 818b4526-69e0-4ce8-96ff-4586af1ef1f4
+  recordings: [8e8c6ccc-986f-40f0-8d13-d31d3e9d01d8]

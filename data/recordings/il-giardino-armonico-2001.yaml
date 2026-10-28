@@ -1,0 +1,27 @@
+id: il-giardino-armonico-2001
+performers:
+- name: Il giardino armonico
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [I. Ouverture, II. Air, IV. Bourrée, V. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c4830604-006d-4a39-ab12-1a474d9878d2
+  title: Musica barocca
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 96bcdacc-59bc-41b5-ac66-18e5b55f1689
+  recordings: [b199c9b1-8dbb-4741-aec5-2e63781d21b1]

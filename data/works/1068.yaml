@@ -1,0 +1,17 @@
+bwv: "1068"
+title: Orchestral Suite No. 3
+key: D major
+collection: Orchestral Suites
+genre: orchestral
+scoring: 3 trumpets, timpani, 2 oboes, strings and continuo
+composed: Leipzig, about 1730; the trumpets and timpani were probably added to an earlier version for strings
+movements:
+  - "I. Ouverture"
+  - "II. Air"
+  - "III. Gavotte I & II"
+  - "IV. Bourrée"
+  - "V. Gigue"
+notes: The second movement is the Air later arranged by August Wilhelmj as the "Air on the G String".
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Orchestral_suites_(Bach)
+  bach_digital: null

@@ -1,0 +1,28 @@
+id: simon-wynberg-1999
+performers:
+- name: Simon Wynberg
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1999]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eab9e5c2-98cc-4966-943d-1b83acb35e48
+  title: Classics by the Sea
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: d521db7c-4c48-49d1-9a92-64cd7d2a3185
+  recordings: [cfa0a2ac-92f6-4993-9f56-69650058f61a]

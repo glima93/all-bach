@@ -1,0 +1,30 @@
+id: musici-di-san-marco-undated-2
+performers:
+- name: Musici di San Marco
+  role: orchestra
+- name: Francesco Macci
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3fa87983-b15b-45a0-8772-98f8a6649ce5
+  title: Brandenburg Concertos No. 1-4 / Badinerie BWV 1067
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 854b4a7a-336f-4401-a8a2-112e6f653f22
+  recordings: [e57930bd-79e7-4a1e-ad2e-365f5c0b8533]

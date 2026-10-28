@@ -1,0 +1,28 @@
+id: todd-wilson-undated
+performers:
+- name: Todd Wilson
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: St. Philip's Cathedral
+released: 1994
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd0427cc-816d-4503-9d6c-d5fd03cc899a
+  title: In a Quiet Cathedral
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdd82690-0b77-4d7b-958c-f0f53bd087cc
+  recordings: [2ae6af9b-c1b5-44f2-b3e6-258cc76cee88]

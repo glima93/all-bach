@@ -1,0 +1,35 @@
+id: busch-chamber-players-1936
+performers:
+- name: Busch Chamber Players
+  role: orchestra
+- name: Adolf Busch
+  role: conductor
+- name: Marcel Moyse
+  role: performer
+- name: Paul Draper
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1936]
+  place: Abbey Road Studios
+released: 2001
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b3c0918-401f-4c45-b919-9cf083fd76ec
+  title: Brandenburg Concertos 1-6 / Orchestral Suites 1-4
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: be58d6ad-4855-4602-b87c-de790a1cd4bf
+  recordings: [04153e01-516b-4b09-952a-5e914688f853]

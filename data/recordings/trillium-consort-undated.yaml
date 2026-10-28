@@ -1,0 +1,28 @@
+id: trillium-consort-undated
+performers:
+- name: Trillium Consort
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f76e48db-8d2f-4377-b4a9-e2c0a6cb4755
+  title: With This Ring... A Classical Wedding
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 476631ef-724a-4854-aebb-611562281087
+  recordings: [edd90776-7583-48fd-8ba5-2d0bcc84ab2d]

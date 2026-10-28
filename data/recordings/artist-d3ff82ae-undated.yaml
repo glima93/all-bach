@@ -1,0 +1,31 @@
+id: artist-d3ff82ae-undated
+performers:
+- name: 沢井忠夫
+  role: koto
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1971
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [V. Polonaise & Double]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7574cf06-c5b9-44d7-a91b-aec3c8c02659
+  title: J.S. Bach Is Alive and Well and Doing His Thing on The Koto
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: d3ff82ae-0bae-4228-8bc2-ae1e374bb065
+  recordings: [ff60d893-183e-4f92-a585-162e9546318d]

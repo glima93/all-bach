@@ -1,0 +1,28 @@
+id: nordic-guitar-quartet-1991
+performers:
+- name: Nordic Guitar Quartet
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1991]
+  place: Sorgenfri kirke
+released: 1991
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [II. Courante, III. Gavotte I & II, IV. Forlane, V. Menuet I & II, VI.
+      Bourrée I & II, VII. Passepied I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/054f1e25-347a-40fb-afdf-ae897b5179b7
+  title: Images
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: 3733dc78-2c95-4e3e-b51b-6d1a25ad381f
+  recordings: [45f912c9-5c2d-472b-a247-6f66f5c0aaf1]

@@ -1,0 +1,28 @@
+id: jean-francois-madeuf-undated
+performers:
+- name: Jean-François Madeuf
+  role: piccolo trumpet
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85c645e3-a38c-4730-b4d4-f2ed3750c1c0
+  title: Guide des Instruments de Musique (Volume II) — 1800-1950
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ccf90416-d8b4-488b-9b69-6ec5c3bfab2b
+  recordings: [fc542dda-ab6b-4ce6-8d76-9c64795f69ef]

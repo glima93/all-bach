@@ -1,0 +1,30 @@
+id: heiki-matlik-2003
+performers:
+- name: Heiki Mätlik
+  role: classical guitar
+- name: Andres Uibo
+  role: organ
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2003]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e06b83b4-c55c-4e6e-a962-bdfc2712e9b9
+  title: Ricercare
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With classical guitar.
+musicbrainz:
+  artist: 21074795-e25c-4d62-a417-68cc1ed36dea
+  recordings: [1828034a-7d0c-435f-be36-ad7d7171cd8d]

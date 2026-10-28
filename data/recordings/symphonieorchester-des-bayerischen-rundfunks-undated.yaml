@@ -1,0 +1,31 @@
+id: symphonieorchester-des-bayerischen-rundfunks-undated
+performers:
+- name: Symphonieorchester des Bayerischen Rundfunks
+  role: orchestra
+- name: Giovanni Antonini
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/24127895-3f6f-49d6-875f-5c1327006f4c
+  title: Orchestral Suite no. 1 in C major, BWV 1066
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 59cf9a49-c3b2-4388-8717-4fb836cc7269
+  recordings: [ea8bcde3-a114-4ecc-9ec6-bbc57465fc59]

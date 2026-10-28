@@ -1,0 +1,26 @@
+id: ensemble-les-surprises-2017
+performers:
+- name: Ensemble Les Surprises
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Abbaye aux Dames
+released: 2018
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5712d759-94d5-4004-9e4d-925dcf21192a
+  title: Bach Inspiration
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 14827f29-8cf5-4ce2-ab75-2909ec7df50a
+  recordings: [3e0cf0ef-2b2b-470f-b017-5ee1510cbf78]

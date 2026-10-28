@@ -1,0 +1,30 @@
+id: christian-lindberg-1986
+performers:
+- name: Christian Lindberg
+  role: trombone
+- name: Roland Pöntinen
+  role: piano
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1986]
+  place: Danderyds gymnasium
+released: 1987
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b3f7c40d-5d34-45df-bbda-d9bff49b1481
+  title: The Criminal Trombone
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on trombone, piano.
+musicbrainz:
+  artist: 25cc2fc8-85df-41f4-b84c-9d71d0ee870a
+  recordings: [67c0dc84-0333-450b-88d1-29745601e2a4]

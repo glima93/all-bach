@@ -1,0 +1,31 @@
+id: consort-of-london-1990-2
+performers:
+- name: Consort of London
+  role: orchestra
+- name: Robert Haydon Clark
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: Henry Wood Hall
+released: 1994
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e6b7ac41-1566-460f-958c-6df582c8a0ae
+  title: 'Bach: The Orchestral Suites'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7f55bcea-a7a7-4f59-b4c9-77fc1e46fbe8
+  recordings: [569a0735-bf13-4aa6-848b-10c7bb640683]

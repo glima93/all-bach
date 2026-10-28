@@ -1,0 +1,27 @@
+id: pablo-casals-1916
+performers:
+- name: Pau Casals
+  role: cello
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1916]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/69a64445-4ce1-4738-b16a-b724ed7f34e1
+  title: Encores and Transcriptions, Volume 3
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2fcffd9a-f02a-4a2c-8085-6257f918949d
+  recordings: [6cba0a1e-3642-46ba-b716-0416acb3b695]

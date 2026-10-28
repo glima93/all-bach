@@ -1,0 +1,30 @@
+id: the-brandenburg-sinfonia-undated-2
+performers:
+- name: The Brandenburg Sinfonia
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [I. Ouverture, II. Rondeau, III. Sarabande, IV. Bourrée I & II, V. Polonaise
+      & Double]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7efa791e-9c84-4c33-aaab-2f5fe83bbe2c
+  title: The Elegance of the Baroque
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 697fc1bf-5691-45e2-8197-ea09b5e52803
+  recordings: [fadea644-39d0-462b-950d-5631c95194c8]

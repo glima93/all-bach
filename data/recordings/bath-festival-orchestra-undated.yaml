@@ -1,0 +1,35 @@
+id: bath-festival-orchestra-undated
+performers:
+- name: Bath Festival Orchestra
+  role: orchestra
+- name: Yehudi Menuhin
+  role: conductor
+- name: Elaine Shaffer
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1962
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/806fbfa5-3375-4bae-87ed-2d8e7b836ea8
+  title: 'Suites pour orchestre: suites n°1 et n°2'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc6cebc8-6e51-464e-8589-6ae1c498f5d9
+  recordings: [d8dd7e8e-e74e-4dba-bb1a-c66411345898]

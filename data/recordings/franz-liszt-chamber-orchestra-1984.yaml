@@ -1,0 +1,29 @@
+id: franz-liszt-chamber-orchestra-1984
+performers:
+- name: Franz Liszt Chamber Orchestra
+  role: orchestra
+- name: János Rolla
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Casino Zögernitz
+released: 1991
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0fcb3e81-2604-47b4-877b-54d9d23af059
+  title: Canon & Gigue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1a935ca0-550a-4922-b480-c6dcfe3a2350
+  recordings: [8bf26e0f-ae5e-4a73-8d43-b0f432bfb05e]

@@ -1,0 +1,30 @@
+id: warsaw-philharmonic-orchestra-undated
+performers:
+- name: Warsaw Philharmonic Orchestra
+  role: orchestra
+- name: Masamichi Amano
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8e1b3e1-6cd1-4134-ae30-fc291c0ba6cc
+  title: Battle Royale
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 093c5e3b-2c96-485c-a345-237a5ed53ac7
+  recordings: [94b5edcb-f22d-416b-9c75-23e9e8662484]

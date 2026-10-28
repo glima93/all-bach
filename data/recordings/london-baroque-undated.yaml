@@ -1,0 +1,28 @@
+id: london-baroque-undated
+performers:
+- name: London Baroque
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/235b9cde-f4c9-4423-baf1-e1a7735e6df6
+  title: 'Rise of the Masters: 100 Supreme Classical Masterpieces'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 07a23662-947c-45ef-b9a3-789392e24932
+  recordings: [ae8c1994-9809-42e9-bda5-f339b8df66bd]

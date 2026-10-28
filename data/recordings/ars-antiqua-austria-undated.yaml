@@ -1,0 +1,33 @@
+id: ars-antiqua-austria-undated
+performers:
+- name: Ars Antiqua Austria
+  role: orchestra
+- name: Gunar Letzbor
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33edeab1-3d84-488b-9adf-1e7b9e1a631c
+  title: Four Orchestral Suites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 80715a3b-8a3b-424f-9e77-1043b5754f88
+  recordings: [038f722e-a2fb-4097-8c9f-7f15b10aadd4]

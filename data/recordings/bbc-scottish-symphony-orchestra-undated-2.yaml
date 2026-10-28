@@ -1,0 +1,33 @@
+id: bbc-scottish-symphony-orchestra-undated-2
+performers:
+- name: BBC Scottish Symphony Orchestra
+  role: orchestra
+- name: Alina Ibragimova
+  role: violin
+- name: Nicholas Kraemer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/919e43d2-7ef2-4f07-b75e-d1ce2c10cbc6
+  title: 'BBC Music, Volume 16, Number 1: Violin Concertos / Orchestral Suite no. 3 / Chaconne from Partita no.
+    2'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7edb9f26-0068-4319-8fee-ab70ec2ee37b
+  recordings: [39f3e2d6-e5fb-46bd-96fd-3d6a6c2f9c42]

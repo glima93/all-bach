@@ -1,0 +1,32 @@
+id: concerto-copenhagen-2019
+performers:
+- name: Concerto Copenhagen
+  role: orchestra
+- name: Lars Ulrik Mortensen
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/46be2c5d-4bda-4cf1-89a8-c0298413897e
+  title: 'The Overtures: Original Versions'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7dfcbf3a-84c1-4fcd-8428-03589244b125
+  recordings: [16770594-02c3-4b5b-9162-f46116ce1f3a]

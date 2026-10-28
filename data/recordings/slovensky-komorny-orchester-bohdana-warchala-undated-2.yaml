@@ -1,0 +1,47 @@
+id: slovensky-komorny-orchester-bohdana-warchala-undated-2
+performers:
+- name: Slovenský komorný orchester Bohdana Warchala
+  role: orchestra
+- name: Bohdan Warchal
+  role: conductor
+- name: Milan Brunner
+  role: performer
+- name: Miroslav Kejmar
+  role: performer
+- name: Gabriela Krcková
+  role: performer
+- name: Jirí Krejci
+  role: performer
+- name: Václav Mazácek
+  role: performer
+- name: Guy Touvron
+  role: performer
+- name: Zdeněk Šedivý
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8d4994b9-3bca-45b8-a265-42192a680136
+  title: Orchestersuiten Nos. 1–3 (Air)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4cfa3ebc-eb6c-4647-bd02-d1475e6de877
+  recordings: [00f6b0bf-928c-49f0-99a7-8aac0e3fa2a6]

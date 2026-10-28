@@ -1,0 +1,34 @@
+id: london-festival-orchestra-undated-2
+performers:
+- name: London Festival Orchestra
+  role: orchestra
+- name: Ross Pople
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+- {bwv: '1070', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f60d05f2-6e31-48ff-b579-d3b961768b42
+  title: Midsummer Classics
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2914addc-dc71-41ce-a3b0-68d6a73bb5d0
+  recordings: [782348dc-1aa2-4011-80c6-fb9e72282721]

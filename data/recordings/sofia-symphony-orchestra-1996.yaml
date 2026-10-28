@@ -1,0 +1,29 @@
+id: sofia-symphony-orchestra-1996
+performers:
+- name: Sofia Symphony Orchestra
+  role: orchestra
+- name: Vassil Kazandjiev
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4c12cc1f-25b2-4fe4-b6b6-07be8fb58f05
+  title: エヴァンゲリオン・クラシック4 バッハ:管弦楽組曲第3番「アリア」他
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85134cd6-1809-41b2-8fc8-5a96954f81d8
+  recordings: [55860ae3-a85a-49bc-bf25-14de6b271681]

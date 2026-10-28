@@ -1,0 +1,30 @@
+id: tafelmusik-1996
+performers:
+- name: Tafelmusik
+  role: orchestra
+- name: Charlotte Nediger
+  role: harpsichord
+- name: Jeanne Lamon
+  role: violin
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Humbercrest United Church
+released: 1997
+original_label: null
+works:
+- {bwv: '1070', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82b67d29-d648-48d0-a41f-bb06879b59af
+  title: Sinfonias / Suite in G minor / Concerto for Harpsichord in D Major
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0ca59def-f1bc-4e74-b17e-45276faa12f0
+  recordings: [89823108-a225-4f38-8d22-90db4249b304]

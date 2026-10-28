@@ -1,0 +1,33 @@
+id: stuttgarter-kammerorchester-1985
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+- name: Wolfgang Schulz
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985]
+  place: Kirche der Karlshöhe
+released: 1985
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b9b297e8-e7f2-426b-9f06-7f592f5afcd4
+  title: Orchestral Suites nos. 1–4
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [d9362a8a-9540-4ee8-bbfb-faaea7ab530b]

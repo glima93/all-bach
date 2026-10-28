@@ -1,0 +1,33 @@
+id: moscow-rtv-symphony-orchestra-undated
+performers:
+- name: Moscow RTV Symphony Orchestra
+  role: orchestra
+- name: Klaus-Peter Hahn
+  role: performer
+- name: Vladimir Fedoseyev
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [V. Menuet I & II, VII. Passepied I & II]}
+- {bwv: '1067', complete: false, movements: [III. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/326c637c-5807-4002-84b8-3dcd72fada6b
+  title: Music for a Garden Party
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 81b70969-a9c0-4fcf-8461-24cf72901368
+  recordings: [bde5149c-9234-41c1-87c9-b66a090a445f]

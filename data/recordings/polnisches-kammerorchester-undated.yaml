@@ -1,0 +1,30 @@
+id: polnisches-kammerorchester-undated
+performers:
+- name: Polnisches Kammerorchester
+  role: orchestra
+- name: Jerzy Maksymiuk
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6466a603-b353-4880-87be-b9aa80be05ab
+  title: 'Fine Arts: Eine Reise in die Welt der Musik'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d7cafe4e-539c-42b7-9ae8-ffbd241d677c
+  recordings: [fb6533a8-98e3-4c32-ad16-2726289133ea]

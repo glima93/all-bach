@@ -1,0 +1,28 @@
+id: hofkapelle-munchen-undated-2
+performers:
+- name: Hofkapelle München
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d9482b0f-6fe6-458a-b793-6709c5969d49
+  title: Weihnachten am Münchener Hof
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ae09dca-a6dc-430e-810e-a91b2aafe6e9
+  recordings: [daf8d0d8-6d67-41f0-a1b4-d4ded28fcaff]

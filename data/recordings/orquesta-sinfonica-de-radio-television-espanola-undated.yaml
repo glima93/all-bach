@@ -1,0 +1,31 @@
+id: orquesta-sinfonica-de-radio-television-espanola-undated
+performers:
+- name: Orquesta Sinfónica de Radio Televisión Española
+  role: orchestra
+- name: Enrique García Asensio
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e136d9fc-6dd0-4aae-8599-132329ec931e
+  title: Clásicos populares infantiles
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cc0b6db0-9a21-431f-8a9a-a52a9e4b00f9
+  recordings: [e4b27427-3c0d-42ac-bf60-6a1aa727f72b]

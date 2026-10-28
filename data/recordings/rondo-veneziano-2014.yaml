@@ -1,0 +1,28 @@
+id: rondo-veneziano-2014
+performers:
+- name: Rondò Veneziano
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2014]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/498e4f70-2205-4156-b0a3-07edd7d198e1
+  title: The Best of Instrumental Music, Volume 2
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 940a5867-a2e5-4af5-ae05-91cf63bd0b52
+  recordings: [d0db4e2a-425c-43c2-b8a4-3c8ff78f5b96]

@@ -1,0 +1,28 @@
+id: london-festival-orchestra-1989
+performers:
+- name: London Festival Orchestra
+  role: orchestra
+- name: Ross Pople
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989]
+  place: St. Barnabas Church
+released: 1989
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/954b977a-9ce8-39c5-b6f1-2ed9d2569ba8
+  title: Favourite Classics
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2914addc-dc71-41ce-a3b0-68d6a73bb5d0
+  recordings: [fda4be8c-5069-4a08-999b-7c5a53fe44f4]

@@ -1,0 +1,28 @@
+id: academy-of-st-christopher-orchestra-undated
+performers:
+- name: Academy of St. Christopher Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/62c059f5-55a5-4165-adeb-03fc70326db5
+  title: Classical Dinner Party
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df3430bc-00e2-409e-a206-89c085199771
+  recordings: [65f8b16c-441e-487c-b8d1-92bae8a9bd7b]

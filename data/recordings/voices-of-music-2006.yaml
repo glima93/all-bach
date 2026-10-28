@@ -1,0 +1,28 @@
+id: voices-of-music-2006
+performers:
+- name: Voices of Music
+  role: orchestra
+- name: David Tayler
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: St. Stephen’s Church
+released: 2007
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/813a2cb3-fb95-4608-8c6e-a1013551cf6d
+  title: An Evening With Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 345e6a84-f336-40a8-9126-7808e8ce3aa4
+  recordings: [bc55ed36-103c-43cd-abd1-fabeb6d3c39e]

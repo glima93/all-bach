@@ -1,0 +1,34 @@
+id: academy-of-st-martin-in-the-fields-1978
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Neville Marriner
+  role: performer
+- name: William Bennett
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5117a665-d93b-4d49-8621-97cb7f08aab0
+  title: Orchestral Suites / 2 Double Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [12c6dccb-a556-4425-ba01-a2ba1369aa47]

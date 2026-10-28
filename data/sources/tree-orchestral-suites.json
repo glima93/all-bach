@@ -1,0 +1,236 @@
+{
+ "collection": "orchestral-suites",
+ "taken": "2026-10-28",
+ "recordings": 3518,
+ "performances": 441,
+ "works": [
+  {
+   "bwv": "1066",
+   "id": "1ef8a483-50f5-45a3-8463-c86263654d2c",
+   "candidates": [
+    {
+     "id": "1ef8a483-50f5-45a3-8463-c86263654d2c",
+     "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066"
+    },
+    {
+     "id": "3fb2f294-0115-4d39-943e-13c9b79937b7",
+     "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066"
+    },
+    {
+     "id": "c5da9714-27da-4507-a3c6-c8855fb48f87",
+     "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066"
+    },
+    {
+     "id": "78de07e8-b834-4ddf-b33c-0da07f16dfe8",
+     "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "c490522c-e398-385a-a2af-ed4f66aa1546",
+     "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066: I. Ouverture"
+    },
+    {
+     "id": "0c27f28b-56f6-3c20-9d0e-64254ead923f",
+     "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066: II. Courante"
+    },
+    {
+     "id": "b0085767-a05b-3062-bc4f-ca774acb94b7",
+     "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066: III. Gavotte I / Gavotte II"
+    },
+    {
+     "id": "48780a45-13a6-39da-8ff5-1af87e070f64",
+     "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066: IV. Forlane"
+    },
+    {
+     "id": "773646bb-f3aa-36a8-9aba-ba7fad4fbc16",
+     "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066: V. Menuet I / Menuet II"
+    },
+    {
+     "id": "c68e5425-5728-30c6-908b-5d7af3ba8e23",
+     "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066: VI. Bourrée I / Bourrée II"
+    },
+    {
+     "id": "07635681-45f7-32d4-84e3-27d4ae06cb0d",
+     "title": "Orchestersuite Nr. 1 C-Dur, BWV 1066: VII. Passepied I / Passepied II"
+    }
+   ]
+  },
+  {
+   "bwv": "1067",
+   "id": "179cc1f2-1135-4619-85f0-e42cd9d00979",
+   "candidates": [
+    {
+     "id": "179cc1f2-1135-4619-85f0-e42cd9d00979",
+     "title": "Orchestersuite Nr. 2 h-Moll, BWV 1067"
+    },
+    {
+     "id": "91bd6b6b-9ba6-4827-815d-90a4de956bef",
+     "title": "Orchestersuite Nr. 2 h-Moll, BWV 1067"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Orchestersuite Nr. 2 h-Moll, BWV 1067",
+   "key": "B minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "80ccb326-085d-3111-8f5b-574b2904976d",
+     "title": "Orchestersuite Nr. 2 h-Moll, BWV 1067: I. Ouverture"
+    },
+    {
+     "id": "b5bcb866-5f34-3689-a770-0598096feae1",
+     "title": "Orchestersuite Nr. 2 h-Moll, BWV 1067: II. Rondeau"
+    },
+    {
+     "id": "b7cf462c-aed8-39b7-88ae-d7b82373a999",
+     "title": "Orchestersuite Nr. 2 h-Moll, BWV 1067: III. Sarabande"
+    },
+    {
+     "id": "d408d9bb-7e93-3ba6-ab6e-5972828550a2",
+     "title": "Orchestersuite Nr. 2 h-Moll, BWV 1067: IV. Bourrée I & II"
+    },
+    {
+     "id": "db182b2a-6333-3b4f-9c21-c6026fb1107b",
+     "title": "Orchestersuite Nr. 2 h-Moll, BWV 1067: V. Polonaise & Double"
+    },
+    {
+     "id": "3e9b2f0d-6239-36fa-be1b-36391785f839",
+     "title": "Orchestersuite Nr. 2 h-Moll, BWV 1067: VI. Menuet"
+    },
+    {
+     "id": "c98f3754-3aef-3fa1-80a2-de500e678519",
+     "title": "Orchestersuite Nr. 2 h-Moll, BWV 1067: VII. Badinerie"
+    }
+   ]
+  },
+  {
+   "bwv": "1068",
+   "id": "1767c8ae-5d3a-4a39-8921-d3e4ba0e75af",
+   "candidates": [
+    {
+     "id": "1767c8ae-5d3a-4a39-8921-d3e4ba0e75af",
+     "title": "Orchestersuite Nr. 3 D-Dur, BWV 1068"
+    },
+    {
+     "id": "28b576b2-0746-4df6-8517-367cf66ab032",
+     "title": "Air in D, BWV 1068"
+    },
+    {
+     "id": "37c945d8-30eb-41f6-bd9a-0ed10b8d10d5",
+     "title": "Aria from Overture no. 3, BWV 1068"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Orchestersuite Nr. 3 D-Dur, BWV 1068",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0c1e77c0-f4dd-3858-a20e-94660bce4b73",
+     "title": "Orchestersuite Nr. 3 D-Dur, BWV 1068: I. Ouverture"
+    },
+    {
+     "id": "51bb8773-8492-3773-ab88-73a89c922c3d",
+     "title": "Orchestersuite Nr. 3 D-Dur, BWV 1068: II. Air"
+    },
+    {
+     "id": "d2301ef3-f42b-3129-b8ea-f91fd3c1d8e4",
+     "title": "Orchestersuite Nr. 3 D-Dur, BWV 1068: III. Gavotte I & II"
+    },
+    {
+     "id": "2faa35a1-ba19-389f-b8fa-d450eb90d32a",
+     "title": "Orchestersuite Nr. 3 D-Dur, BWV 1068: IV. Bourrée"
+    },
+    {
+     "id": "ac9b0459-b48e-3644-b7b4-6755c838c484",
+     "title": "Orchestersuite Nr. 3 D-Dur, BWV 1068: V. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "1069",
+   "id": "872109a2-b527-4029-b6bb-57319515f3c1",
+   "candidates": [
+    {
+     "id": "872109a2-b527-4029-b6bb-57319515f3c1",
+     "title": "Orchestersuite Nr. 4 D-Dur, BWV 1069"
+    },
+    {
+     "id": "316e5603-e212-4671-a361-b2c7a8c55f93",
+     "title": "Orchestersuite Nr. 4 D-Dur, BWV 1069"
+    },
+    {
+     "id": "b1b7f58c-f8d9-4a46-9b01-6c6afb989747",
+     "title": "Orchestersuite Nr. 4 D-Dur, BWV 1069"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Orchestersuite Nr. 4 D-Dur, BWV 1069",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "044bbd3b-ac32-3822-88bd-fc649be6ee67",
+     "title": "Orchestersuite Nr. 4 D-Dur, BWV 1069: I. Ouverture"
+    },
+    {
+     "id": "611b9970-1254-3ee5-9da9-858246a2a317",
+     "title": "Orchestersuite Nr. 4 D-Dur, BWV 1069: II. Bourrée I - alternativement Bourrée II"
+    },
+    {
+     "id": "50d17539-9225-3690-a7a1-2773c84090e2",
+     "title": "Orchestersuite Nr. 4 D-Dur, BWV 1069: III. Gavotte"
+    },
+    {
+     "id": "84e5317d-ad7f-32ea-aee1-eb594a60c52d",
+     "title": "Orchestersuite Nr. 4 D-Dur, BWV 1069: IV. Menuet I - alternativement Menuet II"
+    },
+    {
+     "id": "89c48e78-6048-3f0b-a84e-cb9aaf7df8ed",
+     "title": "Orchestersuite Nr. 4 D-Dur, BWV 1069: V. Réjouissance"
+    }
+   ]
+  },
+  {
+   "bwv": "1070",
+   "id": "8fc85d80-de2b-414e-8d62-c7de7673ed2a",
+   "candidates": [
+    {
+     "id": "8fc85d80-de2b-414e-8d62-c7de7673ed2a",
+     "title": "Orchestersuite Nr. 5 g-Moll, BWV 1070"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Orchestersuite Nr. 5 g-Moll, BWV 1070",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "eb0a743c-6e9b-4819-bdbd-ba898eaab2da",
+     "title": "Orchestersuite Nr. 5 g-Moll, BWV 1070: I. Larghetto. Un poco allegro"
+    },
+    {
+     "id": "e3f9b166-8b89-42e8-b6cb-cad1a43d7f43",
+     "title": "Orchestersuite Nr. 5 g-Moll, BWV 1070: II. Torneo"
+    },
+    {
+     "id": "47afdcc5-f0a7-4352-b865-cb234c47712c",
+     "title": "Orchestersuite Nr. 5 g-Moll, BWV 1070: III. Aria"
+    },
+    {
+     "id": "d663a625-6a73-499d-86af-54455cb29cd5",
+     "title": "Orchestersuite Nr. 5 g-Moll, BWV 1070: IV. Menuetto alternativo"
+    },
+    {
+     "id": "51aeb904-e845-4523-9985-b626e35fac22",
+     "title": "Orchestersuite Nr. 5 g-Moll, BWV 1070: V. Capriccio"
+    }
+   ]
+  }
+ ]
+}

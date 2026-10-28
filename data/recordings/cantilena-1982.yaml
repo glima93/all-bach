@@ -1,0 +1,28 @@
+id: cantilena-1982
+performers:
+- name: Cantilena
+  role: ensemble
+- name: Adrian Shepherd
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1982]
+  place: Henry Wood Hall
+released: 1982
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ccc95769-9ae8-4ca3-87fb-00ebdb09b2b6
+  title: 'Encore: An Hour with Cantilena'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2a4105e-bb68-4991-8ca1-f19860adc298
+  recordings: [896f5275-dac1-424c-afe2-7fe49788e713]

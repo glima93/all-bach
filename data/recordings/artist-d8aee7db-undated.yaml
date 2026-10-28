@@ -1,0 +1,30 @@
+id: artist-d8aee7db-undated
+performers:
+- name: 村治奏一
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/309d31f9-2a1b-43eb-be2e-de07863fd2d6
+  title: '村治 奏一 ベスト・コレクション: ダンサ・ブラジレイラ'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With classical guitar.
+musicbrainz:
+  artist: d8aee7db-c609-421d-863f-05a279b00ff0
+  recordings: [be613732-a1e6-4743-82c2-30ab6a32c4ec]

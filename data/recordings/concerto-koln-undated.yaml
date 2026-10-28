@@ -1,0 +1,30 @@
+id: concerto-koln-undated
+performers:
+- name: Concerto Köln
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Deutschlandfunk Kammermusiksaal
+released: 2010
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7921aad3-b081-4245-b0ee-907cf3387881
+  title: The Orchestral Suites
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 16a29583-0a91-415c-ac87-6ee5c6c2c406
+  recordings: [48a2fa5f-6f1f-4127-be76-0fcc17bd6035]

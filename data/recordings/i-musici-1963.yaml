@@ -1,0 +1,28 @@
+id: i-musici-1963
+performers:
+- name: I Musici
+  role: orchestra
+- name: Severino Gazzelloni
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1963]
+  place: Théâtre municipal de Vevey
+released: 1987
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4929bf3d-0cd7-4b61-940a-b1e8662ae6b5
+  title: Baroque Favourites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0febca2d-aeed-48fc-9d44-180f6346e4ab
+  recordings: [6073f2fc-4af4-4166-b5ab-9ca595653244]

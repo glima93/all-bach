@@ -1,0 +1,30 @@
+id: sweet-little-band-undated-3
+performers:
+- name: Sweet Little Band
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VI. Menuet, VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2a03c4ba-df81-4014-8129-4a62362312d7
+  title: Babies Go Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f18ed420-f81a-43f6-83ff-9c021d5ef1c9
+  recordings: [766caeff-5dce-4d12-9911-2bbee80e660b]

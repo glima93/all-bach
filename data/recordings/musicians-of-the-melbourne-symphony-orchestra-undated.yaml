@@ -1,0 +1,27 @@
+id: musicians-of-the-melbourne-symphony-orchestra-undated
+performers:
+- name: Musicians of the Melbourne Symphony Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Elisabeth Murdoch Hall
+released: 2023
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1aa77adc-4ff2-4972-9297-bb02f9b0fc5e
+  title: 'Classic 100: Your Favourite Instrument'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d50f4a34-bee8-42ed-9259-e6e99297279a
+  recordings: [83bf2b80-1d04-4d27-ae26-c394c5023d10]

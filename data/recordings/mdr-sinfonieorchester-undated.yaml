@@ -1,0 +1,30 @@
+id: mdr-sinfonieorchester-undated
+performers:
+- name: MDR Sinfonieorchester
+  role: orchestra
+- name: Jochen Wehner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2cbcca53-45b5-4cea-bcd8-402cfe7b0cf0
+  title: Users' Guide to the Classics, Volume 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ced33e42-85cf-410a-87d1-ec3f1cc8ea8f
+  recordings: [7decb3b3-fff2-4992-a318-5683cd661fae]

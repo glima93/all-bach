@@ -1,0 +1,32 @@
+id: frankfurt-radio-symphony-orchestra-undated
+performers:
+- name: Frankfurt Radio Symphony Orchestra
+  role: orchestra
+- name: Carl Schuricht
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [I. Ouverture, II. Rondeau, III. Sarabande, IV. Bourrée I & II, VII.
+      Badinerie]}
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f84cc8fd-9c3e-4fe3-b53d-ac63a4fbd791
+  title: Carl Schuricht, Vol. 1 (1960)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3149fd11-9270-4e77-ab0a-8d71091605da
+  recordings: [2a69a033-6a5c-4380-8b74-b20c0b26d314]

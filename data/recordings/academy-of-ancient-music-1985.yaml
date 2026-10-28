@@ -1,0 +1,33 @@
+id: academy-of-ancient-music-1985
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Christopher Hogwood
+  role: conductor
+- name: Richard Egarr
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1985, 1986, 1988]
+  place: St. Barnabas Church
+released: 1988
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2565b361-c319-4c0f-a34e-c8124cc2c0fe
+  title: Orchestral Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [e9e3e0b9-d716-49ac-8404-d0431f4b1186]

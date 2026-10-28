@@ -1,0 +1,57 @@
+id: new-bach-collegium-musicum-1982
+performers:
+- name: New Bach Collegium Musicum
+  role: orchestra
+- name: Max Pommer
+  role: conductor
+- name: Walter Heinz Bernstein
+  role: harpsichord
+- name: Rainer Hucke
+  role: double bass
+- name: Burkhard Schmidt
+  role: cello
+- name: Günter Heidrich
+  role: oboe
+- name: Uwe Kleinsorge
+  role: oboe
+- name: Gerd Schulze
+  role: bassoon
+- name: Ludwig Güttler
+  role: performer
+- name: Werner Legutke
+  role: performer
+- name: Eberhard Palm
+  role: performer
+- name: Roland Rudolph
+  role: performer
+- name: Heinz Stiefel
+  role: performer
+- name: Karl-Heinz Passin
+  role: performer
+- name: Hans Ludwig Mörchen
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1982, 1984]
+  place: Paul-Gerhardt-Kirche
+released: 1984
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [VII. Passepied I & II]}
+- {bwv: '1067', complete: false, movements: [VI. Menuet, VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+- {bwv: '1069', complete: false, movements: [V. Réjouissance]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5002e4ef-3687-4e75-980c-92db5c9d7a05
+  title: Ouvertüren 1 & 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [ffd24d72-51b7-4dcf-ad3a-fefb4b04c246]

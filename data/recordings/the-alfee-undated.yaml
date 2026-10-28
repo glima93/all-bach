@@ -1,0 +1,31 @@
+id: the-alfee-undated
+performers:
+- name: THE ALFEE
+  role: ensemble
+- name: Royal Philharmonic Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [V. Polonaise & Double]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d9cbc25e-2ab9-45db-bf9f-bb60d5a39bd9
+  title: THE ALFEE CLASSICS II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: db855eff-9d28-4bd7-ab2c-7301495b4669
+  recordings: [039b7629-7c5c-488f-ad08-83e8444b1466]

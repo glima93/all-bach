@@ -1,0 +1,28 @@
+id: simon-wynberg-1988
+performers:
+- name: Simon Wynberg
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1988]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82767272-1af9-4f61-91e7-f8a743ce0df1
+  title: A Bach Recital
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: d521db7c-4c48-49d1-9a92-64cd7d2a3185
+  recordings: [da6ab9fc-b86a-4e85-99b9-1666f26e85d2]

@@ -1,0 +1,30 @@
+id: symfonicky-orchestr-ceskeho-rozhlasu-undated
+performers:
+- name: Symfonický orchestr Českého rozhlasu
+  role: orchestra
+- name: Gunther Von Clidows
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a8721fb-cf7a-4da0-888e-53e010a00e7c
+  title: Jóias da música, Volume 4
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2cd043c-67de-487f-9c91-2017a101415a
+  recordings: [a8b02864-1cc5-4fe6-b78d-ff0b32326805]

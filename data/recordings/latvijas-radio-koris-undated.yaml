@@ -1,0 +1,29 @@
+id: latvijas-radio-koris-undated
+performers:
+- name: Latvijas Radio koris
+  role: choir
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/83cbd88e-c2ec-463c-aa23-da5d68476126
+  title: Vakara mūzika
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5f906627-4601-4d07-8311-27521225cb63
+  recordings: [1662693a-a3cc-4b6c-9d9e-d36365ab2e6e]

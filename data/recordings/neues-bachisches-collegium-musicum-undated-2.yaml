@@ -1,0 +1,46 @@
+id: neues-bachisches-collegium-musicum-undated-2
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Max Pommer
+  role: conductor
+- name: Karl-Heinz Passin
+  role: performer
+- name: Walter Heinz Bernstein
+  role: harpsichord
+- name: Rainer Hucke
+  role: double bass
+- name: Burkhard Schmidt
+  role: cello
+- name: Gerd Schulze
+  role: bassoon
+- name: Ludwig Güttler
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [I. Ouverture, II. Courante, III. Gavotte I & II, IV. Forlane, V. Menuet
+      I & II, VI. Bourrée I & II]}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: false, movements: [I. Ouverture, III. Gavotte, V. Réjouissance]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5002e4ef-3687-4e75-980c-92db5c9d7a05
+  title: Ouvertüren 1 & 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [00862686-973d-4705-9f04-cec1f883095f]

@@ -1,0 +1,30 @@
+id: moscow-concertino-undated
+performers:
+- name: Moscow Concertino
+  role: orchestra
+- name: Andrei Korsakov
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1295048c-727f-4168-a5d5-8a94ff6eda1a
+  title: Super Classic
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9a71efc-e8e0-471c-9f58-b9ec84981d84
+  recordings: [dcbcc3e9-ebe9-4b15-9a80-93c54db7b90d]

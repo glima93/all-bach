@@ -1,0 +1,31 @@
+id: virtuosi-saxoniae-1990
+performers:
+- name: Virtuosi Saxoniae
+  role: orchestra
+- name: Ludwig Güttler
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990, 1992]
+  place: Lukaskirche
+released: 2014
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5582b212-aea7-4355-8c4c-531ed438e5fc
+  title: Complete Edition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 50415566-1dfc-4185-a900-d257bce41b55
+  recordings: [20349598-c6d9-4f66-82a5-4c93c5ebaa3a]

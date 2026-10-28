@@ -1,0 +1,28 @@
+id: christian-reiner-undated
+performers:
+- name: Christian Reiner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/562c34f4-2001-4d5e-bfd5-98fb073f4338
+  title: Les Plus Grandes Émotions de la musique
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e43403e4-a7e7-43a4-8fe2-3738fd472fbb
+  recordings: [06b237a7-73ea-4678-9929-105d41289fb3]

@@ -1,0 +1,29 @@
+id: juan-tomas-undated
+performers:
+- name: Juan Tomás
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/67bffde4-dafd-4983-805c-b1b066b795f3
+  title: Mozart's Eine Kleine Nachtmusik for Guitar
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: ea806c98-85fd-45de-9580-fff7caff4f4d
+  recordings: [5a58fdaf-44b7-4aa9-a904-f5c47d3c5794]

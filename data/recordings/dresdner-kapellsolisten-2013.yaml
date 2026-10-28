@@ -1,0 +1,31 @@
+id: dresdner-kapellsolisten-2013
+performers:
+- name: Dresdner Kapellsolisten
+  role: orchestra
+- name: Helmut Branny
+  role: conductor
+- name: Bernhard Kury
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2013]
+  place: Villa Hügel
+released: 2015
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d70e1796-5a8c-4b3a-aae2-0c0ff1720d7c
+  title: Festliches Konzert
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 9ba9467c-38e7-4fa3-81a9-d3f470446f9c
+  recordings: [e882fdc4-a260-42d7-84d1-2e271effa7ed]

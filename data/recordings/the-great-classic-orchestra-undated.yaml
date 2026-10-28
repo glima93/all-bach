@@ -1,0 +1,28 @@
+id: the-great-classic-orchestra-undated
+performers:
+- name: The Great Classic Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bee7231d-0d84-4170-a093-5776064e4be6
+  title: 'Classical Fantasy: The Beginning'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b906254e-d296-4f87-b267-fefad1740d5b
+  recordings: [e4cad31b-cb0c-40fa-a405-591fc0ae590e]

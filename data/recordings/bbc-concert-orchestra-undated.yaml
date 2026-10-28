@@ -1,0 +1,32 @@
+id: bbc-concert-orchestra-undated
+performers:
+- name: BBC Concert Orchestra
+  role: orchestra
+- name: Barry Wordsworth
+  role: performer
+- name: Ileana Ruhemann
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: The Hippodrome
+released: 1988
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fde6dd82-2ade-4f5f-9f20-668f79142b38
+  title: The Jameson Collectiom
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dfeba5ea-c967-4ad2-9cdd-3cffb4320143
+  recordings: [51ee2274-1c25-4db7-a9ec-996d822a22e3]

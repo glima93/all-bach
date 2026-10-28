@@ -1,0 +1,39 @@
+id: cindy-albracht-undated
+performers:
+- name: Cindy Albracht
+  role: violin
+- name: Boris Brovtsyn
+  role: violin
+- name: Tijmen Huisingh
+  role: violin
+- name: Janine Jansen
+  role: conductor
+- name: Julia-Maria Kretz
+  role: violin
+- name: Fredrik Paulsson
+  role: violin
+- name: Monika Urbonaite
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Andreaskirche
+released: 2018
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 79a6f3c5-b40a-4637-a681-3147a0a7a494
+  recordings: [1d834915-f379-4326-8a8e-dc3be3b1ea6a]

@@ -1,0 +1,28 @@
+id: dance-of-joy-undated-2
+performers:
+- name: Dance of Joy
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a5b8e9a1-eb90-4b96-bee4-e7fadb185cf1
+  title: Das Bachprojekt
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f1375c0-ebd9-4131-8df5-0a21bb856d3f
+  recordings: [cbcc3b31-bb5b-4929-a9b2-950af6c7ac08]

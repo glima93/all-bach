@@ -1,0 +1,29 @@
+id: deutsche-bachsolisten-1978
+performers:
+- name: Deutsche Bachsolisten
+  role: orchestra
+- name: Helmut Winschermann
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978]
+  place: Eching Kirche
+released: 1979
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6860f052-d64c-4363-8c48-dfb1d7545af1
+  title: Jesu, Joy Of Man's Desiring, Sleepers Wake, Chaconne, Many Others
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bf5a484-6a6a-40a2-bbd4-95129f53fbc3
+  recordings: [0c7c32f0-cf63-4c32-b99a-c82db6d8a332]

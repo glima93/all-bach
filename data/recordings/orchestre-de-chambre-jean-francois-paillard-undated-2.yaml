@@ -1,0 +1,36 @@
+id: orchestre-de-chambre-jean-francois-paillard-undated-2
+performers:
+- name: Orchestre de chambre Jean‐François Paillard
+  role: orchestra
+- name: Jean‐François Paillard
+  role: conductor
+- name: Jean-Pierre Rampal
+  role: performer
+- name: Maurice André
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Eglise Notre-Dame des Roses
+released: 1979
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/49403795-408c-47a9-800d-ba699e0e3d5a
+  title: Suites no. 1 & no. 2 pour orchestre
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 736d2231-9b64-4f71-b3aa-f5936eb55938
+  recordings: [23aef705-b844-4d4a-8c03-de88188912b1]

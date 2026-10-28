@@ -1,0 +1,30 @@
+id: collegium-aureum-undated
+performers:
+- name: Collegium Aureum
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [V. Polonaise & Double, VI. Menuet, VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c23ece3e-da2a-41c1-b91d-96d551b6ecde
+  title: The Authentic Baroque
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2cdc12f9-aae5-4b64-a769-6448f2c1c586
+  recordings: [801f9ae6-84e9-4390-a2b8-dc8be352bd18]

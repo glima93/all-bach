@@ -1,0 +1,34 @@
+id: vienna-state-opera-orchestra-undated
+performers:
+- name: Vienna State opera Orchestra
+  role: orchestra
+- name: Felix Prohaska
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [II. Courante, III. Gavotte I & II, IV. Forlane, V. Menuet I & II, VI.
+      Bourrée I & II, VII. Passepied I & II]}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99bfd174-e463-4b28-abc5-4e65227480e7
+  title: Big Bach Set
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 60cc7738-673d-45e3-8cdb-5412e09cb1c5
+  recordings: [69b34a4e-93e9-4efa-8c64-d04c2a7e92a6]

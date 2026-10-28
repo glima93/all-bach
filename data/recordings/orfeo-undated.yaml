@@ -1,0 +1,30 @@
+id: orfeo-undated
+performers:
+- name: Orfeo 55
+  role: orchestra
+- name: Nathalie Stutzmann
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b86a562e-d20a-4aed-a8d7-c609d8c1cfa5
+  title: Une cantate imaginaire
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 59b09f23-02cd-4ed1-8aa3-65ac810ce142
+  recordings: [14c95ea9-9e58-4b27-953d-3031cf0f5d39]

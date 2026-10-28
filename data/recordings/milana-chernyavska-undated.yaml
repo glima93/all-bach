@@ -1,0 +1,31 @@
+id: milana-chernyavska-undated
+performers:
+- name: Milana Chernyavska
+  role: piano
+- name: Maximilian Hornung
+  role: cello
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/795ad123-a704-4e33-814b-c6cb7b47fcd8
+  title: 'Sound of Silence: Musik zum Atemholen'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aab31ac4-aee3-453a-b9e0-b7d3fac0a956
+  recordings: [109ec8a0-17c3-4140-800f-038982f004a6]

@@ -1,0 +1,31 @@
+id: new-belgian-chamber-orchestra-1991
+performers:
+- name: New Belgian Chamber Orchestra
+  role: orchestra
+- name: Vanessa‐Mae
+  role: violin
+- name: Nicholas Cleobury
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/981e889a-3f5b-44fb-8b58-dee13c823ed8
+  title: Kids’ Classics
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 60f6e20c-e9f1-47c7-8e9c-19bfea3732e0
+  recordings: [209bbdb2-8427-4698-8019-ebeb582f1372]

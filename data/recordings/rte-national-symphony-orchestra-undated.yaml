@@ -1,0 +1,30 @@
+id: rte-national-symphony-orchestra-undated
+performers:
+- name: RTÉ National Symphony Orchestra
+  role: orchestra
+- name: William Dowdall
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/60040538-ffb2-4555-9f37-88defcb324dd
+  title: Classical Sounds
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1348b9ee-16de-4d09-8734-9c4b930e8458
+  recordings: [a91bb716-9eb4-4515-8fd7-f566f3b8cd4d]

@@ -1,0 +1,29 @@
+id: stuttgarter-kammerorchester-1966
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c19c9ab2-8d4a-4b9a-8517-1aabdc2dc56b
+  title: Brandenburg Concertos 4‐6 / Air / Sinfonia
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [a453c7c3-55bf-4b5c-aa96-a32d1a2682f6]

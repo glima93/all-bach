@@ -1,0 +1,28 @@
+id: paul-winter-consort-undated
+performers:
+- name: Paul Winter Consort
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: A&M Studios
+released: 1969
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/14f3386b-12ef-4ed8-9bbc-2cdf702a0559
+  title: Something in the Wind
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With drums (drum set), saxophone.
+musicbrainz:
+  artist: 9b77f3fb-b702-4a2d-a370-37e0624e0709
+  recordings: [8d9f3e58-df76-4751-b252-12d7c7a6696b]

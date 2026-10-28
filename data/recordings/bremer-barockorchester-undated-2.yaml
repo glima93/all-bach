@@ -1,0 +1,30 @@
+id: bremer-barockorchester-undated-2
+performers:
+- name: Bremer Barockorchester
+  role: orchestra
+- name: Néstor Fabián Cortés Garzón
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/695c6cad-a3a3-47cc-86b5-afcca6fe6dfd
+  title: Bach to the Roots!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b9a9589e-e9cc-40cf-b197-388f69a0c2b1
+  recordings: [b367b97a-1af6-4ecd-a4aa-34f2bcc2322c]

@@ -1,0 +1,28 @@
+id: solinger-streichquartett-undated
+performers:
+- name: Solinger Streichquartett
+  role: strings
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: St Georges Catholic Church
+released: 2000
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b899bba8-47f7-49f8-a63a-361c2dbf83a8
+  title: Nachtmusik
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 68102944-b501-4e08-8d37-7067ae394ecd
+  recordings: [419a80fe-55a8-460b-b1a0-2af846fdea14]

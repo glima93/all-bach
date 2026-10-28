@@ -1,0 +1,32 @@
+id: orchester-pro-arte-munchen-undated
+performers:
+- name: Orchester Pro Arte München
+  role: orchestra
+- name: Leonard Hokanson
+  role: harpsichord
+- name: Kurt Redel
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1971
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c0649303-8d71-443d-82d9-1fe5b84c60fc
+  title: Music for the Millions 5
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed05f1ef-562f-49d3-9aac-bfc864acf1a2
+  recordings: [016c52c6-b166-4340-867c-09fab2caeb3d]

@@ -1,0 +1,29 @@
+id: soichi-muraji-undated-2
+performers:
+- name: Soichi Muraji
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ade9747b-c6c0-4da4-87dc-bf049a920eb8
+  title: シャコンヌ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: d8aee7db-c609-421d-863f-05a279b00ff0
+  recordings: [413ccddb-6257-4643-9d1b-9ecf4df83be2]

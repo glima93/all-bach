@@ -1,0 +1,29 @@
+id: sax-allemande-undated
+performers:
+- name: Sax Allemande
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [V. Menuet I & II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f4913734-d2eb-4499-9bd5-dd8f8eae7c6b
+  title: Best of Klassik 2009
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e658bf55-ff28-4467-aab9-faa3f4275c0f
+  recordings: [973bae3f-219d-423e-baef-1443900533a6]

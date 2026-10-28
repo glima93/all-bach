@@ -27,9 +27,9 @@ collections:
 - {id: brandenburg, title: "Brandenburg Concertos", chapter: Orchestral, bwv: ["1046-1051"], mode: ensemble, mb_parent: 7481c7f5-71bd-464e-956a-c670f4117de3, wave: 0, run: 0, status: done}
 
 # ── Wave 1: instrumental works the current pipeline can take (after Phase 0) ──────────────
-- {id: orchestral-suites, title: "Orchestral Suites", chapter: Orchestral, bwv: ["1066-1071"], mode: ensemble, wave: 1, run: 1, status: queued,
+- {id: orchestral-suites, title: "Orchestral Suites", chapter: Orchestral, bwv: ["1066-1071"], mode: ensemble, wave: 1, run: 1, status: imported,
    note: "1070 is doubtful; 1071 is the early Sinfonia version of Brandenburg No. 1"}
-- {id: violin-concertos, title: "Violin Concertos", chapter: Orchestral, bwv: ["1041-1045"], mode: ensemble, wave: 1, run: 2, status: todo,
+- {id: violin-concertos, title: "Violin Concertos", chapter: Orchestral, bwv: ["1041-1045"], mode: ensemble, wave: 1, run: 2, status: queued,
    note: "1043 double concerto, 1044 triple concerto (flute, violin, harpsichord), 1045 sinfonia fragment"}
 - {id: harpsichord-concertos, title: "Harpsichord Concertos", chapter: Orchestral, bwv: ["1052-1065"], mode: ensemble, wave: 1, run: 3, status: todo,
    note: "1052–1059 one harpsichord, 1060–1062 two, 1063–1064 three, 1065 four (after Vivaldi). Piano soloists are common: file the piano, not as an arrangement"}

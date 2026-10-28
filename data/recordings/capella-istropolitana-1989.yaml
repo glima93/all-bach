@@ -1,0 +1,42 @@
+id: capella-istropolitana-1989
+performers:
+- name: Capella Istropolitana
+  role: orchestra
+- name: Jaroslav Dvořák
+  role: performer
+- name: Richard Edlinger
+  role: performer
+- name: Oliver von Dohnányi
+  role: performer
+- name: Lutz Görner
+  role: performer
+- name: Takako Nishizaki
+  role: performer
+- name: Milan Brunner
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989]
+  place: Moyzesova sieň
+released: 1988
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+- {bwv: '1070', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0de09809-c560-4216-b38e-6aa90cc58d3d
+  title: 'Suites (Overtures), Volume 1: Nos. 1 - 2 (BWV 1066 and 1067)'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e7119b5-a3a0-4d78-b8c8-55778f8b618c
+  recordings: [2f30ae92-ad6c-404f-ad90-22cb82ebfd6a]

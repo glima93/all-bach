@@ -1,0 +1,28 @@
+id: wiener-philharmoniker-2025
+performers:
+- name: Wiener Philharmoniker
+  role: orchestra
+- name: Tugan Sokhiev
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2025]
+  place: Schönbrunn Palace
+released: 2025
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/891e2d3f-476b-4eb7-b725-152955e0b815
+  title: Sommernachtskonzert 2025
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d770374d-05e9-4ed3-a068-3fbd4e6e4dd6
+  recordings: [b9de2125-9169-46c4-9ba8-2ed9c062066a]

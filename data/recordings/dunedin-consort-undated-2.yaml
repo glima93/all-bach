@@ -1,0 +1,33 @@
+id: dunedin-consort-undated-2
+performers:
+- name: Dunedin Consort
+  role: ensemble
+- name: John Butt
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f6871dc-3272-4d71-b25b-f6ad47d04947
+  title: Orchestral Suites BWV 1066-1069
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1cca9a39-48c5-48f8-9710-969f81c4d319
+  recordings: [56e093fb-1672-4d07-b9ca-edadf5998b9f]

@@ -1,0 +1,30 @@
+id: kammermusikvereinigung-des-leipziger-gewandhauses-undated
+performers:
+- name: Kammermusikvereinigung des Leipziger Gewandhauses
+  role: orchestra
+- name: Max Pommer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/faaab484-2003-46a5-bc29-48ddcd04920d
+  title: East German Revolution
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9d33755e-ae89-4974-93dc-d66c3c0f84bd
+  recordings: [2af9c550-142d-4657-97bf-6896608c5923]

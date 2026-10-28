@@ -1,0 +1,35 @@
+id: academy-of-st-martin-in-the-fields-1970
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Neville Marriner
+  role: performer
+- name: Thurston Dart
+  role: harpsichord
+- name: William Bennett
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: St John’s, Smith Square
+released: 1984
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f5f7f909-7146-3ccc-b423-00c875a4fef4
+  title: Orchestral Suites 1 - 4
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [38b736c3-9641-471e-bbf8-183ded6ff5af]

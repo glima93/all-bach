@@ -1,0 +1,31 @@
+id: orchestre-de-la-suisse-romande-1961
+performers:
+- name: Orchestre de la Suisse Romande
+  role: orchestra
+- name: Ernest Ansermet
+  role: conductor
+- name: André Pépin
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: Victoria Hall
+released: 2023
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a500975b-984b-420d-9efc-310bb275a0ab
+  title: The Stereo Years
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9914f9f9-36c0-4156-8799-6544c60ab08c
+  recordings: [34c5a098-84ef-4aae-a217-8ddded81e8f2]

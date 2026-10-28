@@ -1,0 +1,28 @@
+id: james-galway-undated
+performers:
+- name: James Galway
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [II. Rondeau, IV. Bourrée I & II, VI. Menuet, VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b599cb12-5f0a-4273-a348-65bfd5be378d
+  title: The Simply Classical Collection
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84045b93-beb0-4bc8-a855-93266ec6bbdc
+  recordings: [b40bb9d0-048c-42f3-9d38-943d7e49a6e1]

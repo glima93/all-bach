@@ -1,0 +1,29 @@
+id: rebecca-arons-undated-3
+performers:
+- name: Rebecca Arons
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f3a7fde8-91e9-4478-8b2e-5288e1a03228
+  title: 'Lifescapes: The Classical Music For Reading Collection'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d5203e88-e3cf-472e-91b5-4f49f4d09014
+  recordings: [00239a9e-b9c0-4d66-b697-18efa89cd4f0]

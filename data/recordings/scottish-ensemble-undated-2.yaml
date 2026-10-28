@@ -1,0 +1,30 @@
+id: scottish-ensemble-undated-2
+performers:
+- name: Scottish Ensemble
+  role: orchestra
+- name: Jonathan Rees
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55712a99-23b9-41cd-bafa-3aec925f1357
+  title: 'Albinoni: Adagio / Pachelbel: Canon'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 59b02900-5495-4e6d-bb65-c5354c3768e4
+  recordings: [a4d798d8-f935-4e8f-b881-fc7a8b439c47]

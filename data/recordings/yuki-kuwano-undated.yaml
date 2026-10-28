@@ -1,0 +1,29 @@
+id: yuki-kuwano-undated
+performers:
+- name: Yuki Kuwano
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/70df22ab-ba54-42ae-9a82-bed6dcb73d7a
+  title: Classic Goes Lounge
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c77d2b1b-9d4f-405b-9b28-cc73e1f81c99
+  recordings: [761437b8-f253-4eeb-9c0f-03b7a4d1db2b]

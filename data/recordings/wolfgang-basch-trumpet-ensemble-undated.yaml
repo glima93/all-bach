@@ -1,0 +1,38 @@
+id: wolfgang-basch-trumpet-ensemble-undated
+performers:
+- name: Wolfgang Basch Trumpet Ensemble
+  role: trumpet
+- name: Deutsche Bachsolisten
+  role: orchestra
+- name: Helmut Winschermann
+  role: conductor
+- name: Wolfgang Hock
+  role: violin
+- name: Ralph Peinkofer
+  role: timpani
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+- {bwv: '1069', complete: false, movements: [V. Réjouissance]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0972f1d9-fc00-4ee1-a8fe-795e7106d735
+  title: 'Pachelbel: Canon / Baroque Favorites'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1d061a68-47b7-457a-b0b0-dd35e5e045be
+  recordings: [66d9c661-bdcd-4c03-8de6-6288ff63cc53]

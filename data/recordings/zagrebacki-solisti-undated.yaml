@@ -1,0 +1,32 @@
+id: zagrebacki-solisti-undated
+performers:
+- name: Zagrebački solisti
+  role: orchestra
+- name: James Galway
+  role: conductor
+- name: Tonko Ninić
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1978
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3f48b2e3-6f6e-46ea-a20d-51ef2f381b7d
+  title: James Galway Plays Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e3573325-ec7c-43c9-8025-80895df6d043
+  recordings: [562d2371-c78f-4c75-b4f8-27213808ee05]

@@ -1,0 +1,26 @@
+id: munich-philharmonic-chamber-orchestra-2016
+performers:
+- name: Munich Philharmonic Chamber Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Himmelfahrtskirche
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dbecf681-66a5-4cb3-b0ba-21a8028443b6
+  title: '2016-10-30: Himmelfahrtskirche, Munich, Germany'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: ba5e7758-3154-4c43-8b0f-01cca0297a60
+  recordings: [4b43b138-9a7f-46d6-9fa5-58d21c2493ec]

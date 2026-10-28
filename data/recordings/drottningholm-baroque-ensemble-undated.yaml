@@ -1,0 +1,30 @@
+id: drottningholm-baroque-ensemble-undated
+performers:
+- name: Drottningholm Baroque Ensemble
+  role: ensemble
+- name: Penelope Evison
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1067', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0930e5f2-d55e-4cc1-b212-1d5386e3869d
+  title: 'Rise of the Masters: 100 Supreme Classical Masterpieces: Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 07fed070-218e-42bb-b0f4-37efae12fc7c
+  recordings: [3d7e3ce7-4f79-4a7e-95fc-0ea2933b53c6]

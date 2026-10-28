@@ -1,0 +1,32 @@
+id: english-baroque-soloists-1983
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1983]
+  place: St. Giles’ without Cripplegate
+released: 1985
+original_label: null
+works:
+- {bwv: '1066', complete: false, movements: [I. Ouverture, II. Courante, III. Gavotte I & II, IV. Forlane, VI. Bourrée
+      I & II, VII. Passepied I & II]}
+- {bwv: '1067', complete: false, movements: [III. Sarabande, IV. Bourrée I & II, V. Polonaise & Double, VI. Menuet]}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b638a3a6-7385-403e-a0d3-6914bbdf9747
+  title: The Four Orchestral Suites, S. 1066-1069
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [6eda3f2d-d775-4a6c-b05d-2343385c3245]

@@ -1,0 +1,19 @@
+bwv: "1066"
+title: Orchestral Suite No. 1
+key: C major
+collection: Orchestral Suites
+genre: orchestral
+scoring: 2 oboes, bassoon, strings and continuo
+composed: Probably Köthen or earlier; the oldest surviving parts were copied in Leipzig around 1724–25
+movements:
+  - "I. Ouverture"
+  - "II. Courante"
+  - "III. Gavotte I & II"
+  - "IV. Forlane"
+  - "V. Menuet I & II"
+  - "VI. Bourrée I & II"
+  - "VII. Passepied I & II"
+notes: Bach called these works ouvertures, after the French overture that opens each one and is followed by a string of dances. The Forlane is a Venetian dance found nowhere else in his music.
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Orchestral_suites_(Bach)
+  bach_digital: null

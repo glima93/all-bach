@@ -1,0 +1,28 @@
+id: trondheimsolistene-2007
+performers:
+- name: TrondheimSolistene
+  role: orchestra
+- name: Anne‐Sophie Mutter
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: Friedrich-Ebert-Halle
+released: 2008
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3fd74fff-1e26-48f3-968f-db32a00b6eec
+  title: 'Bach: Violin Concertos / Gubaidulina: In tempus praesens'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 44c7597e-bc59-4eb6-aaf1-af52ce2cff9e
+  recordings: [35611aee-627e-415f-b3ec-8d1f967fe969]

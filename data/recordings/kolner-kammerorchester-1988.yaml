@@ -1,0 +1,47 @@
+id: kolner-kammerorchester-1988
+performers:
+- name: Kölner Kammerorchester
+  role: orchestra
+- name: Helmut Müller‐Brühl
+  role: conductor
+- name: Karl Kaiser
+  role: performer
+- name: Bettina Eger
+  role: oboe
+- name: Ute Hartwich
+  role: performer
+- name: Martin Kevenhörster
+  role: bassoon
+- name: Hans-Martin Kothe
+  role: performer
+- name: Stefan Rapp
+  role: performer
+- name: Almut Rux
+  role: performer
+- name: Anja Schmiel
+  role: oboe
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: Deutschlandradio Studios
+released: 1996
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/042a26dc-f4b3-407e-b82a-5fa7907dc475
+  title: Complete Orchestral Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b93816c3-b729-439c-95f3-d9976e0620cc
+  recordings: [76d7c684-2c0e-45aa-9677-107c437356a0]

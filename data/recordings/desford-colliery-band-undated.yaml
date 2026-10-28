@@ -1,0 +1,29 @@
+id: desford-colliery-band-undated
+performers:
+- name: Desford Colliery Band
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/759e3eee-010f-4394-84ec-acf11b73f813
+  title: Strike Up the Band
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 71e36816-0ccc-420a-a0bc-1b5a32c86f25
+  recordings: [24ef9e35-866c-4543-94d6-545289695e45]

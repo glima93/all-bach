@@ -1,0 +1,33 @@
+id: chamber-orchestra-of-europe-undated
+performers:
+- name: Chamber Orchestra of Europe
+  role: orchestra
+- name: Renaud Capuçon
+  role: conductor
+- name: François Leleux
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ed9a4263-e718-42cc-9112-c451e21a4c4a
+  title: Distant Light
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3f221c60-2568-40f5-b1c3-625fed319258
+  recordings: [ad950449-8fdc-470e-bae1-d8492650bfa4]

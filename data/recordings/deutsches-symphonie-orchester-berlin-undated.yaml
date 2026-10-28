@@ -1,0 +1,37 @@
+id: deutsches-symphonie-orchester-berlin-undated
+performers:
+- name: Deutsches Symphonie‐Orchester Berlin
+  role: orchestra
+- name: Lorin Maazel
+  role: conductor
+- name: Roger Bourdin
+  role: performer
+- name: Wolfgang Meyer
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1970
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/edcc5c75-c552-41db-83ed-c434f48554d9
+  title: The Four Orchestral Suites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5010b425-bf4e-41b1-93a7-f8729794558b
+  recordings: [21e657df-1e4a-4681-a316-3e1fa754eee1]

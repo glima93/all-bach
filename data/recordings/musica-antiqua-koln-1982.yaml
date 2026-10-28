@@ -1,0 +1,32 @@
+id: musica-antiqua-koln-1982
+performers:
+- name: Musica Antiqua Köln
+  role: orchestra
+- name: Reinhard Goebel
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1982, 1985]
+  place: Friedrich-Ebert-Halle
+released: 1983
+original_label: null
+works:
+- {bwv: '1066', complete: true}
+- {bwv: '1067', complete: true}
+- {bwv: '1068', complete: true}
+- {bwv: '1069', complete: true}
+- {bwv: '1070', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d1511d95-8c56-4fba-a37f-99c1be5a8714
+  title: 'Pachelbel: Kanon & Gigue / J.S. Bach / Handel / Vivaldi'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 16f26d89-eabf-46fd-9786-4b66bb9a2302
+  recordings: [eaf730c3-fa24-438f-8218-2d98ab52335f]

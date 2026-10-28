@@ -1,0 +1,30 @@
+id: new-york-philharmonic-undated
+performers:
+- name: New York Philharmonic
+  role: orchestra
+- name: André Kostelanetz
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f6f40b3d-32bf-4ae9-a511-681cb420a66a
+  title: Classical Jukebox, Vol. II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7cdb68bc-c4f1-4a92-9bd2-739641c5eff0
+  recordings: [d2779e1d-4d10-46f4-a22b-faa5336df10d]

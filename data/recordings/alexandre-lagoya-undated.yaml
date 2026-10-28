@@ -1,0 +1,31 @@
+id: alexandre-lagoya-undated
+performers:
+- name: Alexandre Lagoya
+  role: guitar
+- name: Simion Stanciu
+  role: pan flute
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [II. Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b268081d-25b5-4080-a939-7505b6152465
+  title: The Magic of Syrinx
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: 96d81072-051a-4323-b28b-1b201279cdfe
+  recordings: [aed5789a-bf43-4395-bb20-4f7e074ca828]

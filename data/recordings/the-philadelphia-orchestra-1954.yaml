@@ -1,0 +1,28 @@
+id: the-philadelphia-orchestra-1954
+performers:
+- name: The Philadelphia Orchestra
+  role: orchestra
+- name: Eugene Ormandy
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1954]
+  place: Academy of Music
+released: 2021
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9abb63b6-5fe0-4bec-a76d-43aad9349d0f
+  title: The Columbia Legacy
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ff3fcff7-6c85-49d6-b954-ed7011a44e5a
+  recordings: [8eb560cb-36ed-4c4e-af6f-59aeb26d6755]

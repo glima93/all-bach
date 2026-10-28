@@ -1,0 +1,29 @@
+id: stuttgarter-kammerorchester-1967
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1967]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a3bc5ff-c84f-4dc4-9846-d34dda1c168c
+  title: Classics From Adverts
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [9953dd7f-042e-4e34-aa87-9fee0059a3f9]

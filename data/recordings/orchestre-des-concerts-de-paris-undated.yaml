@@ -1,0 +1,34 @@
+id: orchestre-des-concerts-de-paris-undated
+performers:
+- name: Orchestre des Concerts de Paris
+  role: orchestra
+- name: Pierre Fournier
+  role: cello
+- name: Jean-Marie Auberson
+  role: conductor
+- name: Boris Mersson
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d26c29f6-f3fa-43c7-97c0-3f9bec15ae16
+  title: The Joys of Light Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c3aa140f-0121-43e5-b44d-39578c29f57a
+  recordings: [9395640f-21fd-45fb-b7aa-74643f1bed14]

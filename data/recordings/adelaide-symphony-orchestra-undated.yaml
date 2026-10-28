@@ -1,0 +1,34 @@
+id: adelaide-symphony-orchestra-undated
+performers:
+- name: Adelaide Symphony Orchestra
+  role: orchestra
+- name: Ron Spigelman
+  role: conductor
+- name: David Stanhope
+  role: performer
+- name: José Serebrier
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/62d5f8ff-99b1-4bfb-aed1-6cbadee0627f
+  title: Melbourne Symphony
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29dffb8e-db55-4d74-9c50-d06bcacfebef
+  recordings: [c4a541f2-1b58-485e-9635-7fb8d39bb98b]

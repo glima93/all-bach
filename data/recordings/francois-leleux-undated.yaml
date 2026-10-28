@@ -1,0 +1,28 @@
+id: francois-leleux-undated
+performers:
+- name: François Leleux
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f525140-5f09-4c13-9535-9b3a8a2f4300
+  title: Ich mag keine Klassik, aber Adagios gefallen mir!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: be1dd3f8-759e-4508-9100-e2a585006f89
+  recordings: [8b1cd2bc-02ed-49be-b872-cf3e11d1fc79]

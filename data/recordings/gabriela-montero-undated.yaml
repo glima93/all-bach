@@ -1,0 +1,29 @@
+id: gabriela-montero-undated
+performers:
+- name: Gabriela Montero
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [II. Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7610b58e-2a20-43e4-8d87-df79c3a14d20
+  title: Bach and Beyond
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1d8dc1fd-d345-4030-b62c-00046136eef4
+  recordings: [4f85eac4-6a65-40fa-9d2d-11a394ec0c0f]

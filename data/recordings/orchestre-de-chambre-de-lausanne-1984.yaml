@@ -1,0 +1,31 @@
+id: orchestre-de-chambre-de-lausanne-1984
+performers:
+- name: Orchestre de Chambre de Lausanne
+  role: orchestra
+- name: Syrinx
+  role: performer
+- name: Armin Jordan
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1984]
+  place: Salle communale d’Epalinges
+released: 1985
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8cd2888-2144-4271-bcd3-03bf816465eb
+  title: Syrinx Plays Bach, Mozart, Quantz
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9cf920f-3b1d-4577-a104-5a3d462cefa6
+  recordings: [be8c5dcf-273f-45c6-8c11-1d0fa7753123]

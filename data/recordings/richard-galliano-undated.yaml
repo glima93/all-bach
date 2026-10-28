@@ -1,0 +1,29 @@
+id: richard-galliano-undated
+performers:
+- name: Richard Galliano
+  role: bandoneón
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/05909b27-18c5-47dc-bcd8-971a7f25ab79
+  title: Galliano | Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on bandoneón.
+musicbrainz:
+  artist: 8581affe-38e6-4659-b81b-6058ff40cf45
+  recordings: [a4bd18b2-5abc-41f7-ac74-f5b57d1ca3ed]

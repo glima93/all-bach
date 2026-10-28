@@ -1,0 +1,30 @@
+id: cambridge-chamber-orchestra-undated-2
+performers:
+- name: Cambridge Chamber Orchestra
+  role: orchestra
+- name: Rolf Smedvig
+  role: trumpet
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1067', complete: false, movements: [II. Rondeau, VII. Badinerie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d855cdad-f711-4d37-bff1-bddccb5e2e47
+  title: Glory of the Baroque
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e60c3727-7883-4e71-b745-e2acb484291b
+  recordings: [3956527d-9f36-42da-85a9-66d622a7a0c4]

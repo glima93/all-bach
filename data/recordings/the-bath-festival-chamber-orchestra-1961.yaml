@@ -1,0 +1,29 @@
+id: the-bath-festival-chamber-orchestra-1961
+performers:
+- name: The Bath Festival Chamber Orchestra
+  role: orchestra
+- name: Yehudi Menuhin
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: null
+released: 1962
+original_label: null
+works:
+- {bwv: '1068', complete: false, movements: [II. Air]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/48fee9d5-78fd-4f58-a94d-93851177e508
+  title: 'Suites pour orchestre: suites n°3 et n°4'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc6cebc8-6e51-464e-8589-6ae1c498f5d9
+  recordings: [1899c88d-1507-47ca-a918-06ab95d9a642]
