@@ -25,6 +25,10 @@ site-template/    the page design
 
 **Links** point to listening services (Spotify, Apple Music, YouTube, Idagio …). The site never calls a streaming API; links are stored as plain URLs.
 
+## What comes next
+
+The rest of the catalogue, BWV 1–1128, is split into 47 more collections and 36 scheduled runs: see [docs/catalogue-plan.md](docs/catalogue-plan.md) and the list in [data/plan/collections.yaml](data/plan/collections.yaml).
+
 ## Run it locally
 
 ```

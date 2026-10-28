@@ -20,6 +20,7 @@ jobs:
           python-version: "3.12"
       - run: pip install pyyaml jsonschema
       - run: python scripts/validate.py
+      - run: python scripts/plan_coverage.py
       - run: python scripts/build.py
       - if: github.event_name == 'push'
         uses: actions/upload-pages-artifact@v3

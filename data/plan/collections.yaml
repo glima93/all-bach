@@ -1,0 +1,107 @@
+# The whole BWV catalogue (BWV 1–1128), split into the collections the shelf will show.
+#
+# Every BWV number from 1 to 1128 belongs to exactly one collection; `python scripts/plan_coverage.py`
+# checks that. Numbers are BWV2a (1998), the numbering MusicBrainz and most recordings use. Lost works and
+# vacant numbers stay in their collection: they simply get no recordings.
+#
+# Fields
+#   id        short name, also used for the snapshot file (data/sources/musicbrainz-<id>.json)
+#   title     shelf title
+#   chapter   BWV chapter, used to group volumes on the shelf
+#   bwv       numbers and ranges ("1066-1071")
+#   mode      how the importer reads performers (see docs/catalogue-plan.md, "Importer modes")
+#   wave      1 = instrumental, existing pipeline; 2 = needs the vocal mode; 3 = long tail
+#   run       the scheduled run that collects it (runs go in order; small collections share a run)
+#   status    done | todo | collecting | imported
+#   note      anything a run must know
+
+collections:
+
+# ── Already on the site ──────────────────────────────────────────────────────────────────
+- {id: wtc, title: "The Well-Tempered Clavier", chapter: Keyboard, bwv: ["846-893"], mode: keyboard, wave: 0, run: 0, status: done}
+- {id: goldberg, title: "Goldberg Variations", chapter: Keyboard, bwv: ["988"], mode: keyboard, wave: 0, run: 0, status: done}
+- {id: violin-solo, title: "Sonatas and Partitas for solo violin", chapter: Chamber, bwv: ["1001-1006"], mode: solo, wave: 0, run: 0, status: done}
+- {id: cello-suites, title: "Six Suites for Violoncello solo", chapter: Chamber, bwv: ["1007-1012"], mode: solo, wave: 0, run: 0, status: done}
+- {id: brandenburg, title: "Brandenburg Concertos", chapter: Orchestral, bwv: ["1046-1051"], mode: ensemble, wave: 0, run: 0, status: done}
+
+# ── Wave 1: instrumental works the current pipeline can take (after Phase 0) ──────────────
+- {id: orchestral-suites, title: "Orchestral Suites", chapter: Orchestral, bwv: ["1066-1071"], mode: ensemble, wave: 1, run: 1, status: todo,
+   note: "1070 is doubtful; 1071 is the early Sinfonia version of Brandenburg No. 1"}
+- {id: violin-concertos, title: "Violin Concertos", chapter: Orchestral, bwv: ["1041-1045"], mode: ensemble, wave: 1, run: 2, status: todo,
+   note: "1043 double concerto, 1044 triple concerto (flute, violin, harpsichord), 1045 sinfonia fragment"}
+- {id: harpsichord-concertos, title: "Harpsichord Concertos", chapter: Orchestral, bwv: ["1052-1065"], mode: ensemble, wave: 1, run: 3, status: todo,
+   note: "1052–1059 one harpsichord, 1060–1062 two, 1063–1064 three, 1065 four (after Vivaldi). Piano soloists are common: file the piano, not as an arrangement"}
+- {id: english-suites, title: "English Suites", chapter: Keyboard, bwv: ["806-811"], mode: keyboard, wave: 1, run: 4, status: todo}
+- {id: french-suites, title: "French Suites", chapter: Keyboard, bwv: ["812-817"], mode: keyboard, wave: 1, run: 5, status: todo}
+- {id: partitas, title: "Partitas (Clavier-Übung I)", chapter: Keyboard, bwv: ["825-830"], mode: keyboard, wave: 1, run: 6, status: todo}
+- {id: inventions-sinfonias, title: "Inventions and Sinfonias", chapter: Keyboard, bwv: ["772-801"], mode: keyboard, wave: 1, run: 7, status: todo,
+   note: "772a etc. are early versions; keep them on the main work's page"}
+- {id: clavier-ubung-ii, title: "Italian Concerto and French Overture (Clavier-Übung II)", chapter: Keyboard, bwv: ["831", "971"], mode: keyboard, wave: 1, run: 8, status: todo}
+- {id: art-of-fugue, title: "The Art of Fugue", chapter: Late contrapuntal works, bwv: ["1080"], mode: open, wave: 1, run: 8, status: todo,
+   note: "No scoring: harpsichord, organ, piano, string quartet, viol consort and orchestra are all native. Movement order differs between editions"}
+- {id: musical-offering, title: "The Musical Offering", chapter: Late contrapuntal works, bwv: ["1079"], mode: open, wave: 1, run: 9, status: todo,
+   note: "Ricercars on keyboard, canons and trio sonata for mixed forces; movement order varies by edition"}
+- {id: violin-keyboard-sonatas, title: "Sonatas for violin and harpsichord", chapter: Chamber, bwv: ["1014-1026"], mode: chamber, wave: 1, run: 10, status: todo,
+   note: "1014–1019 the six sonatas; 1020–1026 other violin works (several doubtful)"}
+- {id: gamba-sonatas, title: "Sonatas for viola da gamba and harpsichord", chapter: Chamber, bwv: ["1027-1029"], mode: chamber, wave: 1, run: 11, status: todo,
+   note: "Cello and viola versions are common: file the instrument, modern practice, not an arrangement"}
+- {id: flute-works, title: "Flute Sonatas and Partita", chapter: Chamber, bwv: ["1013", "1030-1035"], mode: chamber, wave: 1, run: 11, status: todo,
+   note: "1013 is the solo partita (mode solo for that work); 1031 and 1033 doubtful"}
+- {id: chamber-trio-sonatas, title: "Trio Sonatas", chapter: Chamber, bwv: ["1036-1040"], mode: chamber, wave: 1, run: 12, status: todo,
+   note: "1038 and 1039 (= gamba sonata 1027); 1036 and 1037 are spurious"}
+- {id: lute-works, title: "Works for lute", chapter: Lute, bwv: ["995-1000"], mode: lute, wave: 1, run: 12, status: todo,
+   note: "Most recordings are on guitar; lute-harpsichord too. Decide how to file guitar before importing (see plan, decision 3)"}
+- {id: toccatas, title: "Toccatas", chapter: Keyboard, bwv: ["910-916"], mode: keyboard, wave: 1, run: 13, status: todo}
+- {id: keyboard-preludes-fugues, title: "Fantasias, Preludes and Fugues for keyboard", chapter: Keyboard, bwv: ["894-909", "917-923", "944-962"], mode: keyboard, wave: 1, run: 13, status: todo,
+   note: "Includes the Chromatic Fantasia and Fugue (903)"}
+- {id: keyboard-transcriptions, title: "Concerto transcriptions for keyboard", chapter: Keyboard, bwv: ["972-987"], mode: keyboard, wave: 1, run: 14, status: todo,
+   note: "After Vivaldi, Marcello, Telemann and others"}
+- {id: little-preludes, title: "Little Preludes", chapter: Keyboard, bwv: ["924-943"], mode: keyboard, wave: 1, run: 14, status: todo}
+- {id: keyboard-sonatas-variations, title: "Sonatas, Variations and Capriccios", chapter: Keyboard, bwv: ["963-970", "989-994"], mode: keyboard, wave: 1, run: 15, status: todo,
+   note: "Includes the Capriccio on the departure of a beloved brother (992) and the Aria variata (989)"}
+- {id: other-keyboard-suites, title: "Other suites and pieces for keyboard", chapter: Keyboard, bwv: ["818-824", "832-845"], mode: keyboard, wave: 1, run: 15, status: todo}
+- {id: organ-preludes-fugues, title: "Preludes and Fugues for organ", chapter: Organ, bwv: ["531-551"], mode: organ, wave: 1, run: 16, status: todo}
+- {id: organ-free-works, title: "Toccatas, Fantasias and other free works for organ", chapter: Organ, bwv: ["561-591", "1121"], mode: organ, wave: 1, run: 17, status: todo,
+   note: "Toccata and Fugue in D minor (565), Passacaglia (582), Dorian Toccata (538), Pastorale (590). Piano transcriptions (Busoni) are separate MusicBrainz works"}
+- {id: organ-trio-sonatas, title: "Trio Sonatas for organ", chapter: Organ, bwv: ["525-530"], mode: organ, wave: 1, run: 18, status: todo}
+- {id: organ-concertos, title: "Concerto transcriptions for organ", chapter: Organ, bwv: ["592-598"], mode: organ, wave: 1, run: 18, status: todo,
+   note: "597 doubtful; 598 is a pedal exercise"}
+- {id: orgelbuchlein, title: "Orgelbüchlein", chapter: Organ, bwv: ["599-644"], mode: organ, wave: 1, run: 19, status: todo}
+- {id: schubler, title: "Schübler Chorales", chapter: Organ, bwv: ["645-650"], mode: organ, wave: 1, run: 20, status: todo}
+- {id: great-eighteen, title: "Great Eighteen Chorale Preludes", chapter: Organ, bwv: ["651-668"], mode: organ, wave: 1, run: 20, status: todo}
+- {id: clavier-ubung-iii, title: "Clavier-Übung III", chapter: Organ, bwv: ["552", "669-689", "802-805"], mode: organ, wave: 1, run: 21, status: todo,
+   note: "The St Anne Prelude and Fugue (552) frames the set; the four Duets (802–805) are manuals-only and often played on harpsichord or piano (native)"}
+
+# ── Wave 2: vocal works (needs the vocal importer mode) ───────────────────────────────────
+- {id: mass-in-b-minor, title: "Mass in B minor", chapter: Masses and Magnificat, bwv: ["232"], mode: vocal, wave: 2, run: 22, status: todo}
+- {id: magnificat, title: "Magnificat", chapter: Masses and Magnificat, bwv: ["243"], mode: vocal, wave: 2, run: 22, status: todo,
+   note: "243a is the E-flat version with Christmas interpolations"}
+- {id: passions, title: "Passions", chapter: Passions and Oratorios, bwv: ["244-247"], mode: vocal, wave: 2, run: 23, status: todo,
+   note: "246 St Luke is spurious; 247 St Mark is lost (reconstructions get their own entries if MusicBrainz has them)"}
+- {id: oratorios, title: "Oratorios", chapter: Passions and Oratorios, bwv: ["248", "249", "11"], mode: vocal, wave: 2, run: 24, status: todo,
+   note: "Christmas (248, six parts), Easter (249) and Ascension (11) Oratorios"}
+- {id: motets, title: "Motets", chapter: Motets, bwv: ["225-231", "118"], mode: vocal, wave: 2, run: 25, status: todo,
+   note: "118 sits in the cantata numbers but is a motet in all but name; 231 is a reworking of a movement of cantata 28"}
+- {id: missae-breves, title: "Missae breves and mass movements", chapter: Masses and Magnificat, bwv: ["233-242"], mode: vocal, wave: 2, run: 25, status: todo}
+- {id: secular-cantatas, title: "Secular Cantatas", chapter: Cantatas, bwv: ["201-216"], mode: vocal, wave: 2, run: 26, status: todo,
+   note: "Coffee Cantata (211), Peasant Cantata (212), Hunting Cantata (208)"}
+- {id: church-cantatas, title: "Church Cantatas", chapter: Cantatas, bwv: ["1-10", "12-117", "119-200", "217-224"], mode: vocal, wave: 2, run: [27, 28, 29, 30], status: todo,
+   note: "Too big for one run: run 27 takes 1–50, 28 takes 51–100, 29 takes 101–150, 30 takes 151–200 and 217–224 (doubtful). Complete cycles (Rilling, Leusink, Koopman, Suzuki, Gardiner, Harnoncourt/Leonhardt) dominate"}
+
+# ── Wave 3: the long tail ────────────────────────────────────────────────────────────────
+- {id: kirnberger, title: "Kirnberger Chorale Preludes", chapter: Organ, bwv: ["690-713"], mode: organ, wave: 3, run: 31, status: todo}
+- {id: chorale-partitas, title: "Chorale Partitas and Variations", chapter: Organ, bwv: ["766-771"], mode: organ, wave: 3, run: 31, status: todo,
+   note: "Canonic Variations on Vom Himmel hoch (769)"}
+- {id: organ-chorale-preludes, title: "Other Chorale Preludes for organ", chapter: Organ, bwv: ["714-765", "1085", "1128"], mode: organ, wave: 3, run: 32, status: todo}
+- {id: neumeister, title: "Neumeister Chorales", chapter: Organ, bwv: ["1090-1120"], mode: organ, wave: 3, run: 33, status: todo}
+- {id: eight-short-preludes, title: "Eight Short Preludes and Fugues", chapter: Organ, bwv: ["553-560"], mode: organ, wave: 3, run: 33, status: todo,
+   note: "Probably by a pupil (Krebs?)"}
+- {id: four-part-chorales, title: "Four-part Chorales", chapter: Chorales, bwv: ["250-438"], mode: vocal, wave: 3, run: 34, status: todo,
+   note: "Single-movement works, mostly recorded as anthologies"}
+- {id: schemelli, title: "Schemelli Songbook", chapter: Songs and Arias, bwv: ["439-507"], mode: vocal, wave: 3, run: 35, status: todo}
+- {id: songs-arias, title: "Songs, Arias and Quodlibet", chapter: Songs and Arias, bwv: ["508-524"], mode: vocal, wave: 3, run: 35, status: todo,
+   note: "Bist du bei mir (508, by Stölzel) and the Anna Magdalena Notebook songs"}
+- {id: canons, title: "Canons", chapter: Late contrapuntal works, bwv: ["1072-1078", "1086", "1087"], mode: open, wave: 3, run: 36, status: todo,
+   note: "1087: the fourteen canons on the Goldberg ground"}
+- {id: additions, title: "Later additions and fragments", chapter: Additions, bwv: ["1081-1084", "1088", "1089", "1122-1127"], mode: open, wave: 3, run: 36, status: todo,
+   note: "1127 Alles mit Gott (found 2005); 1083 Tilge, Höchster (after Pergolesi)"}
