@@ -1,0 +1,27 @@
+id: alexander-paley-undated
+performers:
+- name: Alexander Paley
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Julius Blüthner Pianofortefabrik
+released: null
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd217263-f726-48ff-9767-8be9fcd943de
+  title: Goldberg-Variationen
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d6474f74-cc4e-4ae4-9693-dd9a783b8b22
+  recordings: [026cfe59-b0d4-4686-8e50-6c98c9aa3a49]

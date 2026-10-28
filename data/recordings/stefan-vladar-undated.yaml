@@ -1,0 +1,28 @@
+id: stefan-vladar-undated
+performers:
+- name: Stefan Vladar
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ba341cca-47d2-4761-b389-29d5e0215858
+  title: Classic Selection Goldberg Variationen
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 15b8f0b4-18b1-417b-9626-1db01186657d
+  recordings: [04795647-8b41-4107-b30c-35ee00f0ade5]

@@ -1,0 +1,49 @@
+id: till-fellner-2002
+performers:
+- name: Till Fellner
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2002]
+  place: Jugendstil Theater
+released: 2004
+original_label: null
+works:
+- {bwv: '846', complete: true}
+- {bwv: '847', complete: true}
+- {bwv: '848', complete: true}
+- {bwv: '849', complete: true}
+- {bwv: '850', complete: true}
+- {bwv: '851', complete: true}
+- {bwv: '852', complete: true}
+- {bwv: '853', complete: true}
+- {bwv: '854', complete: true}
+- {bwv: '855', complete: true}
+- {bwv: '856', complete: true}
+- {bwv: '857', complete: true}
+- {bwv: '858', complete: true}
+- {bwv: '859', complete: true}
+- {bwv: '860', complete: true}
+- {bwv: '861', complete: true}
+- {bwv: '862', complete: true}
+- {bwv: '863', complete: true}
+- {bwv: '864', complete: true}
+- {bwv: '865', complete: true}
+- {bwv: '866', complete: true}
+- {bwv: '867', complete: true}
+- {bwv: '868', complete: true}
+- {bwv: '869', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/26c94836-6235-46ac-92f8-8c31fbab6d8e
+  title: Das wohltemperierte Klavier, Buch I
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a9b8d25-8fd8-44e8-b95e-c7bc61f64d4b
+  recordings: [036eab7b-8ab1-4538-a9ac-8a0df52c56ff]

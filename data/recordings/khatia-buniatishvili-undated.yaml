@@ -1,0 +1,29 @@
+id: khatia-buniatishvili-undated
+performers:
+- name: Khatia Buniatishvili
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0e4ba87-f789-4e4f-9de4-44741a7e6aa1
+  title: 'Labyrinth: Ephemera'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fce26bb5-6332-4cbe-88c1-0b324301ae10
+  recordings: [7d479ffe-f1fc-4e9e-9bb5-ec0377e7b986]

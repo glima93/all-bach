@@ -1,0 +1,41 @@
+id: ton-koopman-undated
+performers:
+- name: Ton Koopman
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '856', complete: false, movements: [Fugue]}
+- {bwv: '882', complete: true}
+- {bwv: '883', complete: true}
+- {bwv: '884', complete: true}
+- {bwv: '885', complete: true}
+- {bwv: '886', complete: true}
+- {bwv: '887', complete: true}
+- {bwv: '888', complete: true}
+- {bwv: '889', complete: true}
+- {bwv: '890', complete: true}
+- {bwv: '891', complete: true}
+- {bwv: '892', complete: true}
+- {bwv: '893', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fe2d8614-5bdc-42e9-a050-6e9ae607d28e
+  title: 'Musik um uns: Sekundarbereich II'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [00c85bfd-76d6-43b5-947d-95e4db902fae]

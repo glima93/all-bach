@@ -1,0 +1,27 @@
+id: artist-1928a9f4-1982
+performers:
+- name: Григорий Соколов
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1982]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ea17207f-ac24-42c3-bef4-e1c50db0ee68
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1928a9f4-7ce0-4c68-855c-85410c5d06a7
+  recordings: [03064bd8-4a7b-4cbf-a985-2673733e597a]

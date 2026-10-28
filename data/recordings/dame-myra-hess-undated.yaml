@@ -1,0 +1,29 @@
+id: dame-myra-hess-undated
+performers:
+- name: Dame Myra Hess
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '848', complete: true}
+- {bwv: '849', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b9a512c9-f7ff-44c9-ab82-1feb2290f12e
+  title: 20 große Pianisten/20 Famous Pianists
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3016bf08-6677-4f71-9fb5-3e54cdc607bb
+  recordings: [07d70325-8447-4c46-a1b9-1b94e5917baf]

@@ -1,0 +1,28 @@
+id: anthony-adkins-undated
+performers:
+- name: Anthony Adkins
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '873', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d8585c82-ab23-4237-ba80-517b0de9b073
+  title: Anthony Adkins in concert performance
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5208489a-464b-41b1-a4e4-bd08b0faba2e
+  recordings: [07b8d5c6-4a60-4c29-96e3-83e5996ae759]

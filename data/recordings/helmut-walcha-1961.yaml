@@ -1,0 +1,26 @@
+id: helmut-walcha-1961
+performers:
+- name: Helmut Walcha
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1961]
+  place: Thienhaus Studio
+released: 1996
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e69c9a4e-998b-4585-ad76-34ad9d49b601
+  title: Le Clavier bien tempéré / Inventions / Variations Goldberg
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f4c1fd6-75c8-4c40-8fcf-0b5496c01bf2
+  recordings: [0f665fbd-ec78-4d7e-a28a-e8c8fc5427a1]

@@ -1,0 +1,27 @@
+id: lady-gaga-2022
+performers:
+- name: Lady Gaga
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2022]
+  place: ベルーナドーム
+released: 2022
+original_label: null
+works:
+- {bwv: '893', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1291573d-d33b-4e44-a92c-95000e803f93
+  title: '2022-09-04: Belluna Dome, Tokorozawa, Japan'
+status: draft
+help_wanted:
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 650e7db6-b795-4eb5-a702-5ea2fc46c848
+  recordings: [a4e81911-3607-47d2-ac73-bf342682543a]

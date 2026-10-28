@@ -1,0 +1,29 @@
+id: joel-spiegelman-undated
+performers:
+- name: Joel Spiegelman
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 1. a 1 Clav., Variatio 2. a 1 Clav., Variatio 3. Canone
+      all'Unisuono. a 1 Clav.]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99190e0e-27ef-4f92-8c6e-47a62031f952
+  title: Cinema Classics / Le più belle colonne sonore
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c19af7f-bbcc-4952-b7b9-510de9af596e
+  recordings: [48e1bccd-3d98-4ac2-96c6-04fafd47b6f4]

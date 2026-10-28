@@ -1,0 +1,41 @@
+id: phantasm-undated
+performers:
+- name: Phantasm
+  role: viol consort
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '864', complete: true}
+- {bwv: '867', complete: true}
+- {bwv: '869', complete: true}
+- {bwv: '870', complete: false, movements: [Fugue]}
+- {bwv: '871', complete: false, movements: [Fugue]}
+- {bwv: '873', complete: false, movements: [Fugue]}
+- {bwv: '875', complete: false, movements: [Fugue]}
+- {bwv: '878', complete: true}
+- {bwv: '882', complete: false, movements: [Fugue]}
+- {bwv: '883', complete: false, movements: [Fugue]}
+- {bwv: '885', complete: false, movements: [Prelude]}
+- {bwv: '888', complete: true}
+- {bwv: '890', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/902d5116-e0b2-402c-a348-a5b0603c9e9e
+  title: The Well-Tempered Consort – II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on viol consort.
+musicbrainz:
+  artist: dba2074a-0365-48d5-9865-0937ec429aa6
+  recordings: [0b586c58-9cbb-43f2-842e-0ac2242461c5]

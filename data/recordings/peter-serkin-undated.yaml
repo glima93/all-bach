@@ -1,0 +1,29 @@
+id: peter-serkin-undated
+performers:
+- name: Peter Serkin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 26. a 2 Clav.]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1db6bbdc-4eaa-48ac-84f6-ed8754947ef8
+  title: Presto! World's Fastest Classics
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ab23df5e-6dcf-4e6c-b125-1091ee50046a
+  recordings: [98703521-5eec-43e5-b2f2-dc8641d6b6cd]

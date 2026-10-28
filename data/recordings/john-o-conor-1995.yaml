@@ -1,0 +1,26 @@
+id: john-o-conor-1995
+performers:
+- name: John O’Conor
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1995]
+  place: Mechanics Hall
+released: 1995
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c5f61534-c720-4203-b07a-097ac36e4c0e
+  title: 'Autumn Songs: Popular Works for Solo Piano'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ee646a6-ff3f-4d6b-992b-9ab38299e57b
+  recordings: [2e2db9d0-c692-4474-9866-7e250828e4af]

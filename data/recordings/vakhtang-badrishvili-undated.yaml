@@ -1,0 +1,31 @@
+id: vakhtang-badrishvili-undated
+performers:
+- name: Vakhtang Badrishvili
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Variatio 1. a 1 Clav., Variatio 2. a 1 Clav., Variatio 3. Canone all'Unisuono.
+      a 1 Clav., Variatio 4. a 1 Clav., Variatio 5. a 1 ô vero 2 Clav., Variatio 6. Canone alla Seconda. a 1 Clav.,
+    Variatio 7. a 1 ô vero 2 Clav. al tempo di Giga, Variatio 8. a 2 Clav., Variatio 9. Canone alla Terza. a 1 Clav.,
+    Variatio 10. Fughetta. a 1 Clav.]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0f07f8f-7f08-4da8-8fe2-47de736cb295
+  title: Concertos for Piano and Orchestra / Goldberg Variations (excerpts)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: af8cd511-a369-4a22-adcc-cc763a389f76
+  recordings: [1b3da3c4-9e25-4881-b34e-f86ade8be49c]

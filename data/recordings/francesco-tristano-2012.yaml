@@ -1,0 +1,26 @@
+id: francesco-tristano-2012
+performers:
+- name: Francesco Tristano
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2012]
+  place: 京都コンサートホール
+released: 2012
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 30. a 1 Clav. Quodlibet]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fd0bcc41-cd8f-448a-86ed-7890cda8485e
+  title: Long Walk
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2de59ca-07b1-431f-b946-e3e5421ede63
+  recordings: [217a3ae7-7611-4db0-bf75-7de0476a4217]

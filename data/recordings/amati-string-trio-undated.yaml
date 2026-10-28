@@ -1,0 +1,29 @@
+id: amati-string-trio-undated
+performers:
+- name: Amati String Trio
+  role: bowed string instruments
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Variatio 7. a 1 ô vero 2 Clav. al tempo di Giga]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0394938-2cc5-4f60-ad64-fd738520ebf0
+  title: 'Goldberg Variations: Arrangement for string trio'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on bowed string instruments.
+musicbrainz:
+  artist: 56e90570-1c83-43c6-8d39-e591f7157d67
+  recordings: [48c19bbb-70e2-4fc5-89b0-d518a1acab85]

@@ -1,0 +1,26 @@
+id: ruth-laredo-1990
+performers:
+- name: Ruth Laredo
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1990]
+  place: Performing Arts Center
+released: null
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0067a2dd-13b0-4e7a-a172-02b9af314675
+  title: My First Recital
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c4f2f1a6-bb67-43c6-8008-3ad82557250f
+  recordings: [db4a9041-8bae-4e56-a904-dae0ea619b64]

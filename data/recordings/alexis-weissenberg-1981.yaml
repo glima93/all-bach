@@ -1,0 +1,26 @@
+id: alexis-weissenberg-1981
+performers:
+- name: Alexis Weissenberg
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1981]
+  place: Salle Wagram
+released: 2003
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/898c1f84-fb75-451c-9285-cb1d1395ee29
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3853264a-83d9-4197-9de3-c0157a9f7266
+  recordings: [0a0ca179-076c-4d11-8bb9-4b411bd09ecc]

@@ -1,0 +1,27 @@
+id: harriet-cohen-1947
+performers:
+- name: Harriet Cohen
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1947]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '849', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e95bfeb1-6769-4134-bcda-728a32df16d9
+  title: The Complete Solo Studio Recordings
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 043cbeec-3b15-415f-bb2c-2d9b92acc74a
+  recordings: [92931a2e-2c77-456a-8cee-8fd3ec77335e]

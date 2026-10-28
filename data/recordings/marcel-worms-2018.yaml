@@ -1,0 +1,31 @@
+id: marcel-worms-2018
+performers:
+- name: Marcel Worms
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2018]
+  place: Zeeuwse Concertzaal
+released: 2019
+original_label: null
+works:
+- {bwv: '850', complete: true}
+- {bwv: '855', complete: true}
+- {bwv: '862', complete: true}
+- {bwv: '866', complete: true}
+- {bwv: '881', complete: true}
+- {bwv: '893', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aa9783de-b5ea-4ad3-884f-e74b7463d6c0
+  title: '3×6: Preludes and Fugues'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a55151a6-e504-4b91-8181-17859c4180e1
+  recordings: [0041ead1-c3dd-47ee-a897-51bfeb36ba17]

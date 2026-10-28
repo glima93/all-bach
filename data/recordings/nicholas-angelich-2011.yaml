@@ -1,0 +1,26 @@
+id: nicholas-angelich-2011
+performers:
+- name: Nicholas Angelich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2011]
+  place: Curtis Auditorium
+released: 2011
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f6364a24-5cfc-4007-9940-65a8f6e438a7
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 26ef24c5-84aa-46eb-a9af-a6c8c0742493
+  recordings: [0d1bdf70-e66f-4787-8e97-b63cc3b87e95]

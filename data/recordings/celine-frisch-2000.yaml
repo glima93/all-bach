@@ -1,0 +1,26 @@
+id: celine-frisch-2000
+performers:
+- name: Céline Frisch
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Chapelle de l'hôpital Notre-Dame de Bon Secours
+released: 2001
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0820752d-1043-4572-ab36-2df3b5cc15fa
+  title: Variations Goldberg
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d277acb9-771c-4bb4-9c1b-802128e93df1
+  recordings: [00c2b559-9b81-4656-89a5-811e8b53e97c]

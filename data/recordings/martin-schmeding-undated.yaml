@@ -1,0 +1,27 @@
+id: martin-schmeding-undated
+performers:
+- name: Martin Schmeding
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Katholische Hofkirche
+released: 2009
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/06a34691-2b76-422f-9115-e03e0bc7f4c6
+  title: 'Goldberg-Variationen: Aria mit verschiedenen Veränderungen, BWV 988'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 310a2e52-2987-47fb-a173-f899b26ce17d
+  recordings: [0cb30341-c0de-4a03-8b58-a3ea83fbec66]

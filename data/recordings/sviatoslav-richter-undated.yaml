@@ -1,0 +1,31 @@
+id: sviatoslav-richter-undated
+performers:
+- name: Sviatoslav Richter
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '853', complete: false, movements: [Prelude]}
+- {bwv: '855', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e4909715-bf3b-47e9-8bec-2374756b605b
+  title: Ich mag kein Klavier, aber das gefällt mir!
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2014bfbb-c65d-45dc-9973-35bead3833fa
+  recordings: [13e684ae-0425-45f0-b428-c9244e18857a]

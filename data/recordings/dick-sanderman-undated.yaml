@@ -1,0 +1,27 @@
+id: dick-sanderman-undated
+performers:
+- name: Dick Sanderman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Hervormde Kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '853', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d4e67be-5771-400a-84e7-b64b574b0451
+  title: Het Historische Orgel in Nederland
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5a5e9f44-eafa-4469-bd60-258c74d95148
+  recordings: [c26d16de-80ab-4a7f-9416-72ee34c9d2de]

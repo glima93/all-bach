@@ -1,0 +1,26 @@
+id: michel-kiener-2017
+performers:
+- name: Michel Kiener
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Moulin en Clarens
+released: 2021
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ca5bec5f-56b9-46c9-949c-df6ca484f140
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 174f92c5-c2ff-4920-b571-2208b3b9e571
+  recordings: [0f2402a9-e484-463d-8bd9-4293a3d24dd8]

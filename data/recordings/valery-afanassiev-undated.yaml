@@ -1,0 +1,29 @@
+id: valery-afanassiev-undated
+performers:
+- name: Valery Afanassiev
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '867', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/13c97685-2112-465c-9647-7daa39c09430
+  title: The Most Relaxing Classical Piano Music in the Universe
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 868ef8f5-c3d5-47d6-a847-1b57103f8362
+  recordings: [3234f8e0-87af-4b68-bbc6-0921cd99c066]

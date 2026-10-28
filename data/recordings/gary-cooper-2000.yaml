@@ -1,0 +1,64 @@
+id: gary-cooper-2000
+performers:
+- name: Gary Cooper
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: New College Chapel
+released: 2001
+original_label: null
+works:
+- {bwv: '846', complete: true}
+- {bwv: '847', complete: true}
+- {bwv: '848', complete: true}
+- {bwv: '849', complete: true}
+- {bwv: '850', complete: true}
+- {bwv: '851', complete: true}
+- {bwv: '852', complete: true}
+- {bwv: '853', complete: true}
+- {bwv: '854', complete: true}
+- {bwv: '855', complete: true}
+- {bwv: '856', complete: true}
+- {bwv: '857', complete: true}
+- {bwv: '858', complete: true}
+- {bwv: '859', complete: true}
+- {bwv: '860', complete: true}
+- {bwv: '861', complete: true}
+- {bwv: '862', complete: true}
+- {bwv: '863', complete: true}
+- {bwv: '864', complete: true}
+- {bwv: '865', complete: true}
+- {bwv: '866', complete: true}
+- {bwv: '867', complete: true}
+- {bwv: '868', complete: true}
+- {bwv: '869', complete: true}
+- {bwv: '870', complete: false, movements: [Prelude]}
+- {bwv: '871', complete: false, movements: [Fugue]}
+- {bwv: '877', complete: false, movements: [Prelude]}
+- {bwv: '882', complete: true}
+- {bwv: '883', complete: true}
+- {bwv: '884', complete: true}
+- {bwv: '885', complete: true}
+- {bwv: '886', complete: true}
+- {bwv: '887', complete: true}
+- {bwv: '888', complete: true}
+- {bwv: '889', complete: true}
+- {bwv: '890', complete: true}
+- {bwv: '891', complete: true}
+- {bwv: '892', complete: true}
+- {bwv: '893', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b3662899-5b4e-4ee1-966c-0202a6a61674
+  title: 'Bach: The Well-Tempered Clavier Book I'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cd52184e-ab5b-480b-bb4a-a6263f7ea668
+  recordings: [06c43435-e290-485e-84ec-33c2809cbb1e]

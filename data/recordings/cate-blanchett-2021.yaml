@@ -1,0 +1,28 @@
+id: cate-blanchett-2021
+performers:
+- name: Cate Blanchett
+  role: piano
+- name: Zethphan Smith‐Gneist
+  role: performer
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2021]
+  place: James-Simon-Galerie
+released: 2022
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/efc8a72c-d1ae-401c-b7a1-d9d071a07ec5
+  title: Music From and Inspired by the Motion Picture Tár
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0734e42-529b-47cc-aaa3-ca7a6da86362
+  recordings: [fae89ea6-ee31-4516-8256-140439af7601]

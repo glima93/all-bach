@@ -1,0 +1,26 @@
+id: nick-van-bloss-2008
+performers:
+- name: Nick Van Bloss
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: Henry Wood Hall
+released: 2011
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/19d0f607-cd19-4fc6-a2f5-40324882753e
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 05e7959b-b150-445f-968f-aaade1b28822
+  recordings: [011c11a2-3276-436b-aff0-a14b89457886]

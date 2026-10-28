@@ -1,0 +1,26 @@
+id: robert-hill-1993
+performers:
+- name: Robert Hill
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: Kaufhaussaal
+released: 2011
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd652e56-0c20-4393-a96b-228c461ab808
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0bf5318b-bde3-4ff4-a226-2154527fe277
+  recordings: [11795e12-bfb2-4f0e-b8ea-b2bf02db9951]

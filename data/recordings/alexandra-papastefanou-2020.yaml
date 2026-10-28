@@ -1,0 +1,26 @@
+id: alexandra-papastefanou-2020
+performers:
+- name: Alexandra Papastefanou
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020]
+  place: Αίθουσα «Δημήτρης Μητρόπουλος»
+released: 2021
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/62fb2a6b-9917-4a8f-a66a-c868be25b8f9
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d0d7447e-ef6f-4637-979a-97cc5bcaa94c
+  recordings: [012c593b-6831-463a-b28d-d068dcf74cc2]

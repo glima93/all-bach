@@ -1,0 +1,28 @@
+id: john-champ-undated
+performers:
+- name: John Champ
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '867', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/42623370-5118-4835-8367-1c7a0658b44f
+  title: 'Great Classics: The Essential Piano Collection'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 474d054e-ce2d-4dac-8acc-43727bd896f4
+  recordings: [5f71c926-86b7-4e5e-87e3-406ed691a658]

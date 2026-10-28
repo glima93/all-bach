@@ -1,0 +1,39 @@
+id: edna-stern-undated
+performers:
+- name: Edna Stern
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '847', complete: true}
+- {bwv: '851', complete: true}
+- {bwv: '852', complete: true}
+- {bwv: '854', complete: true}
+- {bwv: '855', complete: true}
+- {bwv: '856', complete: true}
+- {bwv: '857', complete: true}
+- {bwv: '860', complete: true}
+- {bwv: '862', complete: true}
+- {bwv: '864', complete: true}
+- {bwv: '866', complete: true}
+- {bwv: '867', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e4606aa4-1a6c-4a69-aff2-44dcaf0b8260
+  title: Les Maîtres du Piano
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dbdc6775-ddac-4380-9dea-cab8527991e0
+  recordings: [2b33eca6-5103-489e-87a6-078daae79f62]

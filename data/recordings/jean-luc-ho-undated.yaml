@@ -1,0 +1,27 @@
+id: jean-luc-ho-undated
+performers:
+- name: Jean-Luc Ho
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Abbaye de Royaumont
+released: 2023
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1900bd1a-e98d-4165-a8cd-5a8c4d79fe3c
+  title: Les variations Goldberg, BWV 988
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4514b8ed-5a30-4bd4-b07f-49920f2f813b
+  recordings: [04f90578-965f-43b3-9254-10f95f7a48d4]

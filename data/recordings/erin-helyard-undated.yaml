@@ -1,0 +1,28 @@
+id: erin-helyard-undated
+performers:
+- name: Erin Helyard
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3f9456ba-8dbf-4b6a-976a-d05a28e6c7b7
+  title: 1000 Years of Classical Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c9d4e78a-6666-416c-8572-bf4d5ca601f0
+  recordings: [a6b4f2bb-662e-434b-a9a2-434eaecd75d8]

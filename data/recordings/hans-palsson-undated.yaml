@@ -1,0 +1,28 @@
+id: hans-palsson-undated
+performers:
+- name: Hans Pålsson
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '884', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9771d384-34ae-4f14-bf4d-4ff1de9b0507
+  title: I döda mästares sällskap, Vol. 5
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9ccd01fe-c0e2-4da8-b29a-1ebc0e0d1079
+  recordings: [f7f4fac2-2b36-43d4-9c27-b8f4ac07ce04]

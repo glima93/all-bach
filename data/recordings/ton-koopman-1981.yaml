@@ -1,0 +1,27 @@
+id: ton-koopman-1981
+performers:
+- name: Ton Koopman
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1981]
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '853', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e38af179-ebff-4191-91a3-bce9fe198501
+  title: Orgel- und Cembalowerke, Kammermusik, Motetten
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [25d9c756-49d4-4703-b4a6-3c4d7535bad7]

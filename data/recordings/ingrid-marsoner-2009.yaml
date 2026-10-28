@@ -1,0 +1,26 @@
+id: ingrid-marsoner-2009
+performers:
+- name: Ingrid Marsoner
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2009]
+  place: Lehár Theater
+released: 2010
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/68d9f1c8-216a-45f4-99a8-0bac30c845e3
+  title: Goldberg-Variationen, BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 678e00c3-f862-4129-8f6c-7e93fa2a20d1
+  recordings: [077ef7d9-f536-4b42-bfe6-2f535ef04ff6]

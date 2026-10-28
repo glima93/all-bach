@@ -1,0 +1,28 @@
+id: anna-miernik-undated
+performers:
+- name: Anna Miernik
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '883', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/368e0e59-d1b3-4b60-bd17-8ebe8f0285b0
+  title: 'Dialogues: Contemporary & Classical Essentials'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 31ae5524-98b1-4207-acab-345ad803230c
+  recordings: [c30d2e71-60ca-48cc-80d3-fb68d261c110]

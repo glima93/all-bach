@@ -1,0 +1,29 @@
+id: gisli-magnusson-1985
+performers:
+- name: Gísli Magnússon
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: RÚV
+released: 2004
+original_label: null
+works:
+- {bwv: '846', complete: true}
+- {bwv: '847', complete: true}
+- {bwv: '868', complete: true}
+- {bwv: '869', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e839359-c387-442b-9f27-dd3e7df041dc
+  title: Píanó
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 630a50f5-6600-4441-bfe9-1dd35fb7c003
+  recordings: [1b7c410d-6371-498b-8ecf-0f94bd02925b]

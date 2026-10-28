@@ -1,0 +1,28 @@
+id: selma-gumundsdottir-1985
+performers:
+- name: Selma Guðmundsdóttir
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '849', complete: true}
+- {bwv: '853', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99420400-dcef-489a-8e0e-b0f8b328552b
+  title: Quo Vadis
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6d7c246a-8292-4f5a-842a-c180db40fe76
+  recordings: [0e0b06e3-8cb5-4f50-9e0f-a10379ea82f8]

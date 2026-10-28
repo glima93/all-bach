@@ -1,0 +1,28 @@
+id: axel-gillison-undated
+performers:
+- name: Axel Gillison
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/be75de95-9e90-49f6-8335-c63d1e07a96d
+  title: 'The Blue Hour: Peaceful Classical Piano'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a5ed50d0-084e-4aba-840e-53d7c8172780
+  recordings: [fbd7ee42-35a6-4a4a-a1d2-b45e33556d21]

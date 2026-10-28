@@ -1,0 +1,28 @@
+id: jerry-zimmerman-undated
+performers:
+- name: Jerry Zimmerman
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ec9942bc-9003-41cf-b2c4-d74aeedc724a
+  title: The Greatest Movies Collection
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9c6f340f-ce0e-44b2-8fdd-9a1926f2b99f
+  recordings: [fbe4d22e-75fe-4fbd-a208-48294b09c4a1]

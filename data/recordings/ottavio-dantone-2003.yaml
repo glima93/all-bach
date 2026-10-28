@@ -1,0 +1,26 @@
+id: ottavio-dantone-2003
+performers:
+- name: Ottavio Dantone
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Salone d'Onore di Casa Romei
+released: 2007
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3ac7ed98-a375-4a63-9423-aee8007eaf4b
+  title: Baroque Gold
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c4787634-90ec-4cef-b2cc-aa7536625570
+  recordings: [db36ef3f-6b9c-4b97-b21f-250e2cf02a63]

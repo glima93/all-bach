@@ -1,0 +1,29 @@
+id: tetraphonics-undated
+performers:
+- name: Tetraphonics
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '865', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4dff6bd0-bb78-4e96-8396-fe7af6ac6f77
+  title: 'The Invitation: Saxophonquartette des 20. Jahrhunderts'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on tenor saxophone, alto saxophone, soprano saxophone.
+musicbrainz:
+  artist: 94b2fe4f-4a6a-4b05-8c49-f10389d12fbd
+  recordings: [0795c096-5aba-4c76-8ca0-56835db8b10f]

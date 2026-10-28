@@ -1,0 +1,28 @@
+id: radka-hanakova-undated
+performers:
+- name: Radka Hanáková
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/52ebc396-85c0-4706-9253-cc0bd2268d66
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2cd36be9-f016-4b88-b5bc-7f4a672aa2a9
+  recordings: [01c7515e-3a20-4b28-9be4-fbed9d2e1e08]

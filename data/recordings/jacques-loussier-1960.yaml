@@ -1,0 +1,32 @@
+id: jacques-loussier-1960
+performers:
+- name: Jacques Loussier
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: [1960]
+  place: null
+released: 1959
+original_label: null
+works:
+- {bwv: '850', complete: false, movements: [Prelude]}
+- {bwv: '851', complete: false, movements: [Prelude]}
+- {bwv: '861', complete: true}
+- {bwv: '870', complete: false, movements: [Prelude]}
+- {bwv: '871', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d710727c-fd0f-404d-b5d4-aeabe6f26754
+  title: Play Bach No. 2
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With percussion, double bass.
+musicbrainz:
+  artist: 387821e6-a7b2-495b-81d3-7139f1f8233c
+  recordings: [81f72ab7-59ee-44fe-b4d7-876fab717cc3]

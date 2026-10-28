@@ -1,0 +1,29 @@
+id: roy-holmes-undated
+performers:
+- name: Roy Holmes
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '857', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/552bb735-7128-4a33-affb-cd7f0da71b4c
+  title: Interlude
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3fc17522-5664-4091-83bb-fdeda751c01b
+  recordings: [35d55a96-d11e-4955-8592-0f907c57034e]

@@ -1,0 +1,28 @@
+id: daniel-benn-undated
+performers:
+- name: Daniel Benn
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0b4469e7-c1b5-42b3-8e9f-d32902675f7e
+  title: The 99 Most Essential Pieces of Classical Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 03d5f968-7b0e-4356-8f05-bc8fb48eaec7
+  recordings: [9f396bff-4a64-49ce-9884-60185b1b5b5a]

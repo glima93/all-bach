@@ -1,0 +1,27 @@
+id: gustav-leonhardt-1978
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1978]
+  place: null
+released: 1978
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7236bb47-a88a-4dbf-92e9-a7108a5f49aa
+  title: 'Goldberg Variationen, BWV 988: Aria mit 30 Veränderungen aus Clavierübung IV'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [0175fbfe-5031-4d26-ac7c-0a274cf655e8]

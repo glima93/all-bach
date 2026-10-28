@@ -1,0 +1,26 @@
+id: david-fray-2021
+performers:
+- name: David Fray
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2021]
+  place: Chapelle Notre-Dame de Piétat
+released: 2021
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d02427a-dddb-415e-a215-10266924c3da
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2955be8c-03e6-48e6-b902-e034e307406c
+  recordings: [0067025b-c2ce-4c6e-8783-b9eff8ee44e2]

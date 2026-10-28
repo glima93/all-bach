@@ -1,0 +1,37 @@
+id: sviatoslav-richter-1972
+performers:
+- name: Sviatoslav Richter
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1972]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '863', complete: true}
+- {bwv: '883', complete: true}
+- {bwv: '884', complete: true}
+- {bwv: '885', complete: true}
+- {bwv: '886', complete: true}
+- {bwv: '888', complete: true}
+- {bwv: '889', complete: true}
+- {bwv: '890', complete: true}
+- {bwv: '891', complete: true}
+- {bwv: '892', complete: true}
+- {bwv: '893', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a4bd0bfc-e183-419e-b89a-10cc2f60aa3b
+  title: Das wohltemperierte Klavier (2. Teil) (disc 2)
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2014bfbb-c65d-45dc-9973-35bead3833fa
+  recordings: [01bd121c-0a82-46e5-855a-152ac95452a9]

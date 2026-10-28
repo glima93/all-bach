@@ -1,0 +1,26 @@
+id: nicholas-mcgegan-1990-2
+performers:
+- name: Nicholas McGegan
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Skywalker Ranch
+released: 2001
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fe5b545c-2507-4641-bc5f-25543a4fff1f
+  title: The Notebook of Anna Magdalena Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a642d4b5-31c5-4422-a92c-d8224d7b958c
+  recordings: [3603546d-10ec-4021-a3cc-143745100ba9]

@@ -1,0 +1,26 @@
+id: vikingur-olafsson-2023
+performers:
+- name: Víkingur Ólafsson
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2023]
+  place: 'Harpa: Norðurljós'
+released: 2023
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fb5bceb1-7b14-44c7-8015-b03580cb15b9
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: cea4a3b8-c26c-4b61-a243-cf72555e2c71
+  recordings: [1d7feb01-ecc3-489f-afab-0c4a56980bc5]

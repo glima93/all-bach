@@ -1,0 +1,28 @@
+id: henrik-mawe-undated
+performers:
+- name: Henrik Måwe
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/efc33f5b-18ed-4260-95c3-2f0a37237b85
+  title: The 50 Greatest Pieces of Classical Piano
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 40f5d239-b554-4cf0-8856-e9bcd6b24bc9
+  recordings: [1cac686b-d88f-4268-a21b-a784319a6d10]

@@ -1,0 +1,27 @@
+id: anthony-newman-1971
+performers:
+- name: Anthony Newman
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1971]
+  place: null
+released: 1971
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/97838dff-5a02-470d-8687-dcaf7f6c7ce6
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ea4c412-b5db-499a-ad58-8251d91526ca
+  recordings: [1c523929-14a0-49cc-bc22-e707e2be90ce]

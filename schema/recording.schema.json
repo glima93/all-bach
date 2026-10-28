@@ -28,7 +28,7 @@
     "instrument": {
       "description": "The instrument actually heard for the main part.",
       "type": "string",
-      "enum": ["cello", "baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "viola", "viola-da-gamba", "violin", "baroque-violin", "guitar", "lute", "harpsichord", "piano", "organ", "clavichord", "ensemble", "voices-and-instruments", "other", "unknown"]
+      "enum": ["cello", "baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "viola", "viola-da-gamba", "violin", "baroque-violin", "guitar", "lute", "harpsichord", "piano", "organ", "clavichord", "fortepiano", "ensemble", "voices-and-instruments", "other", "unknown"]
     },
     "performance_practice": {
       "type": "string",

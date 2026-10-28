@@ -1,0 +1,26 @@
+id: andras-schiff-2001
+performers:
+- name: András Schiff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2001]
+  place: Stadtcasino Basel
+released: 2003
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a371468-fc4e-4fc1-acac-2ebc27565a6e
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: cb535c4c-711b-4be1-98f3-b6b5f8955d41
+  recordings: [0003164a-d785-4d3e-9075-2f155f8c2aff]

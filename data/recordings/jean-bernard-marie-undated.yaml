@@ -1,0 +1,28 @@
+id: jean-bernard-marie-undated
+performers:
+- name: Jean-Bernard Marie
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e354a8dd-aac8-4da9-95fa-0d6df93cced9
+  title: Movie Love Songs
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cc53d101-3045-41e5-a871-d7d7c2ca8f85
+  recordings: [d02436e4-3c2c-4782-9d92-2b2525139e09]

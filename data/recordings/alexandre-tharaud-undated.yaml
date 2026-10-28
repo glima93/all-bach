@@ -1,0 +1,27 @@
+id: alexandre-tharaud-undated
+performers:
+- name: Alexandre Tharaud
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: La Seine Musicale
+released: 2020
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d665a131-1857-421f-816b-9a96dfd8578c
+  title: Le Poète du piano
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 83b74911-aa21-4e31-ad1c-5eb505248f5a
+  recordings: [e579cd92-78d6-46d9-9079-5b5c8334103a]

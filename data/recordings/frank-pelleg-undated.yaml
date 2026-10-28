@@ -1,0 +1,28 @@
+id: frank-pelleg-undated
+performers:
+- name: Frank Pelleg
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1966
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a16f0997-3324-4196-a9cc-510b6e8f08ac
+  title: Goldberg Variations, BWV 988
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85f71dbc-7e12-44fa-a6aa-a76a1ac61ec1
+  recordings: [6173e4aa-6b4a-40bd-880b-2234c9c0ec76]

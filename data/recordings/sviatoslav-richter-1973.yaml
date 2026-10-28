@@ -1,0 +1,40 @@
+id: sviatoslav-richter-1973
+performers:
+- name: Sviatoslav Richter
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1973]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '870', complete: true}
+- {bwv: '871', complete: true}
+- {bwv: '872', complete: true}
+- {bwv: '873', complete: true}
+- {bwv: '876', complete: true}
+- {bwv: '877', complete: true}
+- {bwv: '884', complete: true}
+- {bwv: '886', complete: true}
+- {bwv: '888', complete: true}
+- {bwv: '889', complete: true}
+- {bwv: '890', complete: true}
+- {bwv: '891', complete: true}
+- {bwv: '892', complete: false, movements: [Prelude]}
+- {bwv: '893', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb0fc065-438c-4a61-bd38-de7bb5e3c82f
+  title: Richter in Hungary (1954-1993)
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 2014bfbb-c65d-45dc-9973-35bead3833fa
+  recordings: [18825f55-7a37-45ce-8580-cd3229434015]

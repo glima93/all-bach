@@ -1,0 +1,29 @@
+id: jan-vermeulen-undated
+performers:
+- name: Jan Vermeulen
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/df248289-0bd0-436d-b80c-f5934692d3d3
+  title: Little Preludes / Notebook for Anna Magdalena Bach / Inventions
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1cca0d54-82c3-49f9-819f-ef125a2cdd91
+  recordings: [f32556d2-797a-460d-9bb7-cedc65a2bd9b]

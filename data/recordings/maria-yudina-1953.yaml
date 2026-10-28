@@ -1,0 +1,40 @@
+id: maria-yudina-1953
+performers:
+- name: Maria Yudina
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1953]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '870', complete: true}
+- {bwv: '871', complete: true}
+- {bwv: '872', complete: true}
+- {bwv: '873', complete: true}
+- {bwv: '874', complete: true}
+- {bwv: '875', complete: true}
+- {bwv: '876', complete: true}
+- {bwv: '877', complete: true}
+- {bwv: '878', complete: true}
+- {bwv: '879', complete: true}
+- {bwv: '880', complete: true}
+- {bwv: '881', complete: true}
+- {bwv: '884', complete: true}
+- {bwv: '890', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a0ab75df-930e-4fec-aa0d-304f73139033
+  title: The Legacy of Maria Yudina, Volume 3
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b230cee7-3fb4-423f-8f5c-c4eca571ca2e
+  recordings: [0180d21f-96ef-40d2-8770-9d0635ce2a07]

@@ -1,0 +1,26 @@
+id: andras-schiff-2006
+performers:
+- name: András Schiff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2006]
+  place: Tonhalle
+released: 2016
+original_label: null
+works:
+- {bwv: '867', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e5db824a-6b2c-4200-9f17-ca4c6adf6ace
+  title: The Piano Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cb535c4c-711b-4be1-98f3-b6b5f8955d41
+  recordings: [492093a4-85db-4545-9288-10b269b3274c]

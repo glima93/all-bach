@@ -1,0 +1,31 @@
+id: igor-cecocho-undated
+performers:
+- name: Igor Cecocho
+  role: trumpet
+- name: Piotr Rojek
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '878', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5cf0df1c-998d-4d95-80cc-c289cd7b50ba
+  title: Transcriptions for Trumpet & Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With trumpet.
+musicbrainz:
+  artist: f6fac441-0aa9-4201-8c05-c04cf18d96c1
+  recordings: [7a385ec8-889f-4301-829c-f00795cb1ff6]

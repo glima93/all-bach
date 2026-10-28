@@ -1,0 +1,28 @@
+id: aysedeniz-gokcin-undated
+performers:
+- name: Ayşedeniz Gökçin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '875', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2922a6e0-adeb-46f5-ba29-76c85e0cb495
+  title: Motus
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d7468112-6a67-4e90-a967-457b24d73c13
+  recordings: [e19d2b20-6909-4a9c-aeb5-e36114010272]

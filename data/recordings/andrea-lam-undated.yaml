@@ -1,0 +1,28 @@
+id: andrea-lam-undated
+performers:
+- name: Andrea Lam
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0b9c911-3dcc-42a1-8ea9-5c023e51fbab
+  title: Piano Diary
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d85897dc-c6b3-4bc0-a66b-7c04b98ac87f
+  recordings: [1f57fac4-eae8-42aa-95a5-18503b151f5e]

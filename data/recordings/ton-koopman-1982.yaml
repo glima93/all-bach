@@ -1,0 +1,62 @@
+id: ton-koopman-1982
+performers:
+- name: Ton Koopman
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1982]
+  place: Maria Minor
+released: 1990
+original_label: null
+works:
+- {bwv: '846', complete: true}
+- {bwv: '847', complete: true}
+- {bwv: '848', complete: true}
+- {bwv: '849', complete: true}
+- {bwv: '850', complete: true}
+- {bwv: '851', complete: true}
+- {bwv: '852', complete: true}
+- {bwv: '853', complete: true}
+- {bwv: '854', complete: true}
+- {bwv: '855', complete: true}
+- {bwv: '856', complete: true}
+- {bwv: '857', complete: true}
+- {bwv: '858', complete: true}
+- {bwv: '859', complete: true}
+- {bwv: '860', complete: true}
+- {bwv: '861', complete: true}
+- {bwv: '862', complete: true}
+- {bwv: '863', complete: true}
+- {bwv: '864', complete: true}
+- {bwv: '865', complete: true}
+- {bwv: '866', complete: true}
+- {bwv: '867', complete: true}
+- {bwv: '868', complete: true}
+- {bwv: '869', complete: true}
+- {bwv: '870', complete: true}
+- {bwv: '871', complete: true}
+- {bwv: '872', complete: true}
+- {bwv: '873', complete: true}
+- {bwv: '874', complete: true}
+- {bwv: '875', complete: true}
+- {bwv: '876', complete: true}
+- {bwv: '877', complete: true}
+- {bwv: '878', complete: true}
+- {bwv: '879', complete: true}
+- {bwv: '880', complete: true}
+- {bwv: '881', complete: true}
+- {bwv: '883', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f747965-f736-4942-87f5-8876e3f94221
+  title: Das wohltemperierte Klavier, Teil 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [001fafbc-9da6-46b3-b149-fba0ec80a0c3]

@@ -1,0 +1,26 @@
+id: roberto-loreggian-2017
+performers:
+- name: Roberto Loreggian
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Santa Maria delle Carceri
+released: 2018
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a153258-a535-4bc1-bafc-8df36348c158
+  title: Goldberg Variations, BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b2676a4d-ed18-4781-aa02-1d6e1aa2d877
+  recordings: [157ab3a4-1927-412a-8804-b5cdceed22fe]

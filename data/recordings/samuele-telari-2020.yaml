@@ -1,0 +1,35 @@
+id: samuele-telari-2020
+performers:
+- name: Samuele Telari
+  role: accordion
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2020]
+  place: Queen’s Hall
+released: 2021
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Variatio 2. a 1 Clav., Variatio 3. Canone all'Unisuono. a 1 Clav., Variatio
+      4. a 1 Clav., Variatio 5. a 1 ô vero 2 Clav., Variatio 6. Canone alla Seconda. a 1 Clav., Variatio 7. a 1
+      ô vero 2 Clav. al tempo di Giga, Variatio 8. a 2 Clav., Variatio 9. Canone alla Terza. a 1 Clav., Variatio
+      10. Fughetta. a 1 Clav., Variatio 11. a 2 Clav., Variatio 12. Canone alla Quarta, Variatio 13. a 2 Clav.,
+    Variatio 14. a 2 Clav., Variatio 15. Canone alla Quinta. a 1 Clav. Andante, Variatio 16. Ouverture. a 1 Clav.,
+    Variatio 17. a 2 Clav., Variatio 18. Canone alla Sesta. a 1 Clav., Variatio 19. a 1 Clav., Variatio 20. a 2
+      Clav., Variatio 21. Canone alla Settima, Variatio 22. a 1 Clav. alla breve, Variatio 23. a 2 Clav., Variatio
+      24. Canone all'Ottava. a 1 Clav., Variatio 25. a 2 Clav. Adagio, Variatio 26. a 2 Clav., Variatio 27. Canone
+      alla Nona. a 2 Clav., Variatio 29. a 1 ô vero 2 Clav., Variatio 30. a 1 Clav. Quodlibet, Aria da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/638b55e0-9d8e-4b9a-a9d0-69aa85c9df62
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on accordion.
+musicbrainz:
+  artist: 8fe30565-d417-4b8d-a28b-1302a41d876c
+  recordings: [0fbeae94-97e1-4bcb-ad67-de2d7fb5d10a]

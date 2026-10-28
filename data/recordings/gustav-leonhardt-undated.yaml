@@ -1,0 +1,30 @@
+id: gustav-leonhardt-undated
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 1. a 1 Clav., Variatio 2. a 1 Clav., Variatio 3. Canone
+      all'Unisuono. a 1 Clav., Variatio 4. a 1 Clav., Variatio 7. a 1 ô vero 2 Clav. al tempo di Giga]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [2d45a5ed-5dec-4ea3-bb40-0e0a5876c6ad]

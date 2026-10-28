@@ -1,0 +1,28 @@
+id: colin-booth-undated
+performers:
+- name: Colin Booth
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb8e8b42-e441-4dab-b947-9caa8de973db
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1caca34b-bf60-4949-9a83-e9837eb8d86e
+  recordings: [00015dea-1309-4a90-b3b2-756f2c0b5113]

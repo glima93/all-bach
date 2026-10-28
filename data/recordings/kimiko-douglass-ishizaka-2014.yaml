@@ -1,0 +1,49 @@
+id: kimiko-douglass-ishizaka-2014
+performers:
+- name: Kimiko Douglass-Ishizaka
+  role: grand piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: Teldex Studio
+released: 2015
+original_label: null
+works:
+- {bwv: '846', complete: true}
+- {bwv: '847', complete: true}
+- {bwv: '848', complete: true}
+- {bwv: '849', complete: true}
+- {bwv: '850', complete: true}
+- {bwv: '851', complete: true}
+- {bwv: '852', complete: true}
+- {bwv: '853', complete: true}
+- {bwv: '854', complete: true}
+- {bwv: '855', complete: true}
+- {bwv: '856', complete: true}
+- {bwv: '857', complete: true}
+- {bwv: '858', complete: true}
+- {bwv: '859', complete: true}
+- {bwv: '860', complete: true}
+- {bwv: '861', complete: true}
+- {bwv: '862', complete: true}
+- {bwv: '863', complete: true}
+- {bwv: '864', complete: true}
+- {bwv: '865', complete: true}
+- {bwv: '866', complete: true}
+- {bwv: '867', complete: true}
+- {bwv: '868', complete: true}
+- {bwv: '869', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3c3717ca-3f94-4f59-be73-435579eb6dff
+  title: The Well‐Tempered Clavier, Book I (BWV 846–893)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24039c0a-2382-47b0-b234-5712fe3a7515
+  recordings: [03fac0a9-eeb4-40fc-adf8-57c6b5d32a96]

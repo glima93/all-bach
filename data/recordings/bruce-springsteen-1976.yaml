@@ -1,0 +1,29 @@
+id: bruce-springsteen-1976
+performers:
+- name: Bruce Springsteen
+  role: performer
+- name: The E Street Band
+  role: performer
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: [1976]
+  place: Municipal Auditorium
+released: null
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9dbdcf5-f90b-4401-ab71-2da683bce929
+  title: Mississippi Boss
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording. With electric bass guitar, drums (drum set).
+musicbrainz:
+  artist: 70248960-cb53-4ea4-943a-edb18f7d336f
+  recordings: [7e93d4d2-676d-423f-9ace-120eb68d2770]

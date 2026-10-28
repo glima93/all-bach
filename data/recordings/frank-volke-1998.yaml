@@ -1,0 +1,26 @@
+id: frank-volke-1998
+performers:
+- name: Frank Volke
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: Dominikanerkirche St. Andreas
+released: 2000
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/943981a0-db36-4e29-a27d-cd97ac9e6206
+  title: Goldberg - Variationen Orgelfassung
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2042e22a-feec-40f7-a52f-c472335f0560
+  recordings: [084bd388-63cd-43ca-8f5e-bab31d599c3a]

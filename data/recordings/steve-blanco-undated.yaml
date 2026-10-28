@@ -1,0 +1,29 @@
+id: steve-blanco-undated
+performers:
+- name: Steve Blanco
+  role: piano
+- name: Imperial Triumphant
+  role: performer
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: GB’s Juke Joint
+released: 2025
+original_label: null
+works:
+- {bwv: '859', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/740891a0-1811-44b9-a05c-f71db631fb52
+  title: Imprints of Man
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: be2b84d0-d4be-4fb5-b497-510f249ea1ec
+  recordings: [497ac930-7ce6-43ba-a9c2-d89537580b4a]

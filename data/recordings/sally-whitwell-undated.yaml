@@ -1,0 +1,28 @@
+id: sally-whitwell-undated
+performers:
+- name: Sally Whitwell
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a6fcbe9c-55ce-4986-8fba-cf61296e3115
+  title: The Good, the Bad and the Awkward
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f62c41fd-e80b-4d79-a318-dacf8c8143ec
+  recordings: [8364df07-e45f-455e-b8ae-e173475ca78a]

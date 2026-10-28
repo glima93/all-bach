@@ -1,0 +1,29 @@
+id: anthony-newman-undated
+performers:
+- name: Anthony Newman
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9fff0966-6dae-4260-b38a-0bbb16e81011
+  title: 'Baroque: Greatest Hits'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ea4c412-b5db-499a-ad58-8251d91526ca
+  recordings: [1d13638c-c837-4c82-822a-ba9c727f197c]

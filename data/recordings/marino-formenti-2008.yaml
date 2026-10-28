@@ -1,0 +1,26 @@
+id: marino-formenti-2008
+performers:
+- name: Marino Formenti
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: Großer Sendesaal des ORF
+released: 2009
+original_label: null
+works:
+- {bwv: '875', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43ee7361-15bf-4d8d-b008-21acd3afd789
+  title: Kurtág's Ghosts
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2bcc7f97-30a3-4df4-bdaf-aeb97c22d7ce
+  recordings: [241aa97c-0810-47b3-9123-10ed0a75b47c]

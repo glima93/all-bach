@@ -1,0 +1,27 @@
+id: malcolm-archer-undated
+performers:
+- name: Malcolm Archer
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: St Paul’s Church House
+released: 2021
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6cbce88-71b9-4345-b5ea-1baa21bb548e
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 268e5127-9146-4cde-9300-a785fa81a0c1
+  recordings: [02947e00-b56b-4d95-8e7e-d8c61c0f5d08]

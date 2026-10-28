@@ -1,0 +1,28 @@
+id: violet-gordon-woodhouse-undated
+performers:
+- name: Violet Gordon Woodhouse
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '846', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f42376ca-e879-4880-8fb3-af45996c3200
+  title: The Harpsichord Virtuoso
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b2885fda-8e4b-4153-9f27-46ab53cd1b7f
+  recordings: [00f4c5bb-7aee-4132-9579-55540dbf91ae]

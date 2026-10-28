@@ -1,0 +1,26 @@
+id: jeremy-denk-2013
+performers:
+- name: Jeremy Denk
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2013]
+  place: Performing Arts Center
+released: 2013
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2615d4af-e0c3-464d-876b-44406ccba1d4
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 71987909-1c14-4761-ae93-502df99eec41
+  recordings: [0260f427-a36d-4483-aef2-3a20d3fe722a]

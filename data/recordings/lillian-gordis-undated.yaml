@@ -1,0 +1,30 @@
+id: lillian-gordis-undated
+performers:
+- name: Lillian Gordis
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Doopsgezinde kerk
+released: 2022
+original_label: null
+works:
+- {bwv: '873', complete: true}
+- {bwv: '874', complete: true}
+- {bwv: '890', complete: true}
+- {bwv: '891', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c46966df-34f9-4524-8ff5-75611697e321
+  title: Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1d5391bf-8df2-44cc-a006-fb9294790f8d
+  recordings: [2977d91a-4e81-4930-bbe3-c2cd71501fc9]

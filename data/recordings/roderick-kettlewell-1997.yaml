@@ -1,0 +1,27 @@
+id: roderick-kettlewell-1997
+performers:
+- name: Roderick Kettlewell
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1997]
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/848bce3f-d007-4ca8-a8c3-51ba9fd545ee
+  title: Winds of Mars
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: be85aee7-8469-482d-b1af-1e3f51a8cd71
+  recordings: [a7fe913b-7ed4-409e-9514-af091763149b]

@@ -1,0 +1,26 @@
+id: alan-curtis-1976
+performers:
+- name: Alan Curtis
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1976]
+  place: Museum für Kunst und Gewerbe
+released: 1989
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5eb5b497-3109-4673-b016-395b863cf8cf
+  title: Goldberg-Variationen, BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39aeb16b-5f01-4349-82ff-4f3f747403c9
+  recordings: [0b0b2e84-5a66-4336-956d-34940363f60c]

@@ -1,0 +1,34 @@
+id: christophe-rousset-2004
+performers:
+- name: Christophe Rousset
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2004]
+  place: Musée d'Art et d'Histoire
+released: 2006
+original_label: null
+works:
+- {bwv: '847', complete: false, movements: [Prelude]}
+- {bwv: '848', complete: false, movements: [Prelude]}
+- {bwv: '849', complete: false, movements: [Prelude]}
+- {bwv: '850', complete: false, movements: [Prelude]}
+- {bwv: '851', complete: false, movements: [Prelude]}
+- {bwv: '853', complete: false, movements: [Prelude]}
+- {bwv: '854', complete: false, movements: [Prelude]}
+- {bwv: '856', complete: false, movements: [Prelude]}
+- {bwv: '857', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f1c218ac-1845-43c4-9f71-777e369096e2
+  title: Klavierbüchlein für Wilhelm Friedemann
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6784a34f-3d91-45a5-b7b3-be1eaa1096f1
+  recordings: [0a149bdb-82f9-48eb-b164-12f9af0eb5bd]

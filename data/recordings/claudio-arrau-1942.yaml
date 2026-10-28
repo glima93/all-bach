@@ -1,0 +1,27 @@
+id: claudio-arrau-1942
+performers:
+- name: Claudio Arrau
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1942]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/39991b67-1827-4fa8-89f5-83d8cb7b5e35
+  title: Goldberg Variations / Chromatic Fantasy and Fugue
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3905011f-ac59-4d50-9095-1545a9944de8
+  recordings: [0707e870-aa6b-40f8-9649-021b3f6ea60f]

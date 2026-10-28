@@ -1,0 +1,26 @@
+id: diego-ares-2017
+performers:
+- name: Diego Ares
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Franz Liszt Konzertsaal
+released: 2018
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4e78dcb8-33de-4f6d-936d-fddfd01e75b3
+  title: Goldberg Variationen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 40183328-7f5e-438c-984d-ffe23ab6c834
+  recordings: [00ad791b-23a0-4ba0-99d9-be4215f84989]

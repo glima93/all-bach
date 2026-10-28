@@ -1,0 +1,26 @@
+id: bruno-canino-1993
+performers:
+- name: Bruno Canino
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1993]
+  place: Auditorio Radio Svizzera
+released: null
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6f27b62a-ccd3-4b5b-9a53-dea7529dc543
+  title: Great Pianists
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9de731f6-bca7-4d97-8963-21677ef0f41b
+  recordings: [019c0961-399c-48a7-b96f-82f5d44ff62b]

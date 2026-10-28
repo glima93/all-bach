@@ -1,0 +1,29 @@
+id: mnozil-brass-undated
+performers:
+- name: Mnozil Brass
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '867', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8895636-f421-4e8e-ba01-ce829faa76fa
+  title: Smoke live
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7a1551c1-a5c5-4d9e-880c-c4e28e059115
+  recordings: [8dfc0cf9-b009-4fc2-92d7-506efc82aac7]

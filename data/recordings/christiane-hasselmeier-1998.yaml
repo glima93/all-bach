@@ -1,0 +1,26 @@
+id: christiane-hasselmeier-1998
+performers:
+- name: Christiane Hasselmeier
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Jowa Tonstudio
+released: 2011
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 1. a 1 Clav., Variatio 2. a 1 Clav.]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cacf3188-af65-4a29-95e3-fd4afbef5342
+  title: 'Klenoty Klasické Hudby: Johann Sebastian Bach'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1c783b49-f2fb-4743-b01e-5f8e18397727
+  recordings: [5cc3ed3b-0697-4de5-9217-5cf4a0be0c7f]

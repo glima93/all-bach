@@ -1,0 +1,28 @@
+id: richard-meyrick-undated
+performers:
+- name: Richard Meyrick
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d01035d-b128-4700-9cd0-a333cdfc5f10
+  title: 200 Popular Classics The Finest Music By The Greatest Composers
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 435638de-3016-4d17-9590-0d6525348551
+  recordings: [e53c68ad-1f45-4f5a-850f-fbf16f70dd6c]

@@ -1,0 +1,26 @@
+id: cameron-roberts-2006
+performers:
+- name: Cameron Roberts
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2006]
+  place: Move Records Studio
+released: 2006
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4a3336e5-0ded-495c-b4bd-8a90709422ba
+  title: 'Goldberg Variations: Original Transcriptions'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0f47fde8-d285-45d3-a2a2-1c77382b054e
+  recordings: [12e81436-16ff-40e9-9b4f-abc82ac9a65d]

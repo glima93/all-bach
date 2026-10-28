@@ -1,0 +1,28 @@
+id: jacqueline-ogeil-undated
+performers:
+- name: Jacqueline Ogeil
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 1. a 1 Clav.]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1aa77adc-4ff2-4972-9297-bb02f9b0fc5e
+  title: 'Classic 100: Your Favourite Instrument'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bf1e8d58-bbf9-4f51-a7f3-9a9bd451a148
+  recordings: [66202768-409d-4550-a66b-a4b0819209b1]

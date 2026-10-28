@@ -1,0 +1,28 @@
+id: michael-gielen-undated
+performers:
+- name: Michael Gielen
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '849', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a36b9e29-571d-45c6-bf9c-6a2a8ceb541c
+  title: Michael Gielen Edition, Vol. 1 (1967–2010)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc3d8e10-1959-4e95-a903-3fc4616836c2
+  recordings: [3fbb5adc-ef4d-4b63-aef9-9a9d1f5a7b6c]

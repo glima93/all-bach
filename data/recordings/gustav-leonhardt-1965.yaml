@@ -1,0 +1,26 @@
+id: gustav-leonhardt-1965
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1965]
+  place: Hervormde Kerk
+released: 1987
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2eef3720-5080-49c1-a6c8-cd5439f82dc5
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [0176c16d-aba1-4bb9-a08b-e912a86cff88]

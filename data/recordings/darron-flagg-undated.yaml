@@ -1,0 +1,28 @@
+id: darron-flagg-undated
+performers:
+- name: Darron Flagg
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7353b5a1-67b9-4475-8fc6-3e2ee8a02087
+  title: Bagdad cafe
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 03471015-7b42-4ba4-8ee0-ce5f1d2e499e
+  recordings: [a89ce74f-094e-4b91-99a1-a206f89159a6]

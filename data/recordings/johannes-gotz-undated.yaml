@@ -1,0 +1,28 @@
+id: johannes-gotz-undated
+performers:
+- name: Johannes Götz
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '867', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/52e2acef-8f12-4d00-8f73-527dd38b59b0
+  title: Lebensstationen - Orgelwerke Bachs in der Abfolge seiner Wirkungsstätten
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6c68c3fc-bed1-4cd3-9db4-7f3709db6e13
+  recordings: [53c872d6-605b-4f3f-b508-1dc9370b734d]

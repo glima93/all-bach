@@ -1,0 +1,26 @@
+id: helene-grimaud-2003
+performers:
+- name: Hélène Grimaud
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2003]
+  place: Radiohuset
+released: 2003
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b556fc61-2c75-4311-80df-1a609f61f054
+  title: Credo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6a7ecd70-e453-4808-a776-d5f3e4102cc3
+  recordings: [6ebde0f9-b595-4890-9e4b-b9122426a7b5]

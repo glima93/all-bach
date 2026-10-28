@@ -1,0 +1,28 @@
+id: philip-brunelle-undated
+performers:
+- name: Philip Brunelle
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eeb91b6d-64f2-43a0-b810-e9c1802d1767
+  title: The Bach Organ Book
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a407ba27-ff7b-42c9-b008-38d79c879d24
+  recordings: [724c4fa4-7af5-4349-9411-b62a876ac251]

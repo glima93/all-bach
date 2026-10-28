@@ -1,0 +1,28 @@
+id: alexey-botvinov-undated
+performers:
+- name: Alexey Botvinov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 29. a 1 ô vero 2 Clav., Variatio 30. a 1 Clav. Quodlibet]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e15ca3b4-8122-434f-8562-c5ba81d9f970
+  title: Vitus
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 66b74e22-216a-4373-856a-29d47f2fae7f
+  recordings: [ece763d2-5343-4237-aedf-886b8d8ebae8]

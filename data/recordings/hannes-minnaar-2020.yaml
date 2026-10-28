@@ -1,0 +1,26 @@
+id: hannes-minnaar-2020
+performers:
+- name: Hannes Minnaar
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020]
+  place: Waalse Kerk
+released: 2021
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1c7b9643-7bf5-4966-ac23-8cda510bf024
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1de76d74-5cc0-4a38-b23b-c529cb0d7af6
+  recordings: [16dc90ad-ec1c-4acb-901e-e7f63548ef77]

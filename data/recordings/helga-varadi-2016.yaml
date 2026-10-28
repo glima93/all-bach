@@ -1,0 +1,26 @@
+id: helga-varadi-2016
+performers:
+- name: Helga Váradi
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Musée d'Art et d'Histoire
+released: 2018
+original_label: null
+works:
+- {bwv: '847', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3aa903ad-5b2d-42f0-b2c1-a1c669de898f
+  title: Bartók & Baroque
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b6202340-f055-4600-bfce-a886b51f69b1
+  recordings: [6af444cc-46ac-4b21-859b-78ccdb7e6223]

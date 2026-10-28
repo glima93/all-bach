@@ -1,0 +1,28 @@
+id: hayato-sumino-undated
+performers:
+- name: Hayato Sumino
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '870', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c4eafb7-6461-467c-b52b-2e23b10755e6
+  title: Human Universe
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32b4ec52-3489-4077-bc71-8e84991f976b
+  recordings: [0145e8a6-7ce2-4d58-a376-ebf17b86c4d4]

@@ -1,0 +1,27 @@
+id: magdalena-baczewska-undated
+performers:
+- name: Magdalena Baczewska
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Patrych Sound Studios
+released: 2011
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/893f9247-1be2-49d2-9878-a943f90a37bd
+  title: Music for Dreams, Vol. 1
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5430e4c7-70cf-4ccf-a8d9-5601da2c04b5
+  recordings: [2b4e519f-79fc-4a45-86eb-283fcc5e0bb6]

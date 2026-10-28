@@ -1,0 +1,26 @@
+id: shelley-katz-1997
+performers:
+- name: Shelley Katz
+  role: fortepiano
+instrument: fortepiano
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: Snape Maltings
+released: 2010
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/98c0bc32-3c7e-4a37-9aa1-a1f1c37f8c0d
+  title: Goldberg Variations, BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d793e57a-cff8-4964-b408-6c2c38b1d01a
+  recordings: [0ef24a1d-d142-48eb-81a4-a87ca6803ceb]

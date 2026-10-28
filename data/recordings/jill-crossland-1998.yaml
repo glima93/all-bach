@@ -1,0 +1,26 @@
+id: jill-crossland-1998
+performers:
+- name: Jill Crossland
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1998]
+  place: Vestry Hall Studios
+released: 2003
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 30. a 1 Clav. Quodlibet, Aria da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/06cd5342-4527-4a49-b6df-c772cb00f675
+  title: 'Bedtime Beats: The Secret to Sleep'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8da5e1bd-68b2-4148-a60c-387c5445fec0
+  recordings: [d28efdd7-1edb-4f68-aec4-861068076d97]

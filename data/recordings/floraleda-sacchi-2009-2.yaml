@@ -1,0 +1,28 @@
+id: floraleda-sacchi-2009-2
+performers:
+- name: Floraleda Sacchi
+  role: harp
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2009]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d218cee8-acca-4453-aa02-30b051899cdf
+  title: Harp Favorites
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on harp.
+musicbrainz:
+  artist: c641b087-5735-473a-877f-c65385a78a67
+  recordings: [66a96383-4154-48cb-8685-4c72f7b661fe]

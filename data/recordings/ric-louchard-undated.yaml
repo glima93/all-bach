@@ -1,0 +1,28 @@
+id: ric-louchard-undated
+performers:
+- name: Ric Louchard
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b253471c-12ce-447e-9bba-477b237b3f7c
+  title: G'night Wolfgang
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 189d4fb5-6f34-4fe1-96a3-bfe6934ceca9
+  recordings: [40546494-0285-4ff0-b886-02452b1d31c3]

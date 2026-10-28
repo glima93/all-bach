@@ -1,0 +1,52 @@
+id: glenn-gould-undated-2
+performers:
+- name: Glenn Gould
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1965
+original_label: null
+works:
+- {bwv: '846', complete: true}
+- {bwv: '847', complete: true}
+- {bwv: '849', complete: true}
+- {bwv: '854', complete: true}
+- {bwv: '859', complete: true}
+- {bwv: '860', complete: true}
+- {bwv: '862', complete: true}
+- {bwv: '865', complete: true}
+- {bwv: '867', complete: false, movements: [Fugue]}
+- {bwv: '869', complete: true}
+- {bwv: '870', complete: true}
+- {bwv: '871', complete: true}
+- {bwv: '872', complete: true}
+- {bwv: '873', complete: true}
+- {bwv: '874', complete: true}
+- {bwv: '875', complete: true}
+- {bwv: '876', complete: false, movements: [Fugue]}
+- {bwv: '878', complete: true}
+- {bwv: '883', complete: true}
+- {bwv: '887', complete: true}
+- {bwv: '889', complete: true}
+- {bwv: '891', complete: true}
+- {bwv: '892', complete: true}
+- {bwv: '893', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/280ac95e-4934-4479-b491-8302256116cf
+  title: 'The Art of J.S. Bach: Ryuichi Sakamoto Selections'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7002bf88-1269-4965-a772-4ba1e7a91eaa
+  recordings: [06a1a1c9-d839-400c-b42e-3dbf8f053b0f]

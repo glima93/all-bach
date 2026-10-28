@@ -1,0 +1,52 @@
+id: anton-mejias-undated
+performers:
+- name: Anton Mejias
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '847', complete: false, movements: [Prelude]}
+- {bwv: '870', complete: false, movements: [Fugue]}
+- {bwv: '871', complete: false, movements: [Prelude]}
+- {bwv: '872', complete: false, movements: [Prelude]}
+- {bwv: '873', complete: true}
+- {bwv: '874', complete: true}
+- {bwv: '875', complete: true}
+- {bwv: '876', complete: true}
+- {bwv: '877', complete: true}
+- {bwv: '878', complete: true}
+- {bwv: '879', complete: true}
+- {bwv: '880', complete: true}
+- {bwv: '881', complete: true}
+- {bwv: '882', complete: true}
+- {bwv: '883', complete: true}
+- {bwv: '884', complete: true}
+- {bwv: '885', complete: true}
+- {bwv: '886', complete: true}
+- {bwv: '887', complete: true}
+- {bwv: '888', complete: true}
+- {bwv: '889', complete: true}
+- {bwv: '890', complete: true}
+- {bwv: '891', complete: true}
+- {bwv: '892', complete: true}
+- {bwv: '893', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0cd6caae-432b-4025-ae62-4a2d8a9de49f
+  title: The Art of Memory
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc8be154-f354-49c5-b6b4-0c6cca0090c6
+  recordings: [064e381b-aa22-4217-9ee0-38944d719adb]

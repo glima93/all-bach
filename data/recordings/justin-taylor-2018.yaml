@@ -1,0 +1,34 @@
+id: justin-taylor-2018
+performers:
+- name: Justin Taylor
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: b‐sharp
+released: 2018
+original_label: null
+works:
+- {bwv: '847', complete: false, movements: [Prelude]}
+- {bwv: '848', complete: false, movements: [Prelude]}
+- {bwv: '849', complete: false, movements: [Prelude]}
+- {bwv: '850', complete: false, movements: [Prelude]}
+- {bwv: '851', complete: false, movements: [Prelude]}
+- {bwv: '853', complete: false, movements: [Prelude]}
+- {bwv: '854', complete: false, movements: [Prelude]}
+- {bwv: '856', complete: false, movements: [Prelude]}
+- {bwv: '857', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f913890f-066d-4ad7-a80e-b46a6a3b6f71
+  title: BACH 333 Harpsichord Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 23e5e29a-4c96-4019-b8b2-85722f2d3bc5
+  recordings: [39c86b97-0559-4782-9217-fc01bafd0b30]

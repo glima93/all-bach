@@ -1,0 +1,29 @@
+id: harry-mooten-undated
+performers:
+- name: Harry Mooten
+  role: accordion
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1968
+original_label: null
+works:
+- {bwv: '871', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/05522096-3054-4e32-b861-e3521027766d
+  title: The Genius Of Harry Mooten
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on accordion.
+musicbrainz:
+  artist: 6887108d-b0c7-48ab-979f-8c4ffd69c390
+  recordings: [67f97ed0-50ca-4d32-bee2-5f474c20dea6]

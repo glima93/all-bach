@@ -1,0 +1,26 @@
+id: christophe-rousset-1994
+performers:
+- name: Christophe Rousset
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: Église de Saint-Hippolyte-de-Lagriffoul
+released: 1995
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1d543d53-bde7-49ef-a936-e6329b44fbb2
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6784a34f-3d91-45a5-b7b3-be1eaa1096f1
+  recordings: [00e30911-79f3-46fb-82b5-ff8e8f6606ca]

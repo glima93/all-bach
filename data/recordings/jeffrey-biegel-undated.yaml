@@ -1,0 +1,29 @@
+id: jeffrey-biegel-undated
+performers:
+- name: Jeffrey Biegel
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '850', complete: true}
+- {bwv: '858', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/56009795-63c2-41cd-b5bb-d02a0a918b14
+  title: Bach on a Steinway
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 97a0e31d-4e03-4530-8200-5b44b94f7997
+  recordings: [04b6343f-0df9-4809-ad5b-ce740b206c43]

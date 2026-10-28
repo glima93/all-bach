@@ -1,0 +1,27 @@
+id: ensemble-gaudior-undated
+performers:
+- name: Ensemble Gaudior
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: St. Luke’s Catholic Church
+released: 2011
+original_label: null
+works:
+- {bwv: '880', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0954cb2-3ced-4492-ac41-11b4cc1d1001
+  title: Masters of the Baroque
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1e7303bd-57af-4062-8772-68693bcca578
+  recordings: [29807898-296d-4680-a40e-c502e89ce330]

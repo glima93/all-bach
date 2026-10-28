@@ -1,0 +1,51 @@
+id: daniel-martyn-lewis-undated
+performers:
+- name: Daniel Martyn Lewis
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '870', complete: true}
+- {bwv: '871', complete: true}
+- {bwv: '872', complete: true}
+- {bwv: '873', complete: true}
+- {bwv: '874', complete: true}
+- {bwv: '875', complete: true}
+- {bwv: '876', complete: true}
+- {bwv: '877', complete: true}
+- {bwv: '878', complete: true}
+- {bwv: '879', complete: true}
+- {bwv: '880', complete: true}
+- {bwv: '881', complete: true}
+- {bwv: '882', complete: true}
+- {bwv: '883', complete: true}
+- {bwv: '884', complete: true}
+- {bwv: '885', complete: true}
+- {bwv: '886', complete: true}
+- {bwv: '887', complete: true}
+- {bwv: '888', complete: true}
+- {bwv: '889', complete: true}
+- {bwv: '890', complete: true}
+- {bwv: '891', complete: true}
+- {bwv: '892', complete: true}
+- {bwv: '893', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/911b519a-0ca3-410b-8187-04c04ef1f8e3
+  title: The Well‐Tempered Clavier II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4fa63b87-1b71-4570-9fb3-834aa109dd52
+  recordings: [0883420a-5896-4458-b533-462a70b5682e]

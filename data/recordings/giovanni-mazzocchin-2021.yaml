@@ -1,0 +1,26 @@
+id: giovanni-mazzocchin-2021
+performers:
+- name: Giovanni Mazzocchin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2021]
+  place: Saletta acustica 'Eric James'
+released: 2021
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7ffff8fc-cd98-47af-9805-5fac5f9d2e04
+  title: Goldberg Variations, BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e1f64206-9c7c-4adb-98d1-9da8500d3046
+  recordings: [017e9062-0917-48b8-b716-39a541c7d8b1]

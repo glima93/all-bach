@@ -1,0 +1,26 @@
+id: dong-hyek-lim-2008
+performers:
+- name: Dong-Hyek Lim
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: Henry Wood Hall
+released: 2008
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7b4e446f-9ae5-4689-b352-5c9430211e4c
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b07b37c-22ea-48e3-9ac9-71e114145506
+  recordings: [0b69ef94-f9af-49b6-a84e-120bae304e65]

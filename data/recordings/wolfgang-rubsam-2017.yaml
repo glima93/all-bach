@@ -1,0 +1,26 @@
+id: wolfgang-rubsam-2017
+performers:
+- name: Wolfgang Rübsam
+  role: lautenwerck
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Immanuel Lutheran Church
+released: 2018
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ce351f5e-c6ea-4926-81cc-1a6c3d406301
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [05603a0a-57f2-4cc7-bdd7-edf07de112d2]

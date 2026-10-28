@@ -1,0 +1,26 @@
+id: lars-vogt-2014
+performers:
+- name: Lars Vogt
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: Deutschlandfunk Kammermusiksaal
+released: 2015
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aa24419b-627a-42d3-97fc-1603fbe05f7f
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 744edbdf-c781-43c9-a1c1-92182cfe74cc
+  recordings: [051a07de-021e-4572-a5c6-0b526c4ccd64]

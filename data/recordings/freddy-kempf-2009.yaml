@@ -1,0 +1,27 @@
+id: freddy-kempf-2009
+performers:
+- name: Freddy Kempf
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2009]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1d07323e-3148-43eb-8e9c-56f880bb567f
+  title: 'BBC Music, Volume 19, Number 11: Goldberg Variations'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 8f331153-5211-4664-907f-3d0570f534b8
+  recordings: [07c2e830-060e-41dc-b894-43552dc41473]

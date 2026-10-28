@@ -1,0 +1,39 @@
+id: julien-libeer-undated
+performers:
+- name: Julien Libeer
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '846', complete: true}
+- {bwv: '848', complete: true}
+- {bwv: '850', complete: true}
+- {bwv: '852', complete: true}
+- {bwv: '854', complete: true}
+- {bwv: '856', complete: true}
+- {bwv: '858', complete: true}
+- {bwv: '860', complete: true}
+- {bwv: '862', complete: true}
+- {bwv: '864', complete: true}
+- {bwv: '866', complete: true}
+- {bwv: '868', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5962f835-44e3-477d-b41c-8b7a5abc8a34
+  title: 'J.S. Bach & Beyond: A Well-Tempered Conversation'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 616bed2f-6fab-40c7-b3ec-52b3a1930990
+  recordings: [24e7b305-1d19-4092-b662-8a3dc82ec83c]

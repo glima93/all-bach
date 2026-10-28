@@ -1,0 +1,29 @@
+id: patricia-kopatchinskaja-2018
+performers:
+- name: Patricia Kopatchinskaja
+  role: violin
+- name: Sol Gabetta
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2018]
+  place: Evangelisch Reformierte Kirche
+released: 2021
+original_label: null
+works:
+- {bwv: '860', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/29f50bac-755b-40c7-9224-701dbbd48236
+  title: Sol & Pat
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With violin.
+musicbrainz:
+  artist: d290d27c-ed19-415a-ab43-ddb2f4071f76
+  recordings: [1ffd3580-f5c0-4d23-a745-0e18f171b5f0]

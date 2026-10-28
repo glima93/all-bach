@@ -1,0 +1,27 @@
+id: olivier-baumont-1998
+performers:
+- name: Olivier Baumont
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Maison de l'Orchestre national d'Île-de-France
+released: 1999
+original_label: null
+works:
+- {bwv: '847', complete: false, movements: [Prelude]}
+- {bwv: '851', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ccf8e06a-25b2-4325-951e-15b2ffdc8bea
+  title: À la française - Four Harpsichord Suites / Clavichord Pieces
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52b921d9-43c3-4755-8787-c22c0d439a07
+  recordings: [22fa32ff-5a58-419e-9136-d742419ccffe]

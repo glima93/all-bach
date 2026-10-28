@@ -1,0 +1,28 @@
+id: geoffroy-couteau-undated
+performers:
+- name: Geoffroy Couteau
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/37ae596b-5d05-4ac1-9af8-8497e716fbf1
+  title: Variations Goldberg, BWV 988
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a41defa8-f884-4c60-957f-cfeb72726939
+  recordings: [09f780b9-4ef9-492e-8d5d-d2ec552e9cf3]

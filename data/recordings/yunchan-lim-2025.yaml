@@ -1,0 +1,26 @@
+id: yunchan-lim-2025
+performers:
+- name: Yunchan Lim
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2025]
+  place: Carnegie Hall
+released: 2025
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0ecd3a48-321d-4ff5-ab62-a710eacb5175
+  title: Goldberg Variations (Live at Carnegie Hall)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 6b62972a-f8f9-4fdc-9512-7404718a19c3
+  recordings: [0271858c-a368-4032-855d-3a8cffa2efbe]

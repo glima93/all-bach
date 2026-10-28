@@ -1,0 +1,30 @@
+id: jacques-loussier-trio-undated
+performers:
+- name: Jacques Loussier Trio
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '850', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/130fff33-7b24-4670-9566-9253b406f4a1
+  title: Plays Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With drums (drum set), bass.
+musicbrainz:
+  artist: 03b10e63-04f5-4f59-9954-fc22a4386945
+  recordings: [17e21caf-2b94-4195-9eda-76d8477ab655]

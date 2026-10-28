@@ -1,0 +1,26 @@
+id: ramin-bahrami-2002
+performers:
+- name: Ramin Bahrami
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2002]
+  place: Salle de Musique
+released: 2004
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9f3c56fd-26c5-4628-b4b9-4d9cd8493434
+  title: Goldberg Variations BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62dbb816-f984-4cb3-bd32-881ad08fa59a
+  recordings: [08b045fc-fdcc-4329-b1c3-c4433868422a]

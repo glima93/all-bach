@@ -1,0 +1,26 @@
+id: angela-hewitt-2015
+performers:
+- name: Angela Hewitt
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2015]
+  place: Christuskirche
+released: 2016
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/66148575-d6e6-47c3-82b4-f586e6230559
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d79b2e2c-2e60-4b60-a077-be40e9b65981
+  recordings: [0175defa-389b-41af-9fd8-e8648972a784]

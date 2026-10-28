@@ -1,0 +1,27 @@
+id: rosalyn-tureck-1988
+performers:
+- name: Rosalyn Tureck
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1988]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/967b82f2-1a4e-4b65-856d-8e9617a38d27
+  title: Goldberg Variations, BWV 988
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e102c96-3536-4ff9-ac29-d189eed65dc9
+  recordings: [050b3ac3-461a-462b-9791-8007b770f943]

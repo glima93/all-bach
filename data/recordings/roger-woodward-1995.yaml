@@ -1,0 +1,27 @@
+id: roger-woodward-1995
+performers:
+- name: Roger Woodward
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1995]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f89f4ec7-9066-4fe6-9c25-ec4f330d6b1d
+  title: My Favourite Classics
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ed1c171-acc0-40a6-9de8-5bf5c9e7d83f
+  recordings: [c447ede1-cba9-42d7-ae4e-437ddfd8fdce]

@@ -1,0 +1,31 @@
+id: concerto-italiano-undated
+performers:
+- name: Concerto Italiano
+  role: performer
+- name: Rinaldo Alessandrini
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Chiesa di San Francesco
+released: 2017
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 14. a 2 Clav., Variatio 15. Canone alla Quinta. a 1 Clav.
+      Andante, Variatio 16. Ouverture. a 1 Clav.]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/479ae52b-4c65-4d68-af16-2549064dfc75
+  title: Variations on Variations
+status: draft
+help_wanted:
+- Recording year
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ed39906-8964-45b2-87de-a895616aa60d
+  recordings: [34190530-6f36-415c-97e7-eda41b8c8746]

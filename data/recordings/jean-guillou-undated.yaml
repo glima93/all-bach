@@ -1,0 +1,28 @@
+id: jean-guillou-undated
+performers:
+- name: Jean Guillou
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cb4cfe8a-cedd-4858-b54c-659a38b25125
+  title: The Goldberg Variations (BWV 988)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65542956-ed7d-4ef3-b653-4a729c94ad8d
+  recordings: [075cbf8e-3ed0-4486-bb9f-29144bce3c02]

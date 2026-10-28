@@ -1,0 +1,27 @@
+id: gabriela-montero-2005-2
+performers:
+- name: Gabriela Montero
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2005]
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de59d7fc-fd3f-4d9d-bd89-fb262664af59
+  title: Bach and Beyond
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1d8dc1fd-d345-4030-b62c-00046136eef4
+  recordings: [dfda33db-bb3d-42f8-b048-b8203312dd0d]

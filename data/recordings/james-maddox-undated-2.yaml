@@ -1,0 +1,28 @@
+id: james-maddox-undated-2
+performers:
+- name: James Maddox
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/88fc1eae-8b1d-4c80-8ef4-2e452d60eab1
+  title: Notenbüchlein für Anna Magdalena Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d320d75d-30e8-4c8e-8110-a07b20115725
+  recordings: [3aaf8f78-7929-441b-9609-7ff2a51a1d2a]

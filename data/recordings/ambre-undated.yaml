@@ -1,0 +1,28 @@
+id: ambre-undated
+performers:
+- name: Ambre
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '853', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a5a11020-4f8b-4043-ace9-4f852191a669
+  title: Reverie
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 756bdef0-1b5c-4048-aaa2-2235f9c11aca
+  recordings: [02fafaf6-06dc-4188-be44-7c01484a413d]

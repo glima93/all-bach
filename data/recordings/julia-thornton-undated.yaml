@@ -1,0 +1,29 @@
+id: julia-thornton-undated
+performers:
+- name: Julia Thornton
+  role: harp
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee4de066-0a1f-47b3-bf52-771aa7597283
+  title: Eye of the Storm
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on harp.
+musicbrainz:
+  artist: 690c5c48-dea2-4913-a26e-a9643f912a8c
+  recordings: [a2244ee3-7469-4f93-ac33-52de8396f551]

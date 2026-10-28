@@ -1,0 +1,28 @@
+id: ema-ito-undated
+performers:
+- name: Ema Ito
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5ef949e2-956d-4814-bcd0-d016341e0614
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cecdbd59-b703-4ecc-9aeb-de7559094472
+  recordings: [06d651a1-eb58-487d-93b1-aac78cb4cd3c]

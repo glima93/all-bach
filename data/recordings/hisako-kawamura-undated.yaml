@@ -1,0 +1,28 @@
+id: hisako-kawamura-undated
+performers:
+- name: Hisako Kawamura
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '850', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aa76edd7-01e7-4755-b312-561f89a95f85
+  title: 映画「蜜蜂と遠雷」 〜 河村尚子 plays 栄伝亜夜
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f874f80f-1c67-40aa-bb49-a493e29f5161
+  recordings: [86c6cda1-9c70-4767-b586-d7552c85a89b]

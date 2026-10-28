@@ -1,0 +1,26 @@
+id: stewart-goodyear-2017
+performers:
+- name: Stewart Goodyear
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2017]
+  place: Sono Luminus Studios
+released: 2018
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/984b0eb0-233e-4c8f-9c79-22f533056e45
+  title: For Glenn Gould
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 902209b8-ea1c-4806-a84e-9094fe728fc0
+  recordings: [72347261-b622-4cf9-9fc6-8c147bfcd5a6]

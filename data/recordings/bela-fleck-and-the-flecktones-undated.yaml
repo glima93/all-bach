@@ -1,0 +1,29 @@
+id: bela-fleck-and-the-flecktones-undated
+performers:
+- name: Béla Fleck and the Flecktones
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '889', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4c777dae-337b-475d-82a8-6f25e4cbb089
+  title: The Hidden Land
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 830dce6f-c9ff-4ebe-944b-2ea2ab22fcdf
+  recordings: [c7be5e3a-9515-43f8-8cdb-23cd3c07db70]

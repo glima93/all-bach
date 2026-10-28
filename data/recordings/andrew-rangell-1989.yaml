@@ -1,0 +1,26 @@
+id: andrew-rangell-1989
+performers:
+- name: Andrew Rangell
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1989]
+  place: Troy Savings Bank Music Hall
+released: 1991
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/41de554a-8c3e-44ae-aef3-f0da5983c507
+  title: 'Goldberg Variations / Toccata in F-sharp minor / Musical Offering: The Two Ricercares'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 710da3a1-0476-4592-a2f7-5e89dff41eec
+  recordings: [0ee1b2d5-8232-4bf3-abae-1357c30bf5c5]

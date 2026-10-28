@@ -1,0 +1,28 @@
+id: robin-sutherland-undated
+performers:
+- name: Robin Sutherland
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/730e4c89-25fc-4ab7-a203-d08472f592e6
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3f2ca98c-fdd1-49b5-8255-598ac6268f50
+  recordings: [01d10fcd-a197-45d4-af5b-7a153bd5d3d9]

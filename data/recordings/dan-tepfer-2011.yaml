@@ -1,0 +1,27 @@
+id: dan-tepfer-2011
+performers:
+- name: Dan Tepfer
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2011]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a6b93989-0960-4628-b96b-3267d255f643
+  title: Goldberg Variations / Variations
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0c657eb-20f4-46a2-97c7-8b026b255569
+  recordings: [012cf06b-43f5-4de3-a797-7b1ebf4f5f6a]

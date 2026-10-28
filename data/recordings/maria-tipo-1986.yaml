@@ -1,0 +1,34 @@
+id: maria-tipo-1986
+performers:
+- name: Maria Tipo
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1986]
+  place: Salle Wagram
+released: 1986
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 1. a 1 Clav., Variatio 2. a 1 Clav., Variatio 3. Canone
+      all'Unisuono. a 1 Clav., Variatio 4. a 1 Clav., Variatio 5. a 1 ô vero 2 Clav., Variatio 6. Canone alla Seconda.
+      a 1 Clav., Variatio 7. a 1 ô vero 2 Clav. al tempo di Giga, Variatio 8. a 2 Clav., Variatio 9. Canone alla
+      Terza. a 1 Clav., Variatio 10. Fughetta. a 1 Clav., Variatio 11. a 2 Clav., Variatio 12. Canone alla Quarta,
+    Variatio 13. a 2 Clav., Variatio 14. a 2 Clav., Variatio 15. Canone alla Quinta. a 1 Clav. Andante, Variatio
+      16. Ouverture. a 1 Clav., Variatio 17. a 2 Clav., Variatio 18. Canone alla Sesta. a 1 Clav., Variatio 19.
+      a 1 Clav., Variatio 20. a 2 Clav., Variatio 21. Canone alla Settima, Variatio 22. a 1 Clav. alla breve, Variatio
+      23. a 2 Clav., Variatio 25. a 2 Clav. Adagio, Variatio 26. a 2 Clav., Variatio 27. Canone alla Nona. a 2 Clav.,
+    Variatio 28. a 2 Clav., Variatio 29. a 1 ô vero 2 Clav., Variatio 30. a 1 Clav. Quodlibet, Aria da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e29a97b9-1386-4578-819c-413fdb2daad2
+  title: Variations Goldberg
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 281626b4-a02c-46dc-a1f7-240c5510286c
+  recordings: [00b855aa-4513-4637-9e01-7b7ec9bbe0c0]

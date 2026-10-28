@@ -1,0 +1,29 @@
+id: marshall-mcguire-undated
+performers:
+- name: Marshall McGuire
+  role: harp
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a79ed5d-17db-4348-8992-f49c06ead531
+  title: 'A Musical Banquet: A Feast of Sumptuous Harp Music'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on harp.
+musicbrainz:
+  artist: 160536bd-bd59-45a7-a7d1-89c9e1d63b6a
+  recordings: [2b665446-4963-4d0a-a4ea-eba4200e10ea]

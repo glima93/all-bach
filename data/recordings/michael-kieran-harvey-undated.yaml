@@ -1,0 +1,28 @@
+id: michael-kieran-harvey-undated
+performers:
+- name: Michael Kieran Harvey
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d2436ad5-85f2-4cd0-b831-832119335f2c
+  title: The Classic 100, Volume II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ef2f7ed4-31c9-4620-8818-79353e07e2de
+  recordings: [4b13ef38-d2c5-41d9-91ab-02db23cd391d]

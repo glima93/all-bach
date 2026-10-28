@@ -1,0 +1,27 @@
+id: laszlo-borbely-undated
+performers:
+- name: László Borbély
+  role: grand piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Supersize Recording
+released: 2019
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0032935-a464-42df-9d5c-0e6981a38cd9
+  title: Goldberg-Variationen
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 53a53ffc-5e7a-407c-af62-97f6814f3a18
+  recordings: [0d76534f-d316-48b9-b8f0-bc01a0804933]

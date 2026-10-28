@@ -1,0 +1,26 @@
+id: vladimir-feltsman-1991
+performers:
+- name: Vladimir Feltsman
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1991]
+  place: 'Moscow Conservatory: The Small Hall'
+released: 1993
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/100c5f5d-2382-4a22-843f-c790afd33e6d
+  title: 'Bach: Goldberg Variations'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 0f04948f-006c-45af-9111-da91686610da
+  recordings: [0ab9dc8a-30a7-48ac-a4a2-be3c0979f42c]

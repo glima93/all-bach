@@ -1,0 +1,28 @@
+id: marcel-worms-undated-2
+performers:
+- name: Marcel Worms
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Zeeuwse Concertzaal
+released: 2012
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7deaf6f2-926e-4109-a5ba-7b9acbfab674
+  title: Bach / Glass
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a55151a6-e504-4b91-8181-17859c4180e1
+  recordings: [143b463c-b24a-44c5-b89e-f0a380fcdcee]

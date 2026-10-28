@@ -1,0 +1,14 @@
+bwv: "846"
+title: Prelude and Fugue No. 1
+key: C major
+collection: The Well-Tempered Clavier, Book I
+genre: keyboard
+scoring: keyboard (clavier)
+composed: Köthen; Bach's autograph title page is dated 1722
+movements:
+  - Prelude
+  - Fugue
+notes: "Gounod laid a melody over this prelude in his Méditation of 1853, later sung as the Ave Maria."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier
+  bach_digital: null

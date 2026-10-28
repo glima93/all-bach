@@ -1,0 +1,29 @@
+id: dan-gibson-undated
+performers:
+- name: Dan Gibson
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0ac04af7-b43e-436f-bd12-4735fd7e806a
+  title: 'Nature''s Spa: Classical Bliss'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8b91414e-6f3f-416e-8f2b-138c74b92635
+  recordings: [1caa7794-991b-485d-b365-9a0fdea3ef42]

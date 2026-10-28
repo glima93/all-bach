@@ -1,0 +1,26 @@
+id: beatrice-rana-2016
+performers:
+- name: Beatrice Rana
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2016]
+  place: Teldex Studio
+released: 2017
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c86a5ca6-464a-4047-a2ae-61a73121637e
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a7c82d26-e6bc-49d7-ab2b-eb6e84bf7a9f
+  recordings: [1ac69c65-b9f4-4103-b3a8-4671afb5e9df]

@@ -1,0 +1,26 @@
+id: alexandre-tharaud-2015
+performers:
+- name: Alexandre Tharaud
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2015]
+  place: 'Conservatoire Darius Milhaud: Auditorium Campra'
+released: 2015
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c83c545-e49f-4e6c-8e24-8abf82f5b352
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 83b74911-aa21-4e31-ad1c-5eb505248f5a
+  recordings: [02bb6b85-4459-4b05-8987-afd39c898a08]

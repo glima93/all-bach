@@ -1,0 +1,49 @@
+id: martin-stadtfeld-2008
+performers:
+- name: Martin Stadtfeld
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: Konzerthaus Dortmund
+released: 2008
+original_label: null
+works:
+- {bwv: '846', complete: true}
+- {bwv: '847', complete: true}
+- {bwv: '848', complete: true}
+- {bwv: '849', complete: true}
+- {bwv: '850', complete: true}
+- {bwv: '851', complete: true}
+- {bwv: '852', complete: true}
+- {bwv: '853', complete: false, movements: [Prelude]}
+- {bwv: '854', complete: true}
+- {bwv: '855', complete: true}
+- {bwv: '856', complete: true}
+- {bwv: '857', complete: true}
+- {bwv: '858', complete: true}
+- {bwv: '859', complete: true}
+- {bwv: '860', complete: true}
+- {bwv: '861', complete: true}
+- {bwv: '862', complete: true}
+- {bwv: '863', complete: true}
+- {bwv: '864', complete: true}
+- {bwv: '865', complete: true}
+- {bwv: '866', complete: true}
+- {bwv: '867', complete: true}
+- {bwv: '868', complete: true}
+- {bwv: '869', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0a7fd2b5-64b5-467e-9530-4e637edc5402
+  title: Das wohltemperierte Klavier I
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b58542fb-afcb-431d-a234-fb5bf7f93a09
+  recordings: [0123d2b9-0c23-4b22-aed1-163fbc2f1292]

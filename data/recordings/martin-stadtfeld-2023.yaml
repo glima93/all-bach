@@ -1,0 +1,26 @@
+id: martin-stadtfeld-2023
+performers:
+- name: Martin Stadtfeld
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2023]
+  place: Funkhaus Wallrafplatz
+released: 2023
+original_label: null
+works:
+- {bwv: '876', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9551545b-0da4-4de5-8a46-2ba1b6aa129a
+  title: Baroque Colours
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b58542fb-afcb-431d-a234-fb5bf7f93a09
+  recordings: [93792bfb-4dfd-4a24-9df0-58960397a559]

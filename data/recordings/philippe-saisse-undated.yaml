@@ -1,0 +1,29 @@
+id: philippe-saisse-undated
+performers:
+- name: Philippe Saisse
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/617fe9d5-3cba-419d-ace8-d67004437dea
+  title: 'A Different Prelude: A Contemporary Collection'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3887cb49-8864-43d4-8bf0-ad93f1f37f74
+  recordings: [23a769ec-5e75-48a1-82a7-b103f14c8449]

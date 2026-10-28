@@ -1,0 +1,27 @@
+id: maria-yudina-1968
+performers:
+- name: Maria Yudina
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1968]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e839e350-df7e-4303-93c9-742258c73064
+  title: 'Great Pianists of the 20th Century, Volume 99: Maria Yudina'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b230cee7-3fb4-423f-8f5c-c4eca571ca2e
+  recordings: [00250140-1fc3-4a6d-af4e-2ba0d5d4d229]

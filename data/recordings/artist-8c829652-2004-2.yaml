@@ -1,0 +1,26 @@
+id: artist-8c829652-2004-2
+performers:
+- name: 曽根麻矢子
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2004]
+  place: 白寿ホール
+released: 2004
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eda01647-cf46-43e1-b5ba-ab8739e9888b
+  title: Chaconne
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c829652-b681-43fe-adde-f18267a0e7cf
+  recordings: [d8a41697-1167-4bdc-bf73-32f7199fcf42]

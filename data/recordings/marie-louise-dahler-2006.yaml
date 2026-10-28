@@ -1,0 +1,26 @@
+id: marie-louise-dahler-2006
+performers:
+- name: Marie-Louise Dähler
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: Propstei Sankt Gerold
+released: 2007
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f926581-c5e3-42d6-8fd0-295c0639deba
+  title: Towards Silence
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 961063be-8701-44a2-b18e-06266f6e4319
+  recordings: [0589da74-4ae5-41b7-b821-7e0885fcc5d2]

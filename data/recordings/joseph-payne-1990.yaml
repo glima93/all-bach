@@ -1,0 +1,26 @@
+id: joseph-payne-1990
+performers:
+- name: Joseph Payne
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Forde Estate
+released: 1991
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9ce7a812-cce1-4dba-9578-6dca0af5733e
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a719dafb-b59a-49ef-85c8-a0caffba63b2
+  recordings: [01919f00-d12c-40ee-af44-08cf72abc790]

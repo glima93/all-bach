@@ -1,0 +1,29 @@
+id: tim-allhoff-undated
+performers:
+- name: Tim Allhoff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '848', complete: false, movements: [Prelude]}
+- {bwv: '849', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b357348e-3f32-472b-91ef-02fbf24f9bcb
+  title: BACH
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5502c4a2-4bd4-439f-935d-af78448d83d1
+  recordings: [196694a7-d965-4f10-bf6a-181ee7ff8f3d]

@@ -1,0 +1,28 @@
+id: nigel-simpson-undated
+performers:
+- name: Nigel Simpson
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92744e0b-74dc-49e7-bed8-b53cb64d9479
+  title: Bach Family Notebook
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2c4a1384-0fa1-455f-948b-b87ca32f4554
+  recordings: [2e070ccb-5338-4e56-9a2e-04b541e0ec8f]

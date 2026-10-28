@@ -66,10 +66,15 @@ INSTRUMENTS = {
     "baroque violin": "baroque-violin",
     "guitar": "guitar", "classical guitar": "guitar", "acoustic guitar": "guitar",
     "lute": "lute", "harpsichord": "harpsichord", "piano": "piano", "grand piano": "piano",
-    "organ": "organ", "clavichord": "clavichord",
+    "organ": "organ", "pipe organ": "organ", "clavichord": "clavichord", "fortepiano": "fortepiano",
+    "harpsichord / cembalo": "harpsichord", "cembalo": "harpsichord",
+    "lautenwerck": "harpsichord", "lute-harpsichord": "harpsichord",
 }
 CELLO_FAMILY = ["cello", "baroque-cello", "violoncello-piccolo", "violoncello-da-spalla"]
-HISTORICAL = {"baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "viola-da-gamba", "baroque-violin"}
+HISTORICAL = {"baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "viola-da-gamba", "baroque-violin",
+              "harpsichord", "clavichord", "fortepiano"}
+MODERN = {"piano"}
+KEYBOARD = ["harpsichord", "piano", "clavichord", "organ", "fortepiano"]
 
 
 class Flow(list):
@@ -122,7 +127,9 @@ def expand(c: dict, bwvs: list[str], moves: dict[str, list[str]]) -> dict:
     l live, ins instruments credited, roles {performer: instrument}, pl places
     recorded at, r [release MBID, title], rep representative recording MBID.
     """
-    masks = [int(x) for x in c["m"].split(",")]
+    # Masks were built with JavaScript bitwise operators, which are signed 32-bit:
+    # a work with 32 movements all present comes out as -1. Undo that.
+    masks = [int(x) % 2**32 if int(x) < 0 else int(x) for x in c["m"].split(",")]
     mv = []
     for bwv, mask in zip(bwvs, masks):
         if mask >> len(moves[bwv]):
@@ -153,7 +160,10 @@ def instrument_of(perf: dict, native: set[str]) -> tuple[str, list[str], dict]:
     if not perf["ins"]:
         return "unknown", [], roles
     mapped = [(i, INSTRUMENTS.get(i.lower(), "other")) for i in perf["ins"]]
-    main = next((m for _, m in mapped if m in native), mapped[0][1])
+    main = next((m for _, m in mapped if m in native), None)
+    if main is None and len({m for _, m in mapped}) >= 3:
+        return "ensemble", [], roles  # a string trio or similar group arrangement
+    main = main or mapped[0][1]
     main_label = next(i for i, m in mapped if m == main)
     others = [i for i, m in mapped if i != main_label and m != main]
     return main, others, roles
@@ -210,7 +220,7 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         "id": "",
         "performers": performers,
         "instrument": instrument,
-        "performance_practice": "historical" if instrument in HISTORICAL else "unknown",
+        "performance_practice": "historical" if instrument in HISTORICAL else "modern" if instrument in MODERN else "unknown",
         "arrangement": instrument not in native | {"unknown"} or bool(others),
         "recorded": {"years": Flow(sorted(perf["years"])), "place": "; ".join(dict.fromkeys(perf["places"])) or None},
         "released": year(perf.get("firstRelease")),
@@ -313,15 +323,29 @@ def main(snapshot: str) -> int:
         else:
             results.append((None, new))
 
+    # File names: <performer>-<year>, then -2, -3 … for clashes. Names already on disk are never
+    # reused, including those from other snapshots, and a matched file keeps its name when it still fits.
     untouched = [p for p in existing if p not in used_paths]
-    taken = {p.stem: 1 for p in untouched}
-    out_dir = DATA / "recordings"
+    occupied = {p.stem for p in untouched}
+    stems = []
     for target, rec in results:
         ys = rec["recorded"]["years"]
-        stem = f"{slug_for(rec)}-{min(ys)}" if ys else f"{slug_for(rec)}-undated"
-        n = taken.get(stem, 0) + 1
-        taken[stem] = n
-        rec["id"] = stem if n == 1 else f"{stem}-{n}"
+        stems.append(f"{slug_for(rec)}-{min(ys)}" if ys else f"{slug_for(rec)}-undated")
+    ids: list[str | None] = [None] * len(results)
+    for i, ((target, rec), stem) in enumerate(zip(results, stems)):
+        if target is not None and target.stem not in occupied and re.fullmatch(re.escape(stem) + r"(-\d+)?", target.stem):
+            ids[i] = target.stem
+            occupied.add(target.stem)
+    for i, stem in enumerate(stems):
+        if ids[i] is None:
+            n = 1
+            while (stem if n == 1 else f"{stem}-{n}") in occupied:
+                n += 1
+            ids[i] = stem if n == 1 else f"{stem}-{n}"
+            occupied.add(ids[i])
+    out_dir = DATA / "recordings"
+    for (target, rec), rid in zip(results, ids):
+        rec["id"] = rid
         path = out_dir / f"{rec['id']}.yaml"
         if target is not None and target != path:
             target.unlink()

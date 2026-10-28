@@ -1,0 +1,27 @@
+id: millicent-silver-1958
+performers:
+- name: Millicent Silver
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1958]
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2b509629-daaf-4e65-974f-04e9141073d4
+  title: Goldberg Variationen, BWV 988
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c4d1ce75-a6e9-41d5-9358-535c6a5ad287
+  recordings: [08dd14db-c0b3-43e2-a4ee-00b03e5a760b]

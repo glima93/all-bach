@@ -1,0 +1,26 @@
+id: helga-ingolfsdottir-1999
+performers:
+- name: Helga Ingólfsdóttir
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Skálholtskirkja
+released: 1999
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4a26ea3f-ce3c-417c-a1e5-081fb3b6f6a3
+  title: Goldbergtibrigðin, BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eefd265b-00f3-40e6-aa3d-374cea108fdb
+  recordings: [02e6f880-17e8-4703-8cca-e17927ced3ee]

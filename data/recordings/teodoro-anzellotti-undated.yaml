@@ -1,0 +1,29 @@
+id: teodoro-anzellotti-undated
+performers:
+- name: Teodoro Anzellotti
+  role: piano accordion
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Variatio 18. Canone alla Sesta. a 1 Clav., Variatio 20. a 2 Clav.]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e07f154f-cb0a-45dd-aa27-29d7cc2d5106
+  title: Accordion Time Voyage
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on piano accordion.
+musicbrainz:
+  artist: f817d8b6-4dbf-48b6-93d6-96e33f0d1cca
+  recordings: [1acc41f8-9a05-4cf6-9b6f-e45350826fad]

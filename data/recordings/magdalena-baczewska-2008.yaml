@@ -1,0 +1,26 @@
+id: magdalena-baczewska-2008
+performers:
+- name: Magdalena Baczewska
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: Patrych Sound Studios
+released: 2008
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4df5d99a-f8f5-42de-8e35-49d51c310619
+  title: A Tribute to Glenn Gould
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5430e4c7-70cf-4ccf-a8d9-5601da2c04b5
+  recordings: [01f894c5-8d17-4f1d-9d20-0b43b06b5b92]

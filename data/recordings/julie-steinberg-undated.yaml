@@ -1,0 +1,28 @@
+id: julie-steinberg-undated
+performers:
+- name: Julie Steinberg
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b4f473bd-86ac-4c73-ae80-250bb1143d02
+  title: The English Patient
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ce0f1db4-48ea-4b21-bb99-286015ef6ad5
+  recordings: [f7d5468b-7ebe-4d21-9ed9-c88a500f82c2]

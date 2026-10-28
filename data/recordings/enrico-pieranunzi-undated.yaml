@@ -1,0 +1,29 @@
+id: enrico-pieranunzi-undated
+performers:
+- name: Enrico Pieranunzi
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Bauer Studios
+released: 2011
+original_label: null
+works:
+- {bwv: '859', complete: false, movements: [Prelude]}
+- {bwv: '884', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cec6e037-4479-453f-ae6d-f2ab43c827f4
+  title: Works and Improvisations - 1685
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With fortepiano.
+musicbrainz:
+  artist: 6cc85fde-63df-4576-8bb7-7db27fdcc311
+  recordings: [3438c406-552b-48e2-8e75-976d922cda13]

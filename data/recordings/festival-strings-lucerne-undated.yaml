@@ -1,0 +1,30 @@
+id: festival-strings-lucerne-undated
+performers:
+- name: Festival Strings Lucerne
+  role: strings
+- name: Rudolf Baumgartner
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Verkehrshaus
+released: 1980
+original_label: null
+works:
+- {bwv: '878', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f25a4bc-3777-42de-8988-36881a9cb693
+  title: Toccata und Fuge - Die schönsten Melodien von Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on strings.
+musicbrainz:
+  artist: e5d0debb-ba7e-41b7-b3a6-73a900c0a74c
+  recordings: [81f16b81-b866-47d3-814b-8093ec06c4b2]

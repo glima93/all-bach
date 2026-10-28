@@ -1,0 +1,28 @@
+id: wilhelm-ohmen-undated
+performers:
+- name: Wilhelm Ohmen
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/62beab2c-bebd-4d76-a905-c764890641fa
+  title: Piano Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9d2c2c62-97f7-42d9-85f3-e8781a108563
+  recordings: [4d57e7be-1806-4180-b842-2c039d4ebaa8]

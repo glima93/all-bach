@@ -1,0 +1,34 @@
+id: artist-4063cf21-undated
+performers:
+- name: 今井信子
+  role: viola
+- name: Mischa Maisky
+  role: cello
+- name: Julian Rachlin
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Lukaskirche
+released: 2018
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Variatio 16. Ouverture. a 1 Clav., Variatio 17. a 2 Clav., Variatio
+      18. Canone alla Sesta. a 1 Clav., Variatio 19. a 1 Clav., Variatio 20. a 2 Clav.]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4063cf21-166f-413a-a371-a9a50c02156c
+  recordings: [4f3f9c50-3b34-47ce-b134-f1b5d7024b37]

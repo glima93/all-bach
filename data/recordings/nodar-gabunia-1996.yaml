@@ -1,0 +1,27 @@
+id: nodar-gabunia-1996
+performers:
+- name: Nodar Gabunia
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1996]
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4e0d612e-d967-41d8-83a7-ef9fcf9e52c0
+  title: The Goldberg Variations, BWV 988
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c630ee1d-195e-49c8-b215-c2dff81eaab1
+  recordings: [04ed8f5e-1db8-4e2c-b72d-6e362bda0d7b]

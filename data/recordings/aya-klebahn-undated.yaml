@@ -1,0 +1,28 @@
+id: aya-klebahn-undated
+performers:
+- name: Aya Klebahn
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/62429bff-e9d2-4b07-b1ac-ef1b4ef946d7
+  title: Musik fuer 9 monate
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e42f7095-c0c7-45d1-9dd1-569d14bc29c9
+  recordings: [331430d1-0685-465f-b1b8-922440a66f50]

@@ -1,0 +1,28 @@
+id: ji-undated
+performers:
+- name: Ji
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5871998b-b389-4c5c-92a7-2f10a88c24fc
+  title: Goldberg Variations, BWV 988
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 60dff5b2-ae44-481f-8893-abac96df995b
+  recordings: [07bc1939-9f61-4304-841b-72a22467266b]

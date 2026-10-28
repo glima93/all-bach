@@ -1,0 +1,26 @@
+id: chen-pi-hsien-1985
+performers:
+- name: Chen Pi-hsien
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: Festeburgkirche
+released: 1991
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b130221d-746f-436e-8133-d5a6244e9b62
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9db33d5d-434a-46af-9749-bbd18c2ba630
+  recordings: [0ea7007c-5a4a-4a74-8800-4b66c7127886]

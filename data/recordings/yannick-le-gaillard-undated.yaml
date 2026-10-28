@@ -1,0 +1,28 @@
+id: yannick-le-gaillard-undated
+performers:
+- name: Yannick Le Gaillard
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/560ece04-bca0-4e2d-a2e5-afe1618aa1a1
+  title: Variations Goldberg
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fcc8bae2-7ff9-4af5-b0f2-58173d5ad210
+  recordings: [0a59fa6f-50f0-4ad6-a8d9-14f5236064ae]

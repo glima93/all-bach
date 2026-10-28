@@ -1,0 +1,29 @@
+id: christiane-jaccottet-1989
+performers:
+- name: Christiane Jaccottet
+  role: harpsichord
+- name: Silvia Čápová
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5eeb851e-23c4-48fe-a846-59d7f14229ae
+  title: Bach Greatest Hits
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85f89ec1-8f4e-4201-a8a2-80e6cbb9c9e2
+  recordings: [dbffe985-38b2-491b-b315-2a5e74014de5]

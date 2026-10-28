@@ -1,0 +1,28 @@
+id: diane-hidy-undated
+performers:
+- name: Diane Hidy
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/406d49c3-e803-46c7-8d7b-a7d28b1e5c52
+  title: 'Keith Snell Piano Repertoire: Level 5'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 57586d5a-0bc2-45c9-a446-f60de358a593
+  recordings: [0561a10b-c210-4e71-b7d4-0978c14a371a]

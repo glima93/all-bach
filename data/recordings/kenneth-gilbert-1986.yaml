@@ -1,0 +1,27 @@
+id: kenneth-gilbert-1986
+performers:
+- name: Kenneth Gilbert
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1986]
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7998f050-c9b5-3d5f-aad3-bd94949fbfd4
+  title: Variations Goldberg
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24dade80-0518-4ae7-b62e-cbd31489bb5d
+  recordings: [19489c95-6e76-4a15-92d7-2154b68f6715]

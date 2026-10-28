@@ -1,0 +1,26 @@
+id: fazl-say-2019
+performers:
+- name: Fazıl Say
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2019]
+  place: Universität Mozarteum Salzburg
+released: 2024
+original_label: null
+works:
+- {bwv: '847', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f1cf8c6c-cd68-40e9-9427-bae12d7cad93
+  title: Morning
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 131b73d6-049f-43d7-b072-8eb71bffc78d
+  recordings: [0c3ace89-8c5e-4052-a033-aaee8e43f915]

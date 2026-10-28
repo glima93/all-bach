@@ -1,0 +1,59 @@
+id: edwin-fischer-1934
+performers:
+- name: Edwin Fischer
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1934, 1935, 1936]
+  place: 'Abbey Road Studios: Studio 3'
+released: 1989
+original_label: null
+works:
+- {bwv: '859', complete: true}
+- {bwv: '860', complete: true}
+- {bwv: '861', complete: true}
+- {bwv: '863', complete: true}
+- {bwv: '864', complete: true}
+- {bwv: '865', complete: true}
+- {bwv: '866', complete: true}
+- {bwv: '868', complete: true}
+- {bwv: '869', complete: true}
+- {bwv: '870', complete: true}
+- {bwv: '871', complete: true}
+- {bwv: '872', complete: true}
+- {bwv: '873', complete: true}
+- {bwv: '874', complete: true}
+- {bwv: '875', complete: true}
+- {bwv: '876', complete: true}
+- {bwv: '877', complete: true}
+- {bwv: '878', complete: true}
+- {bwv: '879', complete: true}
+- {bwv: '880', complete: true}
+- {bwv: '881', complete: true}
+- {bwv: '882', complete: true}
+- {bwv: '883', complete: true}
+- {bwv: '884', complete: true}
+- {bwv: '885', complete: true}
+- {bwv: '886', complete: true}
+- {bwv: '887', complete: true}
+- {bwv: '888', complete: true}
+- {bwv: '889', complete: true}
+- {bwv: '890', complete: true}
+- {bwv: '891', complete: true}
+- {bwv: '892', complete: true}
+- {bwv: '893', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e769d1e2-5bca-4554-82ae-4793ac9ba387
+  title: 'Edwin Fischer Plays Bach, Volume One: The Well‐Tempered Clavier, Book I, BWV 846–869 / Chromatic Fantasia
+    and Fugue in D minor, BWV 903 / Toccata in D major, BWV 912'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29c75fb9-d75c-4186-8892-6752d4bbc0a2
+  recordings: [06a7064e-8944-415d-9178-826173bbaad6]

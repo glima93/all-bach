@@ -1,0 +1,26 @@
+id: albert-fuller-1986
+performers:
+- name: Albert Fuller
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1986]
+  place: John Harms Center for the Arts, Englewood
+released: 2001
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f50a0904-bfa2-4f2d-9bf4-e572f335d4d8
+  title: Baroque Favorites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eb82d667-5607-4404-9de8-54c8753e4ca5
+  recordings: [47d9b5f1-48b3-4bd3-8ef0-e71b3c4d3010]

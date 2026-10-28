@@ -1,0 +1,26 @@
+id: glenn-gould-1981
+performers:
+- name: Glenn Gould
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1981]
+  place: CBS 30th Street Studio
+released: 1982
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fed9286f-4145-4fe7-b130-36744a6bdd00
+  title: The Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7002bf88-1269-4965-a772-4ba1e7a91eaa
+  recordings: [10edf542-c338-4411-bfc2-de13c3284dde]

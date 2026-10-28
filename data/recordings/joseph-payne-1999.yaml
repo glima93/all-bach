@@ -1,0 +1,36 @@
+id: joseph-payne-1999
+performers:
+- name: Joseph Payne
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '847', complete: false, movements: [Prelude]}
+- {bwv: '848', complete: false, movements: [Prelude]}
+- {bwv: '849', complete: false, movements: [Prelude]}
+- {bwv: '850', complete: false, movements: [Prelude]}
+- {bwv: '851', complete: false, movements: [Prelude]}
+- {bwv: '853', complete: false, movements: [Prelude]}
+- {bwv: '854', complete: false, movements: [Prelude]}
+- {bwv: '856', complete: false, movements: [Prelude]}
+- {bwv: '857', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d107d67b-b41f-4f94-8070-57f83cbe4f74
+  title: Klavierbüchlein für Wilhelm Friedemann Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a719dafb-b59a-49ef-85c8-a0caffba63b2
+  recordings: [0b8006a0-4494-4dca-9d70-6b1125995bac]

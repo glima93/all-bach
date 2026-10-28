@@ -1,0 +1,26 @@
+id: misi-boros-2021
+performers:
+- name: Misi Boros
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2021]
+  place: Supersize Recording
+released: 2022
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ce7b946f-4a7e-46f8-97b9-56fe53d83c15
+  title: Reflections on Beauty
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 48c0aea6-c0e6-4fda-8b8b-4db9c8b14e39
+  recordings: [fb9f47eb-fb45-434d-9d90-34ba02e4285f]

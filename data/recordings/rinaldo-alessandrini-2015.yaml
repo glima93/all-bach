@@ -1,0 +1,26 @@
+id: rinaldo-alessandrini-2015
+performers:
+- name: Rinaldo Alessandrini
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2015]
+  place: Église luthérienne de Bon Secours
+released: 2015
+original_label: null
+works:
+- {bwv: '870', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cb0ea5a6-80ae-444b-88d8-959ed4105c34
+  title: Praeludien & Fugen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fe8e649-728d-4ae6-969c-25947ff9bb96
+  recordings: [99824131-9a7d-4501-b488-7afab167005d]

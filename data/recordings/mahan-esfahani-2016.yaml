@@ -1,0 +1,26 @@
+id: mahan-esfahani-2016
+performers:
+- name: Mahan Esfahani
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Deutschlandfunk Kammermusiksaal
+released: 2016
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/737b15a2-dc1c-4b0e-9378-88efd8005187
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a2704dbd-4e05-4b89-917c-85c578fc1488
+  recordings: [21608be8-9ff8-489f-ac53-28c5fa434682]

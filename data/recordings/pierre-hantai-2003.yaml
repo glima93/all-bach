@@ -1,0 +1,26 @@
+id: pierre-hantai-2003
+performers:
+- name: Pierre Hantaï
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Doopsgezinde kerk
+released: 2003
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ae0d63c8-8256-4c53-9bb9-470dc0277850
+  title: Variations Goldberg BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bf55610c-41d9-45bf-a0ae-d912f49071a0
+  recordings: [0462d6d9-bfeb-4bd4-ac2c-5e2743438d11]

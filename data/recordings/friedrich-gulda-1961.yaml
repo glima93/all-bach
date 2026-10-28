@@ -1,0 +1,27 @@
+id: friedrich-gulda-1961
+performers:
+- name: Friedrich Gulda
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1961]
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '848', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5c1f3893-9362-4bd4-814f-5a48f0f6afc8
+  title: Complete Decca Recordings
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e77e163b-e86d-4a06-a16e-8a06575c227f
+  recordings: [617bd654-ee9d-4f75-bb09-dcb014c7404d]

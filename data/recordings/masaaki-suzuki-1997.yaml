@@ -1,0 +1,27 @@
+id: masaaki-suzuki-1997
+performers:
+- name: Masaaki Suzuki
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0799736-0ad4-4f79-8bda-0fc0f8673dbb
+  title: 'Complete Keyboard Works, Volume 2: Goldberg Variations'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d41e5072-3a8e-4f1f-97ab-3b0820de74c1
+  recordings: [01a4a98c-891f-43fe-b8cb-3d978d331aaf]

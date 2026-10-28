@@ -1,0 +1,27 @@
+id: christina-bjrke-2000
+performers:
+- name: Christina Bjørkøe
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2000]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b23300a2-505e-4740-8fde-cf9d74c9ea46
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7acc9113-dcaf-478c-b5fe-9ab79a7341f5
+  recordings: [00ff5d70-1994-41f7-9f1a-e0ca45a11763]

@@ -1,0 +1,28 @@
+id: henk-lagendaal-undated
+performers:
+- name: Henk Lagendaal
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e52b9c8-e492-4f75-a300-fe921b738c6b
+  title: 50 Shades of Classical
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b3da4231-4c07-4b65-9fde-ff748be21447
+  recordings: [81776e8f-a2c1-40b9-86b6-138e9ce7b235]

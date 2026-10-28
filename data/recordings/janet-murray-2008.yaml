@@ -1,0 +1,26 @@
+id: janet-murray-2008
+performers:
+- name: Janet Murray
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: Unitarian Universalist Church of Berkeley
+released: 2010
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a6d69b8a-87bc-4392-900b-a3217431047b
+  title: Sounds from Another World
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ac4b4aa4-edc8-4dbd-b92e-191c81e27e98
+  recordings: [018bde30-20d3-46f9-b5fb-a6884b910721]

@@ -1,0 +1,26 @@
+id: yuji-takahashi-1976
+performers:
+- name: Yuji Takahashi
+  role: grand piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1976]
+  place: サンパール荒川
+released: 2006
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2ac90bfb-2b91-4543-8fc4-8ef570b498cd
+  title: The Goldberg Variations BWV988 / 14 Canons BWV1087
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c72aeaf8-31b1-49a2-8b93-f47fec9d3309
+  recordings: [03181d56-193e-409d-9462-2e39275aa0a1]

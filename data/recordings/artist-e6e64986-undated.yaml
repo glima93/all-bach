@@ -1,0 +1,30 @@
+id: artist-e6e64986-undated
+performers:
+- name: 美野春樹
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 1. a 1 Clav.]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cfcdb5f6-7f34-4305-b930-42ac3a58afbd
+  title: 時をかける少女 Original Sound Track
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6e64986-65b7-443c-874e-9241e9b45e25
+  recordings: [a1cadf95-0c70-44c9-adc0-7e09abacf20b]

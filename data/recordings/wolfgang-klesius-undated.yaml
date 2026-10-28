@@ -1,0 +1,28 @@
+id: wolfgang-klesius-undated
+performers:
+- name: Wolfgang Klesius
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 1. a 1 Clav.]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/38a1ba27-7e47-4af5-8cd3-38944b9a76ff
+  title: 'Johann Sebastian Bach: Goldberg Variationen - BWV 988 (Wolfgang Klesius)'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 53484656-b62d-4132-a030-5dd7dd0b18a2
+  recordings: [8bb25512-a121-470b-ac84-51086eb7a62c]

@@ -1,0 +1,26 @@
+id: abram-bezuijen-1998
+performers:
+- name: Abram Bezuijen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: St.-Georgs-Kirche
+released: 1998
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6233dd9d-8e22-4beb-965b-f929dba1d59b
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8598603d-2d71-4c6a-a82f-ae736d9c505a
+  recordings: [081e27c3-c9c4-48cf-8560-a830bcbedb2a]

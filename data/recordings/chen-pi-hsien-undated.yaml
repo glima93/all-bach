@@ -1,0 +1,31 @@
+id: chen-pi-hsien-undated
+performers:
+- name: Chen Pi‐hsien
+  role: piano
+- name: Lutz Görner
+  role: performer
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44526255-cd5e-4932-a815-49f20a4cd225
+  title: 'Musik für Kinder: Barock, Klassik, Romantik'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9db33d5d-434a-46af-9749-bbd18c2ba630
+  recordings: [8a9bdeaf-c59e-4dd5-8ce8-77ee2986e868]

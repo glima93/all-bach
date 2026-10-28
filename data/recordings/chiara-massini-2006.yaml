@@ -1,0 +1,27 @@
+id: chiara-massini-2006
+performers:
+- name: Chiara Massini
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f4649f40-622b-4525-9054-9a3f4bac927a
+  title: Variazioni Goldberg
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d212e30f-c488-4fa9-8592-fcb434683253
+  recordings: [20f45abb-d7a5-4299-aa2c-c81dd6cdf89c]

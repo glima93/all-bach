@@ -1,0 +1,28 @@
+id: richard-steiner-undated
+performers:
+- name: Richard Steiner
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8abf5f7e-563f-492a-b3f1-a1fdff238076
+  title: 100 Relaxing Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 478f1021-8a44-4766-ac38-8e13ffdf5558
+  recordings: [65738306-4f3c-4acb-a6d9-52fa28e3f227]

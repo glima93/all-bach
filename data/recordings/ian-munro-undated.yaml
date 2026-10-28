@@ -1,0 +1,28 @@
+id: ian-munro-undated
+performers:
+- name: Ian Munro
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/22fd49d8-dcd6-42de-8d7e-af68959930b6
+  title: The Classic 100 - Swoon
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 36b920e2-2295-4814-8f11-a849924ab0c7
+  recordings: [2c143782-7e74-4fe2-b173-2fc13a1ac2a4]

@@ -1,0 +1,31 @@
+id: rinaldo-alessandrini-2019
+performers:
+- name: Rinaldo Alessandrini
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: Auditorium Parco della Musica
+released: 2021
+original_label: null
+works:
+- {bwv: '847', complete: true}
+- {bwv: '851', complete: true}
+- {bwv: '865', complete: true}
+- {bwv: '871', complete: true}
+- {bwv: '875', complete: true}
+- {bwv: '889', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4c30675e-499f-4834-98a2-8f5799e24ad8
+  title: Klavierwerke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fe8e649-728d-4ae6-969c-25947ff9bb96
+  recordings: [15b36e2c-4fab-4ff3-be81-42c16fb5cacc]

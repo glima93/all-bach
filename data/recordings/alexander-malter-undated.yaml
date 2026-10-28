@@ -1,0 +1,28 @@
+id: alexander-malter-undated
+performers:
+- name: Alexander Malter
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '867', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ab2c369c-b256-4803-825b-619fbaa211cd
+  title: „Eigentlich wollte ich Pianist werden“
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ae1323d2-cd19-4232-9765-3fc6bd7c1ebf
+  recordings: [4470f7d4-f2c8-4c6d-9a4c-d45bed528829]

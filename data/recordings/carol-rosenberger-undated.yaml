@@ -1,0 +1,27 @@
+id: carol-rosenberger-undated
+performers:
+- name: Carol Rosenberger
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: First Congregational Church
+released: 1989
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f45f528-c623-4357-894c-b30d9badc805
+  title: 'Perchance to Dream: A Lullaby Album'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 19d76d66-d1d8-426c-be53-c101e680a452
+  recordings: [49514226-a434-4ce4-aa6a-88b3c1d9bcca]

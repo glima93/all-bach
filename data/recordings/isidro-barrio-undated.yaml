@@ -1,0 +1,28 @@
+id: isidro-barrio-undated
+performers:
+- name: Isidro Barrio
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6f88de2a-2ebb-48a0-ae7d-4d3bd5852b4c
+  title: Goldberg-Variationen
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e61a5d73-5b31-47b1-a166-8d4459f6d6d0
+  recordings: [03451f9b-ed03-4072-88aa-dbbc93571b2c]

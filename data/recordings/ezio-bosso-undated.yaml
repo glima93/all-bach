@@ -1,0 +1,29 @@
+id: ezio-bosso-undated
+performers:
+- name: Ezio Bosso
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '855', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bcd4e3f3-7bb0-4d81-8328-09c3ec725c03
+  title: The 12th Room
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 987e4395-09be-4f17-abd4-166bf83cf29c
+  recordings: [27cfb090-772d-49f0-a0a8-29906a8e1d34]

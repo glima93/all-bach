@@ -1,0 +1,29 @@
+id: artist-7b947d0c-undated
+performers:
+- name: 古賀大路
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '846', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3c45f26a-8c3c-4039-84eb-5336308d3c56
+  title: 四月は君の嘘 トゥインクル リトルスター
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7b947d0c-3b92-4688-99bb-dcfc19ed386f
+  recordings: [3c0b61a5-ce82-4157-8e80-3c9f6a88264a]

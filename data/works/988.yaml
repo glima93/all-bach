@@ -1,0 +1,44 @@
+bwv: "988"
+title: Goldberg Variations
+key: G major
+collection: Goldberg Variations
+genre: keyboard
+scoring: harpsichord with two manuals ("a 2 Clav.")
+composed: Leipzig; published in Nuremberg in 1741 as Clavier-Übung IV
+movements:
+  - "Aria"
+  - "Variatio 1. a 1 Clav."
+  - "Variatio 2. a 1 Clav."
+  - "Variatio 3. Canone all'Unisuono. a 1 Clav."
+  - "Variatio 4. a 1 Clav."
+  - "Variatio 5. a 1 ô vero 2 Clav."
+  - "Variatio 6. Canone alla Seconda. a 1 Clav."
+  - "Variatio 7. a 1 ô vero 2 Clav. al tempo di Giga"
+  - "Variatio 8. a 2 Clav."
+  - "Variatio 9. Canone alla Terza. a 1 Clav."
+  - "Variatio 10. Fughetta. a 1 Clav."
+  - "Variatio 11. a 2 Clav."
+  - "Variatio 12. Canone alla Quarta"
+  - "Variatio 13. a 2 Clav."
+  - "Variatio 14. a 2 Clav."
+  - "Variatio 15. Canone alla Quinta. a 1 Clav. Andante"
+  - "Variatio 16. Ouverture. a 1 Clav."
+  - "Variatio 17. a 2 Clav."
+  - "Variatio 18. Canone alla Sesta. a 1 Clav."
+  - "Variatio 19. a 1 Clav."
+  - "Variatio 20. a 2 Clav."
+  - "Variatio 21. Canone alla Settima"
+  - "Variatio 22. a 1 Clav. alla breve"
+  - "Variatio 23. a 2 Clav."
+  - "Variatio 24. Canone all'Ottava. a 1 Clav."
+  - "Variatio 25. a 2 Clav. Adagio"
+  - "Variatio 26. a 2 Clav."
+  - "Variatio 27. Canone alla Nona. a 2 Clav."
+  - "Variatio 28. a 2 Clav."
+  - "Variatio 29. a 1 ô vero 2 Clav."
+  - "Variatio 30. a 1 Clav. Quodlibet"
+  - "Aria da capo"
+notes: "An aria with thirty variations built on its bass line, not its melody. Every third variation is a canon, at intervals widening from the unison (Variatio 3) to the ninth (Variatio 27). The headings are Bach's own; 'a 1 Clav.' and 'a 2 Clav.' say whether a variation is played on one manual or two."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Goldberg_Variations
+  bach_digital: null

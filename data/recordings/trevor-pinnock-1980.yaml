@@ -1,0 +1,26 @@
+id: trevor-pinnock-1980
+performers:
+- name: Trevor Pinnock
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1980]
+  place: Conservatoire de Paris
+released: 1985
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b912c6ad-2dc3-457c-b43e-068d288cc56f
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 66d97594-15fd-49b9-8359-0c014dbe8719
+  recordings: [16ee027a-c21c-44a6-b3dd-ceddef794266]

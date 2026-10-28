@@ -1,0 +1,29 @@
+id: francesco-cera-undated
+performers:
+- name: Francesco Cera
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '869', complete: false, movements: [Fugue]}
+- {bwv: '877', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fa3bd6d8-a9a0-4553-a694-23ae734d261e
+  title: The Well-Tempered Clavier, BWV 846-893
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 906ea4a4-8527-4d31-bbfa-c79c6a31b4b3
+  recordings: [1d089d78-7d28-4e57-b983-acc7eb1c5c53]

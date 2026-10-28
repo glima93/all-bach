@@ -1,0 +1,29 @@
+id: jeno-jando-undated
+performers:
+- name: Jenő Jandó
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '853', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b94c17f9-e1d2-458d-9bce-fd3eaf30bb4f
+  title: The Genius of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 42959d4b-b222-49e3-880d-b21a87689279
+  recordings: [232fa40a-c538-43b3-b3eb-6c98281115b6]

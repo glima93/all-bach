@@ -1,0 +1,26 @@
+id: kimiko-douglass-ishizaka-2012
+performers:
+- name: Kimiko Douglass-Ishizaka
+  role: grand piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2012]
+  place: Teldex Studio
+released: 2012
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b4154729-0b32-46d9-ba8f-04c337999102
+  title: 'J.S. Bach: “Open” Goldberg Variations, BWV 988 (Piano)'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24039c0a-2382-47b0-b234-5712fe3a7515
+  recordings: [00540156-922a-436a-8d74-7575d23565fc]

@@ -1,0 +1,28 @@
+id: andre-hinn-undated
+performers:
+- name: Andre Hinn
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '874', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/252b6801-9539-48c3-9ff8-5ddc74b1ac13
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: ea54e21e-9d5d-423a-b45e-0f2499315f8b
+  recordings: [252b6801-9539-48c3-9ff8-5ddc74b1ac13]

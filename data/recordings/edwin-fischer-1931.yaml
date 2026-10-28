@@ -1,0 +1,28 @@
+id: edwin-fischer-1931
+performers:
+- name: Edwin Fischer
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1931]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '850', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e769d1e2-5bca-4554-82ae-4793ac9ba387
+  title: 'Edwin Fischer Plays Bach, Volume One: The Well‐Tempered Clavier, Book I, BWV 846–869 / Chromatic Fantasia
+    and Fugue in D minor, BWV 903 / Toccata in D major, BWV 912'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29c75fb9-d75c-4186-8892-6752d4bbc0a2
+  recordings: [015415cf-b4ef-4991-be71-d4843f29b03e]

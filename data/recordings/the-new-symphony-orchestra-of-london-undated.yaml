@@ -1,0 +1,31 @@
+id: the-new-symphony-orchestra-of-london-undated
+performers:
+- name: The New Symphony Orchestra of London
+  role: performer
+- name: René Leibowitz
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d1f43a78-6e83-44f6-86ff-e1541e633ee8
+  title: 'Klassische Kostbarkeiten: Johann Sebastian Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e86d4e2-91be-4f63-8369-e13610fb7d7f
+  recordings: [7f482c8b-d35a-4f1e-8605-d97a6c8acc1c]

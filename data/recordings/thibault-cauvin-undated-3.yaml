@@ -1,0 +1,29 @@
+id: thibault-cauvin-undated-3
+performers:
+- name: Thibault Cauvin
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/69e44ebb-96b1-4abc-98a6-cdec4f31f6e1
+  title: Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bd5f96c7-f313-4cde-adb5-d9eaea62a761
+  recordings: [11b04b50-2d83-4479-8a25-3a2037deeca3]

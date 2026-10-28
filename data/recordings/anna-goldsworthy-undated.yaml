@@ -1,0 +1,28 @@
+id: anna-goldsworthy-undated
+performers:
+- name: Anna Goldsworthy
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '849', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd56f35d-5405-4860-ad9c-abeb9f4c77a3
+  title: My First Bach Album
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8f059980-fe25-4fb0-bfd0-586bfdfcdae0
+  recordings: [604e1e71-1a6e-4f86-b235-26234550bfd8]

@@ -1,0 +1,28 @@
+id: janine-johnson-undated
+performers:
+- name: Janine Johnson
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/25acf51a-de08-4089-84f2-58a837546be2
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d7410075-82b6-466e-8a0c-14ca6f8f670b
+  recordings: [030ca0a9-9b36-404d-83e2-72c237452b17]

@@ -1,0 +1,26 @@
+id: scott-ross-1985
+performers:
+- name: Scott Ross
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1985]
+  place: Tabaret Pavilion
+released: 1997
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f7c0db4b-49b8-4bf3-a3eb-7f51372dc391
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b01dff1-286c-4a41-a56a-8be74fe27e70
+  recordings: [0477c9e6-6ed3-46f7-9d49-aa1693ea6fe6]

@@ -1,0 +1,28 @@
+id: john-rusnak-undated
+performers:
+- name: John Rusnak
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ae94d80c-ddef-42c3-b448-a668fc283a49
+  title: Goldberg Variations, BWV 988
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 02d2ee82-5dbf-444f-92d5-de3e53527f4f
+  recordings: [05da3db8-6aca-451c-b914-84a0c237d1a7]

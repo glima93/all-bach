@@ -6,6 +6,8 @@ Each file here is a snapshot of what [MusicBrainz](https://musicbrainz.org) knew
 |---|---|---|---|---|---|---|
 | `musicbrainz-cello-suites.json` | Cello Suites, BWV 1007–1012 | 27 Oct 2026 | `4e4b97df-403a-4a27-b9fa-5bd8a8333604` | 36 | ~6,150 | 267 |
 | `musicbrainz-violin-solo.json` | Sonatas and Partitas for solo violin, BWV 1001–1006 | 28 Oct 2026 | `4a8c18a0-efe2-4b56-a127-9958dec08ad3` | 32 | 4,315 | 331 |
+| `musicbrainz-goldberg.json` | Goldberg Variations, BWV 988 | 28 Oct 2026 | `1d51e560-2a59-4e97-8943-13052b6adc03` | 32 | 6,497 | 249 |
+| `musicbrainz-wtc.json` | The Well-Tempered Clavier, Books I and II, BWV 846–893 | 28 Oct 2026 | `dce85d48-7ce6-4bd6-b21e-a7c1be6eb1b4` (Book I), `a9fabb1b-4b9e-4bdb-b177-452dbffeaed6` (Book II) | 96 | 8,072 | 321 |
 
 Import or re-import one with:
 
@@ -55,4 +57,6 @@ The cello snapshot is a bare list of rows (the first format). Later snapshots ar
 - MusicBrainz sometimes holds one performance as several unmerged recordings. When those have no date, they can show up here as a separate "undated" entry. These are flagged on the site.
 - Grouping by year cannot separate two different performances by the same artist in the same year.
 - A complete set where MusicBrainz is missing one movement link shows as five complete works and one excerpt.
+- Keyboard works list harpsichord, piano, clavichord, organ and fortepiano as native, since Bach's "Clavier" covers them all. Performance practice follows the instrument: harpsichord, clavichord and fortepiano are filed as historical, piano as modern. That puts Landowska's modern Pleyel harpsichord under period instruments; contributors can correct such cases by hand.
+- In MusicBrainz the Goldberg Aria is also linked from albums of the Anna Magdalena Bach Notebook (where Bach copied it) and from film soundtracks; these show as one-movement excerpts.
 - Paired dances such as Menuet I and Menuet II are often a single MusicBrainz track linked only to the first dance. The importer counts the second as recorded whenever the first is.

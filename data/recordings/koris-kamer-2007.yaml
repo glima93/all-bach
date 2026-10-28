@@ -1,0 +1,34 @@
+id: koris-kamer-2007
+performers:
+- name: Koris "Kamēr"
+  role: performer
+- name: Māris Briežkalns
+  role: membranophone
+- name: Raimonds Pauls
+  role: piano
+- name: Toivo Unt
+  role: double bass
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: [2007]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '853', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/550b04d4-11df-4a66-a357-7a9594719993
+  title: Pianista biogrāfija
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With membranophone, double bass.
+musicbrainz:
+  artist: bc61ff4d-2e90-4e1a-aa6b-e097315d06e4
+  recordings: [e9b10d6d-ee47-4e66-83f6-aa688b410fc9]

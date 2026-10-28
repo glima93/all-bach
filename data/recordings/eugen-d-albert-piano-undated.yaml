@@ -1,0 +1,29 @@
+id: eugen-d-albert-piano-undated
+performers:
+- name: Eugen d’Albert (piano)
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '848', complete: false, movements: [Prelude]}
+- {bwv: '857', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/368e0e59-d1b3-4b60-bd17-8ebe8f0285b0
+  title: 'Dialogues: Contemporary & Classical Essentials'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8ffe6384-503b-42c3-bd1e-88aba0918fe2
+  recordings: [6bc43e66-17dd-4807-9819-002b180077c1]

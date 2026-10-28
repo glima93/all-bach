@@ -1,0 +1,27 @@
+id: alexander-puliaev-undated
+performers:
+- name: Alexander Puliaev
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Kirche der evangelischen Stiftung "Tannendorf"
+released: 2016
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0ea68ca6-7ad0-4bcc-ae6e-90e8724b80e7
+  title: Goldberg-Variationen BWV 988
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9bb8da0f-47da-4042-91ff-80c3efba5325
+  recordings: [0916a71f-d865-4c6b-99d4-41f1c226c9a1]

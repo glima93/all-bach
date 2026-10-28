@@ -1,0 +1,26 @@
+id: mahan-esfahani-2021-2
+performers:
+- name: Mahan Esfahani
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: St. John’s Church
+released: 2023
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ea6a20fb-bd18-49d2-bfc2-65721204c064
+  title: Anna Magdalena Notebooks, 1722 and 1725
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a2704dbd-4e05-4b89-917c-85c578fc1488
+  recordings: [700581f6-b962-4c9c-91b0-6a8553d7a5bb]

@@ -1,0 +1,29 @@
+id: youri-egorov-undated
+performers:
+- name: Youri Egorov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '850', complete: true}
+- {bwv: '869', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a036d70f-bbb2-4a78-b57c-f96f564b42bd
+  title: Barok - de collectie
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 94edf6a6-1f40-4d5d-bc14-d411df8cb21d
+  recordings: [052c0c62-5e70-42aa-86d9-472eb0b64d5a]

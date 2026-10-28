@@ -1,0 +1,33 @@
+id: brad-mehldau-undated
+performers:
+- name: Brad Mehldau
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Mechanics Hall
+released: 2018
+original_label: null
+works:
+- {bwv: '851', complete: false, movements: [Prelude]}
+- {bwv: '852', complete: false, movements: [Prelude]}
+- {bwv: '854', complete: false, movements: [Prelude]}
+- {bwv: '855', complete: false, movements: [Prelude]}
+- {bwv: '857', complete: false, movements: [Fugue]}
+- {bwv: '865', complete: true}
+- {bwv: '885', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d1ec247c-fa1e-4852-8326-13d4edab7be3
+  title: After Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b7723b3f-9a35-438d-bc42-8ad8b5e027ae
+  recordings: [0823325c-2afb-4a23-8658-053d7814c1fd]

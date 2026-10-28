@@ -1,0 +1,27 @@
+id: wanda-landowska-1933
+performers:
+- name: Wanda Landowska
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1933]
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/20016e82-bb35-4bd6-a6e9-23da7098802c
+  title: Soli Deo Gloria - Meisterwerke in bedeutenden Aufnahmen
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39bba85f-e589-4a35-8388-259195fe9c5b
+  recordings: [01c5bb6d-6ca0-450c-aeca-dc56d667ca85]

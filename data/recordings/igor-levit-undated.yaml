@@ -1,0 +1,28 @@
+id: igor-levit-undated
+performers:
+- name: Igor Levit
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Funkhaus Nalepastraße
+released: 2015
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9a14fc4d-aad4-4b4b-b05d-94c655d6b1e3
+  title: 'Bach: Goldberg Variations / Beethoven: Diabelli Variations / Rzewski: The People United Will Never Be
+    Defeated!'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2297faf9-2cc0-45c6-bfcf-e9280d640f6d
+  recordings: [0249e17e-2d17-41d7-88eb-aa3a0ea9b2d5]

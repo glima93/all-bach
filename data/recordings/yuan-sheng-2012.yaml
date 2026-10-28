@@ -1,0 +1,26 @@
+id: yuan-sheng-2012
+performers:
+- name: Yuan Sheng
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2012]
+  place: Beijing Concert Hall
+released: 2012
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d8088d20-a6dc-425c-bcfb-97d1d9112640
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9dbb90f9-fb3b-4a09-b791-89e2164ba0ea
+  recordings: [07b06467-fe89-4885-b663-f9e16d59f864]

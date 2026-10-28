@@ -1,0 +1,29 @@
+id: andrew-lawrence-king-undated
+performers:
+- name: Andrew Lawrence‐King
+  role: harp
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1857f694-8e8c-42cc-91df-c38fafc15b14
+  title: Ave Maria - Musiques Célestes
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on harp.
+musicbrainz:
+  artist: e9280629-d08b-4acf-b833-3ca753571755
+  recordings: [cc1b34aa-df6d-4e58-aa44-b24d163be04f]

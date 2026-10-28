@@ -1,0 +1,26 @@
+id: ketil-haugsand-2001
+performers:
+- name: Ketil Haugsand
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: Evangelische Kirche
+released: 2002
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/854eaa58-9e17-43e7-b310-e5daf45dcdd9
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4fafa18a-dd2b-4797-9dd1-9b4e56de3a2a
+  recordings: [0226cb19-f283-44b1-af64-75caf108808e]

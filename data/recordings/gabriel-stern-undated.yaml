@@ -1,0 +1,28 @@
+id: gabriel-stern-undated
+performers:
+- name: Gabriel Stern
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8cac6ba-fe3e-480c-9265-686f0363c5de
+  title: Variations Goldberg
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f523585b-f28b-4fad-8e2b-ecd9f51fdb43
+  recordings: [077c73b5-795f-4d09-adb2-5ba1884a862e]

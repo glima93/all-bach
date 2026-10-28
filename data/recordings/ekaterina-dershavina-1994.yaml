@@ -1,0 +1,27 @@
+id: ekaterina-dershavina-1994
+performers:
+- name: Ekaterina Dershavina
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1994]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b15dc81d-0702-479a-b586-cee0d8a71f1d
+  title: The Goldberg Variations
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c5f76b30-f730-4875-8227-47ae8ed5fe44
+  recordings: [01118f4a-e365-4f0d-84a2-a95c00dfd7a9]

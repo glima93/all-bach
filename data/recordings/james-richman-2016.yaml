@@ -1,0 +1,26 @@
+id: james-richman-2016
+performers:
+- name: James Richman
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Our Redeemer Lutheran Church
+released: 2021
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9206eb36-8972-4df1-9623-516d93cb6997
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 796cbabd-cecf-4d28-b8fd-1ae06e1db886
+  recordings: [01e5c5f4-6851-41e3-a275-00caf946bf51]

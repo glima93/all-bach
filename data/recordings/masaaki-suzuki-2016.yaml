@@ -1,0 +1,28 @@
+id: masaaki-suzuki-2016
+performers:
+- name: Masaaki Suzuki
+  role: harpsichord
+- name: Bach Collegium Japan
+  role: performer
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Oud-Katholieke Kerk
+released: 2017
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/afb3e5e5-6c14-4b7a-af23-55eb5ec83e30
+  title: Musikalisches Opfer
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d41e5072-3a8e-4f1f-97ab-3b0820de74c1
+  recordings: [6f2c38e2-8b9d-4673-afe2-a02d43b64e48]

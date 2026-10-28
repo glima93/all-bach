@@ -1,0 +1,28 @@
+id: sungyun-cho-undated
+performers:
+- name: Sungyun Cho
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d35b6d79-2eb0-46dd-a780-73cfd97b6983
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9a91b2ff-c938-4462-a082-49af34916b1a
+  recordings: [05ca5c5d-b069-418b-85fe-0b862018a26c]

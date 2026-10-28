@@ -1,0 +1,30 @@
+id: glen-wilson-undated
+performers:
+- name: Glen Wilson
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Lutherse Kerk
+released: 1989
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '847', complete: false, movements: [Prelude]}
+- {bwv: '878', complete: false, movements: [Prelude]}
+- {bwv: '879', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/74255237-098f-4126-a1f0-83a8cc10b4d3
+  title: Das Wohltemperierte Klavier I
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9737d063-4ce8-44b0-9ab8-28e6ecbb44c0
+  recordings: [1237f7d2-5f40-44a5-91a3-11e82f3c46ab]

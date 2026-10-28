@@ -1,0 +1,26 @@
+id: andreas-staier-2009
+performers:
+- name: Andreas Staier
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: Teldex Studio
+released: 2010
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/97019c26-a88e-4ad6-84db-507f79d25ab7
+  title: Goldberg-Variationen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 159f2f4b-2431-4045-adbd-a2d320c907ac
+  recordings: [22533adf-e3d7-412f-953a-d8175cc730f7]

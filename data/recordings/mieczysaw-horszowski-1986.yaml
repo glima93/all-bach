@@ -1,0 +1,29 @@
+id: mieczysaw-horszowski-1986
+performers:
+- name: Mieczysław Horszowski
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986]
+  place: Snape Maltings
+released: 2006
+original_label: null
+works:
+- {bwv: '855', complete: true}
+- {bwv: '860', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5c5d168f-2804-4e62-99fb-539920a64776
+  title: 'Bach: Prelude & Fugue No.10 & 15 / Mozart: Fantasia In D minor, K397 / Beethoven: Piano Sonata no.2 /
+    Franck: Prélude, choral et fugue / Schumann: Kinderszenen'
+status: draft
+help_wanted:
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 37cd67d1-a786-4f5c-b91b-14f93b90ca04
+  recordings: [13bfe1b5-2ea5-4c85-a924-a7dc04848db7]

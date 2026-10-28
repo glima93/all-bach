@@ -1,0 +1,27 @@
+id: kenneth-cooper-1997
+performers:
+- name: Kenneth Cooper
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ed6e3cbd-ad73-4122-98f5-7cdbe190e833
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 21133050-03a7-41e8-8eb4-cb62c9818ae0
+  recordings: [041b4f0c-61b4-49ec-9863-2909475de5c5]

@@ -1,0 +1,28 @@
+id: lang-lang-undated
+performers:
+- name: Lang Lang
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c83e1dff-8da8-43aa-b79b-9a7dced0b3d4
+  title: Piano Book
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 43e1570a-1a0d-479f-9c95-fba971aec91a
+  recordings: [b5db0314-3960-466a-901b-97dbd7008f3c]

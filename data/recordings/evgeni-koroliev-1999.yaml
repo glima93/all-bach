@@ -1,0 +1,26 @@
+id: evgeni-koroliev-1999
+performers:
+- name: Evgeni Koroliev
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1999]
+  place: Festeburgkirche
+released: 1999
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fdb059b5-9626-4568-b30f-d6dec281cfd3
+  title: Goldberg Variations BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 592440cc-cceb-4e50-a085-2c7afdf272ae
+  recordings: [061880db-a4e5-4872-8f34-1d4a11e07456]

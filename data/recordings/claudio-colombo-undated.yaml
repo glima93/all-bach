@@ -1,0 +1,29 @@
+id: claudio-colombo-undated
+performers:
+- name: Claudio Colombo
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f74d8cbc-975c-4d24-be08-8bd362bf4c0e
+  title: Notebook for Anna Magdalena Bach & Complete Inventions and Sinfonias
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5826e0da-a183-43f7-ac71-522946885998
+  recordings: [1ec944a7-4670-4e77-bb9c-61c2d6afabac]

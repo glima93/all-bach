@@ -1,0 +1,26 @@
+id: matthew-halls-2007
+performers:
+- name: Matthew Halls
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: St. Silas the Martyr
+released: 2010
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd99876f-c7b1-4e87-9290-11c4ba16e11b
+  title: Goldberg Variations; Sarabanda con Partite; Aria Variata
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df8b680d-2ed7-44e5-b941-66df9a19530b
+  recordings: [01d3b485-222d-4d90-bde3-0f62c386791b]

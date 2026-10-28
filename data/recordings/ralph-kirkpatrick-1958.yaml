@@ -1,0 +1,26 @@
+id: ralph-kirkpatrick-1958
+performers:
+- name: Ralph Kirkpatrick
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1958]
+  place: Jesus‐Christus‐Kirche
+released: 1994
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ce1084a0-9d5e-44df-909c-2361afeacf8f
+  title: Goldberg Variations / Italian Concerto
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 957f3222-063c-4057-878d-b968f06b7623
+  recordings: [014caa29-68cc-47a7-bed5-539eec744f02]

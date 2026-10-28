@@ -1,0 +1,34 @@
+id: yuan-sheng-2019
+performers:
+- name: Yuan Sheng
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: Dominicanessenklooster
+released: 2022
+original_label: null
+works:
+- {bwv: '848', complete: false, movements: [Prelude]}
+- {bwv: '849', complete: false, movements: [Prelude]}
+- {bwv: '850', complete: false, movements: [Prelude]}
+- {bwv: '851', complete: false, movements: [Prelude]}
+- {bwv: '853', complete: false, movements: [Prelude]}
+- {bwv: '854', complete: false, movements: [Prelude]}
+- {bwv: '856', complete: false, movements: [Prelude]}
+- {bwv: '857', complete: false, movements: [Prelude]}
+- {bwv: '871', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/07b1dc37-4ee2-4c13-b37a-84ad9ffed467
+  title: Klavierbüchlein für Wilhelm Friedemann Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9dbb90f9-fb3b-4a09-b791-89e2164ba0ea
+  recordings: [1d9e0c35-5c8b-498e-a4a0-03dd4e9c699e]

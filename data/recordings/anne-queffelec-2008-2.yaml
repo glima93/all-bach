@@ -1,0 +1,31 @@
+id: anne-queffelec-2008-2
+performers:
+- name: Anne Queffélec
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '849', complete: false, movements: [Prelude]}
+- {bwv: '853', complete: false, movements: [Prelude]}
+- {bwv: '867', complete: false, movements: [Prelude]}
+- {bwv: '883', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/75fdbc04-2160-4dba-9bd7-93b3d54b448c
+  title: Contemplation
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b49797fb-7cc9-4eae-ad94-3872818ed281
+  recordings: [4192d768-f7bc-4c2a-b187-cb6dbbbf3024]

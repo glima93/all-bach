@@ -1,0 +1,26 @@
+id: lang-lang-2020
+performers:
+- name: Lang Lang
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020]
+  place: Thomaskirche
+released: 2020
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f55cc89a-9c05-4a9b-976f-7d7a368cef2f
+  title: 'Bach: Goldberg Variations'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 43e1570a-1a0d-479f-9c95-fba971aec91a
+  recordings: [059ca449-7770-4915-b10a-e412846ccdd9]

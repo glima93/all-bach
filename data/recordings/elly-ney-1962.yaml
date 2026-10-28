@@ -1,0 +1,27 @@
+id: elly-ney-1962
+performers:
+- name: Elly Ney
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1962]
+  place: Colosseum Tonstudio
+released: 2003
+original_label: null
+works:
+- {bwv: '870', complete: true}
+- {bwv: '890', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b30a17ea-c3a1-4f8a-8c52-44010a7777f3
+  title: Gesamtausgabe aller späten Aufnahmen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bdc27700-28b1-4bdc-bfd5-54c22df448f2
+  recordings: [784fc40d-5e3c-46b2-bc9f-67dae1efee6d]

@@ -1,0 +1,27 @@
+id: wanda-landowska-1945
+performers:
+- name: Wanda Landowska
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1945]
+  place: null
+released: 1980
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e22b8050-c9a2-47fc-881b-64d3d0a94d3e
+  title: 'The 100 Greatest Recordings Of All Time 67/68 : Legendary Interpretations - Landowska - Boulanger'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39bba85f-e589-4a35-8388-259195fe9c5b
+  recordings: [01415dd0-46be-405a-b8c3-30d6566a4b21]

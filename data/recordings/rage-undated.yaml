@@ -1,0 +1,28 @@
+id: rage-undated
+performers:
+- name: Rage
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: VPS Studios
+released: 2003
+original_label: null
+works:
+- {bwv: '850', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de0875f1-a860-43e0-aa4c-deb192c94868
+  title: Soundchaser
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on electric guitar, keyboard, drums (drum set).
+musicbrainz:
+  artist: 2a90aa9c-d2ff-49fd-a8e5-2463f657eb45
+  recordings: [4e889f7f-180e-4b7c-a758-eeb62a9c289e]

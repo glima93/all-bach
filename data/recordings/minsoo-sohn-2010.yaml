@@ -1,0 +1,26 @@
+id: minsoo-sohn-2010
+performers:
+- name: Minsoo Sohn
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2010]
+  place: Banff Centre for Arts and Creativity
+released: 2011
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/946eae09-eede-4e38-8412-6268189807e0
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 30d891a3-5891-48cc-a4f7-c8c51e7b3c9b
+  recordings: [08252d5d-6dcf-477a-944f-bb2ff8f2297b]

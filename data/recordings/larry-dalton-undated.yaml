@@ -1,0 +1,28 @@
+id: larry-dalton-undated
+performers:
+- name: Larry Dalton
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5fe1c814-873e-47bf-ace3-593cea69604f
+  title: Classical Dreams
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e573f308-e282-488c-bae0-a75fcd1bc989
+  recordings: [b4c9342b-f957-4e4b-8570-9883d78b79d7]

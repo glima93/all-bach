@@ -1,0 +1,29 @@
+id: marielle-nordmann-undated
+performers:
+- name: Marielle Nordmann
+  role: harp
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/166ad74e-bfbf-4602-b3ae-c5192c682aed
+  title: 'Baby Sleep: 24 Tracks to Soothe You Into Slumber'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on harp.
+musicbrainz:
+  artist: 913f88c7-5c6f-4d96-9383-4ff89a088ae3
+  recordings: [c0541bdd-693d-4628-bc7e-0249c7db8baa]

@@ -1,0 +1,27 @@
+id: bronisawa-kawalla-1989
+performers:
+- name: Bronisława Kawalla
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1989]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59199eb3-bc09-4a18-a29f-91f831a8b7db
+  title: Goldberg Variations BWV 988 / Chromatic Fantasia & Fugue BWV 903 / Fantasia & Fugue BWV 904
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3333ff09-ca93-430b-816d-7d3b84d6cd81
+  recordings: [0455b122-ff56-4c9b-a2b0-aed2a434f010]

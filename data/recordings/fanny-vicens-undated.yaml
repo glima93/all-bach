@@ -1,0 +1,29 @@
+id: fanny-vicens-undated
+performers:
+- name: Fanny Vicens
+  role: accordion
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e3bd31a8-4f47-491d-9cf1-9779b693cd59
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on accordion.
+musicbrainz:
+  artist: faa0c1d0-474a-40cf-b964-8ee418343245
+  recordings: [144c95b9-3d49-48bb-a168-3f3cee262f2d]

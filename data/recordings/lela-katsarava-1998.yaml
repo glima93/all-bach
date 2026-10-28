@@ -1,0 +1,27 @@
+id: lela-katsarava-1998
+performers:
+- name: Lela Katsarava
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1998]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a0903298-2aee-4894-b986-b5e0ef5c0cd4
+  title: Goldberg Variationen, BWV 988
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a94de625-5493-4299-b6e8-a7a1259fe270
+  recordings: [007f8a1a-f6ea-4e4a-b476-d39fb348d5df]

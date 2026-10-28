@@ -1,0 +1,27 @@
+id: ivo-janssen-1997
+performers:
+- name: Ivo Janssen
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1997]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0372f0c0-e361-4185-abb8-37d167875fe2
+  title: Goldberg Variations BWV 988
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d0429033-db16-4cbb-985c-44c41a5c58df
+  recordings: [0cce8cea-ab97-475f-8497-31cc8695e251]

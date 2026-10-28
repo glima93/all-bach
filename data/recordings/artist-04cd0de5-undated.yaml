@@ -1,0 +1,29 @@
+id: artist-04cd0de5-undated
+performers:
+- name: 江崎昌子
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '853', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee3b7e0e-e854-4cec-8859-2f10579c07e9
+  title: ホーホケキョとなりの山田くん CLASSIC ALBUM 〜楽に生きたら。〜
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 04cd0de5-f8b4-48ad-92e4-7472c23eb91a
+  recordings: [6a309bc7-23fa-48b6-af30-888ba746ed1d]

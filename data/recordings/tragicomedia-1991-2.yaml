@@ -1,0 +1,29 @@
+id: tragicomedia-1991-2
+performers:
+- name: Tragicomedia
+  role: performer
+- name: Stephen Stubbs
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1991]
+  place: St. Andrew's Church
+released: 1994
+original_label: null
+works:
+- {bwv: '846', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7cff1757-e4d6-485d-978f-3fa20ae11bad
+  title: Notenbüchlein für Anna Magdalena Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on harp.
+musicbrainz:
+  artist: 640e9f0b-fe43-44c1-9e33-3c9e4be720c9
+  recordings: [7fb42ef9-a07f-438f-92ba-d715f873cac2]

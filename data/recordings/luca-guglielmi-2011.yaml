@@ -1,0 +1,26 @@
+id: luca-guglielmi-2011
+performers:
+- name: Luca Guglielmi
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: Accademia di Agricoltura, Palazzo Corbetta Bellini di Lessolo
+released: 2012
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33168334-78a1-4fd5-a63d-0c0809d99435
+  title: Goldberg-Variationen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8f66ea5-55fd-4d9e-9baa-db99d93166ba
+  recordings: [00a3a398-4fbe-4ca7-8ed5-61a37007e390]

@@ -1,0 +1,34 @@
+id: the-swingle-singers-1963
+performers:
+- name: The Swingle Singers
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1963]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '847', complete: false, movements: [Prelude]}
+- {bwv: '850', complete: false, movements: [Fugue]}
+- {bwv: '870', complete: false, movements: [Prelude]}
+- {bwv: '871', complete: false, movements: [Fugue]}
+- {bwv: '874', complete: false, movements: [Fugue]}
+- {bwv: '878', complete: false, movements: [Prelude]}
+- {bwv: '880', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e86e71ce-8ae5-421d-a804-8a284c2aff9d
+  title: Jazz Sebastian Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on double bass.
+musicbrainz:
+  artist: 1709e9f2-c77f-4779-b67d-44905fbc35c0
+  recordings: [1737105e-cf70-4fb1-a32c-a6c86fc7ff21]

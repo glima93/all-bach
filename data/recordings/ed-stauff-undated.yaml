@@ -1,0 +1,29 @@
+id: ed-stauff-undated
+performers:
+- name: Ed Stauff
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/212779d4-6425-4ed2-a0a5-ed5238f7946c
+  title: Champlain Summer
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aa49868c-3906-42db-b90a-adb39e0add58
+  recordings: [c3084360-ab7c-4942-bd26-b9fd701c5ce9]

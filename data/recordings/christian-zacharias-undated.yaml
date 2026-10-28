@@ -1,0 +1,28 @@
+id: christian-zacharias-undated
+performers:
+- name: Christian Zacharias
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/722709fa-3027-4039-8fcc-418b6cd19011
+  title: La musique classique pour les nuls
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0c0920e8-c64c-4329-b3be-f58bd0cf7c6b
+  recordings: [071e6558-d4a1-4342-869a-45624a51cba7]

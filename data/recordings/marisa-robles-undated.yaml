@@ -1,0 +1,29 @@
+id: marisa-robles-undated
+performers:
+- name: Marisa Robles
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d553c088-99e3-492a-9ad9-a54d4373650d
+  title: Bach for Barbecue
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6c65de8c-f488-4b88-989d-f8cddb415c6c
+  recordings: [8dc1d355-69a5-4ead-9613-be4a624e1de9]

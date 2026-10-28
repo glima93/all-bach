@@ -1,0 +1,26 @@
+id: anne-catherine-bucher-2016
+performers:
+- name: Anne-Catherine Bucher
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Centre Béthanie
+released: 2016
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/87b563c0-4231-4892-9204-4c13c6b4e968
+  title: Goldberg Variationen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84254a50-219f-4c1d-81a1-3fd7e821b5be
+  recordings: [0528039f-941a-45f0-9a2c-38f08dbbd143]

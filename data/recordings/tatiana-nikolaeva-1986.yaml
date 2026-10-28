@@ -1,0 +1,26 @@
+id: tatiana-nikolaeva-1986
+performers:
+- name: Tatiana Nikolaeva
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1986]
+  place: St John’s, Smith Square
+released: 2007
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1e5bd41f-878f-4f7e-a49c-a2abadd955e2
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b7c7c8d7-0c94-4278-ab46-81e1e6359072
+  recordings: [0cb5ff12-192d-41b4-a5d0-69c396b0e756]

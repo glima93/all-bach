@@ -1,0 +1,26 @@
+id: igor-kipnis-1980
+performers:
+- name: Igor Kipnis
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1980]
+  place: CBS 30th Street Studio
+released: 2004
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria, Variatio 25. a 2 Clav. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a70561d8-d9ea-4667-b9bb-5580642300fe
+  title: The Notebook of Anna Magdalena Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 54a49aee-7eb5-4676-afdb-0e6f3e974bc9
+  recordings: [149fff29-f6d2-46c6-9e1b-7ba4a95578d1]

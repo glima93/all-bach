@@ -1,0 +1,30 @@
+id: iiro-rantala-2012
+performers:
+- name: Iiro Rantala
+  role: piano
+- name: Michael Wollny
+  role: performer
+- name: Leszek Możdżer
+  role: performer
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2012]
+  place: Berliner Philharmonie
+released: 2013
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d4588c79-b313-4f89-9fc7-c528179fb3c0
+  title: Jazz At Berlin Philharmonic I
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0a59b069-2fc8-452c-9876-998a941c198c
+  recordings: [d7d9562e-5aa9-4090-a8a6-870822caab40]

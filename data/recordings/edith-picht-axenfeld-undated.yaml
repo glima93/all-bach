@@ -1,0 +1,28 @@
+id: edith-picht-axenfeld-undated
+performers:
+- name: Edith Picht‐Axenfeld
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f899feaf-4c89-4abe-885d-bec564f8266b
+  title: Goldberg-Variationen
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 23a74ec7-3b7a-4027-8e4d-594cc0625a23
+  recordings: [1a8a4a95-37e5-4854-aaca-3a83d4f9321c]

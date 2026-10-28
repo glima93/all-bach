@@ -1,0 +1,28 @@
+id: manami-suzuki-undated
+performers:
+- name: Manami Suzuki
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '891', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/29f8553f-96ff-459a-ab30-3462e3808be9
+  title: Bach / Haydn / Schubert / Szymanowski
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b40bcfbf-5501-46d4-9d2c-720e69ac506d
+  recordings: [2f2af6b8-183c-43d9-9ef8-a462c00d805d]

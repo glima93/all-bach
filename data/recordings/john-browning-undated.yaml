@@ -1,0 +1,28 @@
+id: john-browning-undated
+performers:
+- name: John Browning
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/275cc749-e936-44e6-8c55-070bb8787ad5
+  title: '200 Masterpieces: Simply Classic, Simply Essential'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ccaa2893-76e2-4335-a704-732ae1266203
+  recordings: [7b6dfe00-1096-48a2-b656-8bed57f5c0e7]

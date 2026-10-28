@@ -1,0 +1,29 @@
+id: dance-of-joy-undated
+performers:
+- name: Dance of Joy
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Aria]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a5b8e9a1-eb90-4b96-bee4-e7fadb185cf1
+  title: Das Bachprojekt
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f1375c0-ebd9-4131-8df5-0a21bb856d3f
+  recordings: [d711da4a-0b28-468f-8a57-049497174f2b]

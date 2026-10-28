@@ -1,0 +1,28 @@
+id: sara-banleigh-undated
+performers:
+- name: Sara Banleigh
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Park West Studios
+released: 2011
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f93f227-2b8c-4282-9d95-f15b2fc57154
+  title: The Folk EP
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With violin.
+musicbrainz:
+  artist: aef8cc24-27ed-4d63-bd81-adffea360c05
+  recordings: [526dd78e-8cb7-4b19-84eb-02b403cada96]

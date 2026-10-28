@@ -1,0 +1,26 @@
+id: jory-vinikour-2000
+performers:
+- name: Jory Vinikour
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Skywalker Sound
+released: 2001
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0b8b4fc4-5fff-49f0-a3d9-592e0324af13
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4739b925-9746-48e6-b70d-8aa3b2f03bcf
+  recordings: [090499cc-df66-49bf-afbe-e2c205a2a987]

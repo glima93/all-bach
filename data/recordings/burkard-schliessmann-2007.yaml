@@ -1,0 +1,26 @@
+id: burkard-schliessmann-2007
+performers:
+- name: Burkard Schliessmann
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2007]
+  place: Teldex Studio
+released: 2007
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ce9d4143-1cd2-48aa-8bde-e0d8420d6c76
+  title: Goldberg Variations, BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 172ad430-1235-4903-86cd-87fdcd251eb0
+  recordings: [00a8a38b-94a1-4875-8e0a-f57edd24cc3b]

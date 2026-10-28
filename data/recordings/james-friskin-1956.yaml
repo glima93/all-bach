@@ -1,0 +1,26 @@
+id: james-friskin-1956
+performers:
+- name: James Friskin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1956]
+  place: Masonic Temple Auditorium
+released: 2003
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4238f5b6-80a3-4891-9c56-364b687b6e67
+  title: Masterpieces for Solo Piano
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d903fa8e-646d-49c2-a428-b7d36b7f2d0a
+  recordings: [0f47524e-8fb0-4cfd-933e-c1fad865a20b]

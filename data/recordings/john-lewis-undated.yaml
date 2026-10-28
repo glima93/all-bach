@@ -1,0 +1,34 @@
+id: john-lewis-undated
+performers:
+- name: John Lewis
+  role: piano
+- name: Howard Collins
+  role: guitar
+- name: Marc Johnson
+  role: double bass
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '848', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e8f5a85-de04-4311-84ff-dfb7047d9439
+  title: J.S. Bach Preludes & Fugues, Volume 3 (from Well-Tempered Clavier Book 1)
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar, double bass.
+musicbrainz:
+  artist: be347fef-e406-4c1b-8698-669d71b68bc5
+  recordings: [2eaa7c74-b705-451e-87ad-d4b2d39e675c]

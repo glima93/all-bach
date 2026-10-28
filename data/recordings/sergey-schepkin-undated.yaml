@@ -1,0 +1,28 @@
+id: sergey-schepkin-undated
+performers:
+- name: Sergey Schepkin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1981955b-f606-4476-88a4-58225565b74d
+  title: The Goldberg Variations
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4192cc75-4712-40ed-ac8c-1301d6bffb9d
+  recordings: [0c4e0885-89df-41c7-b1bb-f2e5779d7279]

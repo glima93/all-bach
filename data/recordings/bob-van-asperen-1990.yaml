@@ -1,0 +1,26 @@
+id: bob-van-asperen-1990
+performers:
+- name: Bob van Asperen
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Schloss Charlottenburg
+released: 1991
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac5ab604-3c33-4706-87a1-a62650791fcf
+  title: Toccatas / Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f7af258-5683-4fdd-be7a-6e60d69ad12a
+  recordings: [0d6e3ab6-af9c-4bf1-8f78-d445c68ccd3b]

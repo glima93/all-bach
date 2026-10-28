@@ -1,0 +1,27 @@
+id: alice-sara-ott-2023
+performers:
+- name: Alice Sara Ott
+  role: upright piano
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2023]
+  place: Siemens‐Villa
+released: 2021
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/35034f47-c015-43c1-a604-7654b80bc002
+  title: Echoes of Life (Deluxe Edition)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on upright piano.
+musicbrainz:
+  artist: 67fe97e3-3d7b-4b8f-ad14-b753f73e6515
+  recordings: [80ea0793-fa84-454c-bbb5-6c8b46be74a0]

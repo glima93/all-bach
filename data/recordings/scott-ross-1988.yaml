@@ -1,0 +1,26 @@
+id: scott-ross-1988
+performers:
+- name: Scott Ross
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: Salle Colonne
+released: 1988
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d673b437-52bc-44ee-af15-b69f4ba096f5
+  title: Variations Goldberg, BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b01dff1-286c-4a41-a56a-8be74fe27e70
+  recordings: [0117f05d-4aab-4dde-8fdb-d0812274c4f4]

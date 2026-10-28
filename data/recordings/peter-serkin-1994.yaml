@@ -1,0 +1,26 @@
+id: peter-serkin-1994
+performers:
+- name: Peter Serkin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1994]
+  place: Manhattan Center Studios
+released: 1996
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6d57049f-d7e1-4328-af38-3315871adc5d
+  title: Italian Concerto / Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ab23df5e-6dcf-4e6c-b125-1091ee50046a
+  recordings: [000e7e73-1a12-4df1-a2b9-0abe996627f0]

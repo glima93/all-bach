@@ -1,0 +1,28 @@
+id: bruno-procopio-undated
+performers:
+- name: Bruno Procopio
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/279fb39b-cf79-4937-b360-b121d91d483b
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c8bb77b2-70ca-4a03-8fdd-f973c118498c
+  recordings: [0cdc9ca0-dbce-4e2c-b020-2339d1e8e139]

@@ -1,0 +1,28 @@
+id: albert-jan-roelofs-undated
+performers:
+- name: Albert-Jan Roelofs
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/80aa795e-6ece-4f0e-b7a2-fbb9a134a127
+  title: Goldberg-Variationen
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a4e4a0da-3793-4679-b609-6527c9bc1100
+  recordings: [1791acaa-42dc-4915-aebd-8ffae37ff6c0]

@@ -1,0 +1,27 @@
+id: karl-richter-1956
+performers:
+- name: Karl Richter
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1956]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/648a31c0-6994-4ed4-92f2-75829125176e
+  title: Goldberg-Variationen, BWV 988, Clavierübung, Teil 4
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e01ebec7-98c5-450a-bf67-5650f8b4eff0
+  recordings: [0a43389c-c04f-4d90-bd9f-3c836a9f1cb0]

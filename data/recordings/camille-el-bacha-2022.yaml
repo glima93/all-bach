@@ -1,0 +1,31 @@
+id: camille-el-bacha-2022
+performers:
+- name: Camille El Bacha
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2022]
+  place: Salle Colonne
+released: 2023
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '851', complete: false, movements: [Prelude]}
+- {bwv: '872', complete: false, movements: [Prelude]}
+- {bwv: '875', complete: false, movements: [Prelude]}
+- {bwv: '880', complete: false, movements: [Prelude]}
+- {bwv: '885', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8722f4c8-2e7f-4b59-8ba5-7c2af687e568
+  title: Lumen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b3d3cfae-f30d-4983-8995-cb37a4409071
+  recordings: [3742e772-c5f7-40ed-8dea-ebc7a3586d3b]

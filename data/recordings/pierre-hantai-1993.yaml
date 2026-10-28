@@ -1,0 +1,29 @@
+id: pierre-hantai-1993
+performers:
+- name: Pierre Hantaï
+  role: harpsichord
+- name: Le Concert Français
+  role: performer
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: Doopsgezinde kerk
+released: 1994
+original_label: null
+works:
+- {bwv: '880', complete: true}
+- {bwv: '892', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85005f34-c6ac-4f92-9347-626e51514d0f
+  title: Concerti Pour Clavecin BWV 1044, 1052 & 1054
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bf55610c-41d9-45bf-a0ae-d912f49071a0
+  recordings: [340d60f1-0d67-4c74-b0c7-00f6bd6e4a5b]

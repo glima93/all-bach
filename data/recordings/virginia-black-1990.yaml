@@ -1,0 +1,26 @@
+id: virginia-black-1990
+performers:
+- name: Virginia Black
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Church of St. Dunstan
+released: 1991
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/065d965e-3394-4b75-8501-e11e5365b19e
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ca2f846-f3e2-4b88-beac-95ef204dc5c9
+  recordings: [0d42d5d2-37d4-4fb7-9cbf-5dd631694fc9]

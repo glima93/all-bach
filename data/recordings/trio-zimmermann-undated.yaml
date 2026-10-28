@@ -1,0 +1,28 @@
+id: trio-zimmermann-undated
+performers:
+- name: Trio Zimmermann
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Kirche St. Osdag
+released: 2022
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/135e3be9-bb1f-46aa-9882-2176acd64454
+  title: A Retrospective
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9ba094c3-a000-4da0-8c81-2278db616025
+  recordings: [05cfd8fc-8ad8-426b-9e07-e8380d85b0d0]

@@ -1,0 +1,27 @@
+id: bruce-levingston-2014
+performers:
+- name: Bruce Levingston
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '869', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5f2de5b9-8d45-4e19-abbc-5c393b63fe7c
+  title: Heavy Sleep
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 958a6ee6-ad90-4aa1-8ebb-f2bdc0d33371
+  recordings: [a1c0bee2-1acb-437b-adc7-9fdcc9cf97f0]

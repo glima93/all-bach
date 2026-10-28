@@ -1,0 +1,28 @@
+id: awadagin-pratt-undated
+performers:
+- name: Awadagin Pratt
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '872', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/61e46fd5-5162-4cd2-a3a2-8ed5c46743a4
+  title: 'Awadagin Pratt: Live from South Africa'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2cf4bc5f-5a70-4c92-9840-621261e3c7e8
+  recordings: [38c23ae2-8750-48bd-aa03-4688415f3b2e]

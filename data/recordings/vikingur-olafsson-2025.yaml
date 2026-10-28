@@ -1,0 +1,26 @@
+id: vikingur-olafsson-2025
+performers:
+- name: Víkingur Ólafsson
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2025]
+  place: 'Harpa: Norðurljós'
+released: 2025
+original_label: null
+works:
+- {bwv: '854', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f1c78ee5-8a37-4038-88d6-adef4cec1175
+  title: 'The Well-Tempered Clavier I: Prelude No. 9 in E Major, BWV 854'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cea4a3b8-c26c-4b61-a243-cf72555e2c71
+  recordings: [6be129e0-0887-4af2-9e38-4d04728f4e98]

@@ -1,0 +1,28 @@
+id: raoul-pugno-undated
+performers:
+- name: Raoul Pugno
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '881', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/368e0e59-d1b3-4b60-bd17-8ebe8f0285b0
+  title: 'Dialogues: Contemporary & Classical Essentials'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6efe9f67-fcb5-4000-ac67-3b660baecfee
+  recordings: [93b3dcf1-f4df-4928-97cc-cc0162f4758b]

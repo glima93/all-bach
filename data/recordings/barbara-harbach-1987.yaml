@@ -1,0 +1,27 @@
+id: barbara-harbach-1987
+performers:
+- name: Barbara Harbach
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1987]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/07fc4c35-5bb2-495a-936d-04192e8ec687
+  title: Goldberg Variations / Art of the Fugue
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5eee6939-5c06-475e-a3d7-774e5785f6c5
+  recordings: [057eac17-4106-4aa3-a76f-5436efd20a3c]

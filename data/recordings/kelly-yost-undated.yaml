@@ -1,0 +1,28 @@
+id: kelly-yost-undated
+performers:
+- name: Kelly Yost
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '848', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/adf6a8e8-07d3-4abc-a92a-ac6e9cd4ace1
+  title: Roses & Solitude
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d85ff69a-620c-442f-9193-42e374a451ee
+  recordings: [2d7a45b2-7c69-447d-8a84-7bae289ca044]

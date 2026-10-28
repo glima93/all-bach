@@ -1,0 +1,26 @@
+id: christine-schornsheim-1994
+performers:
+- name: Christine Schornsheim
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: Ev. Auenkirche Berlin-Wilmersdorf
+released: 1996
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/37d3a8a1-93b8-4117-8feb-bb023b648f08
+  title: Goldberg-Variationen / Goldberg Variations BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f4b006fe-ab9b-4f84-bb70-c4857d4c7188
+  recordings: [00fc1cf3-b40b-49bc-8d93-920f269fea1d]

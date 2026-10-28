@@ -1,0 +1,26 @@
+id: gwendolyn-toth-2000
+performers:
+- name: Gwendolyn Toth
+  role: lautenwerck
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: St. James Chapel, Cathedral of St. John the Divine, New York City
+released: 2003
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/acdf0c53-10ca-4d82-b90f-753e1e0cbdcf
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed53d0ad-4039-46ff-bd5d-b327b2d38b7c
+  recordings: [06ae6142-6a63-408c-825d-521f28c0ec74]

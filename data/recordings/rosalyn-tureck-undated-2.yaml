@@ -1,0 +1,34 @@
+id: rosalyn-tureck-undated-2
+performers:
+- name: Rosalyn Tureck
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '846', complete: true}
+- {bwv: '847', complete: true}
+- {bwv: '850', complete: true}
+- {bwv: '866', complete: true}
+- {bwv: '872', complete: true}
+- {bwv: '884', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d71567b-a9c6-4150-bfc2-3add9c10ba76
+  title: 'The #1 Bach Album'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e102c96-3536-4ff9-ac29-d189eed65dc9
+  recordings: [2a96eebb-c635-4e83-b2a1-57576a5882cd]

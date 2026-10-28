@@ -1,0 +1,27 @@
+id: konstantin-lifschitz-1994
+performers:
+- name: Konstantin Lifschitz
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1994]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/27bb2e4c-d83f-46dd-ad51-4cd9c0f59029
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45cef22c-05bb-4ed8-bf88-8c8be427df23
+  recordings: [0936d729-d183-4ee9-8d9c-5a0636c5ec6b]

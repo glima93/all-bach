@@ -1,0 +1,26 @@
+id: keith-jarrett-1989
+performers:
+- name: Keith Jarrett
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: Yatsugatake Kogen Ongakudo
+released: 1989
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f088fdd-a734-45a6-8b00-c24f1a6d6b76
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 061c4920-3ea6-4835-98f6-02f3b82f5e3a
+  recordings: [08563ebe-0553-44ce-81ee-3ba233008304]

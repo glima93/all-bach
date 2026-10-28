@@ -1,0 +1,28 @@
+id: cecile-bogaerts-undated
+performers:
+- name: Cécile Bogaerts
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/758f6d6d-1ab7-43d4-8ffb-c24e95a37f76
+  title: Goldbergvariaties
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6c111b1a-62f9-4b18-8c99-3970806a0631
+  recordings: [002a7048-15c1-4dea-8d58-cd6257c7d0a4]

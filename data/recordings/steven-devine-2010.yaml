@@ -1,0 +1,27 @@
+id: steven-devine-2010
+performers:
+- name: Steven Devine
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2010]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d99a47d7-1190-4ddf-96b7-b5d9259eb9e2
+  title: '"Goldberg" Variations'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3e233814-8913-422e-b715-a994839445a3
+  recordings: [06eb77e5-fbde-490c-aa16-b5f24f8afbba]

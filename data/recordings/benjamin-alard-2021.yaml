@@ -1,0 +1,35 @@
+id: benjamin-alard-2021
+performers:
+- name: Benjamin Alard
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '848', complete: false, movements: [Prelude]}
+- {bwv: '849', complete: false, movements: [Prelude]}
+- {bwv: '850', complete: false, movements: [Fugue]}
+- {bwv: '851', complete: false, movements: [Prelude]}
+- {bwv: '853', complete: false, movements: [Prelude]}
+- {bwv: '854', complete: false, movements: [Prelude]}
+- {bwv: '856', complete: false, movements: [Prelude]}
+- {bwv: '857', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e8975c0d-a9c5-452d-9e93-57d840e572ca
+  title: 'The Complete Works for Keyboard 6: Das wohltemperierte Klavier (1)'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [171c79f0-cb15-4518-bd58-bcd5f8e7afe1]

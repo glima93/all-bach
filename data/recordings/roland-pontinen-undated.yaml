@@ -1,0 +1,28 @@
+id: roland-pontinen-undated
+performers:
+- name: Roland Pöntinen
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1bce2344-9e2e-4ee1-afd4-94181af5e513
+  title: 'Piano Rhapsody: An Odyssey from Bach to Satie with Roland Pöntinen'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b9977c9-0f6d-4c0c-9a8a-3bcb00063dc6
+  recordings: [1e742299-1aad-40c3-b96f-8d05fded3c46]

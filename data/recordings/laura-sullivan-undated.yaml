@@ -1,0 +1,28 @@
+id: laura-sullivan-undated
+performers:
+- name: Laura Sullivan
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd0a25b7-bcdc-473d-a353-7791cd5bd8e0
+  title: 'Timeless: The Most Relaxing Classical Music Ever'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fc167b19-da1f-48c3-8a44-f43fdad9ab3f
+  recordings: [cfe9fb8c-6978-461e-8b2f-37edf24b64e0]

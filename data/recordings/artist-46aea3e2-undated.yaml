@@ -1,0 +1,29 @@
+id: artist-46aea3e2-undated
+performers:
+- name: 木幡律子
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/74db6482-ec21-460e-b1fe-db601f1d85ed
+  title: 'Best of Best: Classical Piano Music'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 46aea3e2-a0ab-4234-aa94-968b66efb873
+  recordings: [ef9c3473-80d8-4bdf-bf6b-e21963080058]

@@ -1,0 +1,28 @@
+id: ansel-adams-undated
+performers:
+- name: Ansel Adams
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '870', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dd614194-a79c-4cba-b85b-142b7789766d
+  title: Ansel Adams
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 50afde10-90f6-4534-b2e2-8e2e375daa10
+  recordings: [1659b288-c18b-48d1-b4c3-70a7daa8e65b]

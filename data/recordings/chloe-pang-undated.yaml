@@ -1,0 +1,28 @@
+id: chloe-pang-undated
+performers:
+- name: Chloe Pang
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2010a177-b4aa-4eb9-8330-f4c65b0369ee
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0d59269-98f8-43c9-a39e-f6e974a256ee
+  recordings: [0912edd0-5630-4fdc-b611-ee2ea475f1ea]

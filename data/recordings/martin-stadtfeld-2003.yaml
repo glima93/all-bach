@@ -1,0 +1,26 @@
+id: martin-stadtfeld-2003
+performers:
+- name: Martin Stadtfeld
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2003]
+  place: SWR Studio
+released: 2004
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f356c2e0-b29c-4b46-876a-faf985c59ef6
+  title: Goldberg-Variationen, BWV 988
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b58542fb-afcb-431d-a234-fb5bf7f93a09
+  recordings: [16761d21-b78a-461d-bd5e-64cfb46b62bb]

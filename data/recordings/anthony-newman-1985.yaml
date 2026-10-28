@@ -1,0 +1,27 @@
+id: anthony-newman-1985
+performers:
+- name: Anthony Newman
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1985]
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c272023-3f1f-4f94-9fc6-4b3b6d496ca3
+  title: Goldberg Variations BWV 988
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ea4c412-b5db-499a-ad58-8251d91526ca
+  recordings: [0695c419-12e2-4395-bf04-268e9b0c3a82]

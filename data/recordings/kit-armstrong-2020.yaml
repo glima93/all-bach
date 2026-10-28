@@ -1,0 +1,26 @@
+id: kit-armstrong-2020
+performers:
+- name: Kit Armstrong
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020]
+  place: Meistersaal
+released: 2024
+original_label: null
+works:
+- {bwv: '849', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43c7205b-1f0d-4d97-a9ca-0f108b2b1acf
+  title: 100 Great Musical Moments
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 436d148a-6298-46e7-9960-cf459f8b6145
+  recordings: [15025e1b-e37d-4c20-8977-0cdaf5bc134c]

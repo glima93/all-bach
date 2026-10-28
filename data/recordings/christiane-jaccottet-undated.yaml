@@ -1,0 +1,36 @@
+id: christiane-jaccottet-undated
+performers:
+- name: Christiane Jaccottet
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '846', complete: true}
+- {bwv: '847', complete: false, movements: [Prelude]}
+- {bwv: '864', complete: false, movements: [Prelude]}
+- {bwv: '865', complete: false, movements: [Prelude]}
+- {bwv: '866', complete: false, movements: [Fugue]}
+- {bwv: '869', complete: false, movements: [Prelude]}
+- {bwv: '881', complete: true}
+- {bwv: '888', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55fc12d3-bcfb-48c7-a69f-f2c77db37070
+  title: 1000 Meisterwerke der klassischen Musik
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85f89ec1-8f4e-4201-a8a2-80e6cbb9c9e2
+  recordings: [06960467-87f7-4541-8bb4-6f444039c3bb]

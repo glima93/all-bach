@@ -1,0 +1,27 @@
+id: hans-pischner-1962
+performers:
+- name: Hans Pischner
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1962]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2b90e646-68a0-40d0-a02b-45bb13b97832
+  title: Best of Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8fcefa73-f64a-47af-8ba5-8ba2b428486f
+  recordings: [dd16b0eb-71b5-4ff2-999f-08e278a9fdcc]

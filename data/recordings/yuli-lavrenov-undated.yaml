@@ -1,0 +1,28 @@
+id: yuli-lavrenov-undated
+performers:
+- name: Yuli Lavrénov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/178c44b4-b34a-442b-b6cd-0a9167823a16
+  title: 'Top 100 der Klassik: Die 100 schönsten klassischen Melodien'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4e81c330-3ed4-4469-b006-f83f771683f7
+  recordings: [3bddf6f4-4775-4184-8e43-07b492102e54]

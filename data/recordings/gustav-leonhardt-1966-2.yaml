@@ -1,0 +1,26 @@
+id: gustav-leonhardt-1966-2
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1966]
+  place: 'Schloss Kirchheim; Schloss Kirchheim: Cedernsaal'
+released: 1990
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3e5cb71a-c7cf-4048-a87b-8c648978ebed
+  title: Notenbüchlein für Anna Magdalena Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [bb8a3e67-5eeb-4dca-b610-cab76dad356d]

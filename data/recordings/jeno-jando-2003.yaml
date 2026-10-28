@@ -1,0 +1,26 @@
+id: jeno-jando-2003
+performers:
+- name: Jenő Jandó
+  role: fortepiano
+instrument: fortepiano
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Phoenix Studios
+released: 2005
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/410ccdf8-12e7-4c58-a60a-4fa2e6b9d75d
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 42959d4b-b222-49e3-880d-b21a87689279
+  recordings: [041b766b-e90e-4d45-a562-2b7014d4acdf]

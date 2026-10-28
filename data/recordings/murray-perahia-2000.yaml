@@ -1,0 +1,26 @@
+id: murray-perahia-2000
+performers:
+- name: Murray Perahia
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2000]
+  place: Théâtre L'heure Bleu
+released: 2000
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43b785c2-971a-4f2e-86dc-24284ddc3fd6
+  title: Goldberg Variationen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 71131221-cda2-4d28-8348-4574412d9c9f
+  recordings: [1576c8ce-ec89-47e7-8bc0-af87cbebf245]

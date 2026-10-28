@@ -1,0 +1,31 @@
+id: mari-samuelsen-2018-3
+performers:
+- name: Mari Samuelsen
+  role: violin
+- name: Konzerthausorchester Berlin
+  role: performer
+- name: Jonathan Stockhammer
+  role: performer
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2018]
+  place: Konzerthaus Berlin
+released: 2019
+original_label: null
+works:
+- {bwv: '850', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d205d5a7-8a65-439b-b02b-8fb32b74b820
+  title: Mari
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ecf7e740-3242-464f-8377-b8017b41e670
+  recordings: [acf5f10c-db48-46ae-91b7-1ef20e1756c5]

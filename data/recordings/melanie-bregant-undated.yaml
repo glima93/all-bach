@@ -1,0 +1,28 @@
+id: melanie-bregant-undated
+performers:
+- name: Mélanie Brégant
+  role: button accordion
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: École nationale de musique, danse et art dramatique de Villeurbanne
+released: 2012
+original_label: null
+works:
+- {bwv: '887', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92a87984-a5b8-4bdd-8751-68438db41e2b
+  title: Facétie
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on button accordion.
+musicbrainz:
+  artist: 8d4b48a9-4e2f-4167-a1cd-c672e49f07f7
+  recordings: [2e55420c-f5d0-4cd4-843c-c127407c7946]

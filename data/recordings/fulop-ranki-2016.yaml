@@ -1,0 +1,26 @@
+id: fulop-ranki-2016
+performers:
+- name: Fülöp Ránki
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2016]
+  place: 'Bank Austria Salon im Alten Rathaus: Barocksaal'
+released: 2016
+original_label: null
+works:
+- {bwv: '849', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/21d0e859-1677-4343-a954-cf4f3f8259b7
+  title: 'Piano Forte: The Next Generation'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 896dfe57-a228-4045-bcaa-a5aba5d3e565
+  recordings: [42dbbae0-655a-4a7f-b243-182d436db8bb]

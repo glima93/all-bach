@@ -1,0 +1,28 @@
+id: j-p-cormier-undated
+performers:
+- name: J. P. Cormier
+  role: percussion
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: CKJM Studios
+released: 1997
+original_label: null
+works:
+- {bwv: '888', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0aad0ea-51ee-4f4b-9a2d-9adc9ac5f871
+  title: Another Morning
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar, percussion, spoons.
+musicbrainz:
+  artist: caa158fe-c218-45bc-825d-a6cf0d37e445
+  recordings: [7112fe4c-d417-41f3-ac2b-e86310075d37]

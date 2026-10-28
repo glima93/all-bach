@@ -1,0 +1,28 @@
+id: andree-sebastian-wickel-undated
+performers:
+- name: Andrée Sebastian Wickel
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '866', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ec446cb8-5715-4cec-9c5a-8a275ada7c31
+  title: Scarlatti / Brahms / Chopin / Mozart
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bd4a0f4-2ca6-4667-858e-a3e4771c594e
+  recordings: [0b6e6e96-7d45-4144-b607-7c3dc8f4c171]

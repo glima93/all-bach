@@ -1,0 +1,30 @@
+id: andrew-rangell-undated
+performers:
+- name: Andrew Rangell
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+- {bwv: '864', complete: false, movements: [Prelude]}
+- {bwv: '866', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/63f94e02-3631-4add-ba74-ebc280997c89
+  title: Bach 4 Kids
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 710da3a1-0476-4592-a2f7-5e89dff41eec
+  recordings: [79e3fa49-bea1-485e-aac3-052d6c83519e]

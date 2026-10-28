@@ -1,0 +1,28 @@
+id: alex-pryrodny-undated
+performers:
+- name: Alex Pryrodny
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '846', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aed03089-52ec-49fb-9cac-7bc24535a516
+  title: Album Zero
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3ad30528-8c31-40b6-8265-bfc811ef7759
+  recordings: [349e67ed-e402-41a3-96ab-0f192edd548a]

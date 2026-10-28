@@ -1,0 +1,26 @@
+id: charles-rosen-1967
+performers:
+- name: Charles Rosen
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1967]
+  place: CBS 30th Street Studio
+released: 1992
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/47777d68-3142-4915-8857-2f94c9cb3b0c
+  title: Goldberg Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 31113f40-2dad-4cae-a316-79d34ac7ef4a
+  recordings: [057011c4-db67-4ea6-86cc-987cae43b26f]

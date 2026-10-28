@@ -1,0 +1,27 @@
+id: yorck-kronenberg-1999
+performers:
+- name: Yorck Kronenberg
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '988', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d7dd4f3b-c7e5-4a95-a2e2-2abdd474ea59
+  title: Goldberg-Variationen
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bfcefb4c-05a7-4bad-a6a2-ac13d81d52d1
+  recordings: [01953e75-44c7-4859-b132-a5266c6ef14f]

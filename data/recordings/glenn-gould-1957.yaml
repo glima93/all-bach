@@ -1,0 +1,28 @@
+id: glenn-gould-1957
+performers:
+- name: Glenn Gould
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1957]
+  place: 'Moscow Conservatory: The Small Hall'
+released: 1986
+original_label: null
+works:
+- {bwv: '988', complete: false, movements: [Variatio 3. Canone all'Unisuono. a 1 Clav., Variatio 9. Canone alla
+      Terza. a 1 Clav., Variatio 10. Fughetta. a 1 Clav., Variatio 18. Canone alla Sesta. a 1 Clav., Variatio 24.
+      Canone all'Ottava. a 1 Clav., Variatio 30. a 1 Clav. Quodlibet]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b3263cb4-f166-45d1-b682-bd49adb863dd
+  title: Concert de Moscou
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 7002bf88-1269-4965-a772-4ba1e7a91eaa
+  recordings: [64863116-c7de-40ae-96d0-4d34165801a6]
