@@ -138,26 +138,20 @@ nav.top a[aria-current="page"] { color: var(--ink); text-decoration: underline; 
   .spine { transition: transform 0.18s ease-out; }
   .spine:hover, .spine:focus-visible { transform: translateY(-12px); }
 }
-.plank { height: 16px; margin: 0 -4px; background: linear-gradient(var(--plank), var(--plank-dark)); border-radius: 2px; box-shadow: 0 14px 18px -12px rgba(60, 40, 20, 0.45); }
+.shelf-scroll { overflow-x: auto; overflow-y: hidden; padding-top: 14px; scrollbar-width: thin; }
+.shelf-scroll:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+.shelf-inner { min-width: max-content; }
+.plank { height: 16px; margin: 0 0 18px; background: linear-gradient(var(--plank), var(--plank-dark)); border-radius: 2px; box-shadow: 0 14px 18px -12px rgba(60, 40, 20, 0.45); }
 .shelf-note { margin: 28px 0 0; color: var(--muted); font-size: 0.95rem; max-width: 62ch; }
 @media (max-width: 640px) {
-  /* on a phone the volumes lie flat in a stack */
-  .shelf { flex-direction: column; align-items: stretch; min-height: 0; padding: 0; gap: 4px; }
-  .spine { grid-template-rows: none; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: 12px; width: var(--mw, 100%); height: auto; margin-left: var(--mo, 0); padding: 12px 18px; }
-  .spine::before, .spine::after { top: 6px; bottom: 6px; left: auto; right: auto; width: 5px; height: auto; border-block: 0; border-inline: 1px solid var(--gilt-soft); }
-  .spine::before { left: 8px; }
-  .spine::after { right: 8px; }
-  .spine .lab { margin: 0 0 0 6px; }
-  .spine .lab i { display: inline; line-height: 1; margin: 0 1px; }
-  .spine .ti { writing-mode: horizontal-tb; text-align: left; justify-self: start; font-size: 1.1rem; }
-  .spine .ft { margin: 0 6px 0 0; }
-  .spine.ghost .ti { padding-block: 6px; }
-  .plank { display: none; }
+  /* on a narrow screen the volumes stay upright, a little smaller, and the shelf scrolls sideways */
+  .shelf-scroll { margin-inline: -16px; padding-inline: 16px; }
+  .shelf { padding: 0 12px; min-height: 340px; gap: 4px; }
+  .spine { width: calc(var(--w, 84px) * 0.82); height: calc(var(--h, 380px) * 0.82); padding: 14px 6px 12px; }
+  .spine .ti { font-size: 1.05rem; }
+  .spine .lab { font-size: 0.7rem; padding: 4px; min-width: 0; }
+  .shelf-note { margin-top: 20px; }
 }
-@media (max-width: 640px) and (prefers-reduced-motion: no-preference) {
-  .spine:hover, .spine:focus-visible { transform: translateX(6px); }
-}
-
 /* a collection: its cover, then the works inside */
 .back { display: inline-block; margin-top: 18px; font-size: 0.95rem; font-weight: 500; text-decoration: none; }
 .back:hover { text-decoration: underline; }
@@ -366,11 +360,15 @@ function renderCatalogue() {
       <h2 id="shelf-h">The shelf</h2>
       <p>One volume per collection. Take one down to see the works inside.</p>
     </div>
+    <div class="shelf-scroll" tabindex="0" aria-label="Shelf of volumes">
+    <div class="shelf-inner">
     <ul class="shelf">
       ${groups.map(renderSpine).join("")}
       <li><a class="spine ghost" href="#contribute" style="--w:76px;--h:340px;--mw:88%;--mo:6%"><span></span><span class="ti">Add the next volume</span><span></span></a></li>
     </ul>
     <div class="plank" aria-hidden="true"></div>
+    </div>
+    </div>
     <p class="shelf-note">The shelf holds the Well-Tempered Clavier, the Goldberg Variations, and Bach's music for unaccompanied strings. The rest of the catalogue, from BWV 1 onwards, arrives as contributors add works and recordings. <a href="#contribute">How to contribute</a></p>
   </section>`;
 }
