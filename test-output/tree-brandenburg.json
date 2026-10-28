@@ -1,0 +1,150 @@
+{
+ "collection": "brandenburg",
+ "taken": "2026-10-28",
+ "recordings": 3860,
+ "performances": 324,
+ "works": [
+  {
+   "bwv": "1046",
+   "id": "ac2f470a-e772-48bf-9898-3b3a22a3c9e9",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Brandenburgisches Konzert Nr. 1 F-Dur, BWV 1046",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "3062eb48-27b7-393b-a8d6-3bc813469ae4",
+     "title": "Brandenburgisches Konzert Nr. 1 F-Dur, BWV 1046: I."
+    },
+    {
+     "id": "ec60a70e-39c0-3f8d-b457-0107822a280e",
+     "title": "Brandenburgisches Konzert Nr. 1 F-Dur, BWV 1046: II. Adagio"
+    },
+    {
+     "id": "d19bc195-dab9-3144-a1b9-3f33520b2a82",
+     "title": "Brandenburgisches Konzert Nr. 1 F-Dur, BWV 1046: III. Allegro"
+    },
+    {
+     "id": "42265981-dd7a-365f-9590-8266c02a62ec",
+     "title": "Brandenburgisches Konzert Nr. 1 F-Dur, BWV 1046: IV. Menuetto – Trio I – Menuetto da capo – Polacca – Menuetto da capo – Trio II – Menuetto da capo"
+    }
+   ]
+  },
+  {
+   "bwv": "1047",
+   "id": "53ad4fa4-80fe-4d94-8f07-97c41dcdf904",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Brandenburgisches Konzert Nr. 2 F-Dur, BWV 1047",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "5c15c7da-b404-3ca3-9fea-8678030d3dcb",
+     "title": "Brandenburgisches Konzert Nr. 2 F-Dur, BWV 1047: I."
+    },
+    {
+     "id": "552846ce-e9e0-3add-8bf8-db4cf7e155fb",
+     "title": "Brandenburgisches Konzert Nr. 2 F-Dur, BWV 1047: II. Andante"
+    },
+    {
+     "id": "afbf0884-6fe5-3ae5-9a7c-78237d067680",
+     "title": "Brandenburgisches Konzert Nr. 2 F-Dur, BWV 1047: III. Allegro assai"
+    }
+   ]
+  },
+  {
+   "bwv": "1048",
+   "id": "eee93bf3-be6b-3534-918b-43ab8ee4c975",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Brandenburgisches Konzert Nr. 3 G-Dur, BWV 1048",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "c20c22ca-c343-336d-a99a-eca5228ab916",
+     "title": "Brandenburgisches Konzert Nr. 3 G-Dur, BWV 1048: I. Allegro"
+    },
+    {
+     "id": "7791610b-ec18-3478-ab9f-2b770d7df458",
+     "title": "Brandenburgisches Konzert Nr. 3 G-Dur, BWV 1048: II. Adagio"
+    },
+    {
+     "id": "b9aa40bc-45c2-35b8-91ae-10bbfba589f1",
+     "title": "Brandenburgisches Konzert Nr. 3 G-Dur, BWV 1048: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1049",
+   "id": "44972d70-6554-4a19-b5ac-77236cf887eb",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Brandenburgisches Konzert Nr. 4 G-Dur, BWV 1049",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "57c383db-3c74-3176-9e55-9eb70eb13fea",
+     "title": "Brandenburgisches Konzert Nr. 4 G-Dur, BWV 1049: I. Allegro"
+    },
+    {
+     "id": "4ab9c06b-8dbb-3e78-ab7f-d693270ebf71",
+     "title": "Brandenburgisches Konzert Nr. 4 G-Dur, BWV 1049: II. Andante"
+    },
+    {
+     "id": "c7c5e963-30eb-3ac7-9f78-2a77a598e52e",
+     "title": "Brandenburgisches Konzert Nr. 4 G-Dur, BWV 1049: III. Presto"
+    }
+   ]
+  },
+  {
+   "bwv": "1050",
+   "id": "dbb7157a-5dc3-41c4-aacc-4e3d4705e132",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Brandenburgisches Konzert Nr. 5 D-Dur, BWV 1050",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "9e356a66-37ef-3b52-8034-46994c38024c",
+     "title": "Brandenburgisches Konzert Nr. 5 D-Dur, BWV 1050: I. Allegro"
+    },
+    {
+     "id": "ed8d7d87-31f4-3497-a89c-ba1451054b0b",
+     "title": "Brandenburgisches Konzert Nr. 5 D-Dur, BWV 1050: II. Affettuoso"
+    },
+    {
+     "id": "8f4d7eb6-c472-3f08-8693-6b2ff170c933",
+     "title": "Brandenburgisches Konzert Nr. 5 D-Dur, BWV 1050: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1051",
+   "id": "cfeffb3a-0bcc-4a77-8d39-3813a89970b1",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Brandenburgisches Konzert Nr. 6 B-Dur, BWV 1051",
+   "key": "B-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "a7b6f2fa-f8a1-324e-8869-47537e1a4e6e",
+     "title": "Brandenburgisches Konzert Nr. 6 B-Dur, BWV 1051: I."
+    },
+    {
+     "id": "37f6c492-00a2-34af-b76d-21d505c49777",
+     "title": "Brandenburgisches Konzert Nr. 6 B-Dur, BWV 1051: II. Adagio ma non tanto"
+    },
+    {
+     "id": "3e5988ec-a989-3d83-a92d-b8afce5a9d72",
+     "title": "Brandenburgisches Konzert Nr. 6 B-Dur, BWV 1051: III. Allegro"
+    }
+   ]
+  }
+ ]
+}
