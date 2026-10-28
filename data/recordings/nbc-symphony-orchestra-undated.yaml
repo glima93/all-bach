@@ -1,0 +1,30 @@
+id: nbc-symphony-orchestra-undated
+performers:
+- name: NBC Symphony Orchestra
+  role: orchestra
+- name: Arturo Toscanini
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2ad99c9f-ff51-465e-a562-e5ab023f06f5
+  title: 'Tchaikovsky: Symphony no. 6 “Pathétique” / Bach: Brandenburg Concerto no. 2 / Haydn: Symphony no. 31 “Hornsignal”'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 229d5a97-b8e1-4195-a696-d74bc8db90ed
+  recordings: [8482c587-c914-44fb-b5fa-4a357c4a84bf]

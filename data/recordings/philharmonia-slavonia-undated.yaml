@@ -1,0 +1,41 @@
+id: philharmonia-slavonia-undated
+performers:
+- name: Philharmonia Slavonia
+  role: orchestra
+- name: Karel Brazda
+  role: conductor
+- name: Rudolf Pribil
+  role: performer
+- name: Henry Adolph
+  role: performer
+- name: Eugen Duvier
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82d4d364-90f5-45ff-b1cf-78da5732fb7c
+  title: Classical Collection, Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9a99bc67-1c17-4197-9a57-80ae70681939
+  recordings: [2a504dec-920e-4f7a-a4bf-69eb31f75b9f]

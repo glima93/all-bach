@@ -1,0 +1,29 @@
+id: orchestra-of-the-age-of-enlightenment-undated
+performers:
+- name: Orchestra of the Age of Enlightenment
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/722709fa-3027-4039-8fcc-418b6cd19011
+  title: La musique classique pour les nuls
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b3648a9a-495c-4e39-9edc-7f5cd13f7417
+  recordings: [d28ef618-0f07-45cb-b77b-81c1791aead4]

@@ -1,0 +1,32 @@
+id: amadeus-guitar-duo-undated
+performers:
+- name: Amadeus Guitar Duo
+  role: guitar
+- name: Eden-Stell Guitar Duo
+  role: guitar
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [III. Allegro]}
+- {bwv: '1051', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de7028a4-d27e-4fa5-9838-6d86c5f14a81
+  title: Guitar Gala Night
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: 7e24315e-61fb-4dbd-9a65-ace1d72a7787
+  recordings: [e4685259-bf25-4bd4-8c92-04f1c4c67c11]

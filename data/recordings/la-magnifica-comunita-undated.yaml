@@ -1,0 +1,36 @@
+id: la-magnifica-comunita-undated
+performers:
+- name: La magnifica comunità
+  role: orchestra
+- name: Isabella Longo
+  role: performer
+- name: Roberto Loreggian
+  role: performer
+- name: Francesco Padovani
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/618a2dc2-b0e9-4cbb-b7d6-0f745db33d16
+  title: The Greatest Classical Composers - Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aa45c9f3-54b8-4243-ad9e-981ef1f4b799
+  recordings: [eac5bce7-8496-4354-b200-411ff0b32126]

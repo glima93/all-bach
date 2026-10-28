@@ -1,0 +1,28 @@
+id: the-philadelphia-orchestra-1928
+performers:
+- name: The Philadelphia Orchestra
+  role: orchestra
+- name: Leopold Stokowski
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1928]
+  place: Academy of Music
+released: 2001
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/582bf8e0-801b-4d1f-b227-562ab3bc87d6
+  title: Orchestral Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ff3fcff7-6c85-49d6-b954-ed7011a44e5a
+  recordings: [daff4931-460e-4516-91ad-279e7d0b2035]

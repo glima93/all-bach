@@ -1,0 +1,33 @@
+id: le-concert-des-nations-1991
+performers:
+- name: Le Concert des Nations
+  role: orchestra
+- name: Jordi Savall
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1991]
+  place: Palazzo Giusti, Padova
+released: 1991
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9582884a-71ab-4089-8f54-87511412410b
+  title: Les Six Concerts Brandenbourgeois
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e3b43b6a-14b0-4b2a-abd4-a41307cf10a0
+  recordings: [ca5ae13e-1f5c-4128-ace2-50f43798e05a]

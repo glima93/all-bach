@@ -1,0 +1,30 @@
+id: brandenburg-chamber-orchestra-undated
+performers:
+- name: Brandenburg Chamber Orchestra
+  role: orchestra
+- name: Emanuel Hurwitz
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a93a511d-543f-464c-8abe-70bafddcf652
+  title: Volume 3 - Bach And The Early Baroque
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f611b4f4-2e75-4ad4-b973-f3fb8981b2f4
+  recordings: [4d03f4cc-406c-478b-b68e-cc44f04c5da7]

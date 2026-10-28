@@ -1,0 +1,35 @@
+id: new-festival-orchestra-undated
+performers:
+- name: New Festival Orchestra
+  role: orchestra
+- name: Leonid Malyshev
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [I. Allegro, II. Adagio, III. Allegro]}
+- {bwv: '1047', complete: false, movements: [II. Andante]}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: false, movements: [II. Andante]}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/185b2981-7bce-4033-95e4-d98234c2c89e
+  title: 'Classical Treasures: Brandenburg Concertos'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eb6b6807-9802-4548-b682-58c17d85fde9
+  recordings: [d6cb5f8b-1f6c-4682-8043-605e51126b05]

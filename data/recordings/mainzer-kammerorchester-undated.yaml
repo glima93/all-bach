@@ -1,0 +1,35 @@
+id: mainzer-kammerorchester-undated
+performers:
+- name: Mainzer Kammerorchester
+  role: orchestra
+- name: Günter Kehr
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c34e65de-5397-4e6c-8685-ca1c8b02e50d
+  title: Brandenburg Concertos 1 3 & 4 / Cto Bwv 1044
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 10b82827-ec13-40a6-b6d1-f74dcffc8d8b
+  recordings: [f59a34ae-d9c9-4c93-b83f-04265add4f57]

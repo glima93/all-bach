@@ -1,0 +1,28 @@
+id: solistenensemble-der-tiroler-barockinstrumentalisten-undated
+performers:
+- name: Solistenensemble der Tiroler Barockinstrumentalisten
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0ad1656-d03e-45d3-a0fd-22a859eee068
+  title: Small Is Beautiful
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 73956473-05f6-4a02-848d-01e99dd3699f
+  recordings: [a8bb1833-6214-41c1-bd99-84379ab60946]

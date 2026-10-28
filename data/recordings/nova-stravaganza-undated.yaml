@@ -1,0 +1,30 @@
+id: nova-stravaganza-undated
+performers:
+- name: Nova Stravaganza
+  role: orchestra
+- name: Siegbert Rampe
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e90053a3-f436-49c3-ae93-384dade0c188
+  title: Iedereen Klassiek
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fed56f7-aefb-41f8-9ce7-2a3afb572e75
+  recordings: [47c31c38-fcf4-4dfc-b831-b8da55733d45]

@@ -1,0 +1,43 @@
+id: i-musici-1965
+performers:
+- name: I Musici
+  role: orchestra
+- name: Maria Teresa Garatti
+  role: harpsichord
+- name: Maurice André
+  role: performer
+- name: Felix Ayo
+  role: violino piccolo
+- name: Severino Gazzelloni
+  role: performer
+- name: Heinz Holliger
+  role: oboe
+- name: János Scholz
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1965]
+  place: Théâtre municipal de Vevey
+released: 1993
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/037d722a-0491-4d03-a220-8c40509d040d
+  title: Brandenburgische Konzerte Nr. 1~6 / Die Violinkonzerte
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0febca2d-aeed-48fc-9d44-180f6346e4ab
+  recordings: [44336319-b51f-4bbc-9144-77a7ae08c581]

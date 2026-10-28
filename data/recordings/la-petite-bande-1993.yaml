@@ -1,0 +1,34 @@
+id: la-petite-bande-1993
+performers:
+- name: La Petite Bande
+  role: ensemble
+- name: Sigiswald Kuijken
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993, 1994]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44f53f7b-7a0c-4796-b06c-1077327b13ff
+  title: Baroque Masterpieces
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [d598d853-b4bc-44d3-8ccb-0f81e6e05c06]

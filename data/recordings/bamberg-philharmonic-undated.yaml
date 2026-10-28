@@ -1,0 +1,33 @@
+id: bamberg-philharmonic-undated
+performers:
+- name: Bamberg Philharmonic
+  role: orchestra
+- name: Hans Swarowsky
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1051', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e3793e7-722d-4f89-a38e-d828d4f498af
+  title: 'Golden Classics: The Best of Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b3a4c87c-f54b-4701-b552-a3c056f9670c
+  recordings: [242741cc-aa57-4e50-ba20-d10e11638f0b]

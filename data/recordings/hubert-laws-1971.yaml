@@ -1,0 +1,27 @@
+id: hubert-laws-1971
+performers:
+- name: Hubert Laws
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1971]
+  place: Van Gelder Studio
+released: 1971
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f458053e-b509-4705-91f7-fa0f79e9fd5b
+  title: The Rite of Spring
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar, drums (drum set), vibraphone.
+musicbrainz:
+  artist: 82208529-b45a-4b3e-92dd-02f6b14c6f18
+  recordings: [2d5b23e8-ea71-4505-b106-fe5398423169]

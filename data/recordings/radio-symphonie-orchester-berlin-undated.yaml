@@ -1,0 +1,41 @@
+id: radio-symphonie-orchester-berlin-undated
+performers:
+- name: Radio-Symphonie‐Orchester Berlin
+  role: orchestra
+- name: Lorin Maazel
+  role: conductor
+- name: Wolfgang Meyer
+  role: harpsichord
+- name: Maurice André
+  role: performer
+- name: Albert von Cammus
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: false, movements: [I. Allegro]}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d156a1af-25a2-424b-8697-7e4c61a3617f
+  title: Brandenburgische Konzerte 1-3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5010b425-bf4e-41b1-93a7-f8729794558b
+  recordings: [2591b939-814c-44df-9fa6-7de27b8f04aa]

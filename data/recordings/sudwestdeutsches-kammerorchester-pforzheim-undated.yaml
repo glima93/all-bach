@@ -1,0 +1,43 @@
+id: sudwestdeutsches-kammerorchester-pforzheim-undated
+performers:
+- name: Südwestdeutsches Kammerorchester Pforzheim
+  role: orchestra
+- name: Friedrich Tilegant
+  role: conductor
+- name: Maurice André
+  role: performer
+- name: Kraft Thorwald Dillo
+  role: performer
+- name: Horst Schneider
+  role: performer
+- name: György Terebesi
+  role: performer
+- name: Michael Dzionara
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a909c45e-6419-417b-ab3d-5c6d16630748
+  title: 'Brandenburgische Konzerte 1, 2, 6 (Südwestdeutsches Kammerorchester feat. conductor: Friedrich Tilegant,
+    trumpet: Maurice André)'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7728bbd6-1fd8-4027-9203-1e480fb56dbe
+  recordings: [b492a61f-a0e5-4462-a7c7-3c72824483e2]

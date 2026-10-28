@@ -1,0 +1,37 @@
+id: bath-festival-orchestra-1959
+performers:
+- name: Bath Festival Orchestra
+  role: orchestra
+- name: Yehudi Menuhin
+  role: conductor
+- name: George Malcolm
+  role: performer
+- name: Elaine Shaffer
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959]
+  place: 'Abbey Road Studios: Studio 1'
+released: 1988
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5d0da8eb-0a83-4779-888f-59019bcc5c1f
+  title: Concertos brandebourgeois
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc6cebc8-6e51-464e-8589-6ae1c498f5d9
+  recordings: [884828f5-aef7-4edf-92d2-56441d96ab6f]

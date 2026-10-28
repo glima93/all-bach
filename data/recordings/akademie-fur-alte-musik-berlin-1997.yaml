@@ -1,0 +1,31 @@
+id: akademie-fur-alte-musik-berlin-1997
+performers:
+- name: Akademie für Alte Musik Berlin
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: Christuskirche
+released: 1998
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/071fec9b-b367-31fa-b092-99ee3c718e65
+  title: Concertos brandebourgeois
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad1b876d-1f4a-4126-8965-7e35076b9962
+  recordings: [20f9d314-91a7-41d2-b8a4-6398678c9efc]

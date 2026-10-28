@@ -1,0 +1,35 @@
+id: collegium-aureum-1965
+performers:
+- name: Collegium Aureum
+  role: orchestra
+- name: Franzjosef Maier
+  role: conductor
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1965, 1966, 1967]
+  place: Zedernsaal
+released: 1965
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/da330879-f121-4b26-8557-5f1b5a36beb3
+  title: Brandenburg Concertos (complete)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2cdc12f9-aae5-4b64-a769-6448f2c1c586
+  recordings: [1291702d-7d6e-4d61-aa49-3f3c67bc1039]

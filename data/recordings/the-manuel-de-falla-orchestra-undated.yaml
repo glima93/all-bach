@@ -1,0 +1,30 @@
+id: the-manuel-de-falla-orchestra-undated
+performers:
+- name: The Manuel de Falla Orchestra
+  role: orchestra
+- name: Waldo de los Ríos
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1976
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/20e7a72f-a2ac-4111-83c3-09134aa402db
+  title: Concertos for the Seventies
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 904b489a-8edf-4fd1-97d8-2de9e3b57691
+  recordings: [82eeb5b1-2643-4eb1-b05c-793f54ba0eac]

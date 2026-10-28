@@ -1,0 +1,28 @@
+id: the-brandenburg-sinfonia-undated
+performers:
+- name: The Brandenburg Sinfonia
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7efa791e-9c84-4c33-aaab-2f5fe83bbe2c
+  title: The Elegance of the Baroque
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 697fc1bf-5691-45e2-8197-ea09b5e52803
+  recordings: [4da51535-a2a3-4bb5-ae14-246869dd150a]

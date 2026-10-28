@@ -1,0 +1,33 @@
+id: concerto-italiano-2005
+performers:
+- name: Concerto Italiano
+  role: orchestra
+- name: Rinaldo Alessandrini
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2005]
+  place: Palazzo Farnese
+released: 2005
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6e51a5f4-b646-4bc1-9c12-0010a584d0af
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ed39906-8964-45b2-87de-a895616aa60d
+  recordings: [4d3240c8-fdfe-463b-a31e-a60efded1c1d]

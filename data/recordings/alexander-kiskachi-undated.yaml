@@ -1,0 +1,34 @@
+id: alexander-kiskachi-undated
+performers:
+- name: Alexander Kiskachi
+  role: performer
+- name: Alexander Rakhlis
+  role: violin
+- name: Vasily Viland
+  role: performer
+- name: Aleksander Titov
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1049', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/230dbe78-6669-420e-9179-ea6a2c2c4a25
+  title: Best of Baroque
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 01f9ae52-544a-4fd1-a54a-4eb72eb6868b
+  recordings: [406699ac-bef9-4bd4-b4bc-53f3b22ff74f]

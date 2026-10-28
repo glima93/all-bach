@@ -1,0 +1,38 @@
+id: wurttembergisches-kammerorchester-heilbronn-2020
+performers:
+- name: Württembergisches Kammerorchester Heilbronn
+  role: orchestra
+- name: Ana de la Vega
+  role: flute
+- name: Alexander Sitkovetsky
+  role: violin
+- name: Johannes Berger
+  role: harpsichord
+- name: Ramón Ortega Quero
+  role: oboe
+- name: Cyrus Allyar
+  role: trumpet
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2020]
+  place: 'Bildungscampus: Aula'
+released: 2021
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/681ffeea-2c2c-4bd7-be34-dc0bd780d3be
+  title: Bach Unbuttoned
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 556a5295-5b20-4da7-a9d1-49833162cb73
+  recordings: [eacc2506-094f-48a7-8fdd-fb71be8be141]

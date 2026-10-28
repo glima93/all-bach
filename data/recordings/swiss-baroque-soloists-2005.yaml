@@ -1,0 +1,35 @@
+id: swiss-baroque-soloists-2005
+performers:
+- name: Swiss Baroque Soloists
+  role: ensemble
+- name: Andrés Gabetta
+  role: conductor
+- name: Niklas Eklund
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2005]
+  place: Temple Saint-Jean de Mulhouse
+released: 2006
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6103c4d-01f6-4b0b-9acc-9e24bb67b342
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: acb69af3-5611-4338-a8b6-1ba63447441d
+  recordings: [37ed6065-f68a-447c-b062-a59b154dd308]

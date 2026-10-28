@@ -1,0 +1,31 @@
+id: zentrales-orchester-der-neuapostolischen-kirche-sachsen-thuringen-undated
+performers:
+- name: Zentrales Orchester der Neuapostolischen Kirche Sachsen-Thüringen
+  role: orchestra
+- name: Matthias Stiehler
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [I. Allegro]}
+- {bwv: '1049', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/11e1b091-859b-4347-b05d-2788068f5e13
+  title: In dir ist Freude
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 31a8eb8e-3072-4792-ba70-8ae396bf9ca2
+  recordings: [01ecbcfd-d79e-4637-bc19-8a9ce474dc17]

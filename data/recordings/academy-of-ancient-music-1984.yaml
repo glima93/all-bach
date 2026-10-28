@@ -1,0 +1,53 @@
+id: academy-of-ancient-music-1984
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Christopher Hogwood
+  role: harpsichord
+- name: Alison Bury
+  role: performer
+- name: Trevor Jones
+  role: performer
+- name: Micaela Comberti
+  role: performer
+- name: Barry Guy
+  role: performer
+- name: Katherine Hart
+  role: viola
+- name: Mark Caudle
+  role: cello
+- name: Catherine Mackintosh
+  role: violin
+- name: Timothy Mason
+  role: performer
+- name: Michel Piguet
+  role: recorder
+- name: Jan Schlapp
+  role: performer
+- name: Richard Webb
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: Walthamstow Assembly Hall
+released: 1985
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44894307-e3ad-4a42-881e-2cb5631a8a3f
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [c3bfcf16-c5fd-4aac-9b4f-b8814707a7fb]

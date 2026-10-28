@@ -1,0 +1,34 @@
+id: alexey-reznikov-undated
+performers:
+- name: Alexey Reznikov
+  role: violin
+- name: Andrey Subbotin
+  role: performer
+- name: Veniamin Vasiliev
+  role: flute
+- name: Leonid Malyshev
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1049', complete: false, movements: [III. Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b5782ddd-dbe2-4743-bf61-42a675b964a8
+  title: Pachelbel Canon and Other Baroque Masterpieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0daca62b-b038-4b1f-9528-1e8ff2ff0377
+  recordings: [85570597-eb75-400c-a939-00f437487f4e]

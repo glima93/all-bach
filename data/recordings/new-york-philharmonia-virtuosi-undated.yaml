@@ -1,0 +1,36 @@
+id: new-york-philharmonia-virtuosi-undated
+performers:
+- name: New York Philharmonia Virtuosi
+  role: orchestra
+- name: Richard Kapp
+  role: conductor
+- name: Mark Gould
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e5f25af-d65a-4dac-84ba-3fefc9caa890
+  title: 'The Brandenburg Concertos, Vol. I: Concertos No. 1, 2 & 3 & Other Bach Favorites'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24f7fdaa-f1e0-4fab-ae05-a186137a921a
+  recordings: [4232ccb8-f36a-4e6b-a390-04d3e691879a]

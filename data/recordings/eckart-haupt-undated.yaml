@@ -1,0 +1,34 @@
+id: eckart-haupt-undated
+performers:
+- name: Eckart Haupt
+  role: recorder
+- name: Gudrun Jahn
+  role: recorder
+- name: Karl Suske
+  role: violin
+- name: Max Pommer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1bc0080a-3846-4e2e-b65a-10dfe1247f1a
+  title: Brandenburgische Konzerte 3 & 4 / Overtüre 2 & 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ea61027-d1b7-4ee9-b44a-dcc09ae007c9
+  recordings: [e8ce8a41-30e4-4034-b5b3-0c25ffa098d6]

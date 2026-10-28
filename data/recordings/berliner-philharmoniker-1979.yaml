@@ -1,0 +1,55 @@
+id: berliner-philharmoniker-1979
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Herbert von Karajan
+  role: conductor
+- name: Thomas Brandis
+  role: violin
+- name: Dieter Fischer
+  role: horn
+- name: Heinrich Kärcher
+  role: oboe
+- name: Philipp Mol
+  role: harpsichord
+- name: Burkhard Rohde
+  role: oboe
+- name: Hansjörg Schellenberger
+  role: oboe
+- name: Gerd Seifert
+  role: horn
+- name: Ottomar Borwitzky
+  role: performer
+- name: Wolfram Christ
+  role: performer
+- name: Eberhard Finke
+  role: performer
+- name: Michel Schwalbé
+  role: performer
+- name: Friedrich Witt
+  role: performer
+- name: Rainer Zepperitz
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979]
+  place: Berliner Philharmonie
+released: 2026
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/727bf3d6-ae0f-454b-b8a0-890729cf270a
+  title: Live in Berlin, 1970-1979
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [a4db717c-fb14-42b4-aaae-4ed821c6d999]

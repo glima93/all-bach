@@ -1,0 +1,52 @@
+id: munchener-kammerorchester-undated
+performers:
+- name: Münchener Kammerorchester
+  role: orchestra
+- name: Hans Stadlmair
+  role: performer
+- name: Henry Adolph
+  role: conductor
+- name: Li Stadelmann
+  role: performer
+- name: Kurt Stiehler
+  role: performer
+- name: Konrad Hampe
+  role: performer
+- name: Max Hecker
+  role: performer
+- name: Evelinde Riese
+  role: performer
+- name: Willi Schmid
+  role: performer
+- name: Friedbert Welscher
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1981
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3125ef93-9afa-44fc-bd99-ce2edeb5240b
+  title: 'Baroque Music: Johann Sebastian Bach'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6cd8706c-2bf1-4406-8377-187136acb110
+  recordings: [0b5768b2-6fff-498f-8f91-09b22ed722ff]

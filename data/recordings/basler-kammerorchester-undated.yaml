@@ -1,0 +1,36 @@
+id: basler-kammerorchester-undated
+performers:
+- name: Basler Kammerorchester
+  role: orchestra
+- name: Eric Guignard
+  role: cello
+- name: Walter Kägi
+  role: viola
+- name: Marianne Majer
+  role: viola
+- name: Paul Sacher
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3ede3346-3810-43aa-b9fc-f8dda4e96daf
+  title: Brandenburg Concerto no. 6 in B-flat major / Concerto for Violin, Oboe and String Orchestra in D minor
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 55d6195f-1bdb-48d2-b998-e00a7ba880a5
+  recordings: [2f558dd8-be69-4623-9164-10502593be40]

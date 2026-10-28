@@ -1,0 +1,29 @@
+id: ensemble-2017
+performers:
+- name: Ensemble 1700
+  role: ensemble
+- name: Dorothee Oberlinger
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Reitstadel
+released: 2017
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc0b27f7-116c-41a4-89c2-a51643cb8832
+  title: Small Gifts
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 64d2599b-6c33-45ba-ab16-ee8877ab2245
+  recordings: [7c9079f2-a31b-4d02-ada4-59aec7dbda5a]

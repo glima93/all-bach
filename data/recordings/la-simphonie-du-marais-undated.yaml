@@ -1,0 +1,35 @@
+id: la-simphonie-du-marais-undated
+performers:
+- name: La Simphonie du Marais
+  role: orchestra
+- name: Hugo Reyne
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [I. Allegro, II. Adagio, III. Allegro]}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fb2c2844-dd9a-4a74-a3a5-55918d38ba7e
+  title: Concertos Brandebourgeois
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cac4dd33-3633-4e58-b6e7-25be8358324a
+  recordings: [bf52e5ff-fcec-4bf3-a38a-34ab07755090]

@@ -1,0 +1,41 @@
+id: marlboro-festival-orchestra-undated
+performers:
+- name: Marlboro Festival Orchestra
+  role: orchestra
+- name: Pablo Casals
+  role: performer
+- name: Rudolf Serkin
+  role: performer
+- name: Peter Serkin
+  role: performer
+- name: Alexander Schneider
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1965
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [II. Adagio, III. Allegro]}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/95daf3a8-6b26-43f1-ad7d-e87fe5c89b7d
+  title: Die Brandenburgischen Konzerte
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc73b0bb-1e45-457f-8f81-a518beb9b74c
+  recordings: [b2260f10-25c9-456e-92ec-eecdaa84ea76]

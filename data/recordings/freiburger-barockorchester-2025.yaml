@@ -1,0 +1,28 @@
+id: freiburger-barockorchester-2025
+performers:
+- name: Freiburger Barockorchester
+  role: orchestra
+- name: Gottfried von der Goltz
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2025]
+  place: Konzerthaus Freiburg
+released: 2025
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3424f238-496d-413c-8e33-c0d469b2b031
+  title: Grand Tour
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 21a558f0-22b1-4959-aa24-df7b0d7a571d
+  recordings: [2ea485da-e3c9-4b66-885f-0338c2979c51]

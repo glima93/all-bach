@@ -1,0 +1,30 @@
+id: neues-bachisches-collegium-musicum-1984
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Max Pommer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Paul-Gerhardt-Kirche
+released: 1984
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e6c8d657-fb2e-4488-8fc2-aa4dbe8e6099
+  title: Brandenburgische Konzerte no. 1, 2, 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [538eb4c7-a6cc-40e2-a907-d653a292502f]

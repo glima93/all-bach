@@ -1,0 +1,35 @@
+id: chamber-music-society-of-lincoln-center-undated
+performers:
+- name: Chamber Music Society of Lincoln Center
+  role: orchestra
+- name: David Shifrin
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/414d6b7b-8245-4452-a9b4-61bc1637d44a
+  title: The Six Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: abba7d40-866d-4504-92f4-e856f036c6cf
+  recordings: [54702b69-c06b-4357-8305-42daadbcccc7]

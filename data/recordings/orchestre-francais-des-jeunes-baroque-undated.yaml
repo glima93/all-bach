@@ -1,0 +1,28 @@
+id: orchestre-francais-des-jeunes-baroque-undated
+performers:
+- name: Orchestre français des jeunes baroque
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1050', complete: false, movements: [I. Allegro, II. Affettuoso]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0b1f458f-cabc-4446-bf0e-b1b4de1eb247
+  title: Une année baroque
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 77c7515c-8685-49ac-b358-7899c41ac235
+  recordings: [7689eb68-cb6b-4624-a816-e7f90e1b87ed]

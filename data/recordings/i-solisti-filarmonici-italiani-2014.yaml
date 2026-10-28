@@ -1,0 +1,30 @@
+id: i-solisti-filarmonici-italiani-2014
+performers:
+- name: I Solisti Filarmonici Italiani
+  role: orchestra
+- name: Mario Folena
+  role: flute
+- name: Roberto Loreggian
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2014]
+  place: 紀尾井ホール
+released: 2015
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/989542e8-8f39-46da-afb8-4c3715a84b12
+  title: Concerto for 2 Violins, BWV 1043 / Violin Concerto, BWV 1041 & 1042 / Brandenburg Concerto no. 5, BWV 1050
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6df6087-7ce9-4d68-890f-b95db1ee1be6
+  recordings: [7b71b7ea-95f9-403b-b617-5f52896707cc]

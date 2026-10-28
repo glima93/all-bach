@@ -1,0 +1,33 @@
+id: new-london-consort-1993
+performers:
+- name: New London Consort
+  role: orchestra
+- name: Philip Pickett
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: Walthamstow Assembly Hall
+released: 1994
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: false, movements: [II. Affettuoso, III. Allegro]}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/23a97009-bb07-427c-9ed6-1dd9256a8725
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 63441cee-1a27-46f1-82ae-408f739ee520
+  recordings: [df2545a9-634b-4d2b-a1a1-6aaa069c8c56]

@@ -1,0 +1,28 @@
+id: kammerorchester-pro-arte-munchen-1983
+performers:
+- name: Kammerorchester Pro Arte München
+  role: orchestra
+- name: Kurt Redel
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1983]
+  place: Théâtre du Châtelet
+released: 2018
+original_label: null
+works:
+- {bwv: '1050', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/53396bff-721c-42e2-b0f3-d3dadd17a639
+  title: 'Hommage à Kurt Redel: Vivaldi: Die vier Jahreszeiten / Bach: Tripelkonzert a-moll, BWV 1044'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: ed05f1ef-562f-49d3-9aac-bfc864acf1a2
+  recordings: [4185e236-37a9-426a-99a2-3e253f58a610]

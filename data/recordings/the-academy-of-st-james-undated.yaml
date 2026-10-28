@@ -1,0 +1,34 @@
+id: the-academy-of-st-james-undated
+performers:
+- name: The Academy of St. James
+  role: orchestra
+- name: Carl Pini
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Concert Hall, Sydney Opera House
+released: 2004
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/72178bad-273b-42ee-8602-85166f4b9e1b
+  title: The Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fa4fd73c-b81a-402d-8a21-856e991f80e0
+  recordings: [4ba5c6c1-a24f-42a5-99e8-56410ec95fab]

@@ -1,0 +1,35 @@
+id: hofkapelle-munchen-undated
+performers:
+- name: Hofkapelle München
+  role: orchestra
+- name: Rüdiger Lotter
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/faea9639-7236-4c3e-ba67-0a93f2aa8025
+  title: Brandenburgische Konzerte Nr. 1-6
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ae09dca-a6dc-430e-810e-a91b2aafe6e9
+  recordings: [68e289f1-e5a4-4dde-b924-14e7eec6869f]

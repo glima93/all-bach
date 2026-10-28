@@ -1,0 +1,30 @@
+id: deutsche-kammersolisten-undated
+performers:
+- name: Deutsche Kammersolisten
+  role: orchestra
+- name: Stephan Frucht
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f34073c9-8a19-4760-a57b-a43310d99111
+  title: Bach‐Jahr 2000
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4d5b459c-dfdf-4aeb-ab21-68b928c53fb4
+  recordings: [414b0d71-b204-4c05-9204-2c49741c7e0b]

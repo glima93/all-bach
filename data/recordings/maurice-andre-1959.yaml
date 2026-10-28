@@ -1,0 +1,35 @@
+id: maurice-andre-1959
+performers:
+- name: Maurice André
+  role: piccolo trumpet
+- name: Gérard Jarry
+  role: violin
+- name: Pierre Pierlot
+  role: oboe
+- name: Jean‐Pierre Rampal
+  role: flute
+- name: Jean‐François Paillard
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959]
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/53bb2aa5-e04d-40f4-9c92-d63db9c9654b
+  title: 'I''d Love to Turn You On: Classical and Avant-Garde Music That Inspired the Counter-Culture'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24568d6a-34bb-44a0-8379-423709aa8ef0
+  recordings: [c9529e15-f21f-4c3b-b664-5ca9c732da91]

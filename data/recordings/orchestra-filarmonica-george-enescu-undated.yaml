@@ -1,0 +1,31 @@
+id: orchestra-filarmonica-george-enescu-undated
+performers:
+- name: Orchestra filarmonică „George Enescu”
+  role: orchestra
+- name: Cristian Mandeal
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/34800b08-5c9d-40af-9412-0deac0ecf619
+  title: Brandenburg Concerto no.s 3 & 5
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 065f0337-a663-4003-ba26-d4beb1c741b9
+  recordings: [711914a6-99d8-4613-a5fc-c376f63a6284]

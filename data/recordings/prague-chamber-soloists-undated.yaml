@@ -1,0 +1,33 @@
+id: prague-chamber-soloists-undated
+performers:
+- name: Prague Chamber Soloists
+  role: ensemble
+- name: Andrew Mogrelia
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fd3b5089-21d5-4440-b9d9-585186219ba1
+  title: Brandenburg Concertos, nos. 1-4
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0c61bbfa-a639-4b19-a19e-2ffad59e09fc
+  recordings: [f460c595-881b-4bfb-8cd9-870c71f9ecfb]

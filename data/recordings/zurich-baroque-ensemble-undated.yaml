@@ -1,0 +1,35 @@
+id: zurich-baroque-ensemble-undated
+performers:
+- name: Zurich Baroque Ensemble
+  role: orchestra
+- name: Carl Schuricht
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ed5a7951-0ac5-4531-ac0f-2993ef441d03
+  title: 'Les Génies du Classique, Volume I, n° 12 : Concertos Brandebourgeois 1-2-3'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b167b2d0-f105-4b71-9482-e0c8c7c4cd01
+  recordings: [2d3fbcc2-b53f-4c63-9a38-6ec17503c5ef]

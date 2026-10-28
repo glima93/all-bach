@@ -1,0 +1,31 @@
+id: nicholas-bird-1949
+performers:
+- name: Nicholas Bird
+  role: viola
+- name: William Lincer
+  role: viola
+- name: Fritz Reiner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1949]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/582bf8e0-801b-4d1f-b227-562ab3bc87d6
+  title: Orchestral Music
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7eb3e289-bdfe-4c67-bdaf-250e1de361f3
+  recordings: [0e67760c-7be3-4201-9955-ce01f09d41e9]

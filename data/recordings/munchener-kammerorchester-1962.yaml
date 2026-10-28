@@ -1,0 +1,34 @@
+id: munchener-kammerorchester-1962
+performers:
+- name: Münchener Kammerorchester
+  role: orchestra
+- name: Kurt Redel
+  role: conductor
+- name: Maurice André
+  role: trumpet
+- name: Reinhold Barchet
+  role: violin
+- name: Pierre Pierlot
+  role: oboe
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: Salesianum de Munich
+released: 1997
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85567e3f-5fe6-46e7-8154-e7e19c17d4d9
+  title: The Ultimate Collection
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6cd8706c-2bf1-4406-8377-187136acb110
+  recordings: [498adeb0-0ffe-4b39-b566-80b07aba2c6a]

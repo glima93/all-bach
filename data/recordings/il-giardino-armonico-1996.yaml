@@ -1,0 +1,41 @@
+id: il-giardino-armonico-1996
+performers:
+- name: Il giardino armonico
+  role: ensemble
+- name: Giovanni Antonini
+  role: conductor
+- name: Enrico Onofri
+  role: violino piccolo
+- name: Gabriele Cassone
+  role: performer
+- name: Paolo Grazzi
+  role: oboe
+- name: Petr Zejfart
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996, 1997]
+  place: 'Radio Televisione della Svizzera Italiana: Studio 1'
+released: 1997
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6c23981e-0401-4938-a273-dd095c0995a0
+  title: Brandenburg Concertos nos. 1 - 6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 96bcdacc-59bc-41b5-ac66-18e5b55f1689
+  recordings: [e8b445d8-c28a-454c-8a4d-5657ab44a9e4]

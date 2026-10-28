@@ -1,0 +1,28 @@
+id: hong-kong-philharmonic-orchestra-undated
+performers:
+- name: Hong Kong Philharmonic Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/87143654-1008-4b78-9d65-7250d3086e6b
+  title: '“Twelve Masters & Their Masterpieces”: Newspaper Course'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 238de242-20c6-4557-b20f-d6d64761367e
+  recordings: [c065b69a-a62b-41fc-bab4-cf96eff83a84]

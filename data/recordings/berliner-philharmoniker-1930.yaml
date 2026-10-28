@@ -1,0 +1,28 @@
+id: berliner-philharmoniker-1930
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Wilhelm Furtwängler
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1930]
+  place: Hochschule für Musik Hanns Eisler Berlin
+released: 2001
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/582bf8e0-801b-4d1f-b227-562ab3bc87d6
+  title: Orchestral Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [01bcce47-8bab-42dd-ba6b-19f4b6e57250]

@@ -1,0 +1,27 @@
+id: benjamin-alard-2023
+performers:
+- name: Benjamin Alard
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2023]
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/53aeadee-87de-4ee5-a4bc-c4d843fe4c7e
+  title: The Complete Works for Keyboard, Vol. 9 "Köthen, 1717-1723 - The Happy Years"
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [7b57d09b-1480-4890-b568-b26a8b4577a5]

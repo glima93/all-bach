@@ -1,0 +1,35 @@
+id: philharmonia-orchestra-1952
+performers:
+- name: Philharmonia Orchestra
+  role: orchestra
+- name: Edwin Fischer
+  role: piano
+- name: Raymond Clark
+  role: cello
+- name: Gareth Morris
+  role: flute
+- name: Manoug Parikian
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1952, 1953]
+  place: 'Abbey Road Studios: Studio 1'
+released: 1989
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0a8aabf-3e7f-4d30-bedb-79933c1d41c4
+  title: Piano Concertos nos. 1, 4, 5 / Brandenburg Concerto no. 5
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [2992c3eb-e0fc-4b9e-95d1-b0cba22ea1b1]

@@ -1,0 +1,31 @@
+id: hamburg-symphony-baroque-ensemble-undated
+performers:
+- name: Hamburg Symphony Baroque Ensemble
+  role: orchestra
+- name: Pietro di la Corona
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/57ca8c7f-c7d3-4051-a0ef-ebed4d3a5c66
+  title: 'De la música antigua al barroco: Bach y Haendel'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b6d0926f-7243-4429-a856-072be822a815
+  recordings: [1265b4cc-e3fa-4311-bd5e-8fc8a48b2244]

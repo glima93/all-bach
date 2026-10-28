@@ -1,0 +1,34 @@
+id: musica-florea-2006
+performers:
+- name: Musica Florea
+  role: orchestra
+- name: Marek Štryncl
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8da0aa1-f255-4624-a973-c026064a142b
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b8812130-8da9-4b13-a64e-a46f02ed2778
+  recordings: [66cbeb93-5ed1-4b60-b287-ecda957d72f1]

@@ -1,0 +1,30 @@
+id: the-los-angeles-guitar-quartet-undated-2
+performers:
+- name: The Los Angeles Guitar Quartet
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [III. Allegro]}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4ad9988f-ae8c-4b43-b657-269526af92f7
+  title: For Thy Pleasure
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d1c65138-8916-4bdb-aecf-e54041838fda
+  recordings: [e044e7d7-4539-4d1e-9efd-196cebc71777]

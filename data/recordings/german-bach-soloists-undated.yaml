@@ -1,0 +1,43 @@
+id: german-bach-soloists-undated
+performers:
+- name: German Bach Soloists
+  role: orchestra
+- name: Helmut Winschermann
+  role: conductor
+- name: Wolfgang Basch
+  role: performer
+- name: Christian Altenburger
+  role: performer
+- name: Kees Boeke
+  role: performer
+- name: Walter van Hauwe
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0cac0f38-71a3-4291-b45b-53dbb10216c7
+  title: 'Baroque Treasuries, Volume 2: Brandenburgische Konzerte 1-4'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bf5a484-6a6a-40a2-bbd4-95129f53fbc3
+  recordings: [2b79b2c2-b6f3-4097-bf58-854aa444763c]

@@ -1,0 +1,48 @@
+id: virtuosi-saxoniae-undated
+performers:
+- name: Virtuosi Saxoniae
+  role: orchestra
+- name: Ludwig Güttler
+  role: conductor
+- name: Roland Straumer
+  role: violino piccolo
+- name: Andreas Lorenz
+  role: oboe
+- name: Susanne Ehrhardt
+  role: performer
+- name: Günter Klier
+  role: bassoon
+- name: Manfred Krause
+  role: oboe
+- name: Matthias Schmutzler
+  role: performer
+- name: Guido Titze
+  role: oboe
+- name: Uta Hoffmann
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f773c777-8b2b-4878-904d-6a54a62ee6ee
+  title: Meisterwerke
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 50415566-1dfc-4185-a900-d257bce41b55
+  recordings: [1b407a02-e8e5-4038-841a-6bbbc33db509]

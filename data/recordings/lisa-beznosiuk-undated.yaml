@@ -1,0 +1,32 @@
+id: lisa-beznosiuk-undated
+performers:
+- name: Lisa Beznosiuk
+  role: flute
+- name: Malcolm Proud
+  role: harpsichord
+- name: Elizabeth Wallfisch
+  role: violin
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1050', complete: false, movements: [II. Affettuoso]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f5bb1946-754f-40be-9f44-2afdc6afd3a2
+  title: 'Music Lovers Choice, Volume 7: Authentic Classics'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65dff25a-98a5-4546-8f52-0e12973afe5d
+  recordings: [f7946991-4d80-4d0b-9ae1-9d6f6d2dbcb7]

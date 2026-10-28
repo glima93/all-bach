@@ -1,0 +1,40 @@
+id: hiroshi-aoe-undated
+performers:
+- name: Hiroshi Aoe
+  role: violone
+- name: Antoine Tamestit
+  role: viola
+- name: Rachel Roberts
+  role: viola
+- name: Lars Vogt
+  role: harpsichord
+- name: Quirine Viersen
+  role: cello
+- name: Ghislaine Zipperling
+  role: performer
+- name: Rainer Zipperling
+  role: viola da gamba
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9230dbad-d699-4df5-9a60-a92126245f48
+  title: Chamber Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1172de73-d41f-43a9-adb4-dc165d450314
+  recordings: [dc1ffa2a-d27e-4e34-bc56-387cad4b80dd]

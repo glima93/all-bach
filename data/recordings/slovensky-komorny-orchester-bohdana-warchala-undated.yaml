@@ -1,0 +1,35 @@
+id: slovensky-komorny-orchester-bohdana-warchala-undated
+performers:
+- name: Slovenský komorný orchester Bohdana Warchala
+  role: orchestra
+- name: Bohdan Warchal
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a437e12-414b-3cd7-a350-9bf68013472e
+  title: Brandenburgische Konzerte nos. 1-6, BWV 1046-1051
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4cfa3ebc-eb6c-4647-bd02-d1475e6de877
+  recordings: [d5b0136a-f11c-4868-a9d2-da6e8c154362]

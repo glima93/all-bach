@@ -1,0 +1,35 @@
+id: munchener-bach-orchester-1967
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Karl Richter
+  role: conductor
+- name: Hans Petermichl
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1967]
+  place: 'Hochschule für Musik und Theater München: Großer Konzertsaal'
+released: 1972
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/96007407-c3ba-458d-b4c4-64a71c167156
+  title: Brandenburg Concertos, Nos. 1-6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [975807c9-ca48-4fc0-8419-afed58f6b622]

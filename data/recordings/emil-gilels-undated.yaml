@@ -1,0 +1,28 @@
+id: emil-gilels-undated
+performers:
+- name: Emil Gilels
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4e74e6a0-0e0a-4266-bd45-b6aff85fdc0c
+  title: The Young Emil Gilels
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 88b4ad33-63ba-4923-947e-26a720631156
+  recordings: [299646c9-eaba-4c7e-8e18-eb0a50bd268c]

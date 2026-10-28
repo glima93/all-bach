@@ -1,0 +1,15 @@
+bwv: "1051"
+title: Brandenburg Concerto No. 6
+key: B-flat major
+collection: Brandenburg Concertos
+genre: orchestral
+scoring: 2 violas da braccio, 2 violas da gamba, cello, violone and continuo
+composed: Weimar and Köthen; the dedication score to Christian Ludwig, Margrave of Brandenburg, is dated 24 March 1721
+movements:
+  - "I. Allegro"
+  - "II. Adagio ma non tanto"
+  - "III. Allegro"
+notes: Written without violins; the two violas lead. The first movement carries no tempo marking in Bach's score.
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Brandenburg_Concertos
+  bach_digital: null

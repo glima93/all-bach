@@ -1,0 +1,26 @@
+id: cafe-zimmermann-2008
+performers:
+- name: Café Zimmermann
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: Temple Saint-Jean de Mulhouse
+released: 2009
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/279e077b-a914-418c-bef2-957038d06786
+  title: Concerts avec plusieurs instruments IV
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 287b6163-2115-42c1-90fd-217d667b9d96
+  recordings: [e311227f-4ceb-4aac-ac54-cc70f6608693]

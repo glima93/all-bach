@@ -1,0 +1,33 @@
+id: consort-of-london-1990
+performers:
+- name: Consort of London
+  role: orchestra
+- name: Robert Haydon Clark
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: St John’s, Smith Square
+released: 1990
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac06f278-f0e1-469d-986d-8949b38a852b
+  title: Brandenburg Concertos 1-2-3 [BE 001 Consort of London, Robert Haydon Clark]
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7f55bcea-a7a7-4f59-b4c9-77fc1e46fbe8
+  recordings: [9c48bf37-c777-4d03-bb21-198a24c2d0c1]

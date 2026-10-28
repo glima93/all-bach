@@ -1,0 +1,38 @@
+id: tafelmusik-1993
+performers:
+- name: Tafelmusik
+  role: orchestra
+- name: Jeanne Lamon
+  role: conductor
+- name: Marten Root
+  role: performer
+- name: Linda Melsted
+  role: performer
+- name: Charlotte Nediger
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993, 1994]
+  place: CBC Glenn Gould Studio
+released: 1994
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b04f0ae-99fa-45f4-8bde-1c188375e6bc
+  title: Brandenburg Concertos Nos. 1-6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0ca59def-f1bc-4e74-b17e-45276faa12f0
+  recordings: [627d8e7f-4595-459f-b1d5-aa5c89e8520c]

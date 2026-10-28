@@ -1,0 +1,33 @@
+id: la-stravaganza-hamburg-1993
+performers:
+- name: La Stravaganza Hamburg
+  role: orchestra
+- name: Siegbert Rampe
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993, 1995]
+  place: Evangelische Peter-und-Paul-Kirche, Gönningen
+released: 1996
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: false, movements: [I. Allegro]}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/775e8301-d3c5-4fdc-9e5a-a6d03a3a36de
+  title: Brandenburgische Konzerte
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c0511bed-fdc4-4a47-ba48-e761ca763d4c
+  recordings: [150c89e4-67fa-462d-8f8d-4275c5a2b20c]

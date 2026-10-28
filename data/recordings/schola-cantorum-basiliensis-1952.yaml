@@ -1,0 +1,29 @@
+id: schola-cantorum-basiliensis-1952
+performers:
+- name: Schola Cantorum Basiliensis
+  role: orchestra
+- name: August Wenzinger
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1952, 1953]
+  place: Blauer Saal, Justiz-departement
+released: 2013
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0fe9c7d-81b9-4c38-8c83-9fdd259c9f86
+  title: Archiv Produktion 1947-2013
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ebd7458-37d8-4f3e-b933-25eab5848f22
+  recordings: [e5cf87f6-2abc-46d6-afc9-94e6485d2851]

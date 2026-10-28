@@ -1,0 +1,36 @@
+id: i-musici-undated
+performers:
+- name: I Musici
+  role: orchestra
+- name: Maria Teresa Garatti
+  role: performer
+- name: Severino Gazzelloni
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [I. Allegro, III. Allegro assai]}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/143ea9a9-82d9-4530-beab-4c30fbbbd343
+  title: Bach for Barbecue
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0febca2d-aeed-48fc-9d44-180f6346e4ab
+  recordings: [0eb558bf-f845-4e76-94b2-b34d6e69accb]

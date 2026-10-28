@@ -1,0 +1,51 @@
+id: london-philharmonic-orchestra-1972
+performers:
+- name: London Philharmonic Orchestra
+  role: orchestra
+- name: Sir Adrian Boult
+  role: conductor
+- name: Rodney Friend
+  role: performer
+- name: David Munrow
+  role: performer
+- name: Roger Winfield
+  role: performer
+- name: Gordon Webb
+  role: performer
+- name: Gerald Jarvis
+  role: performer
+- name: John Turner
+  role: performer
+- name: Raymond Leppard
+  role: performer
+- name: Douglas Whittaker
+  role: performer
+- name: David Parry
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972]
+  place: 'Abbey Road Studios: Studio 1'
+released: 1996
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/979d0d0f-7112-4345-ab8d-680314eeef42
+  title: From Bach to Wagner
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fa37018e-3557-4cb7-973f-555003c30174
+  recordings: [8c7743e6-92fc-4d1b-997d-d5d9c6b23088]

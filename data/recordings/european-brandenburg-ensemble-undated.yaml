@@ -1,0 +1,35 @@
+id: european-brandenburg-ensemble-undated
+performers:
+- name: European Brandenburg Ensemble
+  role: orchestra
+- name: Trevor Pinnock
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/627b79c6-51b0-40aa-8f33-c57a1b8da99f
+  title: Six Concertos for the Margrave of Brandenburg
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 227c9539-0957-4980-8182-1852bd4c7fbf
+  recordings: [3dd5be7e-2cd4-4a3e-8e3c-c68bbb81c725]

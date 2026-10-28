@@ -1,0 +1,33 @@
+id: oregon-bach-festival-chamber-orchestra-undated
+performers:
+- name: Oregon Bach Festival Chamber Orchestra
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1050', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2f863f8-530f-4dd1-b8ec-db7d7ec2be1b
+  title: Brandenburgische Konzerte, BWV 1046–1051
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: baa0a867-090f-4483-8ac3-703b3ce4529d
+  recordings: [37c8310e-d8e7-49fc-99f3-3f977b6a0a75]

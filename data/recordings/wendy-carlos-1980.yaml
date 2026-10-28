@@ -1,0 +1,30 @@
+id: wendy-carlos-1980
+performers:
+- name: Wendy Carlos
+  role: moog
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1980]
+  place: null
+released: 1980
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: false, movements: [II. Andante, III. Allegro assai]}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e9bcab62-c6c4-493b-a464-87b5488f2ced
+  title: Switched‐On Brandenburgs
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on Moog.
+musicbrainz:
+  artist: 7e3b3173-2c1f-42c0-8544-0e6d19bb181f
+  recordings: [114c9461-242c-4a32-90df-dd3d028c3650]

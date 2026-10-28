@@ -1,0 +1,35 @@
+id: wiener-akademie-undated
+performers:
+- name: Wiener Akademie
+  role: orchestra
+- name: Martin Haselböck
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/23c0064d-4670-477d-804f-e4fb8a720f93
+  title: Brandenburgische Konzerte 1-6
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ec8170d-b96d-407d-ad15-da75830b56fd
+  recordings: [b7096762-2b71-45c2-a8b6-bfb3bc97fe4f]

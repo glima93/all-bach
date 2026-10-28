@@ -1,0 +1,29 @@
+id: the-nice-undated
+performers:
+- name: The Nice
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1051', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5d17733d-05b2-4b72-8ad6-16cdafc4acbf
+  title: Prog Rocks!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: db301158-fdfd-49f6-be50-4909dbbc1e53
+  recordings: [b0145978-b5f7-4744-a3b5-e3aa527ac38c]

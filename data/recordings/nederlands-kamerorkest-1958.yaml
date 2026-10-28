@@ -1,0 +1,28 @@
+id: nederlands-kamerorkest-1958
+performers:
+- name: Nederlands Kamerorkest
+  role: orchestra
+- name: Szymon Goldberg
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958]
+  place: Concertgebouw
+released: 2018
+original_label: null
+works:
+- {bwv: '1046', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d6feca46-ae5f-422b-9851-b2b8cf0bf28e
+  recordings: [4a961d9c-e51f-4ab5-aa82-78561d903b2a]

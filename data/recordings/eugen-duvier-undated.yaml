@@ -1,0 +1,32 @@
+id: eugen-duvier-undated
+performers:
+- name: Eugen Duvier
+  role: conductor
+- name: Rudolf Pribil
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1049', complete: false, movements: [I. Allegro, II. Andante]}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: false, movements: [II. Adagio ma non tanto, III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6e3b3fa3-418e-47e4-8616-82f81424062b
+  title: 'Bach: 50 Classical Highlights (Dolby Surround Classics)'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4c7636e2-f5a5-4840-a9be-3c7ac089bbd9
+  recordings: [8653580a-f44a-45e8-9d70-09e00aa7229f]

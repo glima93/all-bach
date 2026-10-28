@@ -1,0 +1,28 @@
+id: classical-jazz-quartet-undated
+performers:
+- name: Classical Jazz Quartet
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Power Station at BerkleeNYC
+released: 2002
+original_label: null
+works:
+- {bwv: '1047', complete: false, movements: [I. Allegro, II. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b4a3916f-d036-4947-ad33-8d1d81ae8aa1
+  title: The Classical Jazz Quartet Plays Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With drums (drum set).
+musicbrainz:
+  artist: 941d6359-7841-4b05-ad1d-750f20093e32
+  recordings: [b1ceba40-8a13-47fb-a3fe-e03086b95609]

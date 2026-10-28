@@ -1,0 +1,38 @@
+id: berlin-philharmonic-orchestra-undated
+performers:
+- name: Berlin Philharmonic Orchestra
+  role: orchestra
+- name: Szymon Goldberg
+  role: violin
+- name: Gustav Kern
+  role: oboe
+- name: Alois Melichar
+  role: conductor
+- name: Herbert von Karajan
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: false, movements: [I. Allegro, III. Allegro assai]}
+- {bwv: '1051', complete: false, movements: [II. Adagio ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/582bf8e0-801b-4d1f-b227-562ab3bc87d6
+  title: Orchestral Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [83b8576e-9ce0-4297-90c0-b0174527d997]

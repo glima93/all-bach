@@ -1,0 +1,30 @@
+id: los-angeles-philharmonic-1977
+performers:
+- name: Los Angeles Philharmonic
+  role: orchestra
+- name: Pinchas Zukerman
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: American Legion Hall
+released: 1977
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/be867028-1543-4582-be67-76315e46b7bc
+  title: Brandenburgische Konzerte Nos. 1-3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 98e4313e-dfb0-4084-805c-3e42ef9301d0
+  recordings: [8dca31cc-290d-43af-ae27-5bee63afdda0]

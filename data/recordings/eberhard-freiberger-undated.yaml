@@ -1,0 +1,46 @@
+id: eberhard-freiberger-undated
+performers:
+- name: Eberhard Freiberger
+  role: viola
+- name: Wolfgang Gränitz
+  role: viola
+- name: Olaf Hartmann
+  role: viola
+- name: Siegfried Hunger
+  role: cello
+- name: Gunar Kaltofen
+  role: violin
+- name: Roald Reinecke
+  role: violin
+- name: Burkhard Schmidt
+  role: cello
+- name: Matthias Schreiber
+  role: cello
+- name: Karl Suske
+  role: violin
+- name: Max Pommer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1bc0080a-3846-4e2e-b65a-10dfe1247f1a
+  title: Brandenburgische Konzerte 3 & 4 / Overtüre 2 & 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e62b08e-ce84-4c0c-9967-e82ee0d9811d
+  recordings: [adc8fba9-564a-4631-914a-1b4029e3fd5f]

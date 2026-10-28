@@ -1,0 +1,29 @@
+id: the-pink-mice-undated
+performers:
+- name: The Pink Mice
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1973
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ba048c0d-6308-4913-b164-f31f3d785495
+  title: In Synthesizer Sound
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: db771bf7-4af0-4238-b293-4f86037449c4
+  recordings: [777b59ab-83fc-498c-832c-69a53bde7589]

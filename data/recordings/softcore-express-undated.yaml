@@ -1,0 +1,29 @@
+id: softcore-express-undated
+performers:
+- name: Softcore Express
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0abc1f3-20c8-4b73-920a-76322d0d9270
+  title: 'Electronic Bach II: More Switched-On Versions'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3af52360-b3bd-4040-9457-364b429e73ff
+  recordings: [b519e4d4-f12b-462b-bcf0-30c730ca0a6d]

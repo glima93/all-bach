@@ -1,0 +1,32 @@
+id: schleswig-holstein-festival-orchestra-undated
+performers:
+- name: Schleswig-Holstein Festival Orchestra
+  role: orchestra
+- name: Dudley Moore
+  role: harpsichord
+- name: Sir Georg Solti
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33f7d03f-11c6-4c88-a0b1-32348f0231ad
+  title: Orchestra!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fefb5eea-bd4d-41ff-a071-6e5863059e2c
+  recordings: [a6b88957-8de8-42d3-bc9b-593674983e7e]

@@ -1,0 +1,28 @@
+id: die-freitagsakademie-undated
+performers:
+- name: Die Freitagsakademie
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ec789718-3066-4af7-b11a-ee024352847a
+  title: Allegro Classical Winter 2013 Sampler
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 208f8416-ae44-42ad-a770-89bd114b5e14
+  recordings: [d76fc011-b364-41f9-8d5b-ad946810206d]

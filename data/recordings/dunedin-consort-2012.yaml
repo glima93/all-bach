@@ -1,0 +1,28 @@
+id: dunedin-consort-2012
+performers:
+- name: Dunedin Consort
+  role: ensemble
+- name: John Butt
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2012]
+  place: Perth Concert Hall
+released: 2013
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7aaabe02-6cc8-4a29-b538-00a5ae8c4e03
+  title: Six Brandenburg Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1cca9a39-48c5-48f8-9710-969f81c4d319
+  recordings: [fbe61598-5eed-4ff9-9a15-5d887a7e92d0]

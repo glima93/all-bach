@@ -1,0 +1,41 @@
+id: taverner-players-1988
+performers:
+- name: Taverner Players
+  role: orchestra
+- name: Andrew Parrott
+  role: conductor
+- name: Paul Goodwin
+  role: performer
+- name: John Holloway
+  role: performer
+- name: David Staff
+  role: performer
+- name: Marion Verbruggen
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: Gateway Studio
+released: 1989
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/03081cdb-d021-4b6d-8515-590c44b1da8e
+  title: Die Brandenburgischen Konzerte / "Ouvertüre", BWV 194 / "Concerto", BWV 1029
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 64c537f4-fea4-477f-b360-ce81552f7ad6
+  recordings: [dff6d192-9cdd-48ff-bb26-bdc8c1730727]

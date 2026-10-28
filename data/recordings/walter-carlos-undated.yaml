@@ -1,0 +1,31 @@
+id: walter-carlos-undated
+performers:
+- name: Walter Carlos
+  role: performer
+- name: Benjamin Folkman
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1969
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5d148f4e-bde7-4b5e-81a4-9e69408ab7f5
+  title: Bach’s Greatest Hits, Vol. 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on Moog.
+musicbrainz:
+  artist: 7e3b3173-2c1f-42c0-8544-0e6d19bb181f
+  recordings: [7f529203-2f26-40bc-b753-2c92781efaaf]

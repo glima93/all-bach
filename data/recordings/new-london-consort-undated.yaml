@@ -1,0 +1,31 @@
+id: new-london-consort-undated
+performers:
+- name: New London Consort
+  role: orchestra
+- name: Philip Pickett
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1050', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/23a97009-bb07-427c-9ed6-1dd9256a8725
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 63441cee-1a27-46f1-82ae-408f739ee520
+  recordings: [63961fda-56a6-4557-b036-cb1658a92ca6]

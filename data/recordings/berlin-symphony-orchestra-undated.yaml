@@ -1,0 +1,28 @@
+id: berlin-symphony-orchestra-undated
+performers:
+- name: Berlin Symphony Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1048', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3713a173-e292-48e4-a10e-130250f5a23c
+  title: Joyas de la Música, Volume 30
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdd0f7b0-0dac-4625-ba68-e119f2b928f3
+  recordings: [4fea46c1-5e06-471d-b98a-31bb9c69afc9]

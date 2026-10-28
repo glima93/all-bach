@@ -1,0 +1,33 @@
+id: the-cambridge-baroque-camerata-undated
+performers:
+- name: The Cambridge Baroque Camerata
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fbe93bba-dc89-4ab6-99b0-1ea2c66686a3
+  title: Brandenburg Concertos 1 - 7
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b953b3b-14bd-477a-818f-b98f03ac299e
+  recordings: [b613b8db-ac94-4dae-9a11-c205cb754dd0]

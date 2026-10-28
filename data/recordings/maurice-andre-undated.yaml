@@ -1,0 +1,29 @@
+id: maurice-andre-undated
+performers:
+- name: Maurice André
+  role: trumpet
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1047', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c991ed24-be82-4149-97d6-e1e0b3a9019e
+  title: « Le meilleur de moi-même »
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24568d6a-34bb-44a0-8379-423709aa8ef0
+  recordings: [5e174c9a-a28b-4ab1-8449-3ce40a678a3e]

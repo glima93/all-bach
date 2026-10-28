@@ -1,0 +1,30 @@
+id: tasmanian-symphony-chamber-players-undated
+performers:
+- name: Tasmanian Symphony Chamber Players
+  role: orchestra
+- name: Geoffrey Lancaster
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1048', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5ddc07d3-b036-4119-b023-84f4d38e0669
+  title: 'Classics at the Movies II: Classical Music From the World of Cinema'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b90fb5fe-24a2-412e-a677-36a457c68c1f
+  recordings: [e0a4208b-bbff-4bd9-b883-ba4da8d055f4]

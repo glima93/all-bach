@@ -1,0 +1,32 @@
+id: i-solisti-napoli-undated
+performers:
+- name: I Solisti Napoli
+  role: orchestra
+- name: Alberto Lizzio
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1049', complete: true}
+- {bwv: '1050', complete: true}
+- {bwv: '1051', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a44232bb-80da-44e1-8084-0d9d52bdadd3
+  title: Brandenburgische Konzerte 4,5 und 6
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6392a85-3a85-48f5-b9ca-fee064c6084e
+  recordings: [699b6760-dd0c-49ed-b03c-24f5ebc97d81]

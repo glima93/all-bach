@@ -1,0 +1,36 @@
+id: los-angeles-chamber-orchestra-undated
+performers:
+- name: Los Angeles Chamber Orchestra
+  role: orchestra
+- name: Gerard Schwarz
+  role: conductor
+- name: Ransom Wilson
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1046', complete: true}
+- {bwv: '1047', complete: true}
+- {bwv: '1048', complete: true}
+- {bwv: '1049', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4cb2d533-a051-45c5-9aa4-b20ad6443675
+  title: Brandenburg Concertos Nos. 1 - 4
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cdba7b15-9b28-4ea3-ab75-e9c7002e990d
+  recordings: [7583453d-772d-4b1e-bf05-ac5d6bb8994c]

@@ -1,0 +1,16 @@
+bwv: "1046"
+title: Brandenburg Concerto No. 1
+key: F major
+collection: Brandenburg Concertos
+genre: orchestral
+scoring: 2 horns (corni da caccia), 3 oboes, bassoon, violino piccolo, strings and continuo
+composed: Weimar and Köthen; the dedication score to Christian Ludwig, Margrave of Brandenburg, is dated 24 March 1721
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Allegro"
+  - "IV. Menuet, Trio I, Polacca, Trio II"
+notes: The only concerto of the six in four movements. An earlier version without the third movement and the polacca survives as the Sinfonia BWV 1046a (now 1046.1), probably from the Weimar years. The first movement carries no tempo marking in Bach's score.
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Brandenburg_Concertos
+  bach_digital: null
