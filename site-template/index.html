@@ -36,6 +36,7 @@
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 body {
   margin: 0;
   background: var(--paper); color: var(--ink);
@@ -66,6 +67,35 @@ nav.top a[aria-current="page"] { color: var(--ink); }
 .tally div { display: grid; }
 .tally b { font-family: var(--f-display); font-weight: 400; font-size: var(--s2); line-height: 1; }
 @media (max-width: 640px) { .lede { grid-template-columns: 1fr; } }
+
+/* search */
+.finder { display: grid; gap: 8px; padding-block: 4px 32px; }
+.finder input { font: 400 1.125rem/1.3 var(--f-body); color: var(--ink); background: var(--sheet); border: 1.5px solid var(--ink); border-radius: 8px; padding: 14px 16px; width: 100%; min-width: 0; }
+.finder input::placeholder { color: var(--muted); }
+.finder input:focus-visible { outline: 3px solid var(--prussian-soft); outline-offset: 0; border-color: var(--prussian); }
+.try { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 2px 0 0; font-size: var(--s-1); color: var(--muted); }
+.try button { font: 500 var(--s-1)/1 var(--f-body); color: var(--prussian); background: transparent; border: 1px solid var(--rule); border-radius: 999px; padding: 6px 10px; cursor: pointer; }
+.try button:hover { background: var(--prussian-soft); }
+.hits-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; padding-bottom: 12px; border-bottom: 2px solid var(--ink); }
+.hits-head p { margin: 0; font-size: var(--s1); }
+.hits-head .tags { margin: 0; }
+.hits { list-style: none; margin: 0 0 16px; padding: 0; }
+.hit { display: grid; grid-template-columns: 6rem minmax(0, 1fr) minmax(0, 1.2fr) auto; gap: 6px 18px; align-items: baseline; padding: 12px 4px; border-bottom: 1px solid var(--rule); }
+.hit .yr { font-size: 0.95rem; }
+.hit .yr.unknown { color: var(--muted); }
+.hit .who { min-width: 0; }
+.hit .meta { color: var(--muted); font-size: 0.88rem; }
+.wk { display: flex; flex-wrap: wrap; gap: 4px; min-width: 0; }
+.wchip { font-size: 0.78rem; text-decoration: none; padding: 3px 7px; border-radius: 4px; background: var(--prussian-soft); color: var(--prussian); white-space: nowrap; }
+.wchip b { font-weight: 500; }
+.wchip i { font-style: normal; color: var(--draft); }
+.wchip:hover { outline: 1px solid var(--prussian); }
+.hit .listen a { font-size: 0.85rem; font-weight: 600; text-decoration: none; padding: 5px 10px; border: 1px solid var(--prussian); border-radius: 6px; white-space: nowrap; }
+.more { margin-bottom: 24px; }
+@media (max-width: 640px) {
+  .hit { grid-template-columns: 4.5rem minmax(0, 1fr); }
+  .hit .wk, .hit .listen { grid-column: 2; }
+}
 
 .collection { margin-top: 8px; }
 .collection header { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 16px; align-items: baseline; padding-bottom: 10px; border-bottom: 2px solid var(--ink); }
@@ -178,7 +208,7 @@ const PLATFORM = { "spotify": "Spotify", "apple-music": "Apple Music", "youtube"
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const slug = bwv => bwv.toLowerCase().replace(/anh\.\s?/, "anh-").replace(/\s+/g, "-");
 const app = document.getElementById("app");
-const state = { kind: "all", sort: "year", q: "" };
+const state = { kind: "all", sort: "year", q: "", gq: "", glimit: 50 };
 
 function recordingsFor(bwv) {
   return DATA.recordings.filter(r => r.works.some(w => w.bwv === bwv));
@@ -207,7 +237,22 @@ function renderCatalogue() {
       <div><b class="mono">${recCount}</b><span class="label">Recordings</span></div>
       <div><b class="mono">${linkCount}</b><span class="label">Links</span></div>
     </div>
-  </section>`;
+  </section>
+  <section class="finder" role="search">
+    <label class="label" for="gq">Search all recordings</label>
+    <input id="gq" type="search" autocomplete="off" spellcheck="false" value="${esc(state.gq)}"
+      placeholder="Performer, year, instrument or key">
+    <p class="try" id="gq-try">Try
+      <button type="button" data-try="Casals">Casals</button>
+      <button type="button" data-try="1960s">1960s</button>
+      <button type="button" data-try="viola da gamba">viola da gamba</button>
+      <button type="button" data-try="D minor">D minor</button>
+      <button type="button" data-try="Es-Dur">Es-Dur</button>
+      <button type="button" data-try="Fournier 1960">Fournier 1960</button>
+    </p>
+  </section>
+  <div id="gq-results" aria-live="polite" hidden></div>
+  <div id="catalogue-index">`;
   for (const [name, works] of Object.entries(groups)) {
     const first = works[0].bwv, last = works[works.length - 1].bwv;
     html += `<section class="collection">
@@ -222,8 +267,127 @@ function renderCatalogue() {
         </a></li>`;
       }).join("") + `</ul></section>`;
   }
-  html += `<p class="coming">This pilot covers the six Cello Suites. The rest of the catalogue, from BWV 1 to the latest additions, opens as contributors add works and recordings. <a href="#contribute">How to contribute</a></p>`;
+  html += `<p class="coming">This pilot covers the six Cello Suites. The rest of the catalogue, from BWV 1 to the latest additions, opens as contributors add works and recordings. <a href="#contribute">How to contribute</a></p></div>`;
   return html;
+}
+
+/* ---------- search ---------- */
+// Lower-case, strip accents, unify dashes, so "János", "Yo‐Yo" and "E♭" all compare plainly.
+const fold = s => String(s ?? "").normalize("NFD").replace(/[̀-ͯ]/g, "")
+  .replace(/[‐-―]/g, "-").replace(/[’']/g, " ").toLowerCase();
+const KEY_RE = /(^|[\s,])([a-h])(\s*-?\s*(?:flat|sharp)|b|#|♭|♯|is|es|s)?\s*-?\s*(major|minor|dur|moll)(?=[\s,]|$)/;
+
+// Reads "G major", "E-flat major", "Eb major", and German "Es-Dur", "fis-moll", "h-moll", "B-Dur".
+function parseKey(text) {
+  const m = fold(text).match(KEY_RE);
+  if (!m) return null;
+  let letter = m[2], acc = (m[3] || "").replace(/[\s-]/g, "");
+  const german = m[4] === "dur" || m[4] === "moll";
+  acc = ["flat", "b", "♭", "es", "s"].includes(acc) ? "flat" : ["sharp", "#", "♯", "is"].includes(acc) ? "sharp" : "";
+  if (letter === "h") letter = "b";
+  else if (german && letter === "b" && !acc) acc = "flat";
+  return { letter, acc, mode: m[4] === "major" || m[4] === "dur" ? "major" : "minor", match: m[0] };
+}
+const keyLabel = k => k.letter.toUpperCase() + (k.acc ? "-" + k.acc : "") + " " + k.mode;
+const sameKey = (a, b) => a && b && a.letter === b.letter && a.acc === b.acc && a.mode === b.mode;
+
+function parseQuery(raw) {
+  const q = { key: null, mode: null, years: [], bwv: [], text: [] };
+  let s = fold(raw);
+  const k = parseKey(s);
+  if (k) { q.key = k; s = s.replace(k.match, " "); }
+  for (let t of s.split(/[\s,]+/).filter(Boolean)) {
+    let m;
+    if (["major", "dur", "minor", "moll"].includes(t)) { if (!q.key) q.mode = t === "major" || t === "dur" ? "major" : "minor"; }
+    else if ((m = t.match(/^(1[89]\d\d|20\d\d)s$/))) q.years.push([+m[1], +m[1] + 9]);
+    else if ((m = t.match(/^(1[89]\d\d|20\d\d)-(1[89]\d\d|20\d\d)$/))) q.years.push([+m[1], +m[2]].sort((a, b) => a - b));
+    else if ((m = t.match(/^(1[89]\d\d|20\d\d)$/))) q.years.push([+m[1], +m[1]]);
+    else if ((m = t.match(/^(?:bwv)?(1[01]\d\d[a-z]?)$/))) q.bwv.push(m[1]);
+    else if (t !== "bwv") q.text.push(t.replace(/-/g, " "));
+  }
+  return q;
+}
+
+let searchIndex = null;
+function buildIndex() {
+  const workKey = Object.fromEntries(DATA.works.map(w => [w.bwv, parseKey(w.key || "")]));
+  return DATA.recordings.map(r => {
+    const ys = r.recorded && r.recorded.years && r.recorded.years.length ? r.recorded.years : (r.released ? [r.released] : []);
+    const hay = fold([
+      ...r.performers.flatMap(p => [p.name, p.role]),
+      INSTRUMENT[r.instrument] || "", r.instrument, r.recorded && r.recorded.place, r.notes,
+      r.performance_practice === "historical" ? "period instruments baroque" : "",
+      r.arrangement ? "arrangement transcription" : "",
+    ].filter(Boolean).join(" | ")).replace(/-/g, " ");
+    return { r, ys, hay, works: r.works.map(w => ({ ...w, key: workKey[w.bwv] })) };
+  });
+}
+
+function runSearch(q) {
+  searchIndex ||= buildIndex();
+  const hits = [];
+  for (const e of searchIndex) {
+    if (!q.text.every(t => e.hay.includes(t))) continue;
+    if (q.years.length && !e.ys.some(y => q.years.some(([a, b]) => y >= a && y <= b))) continue;
+    const works = e.works.filter(w =>
+      (!q.bwv.length || q.bwv.includes(w.bwv)) &&
+      (!q.key || sameKey(q.key, w.key)) &&
+      (!q.mode || (w.key && w.key.mode === q.mode)));
+    if (works.length) hits.push({ ...e, works });
+  }
+  return hits.sort((a, b) => {
+    const ya = firstYear(a.r), yb = firstYear(b.r);
+    if (ya !== yb) return ya === null ? 1 : yb === null ? -1 : ya - yb;
+    return a.r.performers[0].name.localeCompare(b.r.performers[0].name);
+  });
+}
+
+function describe(q) {
+  const parts = [];
+  if (q.text.length) parts.push(`Name, instrument or place “${esc(q.text.join(" "))}”`);
+  q.years.forEach(([a, b]) => parts.push(a === b ? `Recorded ${a}` : `Recorded ${a}–${b}`));
+  if (q.key) parts.push(`Key ${keyLabel(q.key)}`);
+  if (q.mode) parts.push(`Any ${q.mode} key`);
+  q.bwv.forEach(b => parts.push(`BWV ${esc(b)}`));
+  return parts.map(p => `<span class="tag">${p}</span>`).join("");
+}
+
+function renderHit(h) {
+  const r = h.r, yl = yearLabel(r);
+  const where = [r.recorded && r.recorded.place, r.original_label].filter(Boolean).join(" · ");
+  const inst = r.instrument === "unknown" ? "" : (INSTRUMENT[r.instrument] || r.instrument);
+  const meta = [r.instrument === "other" ? r.performers.map(p => p.role).join(", ") : inst, where].filter(Boolean).join(" · ");
+  const link = r.links.find(l => l.platform !== "musicbrainz") || r.links[0];
+  return `<li class="hit">
+    <span class="yr mono ${yl ? "" : "unknown"}">${yl ? esc(yl) : "Year?"}</span>
+    <div class="who"><strong>${r.performers.map(p => esc(p.name)).join(", ")}</strong>${meta ? `<div class="meta">${esc(meta)}</div>` : ""}</div>
+    <div class="wk">${h.works.map(w => {
+      const work = DATA.works.find(x => x.bwv === w.bwv);
+      return `<a class="wchip" href="#bwv-${slug(w.bwv)}" title="${esc(work.title)}${w.complete ? "" : " (excerpt)"}"><b class="mono">${esc(w.bwv)}</b> ${esc(work.key || "")}${w.complete ? "" : " <i>part</i>"}</a>`;
+    }).join("")}</div>
+    <div class="listen">${link ? `<a href="${esc(link.url)}" rel="noopener">${esc(PLATFORM[link.platform] || link.platform)}</a>` : ""}</div>
+  </li>`;
+}
+
+function updateSearch() {
+  const box = document.getElementById("gq-results");
+  if (!box) return;
+  const index = document.getElementById("catalogue-index");
+  const tryLine = document.getElementById("gq-try");
+  const raw = state.gq.trim();
+  box.hidden = !raw; index.hidden = !!raw; tryLine.hidden = !!raw;
+  if (!raw) { box.innerHTML = ""; return; }
+  const q = parseQuery(raw);
+  const hits = runSearch(q);
+  const shown = hits.slice(0, state.glimit);
+  box.innerHTML = `
+    <div class="hits-head">
+      <p><b class="mono">${hits.length}</b> recording${hits.length === 1 ? "" : "s"}</p>
+      <div class="tags">${describe(q)}</div>
+    </div>
+    ${hits.length ? `<ul class="hits">${shown.map(renderHit).join("")}</ul>` :
+      `<p class="empty">Nothing matches all of these. Remove a term, or search a year range like 1950-1970.</p>`}
+    ${hits.length > shown.length ? `<button class="chip more" type="button" id="gq-more">Show all ${hits.length}</button>` : ""}`;
 }
 
 function renderWork(w) {
@@ -359,6 +523,7 @@ function route() {
     html = w ? renderWork(w) : `<p class="empty">No work with that BWV number yet. <a href="#">Back to the catalogue</a></p>`;
   } else html = renderCatalogue();
   app.innerHTML = `<div class="view">${html}</div>`;
+  updateSearch();
   for (const [id, key] of [["nav-cat", "cat"], ["nav-con", "con"]]) {
     const el = document.getElementById(id);
     if (current === key) el.setAttribute("aria-current", "page"); else el.removeAttribute("aria-current");
@@ -366,6 +531,14 @@ function route() {
 }
 
 app.addEventListener("click", e => {
+  const t = e.target.closest("[data-try]");
+  if (t) {
+    state.gq = t.dataset.try; state.glimit = 50;
+    const input = document.getElementById("gq");
+    input.value = state.gq; updateSearch(); input.focus();
+    return;
+  }
+  if (e.target.closest("#gq-more")) { state.glimit = Infinity; updateSearch(); return; }
   const b = e.target.closest("[data-kind]");
   if (!b) return;
   state.kind = b.dataset.kind;
@@ -375,7 +548,14 @@ app.addEventListener("click", e => {
 app.addEventListener("change", e => {
   if (e.target.id === "sort") { state.sort = e.target.value; route(); document.getElementById("sort").focus(); }
 });
+document.addEventListener("keydown", e => {
+  const tag = (e.target.tagName || "").toLowerCase();
+  if (e.key === "/" && !["input", "select", "textarea"].includes(tag) && document.getElementById("gq")) {
+    e.preventDefault(); document.getElementById("gq").focus();
+  }
+});
 app.addEventListener("input", e => {
+  if (e.target.id === "gq") { state.gq = e.target.value; state.glimit = 50; updateSearch(); return; }
   if (e.target.id !== "q") return;
   const pos = e.target.selectionStart;
   state.q = e.target.value;
