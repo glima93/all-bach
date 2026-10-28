@@ -38,7 +38,14 @@ For each collected collection, on a branch `run-<N>` from `main` with `collect/<
    - Fix rules in the importer, never individual YAML files.
    - Re-import from a clean state: `git clean -fq data/recordings` removes only the new, untracked files.
 4. **Checker.** Spawn the checker agent (fresh context), giving it the new files and the snapshot. Act on what
-   it reports.
+   it reports. What to look for, learned on run 1:
+   - Popular movements (the Air, the Badinerie) pull in crossover, film, game, lesson and relaxation albums.
+     They should come out as arrangements; add the names or release words to the importer's regexes.
+   - A lone conductor credited without an orchestra is usually a real performance; a lone person with no
+     credit at all is usually crossover. Both are left with instrument "unknown" for contributors.
+   - A recording of another work mislinked to these works (a keyboard Partita movement under a suite)
+     goes into `EXCLUDE_BY_SNAPSHOT["<id>"]` with the reason.
+   - Period-instrument groups the regex misses go into `PERIOD_ENSEMBLE`.
 5. **Stability.** Re-run every snapshot in `data/sources/` through the importer. `git status` must show no
    modified recording files.
 6. **Checks.**
@@ -58,7 +65,10 @@ For each collected collection, on a branch `run-<N>` from `main` with `collect/<
    (`mb_parent`) if one exists; the collector otherwise searches by BWV number.
 2. **Commit, open the pull request, and merge it if it is clean.**
    - Author `Gonçalo <glima93@gmail.com>`. End the message with the attribution lines the session gives.
-   - Push `run-<N>` and open a pull request titled "Run N: <collections>".
+   - Push `run-<N>` and open a pull request titled "Run N: <collections>". `gh pr` commands need GraphQL, which
+     Claude sessions cannot use, so use the REST API: write the JSON body to a file, then
+     `gh api repos/glima93/all-bach/pulls --input pr.json` (fields `title`, `head`, `base`, `body`; add
+     `"draft": true` for a doubtful run).
    - **Doubtful runs stay open as drafts for Gonçalo.** A run is doubtful if any of these holds:
      - more than 5% of rows were disputed by the review or the checker;
      - the checker reported something the lead could not resolve;
@@ -66,8 +76,10 @@ For each collected collection, on a branch `run-<N>` from `main` with `collect/<
      - a test or check failed.
      For a doubtful run, write the reasons in the pull request description and do not merge.
    - **Otherwise merge it yourself** (Gonçalo's standing decision, 28 Oct 2026):
-     - Wait for the pull request's checks to pass, then `gh pr merge --merge`.
-     - If `gh` is refused, merge `run-<N>` into an up-to-date `main` locally, re-run `validate.py` and
+     - Wait for the `check` run on the branch's last commit to succeed
+       (`gh api repos/glima93/all-bach/commits/<sha>/check-runs`), then
+       `gh api -X PUT repos/glima93/all-bach/pulls/<n>/merge -f merge_method=merge`.
+     - If that is refused, merge `run-<N>` into an up-to-date `main` locally, re-run `validate.py` and
        `build.py`, and push `main`. Never force-push.
    - The workflow reads the queue from `main`, so a merged run queues the next collection for that night. A
      doubtful run holds the queue until Gonçalo merges it. That is intended.
