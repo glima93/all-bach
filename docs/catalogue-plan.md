@@ -54,21 +54,23 @@ which is what MusicBrainz and record labels use; BWV3 (2022) decimal numbers can
 
 ## 2. Phase 0: what has to change before the schedule starts
 
-This is one interactive session with Gonçalo at the computer, before any scheduled run.
+This is one session, not unattended. Nothing in it needs Gonçalo's computer.
 
-1. **Hand snapshots over as files, not through the conversation.** The Brandenburg snapshot was copied in 12
-   checked chunks through the chat. That one step used most of the session's tokens, so a schedule built
-   on it would exhaust the daily allowance.
-   - Add `download(name)` to `scripts/musicbrainz-collect.js`. It saves `musicbrainz-<id>.json` from the
-     browser panel into a folder on the computer.
-   - Connect that folder to Claude once.
-   - Each run copies the file into its workspace with the device file tools.
-   - Test with the Brandenburg data, which is already known.
-   - If downloads from the panel are blocked, the fallback is the chunked transfer. Then the plan needs
-     about twice as many runs, each with fewer works.
-2. **Collector batch mode.** `startRun(n)` takes the parent works and movement lists for run *n* and collects
-   them one after another, resuming after errors. It keeps the 1 request per second limit, and only one
-   collector may run at a time, because MusicBrainz limits by IP address.
+1. **Collect on GitHub, not in the browser.** Claude's workspace cannot reach MusicBrainz, which is why the
+   first five collections were gathered in the desktop app's browser panel and copied through the chat in
+   checked chunks. That needs the computer on, and the copying used most of a session's tokens. GitHub's
+   build machines can reach MusicBrainz: a test workflow got HTTP 200 on 28 Oct 2026. So:
+   - Port `scripts/musicbrainz-collect.js` to `scripts/collect_musicbrainz.py`: same requests, grouping and
+     row format, 1 request per second, and a User-Agent naming the project.
+   - Add `.github/workflows/collect.yml`, which runs on a schedule and by hand. It reads the collections
+     marked `queued` in `collections.yaml` and writes `data/sources/musicbrainz-<id>.json`.
+   - The workflow pushes to a `collect/<id>` branch (never `main`) and marks the collection `collected`.
+   - Each job can run for up to 6 hours. Progress is saved in a cache so a cut-off job resumes, which
+     matters for the cantatas.
+   - **Test:** re-collect the Brandenburg Concertos. The result must match `musicbrainz-brandenburg.json`
+     apart from recordings added to MusicBrainz since 28 Oct.
+2. **One collector at a time.** The workflow uses a `concurrency` group, because MusicBrainz limits requests
+   by IP address and parallel collectors would be throttled.
 3. **Importer modes** (`mode` in the list):
    - `ensemble` exists.
    - `keyboard`: the WTC/Goldberg rules.
@@ -83,9 +85,10 @@ This is one interactive session with Gonçalo at the computer, before any schedu
      instrument and combination is native; only jazz, electronic and the like count as arrangements.
    - `vocal` (new): a choir is native, not an arrangement. Performers are grouped by choir and orchestra.
      The singers credited on any recording become soloists, and the conductor leads the performer list.
-4. **Work files at scale.** Add `scripts/work_stub.py`. It turns a MusicBrainz work tree, saved as JSON by the
-   collector, into `data/works/<bwv>.yaml` stubs with the movement list in MusicBrainz order. The run then
-   only adds key, scoring, date, the Wikipedia link and a note.
+4. **Work files at scale.** The collector also saves each MusicBrainz work tree as
+   `data/sources/tree-<id>.json`. `scripts/work_stub.py` turns that into `data/works/<bwv>.yaml` stubs with the
+   movement list in MusicBrainz order. The Claude run then only adds key, scoring, date, the Wikipedia link
+   and a note.
 5. **Make the site hold 20,000+ recordings.** Today everything is inlined into one 1.4 MB page. The full
    catalogue would be 20–30 MB, and the preview artifact is capped at 16 MB.
    - Move each collection's recordings to `site/data/<id>.json`, loaded when the volume is opened.
@@ -95,41 +98,44 @@ This is one interactive session with Gonçalo at the computer, before any schedu
    - This must land before run 10.
 6. **Create the scheduled tasks** (section 4) once the steps above work end to end on run 1, done by hand.
 
-## 3. Who does what in a run
+## 3. Who does what
 
-Each run has one lead agent and up to two helpers, spawned in parallel. Parallel agents make a run finish
-sooner; they do not make it cheaper. The daily allowance is protected by the schedule, not by parallelism.
-
-| Agent | Job | Needs the browser? |
+| Who | Job | Uses Claude? |
 |---|---|---|
-| **Lead** | Harvests the snapshot started by the previous run. Imports it, reviews mislinks and junk (EXCLUDE), validates, builds and checks the site with Playwright, then opens the pull request. Afterwards it starts the next run's collection in the browser panel. | yes (briefly) |
-| **Work-file writer** | Writes key, scoring, date, source link and a note for the next run's works, from Wikipedia and Bach Digital. For the church cantatas it splits into 2–4 writers by BWV range. | no |
-| **Checker** (fresh context) | Checks ten random imported recordings against their MusicBrainz pages, plus the classification of every arrangement and period-instrument flag. Reports disagreements, which the lead fixes before the pull request. | no (reads the MusicBrainz release links via search) |
+| **GitHub workflow** (`collect.yml`) | Collects the queued collections from MusicBrainz overnight and pushes each snapshot and work tree to a `collect/<id>` branch. | no |
+| **Lead agent** | Imports the collected snapshot and reviews mislinks and junk (EXCLUDE). Validates, builds and checks the site with Playwright, then opens the pull request. Last, it queues the next run's collections for the workflow. | yes |
+| **Work-file writer** (spawned in parallel) | Writes key, scoring, date, source link and a note for this run's work stubs, from Wikipedia and Bach Digital. For the church cantatas it splits into 2–4 writers by BWV range. | yes |
+| **Checker** (spawned, fresh context) | Checks ten random imported recordings and every arrangement and period-instrument flag against the data, and reports disagreements, which the lead fixes before the pull request. | yes |
 
-**Why each run harvests the previous collection.** Collecting a large set takes from minutes to about an
-hour of patient MusicBrainz requests. The browser panel does that work and no agent is billed while it
-waits. So each run starts a collection and finishes it at the next run. Progress lives in the browser's
-storage (`ab_<id>_*`), so it survives a closed panel or a restarted computer.
+Parallel agents make a run finish sooner; they do not make it cheaper. The daily allowance is protected by
+the schedule, and by keeping MusicBrainz work out of Claude entirely: the snapshot arrives in the repository
+as a file, so no run spends tokens copying data.
 
 ## 4. Schedule
 
-- **Cadence:** one run per evening, Monday to Saturday, at **22:47 Copenhagen time**.
-- **Length:** 36 runs, plus a spare evening a week for catching up. That is about **7 weeks**.
-- **Why that time:** late evening keeps the runs out of the hours Gonçalo uses Claude himself, so they don't
-  eat into the same usage window. It is also outside the 15:00–18:00 Copenhagen window, when scheduled
-  runs are often delayed.
-- **The computer must be on** with the Claude desktop app open: the browser panel and the snapshot folder
-  are on it. On a Mac that means keeping it plugged in and set not to sleep while the display is off. A
-  run that finds the computer unreachable stops, says so, and the next evening picks up the same run.
-- **Halving the time:** add a second daily run (e.g. 07:23) and the plan takes about 3½ weeks, at twice the
-  daily usage. Decide after watching what runs 1–3 actually use.
+Nothing runs on Gonçalo's computer, so the timings only need to keep runs away from his own use of Claude.
+
+- **01:00 Copenhagen, every night:** the GitHub workflow collects whatever is queued. It costs no Claude
+  usage, and a big collection has the whole night.
+- **06:43 Copenhagen, Monday to Saturday:** the Claude run (a cloud session) imports what the workflow
+  collected and queues the next collections.
+  - It finishes before the working day.
+  - It sits outside 15:00–18:00 Copenhagen, when scheduled runs are often delayed.
+  - Its usage window has reset by the time Gonçalo starts using Claude.
+- **Length:** 36 runs, with Sunday spare for catching up: about **6 weeks**.
+- **Halving the time:** add a second run at 13:17 (queue two collections a night) for about 3 weeks, at
+  twice the daily usage. Decide after seeing what runs 1–3 use.
 - **Each task's prompt** is the same: "Clone glima93/all-bach and follow docs/batch-runbook.md." The run
-  finds its own next step from the `status` fields in `data/plan/collections.yaml`.
+  finds its next step from the `status` fields in `data/plan/collections.yaml`.
+- **A run with nothing collected** (for example the workflow failed, or MusicBrainz was down) reports it and
+  stops, costing almost nothing. The next morning picks up the same run.
 
 ## 5. Decisions to settle before Phase 0 ends
 
 1. **Merging.** Unattended runs open a pull request and Gonçalo merges, which is the default. The
-   alternative is that runs merge to `main` themselves when the checks pass.
+   collector reads its queue from `main`, so an unmerged pull request also holds back the next collection:
+   the pace is one merge a day. The alternative is that runs merge to `main` themselves when every check
+   passes, and leave only draft pull requests (disputed data) for Gonçalo.
 2. **Doubtful and spurious works.** The default keeps them, marked doubtful on their page (BWV 1036,
    1037, 246, 553–560, 217–224 …).
 3. **Lute works on guitar.** Most recordings of 995–1000 are on guitar. Either file guitar as the instrument

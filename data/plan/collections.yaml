@@ -12,7 +12,7 @@
 #   mode      how the importer reads performers (see docs/catalogue-plan.md, "Importer modes")
 #   wave      1 = instrumental, existing pipeline; 2 = needs the vocal mode; 3 = long tail
 #   run       the scheduled run that collects it (runs go in order; small collections share a run)
-#   status    done | todo | collecting | imported
+#   status    done | todo | queued (for the GitHub collector) | collected | imported
 #   note      anything a run must know
 
 collections:
