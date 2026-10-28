@@ -22,7 +22,7 @@ collections:
 - {id: goldberg, title: "Goldberg Variations", chapter: Keyboard, bwv: ["988"], mode: keyboard, wave: 0, run: 0, status: done}
 - {id: violin-solo, title: "Sonatas and Partitas for solo violin", chapter: Chamber, bwv: ["1001-1006"], mode: solo, wave: 0, run: 0, status: done}
 - {id: cello-suites, title: "Six Suites for Violoncello solo", chapter: Chamber, bwv: ["1007-1012"], mode: solo, wave: 0, run: 0, status: done}
-- {id: brandenburg, title: "Brandenburg Concertos", chapter: Orchestral, bwv: ["1046-1051"], mode: ensemble, wave: 0, run: 0, status: done}
+- {id: brandenburg, title: "Brandenburg Concertos", chapter: Orchestral, bwv: ["1046-1051"], mode: ensemble, mb_parent: 7481c7f5-71bd-464e-956a-c670f4117de3, wave: 0, run: 0, status: done}
 
 # ── Wave 1: instrumental works the current pipeline can take (after Phase 0) ──────────────
 - {id: orchestral-suites, title: "Orchestral Suites", chapter: Orchestral, bwv: ["1066-1071"], mode: ensemble, wave: 1, run: 1, status: todo,

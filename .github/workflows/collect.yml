@@ -1,0 +1,57 @@
+name: Collect from MusicBrainz
+
+# Collects every collection marked `status: queued` in data/plan/collections.yaml and pushes each finished
+# snapshot to its own branch, collect/<id>, with the status set to `collected`. The scheduled Claude run
+# imports it from there (docs/batch-runbook.md). Never writes to main.
+
+on:
+  schedule:
+    - cron: "0 0 * * *"        # 01:00 Copenhagen (winter time)
+  push:
+    branches: [main]
+    paths: [data/plan/collections.yaml]
+  workflow_dispatch:
+
+concurrency:
+  group: musicbrainz           # MusicBrainz limits requests by IP: one collector at a time
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml requests
+      - uses: actions/cache/restore@v4
+        with:
+          path: .mbcache
+          key: mb-${{ github.run_id }}
+          restore-keys: mb-
+      - name: Collect
+        run: python scripts/collect_musicbrainz.py --queued --budget-minutes 320
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .mbcache
+          key: mb-${{ github.run_id }}
+      - name: Push each finished collection to collect/<id>
+        run: |
+          git config user.name "All Bach collector"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for id in $(cat .mbcache/done.txt); do
+            git switch -C "collect/$id" origin/main
+            cp ".mbcache/out/$id/musicbrainz-$id.json" ".mbcache/out/$id/tree-$id.json" data/sources/
+            python scripts/plan_status.py "$id" collected
+            git add data/sources data/plan/collections.yaml
+            git commit -m "Collect $id from MusicBrainz"
+            git push --force-with-lease origin "collect/$id"
+          done
