@@ -1,0 +1,29 @@
+id: franz-just-undated
+performers:
+- name: Franz Just
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/18ccf15c-e7fc-4590-a1c4-d22be9e59ba1
+  title: Das große Klassik-Festival
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 78a7bc55-ae1b-43a6-87ce-69aadf8db8da
+  recordings: [c4a961fe-887b-4173-bcd8-3481b536a73d]

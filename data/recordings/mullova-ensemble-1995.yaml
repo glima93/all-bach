@@ -1,0 +1,29 @@
+id: mullova-ensemble-1995
+performers:
+- name: Mullova Ensemble
+  role: orchestra
+- name: Виктория Муллова
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: De Rode Hoed
+released: 1996
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f630b43d-0e80-4f2d-b4fd-f80c037dbdcf
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2bb7fa6-1ed5-4281-9430-2a7bb07287e5
+  recordings: [6752b89c-3dff-4766-815b-4c44fd8092a2]

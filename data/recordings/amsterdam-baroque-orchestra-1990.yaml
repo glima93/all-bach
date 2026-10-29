@@ -1,0 +1,32 @@
+id: amsterdam-baroque-orchestra-1990
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Wilbert Hazelzet
+  role: transverse flute
+- name: Ton Koopman
+  role: conductor
+- name: Andrew Manze
+  role: violin
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Oud Katholique Kerk
+released: 1991
+original_label: null
+works:
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17f3d6f2-6403-4dd4-a140-be75274d3093
+  title: Brandenburg Concerti 1-3 / Triple Concerto
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [52560bcf-7a5a-462a-b928-a51832ae7b66]

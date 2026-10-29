@@ -1,0 +1,32 @@
+id: cappella-gedanensis-undated
+performers:
+- name: Cappella Gedanensis
+  role: orchestra
+- name: Katarzyna Kowacz
+  role: violin
+- name: Konstanty Andrzej Kulka
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17c0de02-b766-497a-8577-7ce553f50166
+  title: Stile Concerto
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 20a1a814-188f-4bbc-bfed-e2f9083621dc
+  recordings: [6ac085e1-aff0-40e7-a74b-b89619a442e4]

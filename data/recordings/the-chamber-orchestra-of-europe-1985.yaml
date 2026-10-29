@@ -1,0 +1,35 @@
+id: the-chamber-orchestra-of-europe-1985
+performers:
+- name: The Chamber Orchestra of Europe
+  role: orchestra
+- name: Salvatore Accardo
+  role: conductor
+- name: Christopher Middleton
+  role: harpsichord
+- name: Margaret Batjer
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985]
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2479475-8617-4922-8dce-aa51598d6476
+  title: Violin Concertos nos. 1 & 2 / Double Concerto
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3f221c60-2568-40f5-b1c3-625fed319258
+  recordings: [5108694f-dabd-4561-8035-9ea327065276]

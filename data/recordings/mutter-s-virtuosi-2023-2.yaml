@@ -1,0 +1,28 @@
+id: mutter-s-virtuosi-2023-2
+performers:
+- name: Mutter’s Virtuosi
+  role: strings
+- name: Anne‐Sophie Mutter
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2023]
+  place: 'Wiener Musikverein: Großer Musikvereinssaal'
+released: 2023
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e2b81046-1e61-4967-9592-db2332190074
+  title: Bach / Bologne / Previn / Vivaldi / Williams
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2390dbe2-f2e1-4606-8431-1441c02e14bb
+  recordings: [72767624-f007-4faf-a751-3b5feafda996]

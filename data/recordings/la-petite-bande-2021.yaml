@@ -1,0 +1,30 @@
+id: la-petite-bande-2021
+performers:
+- name: La Petite Bande
+  role: ensemble
+- name: Sara Kuijken
+  role: solo
+- name: Sigiswald Kuijken
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Paterskerk
+released: 2022
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/be2a5472-1b77-4d3b-8bad-0779c93bece9
+  title: The Harpsichord Concertos, Vol. I
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [e5f96b73-3bfa-49eb-99cf-94eaccfcc3cc]

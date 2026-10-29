@@ -1,0 +1,34 @@
+id: orchestre-symphonique-de-paris-1932
+performers:
+- name: Orchestre symphonique de Paris
+  role: orchestra
+- name: Yehudi Menuhin
+  role: violin
+- name: George Enescu
+  role: violin
+- name: Pierre Monteux
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1932, 1933, 1936]
+  place: Salle Pleyel
+released: 1988
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f552e359-3d93-4175-8c8a-e26cbca2ef1c
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 86064f68-db46-404f-bf93-f2324ea1c704
+  recordings: [db9e001c-663f-4703-876d-33134ed28290]

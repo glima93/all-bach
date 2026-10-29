@@ -1,0 +1,31 @@
+id: festival-orchestra-1956
+performers:
+- name: Festival Orchestra
+  role: orchestra
+- name: Nathan Milstein
+  role: violin
+- name: Harry Blech
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1956]
+  place: null
+released: 1957
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2d7ae6d0-ed6b-44f8-848d-823a135963fc
+  title: Mozart, Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17221ec6-ed30-401c-aa6c-581e055217af
+  recordings: [a831bb15-cfac-47f8-bc25-37acdc619f58]

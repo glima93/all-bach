@@ -1,0 +1,30 @@
+id: nathan-milstein-1964
+performers:
+- name: Nathan Milstein
+  role: conductor
+- name: Erica Morini
+  role: violin
+- name: '[anonymous]'
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1964]
+  place: Capitol 46th Street Studios
+released: 2011
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/98de83e8-41dd-4eb9-9190-5b3632478c72
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0a428818-2623-406e-8453-600dce442e78
+  recordings: [f9025f70-91af-42c6-9464-24e5de0992ce]

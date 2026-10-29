@@ -1,0 +1,31 @@
+id: accademia-bizantina-2012
+performers:
+- name: Accademia Bizantina
+  role: orchestra
+- name: Viktoria Mullova
+  role: performer
+- name: Ottavio Dantone
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2012]
+  place: Sala Oriani
+released: 2013
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1cca1431-f8b7-4de0-afa3-e2c85ad2ab81
+  title: Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2c422cb3-2c82-483d-8815-d38b388d1ee5
+  recordings: [5469acce-4336-49c1-ae07-c89ca4928d4e]

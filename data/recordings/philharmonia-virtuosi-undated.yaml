@@ -1,0 +1,33 @@
+id: philharmonia-virtuosi-undated
+performers:
+- name: Philharmonia Virtuosi
+  role: ensemble
+- name: Richard Kapp
+  role: conductor
+- name: Paul Peabody
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Rye Presbyterian Church
+released: 1993
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0dec4e9-cc30-46d2-9226-0a8becf7141b
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24f7fdaa-f1e0-4fab-ae05-a186137a921a
+  recordings: [15aeb08c-f910-48f2-8c94-7e4cad2d82ee]

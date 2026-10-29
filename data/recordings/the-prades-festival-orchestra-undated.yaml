@@ -1,0 +1,40 @@
+id: the-prades-festival-orchestra-undated
+performers:
+- name: The Prades Festival Orchestra
+  role: orchestra
+- name: Isaac Stern
+  role: violin
+- name: Alexander Schneider
+  role: performer
+- name: Pablo Casals
+  role: performer
+- name: Mieczysław Horszowski
+  role: performer
+- name: John Wummer
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1043', complete: true}
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/581435d8-0bb3-432f-9d60-3bcaf3fbdf1d
+  title: Bach Festival - Prades 1950 Volume III
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: abb9348e-5120-4f40-866b-93356a00e748
+  recordings: [dd299bd7-aa2c-4788-88f8-636a5a4f6b1a]

@@ -1,0 +1,29 @@
+id: four-voices-string-quartet-undated-2
+performers:
+- name: Four Voices String Quartet
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6d7c9dd-d175-45e5-8aa4-61aee9e1fc8e
+  title: 'Lifescapes: Relaxing Classical'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38846e7c-aa3a-43a8-8b7d-70118dd88d1a
+  recordings: [56bb6ef6-d6ba-4a5f-8cb6-d6cf94e61aa2]

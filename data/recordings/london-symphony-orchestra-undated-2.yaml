@@ -1,0 +1,38 @@
+id: london-symphony-orchestra-undated-2
+performers:
+- name: London Symphony Orchestra
+  role: orchestra
+- name: Anne‐Sophie Mutter
+  role: performer
+- name: Valery Gergiev
+  role: performer
+- name: Gioconda de Vito
+  role: performer
+- name: Rafael Kubelík
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [I. Allegro, III. Allegro assai]}
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6cdf6fbc-7348-4f21-8558-f16bc47c6f5b
+  title: The Greatest Classical Hits of Bach
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38712b4c-0fd4-4c65-8c7a-45676fecc973
+  recordings: [901fa636-df79-43fd-81ec-f99fb58b959b]

@@ -10,6 +10,7 @@ Each file here is a snapshot of what [MusicBrainz](https://musicbrainz.org) knew
 | `musicbrainz-wtc.json` | The Well-Tempered Clavier, Books I and II, BWV 846–893 | 28 Oct 2026 | `dce85d48-7ce6-4bd6-b21e-a7c1be6eb1b4` (Book I), `a9fabb1b-4b9e-4bdb-b177-452dbffeaed6` (Book II) | 96 | 8,072 | 321 |
 | `musicbrainz-brandenburg.json` | Brandenburg Concertos, BWV 1046–1051 | 28 Oct 2026 | `7481c7f5-71bd-464e-956a-c670f4117de3` | 19 | 3,860 | 324 |
 | `musicbrainz-orchestral-suites.json` | Orchestral Suites, BWV 1066–1070 (1071 not found in MusicBrainz) | 28 Oct 2026 | none: works found by BWV number (`tree-orchestral-suites.json`) | 29 | 3,518 | 441 |
+| `musicbrainz-violin-concertos.json` | Violin Concertos, BWV 1041–1045 | 28 Oct 2026 | none: works found by BWV number (`tree-violin-concertos.json`) | 13 | 2,050 | 336 |
 
 The first five snapshots were made with `scripts/musicbrainz-collect.js`, run in a browser tab on musicbrainz.org. From run 1 of the [catalogue plan](../../docs/catalogue-plan.md) on, they are made by `scripts/collect_musicbrainz.py`, a port of it, which the GitHub workflow `collect.yml` runs every night for each collection marked `queued` in `data/plan/collections.yaml`. It writes the snapshot and `tree-<id>.json`, the MusicBrainz works and movements it found for each BWV number (input to `scripts/work_stub.py`), to the branch `collect/<id>`.
 

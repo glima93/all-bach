@@ -1,0 +1,34 @@
+id: sukuv-komorni-orchestr-undated
+performers:
+- name: Sukův komorní orchestr
+  role: orchestra
+- name: Miroslav Kosina
+  role: violin
+- name: Josef Suk
+  role: violin
+- name: Josef Vlach
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [I. Vivace, II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c820c533-b586-4eb3-8311-aaab207b422c
+  title: Best Of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38f32342-5fc1-4ebc-baf4-8c7e82ba15e0
+  recordings: [09124862-b019-4117-8b10-1085b7018a83]

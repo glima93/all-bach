@@ -1,0 +1,35 @@
+id: hungarian-chamber-orchestra-undated
+performers:
+- name: Hungarian Chamber Orchestra
+  role: orchestra
+- name: Szenthelyi Miklós
+  role: violin
+- name: Győriványi Ráth György
+  role: conductor
+- name: Istvan Major
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/83436d77-ff1c-4a4d-b3a1-943a15b40d1c
+  title: Concerti für Orgel, Oboe, Violine
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84aba444-6ee7-4e10-9495-cf2eaf53b160
+  recordings: [1e26b4bf-d470-43d4-bbf1-f8799df4a158]

@@ -1,0 +1,34 @@
+id: sofia-soloists-chamber-orchestra-undated
+performers:
+- name: Sofia Soloists Chamber Orchestra
+  role: orchestra
+- name: Georgi Badev
+  role: violin
+- name: Stoika Milanova
+  role: violin
+- name: Vassil Kazandjiev
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e67503e-bc5b-426d-93a7-297844f67b15
+  title: The Best of Johann Sebastian Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 30470b55-b83f-4f76-b465-7ebcf305013e
+  recordings: [d682baf5-a1da-46c4-b4e9-b1e1c11143aa]

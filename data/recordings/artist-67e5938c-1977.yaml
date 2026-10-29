@@ -1,0 +1,31 @@
+id: artist-67e5938c-1977
+performers:
+- name: Государственный академический симфонический оркестр СССР
+  role: orchestra
+- name: Леонид Коган
+  role: performer
+- name: Павел Коган
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3bdb9877-ebdd-4c25-968d-b4fe5aba7a39
+  title: Неизданное
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 67e5938c-3953-4dfe-9d63-860bef0d8475
+  recordings: [5029efd8-b84f-4a98-bb01-e9e9606c5a82]

@@ -1,0 +1,33 @@
+id: artist-c8a88cc7-undated
+performers:
+- name: התזמורת הפילהרמונית הישראלית
+  role: orchestra
+- name: Zina Schiff
+  role: violin
+- name: Dalia Atlas
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Jerusalem Music Centre
+released: 1989
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+- {bwv: '1044', complete: false, movements: ['II. Adagio, ma non tanto e dolce']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f9c60c5-c8f6-4a0e-aac5-a6533c8f5b02
+  title: Bach & Vivaldi
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c8a88cc7-c93e-42b5-ba29-68859b5716e3
+  recordings: [1e9b357a-acf0-4254-93ac-bb0a5842cf2f]

@@ -1,0 +1,30 @@
+id: london-symphony-orchestra-1959
+performers:
+- name: London Symphony Orchestra
+  role: orchestra
+- name: Gioconda de Vito
+  role: violin
+- name: Rafael Kubelík
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959]
+  place: Abbey Road Studios
+released: 2016
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2be2a0b8-ab69-49b0-a0be-842649d41998
+  title: 'Bach: Violin Concerto in E major / Mozart: Violin Concerto no. 3'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38712b4c-0fd4-4c65-8c7a-45676fecc973
+  recordings: [10317ce4-2689-494d-8e41-ff3046bcfcd3]

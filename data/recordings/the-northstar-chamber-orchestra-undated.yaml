@@ -1,0 +1,28 @@
+id: the-northstar-chamber-orchestra-undated
+performers:
+- name: The Northstar Chamber Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/88662dfd-640c-486b-972c-d510e385eba6
+  title: 'ClassicWorks: The Classical Strings'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8b02898d-1bdf-4c76-9bad-44a701b094cc
+  recordings: [e8e16247-452d-48be-a8bf-b5b0094f42b1]

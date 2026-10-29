@@ -1,0 +1,32 @@
+id: hamburger-symphoniker-undated-3
+performers:
+- name: Hamburger Symphoniker
+  role: orchestra
+- name: Karl Stölzel
+  role: violin
+- name: Gabor Ötvös
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc70f41b-2fb9-4da9-a529-953220189805
+  title: Toccata and Fugue / Air On A G String / Italian Concerto / Violin Concerto
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 42899fac-2d00-44c9-a9e7-049aa953aae2
+  recordings: [ded086c4-f1fa-4467-b6f2-eb41d23df98d]

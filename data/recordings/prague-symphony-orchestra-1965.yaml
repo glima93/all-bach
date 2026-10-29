@@ -1,0 +1,33 @@
+id: prague-symphony-orchestra-1965
+performers:
+- name: Prague Symphony Orchestra
+  role: orchestra
+- name: Josef Suk
+  role: violin
+- name: Václav Smetáček
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1965, 1966]
+  place: Rudolfinum
+released: 1988
+original_label: null
+works:
+- {bwv: '1041', complete: false, movements: [I. Allegro]}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f58e2e77-543a-4b69-aff2-48c134c98059
+  title: Concertos for Violin BWV 1041 & 1042, Concerto for Two Violins BWV 1043, Concerto for Violin & Oboe BWV
+    1060
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4d512eea-1a28-478d-92c7-fd878d3786b3
+  recordings: [9e8b864d-13f0-4fe5-9dfa-21f0f2677bfd]

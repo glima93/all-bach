@@ -1,0 +1,42 @@
+id: kolner-kammerorchester-1995
+performers:
+- name: Kölner Kammerorchester
+  role: orchestra
+- name: Helmut Müller‐Brühl
+  role: conductor
+- name: Andreas Spering
+  role: harpsichord
+- name: Felix Reimann
+  role: flute
+- name: Ingeborg Scheerer
+  role: violin
+- name: Kolja Blacher
+  role: performer
+- name: Christine Pichlmeier
+  role: performer
+- name: Lisa Stewart
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995, 1998]
+  place: Deutschlandradio Studios
+released: 1996
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [III. Allegro assai]}
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/04ba4623-1f1b-475d-8d1e-55ab7b3da2bb
+  title: Concertos for Harpsichords, Recorders and Violins
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b93816c3-b729-439c-95f3-d9976e0620cc
+  recordings: [2f1ac3bf-f187-427b-aa63-536767442c15]

@@ -1,0 +1,28 @@
+id: the-arcangelos-chamber-ensemble-undated-3
+performers:
+- name: The Arcangelos Chamber Ensemble
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/beeff341-3662-473b-99c6-f958a48dd9bd
+  title: Baroque Garden
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6364d59c-5f00-453f-9ea2-cf228159ebe9
+  recordings: [d20ff867-e441-44e4-834e-a9ad39042f28]

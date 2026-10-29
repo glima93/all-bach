@@ -1,0 +1,30 @@
+id: neues-bachisches-collegium-musicum-undated-3
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Max Pommer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '1045', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e80ad73-a869-4a92-975c-bfe368380649
+  title: Die Solokonzerte Vol. 3 (Rekonstruktionen)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [f2241d2d-d35b-41ad-ace7-ebf512918ebf]

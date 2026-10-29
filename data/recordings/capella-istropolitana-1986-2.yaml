@@ -1,0 +1,32 @@
+id: capella-istropolitana-1986-2
+performers:
+- name: Capella Istropolitana
+  role: orchestra
+- name: Quido Hölbling
+  role: violin
+- name: Anna Hölblingová
+  role: violin
+- name: Richard Edlinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986]
+  place: Concert Hall of the Slovak Philharmonic
+released: 1987
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/46542c0b-7add-4ea0-b871-0710af5c7f5a
+  title: The Best of Baroque Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e7119b5-a3a0-4d78-b8c8-55778f8b618c
+  recordings: [9c060bbb-b281-4d87-bf29-ce8510d32ff2]

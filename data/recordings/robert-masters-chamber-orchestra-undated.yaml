@@ -1,0 +1,31 @@
+id: robert-masters-chamber-orchestra-undated
+performers:
+- name: Robert Masters Chamber Orchestra
+  role: orchestra
+- name: Sir Yehudi Menuhin
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30726b6c-49d2-485a-878e-b1a16693949e
+  title: 'The Key To Classics: Bach'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aafbd6a9-e070-475d-8cca-7daad4d99cbd
+  recordings: [db4c51c8-57ba-4a90-b7c6-3d365becdce1]

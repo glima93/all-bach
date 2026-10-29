@@ -1,0 +1,30 @@
+id: hollywood-studio-symphony-undated
+performers:
+- name: Hollywood Studio Symphony
+  role: orchestra
+- name: John Williams
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Barbra Streisand Scoring Stage
+released: 2025
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3643a01d-407e-4db0-8bc7-8fa1c5c4e337
+  title: 'The Patriot: Original Motion Picture Soundtrack'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5032cd91-1976-47e5-9ef6-6eb2eeb0e468
+  recordings: [1df35487-ea4c-4ddb-8a51-5109c38a4f7a]

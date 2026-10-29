@@ -1,0 +1,31 @@
+id: terence-dennis-undated
+performers:
+- name: Terence Dennis
+  role: piano
+- name: 西崎崇子
+  role: violin
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '1041', complete: false, movements: [III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43263594-1316-40ab-8494-d2ae523649ae
+  title: Bach to Work
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ab5c814-81e2-4994-8de9-f96d4e775ffd
+  recordings: [150a7924-ee70-4ff8-84c3-20eacb39694c]

@@ -1,0 +1,32 @@
+id: menuhin-festival-orchestra-undated-2
+performers:
+- name: Menuhin Festival Orchestra
+  role: orchestra
+- name: Christian Ferras
+  role: violin
+- name: Yehudi Menuhin
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ca49480f-b6e1-4664-81b2-698f7465f926
+  title: 'Best of the Great Composers: Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 25a35d84-6c54-4ff2-a7fa-74853dd62b69
+  recordings: [91762b83-a97b-4c89-8e0d-e34422414a86]

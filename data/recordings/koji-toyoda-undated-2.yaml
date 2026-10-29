@@ -1,0 +1,30 @@
+id: koji-toyoda-undated-2
+performers:
+- name: Koji Toyoda
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1043', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb424b03-4730-4d89-9770-a802e8b823f3
+  title: Suzuki Violin School, Volume 7
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5dc47581-9016-4094-a628-9e1625221c9a
+  recordings: [2ed55610-4dde-4d05-9684-8fac9751103b]

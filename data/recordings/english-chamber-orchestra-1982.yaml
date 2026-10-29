@@ -1,0 +1,67 @@
+id: english-chamber-orchestra-1982
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Anne‐Sophie Mutter
+  role: violin
+- name: Salvatore Accardo
+  role: conductor
+- name: Xue Wei
+  role: performer
+- name: Jane Glover
+  role: performer
+- name: Anne Akiko Meyers
+  role: performer
+- name: Steven Mercurio
+  role: performer
+- name: Pinchas Zukerman
+  role: performer
+- name: Raymond Leppard
+  role: performer
+- name: José‐Luis García
+  role: performer
+- name: Richard Adeney
+  role: performer
+- name: Isaac Stern
+  role: performer
+- name: Alexander Schneider
+  role: performer
+- name: Yehudi Menuhin
+  role: performer
+- name: George Malcolm
+  role: performer
+- name: João Carlos Martins
+  role: performer
+- name: Itzhak Perlman
+  role: performer
+- name: Daniel Barenboim
+  role: performer
+- name: Philippe Racine
+  role: performer
+- name: James Judd
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1982]
+  place: Walthamstow Assembly Hall
+released: 1975
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7b0e5ea4-b72e-4798-bfe8-b82f77e097f5
+  title: Concerto for Two Violins in D minor / Violin Concertos in A minor & E major
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [aea9f41f-2bf7-403a-b283-a297a315e6a2]

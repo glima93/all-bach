@@ -1,0 +1,32 @@
+id: israel-philharmonic-orchestra-1982
+performers:
+- name: Israel Philharmonic Orchestra
+  role: orchestra
+- name: Shlomo Mintz
+  role: solo
+- name: Isaac Stern
+  role: solo
+- name: Zubin Mehta
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1982]
+  place: היכל התרבות
+released: 2015
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a4b991a-e97f-4122-ac7c-a3f4d4d67e64
+  title: The Huberman Festival 1982
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: c8a88cc7-c93e-42b5-ba29-68859b5716e3
+  recordings: [e1e3b7d2-4863-4ba0-8e6a-eae23e7ac162]

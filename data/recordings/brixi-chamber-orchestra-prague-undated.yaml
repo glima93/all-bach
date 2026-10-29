@@ -1,0 +1,36 @@
+id: brixi-chamber-orchestra-prague-undated
+performers:
+- name: Brixi Chamber Orchestra Prague
+  role: orchestra
+- name: Gilles Colliard
+  role: violin
+- name: Christoph Meister
+  role: conductor
+- name: Saskia Lethiec
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de8c66e6-8d44-41e3-94b4-c43752d9cb13
+  title: Violin Concertos BWV 1041, 1042, 1043 and 1060
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b70698c5-8ecd-42ad-bc20-e88fbe899686
+  recordings: [2f98aed4-d315-4320-a7ea-3f4bd00febf3]

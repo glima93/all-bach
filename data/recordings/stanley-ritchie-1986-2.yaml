@@ -1,0 +1,34 @@
+id: stanley-ritchie-1986-2
+performers:
+- name: Stanley Ritchie
+  role: violin
+- name: Linda Quan
+  role: violin
+- name: Jaap Schröder
+  role: performer
+- name: The Helicon Ensemble
+  role: performer
+- name: Albert Fuller
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1986]
+  place: John Harms Center for the Arts, Englewood
+released: 1987
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto, III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f9fe2916-a1ed-48a8-a8b8-48e7735f1be2
+  title: Vivaldi / Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6c97309-425e-41fd-a3ef-ced19d270584
+  recordings: [4be3ff44-ad01-466a-9bbe-4900dbbfcab3]

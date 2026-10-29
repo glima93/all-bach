@@ -1,0 +1,42 @@
+id: wurttembergisches-kammerorchester-heilbronn-1991-2
+performers:
+- name: Württembergisches Kammerorchester Heilbronn
+  role: orchestra
+- name: Jörg Faerber
+  role: conductor
+- name: Christiane Jaccottet
+  role: performer
+- name: Günther Höller
+  role: performer
+- name: George Egger
+  role: performer
+- name: Ursula Dütschler
+  role: harpsichord
+- name: James Galway
+  role: flute
+- name: Rainer Wolters
+  role: violin
+- name: Günther Hölle
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: Johanneskirche
+released: 1992
+original_label: null
+works:
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b210d5b8-5994-4fb7-a272-381dcbad0606
+  title: J.S. Bach Suite No. 2 / Concerto for Flute, Violin and Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 556a5295-5b20-4da7-a9d1-49833162cb73
+  recordings: [405998d8-f5a4-4858-89cb-ff458ee1ed53]

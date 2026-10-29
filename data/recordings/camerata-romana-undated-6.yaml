@@ -1,0 +1,53 @@
+id: camerata-romana-undated-6
+performers:
+- name: Camerata Romana
+  role: orchestra
+- name: Eugen Duvier
+  role: performer
+- name: Joseph Brezina
+  role: performer
+- name: Andreas Stadlmayer
+  role: violin
+- name: Thomas Karolski
+  role: conductor
+- name: F. Elias
+  role: performer
+- name: Günther Körner
+  role: performer
+- name: Richard Lester
+  role: performer
+- name: Gino Franchetti
+  role: performer
+- name: Ivan Cerkov
+  role: performer
+- name: Helmuth Flattermann
+  role: performer
+- name: Pierre Lavin
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c0b8a4a7-da63-4502-bc52-e660cd702bc6
+  title: Violin concertos E major, a minor, double concerto
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9b04359-c185-4b36-b4c5-944bb2944b29
+  recordings: [0beeb481-3e16-4736-ac1c-44023aa99951]

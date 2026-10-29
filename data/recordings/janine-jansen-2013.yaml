@@ -1,0 +1,27 @@
+id: janine-jansen-2013
+performers:
+- name: Janine Jansen
+  role: solo
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2013]
+  place: Andreaskirche
+released: 2013
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: false, movements: [II. Adagio, III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0b6fbb59-04eb-4553-b669-b1162078c2e7
+  title: Bach Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6c5f045e-7f1e-42b8-8cbc-d2fad7279513
+  recordings: [da21e563-59cb-4f36-9f6b-08596efe87a0]

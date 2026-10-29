@@ -1,0 +1,32 @@
+id: akademisches-orchester-basel-undated
+performers:
+- name: Akademisches Orchester Basel
+  role: orchestra
+- name: Polina Nikiforova
+  role: violin
+- name: Ulrich Dietsche
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6cc960a4-506a-4487-83c6-6e3af8e29449
+  title: Violin Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c73cb6b7-2d96-4713-965f-a58bd9274ecc
+  recordings: [8cd3290c-b110-41c5-bf16-405a3211f822]

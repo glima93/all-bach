@@ -1,0 +1,35 @@
+id: bath-festival-orchestra-undated-2
+performers:
+- name: Bath Festival Orchestra
+  role: orchestra
+- name: Yehudi Menuhin
+  role: violin
+- name: Christian Ferras
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1041', complete: false, movements: [I. Allegro]}
+- {bwv: '1042', complete: false, movements: [II. Adagio]}
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2ef2ddb2-e25b-4c9c-a774-5c22a4014253
+  title: 'Yehudi: The Art of Menuhin'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc6cebc8-6e51-464e-8589-6ae1c498f5d9
+  recordings: [707beb10-0e84-49b1-b454-e12e9cab7ea8]

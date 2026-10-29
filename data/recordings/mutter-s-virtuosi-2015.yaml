@@ -1,0 +1,36 @@
+id: mutter-s-virtuosi-2015
+performers:
+- name: Mutter’s Virtuosi
+  role: ensemble
+- name: Mahan Esfahani
+  role: harpsichord
+- name: Anne‐Sophie Mutter
+  role: violin
+- name: Nancy Zhou
+  role: violin
+- name: Noa Wildschut
+  role: performer
+- name: Ye-Eun Choi
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: Neue Heimat
+released: 2015
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bbed4c60-9323-4d45-af37-116f34c242d5
+  title: 'The Club Album: Live from Yellow Lounge'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2390dbe2-f2e1-4606-8431-1441c02e14bb
+  recordings: [9d5bf388-b360-4358-97aa-741f12b92600]

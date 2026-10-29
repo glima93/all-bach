@@ -1,0 +1,34 @@
+id: orchestra-filarmonica-italiana-undated-2
+performers:
+- name: Orchestra Filarmonica Italiana
+  role: orchestra
+- name: Cristiano Rossi
+  role: violin
+- name: Silvio Bresso
+  role: violin
+- name: Alessandro Arigoni
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8d92d9f8-7c07-4e1a-80f3-3a4d81059b0f
+  title: String Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3e44e35d-c044-453a-b5ae-905ce6aee61a
+  recordings: [aa620139-5349-4793-9ea6-255c210f7395]

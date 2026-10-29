@@ -1,0 +1,34 @@
+id: nationalmusei-kammarorkester-undated
+performers:
+- name: Nationalmusei Kammarorkester
+  role: orchestra
+- name: Okko Kamu
+  role: solo
+- name: Leif Segerstam
+  role: solo
+- name: Claude Génetay
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2fc27a8f-836d-48ed-998d-4b83f616da16
+  title: Your Favourite Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c90c8ce7-a446-4cb3-9b3a-3698f90f7acf
+  recordings: [238991c0-d0bb-499b-9d41-c445cd9021c8]

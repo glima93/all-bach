@@ -1,0 +1,30 @@
+id: i-barocchisti-2005
+performers:
+- name: I Barocchisti
+  role: orchestra
+- name: Diego Fasolis
+  role: conductor
+- name: Francesco Cera
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2005]
+  place: Auditorio Stelio Molo
+released: 2006
+original_label: null
+works:
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/54fb5e6f-4113-42f5-a002-bd3b53378522
+  title: Concerti per clavicembalo BWV 1052, 1054, 1044 e 1056
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 02ff3d27-4ba9-4ebf-bca5-9fb5c54c9b36
+  recordings: [361c8e3a-7967-45c7-a610-3f11176213e5]

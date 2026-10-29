@@ -1,0 +1,37 @@
+id: orchestre-de-chambre-paul-kuentz-undated
+performers:
+- name: Orchestre de Chambre Paul Kuentz
+  role: orchestra
+- name: Paul Kuentz
+  role: conductor
+- name: Monique Frasca-Colombier
+  role: performer
+- name: Liliane Garnier
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1961
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e440d0fe-2fcd-4445-9f3d-c5e8ed01ddde
+  title: Concertos pour violons
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 860b79be-1bd1-4882-855d-a73f21eb3ecb
+  recordings: [fc9ffc3a-aa6a-48bd-8068-e9ecfbfcd31a]

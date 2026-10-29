@@ -1,0 +1,45 @@
+id: kammerorchester-des-saarlandischen-rundfunks-1959
+performers:
+- name: Kammerorchester des Saarländischen Rundfunks
+  role: orchestra
+- name: Karl Ristenpart
+  role: conductor
+- name: Henryk Szeryng
+  role: violin
+- name: Kurt Cromm
+  role: performer
+- name: Georg Friedrich Hendel
+  role: performer
+- name: Silvia Kind
+  role: performer
+- name: Jean‐Pierre Rampal
+  role: performer
+- name: Lily Berger
+  role: performer
+- name: Fritz Neumeyer
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959, 1962, 1965]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1043', complete: false, movements: [III. Allegro]}
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/675c5042-0406-417b-9eab-f3610382bc07
+  title: Henryk Szeryng Plays Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 42da034d-8355-4237-885c-ac00656924aa
+  recordings: [914d8dbc-4b3a-468f-b953-e7aba905c221]

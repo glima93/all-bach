@@ -1,0 +1,31 @@
+id: arcangelo-2014
+performers:
+- name: Arcangelo
+  role: ensemble
+- name: Alina Ibragimova
+  role: violin
+- name: Jonathan Cohen
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Henry Wood Hall
+released: 2015
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/40fe71f3-8944-45bd-9ba2-4f65ed23abdd
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93f71f5a-9fad-48de-bd4a-25ffd625b3d6
+  recordings: [6e220351-d5b6-471c-a506-2da0420ff361]

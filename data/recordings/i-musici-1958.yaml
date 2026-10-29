@@ -1,0 +1,38 @@
+id: i-musici-1958
+performers:
+- name: I Musici
+  role: orchestra
+- name: Roberto Michelucci
+  role: solo
+- name: Felix Ayo
+  role: performer
+- name: Maria Teresa Garatti
+  role: performer
+- name: Severino Gazzelloni
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958, 1960]
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/037d722a-0491-4d03-a220-8c40509d040d
+  title: Brandenburgische Konzerte Nr. 1~6 / Die Violinkonzerte
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0febca2d-aeed-48fc-9d44-180f6346e4ab
+  recordings: [7bd96483-973f-4a83-817e-ae9acdd92e33]

@@ -1,0 +1,30 @@
+id: chamber-orchestra-of-europe-2013
+performers:
+- name: Chamber Orchestra of Europe
+  role: orchestra
+- name: Renaud Capuçon
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2013]
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ed9a4263-e718-42cc-9112-c451e21a4c4a
+  title: Distant Light
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3f221c60-2568-40f5-b1c3-625fed319258
+  recordings: [a307ee14-8f54-48f6-a480-8c28d3514e03]

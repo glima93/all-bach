@@ -1,0 +1,28 @@
+id: isaac-stern-undated
+performers:
+- name: Isaac Stern
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/87806744-b958-4d74-b85a-95d5c0d1628d
+  title: 'The Isaac Stern Collection: The Early Concerto Recordings, Volume I'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7d9be72b-ab36-4ce1-8a2c-05bf0f7eb0b4
+  recordings: [3eb0763a-1f07-49a8-883c-eeec8b6f72ef]

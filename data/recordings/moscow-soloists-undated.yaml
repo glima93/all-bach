@@ -1,0 +1,30 @@
+id: moscow-soloists-undated
+performers:
+- name: Moscow Soloists
+  role: orchestra
+- name: Владимир Теодорович Спиваков
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0ea6c0fc-b171-4588-9995-073a76f595fa
+  title: Favorite Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 12f86a8a-0bcc-4199-86d8-520eabd6b9eb
+  recordings: [984e5e13-e18f-454b-8ddb-fead67a07a2d]

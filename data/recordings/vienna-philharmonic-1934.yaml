@@ -1,0 +1,32 @@
+id: vienna-philharmonic-1934
+performers:
+- name: Vienna Philharmonic
+  role: orchestra
+- name: Bronislaw Huberman
+  role: violin
+- name: Issay Dobrowen
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1934]
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17c847ed-8078-4a8d-8828-2031b8598f3c
+  title: Bronislaw Huberman, Volume II
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d770374d-05e9-4ed3-a068-3fbd4e6e4dd6
+  recordings: [a702c3ff-fc2e-4675-a452-98d80adc7d68]

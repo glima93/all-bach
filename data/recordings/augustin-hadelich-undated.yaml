@@ -1,0 +1,31 @@
+id: augustin-hadelich-undated
+performers:
+- name: Augustin Hadelich
+  role: violin
+- name: Kuang-Hao Huang
+  role: piano
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4aef2564-bf9a-4dee-a3b1-bd8120990794
+  title: Suzuki Violin School Volume 4
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52be2ec6-338d-4175-a28f-b7cedf3ca1b9
+  recordings: [9995c346-a6a6-4043-b8ad-a0c352d839b4]

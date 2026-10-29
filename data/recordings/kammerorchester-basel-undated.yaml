@@ -1,0 +1,29 @@
+id: kammerorchester-basel-undated
+performers:
+- name: Kammerorchester Basel
+  role: orchestra
+- name: Julia Schröder
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Les Dominicains de Haute-Alsace
+released: 2021
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9cebd4b7-3b3c-467b-84c6-4803c58e7234
+  title: Arias
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 717795bb-cd5e-417f-b4c9-27181ad1e8a4
+  recordings: [51d9ac9e-06c0-4a02-92a4-d5d61dd673d5]

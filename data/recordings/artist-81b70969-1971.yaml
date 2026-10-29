@@ -1,0 +1,29 @@
+id: artist-81b70969-1971
+performers:
+- name: Большой симфонический оркестр имени П. И. Чайковского
+  role: orchestra
+- name: Леонид Борисович Коган
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1971]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6491246c-79eb-4d29-95ba-edb8059c6467
+  title: Violinkonzerte
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 81b70969-a9c0-4fcf-8461-24cf72901368
+  recordings: [797296d0-d9c5-495c-920d-64a86b9de94a]

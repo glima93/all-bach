@@ -1,0 +1,31 @@
+id: english-chamber-orchestra-1976
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Alexander Schneider
+  role: conductor
+- name: Isaac Stern
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: CBS Studios
+released: 1983
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a132dce-1058-4b18-a5be-f29ea8489ba5
+  title: 'A Life in Music, Volume 2: Violin Concertos / Double Concerto / Concerto for Violin & Oboe'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [23739973-d311-4d36-8b37-9f0605a95519]

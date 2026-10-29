@@ -1,0 +1,34 @@
+id: orchestre-d-auvergne-undated
+performers:
+- name: Orchestre d’Auvergne
+  role: orchestra
+- name: Camille Berthollet
+  role: performer
+- name: Julie Berthollet
+  role: violin
+- name: Roberto Forés Veses
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/25cc3bc1-fd0b-4176-b4cd-8af191c4f708
+  title: Camille Berthollet
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d87a86cb-6e57-45fa-abbc-b82259927b06
+  recordings: [306123f0-1387-41c5-9a67-fde3bc9ded4c]

@@ -1,0 +1,36 @@
+id: stuttgarter-kammerorchester-2022
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Arabella Steinbacher
+  role: violin
+- name: Benjamin Hudson
+  role: performer
+- name: Christoph Koncz
+  role: performer
+- name: Wolfgang Kussmaul
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2022]
+  place: Evangelische Peter-und-Paul-Kirche, Gönningen
+released: 2002
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4e094e43-a199-40b7-ad8d-0967f137c9ab
+  title: Bach & Pärt
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [6a652050-05b6-4c6e-b424-c45988a29dca]

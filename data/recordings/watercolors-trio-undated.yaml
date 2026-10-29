@@ -1,0 +1,29 @@
+id: watercolors-trio-undated
+performers:
+- name: Watercolors Trio
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e6b00ab8-c554-442a-b218-842376f903e9
+  title: Reflections
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 263a17e9-c378-4a3b-83c1-1feeca1603b0
+  recordings: [4e474469-54b0-4f1b-acaf-0df3942dae79]

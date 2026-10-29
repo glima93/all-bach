@@ -1,0 +1,32 @@
+id: camerata-bern-1993
+performers:
+- name: Camerata Bern
+  role: orchestra
+- name: Aurèle Nicolet
+  role: transverse flute
+- name: András Schiff
+  role: piano
+- name: 塩川悠子
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: Münsterlingen
+released: 1997
+original_label: null
+works:
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb9ebd19-ea5c-4f7d-b017-28ad207aa01c
+  title: Double & Triple Concertos BWV 1060-64
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b562bf23-c7db-4254-9435-4772b66d08cd
+  recordings: [0f3480a1-c07b-449a-996c-3c34240fabd2]

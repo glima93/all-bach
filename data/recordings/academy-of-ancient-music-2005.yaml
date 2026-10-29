@@ -1,0 +1,26 @@
+id: academy-of-ancient-music-2005
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2005]
+  place: Wigmore Hall
+released: 2006
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d2e1863b-2fa4-48de-adcc-7e53233c6fd5
+  title: Concerti and Concerti Grossi
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [0c9aa0cc-9df1-4f4d-a799-19e2cbe0484c]

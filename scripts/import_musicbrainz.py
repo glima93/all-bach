@@ -63,6 +63,11 @@ EXCLUDE_BY_SNAPSHOT = {
   "orchestral-suites": {
     "8580bc9d-bfdc-4e33-a087-acd8e8497e2c": "release is the keyboard Partitas (a Partita movement linked to the suites)",
   },
+  "violin-concertos": {
+    "c67b2daf-9898-4c5c-9657-25cdf01bda0f": "organ concerto album: an organ-solo cantata sinfonia linked to the Sinfonia BWV 1045, which has no organ part",
+    "218946ea-bf30-42ee-856a-01570345215e": "the Sinfonia of Cantata BWV 29, also linked to the Sinfonia BWV 1045",
+    "9ccf2167-f754-41d7-9c3d-2891b22e19c7": "credited to the NBC SO and Toscanini, but the credits name the Kölner Kammerorchester and Müller-Brühl (their recording is already in)",
+  },
 }
 EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 
@@ -104,21 +109,22 @@ PERIOD_INSTRUMENT = re.compile(r"baroque|natural (horn|trumpet)|corno da caccia|
 PERIOD_ENSEMBLE = re.compile(
     r"baroque|barock|barroc|baroc|antiqua|alte musik|ancient music|concentus musicus|leonhardt|collegium aureum|"
     r"petite bande|english concert|taverner|brandenburg consort|giardino armonico|concerto italiano|bach collegium|"
-    r"europa galante|age of enlightenment|tafelmusik|concert des nations|zimmermann|dunedin consort|concerto copenhagen|"
-    r"musiciens du louvre|zefiro|gardellino|b.rock|arcangelo|accademia bizantina|apollo.s fire|capriccio stravagante|"
+    r"europa galante|age of enlightenment|tafelmusik|concert des nations|caf. zimmermann|dunedin consort|concerto copenhagen|"
+    r"musiciens du louvre|zefiro|gardellino|b.rock|\barcangelo\b|accademia bizantina|apollo.s fire|capriccio stravagante|"
     r"freiburger|netherlands bach society|nederlandse bachvereniging|pratum integrum|la stravaganza|collegium musicum 90|"
     r"orchestra of the antipodes|australian brandenburg|concerto k.ln|kammerakademie|cantus c.lln|il pomo d.oro|"
     r"les arts florissants|le concert d.astr.e|ensemble 415|harmonie universelle|sonnerie|la serenissima|"
     r"academy of ancient|monteverdi|english baroque|holland baroque|il complesso barocco|modo antiquo|ensemble 1700|"
     r"incogniti|florilegium|freitagsakademie|hanover band|musica florea|simphonie du marais|ensemble caprice|"
     r"wiener akademie|eighteenth century|new london consort|linde consort|schola cantorum basiliensis|musica amphion|"
-    r"combattimento|harmony of nations|nova stravaganza|muses galantes|new dutch academy|magnifica comunit|"
+    r"combattimento|harmony of nations|nova stravaganza|muses galantes|new dutch academy|magnifica comm?unit|"
     r"dantone|beznosiuk|barok|ensemble masques|les surprises|il fondamento|concert fran.ais|insula orchestra|"
     r"early music|voices of music|tulipa consort|trillium consort|apollon ensemble|american bach soloists|"
-    r"ama deus|madeuf|blumenstock", re.I)
+    r"ama deus|madeuf|blumenstock|boulder bach festival|king.s consort|musica alta ripa|musica alchemica|harmonie des saisons|"
+    r"voce strumentale|capella academica wien|helicon ensemble", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
 MODERN_ENSEMBLE = re.compile(r"m.nchener bach|zurich baroque ensemble|^baroque chamber orchestra|"
-                             r"hamburg symphony baroque|festival baroque orchestra", re.I)
+                             r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra", re.I)
 # Credits or names that mean the music was arranged for other forces (jazz trio, brass band, synthesizer …).
 ARRANGED = re.compile(r"drum|saxophone|synthesi[sz]er|moog|electric|accordion|marimba|vibraphone|tuba|"
                       r"clarinet|banjo|mandolin|ukulele|harmonica|beatbox|bass guitar|guitar", re.I)
@@ -126,13 +132,21 @@ ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone)?\b|swingle|jazz|loussi
                             r"loeki|seldom sene|baby einstein|babies|sweet little band|pink mice|\bthe nice\b|"
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
-                            r"early learning centre", re.I)
+                            r"early learning centre|malmsteen", re.I)
 # In orchestral works only: names of groups that are not orchestras, so play the music arranged.
 ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
-                                  r"trumpet ensemble|brass", re.I)
+                                  r"trumpet ensemble|brass|\btrio\b", re.I)
+# In ensemble works with a scoring: solo wind and other obbligato instruments credited that the work is not
+# written for mean an arrangement (a flute and an oboe in the double violin concerto, a violoncello piccolo
+# for the second violin, a piccolo trumpet in a violin concerto), checked against the scoring of the works the
+# recording plays when it plays only one. Continuo, string-section and recorder credits (often from other tracks of the album) are not checked.
+OBBLIGATO = re.compile(r"flute|traverso|oboe|trumpet|horn|clarinet|violoncello piccolo|gamba", re.I)
+# Performer names that are groups even when MusicBrainz gives no artist type.
+SCORINGS: dict[str, str] = {}  # scoring of each work, set in main()
+GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|soloists|sinfonia", re.I)
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
-                               r"\bspa\b|for sleep|relaxation|meditation", re.I)
+                               r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki", re.I)
 
 
 class Flow(list):
@@ -250,8 +264,13 @@ def ensemble_of(perf: dict, scoring: str = "") -> tuple[str, str, bool, list[str
     ins = [i.lower() for i in perf["ins"]]
     names = " ".join(perf["names"])
     group = (any(t in GROUP_TYPES for t in perf["types"]) or roles & {"conductor", "orchestra"}
-             or len(perf["names"]) >= 3 or len(set(ins)) >= 3)
+             or len(perf["names"]) >= 3 or len(set(ins)) >= 3 or bool(GROUP_NAME.search(names)))
     arranged = [i for i in perf["ins"] if ARRANGED.search(i)]
+    if scoring and group:
+        played = {m.split(":")[0] for m in perf["mv"]}
+        if len(played) == 1:  # with several works, the album's credits may belong to the other one
+            own = SCORINGS.get(next(iter(played)), "")
+            arranged += [i for i in perf["ins"] if OBBLIGATO.search(i) and not in_scoring(i, own)]
     release = " ".join(r["title"] for r in perf["releases"])
     if (arranged or ARRANGED_NAMES.search(names) or "Choir" in perf["types"] or ARRANGED_RELEASES.search(release)
             or (scoring and ARRANGED_GROUP_NAMES.search(perf["names"][0]))):
@@ -473,6 +492,8 @@ def main(snapshot: str) -> int:
     # Scoring of the works, for telling soloists from transcriptions in orchestral works. Snapshots from the
     # browser collector (no "mode" key) keep their original rules, so re-importing them changes nothing.
     scorings = {w["bwv"]: w.get("scoring") or "" for _, w in load("works")}
+    SCORINGS.clear()
+    SCORINGS.update(scorings)
     scoring = " ".join(scorings.get(b, "") for b in bwvs) if data.get("mode") == "ensemble" else None
     moves = movement_names()
     missing = [b for b in bwvs if b not in moves]

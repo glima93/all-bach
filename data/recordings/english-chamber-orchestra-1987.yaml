@@ -1,0 +1,32 @@
+id: english-chamber-orchestra-1987
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Dimitry Sitkovetsky
+  role: performer
+- name: José‐Luis García
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1987]
+  place: Henry Wood Hall
+released: 1987
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5876ca93-6746-4ba0-becb-db7f7b80ca1e
+  title: Violinkonzerte
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [b604d82a-1e88-4a4e-bc23-0e265b6d29b0]

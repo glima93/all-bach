@@ -1,0 +1,16 @@
+bwv: "1043"
+title: "Concerto for Two Violins in D minor"
+key: "D minor"
+collection: "Violin Concertos"
+genre: orchestral
+scoring: "2 violins, strings and continuo"
+composed: "Probably earlier in origin; the oldest surviving parts were copied in Leipzig around 1730–31"
+movements:
+  - "I. Vivace"
+  - "II. Largo ma non tanto"
+  - "III. Allegro"
+notes: "The two soloists are treated as equals, trading and imitating each other's lines throughout. Bach later arranged it as the Concerto for Two Harpsichords in C minor, BWV 1062."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Concerto_for_Two_Violins_(Bach)
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/fe8612d1-8610-3fba-ba56-2ee110b6eedb

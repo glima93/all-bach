@@ -1,0 +1,14 @@
+bwv: "1045"
+title: "Sinfonia in D major"
+key: "D major"
+collection: "Violin Concertos"
+genre: orchestral
+scoring: "Violin, 3 trumpets, timpani, 2 oboes, strings and continuo"
+composed: "Leipzig, around 1743–46; the autograph score breaks off as a fragment"
+movements:
+  - "Sinfonia in D major"
+notes: "A fragment: the opening sinfonia of a lost church cantata, with an elaborate solo violin part. Only this movement survives."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Sinfonia_in_D_major,_BWV_1045
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/64dc7ae1-0a11-4610-9fff-46a4b05c72ca

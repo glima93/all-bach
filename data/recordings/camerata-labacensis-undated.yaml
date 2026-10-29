@@ -1,0 +1,38 @@
+id: camerata-labacensis-undated
+performers:
+- name: Camerata Labacensis
+  role: orchestra
+- name: Joseph Brezina
+  role: violin
+- name: Eugen Duvier
+  role: conductor
+- name: Feliz Elias
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2ad3e322-eaf6-43e1-a7fa-c43e2c2d409c
+  title: El Barroco Johann Sebastian Bach (Conciertos Para Violín Y Para Dos Violines BWV 1041-1043 / Concerto Italiano
+    BWV 971)
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24a31710-48fb-4cc6-a72f-3fdf6f2c7cc8
+  recordings: [56773844-bf4d-48fd-8672-5cd056a996e1]

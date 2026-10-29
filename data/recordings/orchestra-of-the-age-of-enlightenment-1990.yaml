@@ -1,0 +1,32 @@
+id: orchestra-of-the-age-of-enlightenment-1990
+performers:
+- name: Orchestra of the Age of Enlightenment
+  role: orchestra
+- name: Elizabeth Wallfisch
+  role: violin
+- name: Alison Bury
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990, 1991]
+  place: St Michael’s Church
+released: 1999
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3457bc96-e3b4-404c-8f70-69ee1c610105
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 16402041-4d4c-431a-94c6-b2c7f820d031
+  recordings: [7d255ab6-7566-4600-8383-79be6e7b1075]

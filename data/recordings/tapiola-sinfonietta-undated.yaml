@@ -1,0 +1,34 @@
+id: tapiola-sinfonietta-undated
+performers:
+- name: Tapiola Sinfonietta
+  role: orchestra
+- name: Jaakko Kuusisto
+  role: violin
+- name: Pekka Kuusisto
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f74bb5a-a432-452d-b6c4-6fd918017569
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ce2acb80-9a52-40a3-9b8a-5171de3e2fed
+  recordings: [600e8348-27ca-498f-853c-c1a67e926d9c]

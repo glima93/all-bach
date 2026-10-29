@@ -1,0 +1,34 @@
+id: deutsches-kammerorchester-berlin-2012
+performers:
+- name: Deutsches Kammerorchester Berlin
+  role: orchestra
+- name: Daniel Hope
+  role: violin
+- name: Albrecht Mayer
+  role: oboe
+- name: Reinhard Kammler
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2012]
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d2d428a7-09e0-46e3-909e-087d9047d2d6
+  title: Konzerte und Transkriptionen
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With oboe.
+musicbrainz:
+  artist: 6602cece-c42f-4101-8a52-25c286941cca
+  recordings: [f2f16bd2-9743-4a70-bbad-44bf21c41d81]

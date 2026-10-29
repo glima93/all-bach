@@ -1,0 +1,32 @@
+id: goteborgs-symfoniker-undated
+performers:
+- name: Göteborgs Symfoniker
+  role: orchestra
+- name: Alison Balsom
+  role: piccolo trumpet
+- name: Edward Gardner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Göteborgs konserthus
+released: 2006
+original_label: null
+works:
+- {bwv: '1041', complete: false, movements: [II. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4fb86523-f04b-455e-bf46-37f82257bc04
+  title: Caprice
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With piccolo trumpet.
+musicbrainz:
+  artist: 4b3f7f35-12a4-4fca-bf23-81b10e860c78
+  recordings: [709bb163-6165-4299-b3e8-96e92c43ca87]

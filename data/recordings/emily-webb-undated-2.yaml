@@ -1,0 +1,29 @@
+id: emily-webb-undated-2
+performers:
+- name: Emily Webb
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '1041', complete: false, movements: [I. Allegro, III. Allegro assai]}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d113f55-4ba6-4de5-8536-1abea2281e6d
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2302385c-65e9-48bc-be39-88fa1a0504e5
+  recordings: [451f7318-bb7a-4fc9-9430-80a2f008ff6e]

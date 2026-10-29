@@ -1,0 +1,38 @@
+id: berliner-philharmoniker-undated-2
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Christian Ferras
+  role: violin
+- name: Herbert von Karajan
+  role: conductor
+- name: Franz Aaron Kiendrich
+  role: performer
+- name: Nigel Kennedy
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/79810f29-09eb-4cfe-92b4-74677738777b
+  title: Concertos pour Violon BWV 1041 & 1042
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [5785ba73-bd18-4ba0-b32e-27a4a6466b1e]

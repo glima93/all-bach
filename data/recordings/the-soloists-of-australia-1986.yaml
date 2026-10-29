@@ -1,0 +1,28 @@
+id: the-soloists-of-australia-1986
+performers:
+- name: The Soloists of Australia
+  role: orchestra
+- name: Ronald Thomas
+  role: solo
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986]
+  place: Perth Concert Hall
+released: 1987
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9ce95367-d117-4830-9b3f-65c2f8f69936
+  title: The Soloists of Australia in Concert, Volume II
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ade6d36f-3455-414f-a03b-e1ed7a6db2d9
+  recordings: [256e44a5-96bf-405a-89e5-5b00749d20bd]

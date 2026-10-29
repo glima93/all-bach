@@ -1,0 +1,36 @@
+id: sudwestdeutsches-kammerorchester-undated
+performers:
+- name: Südwestdeutsches Kammerorchester
+  role: orchestra
+- name: Friedrich Tilegant
+  role: conductor
+- name: Reinhold Barchet
+  role: performer
+- name: Guido Van Der Mueren
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1981
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f721fcb-b82b-4784-bd73-4d89788f4f5d
+  title: Concerti per violino e orchestra nn. 1-2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7728bbd6-1fd8-4027-9203-1e480fb56dbe
+  recordings: [3ac1e113-a88c-4551-b364-38b6edb03066]

@@ -1,0 +1,36 @@
+id: russia-mozarteum-orchestra-undated
+performers:
+- name: Russia Mozarteum Orchestra
+  role: orchestra
+- name: Alexander Schulrufer
+  role: violin
+- name: Arkady Steinlucht
+  role: performer
+- name: Viktor Sidorenko
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: false, movements: [I. Vivace, III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44fe791d-598c-47aa-8b11-f782ab7a8715
+  title: Baroque Violin Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a4342d5-e30c-452e-aef8-3076e58d4e18
+  recordings: [835d7735-588a-4225-8a7e-192459088cee]

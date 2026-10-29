@@ -1,0 +1,31 @@
+id: new-york-philharmonic-1966
+performers:
+- name: New York Philharmonic
+  role: orchestra
+- name: Isaac Stern
+  role: violin
+- name: Leonard Bernstein
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966]
+  place: David Geffen Hall
+released: 1998
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/327ed656-969d-4f4c-a358-adcf451f135c
+  title: 'Bernstein Century: Bach: Piano Concerto BWV1052 / Violin Concerto BWV1042 / Concerto for Oboe and Violin
+    BWV1060 / Vivaldi: Piccolo Concerto'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7cdb68bc-c4f1-4a92-9bd2-739641c5eff0
+  recordings: [eb5077fe-486c-4b55-94e4-9d18c5d9f7c3]

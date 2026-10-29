@@ -1,0 +1,32 @@
+id: new-york-philharmonic-1980
+performers:
+- name: New York Philharmonic
+  role: orchestra
+- name: Itzhak Perlman
+  role: violin
+- name: Isaac Stern
+  role: violin
+- name: Zubin Mehta
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980]
+  place: David Geffen Hall
+released: 1981
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/96e4e614-67f9-4250-bd83-230d39b26775
+  title: Isaac Stern 60th Anniversary Celebration
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 7cdb68bc-c4f1-4a92-9bd2-739641c5eff0
+  recordings: [dd3413c2-56d5-47ca-894f-265db99af8b2]

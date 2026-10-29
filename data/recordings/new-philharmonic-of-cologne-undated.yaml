@@ -1,0 +1,31 @@
+id: new-philharmonic-of-cologne-undated
+performers:
+- name: New Philharmonic of Cologne
+  role: orchestra
+- name: Volker Hartung
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd03272c-1f73-468d-847c-21dc39c7b77e
+  title: 'Vivaldi: Sinfonia no. 1 / Concerto for Flute / Concerto for Cello / Bach: Concerto no. 1 for Violin /
+    Mozart Concerto no. 2 for Hornn'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9366e3b3-99dc-48a3-930c-1190ef15f5c8
+  recordings: [c7761e4e-fbff-4869-b03e-5f563d1782bd]

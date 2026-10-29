@@ -1,0 +1,32 @@
+id: orchestre-de-chambre-jean-francois-paillard-undated-3
+performers:
+- name: Orchestre de chambre Jean‐François Paillard
+  role: orchestra
+- name: Pierre Amoyal
+  role: violin
+- name: Gérard Jarry
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Eglise Notre-Dame des Roses
+released: 1999
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3604e6a5-7391-4d83-a596-a3692a123262
+  title: Concertos
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 736d2231-9b64-4f71-b3aa-f5936eb55938
+  recordings: [85bc4557-b9d5-40c2-ba33-73dfced1e0da]

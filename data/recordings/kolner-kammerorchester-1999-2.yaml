@@ -1,0 +1,34 @@
+id: kolner-kammerorchester-1999-2
+performers:
+- name: Kölner Kammerorchester
+  role: orchestra
+- name: Helmut Müller‐Brühl
+  role: conductor
+- name: Karl Kaiser
+  role: flute
+- name: Christine Pichlmeier
+  role: violin
+- name: Robert Hill
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Deutschlandradio Studios
+released: 1999
+original_label: null
+works:
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/042a26dc-f4b3-407e-b82a-5fa7907dc475
+  title: Complete Orchestral Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b93816c3-b729-439c-95f3-d9976e0620cc
+  recordings: [2919e0fd-8e24-45a7-83e9-f1048e1a1fa5]

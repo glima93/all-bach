@@ -1,0 +1,28 @@
+id: prague-philharmonia-2007
+performers:
+- name: Prague Philharmonia
+  role: orchestra
+- name: Pavel Šporcl
+  role: solo
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: Studio Domovina
+released: 2007
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7bcecf39-6c20-40d2-8e36-f65862655b20
+  title: 'Vivaldi: Four Seasons / Bach: Concerto for Two Violins and Strings in D minor'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ee5f17c2-2067-4c2d-b2f5-14719d889014
+  recordings: [6b39283c-014f-4a60-bb0b-e83cb5edc1a5]

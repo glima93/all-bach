@@ -1,0 +1,32 @@
+id: english-chamber-orchestra-1964
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Arthur Grumiaux
+  role: violin
+- name: Raymond Leppard
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1964]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef1abd77-ef51-4aab-a807-58b4a79dcf81
+  title: Orchestral Suite no. 2 / The Violin Concertos / Triple Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [244c6783-a62c-4322-ab74-4c98ce9ce9c3]

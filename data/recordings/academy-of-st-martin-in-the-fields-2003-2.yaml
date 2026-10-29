@@ -1,0 +1,28 @@
+id: academy-of-st-martin-in-the-fields-2003-2
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Murray Perahia
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2003]
+  place: AIR Studios
+released: 2003
+original_label: null
+works:
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6d6783d7-9a2d-45b0-981e-992b60874d5c
+  title: Murray Perahia Plays Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [cfd56961-99bc-47f6-8414-0d8315544559]

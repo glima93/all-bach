@@ -1,0 +1,29 @@
+id: academia-della-magnifica-communita-undated
+performers:
+- name: Academia Della Magnifica Communita
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0ebbb77-a14b-4c85-92d8-7f59b89ab7d1
+  title: 'Baby Bunny Classics: Nursing Baby'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 037098b8-31f7-40ca-8c27-0ffdebae5e69
+  recordings: [9a6918f8-c40c-494e-a494-40400213e9cf]

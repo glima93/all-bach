@@ -1,0 +1,31 @@
+id: moscow-philharmonic-orchestra-1962
+performers:
+- name: Moscow Philharmonic Orchestra
+  role: orchestra
+- name: Leonid Kogan
+  role: performer
+- name: Kirill Kondrashin
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac745438-b5f4-4a90-8709-b7f344f97928
+  title: Concerto for Violin and Orchestra
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: e9ef5ad9-1f2a-4c1b-984f-15b81f52fed3
+  recordings: [684edd17-8371-4af7-bc57-f67caa8c7d71]

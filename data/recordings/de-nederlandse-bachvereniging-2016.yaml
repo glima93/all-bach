@@ -1,0 +1,31 @@
+id: de-nederlandse-bachvereniging-2016
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Shunske Sato
+  role: performer
+- name: Emily Deans
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016, 2017]
+  place: Muziekgebouw aan ’t IJ
+released: null
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+- {bwv: '1045', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/28075a37-3548-4ff2-b0c1-778c526983d9
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [28075a37-3548-4ff2-b0c1-778c526983d9]

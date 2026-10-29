@@ -1,0 +1,35 @@
+id: philomusica-of-london-undated
+performers:
+- name: Philomusica of London
+  role: orchestra
+- name: Granville Jones
+  role: violin
+- name: Carl Pini
+  role: violin
+- name: Thurston Dart
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6a631a5d-2f63-4459-93da-2aabcab4dcdd
+  title: Music for Relaxation, Volume 2 - The Romantic Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e36486b6-2dc8-406c-bed2-4e5081b4ddf6
+  recordings: [372e0445-b2be-46a7-83c7-6cc1305ce676]

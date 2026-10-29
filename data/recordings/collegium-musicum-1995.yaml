@@ -1,0 +1,30 @@
+id: collegium-musicum-1995
+performers:
+- name: Collegium Musicum 90
+  role: orchestra
+- name: Simon Standage
+  role: violin
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: St Jude‐on‐the‐Hill
+released: 2005
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7777d047-954a-4b18-9df7-27df238d598f
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b7e3695e-85d9-479e-91c5-03d3cda1fd7d
+  recordings: [ddc1cf25-3de9-4202-9097-c2b2cbeaf65e]

@@ -1,0 +1,32 @@
+id: new-symphony-orchestra-of-london-1961
+performers:
+- name: New Symphony Orchestra of London
+  role: orchestra
+- name: Erick Friedman
+  role: violin
+- name: Jascha Heifetz
+  role: violin
+- name: Sir Malcolm Sargent
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: Walthamstow Assembly Hall
+released: 1994
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9beb822b-9cd7-4d93-86a0-83432716993b
+  title: 'The Heifetz Collection, Volumes 11-15: The Concerto Collection'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e86d4e2-91be-4f63-8369-e13610fb7d7f
+  recordings: [a118233c-b4a7-4a34-9b16-ddbf52fd08ad]

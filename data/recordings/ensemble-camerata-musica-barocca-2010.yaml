@@ -1,0 +1,31 @@
+id: ensemble-camerata-musica-barocca-2010
+performers:
+- name: Ensemble Camerata Musica Barocca
+  role: ensemble
+- name: Maria Solozobova
+  role: solo
+- name: Robert Zimansky
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2010]
+  place: Kirche St. Peter
+released: 2011
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b560673-6b27-4bc1-91e6-07570eda092a
+  title: Musikalische Perlen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 7dccefdd-c924-4c69-bfc2-8d915b260932
+  recordings: [f5999896-361a-4c4a-af25-27dfecf21964]

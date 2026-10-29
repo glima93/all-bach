@@ -1,0 +1,30 @@
+id: ortf-1961
+performers:
+- name: ORTF
+  role: orchestra
+- name: Nathan Milstein
+  role: violin
+- name: Antal Doráti
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: Montreux Casino
+released: 2005
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/143f4fef-1d2e-42b3-9ade-044042f69279
+  title: The Art of Nathan Milstein
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 5dba6ba9-b79c-4a1e-927e-3862589c112b
+  recordings: [577b0a08-5d3c-4ac0-ac56-3d4f86710e64]

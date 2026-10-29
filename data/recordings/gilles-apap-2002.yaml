@@ -1,0 +1,26 @@
+id: gilles-apap-2002
+performers:
+- name: Gilles Apap
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002]
+  place: 'Polskie Radio: Studio Koncertowe PR im. Witolda Lutosławskiego'
+released: 2003
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d223b6b8-ba4c-443f-8aea-07aaa01f3906
+  title: Music for Violin and Orchestra
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bfe3b5ca-27f3-4166-b0bc-74b79dd2aa19
+  recordings: [bdb3d7ed-78d8-4eee-9f84-09eed16673b2]

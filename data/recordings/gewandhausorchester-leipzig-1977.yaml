@@ -1,0 +1,34 @@
+id: gewandhausorchester-leipzig-1977
+performers:
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Walter Heinz Bernstein
+  role: harpsichord
+- name: Giorgio Kröhner
+  role: violin
+- name: Karl Suske
+  role: violin
+- name: Kurt Masur
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977, 1978]
+  place: Paul-Gerhardt-Kirche
+released: 2014
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5582b212-aea7-4355-8c4c-531ed438e5fc
+  title: Complete Edition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [a3d53c43-c9d9-4c8c-9df7-ec3027d335da]

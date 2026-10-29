@@ -1,0 +1,38 @@
+id: cologne-chamber-orchestra-undated
+performers:
+- name: Cologne Chamber Orchestra
+  role: orchestra
+- name: Helmut Müller‐Brühl
+  role: conductor
+- name: Kolja Blacher
+  role: violin
+- name: Christine Pichlmeier
+  role: performer
+- name: Lisa Stewart
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b14b2ae0-89f6-46f4-89bf-08809eb93c60
+  title: 'Complete Orchestral Works 2: Violin Concertos'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b93816c3-b729-439c-95f3-d9976e0620cc
+  recordings: [623c8462-aa76-4a35-a3dc-e05b3309c82e]

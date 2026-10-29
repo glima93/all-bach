@@ -1,0 +1,29 @@
+id: deborah-nemtanu-undated
+performers:
+- name: Deborah Nemtanu
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/49faa7ba-e40f-475f-bb00-a5d30e216a2e
+  title: Bach / Schnittke
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 03370958-a88f-4ce1-bfb8-3ea97dff1261
+  recordings: [1f21dcfc-91bb-45fa-80aa-d37523cd9a17]

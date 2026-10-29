@@ -1,0 +1,32 @@
+id: capella-academica-wien-1971
+performers:
+- name: Capella Academica Wien
+  role: orchestra
+- name: Eduard Melkus
+  role: conductor
+- name: Spiros Rantos
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1971]
+  place: Casino Zögernitz
+released: 1971
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e6e89bb-3896-4cc6-8e8d-9316160c8394
+  title: Violinkonzerte, BWV 1041-1043
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 73945990-fc30-4bc7-b2d9-4daa14054ec1
+  recordings: [2042737e-8141-4473-b27f-e282d60ab127]

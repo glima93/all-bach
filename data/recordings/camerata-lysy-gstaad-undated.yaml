@@ -1,0 +1,32 @@
+id: camerata-lysy-gstaad-undated
+performers:
+- name: Camerata Lysy Gstaad
+  role: orchestra
+- name: Yehudi Menuhin
+  role: violin
+- name: Alberto Lysy
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50ab252c-1dd4-41a7-8350-c2788302ad60
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d62377ed-0f06-4827-beae-daaf9965f1c3
+  recordings: [c75a9a4e-579c-4cb9-95f6-f3148bb87aa7]
