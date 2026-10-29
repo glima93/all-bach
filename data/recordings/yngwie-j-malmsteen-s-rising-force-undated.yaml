@@ -1,0 +1,29 @@
+id: yngwie-j-malmsteen-s-rising-force-undated
+performers:
+- name: Yngwie J. Malmsteen’s Rising Force
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1041', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e6763bdb-a471-460d-9349-95d0b87c5ce2
+  title: Unleash the Fury
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a584ee41-24f3-4709-b141-c0b6115b9d6e
+  recordings: [2c718186-d7a1-4a22-a0b3-93c6f6906641]

@@ -1,0 +1,16 @@
+bwv: "1041"
+title: "Violin Concerto in A minor"
+key: "A minor"
+collection: "Violin Concertos"
+genre: orchestral
+scoring: "Violin, strings and continuo"
+composed: "Probably earlier in origin; the oldest surviving source is a set of parts copied in Leipzig around 1730"
+movements:
+  - "I. Allegro"
+  - "II. Andante"
+  - "III. Allegro assai"
+notes: "One of only two solo violin concertos by Bach to survive in their original form. Bach later arranged it as the Harpsichord Concerto in G minor, BWV 1058."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Violin_Concerto_in_A_minor_(Bach)
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/5543ddeb-d430-4d04-9dd3-5217cff3fc89

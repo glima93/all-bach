@@ -1,0 +1,29 @@
+id: sonnerie-2005
+performers:
+- name: Sonnerie
+  role: ensemble
+- name: Monica Huggett
+  role: solo
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2005]
+  place: St. Silas the Martyr
+released: 2006
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d50f850f-e2b3-4b90-a87d-8bc98f6f2a96
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 11554576-309b-45a5-b055-22d68fb4de65
+  recordings: [10808d6f-58ec-4947-9afe-65d239582183]

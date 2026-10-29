@@ -1,0 +1,31 @@
+id: l-harmonie-des-saisons-2021
+performers:
+- name: L’Harmonie des Saisons
+  role: orchestra
+- name: Julia Wedman
+  role: solo
+- name: Jessy Dubé
+  role: violin
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Église Saint-Augustin
+released: 2022
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9ba5cb5d-5548-4604-baf8-2fed79a80a6e
+  title: Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 054b3fa7-9cd9-409c-8c30-c11dcad9b1ee
+  recordings: [e9b65431-65c0-4e1d-8529-9b342dddfa10]

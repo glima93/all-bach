@@ -1,0 +1,28 @@
+id: berlin-pro-musica-chamber-orchestra-undated-2
+performers:
+- name: Berlin Pro Musica Chamber Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aba41388-b569-4134-982c-0a23b582dbb4
+  title: The Best of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0fe3ba26-d257-4e14-b89c-13cb99dab0bb
+  recordings: [9664747c-e126-4ec3-bb8d-9d26f165f999]

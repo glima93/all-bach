@@ -1,0 +1,30 @@
+id: new-friends-of-music-orchestra-1940
+performers:
+- name: New Friends of Music Orchestra
+  role: orchestra
+- name: Yehudi Menuhin
+  role: violin
+- name: Georg Schnéevoigt
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1940]
+  place: Carnegie Hall
+released: 2016
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0bd0d893-18db-45a3-a8ad-b26b11205c0a
+  title: The Menuhin Century
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 07548aaa-867d-43fb-bf04-0c52e9554839
+  recordings: [89eee0bc-0032-4190-ab01-374d97021280]

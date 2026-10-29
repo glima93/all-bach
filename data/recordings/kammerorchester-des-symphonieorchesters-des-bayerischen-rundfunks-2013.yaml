@@ -1,0 +1,30 @@
+id: kammerorchester-des-symphonieorchesters-des-bayerischen-rundfunks-2013
+performers:
+- name: Kammerorchester des Symphonieorchesters des Bayerischen Rundfunks
+  role: orchestra
+- name: Lisa Batiashvili
+  role: violin
+- name: Radoslaw Szulc
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2013]
+  place: August Everding Saal
+released: 2014
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d3c6edf-de15-40ee-b90b-a422953c3d5c
+  title: Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 68bec9ce-cf65-438a-940a-01a79f74942b
+  recordings: [b3459b83-8449-45f0-a975-ac571c6026d6]

@@ -1,0 +1,33 @@
+id: neubrandenburg-philharmonic-2025-2
+performers:
+- name: Neubrandenburg Philharmonic
+  role: orchestra
+- name: Elsa Claveria
+  role: performer
+- name: Daniel Geiss
+  role: performer
+- name: Friederike Jahn
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2025]
+  place: Konzertkirche Neubrandenburg
+released: 2026
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c9532006-08d3-4714-a7ae-de1b348f14b1
+  title: The Bach Project - Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 72577f2a-5548-48c6-afd7-0888595635c3
+  recordings: [bdcc68be-64ef-4c41-ae3f-287f3b131bd6]

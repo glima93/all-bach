@@ -1,0 +1,26 @@
+id: i-solisti-italiani-1988-2
+performers:
+- name: I Solisti Italiani
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: Villa Contarini
+released: 1989
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1a7968b-a41e-478f-8358-f80c165b7b53
+  title: Celebrated Baroque Pieces
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aa31bfcd-cba5-4b0d-8913-ea036b9b1442
+  recordings: [3ddc9f4e-bce6-4dbb-afe5-90ec9f251352]

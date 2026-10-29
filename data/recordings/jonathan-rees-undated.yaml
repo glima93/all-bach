@@ -1,0 +1,28 @@
+id: jonathan-rees-undated
+performers:
+- name: Jonathan Rees
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c5166194-6b77-406a-892a-8407f1583f4d
+  title: 100 Best Adagios
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9472d50c-b4eb-4747-bc85-8c1a0b5907b2
+  recordings: [b0167264-2856-4dd9-bbd7-297251d1a2df]

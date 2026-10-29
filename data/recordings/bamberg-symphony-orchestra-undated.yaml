@@ -1,0 +1,35 @@
+id: bamberg-symphony-orchestra-undated
+performers:
+- name: Bamberg Symphony Orchestra
+  role: orchestra
+- name: Otto Büchner
+  role: violin
+- name: Hanspeter Gmür
+  role: performer
+- name: Hanspeter Gmür
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e3793e7-722d-4f89-a38e-d828d4f498af
+  title: 'Golden Classics: The Best of Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 022371c0-e34a-4ce8-aaaf-1cca4f9082e0
+  recordings: [a1417b79-ede6-4a92-9d1f-36320af1d9af]

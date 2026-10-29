@@ -1,0 +1,31 @@
+id: nathan-milstein-undated-2
+performers:
+- name: Nathan Milstein
+  role: violin
+- name: Harry Blech
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c4de0cbd-3ed8-4e45-867f-4aa1f51bb747
+  title: Concerti
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0a428818-2623-406e-8453-600dce442e78
+  recordings: [aa19f065-8d89-4221-b91a-6a056a68d847]

@@ -1,0 +1,33 @@
+id: philharmonia-orchestra-1953
+performers:
+- name: Philharmonia Orchestra
+  role: orchestra
+- name: Yehudi Menuhin
+  role: violin
+- name: Gioconda de Vito
+  role: violin
+- name: Anthony Bernard
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1953]
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fbafc0b7-2c93-409b-92fe-a4ab3187fc03
+  title: The Violinist
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [b4b54f23-bec5-400a-adcd-40edeff4955e]

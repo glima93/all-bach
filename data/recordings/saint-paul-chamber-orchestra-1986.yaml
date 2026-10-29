@@ -1,0 +1,39 @@
+id: saint-paul-chamber-orchestra-1986
+performers:
+- name: Saint Paul Chamber Orchestra
+  role: orchestra
+- name: Pinchas Zukerman
+  role: conductor
+- name: Midori
+  role: violin
+- name: Isaac Stern
+  role: performer
+- name: Ruggero Allifranchini
+  role: performer
+- name: Joshua Bell
+  role: performer
+- name: Bettine Clemen
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986]
+  place: Ordway Music Theater
+released: 1982
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/937aaba5-1457-4a4c-b7f3-ba57119c8a8e
+  title: Violin Concerti
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d6653a8f-90c4-49a1-ae66-0b2e180e3bb5
+  recordings: [ae664f24-1169-44cd-b0e9-f7bc1e6bfe33]

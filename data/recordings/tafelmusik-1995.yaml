@@ -1,0 +1,32 @@
+id: tafelmusik-1995
+performers:
+- name: Tafelmusik
+  role: orchestra
+- name: Jeanne Lamon
+  role: conductor
+- name: Linda Melsted
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: CBC Glenn Gould Studio
+released: 1999
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e983ae0f-d5d3-424d-a795-a567a0eef055
+  title: A Portrait of Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0ca59def-f1bc-4e74-b17e-45276faa12f0
+  recordings: [78da5bf5-aad3-4ce6-b07d-abec238393dc]

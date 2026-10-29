@@ -1,0 +1,35 @@
+id: musici-di-san-marco-undated-3
+performers:
+- name: Musici di San Marco
+  role: orchestra
+- name: Francesco Macci
+  role: conductor
+- name: Alberto Tozzi
+  role: violin
+- name: Thomaso Vecchi
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7eae6d7f-b406-4ba2-bce7-022283d6926e
+  title: Brandenburg Concertos / Italian Concerto / Violin Concerto
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 854b4a7a-336f-4401-a8a2-112e6f653f22
+  recordings: [635ffe51-105f-4d01-96ea-3a065278513e]

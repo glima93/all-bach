@@ -1,0 +1,33 @@
+id: orchestre-de-chambre-de-bade-undated
+performers:
+- name: Orchestre de chambre de Bade
+  role: orchestra
+- name: Manoug Parikian
+  role: violin
+- name: Alexander Krannhals
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1960
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/10d23eb2-7818-44ed-b0c6-37e868b5ec37
+  title: Concertos de Violon N°1 en la Mineur & N°2 en Mi Majeur
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 280b58df-b7e8-4f05-a850-640a8d31136e
+  recordings: [bf64bd17-ddf2-46c9-bdab-87541a619f5e]

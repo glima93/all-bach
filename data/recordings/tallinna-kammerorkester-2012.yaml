@@ -1,0 +1,32 @@
+id: tallinna-kammerorkester-2012
+performers:
+- name: Tallinna Kammerorkester
+  role: orchestra
+- name: Mikk Murdvee
+  role: conductor
+- name: Katariina Maria Kits
+  role: solo
+- name: Maria Tiimus
+  role: solo
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: Mustpeade maja Valge saal
+released: null
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto, III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/97dc8570-3464-4f0a-ba6c-3f47a788a45d
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: f48191a0-9c23-4fb1-8ac3-d1d0722b6a0e
+  recordings: [97dc8570-3464-4f0a-ba6c-3f47a788a45d]

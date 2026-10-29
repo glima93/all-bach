@@ -1,0 +1,32 @@
+id: curtis-ensemble-2013
+performers:
+- name: Curtis 20/21 Ensemble
+  role: orchestra
+- name: Jennifer Koh
+  role: violin
+- name: Jaime Laredo
+  role: violin
+- name: Vinay Parameswaran
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2013]
+  place: Miriam and Robert Gould Rehearsal Hall
+released: 2014
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/16477783-817f-4b31-bd50-4783ec8d74ba
+  title: Two x Four
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2db28163-7f58-4b32-a72b-daaf6ab72054
+  recordings: [114d5ad0-7205-4229-8faf-d73d6fdd6371]

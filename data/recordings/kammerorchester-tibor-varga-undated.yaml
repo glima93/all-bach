@@ -1,0 +1,30 @@
+id: kammerorchester-tibor-varga-undated
+performers:
+- name: Kammerorchester Tibor Varga
+  role: orchestra
+- name: Tibor Varga
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1041', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a4fc842-d446-44b2-8a3c-5aad14bb37bb
+  title: Wunderbare Welt der Klassik
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ddb7fc1b-f5bc-4b25-86dd-970a9d128dc8
+  recordings: [1fa926d0-debd-48a1-a525-21366e9cfe0d]

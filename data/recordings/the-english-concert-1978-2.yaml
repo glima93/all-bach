@@ -1,0 +1,32 @@
+id: the-english-concert-1978-2
+performers:
+- name: The English Concert
+  role: orchestra
+- name: Trevor Pinnock
+  role: conductor
+- name: Stephen Preston
+  role: transverse flute
+- name: Simon Standage
+  role: violin
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1978]
+  place: Henry Wood Hall
+released: 2023
+original_label: null
+works:
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/22c12ca8-6e1e-40a4-b006-a37a3bb3dbfb
+  title: Complete Recordings on Archiv Produktion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8af55e27-c6ad-44f3-a6d2-53df5462798c
+  recordings: [2f4426c0-6838-4e88-ac82-01ad598ad7f2]

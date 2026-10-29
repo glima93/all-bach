@@ -1,0 +1,38 @@
+id: scottish-chamber-orchestra-1984
+performers:
+- name: Scottish Chamber Orchestra
+  role: orchestra
+- name: Oscar Shumsky
+  role: conductor
+- name: John Tunnell
+  role: conductor
+- name: Jaime Laredo
+  role: performer
+- name: Joji Hattori
+  role: performer
+- name: James Clark
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Queen’s Hall
+released: 1983
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dbfabdda-19f3-4d0c-b78c-a42613bd94fc
+  title: Violin Concertos / Double Concerto / Concerto for Violin & Oboe
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 068632ae-2db3-4817-be30-f035fdc2478b
+  recordings: [ac8eee74-3019-4d30-95b2-65986d8c0580]

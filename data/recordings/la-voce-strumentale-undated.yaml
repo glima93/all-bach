@@ -1,0 +1,30 @@
+id: la-voce-strumentale-undated
+performers:
+- name: La Voce Strumentale
+  role: orchestra
+- name: Dmitry Sinkovsky
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1041', complete: false, movements: [II. Andante, III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/72670659-7d3b-46cb-9c80-57a70ba6ddc1
+  title: Bach In Black
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 99826060-fee3-4a9a-8bd7-c1b6191e0093
+  recordings: [d2f62f94-cc09-4072-89f6-e581c4a9d972]

@@ -1,0 +1,32 @@
+id: soar-valley-music-centre-senior-orchestra-undated
+performers:
+- name: Soar Valley Music Centre Senior Orchestra
+  role: orchestra
+- name: Andrew Bettle
+  role: violin
+- name: Rebecca Tooth
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb756880-62ef-42cb-8497-9a447fffe299
+  title: 'Ireland Tour: Summer 2001'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8cbf2c96-70e4-4ded-9422-e6eaaff9abc4
+  recordings: [28164218-5f45-4e59-bf82-02f22a696827]

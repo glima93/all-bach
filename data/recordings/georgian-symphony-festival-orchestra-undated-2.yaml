@@ -1,0 +1,43 @@
+id: georgian-symphony-festival-orchestra-undated-2
+performers:
+- name: Georgian Symphony Festival Orchestra
+  role: orchestra
+- name: Russia Mozarteum Orchestra
+  role: orchestra
+- name: Larisa Akabian
+  role: violin
+- name: Helmut Eilhofer
+  role: violin
+- name: Alexander Schulrufer
+  role: violin
+- name: Viktor Sidorenko
+  role: violin
+- name: Arkady Steinlucht
+  role: performer
+- name: Nodar Tsatishvili
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44fe791d-598c-47aa-8b11-f782ab7a8715
+  title: Baroque Violin Concertos
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2d75f92e-3e40-413c-911a-3e64680a3fcf
+  recordings: [59b3d5d6-e6d6-46aa-a37c-3d65bd77df28]

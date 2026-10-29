@@ -1,0 +1,36 @@
+id: scottish-ensemble-undated-3
+performers:
+- name: Scottish Ensemble
+  role: orchestra
+- name: Jonathan Rees
+  role: conductor
+- name: Sally Heath
+  role: performer
+- name: Jane Murdoch
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ddc2192e-9300-4168-8c0d-5ca042bec09c
+  title: The Brandenburg Concertos I
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 59b02900-5495-4e6d-bb65-c5354c3768e4
+  recordings: [dfb8680a-0951-42c7-a46c-475dd1db0bbb]

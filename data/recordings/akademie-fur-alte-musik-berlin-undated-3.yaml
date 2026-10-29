@@ -1,0 +1,35 @@
+id: akademie-fur-alte-musik-berlin-undated-3
+performers:
+- name: Akademie für Alte Musik Berlin
+  role: orchestra
+- name: Isabelle Faust
+  role: violin
+- name: Bernhard Forck
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Teldex Studio
+released: 2019
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+- {bwv: '1045', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f5f69c4-6c72-427e-9d04-f99ce6c2a009
+  title: Violin Concertos / Sinfonias / Overture / Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad1b876d-1f4a-4126-8965-7e35076b9962
+  recordings: [3e03c1e5-b21f-433a-8798-4b1610729cfd]

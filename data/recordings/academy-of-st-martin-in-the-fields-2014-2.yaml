@@ -1,0 +1,29 @@
+id: academy-of-st-martin-in-the-fields-2014-2
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Joshua Bell
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2014]
+  place: AIR Studios
+released: 2014
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2dd9d047-6254-4af8-8fb0-d4415050dfa5
+  title: Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [dc99d843-8905-4808-bfc4-6061dc05c847]

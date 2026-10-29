@@ -1,0 +1,31 @@
+id: city-of-london-ensemble-undated
+performers:
+- name: City of London Ensemble
+  role: orchestra
+- name: Ruggiero Ricci
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c8e65d92-69a9-4d56-96e9-07b2a57a6e95
+  title: Bach Violin Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 54ef054d-c79a-474b-97b3-1ff6e3a6eae6
+  recordings: [ab4bf0f0-8a3f-49cb-9fbb-33df2a09bb91]

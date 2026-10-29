@@ -1,0 +1,34 @@
+id: new-philharmonia-orchestra-1970
+performers:
+- name: New Philharmonia Orchestra
+  role: orchestra
+- name: Arthur Grumiaux
+  role: violin
+- name: Philip Ledger
+  role: harpsichord
+- name: Koji Toyoda
+  role: performer
+- name: Edo de Waart
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: Brent Town Hall
+released: 2021
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1aad10bb-5da8-4f22-a4b6-0bea8b73931c
+  title: Complete Philips Recordings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [0b2c7e07-b7f8-4f0b-9f8b-259f6f81cd2c]

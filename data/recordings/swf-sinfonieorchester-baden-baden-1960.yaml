@@ -1,0 +1,31 @@
+id: swf-sinfonieorchester-baden-baden-1960
+performers:
+- name: SWF-Sinfonieorchester Baden‐Baden
+  role: orchestra
+- name: Henryk Szeryng
+  role: violin
+- name: Paul Sacher
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/675c5042-0406-417b-9eab-f3610382bc07
+  title: Henryk Szeryng Plays Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: abba0820-a20e-407f-84ff-2c53dacb3cea
+  recordings: [2242c3a0-44dc-40a7-8bc0-f85774ace565]

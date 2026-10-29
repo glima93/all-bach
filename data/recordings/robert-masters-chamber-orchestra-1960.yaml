@@ -1,0 +1,29 @@
+id: robert-masters-chamber-orchestra-1960
+performers:
+- name: Robert Masters Chamber Orchestra
+  role: orchestra
+- name: Yehudi Menuhin
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/146cd3c2-cc08-43ca-805e-8f102781a514
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aafbd6a9-e070-475d-8cca-7daad4d99cbd
+  recordings: [e4629d39-d3b4-4216-a2ba-22ee2711cd0e]

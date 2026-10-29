@@ -1,0 +1,32 @@
+id: french-baroque-orchestra-undated
+performers:
+- name: French Baroque Orchestra
+  role: orchestra
+- name: Marie-Antoinette Varsy
+  role: violin
+- name: Patrick de Beauvoir
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/35d81e1c-38e3-4927-953e-2de8d181e116
+  title: 'Golden Baroque: The Most Beautiful Baroque Masterpieces'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2656e114-5f1e-4430-ae61-4fd8eeff3efb
+  recordings: [a843be88-a32c-448c-ad16-4a06a5182b41]

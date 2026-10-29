@@ -1,0 +1,28 @@
+id: yehudi-menuhin-undated
+performers:
+- name: Yehudi Menuhin
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7795de47-4557-4be8-a27e-6cf213241fd6
+  title: Terra musica
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a8949f5-d681-4df2-a2fd-a08966ae2d31
+  recordings: [737135a9-0ea8-4081-8578-2b344b16483a]

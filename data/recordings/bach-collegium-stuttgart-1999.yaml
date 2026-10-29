@@ -1,0 +1,40 @@
+id: bach-collegium-stuttgart-1999
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Christoph Poppen
+  role: violin
+- name: Isabelle Faust
+  role: performer
+- name: Robert Levin
+  role: performer
+- name: Jean‐Claude Gérard
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999, 2000]
+  place: Stadthalle Leonberg
+released: 1999
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+- {bwv: '1044', complete: true}
+- {bwv: '1045', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/da553e00-ff34-4047-85c2-5fac1c6d5b94
+  title: Violinkonzerte, BWV 1041–1043
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [dbb83723-d88b-4294-a344-025d69f8019b]

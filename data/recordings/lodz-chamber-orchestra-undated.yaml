@@ -1,0 +1,34 @@
+id: lodz-chamber-orchestra-undated
+performers:
+- name: Lodz Chamber Orchestra
+  role: orchestra
+- name: Darius Polack
+  role: violin
+- name: Kamil Dryzgula
+  role: violin
+- name: Zdzisław Szostak
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/77d466d7-f1da-43b1-926e-44db18ef0d7e
+  title: 'Bach Edition, Volume 1: Orchestral Works & Concertos/Orchesterwerke & Konzerte'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4be3f252-1f20-40ac-9232-9c9e86d6a2e4
+  recordings: [6ac54f8b-a7f2-4c34-bd56-d2f08eba315c]

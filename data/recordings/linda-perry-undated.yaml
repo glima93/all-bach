@@ -1,0 +1,29 @@
+id: linda-perry-undated
+performers:
+- name: Linda Perry
+  role: piano
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1c95be86-a141-4841-973e-77110b6c5fb7
+  title: Suzuki Violin School, Volume 4, Revised
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0ded9320-5f99-49ee-bd9a-12da0ccccd63
+  recordings: [8ab5bd64-72c4-44f5-805b-b0efd7ceb83f]

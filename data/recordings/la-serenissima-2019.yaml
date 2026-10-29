@@ -1,0 +1,28 @@
+id: la-serenissima-2019
+performers:
+- name: La Serenissima
+  role: orchestra
+- name: Adrian Chandler
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: Cedars Hall
+released: 2019
+original_label: null
+works:
+- {bwv: '1045', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/31209b17-67fc-46f2-8d15-19de8bbecd7c
+  title: 'The Godfather: Masters of the German & Italian Baroque'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9b026fbd-b2ce-48b2-9e52-c5b59f888e34
+  recordings: [bc773f12-6a06-4b8b-a959-1b7d2d7b68e3]

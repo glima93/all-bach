@@ -1,0 +1,33 @@
+id: suddeutsche-kammerphilharmonie-undated
+performers:
+- name: Süddeutsche Kammerphilharmonie
+  role: orchestra
+- name: Hans Kalafusz
+  role: violin
+- name: Wolfgang Rösch
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1e9cbe67-256c-47ad-9502-16d840fb4f34
+  title: Violin Concertos / Concerto for Violin and Oboe
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bcec6c3f-f586-4e1e-9ef8-45d33d162d49
+  recordings: [6c4f6f6d-b2d6-493f-b863-c6b45e1fb972]

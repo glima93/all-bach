@@ -1,0 +1,32 @@
+id: munchener-bach-orchester-1963
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Otto Büchner
+  role: violin
+- name: Kurt Guntner
+  role: violin
+- name: Karl Richter
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1963]
+  place: Hochschule für Musik und Theater München
+released: 2014
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fc5c70e3-9273-4754-b3da-d8dad7fbda08
+  title: Revealing Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [7f2a4f0d-17de-49db-b6ad-2d4da04bd234]

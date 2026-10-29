@@ -1,0 +1,31 @@
+id: de-nederlandse-bachvereniging-undated
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Shunsuke Sato
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/e07a565d-0c18-49ee-ad55-46df3d886303
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [e07a565d-0c18-49ee-ad55-46df3d886303]

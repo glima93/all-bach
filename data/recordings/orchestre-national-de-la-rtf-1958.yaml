@@ -1,0 +1,31 @@
+id: orchestre-national-de-la-rtf-1958
+performers:
+- name: Orchestre National de la RTF
+  role: orchestra
+- name: David Oistrakh
+  role: performer
+- name: André Cluytens
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958]
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ffad1464-de68-4cd8-a142-2e82dae711f3
+  title: Concert du 27/10/1958
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 5dba6ba9-b79c-4a1e-927e-3862589c112b
+  recordings: [d675f822-bc92-456a-952a-cddf37d9ad3e]

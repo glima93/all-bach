@@ -1,0 +1,45 @@
+id: camerata-romana-undated-7
+performers:
+- name: Camerata Romana
+  role: orchestra
+- name: Musici di San Marco
+  role: orchestra
+- name: Joseph Brezina
+  role: violin
+- name: Feliz Elias
+  role: violin
+- name: Alberto Tozzi
+  role: violin
+- name: Tomasco Vecchi
+  role: violin
+- name: Eugen Duvier
+  role: conductor
+- name: Francesco Macci
+  role: conductor
+- name: Alfred Scholz
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5eeb851e-23c4-48fe-a846-59d7f14229ae
+  title: Bach Greatest Hits
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9b04359-c185-4b36-b4c5-944bb2944b29
+  recordings: [e109e29f-dda6-41c0-97a0-228c61b3c998]

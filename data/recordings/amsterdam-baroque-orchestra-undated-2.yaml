@@ -1,0 +1,36 @@
+id: amsterdam-baroque-orchestra-undated-2
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Ton Koopman
+  role: conductor
+- name: Monica Huggett
+  role: violin
+- name: Alison Bury
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Maria Minor
+released: 1987
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e56bd33-caf3-4214-8ee0-508de80bb772
+  title: Concerto pour 2 violons BWV 1043 / Concertos pour violon BWV 1041 & 1042
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [28196a42-dc9b-4216-ab0a-e75b2af6df94]

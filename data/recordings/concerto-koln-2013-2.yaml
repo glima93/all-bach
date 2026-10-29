@@ -1,0 +1,32 @@
+id: concerto-koln-2013-2
+performers:
+- name: Concerto Köln
+  role: orchestra
+- name: Giuliano Carmignola
+  role: violin
+- name: Mayumi Hirasaki
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2013]
+  place: Deutschlandfunk Kammermusiksaal
+released: 2011
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e7908ba-fc30-406a-9324-6b67376b6899
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 16a29583-0a91-415c-ac87-6ee5c6c2c406
+  recordings: [5e5221c0-361c-427c-b3d8-2f503795326d]

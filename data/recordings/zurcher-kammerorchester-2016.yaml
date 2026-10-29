@@ -1,0 +1,32 @@
+id: zurcher-kammerorchester-2016
+performers:
+- name: Zürcher Kammerorchester
+  role: orchestra
+- name: Philipp Jundt
+  role: flute
+- name: Daniel Hope
+  role: violin
+- name: Sebastian Knauer
+  role: piano
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: ZKO Haus
+released: 2017
+original_label: null
+works:
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e46dc860-07ac-4a3f-8994-33c4d950e1c6
+  title: Bach & Sons 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8b0f8e51-e556-41cf-962c-9f16ce880405
+  recordings: [1f186497-49cf-4c9b-8435-6500b100e081]

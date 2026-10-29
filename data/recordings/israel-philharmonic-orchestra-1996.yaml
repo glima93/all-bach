@@ -1,0 +1,33 @@
+id: israel-philharmonic-orchestra-1996
+performers:
+- name: Israel Philharmonic Orchestra
+  role: orchestra
+- name: Gil Shaham
+  role: violin
+- name: Isaac Stern
+  role: violin
+- name: Zubin Mehta
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/782c72d0-410e-47b4-a313-4b98b3a3461b
+  title: The Israel Philharmonic Orchestra – 60th Anniversary Gala Concert
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: c8a88cc7-c93e-42b5-ba29-68859b5716e3
+  recordings: [a2f69e5b-c8c1-4b6f-a455-2f6d50c56b25]

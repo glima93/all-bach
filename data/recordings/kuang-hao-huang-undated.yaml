@@ -1,0 +1,29 @@
+id: kuang-hao-huang-undated
+performers:
+- name: Kuang-Hao Huang
+  role: piano
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4aef2564-bf9a-4dee-a3b1-bd8120990794
+  title: Suzuki Violin School Volume 4
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95a6905c-2d4d-4a19-8bc7-0ed1eb6c92f1
+  recordings: [efebb4ef-a12e-4de9-a656-b15bc190da30]

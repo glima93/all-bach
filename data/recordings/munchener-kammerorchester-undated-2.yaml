@@ -1,0 +1,29 @@
+id: munchener-kammerorchester-undated-2
+performers:
+- name: Münchener Kammerorchester
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1041', complete: false, movements: [II. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/20621179-78ed-4c26-a97e-4482c30c4abf
+  title: 'Stress Relief: Healing Classics to Restore the Soul'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6cd8706c-2bf1-4406-8377-187136acb110
+  recordings: [e683d957-419d-4b6d-83f6-2c44e8c1400a]

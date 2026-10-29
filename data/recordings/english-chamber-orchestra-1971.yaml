@@ -1,0 +1,34 @@
+id: english-chamber-orchestra-1971
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Itzhak Perlman
+  role: violin
+- name: Daniel Barenboim
+  role: conductor
+- name: Pinchas Zukerman
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1971, 1974]
+  place: 'Abbey Road Studios: Studio 1'
+released: 1972
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a5098b54-72df-4eb3-af83-8ef8d3688956
+  title: Barenboim / Perlman / Zukerman Play Bach Concerti
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [3d3f1c14-8000-4e52-a362-044cc227ca06]

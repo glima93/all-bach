@@ -1,0 +1,30 @@
+id: vienna-festival-orchestra-undated-2
+performers:
+- name: Vienna Festival Orchestra
+  role: orchestra
+- name: Carl Michalski
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1cb03ffa-3f97-4c7f-bb92-d09b38515d8c
+  title: The Best of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3e9fa7de-776e-40e0-ae50-4db26b772cb0
+  recordings: [bb3a1252-06a2-48f6-98ca-b392730e00b4]

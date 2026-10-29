@@ -1,0 +1,41 @@
+id: orchestra-of-st-luke-s-undated
+performers:
+- name: Orchestra of St. Luke’s
+  role: orchestra
+- name: Louise Schulman
+  role: performer
+- name: Krista Bennion Feeney
+  role: solo
+- name: Eriko Sato
+  role: performer
+- name: Mayuki Fukuhara
+  role: performer
+- name: Elizabeth Mann
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5895fd4b-3f3b-4993-a50a-620974513937
+  title: Four Concerti for Various Instruments
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2dc04707-7cf9-4e9b-8869-6cb5644794b8
+  recordings: [61b3316f-bd32-4665-8a74-87db9dc981b1]

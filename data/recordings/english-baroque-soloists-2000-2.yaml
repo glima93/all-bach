@@ -1,0 +1,28 @@
+id: english-baroque-soloists-2000-2
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Fraumünster
+released: 2010
+original_label: null
+works:
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2dce8f40-e672-431d-b9a7-a89afe33a783
+  title: 'Cantatas, Volume 2: Paris/Zürich'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [4b592347-2eb0-4723-81e7-d194ff4a5584]

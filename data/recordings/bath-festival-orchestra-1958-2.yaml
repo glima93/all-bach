@@ -1,0 +1,32 @@
+id: bath-festival-orchestra-1958-2
+performers:
+- name: Bath Festival Orchestra
+  role: orchestra
+- name: Yehudi Menuhin
+  role: conductor
+- name: Christian Ferras
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958, 1959]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [III. Allegro assai]}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ad6cb820-4a68-4c02-b7e9-d912f3a48bea
+  title: 'Vivaldi: The Four Seasons / Bach: Violin Concertos Nos 1 & 2'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc6cebc8-6e51-464e-8589-6ae1c498f5d9
+  recordings: [405c5aba-8308-4d76-a209-bbfd1b331c90]

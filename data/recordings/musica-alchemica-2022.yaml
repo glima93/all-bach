@@ -1,0 +1,29 @@
+id: musica-alchemica-2022
+performers:
+- name: Musica Alchemica
+  role: ensemble
+- name: Lina Tur Bonet
+  role: solo
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2022]
+  place: Conservatori de Música de Vila-seca
+released: 2023
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55a32fbc-b761-4a7e-9e97-1ccb9916318b
+  title: Himmelsburg
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cdd11deb-10ef-4af5-ba09-07f00f4e3b5b
+  recordings: [9c25e59c-8c96-4295-a357-2e007ff36d19]

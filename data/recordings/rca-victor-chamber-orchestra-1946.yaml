@@ -1,0 +1,30 @@
+id: rca-victor-chamber-orchestra-1946
+performers:
+- name: RCA Victor Chamber Orchestra
+  role: orchestra
+- name: Jascha Heifetz
+  role: violin
+- name: Franz Waxman
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1946]
+  place: RCA Studios
+released: 1994
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/20857393-d9fc-4651-a144-2c862eccfc3d
+  title: Selections from the Heifetz Collection
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f51f2f46-9a1f-4435-916f-861433327758
+  recordings: [6f5ec97a-2b10-471f-ad17-efc03b8cb804]

@@ -1,0 +1,37 @@
+id: academy-of-st-martin-in-the-fields-undated-3
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Henryk Szeryng
+  role: violin
+- name: Maurice Hasson
+  role: performer
+- name: Sir Neville Marriner
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/baa124c5-a8a6-407e-8176-73d68a73c71c
+  title: Violin Concertos in E major and in A minor / Double Concerto in D minor / Air from Suite No. 3
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [6d9fa781-6b5a-4727-abcc-703a2c0ef286]

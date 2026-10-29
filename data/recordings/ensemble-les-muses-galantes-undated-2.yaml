@@ -1,0 +1,28 @@
+id: ensemble-les-muses-galantes-undated-2
+performers:
+- name: Ensemble Les Muses Galantes
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8d29c259-297f-4166-956c-9913d6948fe1
+  title: La Cantate des Muses
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5313be6b-8f63-437f-94b3-59529c1d199a
+  recordings: [88793f3c-97e1-4532-930c-0b7535eb21dc]

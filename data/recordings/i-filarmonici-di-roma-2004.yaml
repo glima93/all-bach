@@ -1,0 +1,30 @@
+id: i-filarmonici-di-roma-2004
+performers:
+- name: I Filarmonici di Roma
+  role: orchestra
+- name: Il Filarmonici Di Roma
+  role: orchestra
+- name: Uto Ughi
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2004]
+  place: Auditorium Parco della Musica
+released: 2005
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/74e77be4-d164-4ea6-a48b-f754f1e1f124
+  title: Bach, Paganini, Massenet
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ee4312aa-46c0-4dd9-a120-8273aa2afcbe
+  recordings: [4d7e6f3b-ed72-4175-a69f-1f521a028910]

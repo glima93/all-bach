@@ -1,0 +1,36 @@
+id: dunedin-consort-2014
+performers:
+- name: Dunedin Consort
+  role: orchestra
+- name: Cecilia Bernardini
+  role: solo
+- name: John Butt
+  role: conductor
+- name: Huw Daniel
+  role: performer
+- name: Alfredo Bernardini
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Greyfriars Kirk
+released: 2016
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2ef6c8a3-d641-4ed8-bde5-e46b758b30a7
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1cca9a39-48c5-48f8-9710-969f81c4d319
+  recordings: [2cab287b-c3a4-4159-87f9-77b298d5339e]

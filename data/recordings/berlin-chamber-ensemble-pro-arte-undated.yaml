@@ -1,0 +1,28 @@
+id: berlin-chamber-ensemble-pro-arte-undated
+performers:
+- name: Berlin Chamber Ensemble Pro Arte
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ff028992-a74b-4182-8f07-a74a94b08e3e
+  title: Great Violin Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: be0b1d94-af7f-4d30-8114-36caa5e16d5c
+  recordings: [9a50ca99-ccd8-48fc-8566-8a0fa65f3047]

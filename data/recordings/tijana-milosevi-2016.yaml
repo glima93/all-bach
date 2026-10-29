@@ -1,0 +1,28 @@
+id: tijana-milosevi-2016
+performers:
+- name: Tijana Miloševi
+  role: violin
+- name: Nemanja Radulović
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Église Notre‐Dame du Liban
+released: 2016
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/282c5622-09e3-4cb8-a73b-bf79d973dcf1
+  title: Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d50c23b9-8143-4df9-91df-9d51fafa9fec
+  recordings: [4d3053ac-f4e8-48b6-bd8c-a83449df161f]

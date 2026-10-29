@@ -1,0 +1,37 @@
+id: festival-strings-lucerne-1956
+performers:
+- name: Festival Strings Lucerne
+  role: orchestra
+- name: Rudolf Baumgartner
+  role: conductor
+- name: Wolfgang Schneiderhan
+  role: violin
+- name: Ralph Kirkpatrick
+  role: performer
+- name: Aurèle Nicolet
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1956, 1957, 1960]
+  place: Kunsthaus
+released: 2004
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd481b4e-3fb6-4b4f-a58c-e612b33ae2fa
+  title: The 1950s Concerto Recordings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e5d0debb-ba7e-41b7-b3a6-73a900c0a74c
+  recordings: [a5235d9d-3df6-4797-8138-6178daede287]

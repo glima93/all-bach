@@ -1,0 +1,32 @@
+id: slovensky-komorny-orchester-bohdana-warchala-undated-3
+performers:
+- name: Slovenský komorný orchester Bohdana Warchala
+  role: orchestra
+- name: Quido Hölbling
+  role: violin
+- name: Bohdan Warchal
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aebba7ca-d904-45e3-a7db-525e3f7a2001
+  title: 'Sounds of Excellence: 200 Greatest Classics VI'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4cfa3ebc-eb6c-4647-bd02-d1475e6de877
+  recordings: [b11ed3bc-d4bf-4c6e-a3af-5a332c1ec0be]

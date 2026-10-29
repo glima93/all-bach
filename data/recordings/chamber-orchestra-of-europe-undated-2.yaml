@@ -1,0 +1,41 @@
+id: chamber-orchestra-of-europe-undated-2
+performers:
+- name: Chamber Orchestra of Europe
+  role: orchestra
+- name: Salvatore Accardo
+  role: performer
+- name: Renaud Capuçon
+  role: solo
+- name: Céline Frisch
+  role: harpsichord
+- name: Margaret Batjer
+  role: performer
+- name: Daniel Hope
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/41f18ab8-763f-4118-b426-631118223a7e
+  title: Le violon roi
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3f221c60-2568-40f5-b1c3-625fed319258
+  recordings: [a81feb90-f849-483e-ba1c-6af728642e70]

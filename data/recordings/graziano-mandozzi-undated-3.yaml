@@ -1,0 +1,29 @@
+id: graziano-mandozzi-undated-3
+performers:
+- name: Graziano Mandozzi
+  role: synthesizer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/53c36573-81b7-43b2-8d5e-7ff4cea24520
+  title: Bach/Handel 300
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on synthesizer.
+musicbrainz:
+  artist: ed099a02-4dd1-4920-97a5-8fd780e330d7
+  recordings: [0ad715b1-371d-4ffb-821c-791e805c3ff0]

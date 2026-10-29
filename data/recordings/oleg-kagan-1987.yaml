@@ -1,0 +1,29 @@
+id: oleg-kagan-1987
+performers:
+- name: Oleg Kagan
+  role: performer
+- name: Viktor Tretiakov
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1987]
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/570a541a-2168-4c12-8434-9a930f3e89aa
+  title: 'Historic Russian Archives: Viktor Tretiakov Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8f207de8-aeae-4d02-87c5-440286bffea7
+  recordings: [69480b48-cad0-495d-a520-098669c73a77]

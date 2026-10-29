@@ -1,0 +1,32 @@
+id: ensemble-masques-2023
+performers:
+- name: Ensemble Masques
+  role: ensemble
+- name: Sophie Gent
+  role: violin
+- name: Olivier Fortin
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2023]
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7358471-9f36-4212-baef-41e66ebd73c6
+  title: Concerti
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 86ed2e67-1702-4586-adda-54a41f5aea32
+  recordings: [7bb6d6ba-997d-4f06-8442-77a05d3b61b6]

@@ -1,0 +1,34 @@
+id: capella-istropolitana-1989-2
+performers:
+- name: Capella Istropolitana
+  role: orchestra
+- name: Takako Nishizaki
+  role: performer
+- name: Oliver von Dohnányi
+  role: conductor
+- name: Alexander Jablokov
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989]
+  place: Concert Hall of the Slovak Philharmonic
+released: 1990
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3790c422-3110-4c81-b517-934a08ee6367
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e7119b5-a3a0-4d78-b8c8-55778f8b618c
+  recordings: [3cb8f502-a1e1-4686-a085-be73a058a4dc]

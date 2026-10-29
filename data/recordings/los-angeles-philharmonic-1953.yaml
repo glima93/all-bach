@@ -1,0 +1,32 @@
+id: los-angeles-philharmonic-1953
+performers:
+- name: Los Angeles Philharmonic
+  role: orchestra
+- name: Jascha Heifetz
+  role: violin
+- name: Alfred Wallenstein
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1953]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1fd2d33-1003-4dc9-9b01-d9bd8c8e9624
+  title: 'The Heifetz Collection, Volume 24: Bach: Concertos / Mozart / Paganini / Vitali'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 98e4313e-dfb0-4084-805c-3e42ef9301d0
+  recordings: [eba1d1ca-d33a-4797-8fff-9f139b76bd6f]

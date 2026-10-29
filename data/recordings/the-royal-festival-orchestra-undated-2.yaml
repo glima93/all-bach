@@ -1,0 +1,30 @@
+id: the-royal-festival-orchestra-undated-2
+performers:
+- name: The Royal Festival Orchestra
+  role: orchestra
+- name: William Bowles
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/37f58e2b-549c-4e64-bada-09d04cf8716b
+  title: The 100 Most Essential Pieces of Classical Music (Including selections from the 20th Century)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0a1cbdc5-f886-4f3f-9b75-650ebd3133b5
+  recordings: [ab0c08fd-2174-446e-a7dc-c7f901112266]

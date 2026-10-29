@@ -1,0 +1,37 @@
+id: musica-alta-ripa-1996
+performers:
+- name: Musica Alta Ripa
+  role: ensemble
+- name: Ursula Bundies
+  role: violin
+- name: Anne Röhrig
+  role: performer
+- name: Bernward Lohr
+  role: performer
+- name: Karl Kaiser
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996, 1997, 1998, 1999]
+  place: Schloss Nordkirchen
+released: 1997
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c4117779-7f7b-437a-a58a-2094af1316d1
+  title: Solo Concertos, Vol. 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2f5086fd-c82b-4eb7-a9df-407353324d7f
+  recordings: [bb0739ea-fe1c-489f-8e7e-f52bd36688c6]

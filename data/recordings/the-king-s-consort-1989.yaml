@@ -1,0 +1,36 @@
+id: the-king-s-consort-1989
+performers:
+- name: The King’s Consort
+  role: orchestra
+- name: Catherine Mackintosh
+  role: violin
+- name: Robert King
+  role: conductor
+- name: Elizabeth Wallfisch
+  role: performer
+- name: Paul Goodwin
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: St. Paul’s Church
+released: 1989
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0efdb6b8-c12f-426e-b08a-1efce427292c
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a5bc84d6-e1d2-4780-9d30-ad04a3e61c87
+  recordings: [fc2a1103-6cb1-4319-b43a-3c79a0d8b603]

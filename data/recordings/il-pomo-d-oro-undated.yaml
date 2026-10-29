@@ -1,0 +1,35 @@
+id: il-pomo-d-oro-undated
+performers:
+- name: Il Pomo d’Oro
+  role: orchestra
+- name: Shunske Sato
+  role: violin
+- name: Zefira Valova
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3cda8917-ce69-4e7b-9957-b78f365e4e8e
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 80e83913-b0d4-41f6-80b3-cf1119d025f8
+  recordings: [5627b5c0-e778-4c19-b730-56f21727e37c]

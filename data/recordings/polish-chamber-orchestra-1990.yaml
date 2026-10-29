@@ -1,0 +1,28 @@
+id: polish-chamber-orchestra-1990
+performers:
+- name: Polish Chamber Orchestra
+  role: orchestra
+- name: Jan Stanienda
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: City Halls
+released: 1990
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/056e5db1-b69c-480d-93b2-9029c40062c8
+  title: A Live Recording
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7cafe4e-539c-42b7-9ae8-ffbd241d677c
+  recordings: [bc986879-7de7-473b-8076-67b18917c6fc]

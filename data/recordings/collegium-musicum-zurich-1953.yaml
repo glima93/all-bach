@@ -1,0 +1,30 @@
+id: collegium-musicum-zurich-1953
+performers:
+- name: Collegium Musicum Zürich
+  role: orchestra
+- name: Wolfgang Schneiderhan
+  role: violin
+- name: Paul Sacher
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1953]
+  place: Kongresshaus Zürich
+released: 2023
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b33d9f3e-faa8-474a-a64d-1fc95742312f
+  title: Complete Recordings on DG
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1108869f-2e4d-4ff3-b08b-335171e4316d
+  recordings: [4777e89e-3a08-45da-a96f-8965d44a0dcc]

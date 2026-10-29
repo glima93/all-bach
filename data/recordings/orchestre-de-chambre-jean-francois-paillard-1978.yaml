@@ -1,0 +1,34 @@
+id: orchestre-de-chambre-jean-francois-paillard-1978
+performers:
+- name: Orchestre de chambre Jean-François Paillard
+  role: orchestra
+- name: Gérard Jarry
+  role: violin
+- name: Jean‐François Paillard
+  role: conductor
+- name: Pierre Amoyal
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978]
+  place: Eglise Notre-Dame des Roses
+released: 1994
+original_label: null
+works:
+- {bwv: '1041', complete: false, movements: [II. Andante]}
+- {bwv: '1042', complete: false, movements: [III. Allegro assai]}
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85567e3f-5fe6-46e7-8154-e7e19c17d4d9
+  title: The Ultimate Collection
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 736d2231-9b64-4f71-b3aa-f5936eb55938
+  recordings: [3e49187f-61e5-4b3c-8703-3059227777e5]

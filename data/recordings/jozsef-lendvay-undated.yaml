@@ -1,0 +1,28 @@
+id: jozsef-lendvay-undated
+performers:
+- name: József Lendvay
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1ce7ca43-ee73-4080-8325-f7fb02685e56
+  title: Lendvay
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8765568c-5296-46b8-a70e-f11c92d55613
+  recordings: [2575a9d7-dce7-4b8b-adbe-27983a596d3e]

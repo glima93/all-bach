@@ -1,0 +1,61 @@
+id: academy-of-ancient-music-undated-2
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Andrew Manze
+  role: performer
+- name: Christopher Hogwood
+  role: conductor
+- name: Jaap Schröder
+  role: violin
+- name: Rachel Podger
+  role: performer
+- name: Christopher Hirons
+  role: violin
+- name: Alison Bury
+  role: violin
+- name: Mark Claudle
+  role: cello
+- name: Graham Cracknell
+  role: violin
+- name: Roy Goodman
+  role: violin
+- name: Katherine Hart
+  role: viola
+- name: John Holloway
+  role: violin
+- name: Monica Huggett
+  role: violin
+- name: Trevor Jones
+  role: viola
+- name: Keith Marjoram
+  role: double bass
+- name: Richard Webb
+  role: cello
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1982
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0d08fcd-94a6-4a29-99eb-1f864374ccd5
+  title: Violin Concertos No. 1&2 / Concerto for 2 violins
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [24395f9c-b20a-4764-86c7-03a7a5491e1a]

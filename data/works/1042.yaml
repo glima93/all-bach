@@ -1,0 +1,16 @@
+bwv: "1042"
+title: "Violin Concerto in E major"
+key: "E major"
+collection: "Violin Concertos"
+genre: orchestral
+scoring: "Violin, strings and continuo"
+composed: "Possibly Köthen; survives mainly in later copies, with Leipzig performance material from around 1730"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Allegro assai"
+notes: "The opening Allegro follows a da capo design unusual for a concerto movement. Bach later arranged the work as the Harpsichord Concerto in D major, BWV 1054."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Violin_Concerto_in_E_major_(Bach)
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/7e466a70-2864-4db1-8470-94f0372624eb

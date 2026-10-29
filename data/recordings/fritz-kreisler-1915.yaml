@@ -1,0 +1,31 @@
+id: fritz-kreisler-1915
+performers:
+- name: Fritz Kreisler
+  role: violin
+- name: Efrem Zimbalist
+  role: violin
+- name: Walter B. Rogers
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1915]
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/83081f92-f9b8-4927-a17b-e7c83facadd6
+  title: The Earlier Concerto Recordings (1915–1926)
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 590fcad4-2ba4-43bc-a22f-a4bb9b496fe8
+  recordings: [c2e6b168-9491-41a8-8fd7-d4dcce891056]

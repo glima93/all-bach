@@ -1,0 +1,31 @@
+id: amsterdam-bach-soloists-1994
+performers:
+- name: Amsterdam Bach Soloists
+  role: orchestra
+- name: Thomas Zehetmair
+  role: conductor
+- name: Jaap van Zweden
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: Waalse Kerk
+released: 1994
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e3b095c9-99f8-42c4-91b8-2972b53ed936
+  title: Die schönsten Violinkonzerte
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a9abc389-257c-46bb-8fd0-59055ed37af1
+  recordings: [f464e7c8-ca44-4046-8e32-b42db201d2bf]

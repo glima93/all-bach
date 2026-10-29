@@ -1,0 +1,29 @@
+id: kammerphilharmonie-koln-2017
+performers:
+- name: Kammerphilharmonie Köln
+  role: orchestra
+- name: Anton Georg Gölle
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c090dd8f-ce55-4419-abd9-3a95ea0bbc1e
+  title: Klassik überall...! Vol. 3
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 809007c9-a5b3-4de1-b438-a1185ec1b6f7
+  recordings: [d3a1c025-60b8-442d-b952-e81a8110cd0d]

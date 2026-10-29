@@ -1,0 +1,34 @@
+id: royal-philharmonic-orchestra-undated-3
+performers:
+- name: Royal Philharmonic Orchestra
+  role: orchestra
+- name: Boris Belkin
+  role: performer
+- name: Vladimir Ashkenazy
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [III. Allegro assai]}
+- {bwv: '1043', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9756beb2-2fab-49ac-8f20-44e20286efa8
+  title: The Classic 100 Concerto
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 299597ae-3a20-4bf1-973e-03704af69f6b
+  recordings: [a429f79f-49d9-465a-8272-277ae8a1d42d]

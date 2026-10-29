@@ -1,0 +1,32 @@
+id: alberto-tozzi-undated
+performers:
+- name: Alberto Tozzi
+  role: violin
+- name: Tomaso Vecchi
+  role: violin
+- name: Francesco Macci
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c98c667b-703e-4bc3-b04e-7cfe3c28d7ff
+  title: Concertos Brandebourgeois N° 1 - 2 - 3 / Concerto Pour Deux Violons
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 528d28b3-7bfc-4bc1-a43c-cff673cb2ad9
+  recordings: [a8cfe1ec-b1f1-4dd5-b428-38f5f1a8738c]

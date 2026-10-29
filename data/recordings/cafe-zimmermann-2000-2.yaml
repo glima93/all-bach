@@ -1,0 +1,29 @@
+id: cafe-zimmermann-2000-2
+performers:
+- name: Café Zimmermann
+  role: ensemble
+- name: Pablo Valetti
+  role: violin
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000, 2001, 2003]
+  place: Chapelle de l'hôpital Notre-Dame de Bon Secours
+released: 2001
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/460b6f6c-7d2d-4248-b17c-5395c21f783b
+  title: Concerts avec plusieurs instruments I
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 287b6163-2115-42c1-90fd-217d667b9d96
+  recordings: [a229db63-0f36-4c9f-88a1-50941a736ded]

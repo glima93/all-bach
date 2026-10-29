@@ -1,0 +1,32 @@
+id: la-petite-bande-1981-2
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Sigiswald Kuijken
+  role: violin
+- name: Lucy van Dael
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1981]
+  place: Pfarrkirche
+released: 1982
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/13aa3958-1a7c-4527-98ba-c5e066512553
+  title: Konzerte für Violine a-moll BWV 1041 und E-dur BWV 1042 / Konzert für zwei Violinen d-moll BWV 1043
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [5a72eb2e-2ecd-46be-92b9-9ed7b7206415]

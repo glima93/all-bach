@@ -1,0 +1,36 @@
+id: georgian-symphony-festival-orchestra-undated
+performers:
+- name: Georgian Symphony Festival Orchestra
+  role: orchestra
+- name: Larisa Abakian
+  role: violin
+- name: Helmut Eilhofer
+  role: violin
+- name: Nodar Tsatishvili
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e29ad72-74b1-4fc7-85b1-139035b11aeb
+  title: 20 Relaxing Classics
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2d75f92e-3e40-413c-911a-3e64680a3fcf
+  recordings: [0aaf1951-0103-4e27-bd37-0fef14eaeeda]

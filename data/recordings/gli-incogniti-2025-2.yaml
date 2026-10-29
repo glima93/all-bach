@@ -1,0 +1,30 @@
+id: gli-incogniti-2025-2
+performers:
+- name: Gli Incogniti
+  role: ensemble
+- name: Amandine Beyer
+  role: conductor
+- name: Alba Roca
+  role: solo
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2025]
+  place: Grande Auditório da Escola Artística do Conservatório de Música de Coimbra
+released: 2025
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8892f853-3ebc-471a-93dc-db9589869142
+  title: 'Bach from Italy: The Vivaldi & Marcello Influences'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 20e6d3c3-c9e8-4686-9495-6fa5e121266c
+  recordings: [d6c0ee66-df3d-452e-9116-874944ec1251]

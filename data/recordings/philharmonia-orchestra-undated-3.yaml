@@ -1,0 +1,47 @@
+id: philharmonia-orchestra-undated-3
+performers:
+- name: Philharmonia Orchestra
+  role: orchestra
+- name: Leonid Kogan
+  role: performer
+- name: Otto Ackermann
+  role: conductor
+- name: Szymon Goldberg
+  role: performer
+- name: Walter Süsskind
+  role: performer
+- name: Yehudi Menuhin
+  role: performer
+- name: Gioconda de Vito
+  role: performer
+- name: Anthony Bernard
+  role: performer
+- name: Elisabeth Gilels
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/be785cd4-efd0-4889-bc15-ce0925c94cd7
+  title: Les Introuvables de Leonid Kogan
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [6a71c0a0-a930-49ff-b3b1-3030e4fc6486]

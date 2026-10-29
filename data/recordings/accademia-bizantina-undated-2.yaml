@@ -1,0 +1,34 @@
+id: accademia-bizantina-undated-2
+performers:
+- name: Accademia Bizantina
+  role: ensemble
+- name: Ottavio Dantone
+  role: performer
+- name: Marcello Gatti
+  role: performer
+- name: Alessandro Tampieri
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Teatro Goldoni
+released: 2025
+original_label: null
+works:
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/524785cc-3cc9-4e49-aac1-4056efe78cea
+  title: 'J.S. Bach: Brandenburg Concerto no. 5 & Triple Concerto / Other Works by Telemann & C.P.E. Bach'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2c422cb3-2c82-483d-8815-d38b388d1ee5
+  recordings: [b9c97623-967e-4f70-9005-079d5b8890a8]

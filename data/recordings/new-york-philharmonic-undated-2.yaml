@@ -1,0 +1,39 @@
+id: new-york-philharmonic-undated-2
+performers:
+- name: New York Philharmonic
+  role: orchestra
+- name: Alan Gilbert
+  role: conductor
+- name: Frank Peter Zimmermann
+  role: solo
+- name: Leonard Bernstein
+  role: performer
+- name: Yehudi Menuhin
+  role: performer
+- name: Isaac Stern
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5933138f-06b2-4263-a92d-81d4f5a6b7fc
+  title: Bach / Berg / Brahms
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7cdb68bc-c4f1-4a92-9bd2-739641c5eff0
+  recordings: [cf6edfee-de4f-4e25-a9a0-ce3fa50edabb]

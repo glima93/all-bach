@@ -1,0 +1,28 @@
+id: double-sens-2024
+performers:
+- name: Double Sens
+  role: orchestra
+- name: Nemanja Radulović
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2024]
+  place: RIFFX 1 Studio
+released: 2024
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/65ccfe87-28e7-49be-b53b-c547887d8d8a
+  title: J. S. Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b42376e9-44c0-4f99-824a-321d0de23c26
+  recordings: [e66c64dc-e24a-483d-9870-2e7b168010e4]

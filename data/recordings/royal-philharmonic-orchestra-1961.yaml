@@ -1,0 +1,34 @@
+id: royal-philharmonic-orchestra-1961
+performers:
+- name: Royal Philharmonic Orchestra
+  role: orchestra
+- name: David Oistrakh
+  role: performer
+- name: Igor Oistrakh
+  role: performer
+- name: Sir Eugene Goossens
+  role: performer
+- name: George Malcolm
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: Brent Town Hall
+released: 1961
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3930647f-15dd-433e-99ef-5b6b46c5d005
+  title: 'David und Igor Oistrach: Bach, Beethoven, Vivaldi'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 299597ae-3a20-4bf1-973e-03704af69f6b
+  recordings: [c5487d0a-4d40-4eef-942d-79bf0989aec2]

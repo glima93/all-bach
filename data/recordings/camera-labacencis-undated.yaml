@@ -1,0 +1,34 @@
+id: camera-labacencis-undated
+performers:
+- name: Camera Labacencis
+  role: orchestra
+- name: Eugen Duvier
+  role: conductor
+- name: Joseph Brezina
+  role: violin
+- name: Feliz Elias
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9ef72d8a-28c1-4196-9852-11e2dc282bda
+  title: 'The Greatest Classical Hits: The Collection'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0e7aaf4e-14ea-4f4e-b441-052a3df6e5a7
+  recordings: [c4a3b104-3e5b-406c-ac45-0a261cee845c]

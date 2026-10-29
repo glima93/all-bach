@@ -1,0 +1,34 @@
+id: georgian-simi-festival-orchestra-undated
+performers:
+- name: Georgian SIMI Festival Orchestra
+  role: orchestra
+- name: Larisa Abakian
+  role: violin
+- name: Helmut Eilhofer
+  role: violin
+- name: Nodar Tsatishvili
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b4e208a4-87c3-4369-8859-3ab8be90df53
+  title: 'Bruch: Violin Concerto No. 1 / Tchaikovsky: Rococo Variations / Bach: Double Violin Concerto'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aede7ef4-0972-4fbe-a114-652b96208047
+  recordings: [196750b1-642e-47de-91b8-fea3a732e110]

@@ -1,0 +1,33 @@
+id: accademia-dell-annunciata-2018
+performers:
+- name: Accademia dell’Annunciata
+  role: orchestra
+- name: Mario Brunello
+  role: solo
+- name: Giuliano Carmignola
+  role: solo
+- name: Riccardo Doni
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2018]
+  place: Convento dell’Annunciata
+released: 2020
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0971d1c7-0300-4b27-adcb-b80bf1fdebb6
+  title: 'Sonar in ottava: Double Concertos for Violin and Violoncello piccolo'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With violoncello piccolo.
+musicbrainz:
+  artist: b7133b1c-1298-4d0f-b60c-b45bcde50a01
+  recordings: [4d3639a9-60c5-47d8-8c1b-c4e67a0cb3fb]

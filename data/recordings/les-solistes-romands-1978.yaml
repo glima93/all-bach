@@ -1,0 +1,35 @@
+id: les-solistes-romands-1978
+performers:
+- name: Les Solistes Romands
+  role: orchestra
+- name: Arthur Grumiaux
+  role: violin
+- name: Arpad Gérecz
+  role: conductor
+- name: Herman Krebbers
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978]
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7ebddaf-6202-4ae1-944e-ad9a28bd9343
+  title: Violin Concertos / Double Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6aa22fae-d399-4964-b354-559e7b923e38
+  recordings: [61897623-651f-44fa-96e7-51530e42ae8d]

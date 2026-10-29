@@ -1,0 +1,36 @@
+id: ussr-state-symphony-orchestra-1945
+performers:
+- name: USSR State Symphony Orchestra
+  role: orchestra
+- name: David Oistrakh
+  role: performer
+- name: Yehudi Menuhin
+  role: violin
+- name: Alexander Orlov
+  role: performer
+- name: George Enescu
+  role: performer
+- name: Kiril Kondrashin
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1945]
+  place: 'Московская Государственная Консерватория им. П. И. Чайковского: большой зал'
+released: 2016
+original_label: null
+works:
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0bd0d893-18db-45a3-a8ad-b26b11205c0a
+  title: The Menuhin Century
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 67e5938c-3953-4dfe-9d63-860bef0d8475
+  recordings: [832009e5-24a3-47dc-8f3b-cbcc03167ea3]

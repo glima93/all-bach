@@ -1,0 +1,30 @@
+id: academy-of-st-martin-in-the-fields-1982
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Gidon Kremer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1982]
+  place: St John’s, Smith Square
+released: 1983
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d4090029-4aa5-4483-aa90-47530ae433e1
+  title: The Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [e292939d-62cc-4669-b064-5cc825a97f57]

@@ -1,0 +1,39 @@
+id: moscow-chamber-orchestra-undated-2
+performers:
+- name: Moscow Chamber Orchestra
+  role: orchestra
+- name: David Oistrakh
+  role: performer
+- name: Rudolf Barshai
+  role: performer
+- name: Сергей Дижур
+  role: performer
+- name: Борис Куньев
+  role: performer
+- name: Леонид Миронович
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1042', complete: false, movements: [II. Adagio]}
+- {bwv: '1044', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/454bd150-97e0-4890-a037-2e5e2ee2f32d
+  title: De romantische viool
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b7bb73fe-a011-47ea-a4f3-4893d026c6fb
+  recordings: [c1d22867-2bb3-4c12-a63f-b52fd22eeacd]

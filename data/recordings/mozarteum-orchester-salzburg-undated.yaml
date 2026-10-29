@@ -1,0 +1,33 @@
+id: mozarteum-orchester-salzburg-undated
+performers:
+- name: Mozarteum Orchester Salzburg
+  role: orchestra
+- name: Ilya Ioff
+  role: performer
+- name: Leopold Hager
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3df21b68-c4c4-4b3c-b0e3-d4b6519be41f
+  title: The 99 Most Essential Bach Masterpieces (Full Works Edition)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a027c92f-0fe9-4a6d-af45-6f5fd18ed544
+  recordings: [2ea954f6-fe36-4f9d-8c78-ec25ba987ba0]

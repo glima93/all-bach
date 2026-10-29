@@ -1,0 +1,30 @@
+id: academy-of-ancient-music-1995
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Christophe Rousset
+  role: harpsichord
+- name: Christopher Hogwood
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: Henry Wood Hall
+released: 1998
+original_label: null
+works:
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd7ee0c3-ae2b-4d5e-b81d-12f7ac96185e
+  title: The Complete Harpsichord Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [026f1f4c-34de-4316-8aae-fdb88aba54e4]

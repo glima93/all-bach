@@ -1,0 +1,34 @@
+id: berliner-philharmoniker-1966
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Christian Ferras
+  role: violin
+- name: Herbert von Karajan
+  role: conductor
+- name: Michel Schwalbé
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966]
+  place: Victoria Konzertsaal
+released: 2000
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/37326eaf-37ae-4217-86d4-ac45c6b2df79
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [a237859c-9d8d-4201-9d93-4b620a02aaca]

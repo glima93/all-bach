@@ -1,0 +1,31 @@
+id: ndr-sinfonieorchester-1992
+performers:
+- name: NDR-Sinfonieorchester
+  role: orchestra
+- name: Roland Greutter
+  role: violin
+- name: Günter Wand
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1992]
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/49d3a32e-b470-4a00-9f39-6190c97b26e9
+  title: Günter Wand-Edition, Volume 19
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2688f91d-dfdd-4d67-94df-0f1a02140c62
+  recordings: [0c4c70b0-6fc3-436b-9e3e-d406c464175c]

@@ -1,0 +1,36 @@
+id: nuova-orchestra-alessandro-scarlatti-undated
+performers:
+- name: Nuova Orchestra Alessandro Scarlatti
+  role: orchestra
+- name: Lorin Maazel
+  role: conductor
+- name: Edith Peinemann
+  role: performer
+- name: Renato Zanettovich
+  role: performer
+- name: Claudio Abbado
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Napoli
+released: 1997
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/16b3eaaa-f14c-406c-8dcf-92a69d4e7e5f
+  title: Bach Concertos BWV 1043, 1079, 1041
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d880a34c-c1de-4bb6-a6f9-0ec6ad095e32
+  recordings: [bd69979a-b0a4-4183-8e47-d1b40c401a4f]

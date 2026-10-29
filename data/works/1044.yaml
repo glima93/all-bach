@@ -1,0 +1,16 @@
+bwv: "1044"
+title: "Triple Concerto in A minor"
+key: "A minor"
+collection: "Violin Concertos"
+genre: orchestral
+scoring: "Flute, violin, harpsichord, strings and continuo"
+composed: "Leipzig, probably in the late 1720s or 1730s; arranged from earlier keyboard and organ works"
+movements:
+  - "I. Allegro"
+  - "II. Adagio, ma non tanto e dolce"
+  - "III. Alla breve"
+notes: "The outer movements are reworkings of the keyboard Prelude and Fugue in A minor, BWV 894, and the slow movement comes from the Organ Trio Sonata in D minor, BWV 527. The harpsichord has the most prominent solo part."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Triple_Concerto,_BWV_1044
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e10360f3-bbfd-4483-ba0c-1baa47211d0e

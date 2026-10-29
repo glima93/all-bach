@@ -1,0 +1,30 @@
+id: the-cleveland-orchestra-1953
+performers:
+- name: The Cleveland Orchestra
+  role: orchestra
+- name: Zino Francescatti
+  role: violin
+- name: George Szell
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1953]
+  place: Severance Hall
+released: 2018
+original_label: null
+works:
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/482958a4-b2d1-4ef8-b698-cbd18bca58ad
+  title: The Complete Columbia Album Collection
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f33b188e-b80f-4058-92ca-0e30c04ad2fa
+  recordings: [b8d99052-3642-43f8-8616-755722afb2b2]

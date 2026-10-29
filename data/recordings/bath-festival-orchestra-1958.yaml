@@ -1,0 +1,32 @@
+id: bath-festival-orchestra-1958
+performers:
+- name: Bath Festival Orchestra
+  role: orchestra
+- name: Robert Masters Chamber Orchestra
+  role: orchestra
+- name: Yehudi Menuhin
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958]
+  place: null
+released: 1965
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a18c1b8-0034-45ed-ba13-40d2060a4ace
+  title: Konzert für Violine und Orchester a-moll BWV 1041 / Konzert für Violine und Orchester E-dur BWV 1042
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc6cebc8-6e51-464e-8589-6ae1c498f5d9
+  recordings: [10df43e3-ba46-4969-a96a-df493a223e10]

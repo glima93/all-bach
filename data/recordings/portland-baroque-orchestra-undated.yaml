@@ -1,0 +1,37 @@
+id: portland-baroque-orchestra-undated
+performers:
+- name: Portland Baroque Orchestra
+  role: orchestra
+- name: Carla Moore
+  role: violin
+- name: Rob Diggins
+  role: performer
+- name: Jolianne Einem
+  role: performer
+- name: Adam LaMotte
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: St. Anne's Chapel
+released: 2015
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/00ef9ffb-543e-4fc9-8719-be6d90c5488d
+  title: Concertos for One, Two and Three Violins
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fb6e63e9-2b58-4749-b476-0bf2797d14db
+  recordings: [9324d671-5f3e-4539-aaf6-10da0cc07137]

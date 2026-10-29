@@ -1,0 +1,29 @@
+id: stringfever-undated-2
+performers:
+- name: Stringfever
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1043', complete: false, movements: [II. Largo ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8ceaffc2-0d28-41d9-b526-01da12621527
+  title: Complete BML, Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3296b956-8458-404e-8200-7b4fa9691ca4
+  recordings: [19dc44cc-ba70-401e-a383-6e0c61d3538e]

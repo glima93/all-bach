@@ -1,0 +1,37 @@
+id: australian-chamber-orchestra-2005-2
+performers:
+- name: Australian Chamber Orchestra
+  role: orchestra
+- name: Richard Tognetti
+  role: violin
+- name: Helena Rathbone
+  role: performer
+- name: Angela Hewitt
+  role: performer
+- name: Alison Mitchell
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2005]
+  place: Eugene Goossens Hall, ABC Centre
+released: 1998
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+- {bwv: '1042', complete: true}
+- {bwv: '1043', complete: true}
+- {bwv: '1044', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ed2f3090-9779-42a0-9efd-8677f824b0ef
+  title: 'Tognetti – Bach: Violin Concertos'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22f136e2-6007-41e2-976d-c4dec0c973bc
+  recordings: [764d75d2-58a6-45a3-a6cd-85e027e2d764]
