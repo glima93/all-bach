@@ -33,7 +33,7 @@ collections:
    note: "1043 double concerto, 1044 triple concerto (flute, violin, harpsichord), 1045 sinfonia fragment"}
 - {id: harpsichord-concertos, title: "Harpsichord Concertos", chapter: Orchestral, bwv: ["1052-1065"], mode: ensemble, wave: 1, run: 3, status: imported,
    note: "1052–1059 one harpsichord, 1060–1062 two, 1063–1064 three, 1065 four (after Vivaldi). Piano soloists are common: file the piano, not as an arrangement"}
-- {id: english-suites, title: "English Suites", chapter: Keyboard, bwv: ["806-811"], mode: keyboard, wave: 1, run: 4, status: queued}
+- {id: english-suites, title: "English Suites", chapter: Keyboard, bwv: ["806-811"], mode: keyboard, wave: 1, run: 4, status: collected}
 - {id: french-suites, title: "French Suites", chapter: Keyboard, bwv: ["812-817"], mode: keyboard, wave: 1, run: 5, status: todo}
 - {id: partitas, title: "Partitas (Clavier-Übung I)", chapter: Keyboard, bwv: ["825-830"], mode: keyboard, wave: 1, run: 6, status: todo}
 - {id: inventions-sinfonias, title: "Inventions and Sinfonias", chapter: Keyboard, bwv: ["772-801"], mode: keyboard, wave: 1, run: 7, status: todo,
