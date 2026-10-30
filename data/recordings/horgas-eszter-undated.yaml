@@ -1,0 +1,31 @@
+id: horgas-eszter-undated
+performers:
+- name: Horgas Eszter
+  role: flute
+- name: Andrea Vigh
+  role: harp
+instrument: flute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3685ae54-9c42-4ffa-b18a-114e80583b80
+  title: 'The Most Beautiful Melodies of Classical Music: Evening'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d077eabc-3031-4bd0-be7d-2fe0f6316d8c
+  recordings: [8c0ac5c8-0952-4bff-a6e1-6aefad11743c]

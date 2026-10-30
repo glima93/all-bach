@@ -1,0 +1,28 @@
+id: collegium-pro-arte-undated
+performers:
+- name: Collegium pro arte
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1064', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5bbc3ff4-b3a6-4ee9-95d8-b4d61b39cf44
+  title: Bach and Bagels
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1e8f2bce-95ac-4214-ba8c-fe77c6e1af6e
+  recordings: [847dd339-0a66-4c39-9bdb-aaa9ad592c11]

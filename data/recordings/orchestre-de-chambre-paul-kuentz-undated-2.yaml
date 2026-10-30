@@ -1,0 +1,30 @@
+id: orchestre-de-chambre-paul-kuentz-undated-2
+performers:
+- name: Orchestre de Chambre Paul Kuentz
+  role: orchestra
+- name: Paul Kuentz
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1ed2ba75-9cf1-43c7-b256-cadd7e4b2c52
+  title: Trois concertos rares - Three rare concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 860b79be-1bd1-4882-855d-a73f21eb3ecb
+  recordings: [c5edb2b7-93ba-4f7b-9be7-db5914c0e535]

@@ -1,0 +1,31 @@
+id: philharmonia-orchestra-1946
+performers:
+- name: Philharmonia Orchestra
+  role: orchestra
+- name: Harriet Cohen
+  role: piano
+- name: Walter Süsskind
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1946]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e95bfeb1-6769-4134-bcda-728a32df16d9
+  title: The Complete Solo Studio Recordings
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [de3e7b18-876e-46d0-86b2-1bc9a8e1c4e3]

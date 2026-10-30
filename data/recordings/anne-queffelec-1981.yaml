@@ -1,0 +1,32 @@
+id: anne-queffelec-1981
+performers:
+- name: Anne Queffélec
+  role: piano
+- name: Jacques Gauthier
+  role: piano
+- name: Michel Dalberto
+  role: piano
+- name: Pascal Devoyon
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1981]
+  place: IRCAM
+released: 1999
+original_label: null
+works:
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3604e6a5-7391-4d83-a596-a3692a123262
+  title: Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b49797fb-7cc9-4eae-ad94-3872818ed281
+  recordings: [7a6a0e5f-4c20-4a9a-ae78-97b3b99784bc]

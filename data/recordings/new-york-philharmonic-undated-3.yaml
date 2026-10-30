@@ -1,0 +1,32 @@
+id: new-york-philharmonic-undated-3
+performers:
+- name: New York Philharmonic
+  role: orchestra
+- name: Emanuel Ax
+  role: piano
+- name: Alan Gilbert
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bfbc50fe-ce22-4592-abf7-5d14eab5acc6
+  title: 2013-14 Your Gift
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7cdb68bc-c4f1-4a92-9bd2-739641c5eff0
+  recordings: [f92d4cb6-107f-4656-9f44-69d5f4ccba23]

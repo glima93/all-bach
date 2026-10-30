@@ -1,0 +1,33 @@
+id: les-violons-du-roy-2010
+performers:
+- name: Les Violons du Roy
+  role: orchestra
+- name: Alexandre Tharaud
+  role: piano
+- name: Bernard Labadie
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2010]
+  place: Palais Montcalm
+released: 2011
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82a9d6c6-42be-49a6-b066-b8df24a5151f
+  title: Keyboard Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a118464e-b220-41ff-959d-08da62fa39b7
+  recordings: [e42c53aa-cc78-4b07-a8fe-2d974c8504f3]

@@ -1,0 +1,31 @@
+id: tulipa-consort-2017-2
+performers:
+- name: Tulipa Consort
+  role: orchestra
+- name: Siebe Henstra
+  role: harpsichord
+- name: Bart Schneemann
+  role: oboe
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2017]
+  place: Cunerakerk, Rhenen
+released: 2017
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/89a18aef-eaa8-4cf4-9395-a985f835531e
+  title: JUST Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With oboe.
+musicbrainz:
+  artist: 51274ef9-8a66-40c8-9dbc-a97f44a2889d
+  recordings: [14c7a76a-9136-4c60-87f6-a79b17cb550d]

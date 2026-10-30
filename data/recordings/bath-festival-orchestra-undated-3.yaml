@@ -1,0 +1,34 @@
+id: bath-festival-orchestra-undated-3
+performers:
+- name: Bath Festival Orchestra
+  role: orchestra
+- name: George Malcolm
+  role: harpsichord
+- name: Yehudi Menuhin
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c947f969-4b79-409e-9752-95dcee82dec6
+  title: Orchestral Suites and Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc6cebc8-6e51-464e-8589-6ae1c498f5d9
+  recordings: [a3599bf6-5028-417b-8028-3b1d13abe493]

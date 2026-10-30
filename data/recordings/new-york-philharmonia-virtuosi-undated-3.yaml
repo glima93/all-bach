@@ -1,0 +1,32 @@
+id: new-york-philharmonia-virtuosi-undated-3
+performers:
+- name: New York Philharmonia Virtuosi
+  role: orchestra
+- name: Judith Norell
+  role: harpsichord
+- name: Richard Kapp
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6d50cfbe-dd26-4b95-840c-dc2196c7c4cb
+  title: Sunday Brunch, Volume II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24f7fdaa-f1e0-4fab-ae05-a186137a921a
+  recordings: [f3a36e5c-add5-40c4-a555-fd639e053d11]

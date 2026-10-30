@@ -1,0 +1,33 @@
+id: ussr-state-symphony-orchestra-1948
+performers:
+- name: USSR State Symphony Orchestra
+  role: orchestra
+- name: Emil Gilels
+  role: performer
+- name: Yakov Zak
+  role: performer
+- name: Kirill Kondrashin
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1948]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ba898b03-d22c-4600-b7b9-2a5f1ba2443e
+  title: 'Bach: Concerto for two pianos / Brandenburg Concerto no. 5 / Beethoven: Piano Concerto no. 3'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 67e5938c-3953-4dfe-9d63-860bef0d8475
+  recordings: [0b1c65ff-050c-4067-b322-a7060e683d53]

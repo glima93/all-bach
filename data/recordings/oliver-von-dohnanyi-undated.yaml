@@ -1,0 +1,28 @@
+id: oliver-von-dohnanyi-undated
+performers:
+- name: Oliver von Dohnányi
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/38e6a07b-5ae2-44a8-a61c-d4078c3ec102
+  title: Pure Classical Gold
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4d8e22c1-bff8-4162-b63e-2eced834bd0e
+  recordings: [5fa5ef42-e70f-4767-bbcc-88a08ab41d3a]

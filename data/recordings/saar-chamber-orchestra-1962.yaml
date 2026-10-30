@@ -1,0 +1,39 @@
+id: saar-chamber-orchestra-1962
+performers:
+- name: Saar Chamber Orchestra
+  role: orchestra
+- name: Konrad Burr
+  role: harpsichord
+- name: Lily Berger
+  role: harpsichord
+- name: Fritz Neumeyer
+  role: harpsichord
+- name: Karl Ristenpart
+  role: conductor
+- name: Ilse Urbuteit
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/90b63442-011f-4faa-b8fa-954a76ff4430
+  title: Œuvres pour orchestre
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 42da034d-8355-4237-885c-ac00656924aa
+  recordings: [4a65b81c-be1c-48c1-8eae-2dfbe6015333]

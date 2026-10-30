@@ -1,0 +1,16 @@
+bwv: "1052"
+title: "Harpsichord Concerto No. 1 in D minor"
+key: "D minor"
+collection: "Harpsichord Concertos"
+genre: orchestral
+scoring: "harpsichord, strings and continuo"
+composed: "Leipzig; the autograph score of BWV 1052–1059 dates from around 1738, though the work existed in earlier forms"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Allegro"
+notes: "Like most of Bach's harpsichord concertos it is thought to be an arrangement of a lost earlier concerto: long assumed to have been for violin, though recent scholarship (Wolff, Butler) argues for an organ concerto. Material from it also appears in cantatas BWV 146 and 188."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Harpsichord_Concerto_in_D_minor,_BWV_1052
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e74a3a95-8008-43e3-939d-50d6bc9a221b

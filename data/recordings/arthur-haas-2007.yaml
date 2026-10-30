@@ -1,0 +1,27 @@
+id: arthur-haas-2007
+performers:
+- name: Arthur Haas
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: The Barn at Flintwoods
+released: 2009
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a9d8965-90fd-4c1a-95a1-254fc373e953
+  title: Complete Harpsichord Concertos on Antique Instruments
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f83935bf-6a57-47c9-a9f0-fce8f735d253
+  recordings: [3d4477c2-4089-4edc-978c-67e110cb63c1]

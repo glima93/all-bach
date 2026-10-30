@@ -1,0 +1,29 @@
+id: orchestre-de-chambre-de-la-rtf-1962
+performers:
+- name: Orchestre de chambre de la RTF
+  role: orchestra
+- name: Agnelle Bundervoët
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1962]
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c58c6025-b47b-496c-abfd-dfc0c753cf1a
+  title: Great French Pianism
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 5dc5d9bf-f3d9-4182-89a3-7b97fe8f0c6a
+  recordings: [a209f46a-b7a1-4fcc-af34-15774ba082c0]

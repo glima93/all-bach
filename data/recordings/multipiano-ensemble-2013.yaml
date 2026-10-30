@@ -1,0 +1,30 @@
+id: multipiano-ensemble-2013
+performers:
+- name: MultiPiano Ensemble
+  role: piano
+- name: Tel-Aviv Soloists Ensemble
+  role: orchestra
+- name: Barak Tal
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2013]
+  place: Lin & Ted Arison Israel Conservatory of Music
+released: null
+original_label: null
+works:
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/3024939e-3993-45a5-a5d6-aef28ada71fe
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 0afbee17-27ec-4557-8c3c-1463b285fdb7
+  recordings: [3024939e-3993-45a5-a5d6-aef28ada71fe]

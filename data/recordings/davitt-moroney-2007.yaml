@@ -1,0 +1,27 @@
+id: davitt-moroney-2007
+performers:
+- name: Davitt Moroney
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: The Barn at Flintwoods
+released: 1996
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/faea6f13-5386-4e01-b7d8-c0d8f03068f5
+  title: Treasury of the World’s Most Beautiful Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ec6f651a-b483-408c-a5e5-a868f549022b
+  recordings: [7c287119-c59b-48a6-af75-bcda53edd1a8]

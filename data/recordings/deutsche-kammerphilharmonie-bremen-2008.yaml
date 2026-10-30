@@ -1,0 +1,34 @@
+id: deutsche-kammerphilharmonie-bremen-2008
+performers:
+- name: Deutsche Kammerphilharmonie Bremen
+  role: orchestra
+- name: David Fray
+  role: performer
+- name: Hélène Grimaud
+  role: piano
+- name: Florian Donderer
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: Friedrich-Ebert-Halle
+released: 2008
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/897c3386-e588-41ef-a39f-09680c170806
+  title: Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e1ee04bc-e6de-43e0-99d1-c491c3d66620
+  recordings: [2976e910-2ad3-4d9d-8172-051f28fb0ea8]

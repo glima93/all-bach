@@ -1,0 +1,36 @@
+id: artist-b7bb73fe-undated-2
+performers:
+- name: Московский камерный оркестр
+  role: orchestra
+- name: Carol Rosenberger
+  role: piano
+- name: Constantine Orbelian
+  role: conductor
+- name: Рудольф Баршай
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+- {bwv: '1063', complete: false, movements: [III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/84e9c5b8-2560-4919-be65-0340f342fac2
+  title: The Greatest Hits
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b7bb73fe-a011-47ea-a4f3-4893d026c6fb
+  recordings: [af13497f-3fe5-4b70-88b9-02c09c55a49a]

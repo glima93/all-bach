@@ -1,0 +1,32 @@
+id: boston-symphony-orchestra-1947
+performers:
+- name: Boston Symphony Orchestra
+  role: orchestra
+- name: Pierre Luboshutz
+  role: piano
+- name: Genia Nemenoff
+  role: piano
+- name: Serge Koussevitzky
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1947]
+  place: Tanglewood
+released: 2022
+original_label: null
+works:
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd99b289-0873-47da-932f-1a3cb0988c4f
+  title: 'Luboshutz and Nemenoff: The Art of Duo-Piano Playing'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 6ed6a493-0300-428d-82da-91c62b4d50aa
+  recordings: [a928192f-36cb-45c5-9d43-89875817278d]

@@ -1,0 +1,30 @@
+id: b-rock-undated
+performers:
+- name: B’Rock
+  role: orchestra
+- name: Gary Cooper
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eef50611-3bb7-4ea9-8308-d1dc8a92fdbe
+  title: Aangenaam Klassiek 2014
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 09f7a953-3e6b-4085-8e9d-826a106ffadd
+  recordings: [98962aa3-f758-4ce5-bd3b-333d8d0a3f14]

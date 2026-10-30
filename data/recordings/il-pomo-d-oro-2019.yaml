@@ -1,0 +1,43 @@
+id: il-pomo-d-oro-2019
+performers:
+- name: Il Pomo d’Oro
+  role: orchestra
+- name: Francesco Corti
+  role: harpsichord
+- name: Andrea Buccarella
+  role: performer
+- name: Andrés Locatelli
+  role: performer
+- name: Alessandro Nasello
+  role: performer
+- name: Emmanuel Laporte
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019, 2020, 2021]
+  place: 'Kulturzentrum Grand Hotel: Gustav-Mahler-Saal'
+released: 2020
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+- {bwv: '1059', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a095c25-7c94-4289-9bfb-5696cfee528f
+  title: Harpsichord Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 80e83913-b0d4-41f6-80b3-cf1119d025f8
+  recordings: [58295142-d92d-4dde-970d-a96b1268de8c]

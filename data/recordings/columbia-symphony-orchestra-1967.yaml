@@ -1,0 +1,32 @@
+id: columbia-symphony-orchestra-1967
+performers:
+- name: Columbia Symphony Orchestra
+  role: orchestra
+- name: Glenn Gould
+  role: piano
+- name: Vladimir Golschmann
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1967, 1969]
+  place: null
+released: 1967
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aaac643b-3952-4b69-9950-08b8ee29d40f
+  title: Three Keyboard Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4443207a-5293-44bc-9af0-1fdcca83fee4
+  recordings: [56e51e52-cf95-4294-8b5b-4751d41b9c63]

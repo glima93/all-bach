@@ -1,0 +1,35 @@
+id: string-orchestra-1932
+performers:
+- name: String Orchestra
+  role: orchestra
+- name: Sir John Barbirolli
+  role: conductor
+- name: Ethel Bartlett
+  role: performer
+- name: Rae Robertson
+  role: performer
+- name: Yvonne Arnaud
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1932, 1933]
+  place: 'Abbey Road Studios: Studio 2'
+released: 2020
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [I. Allegro]}
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/290f4b53-8292-470b-b669-5a3b9dda5b24
+  title: The Complete Warner Recordings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2d7f0016-aca9-4336-b050-66fb9946716f
+  recordings: [136ccb2e-a0a2-40f3-8277-b2bbc9702872]

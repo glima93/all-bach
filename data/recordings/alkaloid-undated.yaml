@@ -1,0 +1,29 @@
+id: alkaloid-undated
+performers:
+- name: Alkaloid
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '1052', complete: false, movements: [I. Allegro, II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/26032ea8-4f7e-4e72-8ff0-d47d15504149
+  title: Bach Out of Bounds
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 0548c4ab-5ac1-4dbc-91c9-5f9bd4b33383
+  recordings: [bcacf11e-893b-47a7-b3cc-c78653dd6535]

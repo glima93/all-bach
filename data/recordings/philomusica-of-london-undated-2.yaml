@@ -1,0 +1,30 @@
+id: philomusica-of-london-undated-2
+performers:
+- name: Philomusica of London
+  role: orchestra
+- name: Thurston Dart
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/987f188d-3b90-452c-8eef-b2133caf8574
+  title: Palmarès du cinéma
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e36486b6-2dc8-406c-bed2-4e5081b4ddf6
+  recordings: [b459a63f-a715-4154-9b15-df36db6a61dc]

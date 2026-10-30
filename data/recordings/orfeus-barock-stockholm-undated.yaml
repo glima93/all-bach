@@ -1,0 +1,28 @@
+id: orfeus-barock-stockholm-undated
+performers:
+- name: Orfeus Barock Stockholm
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1645f37d-2c4f-45d0-bf38-a01d392ec556
+  title: Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 09952390-e154-4811-bb80-b7484c3ea73a
+  recordings: [189dac3e-d3c1-4a4d-b559-8017832443cb]

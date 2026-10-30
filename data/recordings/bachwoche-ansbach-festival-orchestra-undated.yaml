@@ -1,0 +1,34 @@
+id: bachwoche-ansbach-festival-orchestra-undated
+performers:
+- name: Bachwoche Ansbach Festival Orchestra
+  role: orchestra
+- name: Karl Richter
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1060', complete: false, movements: [II. Largo ovvero Adagio]}
+- {bwv: '1061', complete: false, movements: [I. Allegro, III. Vivace]}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3844c654-dbb5-4317-bcd5-0766b9855079
+  title: Concerti for 1 to 4 Harpsichords and String Orchestra
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 28985fc0-33f2-4b0a-8558-e479330b04fb
+  recordings: [f419f6ea-f935-4510-8b39-0817bfebc33f]

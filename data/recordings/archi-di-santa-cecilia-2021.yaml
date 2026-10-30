@@ -1,0 +1,33 @@
+id: archi-di-santa-cecilia-2021
+performers:
+- name: Archi di Santa Cecilia
+  role: orchestra
+- name: Gile Bae
+  role: piano
+- name: Luigi Piovano
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2021]
+  place: Palazzo Liviano
+released: 2024
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/21052dbe-6af1-4249-a29e-a7435c27a9a2
+  title: Keyboard Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a5cda43-8147-474e-95ad-7d97414b69bb
+  recordings: [7f15324e-5497-4428-8364-d40ca3920d7e]

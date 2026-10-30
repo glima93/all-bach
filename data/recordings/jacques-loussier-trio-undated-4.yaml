@@ -1,0 +1,29 @@
+id: jacques-loussier-trio-undated-4
+performers:
+- name: Jacques Loussier Trio
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/130fff33-7b24-4670-9566-9253b406f4a1
+  title: Plays Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With drums (drum set).
+musicbrainz:
+  artist: 03b10e63-04f5-4f59-9954-fc22a4386945
+  recordings: [be1fcbd0-ba96-4152-a070-5c1d3f3b1371]

@@ -1,0 +1,28 @@
+id: alexander-cattarino-undated
+performers:
+- name: Alexander Cattarino
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/842e135a-b092-4dab-ace7-ad456ce8e6ed
+  title: Classica D’Oro, Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dc1387dc-80fa-4f9e-a0ff-f16d0efe6b03
+  recordings: [e524aeea-d55f-4546-9d72-2d7bd02c653b]

@@ -1,0 +1,32 @@
+id: de-nederlandse-bachvereniging-2017
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Lars Ulrik Mortensen
+  role: performer
+- name: Siebe Henstra
+  role: performer
+- name: Menno van Delft
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Muziekgebouw aan ’t IJ
+released: null
+original_label: null
+works:
+- {bwv: '1063', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/895237bd-c64f-455f-8a2c-0714b7ab8fc3
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [895237bd-c64f-455f-8a2c-0714b7ab8fc3]

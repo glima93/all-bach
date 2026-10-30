@@ -1,0 +1,30 @@
+id: london-symphony-orchestra-1965
+performers:
+- name: London Symphony Orchestra
+  role: orchestra
+- name: Vladimir Ashkenazy
+  role: piano
+- name: David Zinman
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1965]
+  place: Kingsway Hall
+released: 1965
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/334373f3-d7bb-4fdf-aff6-7d037563c0b6
+  title: Great Piano Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38712b4c-0fd4-4c65-8c7a-45676fecc973
+  recordings: [6ee40bf8-4289-4540-81d5-e171a0759eb4]

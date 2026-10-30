@@ -1,0 +1,28 @@
+id: george-malcolm-undated-2
+performers:
+- name: George Malcolm
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c01fc872-4b43-4e7b-90c5-20b251f13eb9
+  title: The Best Baroque Album in the World... Ever
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b2b0e5dc-c960-4b2b-b9c6-caac0e546456
+  recordings: [52cf1faf-72fd-4c9e-bfa6-83735c727333]

@@ -1,0 +1,34 @@
+id: orchestre-colonne-1966
+performers:
+- name: Orchestre Colonne
+  role: orchestra
+- name: Gaby Casadesus
+  role: piano
+- name: Jean Casadesus
+  role: piano
+- name: Robert Casadesus
+  role: piano
+- name: Pierre Dervaux
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1966]
+  place: Maison de la Mutualité
+released: 1995
+original_label: null
+works:
+- {bwv: '1064', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf8db4a9-f3ce-420c-915a-e7ae8a20aa82
+  title: Concertos for 2 & 3 Pianos, BWV 1060, 1061, 1063, 1064
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 81f8f40f-0cd4-4961-9415-b8d2c982868e
+  recordings: [e851b17e-cdd0-4ecb-9625-7f15e3ffb918]

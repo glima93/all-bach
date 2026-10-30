@@ -1,0 +1,36 @@
+id: the-london-strings-undated
+performers:
+- name: The London Strings
+  role: orchestra
+- name: Igor Kipnis
+  role: harpsichord
+- name: Neville Marriner
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b10a565a-83aa-4b3d-b6b0-34f4605aa00d
+  title: The Harpsichord Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 47cefd3f-f463-43c8-b9b6-7b0abc8e4113
+  recordings: [daa4ef0a-f655-4fc4-8ee4-f5aafbd924fe]

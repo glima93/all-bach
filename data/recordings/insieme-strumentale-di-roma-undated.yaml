@@ -1,0 +1,34 @@
+id: insieme-strumentale-di-roma-undated
+performers:
+- name: Insieme strumentale di Roma
+  role: orchestra
+- name: Salvatore Carchiolo
+  role: harpsichord
+- name: Andrea Mion
+  role: oboe
+- name: Giorgio Sasso
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1059', complete: false, movements: [III. Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/581d8b65-dbe8-47e7-a80d-5abf4a1411a3
+  title: Complete Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c7b36ef3-646d-4985-9d6b-bf44e3885c51
+  recordings: [c0950b94-5081-42fa-b009-d85215366b6f]

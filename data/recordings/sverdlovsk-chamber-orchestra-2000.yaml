@@ -1,0 +1,37 @@
+id: sverdlovsk-chamber-orchestra-2000
+performers:
+- name: Sverdlovsk Chamber Orchestra
+  role: orchestra
+- name: Alexander Bakhchiev
+  role: performer
+- name: Lyupka Khadzhigeorgieva
+  role: performer
+- name: Evgeni Korolev
+  role: performer
+- name: Elena Sorokina
+  role: performer
+- name: Enkhbaatar Enkhe
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2000]
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1112663c-ba0a-4000-a3a9-5fe265e71c86
+  title: Czerny / Bach / Kozheluch
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fd686f48-3b26-45c7-97aa-74fe491dcaf7
+  recordings: [ffc4fea1-871d-4c4c-b30f-885efc804367]

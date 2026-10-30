@@ -1,0 +1,31 @@
+id: andrei-gavrilov-1982
+performers:
+- name: Andrei Gavrilov
+  role: performer
+- name: Yuri Nikolaevsky
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1982]
+  place: null
+released: 1982
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/35d753d6-ed7e-4daa-b2a2-10b08fc96a33
+  title: Gavrilov Plays Bach Keyboard Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6624e455-c745-4ca8-bebb-146cdfe89359
+  recordings: [9e84e3cf-8081-4ba8-8f8c-7c4e980d2b6b]

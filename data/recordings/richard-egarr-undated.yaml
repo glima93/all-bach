@@ -1,0 +1,32 @@
+id: richard-egarr-undated
+performers:
+- name: Richard Egarr
+  role: piano
+- name: Pieter Wispelwey
+  role: cello
+- name: Daniel Yeadon
+  role: cello
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2deaba4e-3364-4399-86bb-81c45f3167be
+  title: Aangenaam klassiek 1999
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4
+  recordings: [7d870cdc-d632-4529-ae0e-9c371ca3b263]

@@ -1,0 +1,31 @@
+id: minnesota-chamber-players-undated-3
+performers:
+- name: Minnesota Chamber Players
+  role: orchestra
+- name: Dirk Freymuth
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dd28500a-97b9-410d-ab06-f2faec002e4b
+  title: 'Lifescapes: Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 94f752a1-579d-4ed9-8e87-fbc813c978fb
+  recordings: [aca2b09b-9141-4f94-8d5d-817204756fa4]

@@ -1,0 +1,35 @@
+id: academy-of-ancient-music-1987
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Christopher Hogwood
+  role: conductor
+- name: Christophe Rousset
+  role: harpsichord
+- name: Colin Tilney
+  role: performer
+- name: Davitt Moroney
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1987, 1989]
+  place: Conservatoire de Paris
+released: 1989
+original_label: null
+works:
+- {bwv: '1060', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9fa4b0d7-39a4-42ff-9254-53bddddf9627
+  title: Double Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [03987e9a-081e-4060-a60a-e57713420118]

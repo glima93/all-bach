@@ -1,0 +1,29 @@
+id: alison-balsom-2005-2
+performers:
+- name: Alison Balsom
+  role: trumpet
+- name: Colm Carey
+  role: organ
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2005]
+  place: Chapel of St. Augustine
+released: 2005
+original_label: null
+works:
+- {bwv: '1055', complete: false, movements: [II. Larghetto, III. Allegro ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2245755f-9463-4829-8d23-835ae86b8fc4
+  title: Works for Trumpet
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on trumpet, organ.
+musicbrainz:
+  artist: c9f87c8b-b6aa-42d1-9494-c74da4142db8
+  recordings: [a59d4059-9d73-4863-9942-1545cae2062f]

@@ -1,0 +1,30 @@
+id: bach-collegium-japan-2019
+performers:
+- name: Bach Collegium Japan
+  role: ensemble
+- name: Masato Suzuki
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: Yamaha Hall
+released: 2022
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1d6823ff-3b28-438a-91b4-e771cc2bcc4f
+  title: Concertos for Harpsichord & Strings, Volume 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [c24b709d-9b59-4e86-af63-5574144be1fd]

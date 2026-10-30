@@ -1,0 +1,30 @@
+id: collegium-aureum-undated-2
+performers:
+- name: Collegium Aureum
+  role: orchestra
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9997e28e-47e5-491c-b376-c10c38f8f782
+  title: Triple Concerto (BWV 1044) / Double Concerto (BWV 1060R) / Harpsichord Concerto (BWV 1052)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2cdc12f9-aae5-4b64-a769-6448f2c1c586
+  recordings: [18ef3518-4ffa-4cda-a30a-abb9a286bedc]

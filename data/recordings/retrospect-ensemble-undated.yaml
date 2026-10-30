@@ -1,0 +1,32 @@
+id: retrospect-ensemble-undated
+performers:
+- name: Retrospect Ensemble
+  role: orchestra
+- name: Matthew Halls
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/71c8c1e3-6ee7-496b-a7d9-5bddff94c778
+  title: 'J.S. Bach: Harpsichord Concertos'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 588da6a2-1811-4280-936b-f29ae741c3fa
+  recordings: [2988841a-b1f4-44c2-9229-ad317fbc67cd]

@@ -1,0 +1,46 @@
+id: leonhardt-consort-1961
+performers:
+- name: Leonhardt‐Consort
+  role: orchestra
+- name: Gustav Leonhardt
+  role: conductor
+- name: Lodewijk de Boer
+  role: viola
+- name: Frans Brüggen
+  role: recorder
+- name: Antoinette van den Hombergh
+  role: violin
+- name: Dijck Koster
+  role: cello
+- name: Marie Leonhardt
+  role: violin
+- name: Fred Nijenhuis
+  role: bass
+- name: Jeanette van Wingerden
+  role: recorder
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1961, 1962, 1963]
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '1057', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/265cce15-e412-4333-87d4-723471512256
+  title: Cembalokonzerte BWV 1052, 1057, 1064
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdcb74c4-2c5f-4d57-a052-b9ae935a3302
+  recordings: [ae4ad5ec-e874-4be2-8cca-b652cae4c6fd]

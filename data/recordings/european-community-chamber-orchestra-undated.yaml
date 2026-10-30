@@ -1,0 +1,33 @@
+id: european-community-chamber-orchestra-undated
+performers:
+- name: European Community Chamber Orchestra
+  role: orchestra
+- name: Eivind Aadland
+  role: conductor
+- name: Orazio Maione
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/88d17b3f-75a3-424b-be53-c5d1595b9a6b
+  title: 'Bach: Concerto for Piano & Strings no. 1 in D minor, BWV 1052 / Haydn: Concerto for Piano & Orchestra
+    in D, Hob. XVIII:11 / Mozart: Concerto for Piano & Orchestra no. 8 in C, K. 246'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3f221c60-2568-40f5-b1c3-625fed319258
+  recordings: [e979e4f2-b50a-40e8-8845-c27d4a924a48]

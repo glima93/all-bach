@@ -1,0 +1,32 @@
+id: cbc-radio-orchestra-1987
+performers:
+- name: CBC Radio Orchestra
+  role: orchestra
+- name: Angela Hewitt
+  role: piano
+- name: Mario Bernardi
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1987]
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/afcd5366-8400-4463-9e81-e0fbfbf5ecd8
+  title: Piano Concerti
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b66a5867-07bc-4d60-bb99-10bef321950f
+  recordings: [200406c6-ce5a-4d32-aee9-536d5605cf4b]

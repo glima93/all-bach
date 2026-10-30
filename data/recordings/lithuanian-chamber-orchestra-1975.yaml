@@ -1,0 +1,53 @@
+id: lithuanian-chamber-orchestra-1975
+performers:
+- name: Lithuanian Chamber Orchestra
+  role: orchestra
+- name: Saulius Sondeckis
+  role: conductor
+- name: Tatiana Nikolayeva
+  role: performer
+- name: Mikhaïl Petukhov
+  role: performer
+- name: Marina Yevseyeva
+  role: performer
+- name: Sergei Senkov
+  role: performer
+- name: Andrei Ivanovich
+  role: performer
+- name: Zbignevas Ibelhauptas
+  role: performer
+- name: Julius Geniušas
+  role: performer
+- name: Albina Šikšniūtė
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1975]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c472405d-0a5d-476a-9501-734959e7beb6
+  title: 'Tatiana Nikolayeva, Vol. 2: Bach Concertos'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 71ee9a85-99b7-417b-a23c-d0391ff05080
+  recordings: [2f33e5c3-713c-473d-aff0-b1a7969abf72]

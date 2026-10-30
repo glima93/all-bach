@@ -1,0 +1,30 @@
+id: toronto-symphony-orchestra-1955
+performers:
+- name: Toronto Symphony Orchestra
+  role: orchestra
+- name: Glenn Gould
+  role: piano
+- name: Ernest MacMillan
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1955]
+  place: Massey Hall
+released: 1993
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dab6db62-f39f-4409-abb0-2ec1d5acfab2
+  title: Partita no. 5 / Sinfonias / Italian Concerto / Concerto in D minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 36869aa7-528f-491d-b1a0-5fc9fe141cb6
+  recordings: [5448a69a-34db-40cf-be52-98f2b3028f9a]

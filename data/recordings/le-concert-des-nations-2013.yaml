@@ -1,0 +1,30 @@
+id: le-concert-des-nations-2013
+performers:
+- name: Le Concert des Nations
+  role: orchestra
+- name: Pierre Hantaï
+  role: harpsichord
+- name: Jordi Savall
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2013]
+  place: Abbaye de Fontfroide
+released: 2014
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/adbc95fb-e8bc-45fb-81ad-d131fedc5bf8
+  title: Magnificat & Concerti
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e3b43b6a-14b0-4b2a-abd4-a41307cf10a0
+  recordings: [3d0b2571-7e8d-4d8f-8d10-7b1f08853997]

@@ -1,0 +1,16 @@
+bwv: "1061"
+title: "Concerto for Two Harpsichords in C major"
+key: "C major"
+collection: "Harpsichord Concertos"
+genre: orchestral
+scoring: "2 harpsichords, strings and continuo"
+composed: "Leipzig; date uncertain, probably earlier than the c. 1738 solo-concerto autograph"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Vivace"
+notes: "Originally written for two harpsichords without orchestra (BWV 1061a); the string parts were added later and may not be by Bach."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/1fa8d1cb-7b8f-4127-88a3-731731d3a129

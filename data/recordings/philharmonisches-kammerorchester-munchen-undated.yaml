@@ -1,0 +1,31 @@
+id: philharmonisches-kammerorchester-munchen-undated
+performers:
+- name: Philharmonisches Kammerorchester München
+  role: orchestra
+- name: Martin Stadtfeld
+  role: piano
+- name: Lorenz Nasturica-Herschcowici
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: August Everding Saal
+released: 2011
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/98f78e49-a954-406c-b113-2f65f553c342
+  title: Klavierkonzerte
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3c226685-6038-43db-be8d-5f84a0aaf094
+  recordings: [12568b32-4aff-400d-a377-63019df97684]

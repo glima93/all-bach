@@ -1,0 +1,28 @@
+id: joao-carlos-martins-1983
+performers:
+- name: João Carlos Martins
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1983]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1052', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e6f1f575-5074-444d-b5bb-2644ac0a8dd1
+  title: 'The Complete Keyboard Works Of J.S. Bach On Concord Concerto: The Essential Bach, Selections From The
+    Complete Edition Volumes 1-15'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c7f12aa4-b144-44e6-84da-bf12052d15ac
+  recordings: [2022bc12-a391-44c7-b491-4223c98e9837]

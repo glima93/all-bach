@@ -1,0 +1,30 @@
+id: tallinna-kammerorkester-2012-2
+performers:
+- name: Tallinna Kammerorkester
+  role: orchestra
+- name: Mikk Murdvee
+  role: conductor
+- name: Auli Lonks
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2012]
+  place: Mustpeade maja Valge saal
+released: null
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo, III. Presto]}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/68d0476c-696c-4da4-abfd-d0e25c072568
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: f48191a0-9c23-4fb1-8ac3-d1d0722b6a0e
+  recordings: [68d0476c-696c-4da4-abfd-d0e25c072568]

@@ -1,0 +1,39 @@
+id: kammerakademie-potsdam-2018
+performers:
+- name: Kammerakademie Potsdam
+  role: orchestra
+- name: Evgeni Koroliov
+  role: performer
+- name: Anna Vinnitskaya
+  role: performer
+- name: Ljupka Hadzi Georgieva
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2018]
+  place: Jesus‐Christus‐Kirche
+released: 2019
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1060', complete: false, movements: [I. Allegro, II. Largo ovvero Adagio]}
+- {bwv: '1061', complete: false, movements: [I. Allegro, III. Vivace]}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3269fac6-0fd4-4634-b640-c1d6ba22f6ff
+  title: Concertos for Pianos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8550a803-d5a1-4ee4-84fb-343389b4313a
+  recordings: [8b073640-651b-47fe-bbae-1cea3c3f9aa9]

@@ -1,0 +1,39 @@
+id: string-ensemble-of-the-orchestre-national-de-capitole-de-toulouse-undated
+performers:
+- name: String Ensemble of the Orchestre National de Capitole de Toulouse
+  role: orchestra
+- name: David Fray
+  role: conductor
+- name: Emmanuel Christien
+  role: piano
+- name: Jacques Rouvier
+  role: performer
+- name: Audrey Vigoureux
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: false, movements: [I. Allegro, III. Vivace]}
+- {bwv: '1063', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/28252b6b-3114-47f5-8a30-5b85212cdf06
+  title: Concertos for 2, 3 & 4 Pianos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c0fbae32-1362-44c4-95e7-47a26e316a17
+  recordings: [ef47a06e-63dc-41e3-9705-3baed50e7bf9]

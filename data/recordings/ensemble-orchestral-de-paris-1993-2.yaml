@@ -1,0 +1,37 @@
+id: ensemble-orchestral-de-paris-1993-2
+performers:
+- name: Ensemble Orchestral de Paris
+  role: ensemble
+- name: Jean‐Pierre Wallez
+  role: conductor
+- name: Gabriel Tacchino
+  role: piano
+- name: Philippe Bernold
+  role: performer
+- name: Emmanuelle Reville
+  role: performer
+- name: Bruno Rigutto
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1993]
+  place: Salle Wagram
+released: 2000
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6f1115de-dadb-44f0-a186-f43a72aba829
+  title: Les Concertos pour Piano
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7df261f1-1a33-454b-96b6-f0c83d43bb29
+  recordings: [f32218fa-7ade-453b-b42d-853a55a4cecc]

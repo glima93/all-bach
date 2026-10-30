@@ -1,0 +1,45 @@
+id: helsinki-baroque-orchestra-undated
+performers:
+- name: Helsinki Baroque Orchestra
+  role: orchestra
+- name: Aapo Häkkinen
+  role: harpsichord
+- name: Cristiano Holtz
+  role: performer
+- name: Miklós Spányi
+  role: performer
+- name: Anna-Maaria Oramo
+  role: performer
+- name: Pierre Hantaï
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1057', complete: true}
+- {bwv: '1060', complete: false, movements: [II. Largo ovvero Adagio, III. Allegro]}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e268a78e-09df-44a6-b572-8fea87483788
+  title: Concerti à cembalo concertato, vol. 2
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 078e3e21-ff7a-4778-8eb0-a8a234505de4
+  recordings: [2ebbe478-82d5-4a3c-a0c5-7d6758886e18]

@@ -1,0 +1,45 @@
+id: ensemble-orchestral-de-paris-1981
+performers:
+- name: Ensemble Orchestral de Paris
+  role: ensemble
+- name: Jean-Pierre Wallez
+  role: performer
+- name: Michel Béroff
+  role: piano
+- name: Jean‐Philippe Collard
+  role: piano
+- name: Gabriel Tacchino
+  role: performer
+- name: Bruno Rigutto
+  role: piano
+- name: Michel Dalberto
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1981, 1982, 1985, 1986]
+  place: Salle Wagram
+released: 1991
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/482a9fd8-a957-4e5f-9861-16e94e902250
+  title: Les Concertos pour 3 et 4 pianos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7df261f1-1a33-454b-96b6-f0c83d43bb29
+  recordings: [a3f9e10b-9e70-4fc2-83c7-70d4e61292d8]

@@ -1,0 +1,32 @@
+id: freiburger-barockorchester-2013
+performers:
+- name: Freiburger Barockorchester
+  role: orchestra
+- name: Andreas Staier
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2013]
+  place: Ensemblehaus Freiburg
+released: 2015
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee2f5f1d-b2f0-4c90-82c2-9ec4f4543bef
+  title: Harpsichord Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 21a558f0-22b1-4959-aa24-df7b0d7a571d
+  recordings: [98ccb7b1-98a8-45ea-82b2-b3f592c45667]

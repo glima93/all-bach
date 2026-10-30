@@ -1,0 +1,33 @@
+id: new-friends-of-music-orchestra-undated
+performers:
+- name: New Friends of Music Orchestra
+  role: orchestra
+- name: Joseph Szigeti
+  role: violin
+- name: Fritz Stiedry
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c3b78fde-f46a-4ad9-8a4e-6c3cf312b422
+  title: The Complete Columbia Album Collection
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With violin.
+musicbrainz:
+  artist: 07548aaa-867d-43fb-bf04-0c52e9554839
+  recordings: [d3adc9bb-570c-41b6-8708-a9198aede9c6]

@@ -1,0 +1,29 @@
+id: camerata-koln-undated
+performers:
+- name: Camerata Köln
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1055', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de586380-4951-4386-8d97-a926eb7305db
+  title: Double Concerto / Oboe Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With oboe.
+musicbrainz:
+  artist: ae85aad9-2e03-400f-8304-0198b36da1fc
+  recordings: [a2b0c0a3-a32c-4d82-99f2-fd622e95d013]

@@ -1,0 +1,30 @@
+id: societas-musica-chamber-orchestra-copenhagen-1976-2
+performers:
+- name: Societas Musica Chamber Orchestra Copenhagen
+  role: orchestra
+- name: Jørgen Ernst Hansen
+  role: conductor
+- name: Karen Englund
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: Østervangskirken
+released: 1983
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1cb374c7-5716-427d-9f74-ffe406fda1c7
+  title: Invitation to the Baroque Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c1972aa3-a742-4240-b4b3-4cd235c60a7c
+  recordings: [b051fbd4-5a8e-47b5-9ee0-7ecdac638832]

@@ -1,0 +1,16 @@
+bwv: "1055"
+title: "Harpsichord Concerto No. 4 in A major"
+key: "A major"
+collection: "Harpsichord Concertos"
+genre: orchestral
+scoring: "harpsichord, strings and continuo"
+composed: "Leipzig, c. 1738 (autograph score of BWV 1052–1059)"
+movements:
+  - "I. Allegro"
+  - "II. Larghetto"
+  - "III. Allegro ma non tanto"
+notes: "Probably an arrangement of a lost earlier concerto; the original solo instrument is disputed, with the oboe d'amore the most common suggestion."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/8faf9f08-3f67-4029-8322-b9dc5ce1f098

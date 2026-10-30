@@ -1,0 +1,28 @@
+id: bach-collegium-japan-2008-2
+performers:
+- name: Bach Collegium Japan
+  role: orchestra
+- name: Masaaki Suzuki
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: ミューザ川崎シンフォニーホール
+released: 2009
+original_label: null
+works:
+- {bwv: '1064', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7ed9333d-ab73-43ab-b6ff-6f664be5f3c2
+  title: Brandenburg Concertos / Orchestral Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [ad7c9fc1-49cf-4767-8850-90669b27eb6a]

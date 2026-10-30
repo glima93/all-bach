@@ -1,0 +1,31 @@
+id: eesti-raadio-kammerorkester-1980
+performers:
+- name: Eesti Raadio kammerorkester
+  role: orchestra
+- name: Paul Mägi
+  role: conductor
+- name: Lembit Orgse
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b8e8e9c9-8e1a-40b1-9fb6-2a20bf6abeb3
+  title: Mängib Eesti Raadio kammerorkester, dirigeerib Paul Mägi
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 56de25e5-2b01-4d16-9d77-6123ae67f08e
+  recordings: [ffd9266d-5062-476a-8b1b-58f002b08e1e]

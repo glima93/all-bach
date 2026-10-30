@@ -1,0 +1,43 @@
+id: deutsche-bachsolisten-undated-2
+performers:
+- name: Deutsche Bachsolisten
+  role: orchestra
+- name: Helmut Winschermann
+  role: conductor
+- name: Jürgen Kussmaul
+  role: performer
+- name: Ernst Mayer‐Schierning
+  role: performer
+- name: Wolfgang Kussmaul
+  role: performer
+- name: Bob van Asperen
+  role: performer
+- name: Kees Boeke
+  role: performer
+- name: Walter van Hauwe
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1057', complete: true}
+- {bwv: '1063', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/23b42ba3-927d-4c8a-908c-f15c5f17a34a
+  title: Bach Masterpieces, Volume 5
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bf5a484-6a6a-40a2-bbd4-95129f53fbc3
+  recordings: [ab7d369e-bf17-461e-87e1-35a52393d3eb]

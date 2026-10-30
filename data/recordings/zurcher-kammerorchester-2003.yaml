@@ -1,0 +1,40 @@
+id: zurcher-kammerorchester-2003
+performers:
+- name: Zürcher Kammerorchester
+  role: orchestra
+- name: Güher Pekinel
+  role: piano
+- name: Süher Pekinel
+  role: piano
+- name: Howard Griffiths
+  role: conductor
+- name: Robert Casadesus
+  role: performer
+- name: Gaby Casadesus
+  role: performer
+- name: Edmond de Stoutz
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2003]
+  place: Kirche Neumünster
+released: 2001
+original_label: null
+works:
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: false, movements: [I. Allegro, III. Vivace]}
+- {bwv: '1063', complete: false, movements: [II. Alla Siciliana, III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef87c1f1-d7bc-4c98-8a07-1a8b3fdafe10
+  title: Keyboard Concertos BWV 1060 / 1061 / 1062 / 1063
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8b0f8e51-e556-41cf-962c-9f16ce880405
+  recordings: [ac7ee975-617d-48bd-adc3-a36f06b287e9]

@@ -1,0 +1,39 @@
+id: english-chamber-orchestra-1973
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Raymond Leppard
+  role: conductor
+- name: Sir Andrew Davis
+  role: performer
+- name: Philip Ledger
+  role: performer
+- name: Blandine Verlet
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973, 1974]
+  place: null
+released: 1974
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3932e703-5fe1-44af-8b89-3c26a8095295
+  title: Bach Celebration
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [923a67bf-594d-44c2-9299-24deabec1b5a]

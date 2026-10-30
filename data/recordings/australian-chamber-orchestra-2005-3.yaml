@@ -1,0 +1,34 @@
+id: australian-chamber-orchestra-2005-3
+performers:
+- name: Australian Chamber Orchestra
+  role: orchestra
+- name: Richard Tognetti
+  role: conductor
+- name: Angela Hewitt
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2005]
+  place: 'Sydney Conservatorium of Music: Verbrugghen Hall'
+released: 2005
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d83cb609-77e8-317b-8d15-25e4e68f8ba7
+  title: 'The Keyboard Concertos 1: BWV 1052 / BWV 1058 / Brandenburg Concerto no. 5 / Triple Concerto'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22f136e2-6007-41e2-976d-c4dec0c973bc
+  recordings: [855c3869-35b3-44e5-9df4-8bd86a9f09b0]

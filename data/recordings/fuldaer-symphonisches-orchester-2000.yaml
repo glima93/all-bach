@@ -1,0 +1,31 @@
+id: fuldaer-symphonisches-orchester-2000
+performers:
+- name: Fuldaer Symphonisches Orchester
+  role: orchestra
+- name: Johannes Volker Schmidt
+  role: piano
+- name: Simon Schindler
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2000]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1b1ec7c7-0782-462e-90e3-9e5b6355fdcf
+  title: 1. Benefiz Symphoniekonzert
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ffa920a-26ed-47d6-89c3-fa2fab043381
+  recordings: [adf882d0-db59-4c79-9f0c-e916caf110fd]

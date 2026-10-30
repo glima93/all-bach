@@ -1,0 +1,38 @@
+id: le-caravanserail-2024
+performers:
+- name: Le Caravansérail
+  role: orchestra
+- name: Bertrand Cuiller
+  role: conductor
+- name: Pierre Gallon
+  role: harpsichord
+- name: Violaine Cochard
+  role: performer
+- name: Jean-Luc Ho
+  role: harpsichord
+- name: Davor Krkljus
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2024]
+  place: Jezuïetenkerk
+released: 2025
+original_label: null
+works:
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c5c8f5e7-8efd-41dd-b3df-9be431a8fe3e
+  title: Concertos for Three and Four Harpsichords
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b22e0977-c08f-4900-af1a-cfdb12d853f7
+  recordings: [7d101673-e3a7-4358-98d5-081c56fb7862]

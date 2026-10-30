@@ -1,0 +1,32 @@
+id: musica-amphion-2019-3
+performers:
+- name: Musica Amphion
+  role: ensemble
+- name: Pieter-Jan Belder
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019, 2020]
+  place: Nederlands Hervormde Kerk
+released: 2022
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0690013-8af6-421c-ab5d-027888d3c8b6
+  title: Harpsichord Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6b41e1f9-5153-4870-a047-a735c52c95a7
+  recordings: [ea6bdba4-7bb1-4cda-9f02-141c947e07d0]

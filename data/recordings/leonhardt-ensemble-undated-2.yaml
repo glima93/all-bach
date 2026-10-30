@@ -1,0 +1,30 @@
+id: leonhardt-ensemble-undated-2
+performers:
+- name: Leonhardt Ensemble
+  role: ensemble
+- name: Gustav Leonhardt
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb5ce817-dc5c-4e51-b1ef-673b5119b31d
+  title: The Essential Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 72f1637e-ba1b-4392-a822-4cea463b30cb
+  recordings: [c6adcb06-234c-47f9-b7e9-948b4a0c7307]

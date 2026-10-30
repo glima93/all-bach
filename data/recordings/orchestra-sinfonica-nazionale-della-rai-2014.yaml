@@ -1,0 +1,32 @@
+id: orchestra-sinfonica-nazionale-della-rai-2014
+performers:
+- name: Orchestra Sinfonica Nazionale della RAI
+  role: orchestra
+- name: Andrea Bacchetti
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b061acbe-a483-46a3-8355-e1e76516d62f
+  title: Keyboard Concertos BWV 1052-1056 & BWV 1058
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32f6d1b5-4aa1-42b3-bbd5-b61dde21213d
+  recordings: [11e05e32-3660-438d-a0b4-fdf8c830f420]

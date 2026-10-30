@@ -1,0 +1,30 @@
+id: orchestra-u-e-c-a-undated
+performers:
+- name: Orchestra U.E.C.A.
+  role: orchestra
+- name: Pierangelo Pelucci
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [I. Allegro, II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/db2fd68d-71e5-4c94-8ba6-b3b90558b8ff
+  title: Dzieła Wielkich Mistrzów
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 58abd7ad-16ce-4ba2-a23b-77c72f555d1d
+  recordings: [bdd69510-8c4b-4105-ae27-301502ea1e6e]

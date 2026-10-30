@@ -1,0 +1,32 @@
+id: anne-queffelec-undated
+performers:
+- name: Anne Queffélec
+  role: piano
+- name: Michel Dalberto
+  role: piano
+- name: Pascal Devoyon
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: IRCAM
+released: 1999
+original_label: null
+works:
+- {bwv: '1063', complete: false, movements: ['I. [no tempo indication]']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3604e6a5-7391-4d83-a596-a3692a123262
+  title: Concertos
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b49797fb-7cc9-4eae-ad94-3872818ed281
+  recordings: [18fb5f1a-f742-4f89-a32b-27811be18610]

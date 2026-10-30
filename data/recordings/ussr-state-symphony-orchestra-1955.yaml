@@ -1,0 +1,31 @@
+id: ussr-state-symphony-orchestra-1955
+performers:
+- name: USSR State Symphony Orchestra
+  role: orchestra
+- name: Sviatoslav Richter
+  role: performer
+- name: Kurt Sanderling
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1955]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fda9a7b6-3235-498c-ab4b-2f678364ddf9
+  title: 'Historical Russian Archives: Concerto Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 67e5938c-3953-4dfe-9d63-860bef0d8475
+  recordings: [91bef2bd-1c61-4f9e-bb8a-3dfe61a1b03f]

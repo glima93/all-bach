@@ -1,0 +1,16 @@
+bwv: "1059"
+title: "Harpsichord Concerto No. 8 in D minor (fragment)"
+key: "D minor"
+collection: "Harpsichord Concertos"
+genre: orchestral
+scoring: "harpsichord, oboe, strings and continuo (only 9 bars survive)"
+composed: "Leipzig, c. 1738 (autograph score of BWV 1052–1059)"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Presto"
+notes: "Bach abandoned the score after nine bars of the first movement, which correspond to the sinfonia of cantata BWV 35. Complete performances use modern reconstructions, often drawing on movements of that cantata."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/742373b3-093e-49fa-89df-b39878263a3b

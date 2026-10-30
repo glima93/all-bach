@@ -1,0 +1,33 @@
+id: english-baroque-soloists-undated-2
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Kati Debretzeni
+  role: violin
+- name: John Eliot Gardiner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/46408b1d-ffd5-4018-a902-0d20262d6e5c
+  title: Violin Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With violin.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [ae795dc0-7467-40ab-90cc-29db7760b454]

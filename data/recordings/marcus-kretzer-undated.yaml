@@ -1,0 +1,29 @@
+id: marcus-kretzer-undated
+performers:
+- name: Marcus Kretzer
+  role: piano
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1060', complete: false, movements: [II. Largo ovvero Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92e75ea2-dbc5-466e-aa1b-67c43ad2a7b7
+  title: Marcus Kretzer & Kawai Concert Artist Digital Piano
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 660416f2-f5ed-4ecc-bd2c-678bc2aea834
+  recordings: [5f3bdb6c-e7d5-47dc-a49b-8b50e143f165]

@@ -1,0 +1,35 @@
+id: camerata-bern-1992
+performers:
+- name: Camerata Bern
+  role: orchestra
+- name: András Schiff
+  role: piano
+- name: Peter Serkin
+  role: piano
+- name: Bruno Canino
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1992, 1993]
+  place: Temple Farel
+released: 1997
+original_label: null
+works:
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb9ebd19-ea5c-4f7d-b017-28ad207aa01c
+  title: Double & Triple Concertos BWV 1060-64
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b562bf23-c7db-4254-9435-4772b66d08cd
+  recordings: [a1464210-3ccc-4c72-b31f-bffce7b87494]

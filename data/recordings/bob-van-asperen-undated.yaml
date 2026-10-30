@@ -1,0 +1,29 @@
+id: bob-van-asperen-undated
+performers:
+- name: Bob van Asperen
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1055', complete: false, movements: [II. Larghetto]}
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c5166194-6b77-406a-892a-8407f1583f4d
+  title: 100 Best Adagios
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f7af258-5683-4fdd-be7a-6e60d69ad12a
+  recordings: [3f6f5907-238d-4638-b583-b03e7243ec50]

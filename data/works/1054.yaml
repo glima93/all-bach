@@ -1,0 +1,16 @@
+bwv: "1054"
+title: "Harpsichord Concerto No. 3 in D major"
+key: "D major"
+collection: "Harpsichord Concertos"
+genre: orchestral
+scoring: "harpsichord, strings and continuo"
+composed: "Leipzig, c. 1738 (autograph score of BWV 1052–1059)"
+movements:
+  - "I. Allegro"
+  - "II. Adagio e piano sempre"
+  - "III. Allegro"
+notes: "An arrangement of the Violin Concerto in E major, BWV 1042, transposed down a tone to suit the harpsichord's range."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/25821d13-6209-4519-8db9-8eca7be5752b

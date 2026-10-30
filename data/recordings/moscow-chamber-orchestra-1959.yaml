@@ -1,0 +1,33 @@
+id: moscow-chamber-orchestra-1959
+performers:
+- name: Moscow Chamber Orchestra
+  role: orchestra
+- name: Sviatoslav Richter
+  role: performer
+- name: Anatoly Verdernikov
+  role: performer
+- name: Rudolf Barshai
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1959]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ccd72cea-4cf5-4976-a956-17e4c5860f52
+  title: Sviatoslav Richter Plays J.S. Bach, Volume I
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b7bb73fe-a011-47ea-a4f3-4893d026c6fb
+  recordings: [34fd7c76-a443-4714-ac0d-8cbb4c4b2db6]

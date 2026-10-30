@@ -1,0 +1,33 @@
+id: gile-bae-undated
+performers:
+- name: Gile Bae
+  role: piano
+- name: Luigi Piovano
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: false, movements: [I. Allegro, III. Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0ea3b214-c16c-448e-a04b-7b1119dbd87f
+  title: Keyboard Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 33508001-48a3-4676-b69c-95758b949e29
+  recordings: [66c9d71e-e1d9-47da-b0eb-c41666ece27a]

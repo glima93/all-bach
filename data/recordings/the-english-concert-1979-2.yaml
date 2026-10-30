@@ -1,0 +1,39 @@
+id: the-english-concert-1979-2
+performers:
+- name: The English Concert
+  role: orchestra
+- name: Trevor Pinnock
+  role: conductor
+- name: Kenneth Gilbert
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1979, 1980, 1981]
+  place: Herkulessaal
+released: 1981
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aa83aa47-6a62-496c-87a0-102f282d3a39
+  title: Konzerte für Cembalo und Streicher
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8af55e27-c6ad-44f3-a6d2-53df5462798c
+  recordings: [a98d9c0d-779e-4ca5-a4ad-c4bcf076673d]

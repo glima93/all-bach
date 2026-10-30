@@ -1,0 +1,34 @@
+id: philharmonia-orchestra-1956
+performers:
+- name: Philharmonia Orchestra
+  role: orchestra
+- name: Anda Géza
+  role: piano
+- name: Clara Haskil
+  role: piano
+- name: Alceo Galliera
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1956]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1060', complete: false, movements: [II. Largo ovvero Adagio]}
+- {bwv: '1061', complete: false, movements: [I. Allegro, III. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7eb8bb4-b0b9-4b54-a8cf-b5aa452b4598
+  title: Clara Haskil
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [14ce984e-7774-45d7-92f4-54b1771ab4c5]

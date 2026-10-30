@@ -1,0 +1,30 @@
+id: orchestra-di-padova-e-del-veneto-1993
+performers:
+- name: Orchestra di Padova e del Veneto
+  role: orchestra
+- name: Sviatoslav Richter
+  role: performer
+- name: Yuri Bashmet
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1993]
+  place: Teatro Regio di Parma
+released: 1996
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/29b2ab03-19da-491c-b507-f80d85c5d449
+  title: Concertos BWV 1054 & 1058, Piano Concerto No.25, K.503
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 28f34829-16bc-475b-9388-7579fe1e8ebe
+  recordings: [7b2f4853-ddeb-4990-98ae-da8d68ee12b1]

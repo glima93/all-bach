@@ -1,0 +1,33 @@
+id: orchestre-de-chambre-de-la-fondation-gulbenkian-de-lisbonne-1974
+performers:
+- name: Orchestre de Chambre de la Fondation Gulbenkian de Lisbonne
+  role: orchestra
+- name: Maria João Pires
+  role: piano
+- name: Michel Corboz
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1974]
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f4c0a27a-b9b3-42e7-b1f5-c61804c013a8
+  title: Piano Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 925842f9-d48a-42d9-9597-d99a775ac45b
+  recordings: [fd8a3a17-1d79-4d7c-84d6-3e978b51bab7]

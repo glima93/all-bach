@@ -1,0 +1,30 @@
+id: junghae-kim-2007
+performers:
+- name: JungHae Kim
+  role: harpsichord
+- name: Daphna Mor
+  role: recorder
+- name: Nina Stern
+  role: recorder
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: The Barn at Flintwoods
+released: 2009
+original_label: null
+works:
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a9d8965-90fd-4c1a-95a1-254fc373e953
+  title: Complete Harpsichord Concertos on Antique Instruments
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ec440db-c662-4ddb-8cad-aeaf5faa4bfb
+  recordings: [09a021fb-efde-44e4-99f7-bf38a71121b4]

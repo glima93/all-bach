@@ -1,0 +1,32 @@
+id: london-symphony-orchestra-1936
+performers:
+- name: London Symphony Orchestra
+  role: orchestra
+- name: Artur Schnabel
+  role: piano
+- name: Karl Ulrich Schnabel
+  role: piano
+- name: Sir Adrian Boult
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1936]
+  place: Abbey Road Studios
+released: 1989
+original_label: null
+works:
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4a6bd3ff-e099-4af6-acce-76b72115dcf0
+  title: Artur Schnabel Plays Bach & Brahms
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38712b4c-0fd4-4c65-8c7a-45676fecc973
+  recordings: [9ea0eb7e-42c1-4eec-9b17-524fd494086c]

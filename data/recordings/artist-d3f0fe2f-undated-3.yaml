@@ -1,0 +1,32 @@
+id: artist-d3f0fe2f-undated-3
+performers:
+- name: 川田知子
+  role: violin
+- name: 会田莉凡
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aae7400d-2014-4d20-92f2-60d79bb25fe9
+  title: Voi che sapete
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d3f0fe2f-7859-44ea-a71c-f1737e78a13a
+  recordings: [4a8abc56-7296-413d-b0ec-ba2b020882e3]

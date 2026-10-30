@@ -1,0 +1,30 @@
+id: musica-antiqua-new-york-undated
+performers:
+- name: Musica Antiqua New York
+  role: orchestra
+- name: Mary Jane Newman
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/643d34b1-5d9b-473b-a519-7b9ac2af63b6
+  title: Wedding Favorites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6eac6c5f-f877-47d8-b7f5-7c5dc1272d17
+  recordings: [eded7e25-178f-4528-901b-e75d1c190ee4]

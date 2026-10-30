@@ -1,0 +1,34 @@
+id: the-chamber-orchestra-of-europe-1989
+performers:
+- name: The Chamber Orchestra of Europe
+  role: orchestra
+- name: András Schiff
+  role: piano
+- name: Thierry Fischer
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1989]
+  place: 'Konzerthaus: Großer Saal'
+released: 1990
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d6058c47-4a43-4413-a5a2-f20000ce3a5e
+  title: Concertos BWV 1052-1058
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3f221c60-2568-40f5-b1c3-625fed319258
+  recordings: [fdc025a1-a5a4-407a-a835-4a0676bf47b3]

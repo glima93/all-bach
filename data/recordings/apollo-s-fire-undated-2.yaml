@@ -1,0 +1,31 @@
+id: apollo-s-fire-undated-2
+performers:
+- name: Apollo's Fire
+  role: ensemble
+- name: Jeannette Sorrell
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: St. Paul's Episcopal Church
+released: 2010
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7870c4e-e645-454e-b692-474a2f5fe113
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4fd0447c-c25a-4fbe-ac5b-c5b8ddc375ba
+  recordings: [8deef9f5-3cec-48da-9715-c200016c3d14]

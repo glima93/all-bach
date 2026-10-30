@@ -1,0 +1,30 @@
+id: academy-of-ancient-music-2001-2
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Richard Egarr
+  role: harpsichord
+- name: Andrew Manze
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: AIR Studios
+released: 2002
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1b88f4c9-db93-4c6a-9769-c28570c4cf9f
+  title: Harpsichord Concertos nos. 1-7 / Triple Concerto
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [d2cfd1ea-af49-453c-b8f4-84860bd92082]

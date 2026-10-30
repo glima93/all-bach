@@ -1,0 +1,29 @@
+id: le-concert-francais-1993-2
+performers:
+- name: Le Concert Français
+  role: orchestra
+- name: Pierre Hantaï
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: Doopsgezinde kerk
+released: 1994
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85005f34-c6ac-4f92-9347-626e51514d0f
+  title: Concerti Pour Clavecin BWV 1044, 1052 & 1054
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ac25c76a-077e-4311-90fa-11a8a625bbdb
+  recordings: [fb7dc030-22ac-4b24-b2ea-5953a4608af4]

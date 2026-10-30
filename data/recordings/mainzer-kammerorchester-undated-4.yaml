@@ -1,0 +1,32 @@
+id: mainzer-kammerorchester-undated-4
+performers:
+- name: Mainzer Kammerorchester
+  role: orchestra
+- name: Günter Kehr
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1063', complete: false, movements: ['I. [no tempo indication]', III. Allegro]}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f84387ab-4648-48c4-acab-cdc65f4900bc
+  title: 4 Orchestral Suites / Concerti For 3 & 4 Harpsichords
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 10b82827-ec13-40a6-b6d1-f74dcffc8d8b
+  recordings: [18dca8b7-6fc2-48bb-a33e-17b09bc75d9f]

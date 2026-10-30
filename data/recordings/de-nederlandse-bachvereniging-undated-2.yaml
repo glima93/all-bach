@@ -1,0 +1,36 @@
+id: de-nederlandse-bachvereniging-undated-2
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Siebe Henstra
+  role: performer
+- name: Menno van Delft
+  role: performer
+- name: Pieter-Jan Belder
+  role: performer
+- name: Tineke Steenbrink
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Ottone
+released: null
+original_label: null
+works:
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/3c67901d-aa80-4db6-bf83-d6c0c529b64e
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [3c67901d-aa80-4db6-bf83-d6c0c529b64e]

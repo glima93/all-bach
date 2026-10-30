@@ -1,0 +1,32 @@
+id: franz-liszt-chamber-orchestra-undated
+performers:
+- name: Franz Liszt Chamber Orchestra
+  role: orchestra
+- name: Gábor Boldoczki
+  role: trumpet
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1055', complete: false, movements: [III. Allegro ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a16ba7f9-cdea-4eac-bab1-047096b766ff
+  title: Bach
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With trumpet.
+musicbrainz:
+  artist: 1a935ca0-550a-4922-b480-c6dcfe3a2350
+  recordings: [3bc70e2a-ade8-44c7-bc77-7962de6e37c8]

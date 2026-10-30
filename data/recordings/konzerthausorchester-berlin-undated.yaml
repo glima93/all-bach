@@ -1,0 +1,35 @@
+id: konzerthausorchester-berlin-undated
+performers:
+- name: Konzerthausorchester Berlin
+  role: orchestra
+- name: Hans Pischner
+  role: harpsichord
+- name: Kurt Sanderling
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b89eca74-682d-4c4c-bab2-3a3c07f60c39
+  title: 'Cembalokonzerte BWV 1052, 1053, 1055, 1056 (Städtisches Berliner Sinfonie-Orchester feat. conductor: Kurt
+    Sanderling, harpsichord: Hans Pischner)'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 047d4bcd-9ff3-49dc-aad6-1f707c40eedc
+  recordings: [83a88360-0938-4b54-817e-08c893c1cd1a]

@@ -1,0 +1,35 @@
+id: brandenburg-collegium-orchestra-undated
+performers:
+- name: Brandenburg Collegium Orchestra
+  role: orchestra
+- name: Anthony Newman
+  role: harpsichord
+- name: Mary Jane Newman
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44e39d4c-d5bc-483f-8050-cf9820a8e5a3
+  title: Concertos for One and Two Harpsichords
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ee08a85-68d0-4d9a-8c1f-d8ad9ddb2cce
+  recordings: [49203457-8ba7-4b50-b720-d89af0797ab2]

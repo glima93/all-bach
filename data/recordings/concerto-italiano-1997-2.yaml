@@ -1,0 +1,31 @@
+id: concerto-italiano-1997-2
+performers:
+- name: Concerto Italiano
+  role: orchestra
+- name: Rinaldo Alessandrini
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1052', complete: false, movements: [I. Allegro, II. Adagio]}
+- {bwv: '1054', complete: false, movements: [II. Adagio e piano sempre, III. Allegro]}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/51f34eab-8c5b-412b-ad8e-c7c90593e8c4
+  title: Cembalokonzerte Volume 1
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ed39906-8964-45b2-87de-a895616aa60d
+  recordings: [57b886b5-6206-4d03-8b48-1b1c6b4d81ca]

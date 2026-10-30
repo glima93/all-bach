@@ -1,0 +1,35 @@
+id: musica-amphion-2006-2
+performers:
+- name: Musica Amphion
+  role: orchestra
+- name: Pieter-Jan Belder
+  role: conductor
+- name: Menno van Delft
+  role: harpsichord
+- name: Siebe Henstra
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3fd0ca41-e62f-4f97-9894-12145123dbeb
+  title: Bach Edition
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6b41e1f9-5153-4870-a047-a735c52c95a7
+  recordings: [0a49b027-70f8-4066-a2c4-c0efe51abd83]

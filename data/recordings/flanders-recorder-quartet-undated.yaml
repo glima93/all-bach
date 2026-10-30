@@ -1,0 +1,43 @@
+id: flanders-recorder-quartet-undated
+performers:
+- name: Flanders Recorder Quartet
+  role: recorder
+- name: Bart Jacobs
+  role: harpsichord
+- name: Dirk Vandaele
+  role: violin
+- name: Marianne Herssens
+  role: violin
+- name: Hans De Volder
+  role: viola
+- name: Kaori Uemura
+  role: viola da gamba
+- name: Jan Bontinck
+  role: cello
+- name: Benoît Vanden Bemden
+  role: double bass
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dff2671d-db93-477c-82f9-c70b944ffb4d
+  title: Concerti
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With viola da gamba.
+musicbrainz:
+  artist: af5d68c6-b5f5-41d0-ae36-34f402f63e5b
+  recordings: [743a1373-71a1-4f0f-a1a0-6c39f890b6d7]
