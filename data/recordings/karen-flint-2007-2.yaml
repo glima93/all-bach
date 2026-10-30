@@ -1,0 +1,30 @@
+id: karen-flint-2007-2
+performers:
+- name: Karen Flint
+  role: harpsichord
+- name: JungHae Kim
+  role: harpsichord
+- name: Davitt Moroney
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: The Barn at Flintwoods
+released: 2009
+original_label: null
+works:
+- {bwv: '1064', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a9d8965-90fd-4c1a-95a1-254fc373e953
+  title: Complete Harpsichord Concertos on Antique Instruments
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 61bf9c06-eacb-45c5-9194-56b78e1a3cee
+  recordings: [d9e507fd-97bc-4940-9325-80aedda13021]

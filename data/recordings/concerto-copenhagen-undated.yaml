@@ -1,0 +1,32 @@
+id: concerto-copenhagen-undated
+performers:
+- name: Concerto Copenhagen
+  role: orchestra
+- name: Lars Ulrik Mortensen
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/277fb7b5-e4b5-4fdc-8a73-f0dbd0fe29db
+  title: Concertos for Harpsichord and Strings, Volume 1
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7dfcbf3a-84c1-4fcd-8428-03589244b125
+  recordings: [7e326109-df9c-4c3d-a53c-488b68897a07]

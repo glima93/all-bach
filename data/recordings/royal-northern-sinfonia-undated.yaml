@@ -1,0 +1,33 @@
+id: royal-northern-sinfonia-undated
+performers:
+- name: Royal Northern Sinfonia
+  role: orchestra
+- name: Peter Hurford
+  role: organ
+- name: Richard Hickox
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de39f8cd-783e-4ced-adc5-59e9c77639bf
+  title: Organ Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With organ.
+musicbrainz:
+  artist: b4cd94be-c8d8-48ab-8bf5-4eba5fb69f98
+  recordings: [51357841-71fd-4479-beb8-50920a49f709]

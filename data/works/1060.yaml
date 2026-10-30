@@ -1,0 +1,16 @@
+bwv: "1060"
+title: "Concerto for Two Harpsichords in C minor"
+key: "C minor"
+collection: "Harpsichord Concertos"
+genre: orchestral
+scoring: "2 harpsichords, strings and continuo"
+composed: "Leipzig, probably second half of the 1730s (c. 1736), arranged from an earlier concerto"
+movements:
+  - "I. Allegro"
+  - "II. Largo ovvero Adagio"
+  - "III. Allegro"
+notes: "Widely held to be an arrangement of a lost concerto for oboe and violin, possibly from the Köthen years; that version is performed in reconstruction as BWV 1060R."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Concerto_for_two_harpsichords_in_C_minor,_BWV_1060
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/6e5aeab8-5605-4225-af7f-b359a3ff7c33

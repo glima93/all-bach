@@ -1,0 +1,33 @@
+id: chamber-orchestra-of-the-vologda-philharmonic-society-2018
+performers:
+- name: Chamber Orchestra of the Vologda Philharmonic Society
+  role: orchestra
+- name: Einar Steen-Nøkleberg
+  role: piano
+- name: Alexander Loskutov
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2018]
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/427d0aad-ee99-425e-a379-1c545d075237
+  title: Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5e2dfe81-b399-4062-a365-1c919570b7ad
+  recordings: [c55cc25e-8c65-4f79-ac87-79d827e082b7]

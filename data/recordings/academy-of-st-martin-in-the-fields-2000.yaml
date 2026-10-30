@@ -1,0 +1,46 @@
+id: academy-of-st-martin-in-the-fields-2000
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Murray Perahia
+  role: conductor
+- name: Andrei Gavrilov
+  role: performer
+- name: John Constable
+  role: performer
+- name: Sir Neville Marriner
+  role: performer
+- name: Heinz Holliger
+  role: performer
+- name: Iona Brown
+  role: performer
+- name: Susan Milan
+  role: performer
+- name: Lenore Smith
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2000]
+  place: AIR Studios
+released: 1987
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e1bd9034-bfdd-44b3-a24c-c91d6ac6b81a
+  title: Keyboard Concertos nos. 1, 2 & 4
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [457a784d-db0d-459b-95e2-d2cf71ecf1c6]

@@ -1,0 +1,32 @@
+id: hoor-barock-2015
+performers:
+- name: Höör Barock
+  role: ensemble
+- name: Dan Laurin
+  role: conductor
+- name: Anna Paradiso
+  role: harpsichord
+- name: Emelie Roos
+  role: recorder
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2015]
+  place: Eslövs kyrka
+released: 2016
+original_label: null
+works:
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9ec9ec3f-42fa-4fcd-b52c-ae29641b6b6c
+  title: Telemann / Corelli / Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dec06f1d-d18d-484f-bfce-65903396e480
+  recordings: [57e60295-b5ae-474c-93ac-48acede149c9]

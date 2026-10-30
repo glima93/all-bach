@@ -1,0 +1,30 @@
+id: london-sinfonietta-1979
+performers:
+- name: London Sinfonietta
+  role: orchestra
+- name: Alicia de Larrocha
+  role: piano
+- name: David Zinman
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1979]
+  place: Kingsway Hall
+released: 2003
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d58fbbae-c88b-4fca-94f2-3eef5794b4d5
+  title: The Art of Alicia de Larrocha
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c0aaded1-1c53-43c1-8176-dc0399ee55fc
+  recordings: [fef902af-85d4-47ce-9685-09598cf7c3d5]

@@ -1,0 +1,34 @@
+id: franz-liszt-chamber-orchestra-1985
+performers:
+- name: Franz Liszt Chamber Orchestra
+  role: orchestra
+- name: Cyprien Katsaris
+  role: piano
+- name: János Rolla
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: Teldec Studio
+released: 1986
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+- {bwv: '1059', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eec1f358-16d4-4446-bac9-fa8769d4e394
+  title: Klavierkonzerte, BWV 1052, 1054, 1056, 1057
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1a935ca0-550a-4922-b480-c6dcfe3a2350
+  recordings: [aaa09f76-74af-41af-9040-2daa50f6ba5f]

@@ -1,0 +1,39 @@
+id: leonhardt-consort-undated
+performers:
+- name: Leonhardt‐Consort
+  role: ensemble
+- name: Gustav Leonhardt
+  role: harpsichord
+- name: Nikolaus Harnoncourt
+  role: performer
+- name: Alan Curtis
+  role: performer
+- name: Anneke Uittenbosch
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1052', complete: false, movements: [I. Allegro]}
+- {bwv: '1054', complete: false, movements: [II. Adagio e piano sempre]}
+- {bwv: '1064', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99ae44da-bc15-482f-a95e-cb90c67d8e1d
+  title: Great Music, Vol. III – Legendäre Aufnahmen der 80er
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdcb74c4-2c5f-4d57-a052-b9ae935a3302
+  recordings: [7529b9e4-97b0-4297-be56-3a0e081815a4]

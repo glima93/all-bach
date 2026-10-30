@@ -1,0 +1,26 @@
+id: ensemble-odyssee-2024
+performers:
+- name: Ensemble Odyssee
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2024]
+  place: Oud Katholieke Kerk de Hoop
+released: 2025
+original_label: null
+works:
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3ee39eff-94e5-4357-8fde-d03cb5a6f148
+  title: 'Original & Counterfeit: Concertos after BWV 1052, 1053, 1056 & 1057'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 021d2cee-bc3a-4f0d-b33b-381e9b83b126
+  recordings: [2a590645-9996-438a-a2be-be35aca224f1]

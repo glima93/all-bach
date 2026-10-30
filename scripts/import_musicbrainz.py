@@ -68,6 +68,9 @@ EXCLUDE_BY_SNAPSHOT = {
     "218946ea-bf30-42ee-856a-01570345215e": "the Sinfonia of Cantata BWV 29, also linked to the Sinfonia BWV 1045",
     "9ccf2167-f754-41d7-9c3d-2891b22e19c7": "credited to the NBC SO and Toscanini, but the credits name the Kölner Kammerorchester and Müller-Brühl (their recording is already in)",
   },
+  "harpsichord-concertos": {
+    "f8df5ad3-0db2-4dc7-be48-a55397f60b20": "credited to Antonio Vivaldi (composer of the model of BWV 1065) on a Vivaldi compilation; the performers are unknown",
+  },
 }
 EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 
@@ -121,9 +124,10 @@ PERIOD_ENSEMBLE = re.compile(
     r"dantone|beznosiuk|barok|ensemble masques|les surprises|il fondamento|concert fran.ais|insula orchestra|"
     r"early music|voices of music|tulipa consort|trillium consort|apollon ensemble|american bach soloists|"
     r"ama deus|madeuf|blumenstock|boulder bach festival|king.s consort|musica alta ripa|musica alchemica|harmonie des saisons|"
-    r"voce strumentale|capella academica wien|helicon ensemble", re.I)
+    r"voce strumentale|capella academica wien|helicon ensemble|mosa.ques|talens lyriques|caravans.rail|retrospect ensemble|"
+    r"capricornus|ensemble odyss|parlement de musique", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
-MODERN_ENSEMBLE = re.compile(r"m.nchener bach|zurich baroque ensemble|^baroque chamber orchestra|"
+MODERN_ENSEMBLE = re.compile(r"m.nchener bach|kammerakademie potsdam|zurich baroque ensemble|^baroque chamber orchestra|"
                              r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra", re.I)
 # Credits or names that mean the music was arranged for other forces (jazz trio, brass band, synthesizer …).
 ARRANGED = re.compile(r"drum|saxophone|synthesi[sz]er|moog|electric|accordion|marimba|vibraphone|tuba|"
@@ -132,7 +136,7 @@ ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone)?\b|swingle|jazz|loussi
                             r"loeki|seldom sene|baby einstein|babies|sweet little band|pink mice|\bthe nice\b|"
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
-                            r"early learning centre|malmsteen", re.I)
+                            r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter", re.I)
 # In orchestral works only: names of groups that are not orchestras, so play the music arranged.
 ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
                                   r"trumpet ensemble|brass|\btrio\b", re.I)
@@ -141,12 +145,19 @@ ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\
 # for the second violin, a piccolo trumpet in a violin concerto), checked against the scoring of the works the
 # recording plays when it plays only one. Continuo, string-section and recorder credits (often from other tracks of the album) are not checked.
 OBBLIGATO = re.compile(r"flute|traverso|oboe|trumpet|horn|clarinet|violoncello piccolo|gamba", re.I)
+# Release titles that say the performance is on period instruments.
+PERIOD_RELEASE = re.compile(r"(antique|period|original) instruments", re.I)
+# Keyboard concertos (BWV 1052–1065): works whose scoring starts with the solo harpsichord(s).
+KEYBOARD_SOLO = re.compile(r"^(\d+ )?harpsichords?\b", re.I)
+# In a keyboard concerto, melody soloists that mean a reconstruction for the lost original instrument.
+RECONSTRUCTED_SOLO = re.compile(r"violin|oboe|flute|trumpet", re.I)
 # Performer names that are groups even when MusicBrainz gives no artist type.
 SCORINGS: dict[str, str] = {}  # scoring of each work, set in main()
 GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|soloists|sinfonia", re.I)
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
-                               r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki", re.I)
+                               r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki|dangerous liaisons|פסקול|motion picture|movies go baroque|bach minimaliste|"
+                               r"concertos? for recorder", re.I)
 
 
 class Flow(list):
@@ -219,7 +230,8 @@ def expand(c: dict, bwvs: list[str], moves: dict[str, list[str]]) -> dict:
                 have.add(i)
         mv += [f"{bwv}:{i}" for i in sorted(have)]
     return {
-        "names": c["n"], "ids": c["a"], "types": c.get("t") or [], "years": c["y"], "mv": mv,
+        "names": c["n"], "ids": c["a"], "types": c.get("t") or [],
+        "years": [y for y in c["y"] if int(y) >= 1888], "mv": mv,  # MusicBrainz date typos (1107 for 1991)
         "firstRelease": c.get("f"), "live": bool(c.get("l")),
         "ins": c.get("ins") or [], "roles": c.get("roles") or {},
         "places": c.get("pl") or [],
@@ -271,17 +283,40 @@ def ensemble_of(perf: dict, scoring: str = "") -> tuple[str, str, bool, list[str
         if len(played) == 1:  # with several works, the album's credits may belong to the other one
             own = SCORINGS.get(next(iter(played)), "")
             arranged += [i for i in perf["ins"] if OBBLIGATO.search(i) and not in_scoring(i, own)]
+    played = {m.split(":")[0] for m in perf["mv"]}
+    keyboard_solo = bool(played) and all(KEYBOARD_SOLO.match(SCORINGS.get(b, "")) for b in played)
+    kb_credit = any(INSTRUMENTS.get(i) in KEYBOARD for i in ins)
+    single = len(played) == 1 or all(SCORINGS.get(b, "").lower().startswith("harpsichord") for b in played)
+    if keyboard_solo and group and not kb_credit and single:
+        # A keyboard concerto with a violin, oboe or other melody soloist and no keyboard credited: one of the
+        # reconstructions for the lost original instrument (BWV 1052R, 1056R, 1060R …).
+        arranged += [i for i in perf["ins"] if RECONSTRUCTED_SOLO.search(i) and i not in arranged
+                     and not any(in_scoring(i, SCORINGS.get(b, "")) for b in played)]
+    if keyboard_solo and "organ" in {INSTRUMENTS.get(i) for i in ins} and not {INSTRUMENTS.get(i) for i in ins} & {"harpsichord", "piano", "fortepiano"}:
+        arranged += [i for i in perf["ins"] if INSTRUMENTS.get(i.lower()) == "organ" and i not in arranged]  # organ for harpsichord
     release = " ".join(r["title"] for r in perf["releases"])
     if (arranged or ARRANGED_NAMES.search(names) or "Choir" in perf["types"] or ARRANGED_RELEASES.search(release)
             or (scoring and ARRANGED_GROUP_NAMES.search(perf["names"][0]))):
         main = "ensemble" if group else (INSTRUMENTS.get(ins[0], "other") if ins else "unknown")
         return main, "unknown", True, arranged
     if group:
-        period = (any(PERIOD_INSTRUMENT.search(i) for i in ins) or bool(PERIOD_ENSEMBLE.search(names))) \
+        period = (any(PERIOD_INSTRUMENT.search(i) for i in ins) or bool(PERIOD_ENSEMBLE.search(names))
+                  or bool(PERIOD_RELEASE.search(release))) \
             and not MODERN_ENSEMBLE.search(perf["names"][0])
-        return "ensemble", "historical" if period else "unknown", False, []
+        credited = {INSTRUMENTS.get(i) for i in ins}
+        modern = keyboard_solo and "piano" in credited and not credited & HISTORICAL  # a piano soloist (plan note)
+        return "ensemble", "historical" if period else "modern" if modern else "unknown", False, []
     if ins:
         main = INSTRUMENTS.get(ins[0], "other")
+        if keyboard_solo and all(INSTRUMENTS.get(i) in set(KEYBOARD) - {"organ"} for i in ins):
+            # Keyboard concertos: a harpsichordist or pianist credited alone is the soloist of a concerto
+            # performance whose orchestra is not credited, except a pianist in a slow middle movement alone
+            # (the Largo of BWV 1056 and others circulate as solo piano pieces).
+            only_middle = all(m.split(":")[1] == "1" for m in perf["mv"])
+            if main == "piano" and only_middle:
+                return main, "unknown", True, []
+            release_period = main != "piano" and bool(PERIOD_RELEASE.search(release))
+            return "ensemble", "modern" if main == "piano" else "historical" if release_period else "unknown", False, []
         if scoring:
             # One or two players with credits: soloists named on a compilation when every instrument credited
             # is in the work's scoring (a trumpeter in Brandenburg No. 2); otherwise a transcription.

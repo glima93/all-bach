@@ -1,0 +1,37 @@
+id: seattle-symphony-undated
+performers:
+- name: Seattle Symphony
+  role: orchestra
+- name: Jillon Stoppels Dupree
+  role: harpsichord
+- name: Robert Kechley
+  role: harpsichord
+- name: George Shangrow
+  role: harpsichord
+- name: Michael Kamen
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1064', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/98fdb167-409a-4e95-b14d-4747a9b0a310
+  title: 'Mr. Holland''s Opus: Original Motion Picture Score'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b51c328-1f2b-464c-9e2c-0c2a8cce20ae
+  recordings: [8964b1c8-42c4-401d-9363-5d2a13b6b536]

@@ -1,0 +1,33 @@
+id: festival-strings-lucerne-1958
+performers:
+- name: Festival Strings Lucerne
+  role: orchestra
+- name: Ralph Kirkpatrick
+  role: harpsichord
+- name: Rudolf Baumgartner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958, 1960]
+  place: Kirche Neumünster
+released: 1959
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd86953e-98a9-4442-8f79-2df167678d02
+  title: Konzert für Cembalo, Streicher und Continuo Nr. 1 d‐moll, BWV 1052 / Konzert für Cembalo, Streicher und
+    Continuo Nr. 2 E‐dur, BWV 1053
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e5d0debb-ba7e-41b7-b3a6-73a900c0a74c
+  recordings: [6d09ca4e-f577-42ae-a229-1552e10710b9]

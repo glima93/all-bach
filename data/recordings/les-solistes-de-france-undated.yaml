@@ -1,0 +1,33 @@
+id: les-solistes-de-france-undated
+performers:
+- name: Les Solistes de France
+  role: ensemble
+- name: Michèle Boegner
+  role: piano
+- name: Jean-Claude Hartemann
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d7681f1c-b9ae-4e2f-8c17-dcaa548944d4
+  title: Les Quatre Saisons
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3dbd30de-908d-4968-aa29-4c25e44da0e8
+  recordings: [00b297b6-3a65-41ee-86e4-f8e6c56bac41]

@@ -1,0 +1,34 @@
+id: st-james-baroque-undated
+performers:
+- name: St. James’ Baroque
+  role: orchestra
+- name: Ivor Bolton
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33b87cd5-fb93-4f56-8c39-9ac91a29b059
+  title: Concertos For Harpsichord & Strings
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 800ecb57-b4ae-42f2-a2c4-d32caa3f7afc
+  recordings: [53e51921-e6a5-4e93-bcb8-00e0a637a606]

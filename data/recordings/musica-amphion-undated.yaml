@@ -1,0 +1,33 @@
+id: musica-amphion-undated
+performers:
+- name: Musica Amphion
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/48e0f41f-d29b-4c80-a162-806324031df1
+  title: Concertos for 2, 3 & 4 Harpsichords
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6b41e1f9-5153-4870-a047-a735c52c95a7
+  recordings: [0556889b-9398-4dba-acb7-4bc28388de2b]

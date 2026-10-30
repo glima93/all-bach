@@ -1,0 +1,35 @@
+id: american-bach-soloists-1991
+performers:
+- name: American Bach Soloists
+  role: orchestra
+- name: John Butt
+  role: harpsichord
+- name: Phebe Craig
+  role: harpsichord
+- name: Jonathan Dimmock
+  role: harpsichord
+- name: Jeffrey Thomas
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1991]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/118f9b3b-5716-4a9f-ab73-5281789bc3bd
+  title: Transcriptions of Italian Music
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cfc35bbe-7855-4674-a8f9-9d5e2cb31ff9
+  recordings: [e92798fc-4ae9-4521-99b2-e531e0ab8f0b]

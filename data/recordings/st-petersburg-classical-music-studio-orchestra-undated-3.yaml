@@ -1,0 +1,39 @@
+id: st-petersburg-classical-music-studio-orchestra-undated-3
+performers:
+- name: St. Petersburg Classical Music Studio Orchestra
+  role: orchestra
+- name: Aleksander Titov
+  role: performer
+- name: Oleg Malov
+  role: performer
+- name: Pavel Jegorov
+  role: piano
+- name: Alla Kustariova
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1060', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/08991902-8770-49f8-b15d-1f293bf5a650
+  title: Concertos pour piano (Oleg Malov, Pavel Jegorov, Alla Kustariova)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 262ccb87-4c63-487e-95db-35bf1e4b68d5
+  recordings: [2e0d5ac6-0321-43d1-a407-528d3afba861]

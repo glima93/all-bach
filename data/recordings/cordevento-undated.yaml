@@ -1,0 +1,31 @@
+id: cordevento-undated
+performers:
+- name: Cordevento
+  role: ensemble
+- name: Erik Bosgraaf
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1055', complete: false, movements: [II. Larghetto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/015d620f-532b-4dd2-8b36-9ac52b861f92
+  title: 'J.S. Bach: Concertos for Recorder'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed60650d-5e3c-418c-ace5-b375f1083b0a
+  recordings: [9598c805-0568-461e-9e3b-7cf3fcac179c]

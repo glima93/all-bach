@@ -1,0 +1,32 @@
+id: kammerorchester-berlin-undated-2
+performers:
+- name: Kammerorchester Berlin
+  role: orchestra
+- name: Hans Pischner
+  role: harpsichord
+- name: Peter Wohlert
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ba749aa6-1cb5-4b13-876d-a50fefb268b3
+  title: Brandenburg Concertos 1-2-3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f416ff60-3894-4275-af38-f8c96e6a278d
+  recordings: [5427afe5-a0c7-45c9-b3b4-08438c35f8bb]

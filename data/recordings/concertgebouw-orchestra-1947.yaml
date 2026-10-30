@@ -1,0 +1,31 @@
+id: concertgebouw-orchestra-1947
+performers:
+- name: Concertgebouw Orchestra
+  role: orchestra
+- name: Dinu Lipatti
+  role: piano
+- name: Eduard van Beinum
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1947]
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a170be37-fc24-4783-936f-af53e16432ba
+  title: Lipatti plays Bach and Chopin
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad8260b2-2767-4e9b-9ece-7977fbcedadf
+  recordings: [aa4b5ae6-020f-4dc9-80b1-32fb8c5cf5d5]

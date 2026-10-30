@@ -1,0 +1,32 @@
+id: artist-2014bfbb-1978-2
+performers:
+- name: Святослав Теофилович Рихтер
+  role: performer
+- name: Moscow Conservatory Chamber Orchestra
+  role: orchestra
+- name: Yuri Nicolaevsky
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1978]
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1250bf44-e267-4072-b8e5-d120849afbff
+  title: Sviatoslav Richter — the 100th Anniversary
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2014bfbb-c65d-45dc-9973-35bead3833fa
+  recordings: [753ac76d-15c2-4b01-a013-3b9d7bca5023]

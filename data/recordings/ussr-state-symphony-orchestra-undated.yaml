@@ -1,0 +1,33 @@
+id: ussr-state-symphony-orchestra-undated
+performers:
+- name: USSR State Symphony Orchestra
+  role: orchestra
+- name: Maria Grinberg
+  role: performer
+- name: Karl Eliasberg
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/54aeb40a-c245-4d04-96d1-a87c7b2b1bb1
+  title: Concerts, 1949–1970
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 67e5938c-3953-4dfe-9d63-860bef0d8475
+  recordings: [fabbefe9-135e-4269-b79c-b1b56c602cd9]

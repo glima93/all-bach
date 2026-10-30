@@ -1,0 +1,31 @@
+id: patrick-demenga-undated
+performers:
+- name: Patrick Demenga
+  role: cello
+- name: Gérard Wyss
+  role: piano
+instrument: cello
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fb0c9c3c-6921-496b-92c9-086ac6bfabb8
+  title: Classic Meditation, Volume II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32a3283c-18ce-485d-bd30-27a689bc31aa
+  recordings: [1eb41f59-6d09-4337-a4f8-642a8fd5bfe0]

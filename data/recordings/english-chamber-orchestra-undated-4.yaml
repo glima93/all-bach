@@ -1,0 +1,58 @@
+id: english-chamber-orchestra-undated-4
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Sonya Bach
+  role: performer
+- name: András Schiff
+  role: performer
+- name: George Malcolm
+  role: performer
+- name: David Parry
+  role: performer
+- name: Nick Van Bloss
+  role: performer
+- name: Raymond Leppard
+  role: performer
+- name: João Carlos Martins
+  role: conductor
+- name: Anne Akiko Meyers
+  role: performer
+- name: Steven Mercurio
+  role: performer
+- name: Andrew Davis
+  role: performer
+- name: Philip Ledger
+  role: performer
+- name: Blandine Verlet
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1974
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1065', complete: false, movements: ['I. [Allegro]']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/14a09c74-860c-46a2-be8c-f06bb4f14ffb
+  title: Concertos em Ré Menor
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [2cde05ab-cf6f-4670-b835-c1e2d9e62d0d]

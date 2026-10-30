@@ -1,0 +1,40 @@
+id: kammerorchester-pro-arte-munchen-undated-2
+performers:
+- name: Kammerorchester Pro Arte München
+  role: orchestra
+- name: Eberhard Kraus
+  role: performer
+- name: Kurt Redel
+  role: performer
+- name: Marga Scheurich
+  role: performer
+- name: Bernhard Güller
+  role: conductor
+- name: Hans Petermichl
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1063', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/53152983-065e-4479-a07a-ec64c2e85e45
+  title: Barock-Festival, Vol. 1 & 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed05f1ef-562f-49d3-9aac-bfc864acf1a2
+  recordings: [fa088dc1-cb59-44f7-b231-29364e696e85]

@@ -1,0 +1,28 @@
+id: igor-dekleva-undated
+performers:
+- name: Igor Dekleva
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fc7664fb-258b-472a-bb16-5f07a82f0465
+  title: Jubilejni portret
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95ea1e89-eae9-4f44-9a74-c9f52c68c9a6
+  recordings: [46c243e4-358a-4b1e-9917-430eb2e8f666]

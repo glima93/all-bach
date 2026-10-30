@@ -1,0 +1,31 @@
+id: the-hanover-band-undated
+performers:
+- name: The Hanover Band
+  role: orchestra
+- name: Andrew Arthur
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: St Nicholas Church
+released: 2023
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1ca89e4e-5d02-4ff1-b2d3-88a3e96ffc59
+  title: Harpsichord Concertos, BWV 1050, 1053, 1056 & 1057
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cb9ff699-5edd-4931-8904-fdcb06f1293a
+  recordings: [bb83accf-12cd-49ed-85ee-24e4798b3718]

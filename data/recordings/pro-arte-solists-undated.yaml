@@ -1,0 +1,33 @@
+id: pro-arte-solists-undated
+performers:
+- name: Pro Arte Solists
+  role: ensemble
+- name: Kurt Redel
+  role: conductor
+- name: Eberhard Kraus
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1063', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/134280fc-f0eb-47c8-97b5-2901e41623b1
+  title: The World of Bach Masterpieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9e798cf4-dab8-4c4c-b022-fa0b75d858cc
+  recordings: [beeb99ac-b2f9-4571-99a1-aabaa60736af]

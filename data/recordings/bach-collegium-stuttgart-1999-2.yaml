@@ -1,0 +1,43 @@
+id: bach-collegium-stuttgart-1999-2
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Robert Levin
+  role: harpsichord
+- name: Helmuth Rilling
+  role: conductor
+- name: Mario Videla
+  role: performer
+- name: Michael Behringer
+  role: performer
+- name: Boris Kleiner
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Stadthalle Leonberg
+released: 1999
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/513bdecf-c546-418a-90bb-d6b53b4e397c
+  title: Cembalokonzerte, BWV 1052–1054
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [82adca4f-6e4f-4edf-9d80-0ee0af73fec5]

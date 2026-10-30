@@ -1,0 +1,33 @@
+id: zurcher-kammerorchester-1962
+performers:
+- name: Zürcher Kammerorchester
+  role: orchestra
+- name: Gaby Casadesus
+  role: piano
+- name: Robert Casadesus
+  role: piano
+- name: Edmond de Stoutz
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1962]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1060', complete: false, movements: [II. Largo ovvero Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf8db4a9-f3ce-420c-915a-e7ae8a20aa82
+  title: Concertos for 2 & 3 Pianos, BWV 1060, 1061, 1063, 1064
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8b0f8e51-e556-41cf-962c-9f16ce880405
+  recordings: [2b117a82-51ef-4fb4-9efc-519cbca78de7]

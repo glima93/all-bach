@@ -1,0 +1,16 @@
+bwv: "1065"
+title: "Concerto for Four Harpsichords in A minor"
+key: "A minor"
+collection: "Harpsichord Concertos"
+genre: orchestral
+scoring: "4 harpsichords, strings and continuo"
+composed: "Leipzig, c. 1730"
+movements:
+  - "I. [Allegro]"
+  - "II. Largo"
+  - "III. Allegro"
+notes: "A transcription of Vivaldi's Concerto for four violins in B minor, RV 580, published as op. 3 no. 10 in L'estro armonico (1711)."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/413309bc-e2cf-457a-a705-1601f5d33c8b

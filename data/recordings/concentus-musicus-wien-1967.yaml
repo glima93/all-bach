@@ -1,0 +1,36 @@
+id: concentus-musicus-wien-1967
+performers:
+- name: Concentus Musicus Wien
+  role: orchestra
+- name: Nikolaus Harnoncourt
+  role: conductor
+- name: Herbert Tachezi
+  role: harpsichord
+- name: Alice Harnoncourt
+  role: violin
+- name: Jürg Schaeftlein
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1967, 1968, 1969]
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1060', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/265cce15-e412-4333-87d4-723471512256
+  title: Cembalokonzerte BWV 1052, 1057, 1064
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9b891046-35af-4eb0-a058-eba4c9b8d01f
+  recordings: [e337bc26-44b6-4da0-bfd5-971c90a912d8]

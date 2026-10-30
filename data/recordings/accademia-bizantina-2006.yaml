@@ -1,0 +1,29 @@
+id: accademia-bizantina-2006
+performers:
+- name: Accademia Bizantina
+  role: orchestra
+- name: Ottavio Dantone
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: Angelika-Kaufmann-Saal
+released: null
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/32747094-588a-4b6b-87d8-2830eac86906
+  title: '2006-06-18: Angelika-Kaufmann-Saal, Schubertiade Festival, Schubertiade, Austria (Accademia Bizantina
+    feat. conductors Ottavio Dantone, Andreas Scholl, countertenor)'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2c422cb3-2c82-483d-8815-d38b388d1ee5
+  recordings: [c5262c1c-253a-4eca-bfe3-7bcdb4a6d531]

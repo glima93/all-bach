@@ -1,0 +1,32 @@
+id: prazsti-komorni-soliste-1966
+performers:
+- name: Pražští komorní sólisté
+  role: ensemble
+- name: Zuzana Růžičková
+  role: harpsichord
+- name: Václav Neumann
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966, 1967, 1968]
+  place: Dvořákova síň Rudolfina
+released: 1988
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ddde198d-c095-4f3e-9005-600bd20889b6
+  title: Harpsichord Concertos Nos. 1, 4 & 6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0c61bbfa-a639-4b19-a19e-2ffad59e09fc
+  recordings: [9568fdfe-959a-4a46-8ff6-8536e24e57ed]

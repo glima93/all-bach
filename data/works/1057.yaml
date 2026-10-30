@@ -1,0 +1,16 @@
+bwv: "1057"
+title: "Harpsichord Concerto No. 6 in F major"
+key: "F major"
+collection: "Harpsichord Concertos"
+genre: orchestral
+scoring: "harpsichord, 2 recorders, strings and continuo"
+composed: "Leipzig, c. 1738 (autograph score of BWV 1052–1059)"
+movements:
+  - "I. Allegro"
+  - "II. Andante"
+  - "III. Allegro assai"
+notes: "An arrangement of Brandenburg Concerto No. 4 in G major, BWV 1049, transposed down a tone, with the solo violin part given to the harpsichord and the two recorders retained."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/cf5c91c9-12be-40cc-93dd-2ae831ab2bc9

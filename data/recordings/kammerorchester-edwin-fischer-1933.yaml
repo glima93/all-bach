@@ -1,0 +1,31 @@
+id: kammerorchester-edwin-fischer-1933
+performers:
+- name: Kammerorchester Edwin Fischer
+  role: orchestra
+- name: Edwin Fischer
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1933, 1936, 1938]
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0a8aabf-3e7f-4d30-bedb-79933c1d41c4
+  title: Piano Concertos nos. 1, 4, 5 / Brandenburg Concerto no. 5
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0675bf09-749c-4566-bef0-a0d806680a52
+  recordings: [bc8977b5-e800-427c-86af-78cbf47e3812]

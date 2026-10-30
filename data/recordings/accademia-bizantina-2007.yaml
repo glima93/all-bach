@@ -1,0 +1,31 @@
+id: accademia-bizantina-2007
+performers:
+- name: Accademia Bizantina
+  role: orchestra
+- name: Ottavio Dantone
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/02601686-22d1-499b-b232-7d5c8922646e
+  title: Harpsichord Concertos BWV 1052, 1053, 1055, 1056
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2c422cb3-2c82-483d-8815-d38b388d1ee5
+  recordings: [e354b08b-9a9b-4196-9145-e59df43a41ab]

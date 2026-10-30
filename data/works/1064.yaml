@@ -1,0 +1,16 @@
+bwv: "1064"
+title: "Concerto for Three Harpsichords in C major"
+key: "C major"
+collection: "Harpsichord Concertos"
+genre: orchestral
+scoring: "3 harpsichords, strings and continuo"
+composed: "Leipzig; date uncertain, probably earlier than the c. 1738 solo-concerto autograph"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Allegro"
+notes: "Probably arranged from a lost concerto for three violins in D major, which has been reconstructed as BWV 1064R."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/1d84927f-353a-4da6-8b86-9ed4d063c030

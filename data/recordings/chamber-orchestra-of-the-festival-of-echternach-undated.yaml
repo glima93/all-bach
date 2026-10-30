@@ -1,0 +1,32 @@
+id: chamber-orchestra-of-the-festival-of-echternach-undated
+performers:
+- name: Chamber Orchestra of the Festival of Echternach
+  role: orchestra
+- name: Cyprien Katsaris
+  role: piano
+- name: Yoon Kuk Lee
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1055', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c95d3159-d267-4b49-b3dd-f366f46c8409
+  title: 5 Piano Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3393d894-2754-4a07-b8cc-1f6ec1744663
+  recordings: [c9ff9e38-9309-4260-813e-bd6317552331]

@@ -1,0 +1,38 @@
+id: orchester-der-wiener-staatsoper-undated
+performers:
+- name: Orchester der Wiener Staatsoper
+  role: orchestra
+- name: Jörg Demus
+  role: piano
+- name: Kurt Redel
+  role: conductor
+- name: Paul Badura‐Skoda
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9af2eade-03b0-42e3-8d4e-b1b009d200c3
+  title: Keyboard Concerti Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 60cc7738-673d-45e3-8cdb-5412e09cb1c5
+  recordings: [71348a0f-3ea4-424b-897a-5844e9e88804]

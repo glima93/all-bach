@@ -1,0 +1,26 @@
+id: adam-pearl-2007
+performers:
+- name: Adam Pearl
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: The Barn at Flintwoods
+released: 2009
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a9d8965-90fd-4c1a-95a1-254fc373e953
+  title: Complete Harpsichord Concertos on Antique Instruments
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95a7ac5f-f8b3-4cac-b3aa-becf5b6b8726
+  recordings: [477c47a8-ffc2-4673-a1c4-729df302dd3f]

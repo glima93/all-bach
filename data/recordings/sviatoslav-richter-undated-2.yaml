@@ -1,0 +1,28 @@
+id: sviatoslav-richter-undated-2
+performers:
+- name: Sviatoslav Richter
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1061', complete: false, movements: [III. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/630a788f-72c9-4fdc-ab88-5e9b98d8fd88
+  title: La Pianiste
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2014bfbb-c65d-45dc-9973-35bead3833fa
+  recordings: [c2488121-f9b8-4f28-9afc-7c93c0691734]

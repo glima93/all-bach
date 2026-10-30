@@ -1,0 +1,34 @@
+id: orchestra-of-st-luke-s-undated-2
+performers:
+- name: Orchestra of St. Luke’s
+  role: orchestra
+- name: Vladimir Feltsman
+  role: performer
+- name: Robert Wolinsky
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: The American Academy of Arts and Letters
+released: 1988
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/411be37b-da43-4c49-8f65-fc1664898b3d
+  title: Keyboard Concertos
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2dc04707-7cf9-4e9b-8869-6cb5644794b8
+  recordings: [9225b133-be26-433d-86b0-ee2e7f9b9644]

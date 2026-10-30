@@ -1,0 +1,36 @@
+id: britten-sinfonia-2025-2
+performers:
+- name: Britten Sinfonia
+  role: orchestra
+- name: Mahan Esfahani
+  role: harpsichord
+- name: Michala Petri
+  role: performer
+- name: Ian Wilson
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2025]
+  place: St. John’s Church
+released: 2026
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0df52423-122b-407d-92e7-53fe4a3ce855
+  title: The Complete Keyboard Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5bee4bba-934f-4ba2-8dcf-a68d6d5438c9
+  recordings: [6f54a8df-11dd-415c-b262-51ffba858250]

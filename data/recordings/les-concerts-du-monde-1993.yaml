@@ -1,0 +1,31 @@
+id: les-concerts-du-monde-1993
+performers:
+- name: Les Concerts du Monde
+  role: orchestra
+- name: Patricia Maybe
+  role: harpsichord
+- name: Keith Clark
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1993]
+  place: Bridges Hall of Music
+released: 1993
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b2a21a2e-e97b-4843-a9cd-2f799c871902
+  title: Movies Go Baroque
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 847c0bd8-5996-4877-8f59-419766f32875
+  recordings: [f469b16c-a2ae-48ab-a997-b68d61c9d50a]

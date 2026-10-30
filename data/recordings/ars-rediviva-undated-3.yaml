@@ -1,0 +1,33 @@
+id: ars-rediviva-undated-3
+performers:
+- name: Ars Rediviva
+  role: orchestra
+- name: Jean‐Pierre Rampal
+  role: flute
+- name: Milan Munclinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6b798155-b179-4921-8758-4a994ac356cf
+  title: 'Bach: Flute Concertos'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With flute.
+musicbrainz:
+  artist: 4ab56484-5a98-47e2-9b32-25ac9f890f08
+  recordings: [6e4313f0-4605-4a8e-aaaa-5b287af4e6a2]

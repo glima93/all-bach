@@ -1,0 +1,36 @@
+id: orchestra-of-the-liszt-ferenc-music-academy-undated
+performers:
+- name: Orchestra of the Liszt Ferenc Music Academy
+  role: orchestra
+- name: Zoltán Kocsis
+  role: performer
+- name: Albert Simon
+  role: conductor
+- name: András Schiff
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0a28d7f-7a16-4d17-ba22-cba42282aa07
+  title: Concertos for One and Two Pianos and Orchestra
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 15f8a247-38db-4781-8e19-96a005f5daf0
+  recordings: [fe53677e-776c-40ad-b630-47183001ba3c]

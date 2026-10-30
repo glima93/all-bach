@@ -1,0 +1,29 @@
+id: i-musici-1958-2
+performers:
+- name: I Musici
+  role: orchestra
+- name: Maria Teresa Garatti
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1958]
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6da824d3-d053-410d-b89d-09b3a5f47b4b
+  title: Complete Analogue Recordings 1955-1979
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0febca2d-aeed-48fc-9d44-180f6346e4ab
+  recordings: [170cbfdd-efc0-4f9e-9ad5-4bb21931592a]

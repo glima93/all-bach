@@ -1,0 +1,34 @@
+id: gewandhausorchester-leipzig-undated-2
+performers:
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Ramin Bahrami
+  role: piano
+- name: Riccardo Chailly
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/20166811-f024-409a-b580-0cf14a165ae1
+  title: 'Bach: 5 Klavierkonzerte'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [8b6f473d-5db2-4540-b701-70c4d142f291]

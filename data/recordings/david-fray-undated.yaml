@@ -1,0 +1,28 @@
+id: david-fray-undated
+performers:
+- name: David Fray
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf36d8ff-c7f2-4daa-879f-83360fa250ac
+  title: Classical 2012
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2955be8c-03e6-48e6-b902-e034e307406c
+  recordings: [e33f1979-210c-4ba9-920b-cc7bf240514a]

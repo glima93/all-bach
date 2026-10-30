@@ -1,0 +1,30 @@
+id: students-orchestra-of-the-moscow-conservatory-1991
+performers:
+- name: Students' Orchestra of the Moscow Conservatory
+  role: orchestra
+- name: Sviatoslav Richter
+  role: performer
+- name: Yuri Nikolayevsky
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1991]
+  place: 'Московская Государственная Консерватория им. П. И. Чайковского: большой зал'
+released: 2011
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fda9a7b6-3235-498c-ab4b-2f678364ddf9
+  title: 'Historical Russian Archives: Concerto Edition'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 410f79de-fc3f-4e1c-acad-064ed684869b
+  recordings: [668d4b78-a0a6-4ba5-81ef-2701a2b44081]

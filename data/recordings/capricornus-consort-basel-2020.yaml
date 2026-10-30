@@ -1,0 +1,28 @@
+id: capricornus-consort-basel-2020
+performers:
+- name: Capricornus Consort Basel
+  role: ensemble
+- name: Temmingh
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: St. Germanus
+released: 2021
+original_label: null
+works:
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59dac48d-8db0-4930-8b89-2ea24f324e82
+  title: Leipzig 1723
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: af883649-c8f6-4628-99cb-730338f5b662
+  recordings: [8f7abe03-b255-4cf6-a44d-80e776f9d66c]

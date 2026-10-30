@@ -1,0 +1,32 @@
+id: orchestre-lamoureux-undated
+performers:
+- name: Orchestre Lamoureux
+  role: orchestra
+- name: Alexander Borovsky
+  role: piano
+- name: Eugène Bigot
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/baa00a8c-4477-4254-9fb3-445a408672a8
+  title: Borowsky Plays Liszt
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bf099982-21ca-44e0-8255-61d0c6c89093
+  recordings: [c287da79-5447-407c-9161-29d2bc8d73a0]

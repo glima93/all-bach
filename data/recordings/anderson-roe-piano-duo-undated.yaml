@@ -1,0 +1,29 @@
+id: anderson-roe-piano-duo-undated
+performers:
+- name: Anderson & Roe Piano Duo
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1060', complete: false, movements: [II. Largo ovvero Adagio]}
+- {bwv: '1061', complete: false, movements: [I. Allegro, III. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e34bd8df-7054-4bc3-8dbf-1926468e0b9b
+  title: The Art of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aa4dae8f-032f-40c7-9b70-3fe03ac037ea
+  recordings: [dbe8165e-e839-4f63-aec5-7c0f47725ae2]

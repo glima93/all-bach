@@ -1,0 +1,30 @@
+id: les-talens-lyriques-undated
+performers:
+- name: Les Talens Lyriques
+  role: orchestra
+- name: Christophe Rousset
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1059', complete: false, movements: [I. Allegro, III. Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/873f5d41-95e4-4ac2-8ae0-e1709db6f5ee
+  title: The Bach Dynasty
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 176ec1e9-2a96-4aae-a2f4-28e09fe52ea6
+  recordings: [86e9f053-4047-44d5-bff5-16b90f3415bb]

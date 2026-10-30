@@ -1,0 +1,28 @@
+id: st-james-baroque-1987
+performers:
+- name: St. James’ Baroque
+  role: orchestra
+- name: Ivor Bolton
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1987]
+  place: Henry Wood Hall
+released: 1987
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d8668eff-8845-4764-8d8f-781e5a214e00
+  title: Concerto for harpsichord and strings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 800ecb57-b4ae-42f2-a2c4-d32caa3f7afc
+  recordings: [65bf5113-c6e3-4092-873c-e8443240f1d6]

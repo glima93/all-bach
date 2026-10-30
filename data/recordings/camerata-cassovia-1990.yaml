@@ -1,0 +1,39 @@
+id: camerata-cassovia-1990
+performers:
+- name: Camerata Cassovia
+  role: orchestra
+- name: Hae Won Chang
+  role: performer
+- name: Róbert Stankovský
+  role: performer
+- name: Gerald Garcia
+  role: guitar
+- name: Peter Breiner
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1990]
+  place: Dom umenia
+released: 1987
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aaaaacbf-77b6-4339-81bd-e1f95cdf18e6
+  title: Baroque Guitar Favourites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: 838a0ffb-b542-412c-ae7e-f1fe44ab990f
+  recordings: [39c1872b-69d8-4036-86fe-88d4c569403b]

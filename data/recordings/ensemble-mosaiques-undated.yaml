@@ -1,0 +1,32 @@
+id: ensemble-mosaiques-undated
+performers:
+- name: Ensemble Mosaïques
+  role: orchestra
+- name: Scott Ross
+  role: harpsichord
+- name: Christophe Coin
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59cacf21-07d7-4375-bf6e-9e729314cc6b
+  title: Keyboard Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2750c44b-4214-4cbe-b705-79d2e5c08cfc
+  recordings: [7b0cd4f2-22c7-4793-a0a5-a13d65ee7ae4]

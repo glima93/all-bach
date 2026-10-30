@@ -1,0 +1,42 @@
+id: i-solisti-filarmonici-italiani-2018
+performers:
+- name: I Solisti Filarmonici Italiani
+  role: orchestra
+- name: Federico Guglielmo
+  role: conductor
+- name: Maurizio Baglini
+  role: piano
+- name: Andrea Padova
+  role: performer
+- name: Marcello Mazzoni
+  role: performer
+- name: Gianluca Luisi
+  role: piano
+- name: Marco Scolastra
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2018]
+  place: Forum Fondazione Bertarelli
+released: 2019
+original_label: null
+works:
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/93a5b080-408b-469c-9eef-ab305f6277d9
+  title: Concertos for 2, 3, 4 Pianos and Strings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: e6df6087-7ce9-4d68-890f-b95db1ee1be6
+  recordings: [e981bacd-7126-454a-8929-5dca21dae868]

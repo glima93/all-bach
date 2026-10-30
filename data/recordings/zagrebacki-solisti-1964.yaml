@@ -1,0 +1,40 @@
+id: zagrebacki-solisti-1964
+performers:
+- name: Zagrebački solisti
+  role: orchestra
+- name: Anton Heiller
+  role: harpsichord
+- name: Erna Heiller
+  role: harpsichord
+- name: Antonio Janigro
+  role: conductor
+- name: Kurt Rapf
+  role: performer
+- name: Christa Landon
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1964]
+  place: 'Konzerthaus: Mozart‐Saal'
+released: 1995
+original_label: null
+works:
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82872566-c5e7-4187-8427-0fd5c1eac812
+  title: Concertos for One, Two, Three & Four Harpsichords & String Orchestra
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e3573325-ec7c-43c9-8025-80895df6d043
+  recordings: [1fc36f0c-0883-4a19-a024-617837d2df83]

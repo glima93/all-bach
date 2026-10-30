@@ -1,0 +1,30 @@
+id: jean-rondeau-undated
+performers:
+- name: Jean Rondeau
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: false, movements: [II. Larghetto]}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/336c61b8-9e23-41f4-91c8-aa40198b531a
+  title: 'Dynastie: Bach Concertos'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9add7fc6-06c3-4c1f-b614-ebeadfa1e69b
+  recordings: [c5064350-9b18-4992-b23e-cb0680331e96]

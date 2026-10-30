@@ -1,0 +1,34 @@
+id: apollo-s-fire-2000
+performers:
+- name: Apollo’s Fire
+  role: orchestra
+- name: Janina Ceaser
+  role: harpsichord
+- name: Paul Jenkins
+  role: harpsichord
+- name: Jeannette Sorrell
+  role: conductor
+- name: Michael Sponseller
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: St. Paul's Episcopal Church
+released: 2010
+original_label: null
+works:
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0e7e9be-b909-49a2-85b9-8da455915d11
+  title: 'Vivaldi & Friends: La Folia (Madness) & Other Concertos'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4fd0447c-c25a-4fbe-ac5b-c5b8ddc375ba
+  recordings: [572612a0-6e7f-477f-87b4-16b76d2c80b9]

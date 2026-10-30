@@ -1,0 +1,37 @@
+id: philharmoniker-hamburg-1985
+performers:
+- name: Philharmoniker Hamburg
+  role: orchestra
+- name: Christoph Eschenbach
+  role: conductor
+- name: Justus Frantz
+  role: piano
+- name: Gerhard Oppitz
+  role: performer
+- name: Helmut Schmidt
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: Friedrich-Ebert-Halle
+released: 1985
+original_label: null
+works:
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33d79923-139f-4f1c-8a4f-7143aba11da3
+  title: 'Klavierkonzerte: BWV 1060, 1061, 1063, 1065'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cbfc7f8c-eb3d-44d5-b1f7-0fb032993ae4
+  recordings: [cf27fde7-ce79-40fd-ab25-e35e3102edb8]

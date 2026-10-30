@@ -1,0 +1,28 @@
+id: concerto-koln-2014
+performers:
+- name: Concerto Köln
+  role: orchestra
+- name: Mahan Esfahani
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Deutschlandfunk Kammermusiksaal
+released: 2015
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e4446e7-8d40-4269-bfc1-593b9ff7b9c3
+  title: Time Present and Time Past
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 16a29583-0a91-415c-ac87-6ee5c6c2c406
+  recordings: [246fde5b-6760-4a26-bbef-100059b7d631]

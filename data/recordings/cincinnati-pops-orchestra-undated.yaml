@@ -1,0 +1,32 @@
+id: cincinnati-pops-orchestra-undated
+performers:
+- name: Cincinnati Pops Orchestra
+  role: orchestra
+- name: Hilda Huang
+  role: piano
+- name: Erich Kunzel
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c69cbbef-df77-421e-ad87-8e5b5c9c2dc2
+  title: From the Top at the Pops
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d8fbd94c-cd06-4e8b-a559-761ad969d07e
+  recordings: [3b816f19-7d77-40a1-abbe-fbfdfbc7eb23]

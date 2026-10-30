@@ -1,0 +1,27 @@
+id: martin-stadtfeld-undated
+performers:
+- name: Martin Stadtfeld
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: August Everding Saal
+released: 2011
+original_label: null
+works:
+- {bwv: '1055', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/98f78e49-a954-406c-b113-2f65f553c342
+  title: Klavierkonzerte
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b58542fb-afcb-431d-a234-fb5bf7f93a09
+  recordings: [0844deef-3498-4ec0-912f-a62160420e70]

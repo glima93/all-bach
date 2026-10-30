@@ -1,0 +1,34 @@
+id: st-lawrence-string-quartet-undated-2
+performers:
+- name: St. Lawrence String Quartet
+  role: string quartet
+- name: Awadagin Pratt
+  role: piano
+- name: Stephen Tramontozzi
+  role: double bass
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb8c2d93-65e0-40a2-96bd-21382e282351
+  title: Play Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f5ed0f7a-5d84-4058-827e-b535fa255a4a
+  recordings: [e24d3518-911c-42e9-9d30-2b7d1ec76539]

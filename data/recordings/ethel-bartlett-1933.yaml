@@ -1,0 +1,31 @@
+id: ethel-bartlett-1933
+performers:
+- name: Ethel Bartlett
+  role: piano
+- name: Rae Robertson
+  role: piano
+- name: Sir John Barbirolli
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1933]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/e5893df7-3931-40e6-83d8-719b7ee998d2
+  title: null
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 96473170-a8df-4cce-9332-37fc71349109
+  recordings: [e5893df7-3931-40e6-83d8-719b7ee998d2]

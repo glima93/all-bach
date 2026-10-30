@@ -1,0 +1,33 @@
+id: la-stravaganza-koln-undated
+performers:
+- name: La Stravaganza Köln
+  role: orchestra
+- name: Natalia Zertsalova
+  role: performer
+- name: Kurt Redel
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c5bfab32-cd87-4d94-9a41-37567dc4cc16
+  title: The Most Relaxing Classical Music in the Universe
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ae98c9b-3e70-4266-86a2-fbb9a09e3eb9
+  recordings: [7f551d88-dee3-45f3-b9f0-bcc0d229c490]

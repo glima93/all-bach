@@ -1,0 +1,30 @@
+id: joao-carlos-martins-undated-2
+performers:
+- name: João Carlos Martins
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1061', complete: false, movements: [III. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e6f1f575-5074-444d-b5bb-2644ac0a8dd1
+  title: 'The Complete Keyboard Works Of J.S. Bach On Concord Concerto: The Essential Bach, Selections From The
+    Complete Edition Volumes 1-15'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c7f12aa4-b144-44e6-84da-bf12052d15ac
+  recordings: [9e5e8209-0c94-4293-a972-6aa03967a8ac]

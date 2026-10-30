@@ -1,0 +1,16 @@
+bwv: "1056"
+title: "Harpsichord Concerto No. 5 in F minor"
+key: "F minor"
+collection: "Harpsichord Concertos"
+genre: orchestral
+scoring: "harpsichord, strings and continuo"
+composed: "Leipzig, c. 1738 (autograph score of BWV 1052–1059)"
+movements:
+  - "I. Allegro"
+  - "II. Largo"
+  - "III. Presto"
+notes: "The outer movements probably derive from a lost violin concerto in G minor. The Largo is related to the sinfonia that opens cantata BWV 156."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/7f5f3f86-b23f-4aea-bcf0-5d0c34bb9d9c

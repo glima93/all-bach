@@ -1,0 +1,35 @@
+id: columbia-symphony-orchestra-1957
+performers:
+- name: Columbia Symphony Orchestra
+  role: orchestra
+- name: Glenn Gould
+  role: piano
+- name: Leonard Bernstein
+  role: conductor
+- name: Charles Libove
+  role: performer
+- name: Vladimir Golschmann
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1957, 1958]
+  place: CBS 30th Street Studio
+released: 1957
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/423d00d4-1402-44de-b0b5-30ea6a847b5b
+  title: Concerto No. 2 in B-flat major Op. 19 / Keyboard Concerto No. 1 in D minor, BWV 1052
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4443207a-5293-44bc-9af0-1fdcca83fee4
+  recordings: [7965f9e1-93f0-4881-981d-08e89f10477f]

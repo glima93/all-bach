@@ -1,0 +1,29 @@
+id: fragile-undated
+performers:
+- name: Fragile
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/20ca140c-c472-4336-a116-5bbdb27468a8
+  title: Vianoce II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 115d911f-ab0e-45a5-96f9-85f916bcdb39
+  recordings: [881b7b59-b21f-4cd8-9e0a-7cb898a3bb96]

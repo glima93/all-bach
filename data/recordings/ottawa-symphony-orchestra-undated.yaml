@@ -1,0 +1,32 @@
+id: ottawa-symphony-orchestra-undated
+performers:
+- name: Ottawa Symphony Orchestra
+  role: orchestra
+- name: Glenn Gould
+  role: piano
+- name: Thomas Mayer
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/45a4786b-65f1-4814-a69f-6bd74776d7bf
+  title: The Complete Bach Collection
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 06a50d82-fcd9-48b5-ba94-9fd7cf155749
+  recordings: [8453ddda-5f89-41ef-870f-9f8d38d05afb]

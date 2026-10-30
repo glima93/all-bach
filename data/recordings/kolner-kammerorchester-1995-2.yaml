@@ -1,0 +1,54 @@
+id: kolner-kammerorchester-1995-2
+performers:
+- name: Kölner Kammerorchester
+  role: orchestra
+- name: Helmut Müller‐Brühl
+  role: conductor
+- name: Robert Hill
+  role: harpsichord
+- name: Gerald Hambitzer
+  role: performer
+- name: Christoph Anselm Noll
+  role: performer
+- name: Nadja Schubert
+  role: recorder
+- name: Eva Morsbach
+  role: recorder
+- name: Andreas Spering
+  role: performer
+- name: Michael Behringer
+  role: performer
+- name: Roderick Shaw
+  role: performer
+- name: Harald Hoeren
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995, 1996, 1998]
+  place: Deutschlandradio Studios
+released: 1996
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/04ba4623-1f1b-475d-8d1e-55ab7b3da2bb
+  title: Concertos for Harpsichords, Recorders and Violins
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b93816c3-b729-439c-95f3-d9976e0620cc
+  recordings: [5bb2d8b4-8c19-44ed-88b5-ac758b9e34b5]

@@ -1,0 +1,37 @@
+id: marlboro-festival-orchestra-1964-2
+performers:
+- name: Marlboro Festival Orchestra
+  role: orchestra
+- name: Mieczysław Horszowski
+  role: piano
+- name: Rudolf Serkin
+  role: piano
+- name: Alexander Schneider
+  role: conductor
+- name: Peter Serkin
+  role: performer
+- name: Ruth Laredo
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1964]
+  place: Marlboro Music Festival
+released: 2017
+original_label: null
+works:
+- {bwv: '1063', complete: false, movements: ['I. [no tempo indication]', III. Allegro]}
+- {bwv: '1064', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7c712145-ee3f-40d3-86af-6d4e78e00ff9
+  title: The Complete Columbia Album Collection
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc73b0bb-1e45-457f-8f81-a518beb9b74c
+  recordings: [44a6862f-2a2a-4b5f-b138-e291be3e2123]

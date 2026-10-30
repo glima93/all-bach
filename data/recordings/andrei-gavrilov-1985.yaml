@@ -1,0 +1,33 @@
+id: andrei-gavrilov-1985
+performers:
+- name: Andrei Gavrilov
+  role: performer
+- name: Yuri Nicolaevsky
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f939dc91-3687-4643-802c-4f306883bc8f
+  title: Die Klavierkonzerte 1-7
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6624e455-c745-4ca8-bebb-146cdfe89359
+  recordings: [80555141-7c21-47ea-8431-2f1d1e80df27]

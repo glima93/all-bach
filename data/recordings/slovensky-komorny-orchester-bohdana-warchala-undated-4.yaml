@@ -1,0 +1,31 @@
+id: slovensky-komorny-orchester-bohdana-warchala-undated-4
+performers:
+- name: Slovenský komorný orchester Bohdana Warchala
+  role: orchestra
+- name: Bohdan Warchal
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: false, movements: [I. Allegro, II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99023dbf-1b0f-4f4b-861e-7c9801cb34b2
+  title: Orchestral Suite No. 4 / Harpsichord Concertos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4cfa3ebc-eb6c-4647-bd02-d1475e6de877
+  recordings: [f4d5e167-78d0-4b31-946e-343aff415445]

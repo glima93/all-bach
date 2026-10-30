@@ -1,0 +1,30 @@
+id: new-philharmonic-orchestra-undated
+performers:
+- name: New Philharmonic Orchestra
+  role: orchestra
+- name: Joseph Laszlo
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d1b5cb25-6012-4ca2-85a0-89cf5b935937
+  title: Georg Friedrich Händel / Antonio Vivaldi / Francois Couperin / Johann Sebastian Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 63cd36c1-bfbe-420c-a804-37c71839fd3d
+  recordings: [e0dde6bd-206e-499d-93db-6f51414a2b5e]

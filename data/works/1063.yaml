@@ -1,0 +1,16 @@
+bwv: "1063"
+title: "Concerto for Three Harpsichords in D minor"
+key: "D minor"
+collection: "Harpsichord Concertos"
+genre: orchestral
+scoring: "3 harpsichords, strings and continuo"
+composed: "Leipzig, by 1733 at the latest"
+movements:
+  - "I. [no tempo indication]"
+  - "II. Alla Siciliana"
+  - "III. Allegro"
+notes: "Thought to be a transcription of an earlier concerto, but its original scoring and key remain unsettled."
+links:
+  wikipedia: https://en.wikipedia.org/wiki/Keyboard_concertos_by_Johann_Sebastian_Bach
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/9a85139a-bf17-40d0-9c31-4e7dad335dc6

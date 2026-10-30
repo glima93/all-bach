@@ -1,0 +1,43 @@
+id: pro-arte-orchestra-undated
+performers:
+- name: Pro Arte Orchestra
+  role: orchestra
+- name: Mindru Katz
+  role: piano
+- name: Harry Newstone
+  role: conductor
+- name: Eileen Joyce
+  role: performer
+- name: George Malcolm
+  role: performer
+- name: Thurston Dart
+  role: performer
+- name: Boris Ord
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d8502dba-5792-460c-a0b9-e3183e62d382
+  title: Clavier Concertos 1 & 5, Italian Concerto
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6cf88caa-17db-4c55-9709-176c96d89c71
+  recordings: [6f054e9d-a401-42dd-bc87-d6dcfde34318]

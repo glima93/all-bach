@@ -1,0 +1,42 @@
+id: cafe-zimmermann-undated-3
+performers:
+- name: Café Zimmermann
+  role: ensemble
+- name: Céline Frisch
+  role: harpsichord
+- name: Pablo Valetti
+  role: violin
+- name: Constance Börner
+  role: performer
+- name: Dirk Börner
+  role: performer
+- name: Anna Fontana
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dab75b0f-a091-436d-8eb8-52201f2a6c57
+  title: Concerts avec plusieurs instruments – VI
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 287b6163-2115-42c1-90fd-217d667b9d96
+  recordings: [dd3fac6e-2f2d-42dc-ab61-1542e3cdf7c9]

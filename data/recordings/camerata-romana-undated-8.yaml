@@ -1,0 +1,40 @@
+id: camerata-romana-undated-8
+performers:
+- name: Camerata Romana
+  role: orchestra
+- name: Eugen Duvier
+  role: conductor
+- name: Eberhard Kraus
+  role: harpsichord
+- name: Christiane Jaccottet
+  role: performer
+- name: Kurt Redel
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4483af9d-d996-47b2-8f0f-1e6644517ed0
+  title: Concertos for Harpsichord and Orchestra
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9b04359-c185-4b36-b4c5-944bb2944b29
+  recordings: [a58b2503-8538-471f-b15d-07db1ed30f1c]

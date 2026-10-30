@@ -1,0 +1,34 @@
+id: academy-of-st-martin-in-the-fields-2023
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Tianqi Du
+  role: piano
+- name: Jonathan Bloxham
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2023]
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e05a2c7-fc86-4bc8-9e1b-63081e695d0e
+  title: Keyboard Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [8b4f44ee-e42e-4101-bd54-ed68b9a9edda]

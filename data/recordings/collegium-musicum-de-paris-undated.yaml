@@ -1,0 +1,39 @@
+id: collegium-musicum-de-paris-undated
+performers:
+- name: Collegium Musicum de Paris
+  role: orchestra
+- name: Ruggero Gerlin
+  role: harpsichord
+- name: Roland Douatte
+  role: conductor
+- name: Huguette Dreyfus
+  role: performer
+- name: Nicole Hénon
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1063', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/98f8a4b2-459d-402e-9102-9323ec220692
+  title: Intégrale des 14 Concerti pour Clavecin et Orchestre - Volume I
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ef8e910c-ce61-48ad-a16a-2518f80fe64b
+  recordings: [66b07a48-070e-4d88-b4f6-1bf31677b0fb]

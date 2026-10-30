@@ -1,0 +1,47 @@
+id: musica-alta-ripa-1995
+performers:
+- name: Musica Alta Ripa
+  role: ensemble
+- name: Rudolf Innig
+  role: harpsichord
+- name: Ludger Rémy
+  role: performer
+- name: Gregor Hollmann
+  role: performer
+- name: Bernward Lohr
+  role: performer
+- name: Danya Segal
+  role: performer
+- name: Gerd Lünenbürger
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995, 1996, 1997, 1998]
+  place: Schloss Nordkirchen
+released: 1996
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+- {bwv: '1060', complete: false, movements: [II. Largo ovvero Adagio]}
+- {bwv: '1061', complete: false, movements: [I. Allegro, III. Vivace]}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: false, movements: ['I. [Allegro]', II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ff61fb59-0bf1-492c-ab7f-153d71de4aa3
+  title: Solo Concertos, Vol. 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2f5086fd-c82b-4eb7-a9df-407353324d7f
+  recordings: [e1d4520b-87c5-4cd8-8a1e-2d0ae36859f2]

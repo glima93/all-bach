@@ -1,0 +1,29 @@
+id: drinkall-baker-duo-undated
+performers:
+- name: Drinkall-Baker Duo
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/45a1a59d-b9bc-44fa-9b6e-c45423ba6c39
+  title: Aphorisms
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 716e88eb-3d84-48a2-bd31-b785573767f7
+  recordings: [b6b22ab9-cda2-48d0-9b55-bc3908afb907]

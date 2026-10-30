@@ -1,0 +1,29 @@
+id: george-fenton-undated
+performers:
+- name: George Fenton
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8a056ac6-3e1d-4a03-8062-3af85467dd78
+  title: Dangerous Liaisons
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5992eb3a-044c-4739-a385-8bc0e8f7055d
+  recordings: [4609f3e0-c3a9-42b4-a7b2-16ab340e772d]

@@ -1,0 +1,32 @@
+id: strings-of-the-sydney-symphony-orchestra-undated
+performers:
+- name: Strings of the Sydney Symphony Orchestra
+  role: orchestra
+- name: Roger Woodward
+  role: piano
+- name: Eivind Aadland
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1052', complete: false, movements: [I. Allegro, II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a84683d2-2b4b-43c1-bbbc-b4f06c8583c9
+  title: A Concerto Collection
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4494b15d-2c36-438d-854a-1ac411efcb2d
+  recordings: [f03eef80-c6af-4c6e-af06-21882abeeb4d]

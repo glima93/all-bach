@@ -1,0 +1,35 @@
+id: anna-nowak-pokrzywinska-2017
+performers:
+- name: Anna Nowak-Pokrzywińska
+  role: violin
+- name: Dymitr Olszewski
+  role: viola
+- name: Tomasz Pokrzywiński
+  role: cello
+- name: Zefira Valova
+  role: violin
+- name: Marcin Świątkiewicz
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Siedziba Narodowej Orkiestry Symfonicznej Polskiego Radia
+released: 2018
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/19e5d4db-9533-46cb-a130-2e8f4cffe5dd
+  title: Harpsichord Concertos nos. 1, 2, 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: af208d28-57ad-4b75-86e7-36cc3fbbda76
+  recordings: [97c397c3-2172-4a58-88b5-7ed9d7068998]

@@ -1,0 +1,46 @@
+id: orchestre-de-jerusalem-undated
+performers:
+- name: Orchestre de Jérusalem
+  role: ensemble
+- name: Mendi Rodan
+  role: conductor
+- name: Liselotte Born
+  role: harpsichord
+- name: Christiane Jaccottet
+  role: harpsichord
+- name: André Loew
+  role: harpsichord
+- name: Frank Pelleg
+  role: performer
+- name: Bracha Eden
+  role: performer
+- name: Pnina Salzman
+  role: performer
+- name: Alexander Tamir
+  role: performer
+- name: Arie Vardi
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bc2cd52b-93e6-4e54-b3ec-1811e9ade056
+  title: Chefs-d'œuvre immortels de la musique
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5f429fa9-d38a-4d59-add7-c592c09f33c4
+  recordings: [3bd0100c-2b68-49e3-98dc-d9e1499a4546]

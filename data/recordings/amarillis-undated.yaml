@@ -1,0 +1,35 @@
+id: amarillis-undated
+performers:
+- name: Amarillis
+  role: orchestra
+- name: Violaine Cochard
+  role: harpsichord
+- name: Héloïse Gaillard
+  role: oboe
+- name: Meillane Wilmotte
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1057', complete: false, movements: [II. Andante, III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1434e01-8192-49da-b310-a52b94c9c4f7
+  title: Effervescence concertante
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With oboe, flute.
+musicbrainz:
+  artist: cd10fc54-5b2d-488f-85ec-bb1b5e3c93b1
+  recordings: [203205f4-f5d8-4414-afd7-4d1d0f2eae3f]

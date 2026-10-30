@@ -1,0 +1,57 @@
+id: wurttemberg-chamber-orchestra-undated
+performers:
+- name: Württemberg Chamber Orchestra
+  role: orchestra
+- name: Jörg Faerber
+  role: conductor
+- name: Christiane Jaccottet
+  role: harpsichord
+- name: Christine Soretti
+  role: performer
+- name: Nicole Hostettler
+  role: performer
+- name: Christine Sartoretti
+  role: performer
+- name: Leonore Klinckerfuß
+  role: performer
+- name: Günther Höller
+  role: performer
+- name: Ulrich Thieme
+  role: performer
+- name: Günter Kehr
+  role: performer
+- name: Ulrike Thieme
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f9befa2-10f7-48cd-acc0-21820c6d0212
+  title: The Complete Keyboard Concerti
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 556a5295-5b20-4da7-a9d1-49833162cb73
+  recordings: [88126632-4f7b-4c43-8136-e27b35f2a807]

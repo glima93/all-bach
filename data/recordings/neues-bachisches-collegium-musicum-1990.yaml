@@ -1,0 +1,48 @@
+id: neues-bachisches-collegium-musicum-1990
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Christine Schornsheim
+  role: harpsichord
+- name: Burkhard Glaetzner
+  role: conductor
+- name: Armin Thalheim
+  role: performer
+- name: Paul Leenhouts
+  role: performer
+- name: Karel van Steenhoven
+  role: performer
+- name: Mechtild Stark
+  role: performer
+- name: Violetta Liebsch
+  role: performer
+- name: Max Pommer
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990, 1992]
+  place: Paul-Gerhardt-Kirche
+released: 1986
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/77d466d7-f1da-43b1-926e-44db18ef0d7e
+  title: 'Bach Edition, Volume 1: Orchestral Works & Concertos/Orchesterwerke & Konzerte'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [42eca230-930c-4723-9c78-6445dae0672b]

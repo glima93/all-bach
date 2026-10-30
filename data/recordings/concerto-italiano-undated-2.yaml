@@ -1,0 +1,33 @@
+id: concerto-italiano-undated-2
+performers:
+- name: Concerto Italiano
+  role: ensemble
+- name: Rinaldo Alessandrini
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5fde6360-0f4e-4860-b30d-3c6bf481b5a1
+  title: Keyboard Concertos
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ed39906-8964-45b2-87de-a895616aa60d
+  recordings: [b8f43653-de8b-4b3c-987e-367b3bcc781d]

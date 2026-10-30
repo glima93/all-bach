@@ -1,0 +1,28 @@
+id: orchestre-symphonique-de-radio-tele-luxembourg-1983-3
+performers:
+- name: Orchestre symphonique de Radio Télé Luxembourg
+  role: orchestra
+- name: Leopold Hagar
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1983]
+  place: Villa Louvigny
+released: 1983
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f34554fd-0925-4f8b-822b-3773930ba295
+  title: Concertos Brandebourgeois Nr. 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fca4ea60-7623-4b66-a045-fb7b42d56012
+  recordings: [8c3e1261-d7f5-4385-a6c0-529a581dd4fe]

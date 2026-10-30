@@ -1,0 +1,31 @@
+id: la-tempete-undated
+performers:
+- name: La Tempête
+  role: ensemble
+- name: Simon‐Pierre Bestion
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1052', complete: false, movements: [I. Allegro, III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3d9294bb-0744-4e6a-ae63-b4a1eee7bba0
+  title: Bach minimaliste
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 527b4560-898a-4330-afd1-bea797015d04
+  recordings: [680d5014-fd55-44a7-98c8-4418c04066b1]

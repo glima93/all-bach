@@ -1,0 +1,29 @@
+id: david-stanhope-undated-2
+performers:
+- name: David Stanhope
+  role: piano
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c2a5b2a-adae-43a7-a348-d81225a82e46
+  title: 'The Swoon Collection: Gold Edition'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9bba7208-49e1-489a-8df7-8a0496c91332
+  recordings: [5303a9d6-e5a2-4505-b091-29525e0fdbec]

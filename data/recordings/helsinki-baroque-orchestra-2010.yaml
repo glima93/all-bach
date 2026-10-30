@@ -1,0 +1,30 @@
+id: helsinki-baroque-orchestra-2010
+performers:
+- name: Helsinki Baroque Orchestra
+  role: orchestra
+- name: Aapo Häkkinen
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2010]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b5fc0a02-7d7d-4004-b0a4-9bbd3137bef7
+  title: 'Concerti à Cembalo concertato: Harpsichord Concertos, Volume 1'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 078e3e21-ff7a-4778-8eb0-a8a234505de4
+  recordings: [9e3250d7-8b50-4ced-b0b1-beff8873fab3]

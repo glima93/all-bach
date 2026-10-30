@@ -1,0 +1,32 @@
+id: orchester-der-wiener-staatsoper-1958
+performers:
+- name: Orchester der Wiener Staatsoper
+  role: orchestra
+- name: Anton Heiller
+  role: harpsichord
+- name: Miltiades Caridis
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958]
+  place: Brahms-Saal
+released: 1995
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82872566-c5e7-4187-8427-0fd5c1eac812
+  title: Concertos for One, Two, Three & Four Harpsichords & String Orchestra
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 60cc7738-673d-45e3-8cdb-5412e09cb1c5
+  recordings: [f425c432-a463-4bd4-96d1-09a27e7422b1]

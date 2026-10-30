@@ -1,0 +1,38 @@
+id: columbia-symphony-orchestra-undated
+performers:
+- name: Columbia Symphony Orchestra
+  role: orchestra
+- name: Glenn Gould
+  role: piano
+- name: Vladimir Golschmann
+  role: performer
+- name: Leonard Bernstein
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1958
+original_label: null
+works:
+- {bwv: '1052', complete: false, movements: [III. Allegro]}
+- {bwv: '1054', complete: false, movements: [II. Adagio e piano sempre]}
+- {bwv: '1055', complete: false, movements: [II. Larghetto]}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/280ac95e-4934-4479-b491-8302256116cf
+  title: 'The Art of J.S. Bach: Ryuichi Sakamoto Selections'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4443207a-5293-44bc-9af0-1fdcca83fee4
+  recordings: [f1f3ec74-560a-4cf7-8dbc-067cd7242494]

@@ -1,0 +1,30 @@
+id: chicago-symphony-orchestra-1958
+performers:
+- name: Chicago Symphony Orchestra
+  role: orchestra
+- name: André Tchaikowsky
+  role: piano
+- name: Fritz Reiner
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1958]
+  place: 'Symphony Center: Orchestra Hall'
+released: 2013
+original_label: null
+works:
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/08254841-645d-4141-b5ef-a63d6a1b8aae
+  title: The Complete RCA Album Collection
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 509c772e-1164-4457-8d09-0553cfa77d64
+  recordings: [ab0eeee3-8198-4c88-ba35-f83ceb01ae8f]

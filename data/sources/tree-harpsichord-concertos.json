@@ -1,0 +1,364 @@
+{
+ "collection": "harpsichord-concertos",
+ "taken": "2026-10-29",
+ "recordings": 2308,
+ "performances": 319,
+ "works": [
+  {
+   "bwv": "1052",
+   "id": "e74a3a95-8008-43e3-939d-50d6bc9a221b",
+   "candidates": [
+    {
+     "id": "e74a3a95-8008-43e3-939d-50d6bc9a221b",
+     "title": "Keyboard Concerto in D minor, BWV 1052"
+    },
+    {
+     "id": "5abe6164-9a94-48e6-b47c-e970f568aeeb",
+     "title": "Keyboard Concerto in D minor, BWV 1052"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Keyboard Concerto in D minor, BWV 1052",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "29930a4b-b3a6-3b82-be2f-f19a06a76175",
+     "title": "Keyboard Concerto in D minor, BWV 1052: I. Allegro"
+    },
+    {
+     "id": "ff7b3ce6-f25d-3029-aa30-e5964e988e9b",
+     "title": "Keyboard Concerto in D minor, BWV 1052: II. Adagio"
+    },
+    {
+     "id": "7a046a04-921e-3e3d-a8d5-9dcc30f5e2f3",
+     "title": "Keyboard Concerto in D minor, BWV 1052: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1054",
+   "id": "25821d13-6209-4519-8db9-8eca7be5752b",
+   "candidates": [
+    {
+     "id": "25821d13-6209-4519-8db9-8eca7be5752b",
+     "title": "Concerto for Keyboard and Orchestra no. 3 in D major, BWV 1054"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto for Keyboard and Orchestra no. 3 in D major, BWV 1054",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "a840c404-0585-310b-9590-029cf7528dac",
+     "title": "Concerto for Keyboard and Orchestra no. 3 in D major, BWV 1054: I. Allegro"
+    },
+    {
+     "id": "e04e55ad-431c-3a24-9c83-54aed096e3be",
+     "title": "Concerto for Keyboard and Orchestra no. 3 in D major, BWV 1054: II. Adagio e piano sempre"
+    },
+    {
+     "id": "bfb4558c-49f7-37e5-89ff-cfa4a33c3baa",
+     "title": "Concerto for Keyboard and Orchestra no. 3 in D major, BWV 1054: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1055",
+   "id": "8faf9f08-3f67-4029-8322-b9dc5ce1f098",
+   "candidates": [
+    {
+     "id": "8faf9f08-3f67-4029-8322-b9dc5ce1f098",
+     "title": "Keyboard Concerto no. 4 in A major, BWV 1055"
+    },
+    {
+     "id": "dbbbab64-7da9-440f-ae51-e3c350d4d097",
+     "title": "Violin Concerto in A major, BWV 1055"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 4 in A major, BWV 1055",
+   "key": "A major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "07d35f4c-833a-3e44-b6aa-a464d0f534e1",
+     "title": "Keyboard Concerto no. 4 in A major, BWV 1055: I. Allegro"
+    },
+    {
+     "id": "843c35a7-436b-3ede-9ed1-74af21eb1b44",
+     "title": "Keyboard Concerto no. 4 in A major, BWV 1055: II. Larghetto"
+    },
+    {
+     "id": "78d084ed-8f9d-3bec-870c-af2aab173fd0",
+     "title": "Keyboard Concerto no. 4 in A major, BWV 1055: III. Allegro ma non tanto"
+    }
+   ]
+  },
+  {
+   "bwv": "1056",
+   "id": "7f5f3f86-b23f-4aea-bcf0-5d0c34bb9d9c",
+   "candidates": [
+    {
+     "id": "e55e4446-f1ba-4b36-8e5f-ee9dd933f6d6",
+     "title": "Arioso from Keyboard Concerto no. 5 in F minor, BWV 1056"
+    },
+    {
+     "id": "7f5f3f86-b23f-4aea-bcf0-5d0c34bb9d9c",
+     "title": "Concerto no. 5 for Keyboard and Orchestra in F minor, BWV 1056"
+    },
+    {
+     "id": "1c295267-910a-48c3-8f12-ddef2f76628e",
+     "title": "Arioso form Keyboard Concerto no. 5 in F minor, BWV 1056"
+    },
+    {
+     "id": "a30d6d3d-4b63-44f2-bd2d-3ec4a7e0fe70",
+     "title": "Concerto for Oboe in G minor, BWV 1056"
+    },
+    {
+     "id": "e2268c94-0a99-4ba1-b7a7-6b244401c7eb",
+     "title": "Concerto no. 5 for Keyboard and Orchestra in F minor, BWV 1056"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto no. 5 for Keyboard and Orchestra in F minor, BWV 1056",
+   "key": "F minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "265a8270-3ab0-33d3-8b13-0a014bfc6d60",
+     "title": "Concerto no. 5 for Keyboard and Orchestra in F minor, BWV 1056: I. Allegro"
+    },
+    {
+     "id": "ae0d044f-5da7-3075-ac1e-f0997831e259",
+     "title": "Concerto no. 5 for Keyboard and Orchestra in F minor, BWV 1056: II. Largo"
+    },
+    {
+     "id": "8fa74eb4-d468-395d-a77b-176d2674ce01",
+     "title": "Concerto no. 5 for Keyboard and Orchestra in F minor, BWV 1056: III. Presto"
+    }
+   ]
+  },
+  {
+   "bwv": "1057",
+   "id": "cf5c91c9-12be-40cc-93dd-2ae831ab2bc9",
+   "candidates": [
+    {
+     "id": "cf5c91c9-12be-40cc-93dd-2ae831ab2bc9",
+     "title": "Keyboard Concerto no. 6 in F major, BWV 1057"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 6 in F major, BWV 1057",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "a03aeaa3-59ee-4f6a-994d-0c44e54a8d37",
+     "title": "Keyboard Concerto no. 6 in F major, BWV 1057: I. Allegro"
+    },
+    {
+     "id": "4a8444bc-f7d6-40dd-badf-9c7c8b8ad067",
+     "title": "Keyboard Concerto no. 6 in F major, BWV 1057: II. Andante"
+    },
+    {
+     "id": "832093a9-c764-4419-b7ee-cd9d9e147fea",
+     "title": "Keyboard Concerto no. 6 in F major, BWV 1057: III. Allegro assai"
+    }
+   ]
+  },
+  {
+   "bwv": "1059",
+   "id": "742373b3-093e-49fa-89df-b39878263a3b",
+   "candidates": [
+    {
+     "id": "742373b3-093e-49fa-89df-b39878263a3b",
+     "title": "Concerto for harpsichord, oboe, strings & continuo no. 8 in D minor (incomplete), BWV 1059"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto for harpsichord, oboe, strings & continuo no. 8 in D minor (incomplete), BWV 1059",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "5ce6802b-3ee3-476b-84ff-b7752b25f756",
+     "title": "Concerto for harpsichord, oboe, strings & continuo no. 8 in D minor (incomplete), BWV 1059: I. Allegro"
+    },
+    {
+     "id": "bad6cdd7-0bad-4e6d-83dc-0df84eca795a",
+     "title": "Concerto for harpsichord, oboe, strings & continuo no. 8 in D minor (incomplete), BWV 1059: II. Adagio"
+    },
+    {
+     "id": "5ded51e7-9387-45b1-94a7-5c7ca8446cc0",
+     "title": "Concerto for harpsichord, oboe, strings & continuo no. 8 in D minor (incomplete), BWV 1059: III. Presto"
+    }
+   ]
+  },
+  {
+   "bwv": "1060",
+   "id": "6e5aeab8-5605-4225-af7f-b359a3ff7c33",
+   "candidates": [
+    {
+     "id": "6e5aeab8-5605-4225-af7f-b359a3ff7c33",
+     "title": "Concerto in C minor for Two Harpsichords, BWV 1060"
+    },
+    {
+     "id": "bc9eacc4-c063-49fc-89c8-a1446d96d212",
+     "title": "Concerto in C minor for Two Harpsichords, BWV 1060"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto in C minor for Two Harpsichords, BWV 1060",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "f63f44db-1d2d-3b42-9f23-58598b4143b5",
+     "title": "Concerto in C minor for Two Harpsichords, BWV 1060: I. Allegro"
+    },
+    {
+     "id": "c372da85-e43c-3e03-a740-04637a5fac64",
+     "title": "Concerto in C minor for Two Harpsichords, BWV 1060: II. Largo ovvero Adagio"
+    },
+    {
+     "id": "50144a6c-5d33-38f6-bbd7-76f9c8899cdf",
+     "title": "Concerto in C minor for Two Harpsichords, BWV 1060: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1061",
+   "id": "1fa8d1cb-7b8f-4127-88a3-731731d3a129",
+   "candidates": [
+    {
+     "id": "1fa8d1cb-7b8f-4127-88a3-731731d3a129",
+     "title": "Concerto in C major for Two Harpsichords, BWV 1061"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto in C major for Two Harpsichords, BWV 1061",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "159bc2fb-c420-38f2-8f61-bbc709bdb2f5",
+     "title": "Concerto in C major for Two Harpsichords, BWV 1061: I. Allegro"
+    },
+    {
+     "id": "66db4886-abce-3398-9f20-72022213bf36",
+     "title": "Concerto in C major for Two Harpsichords, BWV 1061: II. Adagio"
+    },
+    {
+     "id": "fc3d39a2-cd41-3dfd-8217-6469f8f88ff9",
+     "title": "Concerto in C major for Two Harpsichords, BWV 1061: III. Vivace"
+    }
+   ]
+  },
+  {
+   "bwv": "1063",
+   "id": "9a85139a-bf17-40d0-9c31-4e7dad335dc6",
+   "candidates": [
+    {
+     "id": "9a85139a-bf17-40d0-9c31-4e7dad335dc6",
+     "title": "Concerto for 3 harpsichords, strings & continuo in D minor, BWV 1063"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto for 3 harpsichords, strings & continuo in D minor, BWV 1063",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0b8e3b4d-4fac-4197-bb80-acb3d849c9e9",
+     "title": "Concerto for 3 harpsichords, strings & continuo in D minor, BWV 1063: I. [no tempo indication]"
+    },
+    {
+     "id": "7641ee0e-38ee-4752-bdd8-5e9e947cadac",
+     "title": "Concerto for 3 harpsichords, strings & continuo in D minor, BWV 1063: II. Alla Siciliana"
+    },
+    {
+     "id": "c302193e-2e5c-417f-8465-3d2c3c9b078b",
+     "title": "Concerto for 3 harpsichords, strings & continuo in D minor, BWV 1063: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1064",
+   "id": "1d84927f-353a-4da6-8b86-9ed4d063c030",
+   "candidates": [
+    {
+     "id": "a481f725-3f3c-4f2a-8fd1-04b0f7521ec0",
+     "title": "Concerto for 3 Harpsichords in C major, BWV 1064"
+    },
+    {
+     "id": "1d84927f-353a-4da6-8b86-9ed4d063c030",
+     "title": "Concerto for 3 Harpsichords in C major, BWV 1064"
+    },
+    {
+     "id": "0a92b1d1-3532-445d-b330-e6e0df657889",
+     "title": "Concerto for 3 violins, strings and basso continuo, BWV 1064"
+    },
+    {
+     "id": "944eb09a-ba94-4d8e-a7ab-f8a0dc48f1ef",
+     "title": "Konzert D-Dur für Oboe, Flöte und Violine, BWV 1064"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto for 3 Harpsichords in C major, BWV 1064",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "ace64565-21b7-31e9-85f6-18cc7a2b0b46",
+     "title": "Concerto in C major for Three Harpsichords, BWV 1064: I. Allegro"
+    },
+    {
+     "id": "dc6a8837-cb23-37fd-bb36-6633b7f0ab17",
+     "title": "Concerto in C major for Three Harpsichords, BWV 1064: II. Adagio"
+    },
+    {
+     "id": "637bd1f9-0047-3cef-b795-eafe6186097d",
+     "title": "Concerto in C major for Three Harpsichords, BWV 1064: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1065",
+   "id": "413309bc-e2cf-457a-a705-1601f5d33c8b",
+   "candidates": [
+    {
+     "id": "413309bc-e2cf-457a-a705-1601f5d33c8b",
+     "title": "Concerto for 4 Harpsichords and Orchestra in A minor, BWV 1065"
+    },
+    {
+     "id": "0ce302a4-f43c-4d2f-b8c8-ccc923b98543",
+     "title": "Concerto for 4 Harpsichords and Orchestra in A minor, BWV 1065"
+    },
+    {
+     "id": "b34d175d-086d-414d-8eed-cdd9a9648bb5",
+     "title": "Concerto in A minor for Four Harpsichords and Orchestra, BWV 1065"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto for 4 Harpsichords and Orchestra in A minor, BWV 1065",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "f95a149a-90d3-3b09-95e6-b95a4536963a",
+     "title": "Concerto for 4 Harpsichords and Orchestra in A minor, BWV 1065: I. [Allegro]"
+    },
+    {
+     "id": "55d273db-0522-30a8-9e3f-698286fbed1a",
+     "title": "Concerto for 4 Harpsichords and Orchestra in A minor, BWV 1065: II. Largo"
+    },
+    {
+     "id": "e03c4475-16a4-3a1a-a987-e16f72edd1df",
+     "title": "Concerto for 4 Harpsichords and Orchestra in A minor, BWV 1065: III. Allegro"
+    }
+   ]
+  }
+ ]
+}

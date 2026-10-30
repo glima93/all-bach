@@ -1,0 +1,26 @@
+id: gustav-leonhardt-1981
+performers:
+- name: Gustav Leonhardt
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1981]
+  place: Lutherse Kerk
+released: 1997
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1eb09dad-227c-403f-9ccf-c7ebd491957d
+  title: Cembalokonzerte d-moll
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [fb1493f9-b0e4-4d6f-859c-d3a6813a0ee0]

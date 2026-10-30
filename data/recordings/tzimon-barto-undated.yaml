@@ -1,0 +1,28 @@
+id: tzimon-barto-undated
+performers:
+- name: Tzimon Barto
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1055', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef4e4daa-d543-4f1f-9fad-3c439726e2a0
+  title: The Best of Tzimon Barto
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6e6f0232-89b3-4972-8a10-0a2630fe81de
+  recordings: [01c99cd7-028c-43c3-962d-53c16b289b4c]

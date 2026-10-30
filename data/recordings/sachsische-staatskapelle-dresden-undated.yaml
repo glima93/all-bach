@@ -1,0 +1,42 @@
+id: sachsische-staatskapelle-dresden-undated
+performers:
+- name: Sächsische Staatskapelle Dresden
+  role: orchestra
+- name: Isolde Ahlgrimm
+  role: harpsichord
+- name: Hans Pischner
+  role: harpsichord
+- name: Kurt Redel
+  role: conductor
+- name: Zuzana Růžičková
+  role: performer
+- name: Robert Veyron‐Lacroix
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1966
+original_label: null
+works:
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4a7c8318-63ef-42c9-ba6a-f7d7c4add220
+  title: Konzerte für zwei Cembali und Streichorchester
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62250633-e888-49bb-ab9f-d6f14ef21012
+  recordings: [765a63c5-23ed-44a1-8d92-deec2edfd726]

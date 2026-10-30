@@ -1,0 +1,32 @@
+id: berlin-symphony-orchestra-undated-2
+performers:
+- name: Berlin Symphony Orchestra
+  role: orchestra
+- name: Hans Pischner
+  role: harpsichord
+- name: Kurt Sanderling
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/80158ba2-80b5-434c-b5e9-bdfb17eb639b
+  title: 'Requiem: Musik der Trauer'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdd0f7b0-0dac-4625-ba68-e119f2b928f3
+  recordings: [a0d1075c-5bfe-45a6-a4ad-2593272ade5a]

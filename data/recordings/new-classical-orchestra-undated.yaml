@@ -1,0 +1,32 @@
+id: new-classical-orchestra-undated
+performers:
+- name: New Classical Orchestra
+  role: orchestra
+- name: Oleg Malov
+  role: performer
+- name: Alexander Titov
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c6526f5b-f612-4d97-89ae-bf97dda87439
+  title: 'Inner Peace: Classics for the Spirit'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ac29bb19-f892-40d7-b71e-c0de3ad050ac
+  recordings: [08e3517b-5354-47d6-8e74-b02236a18219]

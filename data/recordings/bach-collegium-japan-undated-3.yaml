@@ -1,0 +1,36 @@
+id: bach-collegium-japan-undated-3
+performers:
+- name: Bach Collegium Japan
+  role: orchestra
+- name: Masato Suzuki
+  role: conductor
+- name: Masaaki Suzuki
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9bb4a0d9-c77b-46a5-90e8-bf9bd70266fb
+  title: Concertos for Harpsichord & Strings, Vol. 1
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [67864cec-03f8-4e6a-a16b-70ea23307326]

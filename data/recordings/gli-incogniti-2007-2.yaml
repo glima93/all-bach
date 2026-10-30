@@ -1,0 +1,30 @@
+id: gli-incogniti-2007-2
+performers:
+- name: Gli Incogniti
+  role: orchestra
+- name: Amandine Beyer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2007]
+  place: Église luthérienne Saint-Marcel
+released: 2008
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a843494a-fa2a-4914-8a2e-626f879069d0
+  title: 'Concerti a violino certato: BWV 1041, 1042, 1052, 1056'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With violin.
+musicbrainz:
+  artist: 20e6d3c3-c9e8-4686-9495-6fa5e121266c
+  recordings: [cca4ef3c-2ee2-434f-968e-5e0e22ae907d]

@@ -1,0 +1,32 @@
+id: academy-of-st-martin-in-the-fields-1986
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Sir Neville Marriner
+  role: conductor
+- name: Andred Gavrilov
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1986]
+  place: 'Abbey Road Studios: Studio 1'
+released: 1987
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d1be45c1-65eb-42ed-a5da-7ca771f776a1
+  title: Keyboard Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [b238e1fa-481f-45a2-9be9-4936b660a58d]

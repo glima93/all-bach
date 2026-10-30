@@ -1,0 +1,27 @@
+id: angel-romero-1990
+performers:
+- name: Ángel Romero
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1990]
+  place: Mission San Luis Rey de Francia
+released: 1993
+original_label: null
+works:
+- {bwv: '1056', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1ba3a2d-7ceb-44ca-bcf6-766a68751135
+  title: Angel Romero plays Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With classical guitar.
+musicbrainz:
+  artist: 8f867e44-d3fb-4ae1-9177-5b186a64afce
+  recordings: [4be91836-fcb5-4427-a04a-3d3e7d925250]

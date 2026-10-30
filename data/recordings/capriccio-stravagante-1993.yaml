@@ -1,0 +1,29 @@
+id: capriccio-stravagante-1993
+performers:
+- name: Capriccio Stravagante
+  role: ensemble
+- name: Skip Sempé
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: La Clé d'Ut
+released: 1993
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0552610d-231f-4465-95c2-dee48b2cae36
+  title: Concerti / Ciaccona / Partita
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fc1fda01-7003-4d46-ae50-3326008779f1
+  recordings: [11026f78-64da-40c7-aaf0-25264c31b4aa]

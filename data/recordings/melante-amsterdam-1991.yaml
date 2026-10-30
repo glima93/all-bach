@@ -1,0 +1,46 @@
+id: melante-amsterdam-1991
+performers:
+- name: Melante Amsterdam
+  role: ensemble
+- name: Bob van Asperen
+  role: harpsichord
+- name: Bernhard Klapprott
+  role: performer
+- name: Gustav Leonhardt
+  role: performer
+- name: Carsten Lohff
+  role: performer
+- name: Marcelo Bussi
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1991, 1992, 1993, 1994]
+  place: Maria Minor
+released: 1995
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+- {bwv: '1059', complete: true}
+- {bwv: '1060', complete: true}
+- {bwv: '1061', complete: true}
+- {bwv: '1063', complete: true}
+- {bwv: '1064', complete: true}
+- {bwv: '1065', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f64f9844-7450-4d1d-96bf-786aed7a6cd1
+  title: Harpsichord Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2f51179a-25ba-45fe-a89b-227004cacbdf
+  recordings: [52699057-8551-45a6-96fd-69b81706ecf4]

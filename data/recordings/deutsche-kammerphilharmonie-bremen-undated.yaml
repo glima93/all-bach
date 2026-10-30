@@ -1,0 +1,38 @@
+id: deutsche-kammerphilharmonie-bremen-undated
+performers:
+- name: Deutsche Kammerphilharmonie Bremen
+  role: orchestra
+- name: Olli Mustonen
+  role: piano
+- name: Jukka‐Pekka Saraste
+  role: conductor
+- name: David Fray
+  role: performer
+- name: Florian Donderer
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/998b9ff3-a450-4df1-be56-5807544dbfb0
+  title: 'Beethoven: Piano Concerto (arr. from Violin Concerto) / Bach: Concerto, BWV 1054'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e1ee04bc-e6de-43e0-99d1-c491c3d66620
+  recordings: [2b143c40-610c-4ef5-8288-e191782a4397]

@@ -1,0 +1,36 @@
+id: moscow-virtuosi-undated-3
+performers:
+- name: Moscow Virtuosi
+  role: orchestra
+- name: Julia Zilberquit
+  role: piano
+- name: Saulius Sondeckis
+  role: conductor
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f0bddb7-e67d-4c62-833d-ef92655af00e
+  title: 'J. S. Bach: Complete Solo Keyboard Concertos / J. S. Bach-Vivaldi: Two Concertos'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2411cf7e-a426-46bd-8740-f88b1d14528d
+  recordings: [faae0093-f61b-43d2-b0ad-619999e43636]

@@ -1,0 +1,27 @@
+id: william-kapell-1950
+performers:
+- name: William Kapell
+  role: piano
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1950]
+  place: NBC Studios
+released: 2016
+original_label: null
+works:
+- {bwv: '1065', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b87a393-4578-4dc9-994e-acc19afdf381
+  title: Broadcast and Concert Performances, 1944-1952
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 79f8d39b-835c-4361-92e4-9217ad528d4f
+  recordings: [acccda07-1249-42dc-9b99-1630b049b074]

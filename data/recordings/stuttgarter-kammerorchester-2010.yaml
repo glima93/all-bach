@@ -1,0 +1,34 @@
+id: stuttgarter-kammerorchester-2010
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Konstantin Lifschitz
+  role: piano
+- name: Karl Münchinger
+  role: performer
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2010]
+  place: SWR Funkstudio
+released: 2011
+original_label: null
+works:
+- {bwv: '1052', complete: true}
+- {bwv: '1054', complete: true}
+- {bwv: '1055', complete: true}
+- {bwv: '1056', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aeaedb9e-2604-4b1f-8c3e-a9add9bafc65
+  title: Klavierkonzerte BWV 1052-1058
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [49726d48-0fd0-4cbd-b349-619adecfccd1]

@@ -1,0 +1,29 @@
+id: allegaeon-undated
+performers:
+- name: Allegaeon
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '1052', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c21cfa48-58f0-4217-aca6-d119c773a5de
+  title: Apoptosis
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1d71cfe3-f105-4dd5-bdfe-61f6fde2cac7
+  recordings: [5f5b5352-ec00-4083-a81d-8223f969b348]

@@ -1,0 +1,30 @@
+id: english-chamber-orchestra-1980
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Raymond Leppard
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1054', complete: true}
+- {bwv: '1057', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c4d0ce37-88df-4ea1-99ef-d38ecf2930d7
+  title: Concerti per 1 e 2 Cembali
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [819c029f-b892-4ab4-babe-d4b71f717185]
