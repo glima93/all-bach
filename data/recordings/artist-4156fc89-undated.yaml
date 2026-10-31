@@ -1,0 +1,29 @@
+id: artist-4156fc89-undated
+performers:
+- name: 清塚信也
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/45f17246-2486-4c91-a0bc-f2509bcd8cee
+  title: Connect
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4156fc89-df9e-4a30-a924-e9bfbc665867
+  recordings: [5cb4c220-321b-4419-b9bf-c2fcd6bea381]

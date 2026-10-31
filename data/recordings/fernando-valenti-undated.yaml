@@ -1,0 +1,33 @@
+id: fernando-valenti-undated
+performers:
+- name: Fernando Valenti
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5ebba6a0-ae2b-4578-bd79-6b90a031d2c5
+  title: The English Suites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 511cc3e6-44f5-43bf-8de5-262ec98d5b17
+  recordings: [2be08bf4-c880-4eaf-8b83-89a081f8e21f]

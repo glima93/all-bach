@@ -1,0 +1,29 @@
+id: william-aide-undated
+performers:
+- name: William Aide
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [VI. Gavotte II ou la Musette - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/405de1df-0d84-462c-8ab3-02ccf7ea5adf
+  title: Suzuki Piano School, Volumes 1 & 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ddcb71a3-9835-4324-a220-92c62b9ababa
+  recordings: [10d24e22-f2ed-441e-9106-20203686de77]

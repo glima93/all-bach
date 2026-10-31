@@ -1,0 +1,30 @@
+id: sviatoslav-richter-1991
+performers:
+- name: Sviatoslav Richter
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1991]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ff13c9c6-3b64-40f8-9ee1-5411045f6b79
+  title: 'Un homme de concert, Volume 4: Suite inglesi nos. 1, 3'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 2014bfbb-c65d-45dc-9973-35bead3833fa
+  recordings: [2eecf319-8c19-4c94-9653-d7b1b15def62]

@@ -1,0 +1,26 @@
+id: trevor-pinnock-1991-2
+performers:
+- name: Trevor Pinnock
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1991]
+  place: Wolterton Hall
+released: 1991
+original_label: null
+works:
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/76120534-1b7f-47af-ae13-140e47ab8260
+  title: Chromatic Fantasia & Fugue / 3 Preludes & Fuges / English Suite No. 3 / French Suite No. 5
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 66d97594-15fd-49b9-8359-0c014dbe8719
+  recordings: [9beafdb6-e3d0-461f-b975-29a62448fba2]

@@ -1,0 +1,27 @@
+id: alexandra-sostmann-undated
+performers:
+- name: Alexandra Sostmann
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Friedrich-Ebert-Halle
+released: 2014
+original_label: null
+works:
+- {bwv: '807', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b1c46361-f3e8-40f3-aed4-d4215607f235
+  title: Bach & Contemporary Music
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b72e7d87-0e06-48b9-947a-e3b0dbfbd5eb
+  recordings: [8cd7b457-7b94-4f3e-987c-4f6c01be4a81]

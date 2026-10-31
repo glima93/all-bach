@@ -1,0 +1,30 @@
+id: richard-lester-undated-3
+performers:
+- name: Richard Lester
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: false, movements: [I. Prélude, IV. Sarabande, V. Gavotte I, VI. Gavotte II ou la Musette
+      - Gavotte I da capo, VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ba5226e2-9a58-4262-8bee-25d303241f95
+  title: Works for Harpsichord Vol. 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fcd267e-44e7-453d-bc47-3dc17531df05
+  recordings: [820cf752-90d9-48a6-9f91-e3787428f2c7]

@@ -1,0 +1,30 @@
+id: janine-johnson-undated-2
+performers:
+- name: Janine Johnson
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '807', complete: false, movements: [I. Prélude, II. Allemande, III. Courante, IV. Sarabande, VI. Bourrée
+      II - Bourrée I da capo, VII. Gigue]}
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0867e9b-a831-4dad-8779-95df96ff3b45
+  title: Works For Harpsichord
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d7410075-82b6-466e-8a0c-14ca6f8f670b
+  recordings: [ccc195ce-8efa-4da6-9e49-7095fd77d321]

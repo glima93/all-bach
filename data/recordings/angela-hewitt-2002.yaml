@@ -1,0 +1,31 @@
+id: angela-hewitt-2002
+performers:
+- name: Angela Hewitt
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2002, 2003]
+  place: Henry Wood Hall
+released: 2003
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c3c16050-2f69-4503-b524-d8ba4d1554d1
+  title: The English Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d79b2e2c-2e60-4b60-a077-be40e9b65981
+  recordings: [63437a68-b2d4-45e2-87d4-b2a8edac840f]

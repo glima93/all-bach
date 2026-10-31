@@ -1,0 +1,31 @@
+id: robert-levin-1999
+performers:
+- name: Robert Levin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1999]
+  place: Tonstudio van Geest
+released: 2000
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc2788d6-3636-4a23-a361-c7de5bff99de
+  title: Englische Suiten, BWV 806–811
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ae4f30e-4182-4d4b-b64d-4e0db9dab186
+  recordings: [c76ec115-0224-42b2-be17-7b636ec97612]

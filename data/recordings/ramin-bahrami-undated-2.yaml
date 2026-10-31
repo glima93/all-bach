@@ -1,0 +1,27 @@
+id: ramin-bahrami-undated-2
+performers:
+- name: Ramin Bahrami
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Teatro Comunale
+released: 1998
+original_label: null
+works:
+- {bwv: '810', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62dbb816-f984-4cb3-bd32-881ad08fa59a
+  recordings: [0251028b-0728-4d9b-9a21-ef814a1cd865]

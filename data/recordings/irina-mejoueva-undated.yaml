@@ -1,0 +1,28 @@
+id: irina-mejoueva-undated
+performers:
+- name: Irina Mejoueva
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '807', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/944fa773-6729-4d15-83ed-a87aeca180b0
+  title: J.S. Bach Recital
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 20d7e82a-c880-4aa9-9366-179fc514c6bf
+  recordings: [d5f8024c-7543-4e5d-97f4-3197fbce14fb]

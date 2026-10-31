@@ -1,0 +1,28 @@
+id: roger-steptoe-undated
+performers:
+- name: Roger Steptoe
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [V. Gavotte I, VI. Gavotte II ou la Musette - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/40ccb626-6c08-4a13-aec1-1f1bd410a933
+  title: Greatest Composer’s Greatest Hits
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d5f5fd5e-0b42-4c6d-bb22-cd9723edddee
+  recordings: [1df77db1-df13-4ea2-8014-4547a0cf73f5]

@@ -1,0 +1,20 @@
+bwv: "807"
+title: "English Suite No. 2"
+key: "A minor"
+collection: "English Suites"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Probably Weimar, c. 1710–1717; no autograph survives"
+movements:
+  - "I. Prélude"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Sarabande"
+  - "V. Bourrée I"
+  - "VI. Bourrée II - Bourrée I da capo"
+  - "VII. Gigue"
+notes: "From this suite on, each suite opens with a large prelude in the manner of an Italian concerto."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/English_Suites_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f780b125-cf72-46c1-af35-a0e57b36af42

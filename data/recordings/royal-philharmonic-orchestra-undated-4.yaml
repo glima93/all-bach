@@ -1,0 +1,32 @@
+id: royal-philharmonic-orchestra-undated-4
+performers:
+- name: Royal Philharmonic Orchestra
+  role: orchestra
+- name: Louis Clark
+  role: conductor
+instrument: unknown
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1982
+original_label: null
+works:
+- {bwv: '807', complete: false, movements: [V. Bourrée I, VI. Bourrée II - Bourrée I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2923cde5-307a-4f46-b2a7-71f755fcbd91
+  title: 'Hooked on Classics 2: Can''t Stop the Classics'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 299597ae-3a20-4bf1-973e-03704af69f6b
+  recordings: [a14b8433-630f-454c-b727-92bfe3ab18e7]

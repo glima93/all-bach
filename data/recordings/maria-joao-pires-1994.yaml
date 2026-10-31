@@ -1,0 +1,26 @@
+id: maria-joao-pires-1994
+performers:
+- name: Maria João Pires
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1994]
+  place: 'Hochschule für Musik und Theater München: Großer Konzertsaal'
+released: 1995
+original_label: null
+works:
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/088fd68d-eeb4-450f-8ef3-80250cff2fda
+  title: Partita no. 1 / English Suite no. 3 / French Suite no. 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 64cf3646-fde3-4f5e-8741-8b4d21917785
+  recordings: [0f70258c-085d-4620-8f69-39aa9defe163]

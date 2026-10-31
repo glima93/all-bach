@@ -1,0 +1,31 @@
+id: blandine-rannou-2003
+performers:
+- name: Blandine Rannou
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Église luthérienne de Bon Secours
+released: 2002
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/72b15d34-b68d-406f-b9cf-eae1d45d76a2
+  title: Suites Anglaises
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a39c4b23-8f7c-45ce-bc20-138a9c9c1f9a
+  recordings: [114c62ae-3b9c-488f-a35b-bcde53ef0918]

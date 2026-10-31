@@ -1,0 +1,30 @@
+id: benjamin-alard-2023-2
+performers:
+- name: Benjamin Alard
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2023]
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [I. Prélude, IV. Sarabande, V. Gavotte I, VI. Gavotte II ou la Musette
+      - Gavotte I da capo]}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/53aeadee-87de-4ee5-a4bc-c4d843fe4c7e
+  title: The Complete Works for Keyboard, Vol. 9 "Köthen, 1717-1723 - The Happy Years"
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [335d1d73-07ec-49ac-ada3-8c6b31657f5c]

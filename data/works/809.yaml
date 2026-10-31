@@ -1,0 +1,20 @@
+bwv: "809"
+title: "English Suite No. 4"
+key: "F major"
+collection: "English Suites"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Probably Weimar, c. 1710–1717; no autograph survives"
+movements:
+  - "I. Prélude"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Sarabande"
+  - "V. Menuet I"
+  - "VI. Menuet II - Menuet I da capo"
+  - "VII. Gigue"
+notes: "The pair of minuets takes the place of the bourrées or gavottes found in the other suites."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/English_Suites_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/eb3a7cf5-a796-4d88-acd3-beac6f43b657

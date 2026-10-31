@@ -1,0 +1,31 @@
+id: huguette-dreyfus-1972
+performers:
+- name: Huguette Dreyfus
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1972]
+  place: Christuskirche - Église protestante allemande à Paris
+released: 1989
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/add12c47-0e26-44ec-ab63-da6c8dff9941
+  title: Englische Suiten BWV 806-811
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a69af194-3fc4-44eb-92a0-402422470e42
+  recordings: [e04eb3e9-1d80-4cd6-8407-79994a5ffb89]

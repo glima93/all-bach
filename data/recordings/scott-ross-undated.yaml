@@ -1,0 +1,29 @@
+id: scott-ross-undated
+performers:
+- name: Scott Ross
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [I. Prélude, IV. Sarabande, V. Gavotte I, VI. Gavotte II ou la Musette
+      - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59cacf21-07d7-4375-bf6e-9e729314cc6b
+  title: Keyboard Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b01dff1-286c-4a41-a56a-8be74fe27e70
+  recordings: [76b01057-d101-4f66-8930-5b3b81172932]

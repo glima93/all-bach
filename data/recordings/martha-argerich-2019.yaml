@@ -1,0 +1,27 @@
+id: martha-argerich-2019
+performers:
+- name: Martha Argerich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2019]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [V. Gavotte I, VI. Gavotte II ou la Musette - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/9d6da0e0-c7f2-4bda-b2b1-3557368b1d42
+  title: null
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 3bb8b89e-5700-4d7a-aa0b-d48f8706831d
+  recordings: [9d6da0e0-c7f2-4bda-b2b1-3557368b1d42]

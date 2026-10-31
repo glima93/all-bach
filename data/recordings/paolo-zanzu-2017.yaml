@@ -1,0 +1,32 @@
+id: paolo-zanzu-2017
+performers:
+- name: Paolo Zanzu
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017, 2018]
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d223191-e6c7-4418-8a64-2cc3e40689dd
+  title: English Suites, BWV 806–811
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 526fd007-e531-485f-8557-cf19edb75eec
+  recordings: [a169bcd1-5698-47af-a3b8-73153b4f6db1]

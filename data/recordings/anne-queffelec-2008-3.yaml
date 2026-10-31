@@ -1,0 +1,28 @@
+id: anne-queffelec-2008-3
+performers:
+- name: Anne Queffélec
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '807', complete: false, movements: [IV. Sarabande]}
+- {bwv: '808', complete: false, movements: [IV. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/75fdbc04-2160-4dba-9bd7-93b3d54b448c
+  title: Contemplation
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b49797fb-7cc9-4eae-ad94-3872818ed281
+  recordings: [dc5ea9b0-e558-46f7-a6cc-929ede365014]

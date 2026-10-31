@@ -68,6 +68,10 @@ EXCLUDE_BY_SNAPSHOT = {
     "218946ea-bf30-42ee-856a-01570345215e": "the Sinfonia of Cantata BWV 29, also linked to the Sinfonia BWV 1045",
     "9ccf2167-f754-41d7-9c3d-2891b22e19c7": "credited to the NBC SO and Toscanini, but the credits name the Kölner Kammerorchester and Müller-Brühl (their recording is already in)",
   },
+  "english-suites": {
+    "003f5b50-8a64-499c-8939-7238cd181c74": "anime soundtrack cue (Levius) linked to the whole of English Suite No. 1; not a performance of the suite",
+    "d39c3301-a203-41aa-87c2-adfd3776a7ab": "Anna Magdalena Notebook album; the English Suites are not in the notebooks, so these are notebook pieces linked to the wrong works",
+  },
   "harpsichord-concertos": {
     "f8df5ad3-0db2-4dc7-be48-a55397f60b20": "credited to Antonio Vivaldi (composer of the model of BWV 1065) on a Vivaldi compilation; the performers are unknown",
   },
@@ -91,7 +95,8 @@ INSTRUMENTS = {
     "transverse flute (baroque)": "traverso", "recorder": "recorder", "alto recorder": "recorder",
     "treble recorder": "recorder", "oboe": "oboe", "baroque oboe": "oboe",
 }
-IMPLIED = {"1048": {1: [0, 2]}}
+IMPLIED = {"1048": {1: [0, 2]},
+           "811": {4: [3]}}  # the Double of English Suite No. 6 is usually on the Sarabande's track
 CELLO_FAMILY = ["cello", "baroque-cello", "violoncello-piccolo", "violoncello-da-spalla"]
 HISTORICAL = {"baroque-cello", "violoncello-piccolo", "violoncello-da-spalla", "viola-da-gamba", "baroque-violin",
               "harpsichord", "clavichord", "fortepiano"}
@@ -136,7 +141,7 @@ ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone)?\b|swingle|jazz|loussi
                             r"loeki|seldom sene|baby einstein|babies|sweet little band|pink mice|\bthe nice\b|"
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
-                            r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter", re.I)
+                            r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi", re.I)
 # In orchestral works only: names of groups that are not orchestras, so play the music arranged.
 ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
                                   r"trumpet ensemble|brass|\btrio\b", re.I)
@@ -151,13 +156,15 @@ PERIOD_RELEASE = re.compile(r"(antique|period|original) instruments", re.I)
 KEYBOARD_SOLO = re.compile(r"^(\d+ )?harpsichords?\b", re.I)
 # In a keyboard concerto, melody soloists that mean a reconstruction for the lost original instrument.
 RECONSTRUCTED_SOLO = re.compile(r"violin|oboe|flute|trumpet", re.I)
+# Credits MusicBrainz lists among instruments that name no instrument ("solo" from "solo piano" credits).
+NOT_INSTRUMENTS = {"solo"}
 # Performer names that are groups even when MusicBrainz gives no artist type.
 SCORINGS: dict[str, str] = {}  # scoring of each work, set in main()
 GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|soloists|sinfonia", re.I)
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
                                r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki|dangerous liaisons|פסקול|motion picture|movies go baroque|bach minimaliste|"
-                               r"concertos? for recorder", re.I)
+                               r"concertos? for recorder|サウンドトラック", re.I)
 
 
 class Flow(list):
@@ -202,6 +209,19 @@ def movement_names() -> dict[str, list[str]]:
     return {w["bwv"]: w["movements"] for _, w in load("works")}
 
 
+PAIRED = re.compile(r"^(?:[IVXL]+\.\s*)?(\w+?)t? II(?: - .*da capo| ou .*)?$")
+
+
+def second_dance(first: str, second: str) -> bool:
+    """Whether `second` is the second of a pair of dances whose first is `first`: "Menuet II" after "Menuet I",
+    "VII. Bourrée II - Bourrée I da capo" after "VI. Bourrée I", "Passepied II …" after "Passepied I en Rondeau".
+    A second dance that stands on its own ("Courante II avec deux Doubles") does not match."""
+    if second.endswith(" II") and first == second[:-1]:
+        return True
+    m = PAIRED.match(second)
+    return bool(m) and re.match(rf"^(?:[IVXL]+\.\s*)?{re.escape(m.group(1))}t? I\b", first) is not None
+
+
 def expand(c: dict, bwvs: list[str], moves: dict[str, list[str]]) -> dict:
     """Snapshot rows are compact; turn one into the shape the importer works with.
 
@@ -222,7 +242,7 @@ def expand(c: dict, bwvs: list[str], moves: dict[str, list[str]]) -> dict:
         have = {i for i in range(len(names)) if mask >> i & 1}
         # Paired dances (Menuet I / Menuet II) are often one track in MusicBrainz,
         # linked only to the first: count the second as recorded too.
-        have |= {i for i in range(1, len(names)) if names[i].endswith(" II") and names[i - 1] == names[i][:-1] and i - 1 in have}
+        have |= {i for i in range(1, len(names)) if i - 1 in have and second_dance(names[i - 1], names[i])}
         # Movements that rarely get a track of their own: the two-chord Adagio of Brandenburg
         # No. 3 is usually joined to a neighbouring track. Count it when both outer movements are there.
         for i, needs in IMPLIED.get(bwv, {}).items():
@@ -240,6 +260,22 @@ def expand(c: dict, bwvs: list[str], moves: dict[str, list[str]]) -> dict:
     }
 
 
+def keyboard_soloist(c: dict, native: set[str]) -> dict:
+    """Keyboard works: an orchestra and conductor credited with a pianist or harpsichordist (an encore at a
+    concerto concert) file the recording under the keyboard player alone."""
+    types = c.get("t") or []
+    roles = c.get("roles") or {}
+    if not any(t in GROUP_TYPES for t in types):
+        return c
+    keep = [i for i, n in enumerate(c["n"]) if INSTRUMENTS.get((roles.get(n) or "").lower()) in native
+            and i < len(types) and types[i] == "Person"]
+    if len(keep) != 1:
+        return c
+    i = keep[0]
+    return {**c, "n": [c["n"][i]], "a": [c["a"][i]], "t": [types[i]], "roles": {c["n"][i]: roles[c["n"][i]]},
+            "ins": [x for x in c.get("ins") or [] if x.lower() not in NOT_INSTRUMENTS] or c.get("ins")}
+
+
 def instrument_of(perf: dict, native: set[str]) -> tuple[str, list[str], dict]:
     """Main instrument, other instruments credited, and per-performer roles.
 
@@ -247,9 +283,10 @@ def instrument_of(perf: dict, native: set[str]) -> tuple[str, list[str], dict]:
     failing that, the first credited instrument of any kind.
     """
     roles = {k: v.lower() for k, v in perf["roles"].items()}
-    if not perf["ins"]:
+    credits = [i for i in perf["ins"] if i.lower() not in NOT_INSTRUMENTS]
+    if not credits:
         return "unknown", [], roles
-    mapped = [(i, INSTRUMENTS.get(i.lower(), "other")) for i in perf["ins"]]
+    mapped = [(i, INSTRUMENTS.get(i.lower(), "other")) for i in credits]
     main = next((m for _, m in mapped if m in native), None)
     if main is None and len({m for _, m in mapped}) >= 3:
         return "ensemble", [], roles  # a string trio or similar group arrangement
@@ -464,6 +501,17 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
     elif mode == "open":
         rec["arrangement"] = instrument == "other" and bool(arranged_credits(perf)) \
             or bool(ARRANGED_NAMES.search(" ".join(perf["names"])))
+    elif mode == "keyboard":
+        # A solo keyboard work played by an orchestra or group with no keyboard credited, by a crossover name, or
+        # on a soundtrack, relaxation or lesson album is an arrangement (Hooked on Classics, coffee-time albums).
+        release = " ".join(r["title"] for r in perf["releases"])
+        group_only = any(t in GROUP_TYPES for t in types) and instrument not in native
+        if group_only or ARRANGED_NAMES.search(" ".join(perf["names"])) or ARRANGED_RELEASES.search(release):
+            rec["arrangement"] = True
+        melody = [i for i in others if INSTRUMENTS.get(i.lower()) not in (None, *KEYBOARD)]
+        if melody:  # a cello or violin with the keyboard: a transcription led by the melody instrument
+            rec["instrument"], rec["performance_practice"] = INSTRUMENTS[melody[0].lower()], "unknown"
+            others = [i for i in others if i != melody[0]] + [i for i in perf["ins"] if INSTRUMENTS.get(i.lower()) == instrument]
     elif mode == "lute" and instrument == "guitar":
         rec["performance_practice"] = "modern"  # decided 28 Oct 2026: guitar is native for the lute works
     elif mode == "lute" and instrument == "lute":
@@ -534,6 +582,8 @@ def main(snapshot: str) -> int:
     missing = [b for b in bwvs if b not in moves]
     if missing:
         raise SystemExit(f"Add work files for BWV {', '.join(missing)} before importing")
+    if mode == "keyboard":
+        rows = [keyboard_soloist(c, native) for c in rows]
     perfs = [expand(c, bwvs, moves) for c in rows if c["a"] and c["rep"] not in EXCLUDE and UNKNOWN_ARTIST not in c["a"]
              and NO_ARTIST not in c["a"]]
     existing = {p: r for p, r in load("recordings")}

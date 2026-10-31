@@ -1,0 +1,29 @@
+id: valery-lloyd-watts-undated
+performers:
+- name: Valery Lloyd‐Watts
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [VI. Gavotte II ou la Musette - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/12435b55-208c-4834-97b3-56c8f07fa2d0
+  title: Suzuki Piano School, Volumes 1 & 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc34b440-0f1a-4b31-b4fe-29c97e599e6f
+  recordings: [128d9c46-e347-486d-9c16-a16babccfc6c]

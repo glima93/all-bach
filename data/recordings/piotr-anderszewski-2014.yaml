@@ -1,0 +1,28 @@
+id: piotr-anderszewski-2014
+performers:
+- name: Piotr Anderszewski
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: Warsaw Philharmonic Concert Hall
+released: 2014
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '810', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f1dcbfc6-20fb-4bfd-af12-fc1745b2a810
+  title: English Suites 1, 3 & 5
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 12735d4f-8295-42ed-8ca4-f0438e48fccd
+  recordings: [d33b2daa-0c2b-4122-bc85-0f148f2eab78]

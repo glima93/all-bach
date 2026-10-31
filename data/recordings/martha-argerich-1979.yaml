@@ -1,0 +1,26 @@
+id: martha-argerich-1979
+performers:
+- name: Martha Argerich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1979]
+  place: Studio Lankwitz
+released: 1980
+original_label: null
+works:
+- {bwv: '807', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f25a4bc-3777-42de-8988-36881a9cb693
+  title: Toccata und Fuge - Die schönsten Melodien von Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 3bb8b89e-5700-4d7a-aa0b-d48f8706831d
+  recordings: [703582d3-a6e4-43f3-857f-351c262c5bc0]

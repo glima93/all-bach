@@ -1,0 +1,29 @@
+id: remi-geniet-undated
+performers:
+- name: Rémi Geniet
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '806', complete: false, movements: [I. Prélude, II. Allemande, III. Courante I, IV. Courante II avec deux
+      Doubles, V. Sarabande, VIII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d01547d-7c2a-4e04-8f01-73671f6e0032
+  title: Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 26d3741c-b6b2-4b46-9b82-172df01a9f14
+  recordings: [f73d3452-9e98-4497-b007-56b98385d5bc]

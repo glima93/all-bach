@@ -1,0 +1,21 @@
+bwv: "806"
+title: "English Suite No. 1"
+key: "A major"
+collection: "English Suites"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Probably Weimar, c. 1710–1717; no autograph survives"
+movements:
+  - "I. Prélude"
+  - "II. Allemande"
+  - "III. Courante I"
+  - "IV. Courante II avec deux Doubles"
+  - "V. Sarabande"
+  - "VI. Bourrée I"
+  - "VII. Bourrée II - Bourrée I da capo"
+  - "VIII. Gigue"
+notes: "The Prelude is modelled on the gigue of Charles Dieupart's Suite in A major; an earlier version of the suite survives as BWV 806a. The name \"English\" goes back to Forkel (1802), who wrote that Bach composed the suites for \"an Englishman of rank\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/English_Suites_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/efe4d687-7173-4553-bf72-ff2e88d69602

@@ -1,0 +1,26 @@
+id: francois-dumont-2014
+performers:
+- name: François Dumont
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: Reitstadel
+released: 2015
+original_label: null
+works:
+- {bwv: '807', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b36626a-4a84-44b2-808f-0cb327c5f3c5
+  title: Keyboard Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: db61e487-7ace-4297-865b-eb4280c9a4a7
+  recordings: [57a18f38-7c32-4700-bbbe-85dba3462111]

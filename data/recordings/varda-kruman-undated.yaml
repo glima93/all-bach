@@ -1,0 +1,28 @@
+id: varda-kruman-undated
+performers:
+- name: Varda Kruman
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '807', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/27717335-1733-4ca1-b2cb-dfc39b393f45
+  title: Varda Kochwa Kruman - Piano
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 31227965-0979-41bf-8229-ef7757d4f74d
+  recordings: [ff75043d-aa08-457f-b54f-079a25a75d3a]

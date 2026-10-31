@@ -1,0 +1,32 @@
+id: helmut-walcha-1959
+performers:
+- name: Helmut Walcha
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1959]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/61c9cfb0-753b-43ec-ba33-6d8345f00110
+  title: The English Suites
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f4c1fd6-75c8-4c40-8fcf-0b5496c01bf2
+  recordings: [51e563ca-5ef3-4973-bbf7-71b5c549e22c]

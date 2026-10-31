@@ -1,0 +1,28 @@
+id: nicholas-angelich-undated
+performers:
+- name: Nicholas Angelich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '807', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2cc8bb7-5458-46b2-8538-509d05febf54
+  title: Hommage
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 26ef24c5-84aa-46eb-a9af-a6c8c0742493
+  recordings: [138842dd-5067-4356-a051-7f9f5e33fbc7]

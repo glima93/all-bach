@@ -1,0 +1,26 @@
+id: fabrizio-chiovetta-2015
+performers:
+- name: Fabrizio Chiovetta
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2015]
+  place: 'Kulturzentrum Grand Hotel: Gustav-Mahler-Saal'
+released: 2016
+original_label: null
+works:
+- {bwv: '809', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c21d023-9287-4858-ba7f-537546e101be
+  title: Keyboard Suites, BWV 809, 825, 831
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ae41d0cc-646b-43f4-9e0a-6394810d57f0
+  recordings: [946f8f9b-b49d-452a-9fd8-5c86aed502ac]

@@ -1,0 +1,27 @@
+id: ivo-pogorelich-1985
+performers:
+- name: Ivo Pogorelich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: Salle de Musique
+released: 1986
+original_label: null
+works:
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/23f48acf-5618-4d1d-af79-f66dba7ed069
+  title: English Suites nos. 2 & 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a6066607-f5dd-480c-81a2-b6241ab8f24a
+  recordings: [548a21dc-f49a-4a2e-b81d-7ba73c6d2cac]

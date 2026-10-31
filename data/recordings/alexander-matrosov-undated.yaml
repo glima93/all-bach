@@ -1,0 +1,29 @@
+id: alexander-matrosov-undated
+performers:
+- name: Alexander Matrosov
+  role: accordion
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '810', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1b16a6c-b466-4518-bf46-2f8b2e571f66
+  title: Akkordeon
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on accordion.
+musicbrainz:
+  artist: 8c646218-45c8-4475-84e5-9c8fb0e717ab
+  recordings: [cf2513b3-76c5-4104-8cc0-271074611847]

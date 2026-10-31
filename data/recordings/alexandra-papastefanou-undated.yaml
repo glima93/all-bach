@@ -1,0 +1,32 @@
+id: alexandra-papastefanou-undated
+performers:
+- name: Alexandra Papastefanou
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Alternative Stage of the Greek National Opera
+released: 2025
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3d43b84b-bf48-40a3-88bc-4b9edf4ece51
+  title: The English Suites
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d0d7447e-ef6f-4637-979a-97cc5bcaa94c
+  recordings: [c4239bb3-15f8-48f8-ba58-f81e15ec5570]

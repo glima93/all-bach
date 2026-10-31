@@ -1,0 +1,26 @@
+id: ignacio-prego-2021
+performers:
+- name: Ignacio Prego
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Albares Hall
+released: 2022
+original_label: null
+works:
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1ac1cc25-e7ac-4147-8311-54f05cb9ba3a
+  title: Partitas nos. 3 & 5 / English Suite no. 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8ed56417-8a04-4947-8f90-0601a166d52a
+  recordings: [94d34dd2-df7c-4e0d-b761-47f978a6bd11]

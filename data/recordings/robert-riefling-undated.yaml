@@ -1,0 +1,29 @@
+id: robert-riefling-undated
+performers:
+- name: Robert Riefling
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [I. Prélude, IV. Sarabande, V. Gavotte I, VI. Gavotte II ou la Musette
+      - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/02280d16-bc28-487a-b303-070bb79f8cea
+  title: Robert Riefling interprets Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2f9bd188-267c-4375-aa63-0394ea842a37
+  recordings: [532a1e48-559a-424c-b88f-405c480d9524]

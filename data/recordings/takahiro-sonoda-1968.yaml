@@ -1,0 +1,32 @@
+id: takahiro-sonoda-1968
+performers:
+- name: Takahiro Sonoda
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1968]
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c98116d9-48da-48dc-a6c2-8ae792f2aaa4
+  title: Keyboard Works
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3895c0f9-0bd7-44b1-a536-fee0b0f2e89d
+  recordings: [fbfac57a-9995-44da-9da7-846998ff6df4]
