@@ -52,6 +52,14 @@ def chapter_of() -> dict[int, str]:
     return out
 
 
+def to_come() -> list[dict]:
+    """Planned collections not on the shelf yet, for the dust outlines and the cabinet."""
+    plan = yaml.safe_load((ROOT / "data/plan/collections.yaml").read_text(encoding="utf-8"))["collections"]
+    return [{"title": c["title"], "chapter": c["chapter"], "bwv": c["bwv"],
+             "run": c["run"][0] if isinstance(c["run"], list) else c["run"]}
+            for c in plan if c["status"] not in ("done", "imported")]
+
+
 def first_year(r: dict):
     ys = (r.get("recorded") or {}).get("years") or []
     return min(ys) if ys else r.get("released")
@@ -108,6 +116,8 @@ def main() -> int:
         "works": works,
         "cols": cols,
         "chapters": [ch for ch in CHAPTERS if any(c["chapter"] == ch for c in cols)],
+        "all_chapters": CHAPTERS,
+        "to_come": to_come(),
         "stats": stats,
         "total": len(recordings),
         "repo_url": REPO_URL,
