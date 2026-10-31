@@ -318,6 +318,19 @@ nav.top a[aria-current="page"] { color: var(--ink); text-decoration: underline; 
 .caption .t strong { display: block; font-family: var(--f-display); font-weight: 400; font-size: 1.45rem; line-height: 1.2; }
 .caption .t span { display: block; color: var(--muted); font-size: 0.95rem; }
 .caption .pos { display: block; margin-top: 4px; font-size: var(--s-1); color: var(--muted); }
+.recstage { margin-top: 6px; }
+.recstage .caption { grid-template-columns: auto auto auto; justify-content: center; }
+.recstage .pos { margin: 0; min-width: 7em; }
+.sleeve .num { font-size: 26cqw; white-space: nowrap; }
+.sleeve .num.long { font-size: 18cqw; }
+.sleeve .num.unknown { font-family: var(--f-body); font-size: 14cqw; opacity: 0.7; }
+.sleeve .nm { font-size: 7.5cqw; -webkit-line-clamp: 3; }
+.sleeve.period::before { inset: 3cqw; border-width: 1px; outline: 1px solid var(--gilt-soft); outline-offset: 2cqw; }
+.sleeve.arr { background-image:
+    repeating-linear-gradient(135deg, rgba(255,255,255,0.06) 0 2cqw, transparent 2cqw 6cqw),
+    linear-gradient(135deg, rgba(255,255,255,0.14), rgba(0,0,0,0.25)); background-size: 100% 100%, 100% 100%; background-position: 0 0, 0 0; }
+.rdetail { margin-top: 18px; }
+.viewtoggle { display: flex; gap: 4px; }
 .nudge { width: 44px; height: 44px; border-radius: 50%; border: 1px solid var(--rule); background: var(--sheet); color: var(--ink); cursor: pointer;
   display: grid; place-items: center; font-size: 1.1rem; line-height: 1; }
 .nudge:hover { border-color: var(--muted); }
@@ -433,7 +446,7 @@ const PLATFORM = { "spotify": "Spotify", "apple-music": "Apple Music", "youtube"
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 const slug = bwv => bwv.toLowerCase().replace(/anh\.\s?/, "anh-").replace(/\s+/g, "-");
 const app = document.getElementById("app");
-const state = { kind: "all", sort: "year", q: "", gq: "", glimit: 50, flow: {}, lamp: true, cabinet: false };
+const state = { kind: "all", sort: "year", q: "", gq: "", glimit: 50, flow: {}, recAt: {}, recView: "flow", bwv: "", lamp: true, cabinet: false };
 
 // Recordings live in site/data/<volume>.json, fetched when a work page first needs them; search uses
 // site/data/search.json, fetched on the first query. The page itself only carries works and counts.
@@ -642,32 +655,34 @@ function renderCollection(g) {
 }
 
 /* ---------- the flow of covers ---------- */
-function mountFlow(g) {
-  const stage = document.getElementById("stage");
+// One flow of cards inside `stage` (.floor holding .card[data-i], buttons [data-go]): the card in front faces the
+// reader, the rest turn away to either side. onPaint(i) runs whenever the front card changes; onOpen(i) when
+// the front card is clicked or Enter is pressed.
+function mountFlow(stage, { start = 0, onPaint, onOpen }) {
   if (!stage) return;
-  const cards = [...stage.querySelectorAll(".card")], N = g.works.length;
-  let cur = Math.min(state.flow[g.slug] || 0, N - 1);
+  const floor = stage.querySelector(".floor");
+  const cards = [...floor.querySelectorAll(".card")], N = cards.length;
+  if (!N) return;
+  let cur = Math.max(0, Math.min(start, N - 1));
 
   function paint() {
-    state.flow[g.slug] = cur;
     cards.forEach((c, i) => {
       const d = i - cur, ad = Math.abs(d);
+      if (ad > 8) { if (c.style.visibility !== "hidden") c.style.visibility = "hidden"; return; }
       c.style.setProperty("--side", Math.sign(d));
       c.style.setProperty("--ad", ad);
       c.style.setProperty("--op", ad > 6 ? 0 : 1);
       c.style.visibility = ad > 7 ? "hidden" : "visible";
       c.setAttribute("aria-selected", d === 0);
     });
-    const w = g.works[cur], [n, since] = DATA.stats[w.bwv] || [0, null];
-    document.getElementById("cap-t").textContent = w.title;
-    document.getElementById("cap-s").textContent = [w.key, `${num(n)} recording${n === 1 ? "" : "s"}${since ? ` since ${since}` : ""}`].filter(Boolean).join(" · ");
-    document.getElementById("pos").textContent = `${cur + 1} of ${N}`;
+    // cards far away were skipped; park them on their side so they slide in from the right place
+    cards.forEach((c, i) => { if (Math.abs(i - cur) > 8) { c.style.setProperty("--side", Math.sign(i - cur)); c.style.setProperty("--ad", 9); c.setAttribute("aria-selected", false); } });
     stage.querySelector('[data-go="-1"]').disabled = cur === 0;
     stage.querySelector('[data-go="1"]').disabled = cur === N - 1;
     stage.setAttribute("aria-activedescendant", cards[cur].id);
+    onPaint(cur);
   }
   const go = to => { const n = Math.max(0, Math.min(N - 1, to)); if (n !== cur) { cur = n; paint(); } };
-  const open = () => { location.hash = `bwv-${slug(g.works[cur].bwv)}`; };
 
   stage.addEventListener("click", e => {
     const b = e.target.closest("[data-go]");
@@ -677,11 +692,10 @@ function mountFlow(g) {
     e.preventDefault();
     if (drag && drag.moved) return;
     const i = +c.dataset.i;
-    if (i === cur) open(); else go(i);
+    if (i === cur) onOpen(cur); else go(i);
   });
   // drag or swipe sideways to leaf through
   let drag = null;
-  const floor = document.getElementById("floor");
   floor.addEventListener("pointerdown", e => { drag = { x: e.clientX, acc: 0, moved: false }; });
   floor.addEventListener("pointermove", e => {
     if (!drag || !e.buttons && e.pointerType === "mouse") return;
@@ -694,7 +708,7 @@ function mountFlow(g) {
   floor.addEventListener("pointerup", end);
   floor.addEventListener("pointercancel", end);
   floor.addEventListener("dragstart", e => e.preventDefault());
-  // a trackpad's sideways scroll, or the mouse wheel, moves along the flow
+  // a trackpad's sideways scroll, or shift and the mouse wheel, moves along the flow
   let acc = 0;
   floor.addEventListener("wheel", e => {
     const d = Math.abs(e.deltaX) > Math.abs(e.deltaY) ? e.deltaX : (e.shiftKey ? e.deltaY : 0);
@@ -711,13 +725,58 @@ function mountFlow(g) {
     else if (k === "ArrowLeft") go(cur - 1);
     else if (k === "Home") go(0);
     else if (k === "End") go(N - 1);
-    else if (k === "PageDown") go(cur + 5);
-    else if (k === "PageUp") go(cur - 5);
-    else if (k === "Enter") open();
+    else if (k === "PageDown") go(cur + 10);
+    else if (k === "PageUp") go(cur - 10);
+    else if (k === "Enter") onOpen(cur);
     else return;
     e.preventDefault();
   });
   paint();
+}
+
+function mountWorksFlow(g) {
+  mountFlow(document.getElementById("stage"), {
+    start: state.flow[g.slug] || 0,
+    onPaint(i) {
+      state.flow[g.slug] = i;
+      const w = g.works[i], [n, since] = DATA.stats[w.bwv] || [0, null];
+      document.getElementById("cap-t").textContent = w.title;
+      document.getElementById("cap-s").textContent = [w.key, `${num(n)} recording${n === 1 ? "" : "s"}${since ? ` since ${since}` : ""}`].filter(Boolean).join(" · ");
+      document.getElementById("pos").textContent = `${i + 1} of ${g.works.length}`;
+    },
+    onOpen(i) { location.hash = `bwv-${slug(g.works[i].bwv)}`; },
+  });
+}
+
+// The recordings of a work, as sleeves: the year large, the performer below, the instrument above.
+const SLEEVE = ["#2b4767", "#2e5143", "#6d2b2b", "#77612f", "#4b3651", "#3a4a58", "#5d3b22", "#2f4f55", "#5a2f45", "#34503a"];
+function hashOf(s) { let h = 0; for (const c of String(s)) h = (h * 31 + c.charCodeAt(0)) | 0; return Math.abs(h); }
+function renderSleeve(r, i) {
+  const yl = yearLabel(r);
+  const who = r.performers[0] ? r.performers[0].name : "";
+  const h = hashOf(who);
+  const cls = ["art", "sleeve", r.performance_practice === "historical" ? "period" : "", r.arrangement ? "arr" : ""].filter(Boolean).join(" ");
+  const label = [yl || "year unknown", r.performers.map(p => p.name).join(", "), INSTRUMENT[r.instrument] || ""].filter(Boolean).join(", ");
+  return `<a class="card" id="rc-${esc(r.id)}" role="option" tabindex="-1" href="#bwv-${slug(state.bwv)}" data-i="${i}" aria-label="${esc(label)}">
+    <span class="${cls}" style="--cloth:${SLEEVE[h % SLEEVE.length]};--staff:${15 + (h >> 3) % 65}%;--orn-r:${["50%", "2px", "50% 0"][h % 3]};--orn-rot:${(h % 4) * 45}deg">
+      <span class="k">${esc(r.instrument === "unknown" ? (r.arrangement ? "Arrangement" : "Recording") : (INSTRUMENT[r.instrument] || r.instrument))}${r.arrangement && r.instrument !== "unknown" ? " · arr." : ""}</span>
+      <span class="num${yl ? (yl.replace(/^rel\. /, "").length > 4 ? " long" : "") : " unknown"}"><small>${r.recorded && r.recorded.years && r.recorded.years.length ? "Recorded" : yl ? "Released" : ""}</small>${esc(yl ? yl.replace(/^rel\. /, "") : "Year?")}</span>
+      <span class="nm">${esc(r.performers.map(p => p.name).join(", "))}</span><span class="orn"></span>
+    </span></a>`;
+}
+function mountRecordingsFlow(w, recs) {
+  const stage = document.getElementById("rstage");
+  if (!stage || !recs.length) return;
+  const at = recs.findIndex(r => r.id === state.recAt[w.bwv]);
+  mountFlow(stage, {
+    start: at < 0 ? 0 : at,
+    onPaint(i) {
+      state.recAt[w.bwv] = recs[i].id;
+      document.getElementById("rpos").textContent = `${i + 1} of ${recs.length}`;
+      document.getElementById("rdetail").innerHTML = renderRec(recs[i], w);
+    },
+    onOpen() { document.getElementById("rdetail").scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "nearest" }); },
+  });
 }
 
 /* ---------- search ---------- */
@@ -875,8 +934,10 @@ function updateSearch() {
     ${hits.length > shown.length ? `<button class="chip more" type="button" id="gq-more">Show all ${hits.length}</button>` : ""}`;
 }
 
+let LAST_RECS = null;
 function renderWork(w) {
   const g = collectionOf(w);
+  state.bwv = w.bwv;
   const all = recordingsFor(w.bwv);
   const partOf = r => r.works.find(x => x.bwv === w.bwv);
   const kinds = {
@@ -896,6 +957,7 @@ function renderWork(w) {
     if (ya === null) return 1; if (yb === null) return -1;
     return ya - yb;
   });
+  LAST_RECS = { w, recs };
   const chip = (val, text) => count(val) ? `<button class="chip" type="button" data-kind="${val}" aria-pressed="${state.kind === val}">${text} <span class="n">${count(val)}</span></button>` : "";
   const links = [];
   if (w.links && w.links.wikipedia) links.push(`<a href="${esc(w.links.wikipedia)}" rel="noopener">Wikipedia</a>`);
@@ -921,6 +983,10 @@ function renderWork(w) {
       <label class="search" for="q"><span class="label">Performer</span>
         <input id="q" type="search" placeholder="Search by name" value="${esc(state.q)}" autocomplete="off">
       </label>
+      <div class="viewtoggle" role="group" aria-label="Show recordings as">
+        <button type="button" class="chip" data-view="flow" aria-pressed="${state.recView === "flow"}">Covers</button>
+        <button type="button" class="chip" data-view="list" aria-pressed="${state.recView === "list"}">List</button>
+      </div>
       <label class="sortbox" for="sort">Sort
         <select id="sort">
           <option value="year"${state.sort === "year" ? " selected" : ""}>By year</option>
@@ -932,7 +998,17 @@ function renderWork(w) {
   <div class="filters" role="group" aria-label="Filter recordings">
     ${chip("all", "All")}${chip("complete", "Complete work")}${chip("excerpt", "Excerpts")}${chip("period", "Period instruments")}${chip("arrangement", "Other instruments")}
   </div>
-  ${recs.length ? `<ul class="recs">${recs.map(r => renderRec(r, w)).join("")}</ul>` : `<p class="empty">No recordings match. Try another filter or name.</p>`}`;
+  ${!recs.length ? `<p class="empty">No recordings match. Try another filter or name.</p>` : state.recView === "list"
+    ? `<ul class="recs">${recs.map(r => renderRec(r, w)).join("")}</ul>`
+    : `<section class="stage recstage" id="rstage" tabindex="0" role="listbox" aria-label="Recordings: use the arrow keys to leaf through">
+        <div class="floor">${recs.map(renderSleeve).join("")}</div>
+        <div class="caption">
+          <button class="nudge" type="button" data-go="-1" aria-label="Previous recording">←</button>
+          <span class="pos mono" id="rpos"></span>
+          <button class="nudge" type="button" data-go="1" aria-label="Next recording">→</button>
+        </div>
+      </section>
+      <ul class="recs rdetail" id="rdetail" aria-live="polite"></ul>`}`;
 }
 
 function renderRec(r, w) {
@@ -1018,7 +1094,8 @@ function route() {
     } else html = renderWork(w);
   } else html = renderCatalogue();
   app.innerHTML = `<div class="view">${html}</div>`;
-  if (h.startsWith("col-")) mountFlow(collections().find(g => g.slug === h.slice(4)));
+  if (h.startsWith("col-")) mountWorksFlow(collections().find(g => g.slug === h.slice(4)));
+  if (h.startsWith("bwv-") && LAST_RECS) mountRecordingsFlow(LAST_RECS.w, LAST_RECS.recs);
   updateSearch();
   for (const [id, key] of [["nav-cat", "cat"], ["nav-con", "con"]]) {
     const el = document.getElementById(id);
@@ -1049,6 +1126,8 @@ app.addEventListener("click", e => {
     document.getElementById("cab-inside").inert = !state.cabinet;
     return;
   }
+  const v = e.target.closest("[data-view]");
+  if (v) { state.recView = v.dataset.view; route(); document.querySelector(`[data-view="${state.recView}"]`)?.focus(); return; }
   const b = e.target.closest("[data-kind]");
   if (!b) return;
   state.kind = b.dataset.kind;
