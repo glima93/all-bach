@@ -1,0 +1,28 @@
+id: diana-tkachenko-undated
+performers:
+- name: Diana Tkachenko
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b2f60f92-245f-4be7-96b4-d8119c5af5a2
+  title: Piano Performances
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b6952b2-280c-472c-8566-8027c9e4141e
+  recordings: [48bcfc83-f345-44b3-8971-e599a356c554]

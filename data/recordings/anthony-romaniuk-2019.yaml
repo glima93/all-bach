@@ -1,0 +1,27 @@
+id: anthony-romaniuk-2019
+performers:
+- name: Anthony Romaniuk
+  role: rhodes piano
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2019]
+  place: Academy One Studios
+released: 2020
+original_label: null
+works:
+- {bwv: '807', complete: false, movements: [I. Prélude, VI. Bourrée II - Bourrée I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/95434963-b4c3-4b27-a388-7a3e976fb69d
+  title: Bells
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on Rhodes piano.
+musicbrainz:
+  artist: ba13db87-9fcf-4fc0-8833-3d1aa8254d7a
+  recordings: [472e33b2-7a8d-40a8-97ea-5551dd1ac569]

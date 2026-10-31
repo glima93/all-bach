@@ -1,0 +1,29 @@
+id: alessio-bax-undated
+performers:
+- name: Alessio Bax
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '807', complete: false, movements: [I. Prélude, II. Allemande, III. Courante, IV. Sarabande, VI. Bourrée
+      II - Bourrée I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dcf7e1ee-4be4-43ba-ae83-75daaee82e82
+  title: Forgotten Dances
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5e2f6561-b801-49ac-88de-a530f9b7d769
+  recordings: [a62dffdb-6b36-43c1-8073-568cdab13396]

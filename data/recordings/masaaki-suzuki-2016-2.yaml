@@ -1,0 +1,31 @@
+id: masaaki-suzuki-2016-2
+performers:
+- name: Masaaki Suzuki
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: 神戸松蔭女子学院大学チャペル
+released: 2019
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de543e45-7b29-411d-b6ab-3eab12352f11
+  title: English Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d41e5072-3a8e-4f1f-97ab-3b0820de74c1
+  recordings: [89cddf27-80fa-4ffd-a910-f247a332c468]

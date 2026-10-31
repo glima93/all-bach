@@ -1,0 +1,27 @@
+id: stanislav-bunin-1990
+performers:
+- name: Stanislav Bunin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1990]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/52635a91-301b-4f9d-9e7d-bac1b33ea23d
+  title: French Suites nos. 1-6 / English Suite no. 3 / Italian Concerto
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6a20a19f-4b89-4958-ae3b-3448ed9a0a67
+  recordings: [56e91d85-5fd6-4be3-ae6c-29f9bf03ff83]

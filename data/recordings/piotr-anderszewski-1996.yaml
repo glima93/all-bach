@@ -1,0 +1,27 @@
+id: piotr-anderszewski-1996
+performers:
+- name: Piotr Anderszewski
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1996]
+  place: Warsaw Philharmonic Concert Hall
+released: 1996
+original_label: null
+works:
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/87e86ea3-a0ce-3f9b-bb12-c4f3fa1a7dca
+  title: 'Bach: English Suite No. 6 in D minor, BWV 811 / Beethoven: Piano Sonata No. 31 in A-flat major, Op 110
+    / Webern: Variations, Op. 27'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 12735d4f-8295-42ed-8ca4-f0438e48fccd
+  recordings: [fb094952-962c-41c9-b016-2e4bb3a54616]

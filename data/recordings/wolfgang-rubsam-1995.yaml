@@ -1,0 +1,28 @@
+id: wolfgang-rubsam-1995
+performers:
+- name: Wolfgang Rübsam
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1995]
+  place: Orum Hall
+released: 1995
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: false, movements: [I. Prélude, II. Allemande, III. Courante, IV. Sarabande, VII. Gigue]}
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf848c1c-266f-4799-890f-4e92dad27552
+  title: English Suites Nos. 1 - 3 BWV 806 - 808
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [10b870ec-4883-4d46-86e7-31a8b58e8f16]

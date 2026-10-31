@@ -1,0 +1,27 @@
+id: anne-marie-mcdermott-1999
+performers:
+- name: Anne-Marie McDermott
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1999]
+  place: Saint George’s, Bristol
+released: 1999
+original_label: null
+works:
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e3b4e8e5-7ce6-4014-84fd-248bb185ee75
+  title: Partitas 1-2, English Suites 2-3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a361bef-be3f-40b7-8036-557d6ea0f3a7
+  recordings: [cbef96fa-371a-41f2-882c-bcbb42e3426d]

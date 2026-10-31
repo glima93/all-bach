@@ -1,0 +1,27 @@
+id: dmitri-kurs-2013
+performers:
+- name: Dmitri Kurs
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2013]
+  place: Lauluväljak
+released: null
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [I. Prélude, II. Allemande, IV. Sarabande, V. Gavotte I, VI. Gavotte
+      II ou la Musette - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/4432a842-3671-4d20-9b9c-3479a18a15fd
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 5ca2a87d-1f88-4313-bfaf-8022132a0367
+  recordings: [4432a842-3671-4d20-9b9c-3479a18a15fd]

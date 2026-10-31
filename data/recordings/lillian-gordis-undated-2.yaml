@@ -1,0 +1,29 @@
+id: lillian-gordis-undated-2
+performers:
+- name: Lillian Gordis
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Doopsgezinde kerk
+released: 2022
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [I. Prélude, IV. Sarabande, V. Gavotte I, VI. Gavotte II ou la Musette
+      - Gavotte I da capo]}
+- {bwv: '810', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c46966df-34f9-4524-8ff5-75611697e321
+  title: Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1d5391bf-8df2-44cc-a006-fb9294790f8d
+  recordings: [b43ecca9-ef15-48f7-b54a-54d322f5712b]

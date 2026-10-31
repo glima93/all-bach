@@ -1,0 +1,28 @@
+id: george-copeland-1938
+performers:
+- name: George Copeland
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1938]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '810', complete: false, movements: [IV. Sarabande, V. Passepied I en Rondeau, VI. Passepied II - Passepied
+      I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e1e1f340-f7f1-4ea3-8f42-bc28cbc2bc54
+  title: The Victor Solo Recordings
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8d6b14c4-52bb-4e77-b6b2-bc6fd377a6d6
+  recordings: [06753347-b095-4f83-b222-969fce26022c]

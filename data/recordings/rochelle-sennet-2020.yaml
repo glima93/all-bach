@@ -1,0 +1,31 @@
+id: rochelle-sennet-2020
+performers:
+- name: Rochelle Sennet
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020]
+  place: 'Krannert Center for the Performing Arts: Foellinger Great Hall'
+released: 2021
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0aaddd2e-83bc-48de-92e8-bda1cea2b8f3
+  title: 'Bach to Black: Suites for Piano'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 15a4dd96-557c-427b-ab58-ede8d65b758b
+  recordings: [c6c73fc1-4fc7-4e1a-bf02-e77e07010ad0]

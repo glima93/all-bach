@@ -1,0 +1,27 @@
+id: rustem-hayroudinoff-2024
+performers:
+- name: Rustem Hayroudinoff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2024]
+  place: St George's Headstone
+released: 2025
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [I. Prélude, II. Allemande, IV. Sarabande, V. Gavotte I, VI. Gavotte
+      II ou la Musette - Gavotte I da capo, VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/862879d7-3705-4def-a413-abe1a93952f6
+  title: Bach & Sons
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 89aafe83-5cdf-49b4-bdc8-5066b8eca4cd
+  recordings: [f9a24b53-013b-4832-9c84-6a1547e06000]

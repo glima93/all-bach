@@ -1,0 +1,21 @@
+bwv: "811"
+title: "English Suite No. 6"
+key: "D minor"
+collection: "English Suites"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Probably Weimar, c. 1710–1717; no autograph survives"
+movements:
+  - "I. Prélude"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Sarabande"
+  - "V. Double"
+  - "VI. Gavotte I"
+  - "VII. Gavotte II - Gavotte I da capo"
+  - "VIII. Gigue"
+notes: "The Prelude joins a free opening to a fugue, and the Sarabande is followed by a Double, an ornamented variation of it."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/English_Suites_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f2c4fbc9-0790-4cba-868d-47752c12e75d

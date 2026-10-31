@@ -1,0 +1,33 @@
+id: colin-tilney-undated
+performers:
+- name: Colin Tilney
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fe9bbcee-0d9a-4639-aeba-be40c468060c
+  title: The Six English Suites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b48bde12-5299-42f8-bb4f-617a834f33b3
+  recordings: [fe8969e0-f469-4683-be3d-6938e2585f20]

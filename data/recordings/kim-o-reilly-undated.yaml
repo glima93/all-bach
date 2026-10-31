@@ -1,0 +1,27 @@
+id: kim-o-reilly-undated
+performers:
+- name: Kim O'Reilly
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Pepperdine University
+released: 1993
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [VI. Gavotte II ou la Musette - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e58fc440-68cc-4446-b09a-6af0990fe034
+  title: Essential Keyboard Repertoire, Vol. 2
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d789b64e-e4ce-4af8-b40f-604395368b8e
+  recordings: [3eb1a5b0-03f8-4c4e-ab01-142580f16cf4]

@@ -1,0 +1,28 @@
+id: marcelle-meyer-1949
+performers:
+- name: Marcelle Meyer
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1949]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '809', complete: false, movements: [I. Prélude, II. Allemande, III. Courante, IV. Sarabande, VI. Menuet
+      II - Menuet I da capo, VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1773a0ce-a137-4b5e-807c-c5fd8a2e71d8
+  title: Ses enregistrements 1925 - 1957
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 910d4cd7-0852-49ad-a293-c15ea735ad40
+  recordings: [a03f95e5-bbe8-4b5f-b7e6-358d54aa1802]

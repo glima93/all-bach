@@ -1,0 +1,35 @@
+id: wolfgang-rubsam-undated-2
+performers:
+- name: Wolfgang Rübsam
+  role: lautenwerck
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: false, movements: [I. Prélude, II. Allemande, IV. Sarabande, V. Gavotte I, VI. Gavotte
+      II ou la Musette - Gavotte I da capo]}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f3d17c7-3fa5-4c4c-9f05-c700e911666c
+  title: 6 English Suites BWV 806-811
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [0adc98fb-00e4-401a-b8f3-9b7058afca09]

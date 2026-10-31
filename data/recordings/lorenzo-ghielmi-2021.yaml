@@ -1,0 +1,31 @@
+id: lorenzo-ghielmi-2021
+performers:
+- name: Lorenzo Ghielmi
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Chiesa di San Michele
+released: 2022
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0eceb7b2-c6ec-45fa-a307-4dad3bd6de40
+  title: English Suites, BWV 806–811
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 398f9067-ff97-4743-82f3-16dcb68c3654
+  recordings: [39070d19-d818-4de7-a166-e989f8b40379]

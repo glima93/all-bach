@@ -1,0 +1,20 @@
+bwv: "808"
+title: "English Suite No. 3"
+key: "G minor"
+collection: "English Suites"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Probably Weimar, c. 1710–1717; no autograph survives"
+movements:
+  - "I. Prélude"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Sarabande"
+  - "V. Gavotte I"
+  - "VI. Gavotte II ou la Musette - Gavotte I da capo"
+  - "VII. Gigue"
+notes: "The second Gavotte is a musette over a sustained drone bass."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/English_Suites_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/afd1a98a-43fb-49fe-b716-01612b98297f

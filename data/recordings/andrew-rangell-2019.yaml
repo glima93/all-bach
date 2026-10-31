@@ -1,0 +1,32 @@
+id: andrew-rangell-2019
+performers:
+- name: Andrew Rangell
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2019]
+  place: Shalin Liu Performance Center
+released: 2020
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: false, movements: [I. Prélude, IV. Sarabande, V. Gavotte I, VI. Gavotte II ou la Musette
+      - Gavotte I da capo, VII. Gigue]}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/58624990-6d21-49e1-b8b0-ad2a55c5a19c
+  title: English Suites, BWVV 806-811
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 710da3a1-0476-4592-a2f7-5e89dff41eec
+  recordings: [a4eda1f4-d86a-43bf-a1c6-623b39b1a091]

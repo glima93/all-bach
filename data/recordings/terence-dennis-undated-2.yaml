@@ -1,0 +1,29 @@
+id: terence-dennis-undated-2
+performers:
+- name: Terence Dennis
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [VI. Gavotte II ou la Musette - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/79f1ae87-cd6d-4493-97b3-943bfcb56fad
+  title: Takako Nishizaki Plays Suzuki Evergreens, Volume 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ab5c814-81e2-4994-8de9-f96d4e775ffd
+  recordings: [ed8875fb-0c2c-4d20-8830-992110fc9dcc]

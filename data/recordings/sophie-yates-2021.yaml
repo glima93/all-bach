@@ -1,0 +1,31 @@
+id: sophie-yates-2021
+performers:
+- name: Sophie Yates
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Wiltshire Music Centre
+released: 2021
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4c36f272-bf75-4f24-821e-5a4580e96aa8
+  title: Complete English Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 64202f32-bff7-462c-9c9f-fe9adb2f7a78
+  recordings: [c6f8fa1a-346f-474e-a062-f3d6d3a2c937]

@@ -1,0 +1,28 @@
+id: skip-sempe-undated
+performers:
+- name: Skip Sempé
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '807', complete: false, movements: [IV. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/23de6706-f51f-4103-9596-8c0d79f94d8e
+  title: Duende
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5baf2170-3c25-43e1-adeb-4e2901862a69
+  recordings: [666cc7cb-1cbf-4bba-9a67-2d8a00b0bbf6]

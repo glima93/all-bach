@@ -1,0 +1,31 @@
+id: bob-van-asperen-1999
+performers:
+- name: Bob van Asperen
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Maria Minor
+released: 2000
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e3230c1-6aff-46e5-86c1-e640996eff40
+  title: 'Bach Edition, Volume 13: Keyboard Works/Klavierwerke, Volume II'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f7af258-5683-4fdd-be7a-6e60d69ad12a
+  recordings: [7b101e9d-cefa-4442-9163-43daacb24fce]

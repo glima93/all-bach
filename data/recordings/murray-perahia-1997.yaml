@@ -1,0 +1,32 @@
+id: murray-perahia-1997
+performers:
+- name: Murray Perahia
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1997, 1998]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8aebdbd-8947-44d2-b663-628c9014c5ee
+  title: Englische Suiten Nr. 1, 3 & 6
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 71131221-cda2-4d28-8348-4574412d9c9f
+  recordings: [9abeceb7-878d-486e-a1fa-4562257826bf]

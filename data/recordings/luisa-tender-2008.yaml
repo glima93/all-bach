@@ -1,0 +1,26 @@
+id: luisa-tender-2008
+performers:
+- name: Luísa Tender
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: Royal College of Music
+released: null
+original_label: null
+works:
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e63fd7d-1720-4672-ab04-691ee513477f
+  title: Bach and Forward
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62450133-1545-4592-9b5e-e8b4052fd6b5
+  recordings: [c7838c8d-be63-4138-9644-a3d331b110f3]

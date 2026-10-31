@@ -1,0 +1,29 @@
+id: martha-goldstein-undated-3
+performers:
+- name: Martha Goldstein
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de85ded2-3b6e-460c-b75d-f9bbc934afab
+  title: The Sound of the Flemish Harpsichord
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: e0ef8e76-94bc-4f2c-8295-d4208524b6d1
+  recordings: [e475176b-be27-4339-a529-92d8848c99cf]

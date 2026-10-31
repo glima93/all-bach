@@ -1,0 +1,30 @@
+id: gustav-leonhardt-undated-3
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '807', complete: false, movements: [III. Courante]}
+- {bwv: '808', complete: false, movements: [V. Gavotte I, VI. Gavotte II ou la Musette - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb5ce817-dc5c-4e51-b1ef-673b5119b31d
+  title: The Essential Bach
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [c80e9aae-5e69-4c52-97b5-a9444aea6f12]

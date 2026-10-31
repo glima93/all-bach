@@ -1,0 +1,27 @@
+id: alfred-grunfeld-1908
+performers:
+- name: Alfred Grünfeld
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1908]
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '811', complete: false, movements: [VI. Gavotte I, VII. Gavotte II - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2068fe6a-99fd-44d1-98c8-ade5b6523a2e
+  title: The First Pianist of Note to Have Made Recordings 1899–1914
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a64e708-fbbf-46be-bb9a-7b9157cb20bc
+  recordings: [9ccef42e-9aa4-4551-902b-4f4dc42615dd]

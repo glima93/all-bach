@@ -1,0 +1,29 @@
+id: dudana-mazmanishvili-undated
+performers:
+- name: Dudana Mazmanishvili
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '811', complete: false, movements: [I. Prélude, II. Allemande, III. Courante, IV. Sarabande, V. Double,
+    VI. Gavotte I, VII. Gavotte II - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/272d26a6-7cb1-449a-99d2-e3a81a1e7ab2
+  title: Debut
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8ff7f6cf-b7fc-42df-9ed1-0c193e79184a
+  recordings: [9c524559-89af-4693-9aaf-edaf2c736dc9]

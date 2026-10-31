@@ -1,0 +1,33 @@
+id: pieter-jan-belder-undated-3
+performers:
+- name: Pieter-Jan Belder
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c2adbae7-e8e4-474f-933b-375cb53658af
+  title: English Suites BWV 806-811
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ac46c3a-f0ca-48b0-b729-f6a40d1b80e1
+  recordings: [bb00e3a4-bc63-42f3-b193-c9d572b03a54]

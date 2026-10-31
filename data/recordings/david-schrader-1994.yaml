@@ -1,0 +1,26 @@
+id: david-schrader-1994
+performers:
+- name: David Schrader
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: 'Chicago College of Performing Arts: Ganz Hall'
+released: 1994
+original_label: null
+works:
+- {bwv: '806', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1363e809-aba6-4794-b889-9764e48cf507
+  title: Bach à la Carte
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b4cbc5e3-4c95-465d-bf86-20ea0d2feca5
+  recordings: [88927532-ea77-41fa-8a80-5020353c041b]

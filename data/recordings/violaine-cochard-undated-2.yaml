@@ -1,0 +1,27 @@
+id: violaine-cochard-undated-2
+performers:
+- name: Violaine Cochard
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Église luthérienne Saint-Pierre
+released: 2012
+original_label: null
+works:
+- {bwv: '807', complete: false, movements: [I. Prélude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dd1437b2-e457-453c-b83e-64b166884959
+  title: Préludes et autres fantaisies
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 98c0256b-1828-45ab-8b33-5bf63093aa27
+  recordings: [38d82919-96fd-4723-9d66-5d82aee8ed5e]

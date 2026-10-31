@@ -1,0 +1,28 @@
+id: marguerite-roesgen-champion-undated
+performers:
+- name: Marguerite Roesgen‐Champion
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '810', complete: false, movements: [V. Passepied I en Rondeau, VI. Passepied II - Passepied I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2280486c-8342-4c0f-bc21-102aba3bc543
+  title: Great Virtuosi of the Harpsichord, Volume 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: abf94f13-3d1e-4702-b51c-dd0e0ad2bb5e
+  recordings: [2ed42bb7-3798-4fff-904b-0e8b7a104d2b]

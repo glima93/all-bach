@@ -1,0 +1,26 @@
+id: igor-kipnis-1965
+performers:
+- name: Igor Kipnis
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1965]
+  place: CBS 30th Street Studio
+released: 1993
+original_label: null
+works:
+- {bwv: '807', complete: false, movements: [IV. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44535648-55f4-481a-bfea-23ecf5d83d0d
+  title: Bach - Italian Concerto English Suite No. 2 - 12 Little Preludes
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 54a49aee-7eb5-4676-afdb-0e6f3e974bc9
+  recordings: [6e8dc461-55c7-4033-9aa2-875664d3de1f]

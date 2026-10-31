@@ -1,0 +1,35 @@
+id: christiane-jaccottet-undated-3
+performers:
+- name: Christiane Jaccottet
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '806', complete: false, movements: [III. Courante I, IV. Courante II avec deux Doubles, VI. Bourrée I, VII.
+      Bourrée II - Bourrée I da capo]}
+- {bwv: '807', complete: false, movements: [V. Bourrée I, VI. Bourrée II - Bourrée I da capo]}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc0752e1-23ca-4fef-8125-e29d4a13fd6d
+  title: English Suite No. 1 / 5 Toccatas
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85f89ec1-8f4e-4201-a8a2-80e6cbb9c9e2
+  recordings: [e23dd7dd-571b-4ee4-87dd-f4af30e9ec2e]

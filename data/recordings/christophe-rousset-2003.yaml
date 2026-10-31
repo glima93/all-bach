@@ -1,0 +1,31 @@
+id: christophe-rousset-2003
+performers:
+- name: Christophe Rousset
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Musée d'Art et d'Histoire
+released: 2003
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6f6369b-08f8-4927-9b2a-b6f6ff16afe1
+  title: Suites anglaises
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6784a34f-3d91-45a5-b7b3-be1eaa1096f1
+  recordings: [65a62f2d-c350-4d7a-8870-54f26b49fb10]

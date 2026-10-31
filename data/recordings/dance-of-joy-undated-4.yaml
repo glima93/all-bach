@@ -1,0 +1,30 @@
+id: dance-of-joy-undated-4
+performers:
+- name: Dance of Joy
+  role: ensemble
+instrument: unknown
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '807', complete: false, movements: [V. Bourrée I, VI. Bourrée II - Bourrée I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a5b8e9a1-eb90-4b96-bee4-e7fadb185cf1
+  title: Das Bachprojekt
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f1375c0-ebd9-4131-8df5-0a21bb856d3f
+  recordings: [647060bf-c0f9-4825-ae26-18374086fd3f]

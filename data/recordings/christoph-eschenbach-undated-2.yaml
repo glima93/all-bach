@@ -1,0 +1,29 @@
+id: christoph-eschenbach-undated-2
+performers:
+- name: Christoph Eschenbach
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [V. Gavotte I, VI. Gavotte II ou la Musette - Gavotte I da capo]}
+- {bwv: '811', complete: false, movements: [VI. Gavotte I, VII. Gavotte II - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/791e3263-6438-4fed-a833-612e17a2b6f2
+  title: Piano Lessons
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 67307b9a-5f5c-4611-8d41-d439d343fa84
+  recordings: [86a0e1a7-da0d-4013-8ce3-1d6c34b8ebde]

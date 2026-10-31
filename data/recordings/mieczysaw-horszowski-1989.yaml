@@ -1,0 +1,27 @@
+id: mieczysaw-horszowski-1989
+performers:
+- name: Mieczysław Horszowski
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1989]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '810', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f8e5805-c48f-455f-8839-438f41b76e67
+  title: 'Bach: English Suite no. 5 / Chopin: Two Nocturnes / Beethoven: Sonata, op. 10 no. 2'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 37cd67d1-a786-4f5c-b91b-14f93b90ca04
+  recordings: [96c7b61c-ec02-4d85-81d0-efd63dd7b32c]

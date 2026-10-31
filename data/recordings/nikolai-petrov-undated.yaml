@@ -1,0 +1,28 @@
+id: nikolai-petrov-undated
+performers:
+- name: Nikolai Petrov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/06c8bbf3-1677-49e3-bd13-4b19146dfe5f
+  title: Legendary Soviet Recordings
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8d92486-0d84-49d6-b825-845504bf1877
+  recordings: [ca38f916-f57d-4835-9026-6b4f889cf0eb]

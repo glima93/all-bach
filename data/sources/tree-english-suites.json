@@ -1,0 +1,304 @@
+{
+ "collection": "english-suites",
+ "taken": "2026-10-30",
+ "recordings": 1979,
+ "performances": 135,
+ "works": [
+  {
+   "bwv": "806",
+   "id": "efe4d687-7173-4553-bf72-ff2e88d69602",
+   "candidates": [
+    {
+     "id": "efe4d687-7173-4553-bf72-ff2e88d69602",
+     "title": "Englische Suite Nr. 1 A-Dur, BWV 806"
+    },
+    {
+     "id": "dc1b8a78-7287-44e2-a673-1ff60884e902",
+     "title": "English Suites, BWV 806-811"
+    },
+    {
+     "id": "eeaadf72-ce0a-482e-a0c1-a779cf8345f8",
+     "title": "English Suite No. 1 in A Major, BWV 806"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Englische Suite Nr. 1 A-Dur, BWV 806",
+   "key": "A major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "2591954a-1e63-3264-bd15-445aace67132",
+     "title": "Englische Suite Nr. 1 A-Dur, BWV 806: I. Prélude"
+    },
+    {
+     "id": "904478b9-c079-35fe-bdd0-849404e4e23c",
+     "title": "Englische Suite Nr. 1 A-Dur, BWV 806: II. Allemande"
+    },
+    {
+     "id": "c54e9412-5c9a-373d-a6a9-b44d96356b0b",
+     "title": "Englische Suite Nr. 1 A-Dur, BWV 806: III. Courante I"
+    },
+    {
+     "id": "4ed9eaa4-c831-3120-923b-10bd5be12934",
+     "title": "Englische Suite Nr. 1 A-Dur, BWV 806: IV. Courante II avec deux Doubles"
+    },
+    {
+     "id": "d71ea369-11b8-3c4c-b45a-898e74fffc09",
+     "title": "Englische Suite Nr. 1 A-Dur, BWV 806: V. Sarabande"
+    },
+    {
+     "id": "7f37920b-a1da-3bf1-b8c5-4589a34af517",
+     "title": "Englische Suite Nr. 1 A-Dur, BWV 806: VI. Bourrée I"
+    },
+    {
+     "id": "ad4586c3-f06c-3cb2-b50d-91c43d6356dd",
+     "title": "Englische Suite Nr. 1 A-Dur, BWV 806: VII. Bourrée II - Bourrée I da capo"
+    },
+    {
+     "id": "bde40278-5be7-3718-bc6b-69cc0a1f950e",
+     "title": "Englische Suite Nr. 1 A-Dur, BWV 806: VIII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "807",
+   "id": "f780b125-cf72-46c1-af35-a0e57b36af42",
+   "candidates": [
+    {
+     "id": "f780b125-cf72-46c1-af35-a0e57b36af42",
+     "title": "Englische Suite Nr. 2 a-Moll, BWV 807"
+    },
+    {
+     "id": "49f0be68-0bfc-4766-ad14-a26f3a647c62",
+     "title": "English Suite No. 2 in A Minor, BWV 807"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Englische Suite Nr. 2 a-Moll, BWV 807",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "ccae9f82-b831-3818-b49f-a04d2a82c517",
+     "title": "Englische Suite Nr. 2 a-Moll, BWV 807: I. Prélude"
+    },
+    {
+     "id": "bd030e25-2aa5-306f-a907-527d75b6bbc5",
+     "title": "Englische Suite Nr. 2 a-Moll, BWV 807: II. Allemande"
+    },
+    {
+     "id": "abed8774-0d02-35bc-82a1-3dfc21f5c136",
+     "title": "Englische Suite Nr. 2 a-Moll, BWV 807: III. Courante"
+    },
+    {
+     "id": "4441180b-75f6-3dc5-bdaf-0c361c859b7c",
+     "title": "Englische Suite Nr. 2 a-Moll, BWV 807: IV. Sarabande"
+    },
+    {
+     "id": "0814b13f-513c-32ad-becd-de01360adffd",
+     "title": "Englische Suite Nr. 2 a-Moll, BWV 807: V. Bourrée I"
+    },
+    {
+     "id": "8f9ef0d4-fb45-39d8-a45b-d29b0bc2ba24",
+     "title": "Englische Suite Nr. 2 a-Moll, BWV 807: VI. Bourrée II - Bourrée I da capo"
+    },
+    {
+     "id": "89cb0456-2509-3492-a7e1-4f4d090bf2a4",
+     "title": "Englische Suite Nr. 2 a-Moll, BWV 807: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "808",
+   "id": "afd1a98a-43fb-49fe-b716-01612b98297f",
+   "candidates": [
+    {
+     "id": "afd1a98a-43fb-49fe-b716-01612b98297f",
+     "title": "Englische Suite Nr. 3 g-Moll, BWV 808"
+    },
+    {
+     "id": "6fa28459-6c6d-484e-aa2e-3bcaacb379a6",
+     "title": "Englische Suite Nr. 3 g-Moll, BWV 808"
+    },
+    {
+     "id": "e87a0461-72c2-465e-a428-460f68c987ae",
+     "title": "Gavotte I (from English Suite No. 3, BWV 808)"
+    },
+    {
+     "id": "b697b011-c562-4935-b777-a48e2a1c6de6",
+     "title": "Gavotte II (Musette) (from English Suite No. 3, BWV 808)"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Englische Suite Nr. 3 g-Moll, BWV 808",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "44707734-69c7-363d-b364-2d72a5a74c2f",
+     "title": "Englische Suite Nr. 3 g-Moll, BWV 808: I. Prélude"
+    },
+    {
+     "id": "f7d3453d-585d-3616-8612-41bb2bdf4212",
+     "title": "Englische Suite Nr. 3 g-Moll, BWV 808: II. Allemande"
+    },
+    {
+     "id": "5858b915-a3be-3dfd-8d76-d8af591d41cd",
+     "title": "Englische Suite Nr. 3 g-Moll, BWV 808: III. Courante"
+    },
+    {
+     "id": "e21c9e87-1e73-3846-a406-ff6ba326d697",
+     "title": "Englische Suite Nr. 3 g-Moll, BWV 808: IV. Sarabande"
+    },
+    {
+     "id": "c2b27878-2da3-3400-ac1e-193d94a21d12",
+     "title": "Englische Suite Nr. 3 g-Moll, BWV 808: V. Gavotte I"
+    },
+    {
+     "id": "e48a3f23-3b5b-49f1-87d4-2280e60e7c5b",
+     "title": "Englische Suite Nr. 3 g-Moll, BWV 808: VI. Gavotte II ou la Musette - Gavotte I da capo"
+    },
+    {
+     "id": "56dea3a5-fa91-3969-b904-47a09fdd057f",
+     "title": "Englische Suite Nr. 3 g-Moll, BWV 808: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "809",
+   "id": "eb3a7cf5-a796-4d88-acd3-beac6f43b657",
+   "candidates": [
+    {
+     "id": "eb3a7cf5-a796-4d88-acd3-beac6f43b657",
+     "title": "Englische Suite Nr. 4 F-Dur, BWV 809"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Englische Suite Nr. 4 F-Dur, BWV 809",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "ef67ae0b-9b51-378d-92c7-5983fc679b0c",
+     "title": "Englische Suite Nr. 4 F-Dur, BWV 809: I. Prélude"
+    },
+    {
+     "id": "54627645-5777-3ded-a5d1-9b906d9af926",
+     "title": "Englische Suite Nr. 4 F-Dur, BWV 809: II. Allemande"
+    },
+    {
+     "id": "914ae1df-b136-3ef3-8e2a-9315fd7cc16d",
+     "title": "Englische Suite Nr. 4 F-Dur, BWV 809: III. Courante"
+    },
+    {
+     "id": "bbd746fe-5d7d-3811-85e5-5ca8017c7a3e",
+     "title": "Englische Suite Nr. 4 F-Dur, BWV 809: IV. Sarabande"
+    },
+    {
+     "id": "1dabf644-3441-38d7-9751-d6bf96399d8e",
+     "title": "Englische Suite Nr. 4 F-Dur, BWV 809: V. Menuet I"
+    },
+    {
+     "id": "f3747daa-cf18-3844-9147-81c4588aa9ab",
+     "title": "Englische Suite Nr. 4 F-Dur, BWV 809: VI. Menuett II - Menuett I da capo"
+    },
+    {
+     "id": "0b974593-e831-33a1-bf8a-f24a2c14ea3a",
+     "title": "Englische Suite Nr. 4 F-Dur, BWV 809: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "810",
+   "id": "273d8f51-ce4f-4f46-8467-f5213a96a282",
+   "candidates": [
+    {
+     "id": "273d8f51-ce4f-4f46-8467-f5213a96a282",
+     "title": "Englische Suite Nr. 5 e-Moll, BWV 810"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Englische Suite Nr. 5 e-Moll, BWV 810",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "11378e70-f6b1-366c-9f85-31de40268a56",
+     "title": "Englische Suite Nr. 5 e-Moll, BWV 810: I. Prélude"
+    },
+    {
+     "id": "bc221f11-4ca8-3554-ad45-427a2b5430f8",
+     "title": "Englische Suite Nr. 5 e-Moll, BWV 810: II. Allemande"
+    },
+    {
+     "id": "e970e5b1-2cc2-334c-b2b7-f971749eea91",
+     "title": "Englische Suite Nr. 5 e-Moll, BWV 810: III. Courante"
+    },
+    {
+     "id": "5ae767cd-c642-3494-8dfd-e677b2005e85",
+     "title": "Englische Suite Nr. 5 e-Moll, BWV 810: IV. Sarabande"
+    },
+    {
+     "id": "185e49f9-1775-36cd-ab30-0b59525e873c",
+     "title": "Englische Suite Nr. 5 e-Moll, BWV 810: V. Passepied I en Rondeau"
+    },
+    {
+     "id": "5692652c-e8c9-3d83-bca2-2f3d4d70d151",
+     "title": "Englische Suite Nr. 5 e-Moll, BWV 810: VI. Passepied II - Passepied I da capo"
+    },
+    {
+     "id": "7817f27a-9d2d-33d5-b5e1-a4df47f37d86",
+     "title": "Englische Suite Nr. 5 e-Moll, BWV 810: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "811",
+   "id": "f2c4fbc9-0790-4cba-868d-47752c12e75d",
+   "candidates": [
+    {
+     "id": "f2c4fbc9-0790-4cba-868d-47752c12e75d",
+     "title": "Englische Suite Nr. 6 d-Moll, BWV 811"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Englische Suite Nr. 6 d-Moll, BWV 811",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "304d28bc-88d3-3ffe-8cdc-7877ca15fe22",
+     "title": "Englische Suite Nr. 6 d-Moll, BWV 811: I. Prélude"
+    },
+    {
+     "id": "8a9e5b6d-5023-37da-870a-231ffd1e3c8f",
+     "title": "Englische Suite Nr. 6 d-Moll, BWV 811: II. Allemande"
+    },
+    {
+     "id": "842c2cd1-40ce-3354-8c34-7859ab5096f8",
+     "title": "Englische Suite Nr. 6 d-Moll, BWV 811: III. Courante"
+    },
+    {
+     "id": "c1e35df9-51ff-3bf0-be64-37dd71a526b7",
+     "title": "Englische Suite Nr. 6 d-Moll, BWV 811: IV. Sarabande"
+    },
+    {
+     "id": "c03fb7b5-5f24-33e8-9404-e8274cbf1657",
+     "title": "Englische Suite Nr. 6 d-Moll, BWV 811: V. Double"
+    },
+    {
+     "id": "0c21328a-9a90-3f5f-a63c-31ceeaa2e69a",
+     "title": "Englische Suite Nr. 6 d-Moll, BWV 811: VI. Gavotte I"
+    },
+    {
+     "id": "9f100144-da00-3cbe-8ffe-b7985b6476d9",
+     "title": "Englische Suite Nr. 6 d-Moll, BWV 811: VII. Gavotte II - Gavotte I da capo"
+    },
+    {
+     "id": "95a231ba-3a23-3e43-b338-715088c1e143",
+     "title": "Englische Suite Nr. 6 d-Moll, BWV 811: VIII. Gigue"
+    }
+   ]
+  }
+ ]
+}

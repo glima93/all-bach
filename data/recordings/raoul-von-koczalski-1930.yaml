@@ -1,0 +1,27 @@
+id: raoul-von-koczalski-1930
+performers:
+- name: Raoul von Koczalski
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1930]
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '808', complete: false, movements: [V. Gavotte I, VI. Gavotte II ou la Musette - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8a3ae402-a83b-4216-8deb-e81a7cbd48a1
+  title: 'The Complete Raoul von Koczalski: Vol. 2 Pre-War Recordings 1930-1939'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5f23d004-2315-47fd-b462-31af4c6161dd
+  recordings: [03db7e8e-7865-4f15-adc5-a79e161deed2]

@@ -1,0 +1,27 @@
+id: mieczysaw-horszowski-1979-2
+performers:
+- name: Mieczysław Horszowski
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1979]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '808', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6ce6cea1-28fc-4733-bc59-855e4922f3f3
+  title: The 1940 Vatican Radio Recordings / Live USA Recordings 1957-79
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 37cd67d1-a786-4f5c-b91b-14f93b90ca04
+  recordings: [69a0fbe4-11a1-4f39-8d95-4a5b3b2f32c2]

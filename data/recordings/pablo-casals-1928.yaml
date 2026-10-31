@@ -1,0 +1,30 @@
+id: pablo-casals-1928
+performers:
+- name: Pau Casals
+  role: cello
+- name: Nicolai Mednikoff
+  role: piano
+instrument: cello
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1928]
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '811', complete: false, movements: [VI. Gavotte I, VII. Gavotte II - Gavotte I da capo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e241e993-5c97-47bc-a41f-daa509256698
+  title: The Bach Cello Suites nos. 1–6, BWV 1007–1012 / Encores
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With piano.
+musicbrainz:
+  artist: 2fcffd9a-f02a-4a2c-8085-6257f918949d
+  recordings: [e747b7b4-9094-42ed-af3a-0cd3df15bb06]

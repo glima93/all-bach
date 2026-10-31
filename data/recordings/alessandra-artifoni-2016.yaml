@@ -1,0 +1,31 @@
+id: alessandra-artifoni-2016
+performers:
+- name: Alessandra Artifoni
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Villa l’Oriuolo
+released: 2017
+original_label: null
+works:
+- {bwv: '806', complete: true}
+- {bwv: '807', complete: true}
+- {bwv: '808', complete: true}
+- {bwv: '809', complete: true}
+- {bwv: '810', complete: true}
+- {bwv: '811', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ba2f8f2e-bbac-45b1-8a73-921dd2253e3e
+  title: The English Suites, BWV 806–811
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a5cb917c-6bcd-4409-83e8-fca2d5ac370e
+  recordings: [33dd237b-f329-4544-9449-109640812a0e]
