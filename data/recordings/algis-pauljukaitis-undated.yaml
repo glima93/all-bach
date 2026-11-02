@@ -1,0 +1,28 @@
+id: algis-pauljukaitis-undated
+performers:
+- name: Algis Pauljukaitis
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '814', complete: false, movements: [VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/eb58eb2c-cf38-4a85-bbc4-3f6c2b5d84f5
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 1edc0705-c5a6-446e-a3ab-e7c914622609
+  recordings: [eb58eb2c-cf38-4a85-bbc4-3f6c2b5d84f5]

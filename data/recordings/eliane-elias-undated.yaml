@@ -1,0 +1,28 @@
+id: eliane-elias-undated
+performers:
+- name: Eliane Elias
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '816', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/04fbf054-07f6-4c23-8bfb-be8a81cfe735
+  title: On the Classical Side
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9974cbc1-6a00-4a97-8a36-e4a25bfe0293
+  recordings: [9f963f97-688e-435e-94b6-638b9231b7c6]

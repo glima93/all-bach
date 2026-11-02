@@ -1,0 +1,30 @@
+id: alan-curtis-1979-2
+performers:
+- name: Alan Curtis
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1979]
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '813', complete: false, movements: [I. Allemande, II. Courante, III. Sarabande, IV. Air, VII. Gigue]}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39aeb16b-5f01-4349-82ff-4f3f747403c9
+  recordings: [411ac484-438a-45c2-8421-5dda1df63f17]

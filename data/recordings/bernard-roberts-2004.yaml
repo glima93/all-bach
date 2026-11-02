@@ -1,0 +1,30 @@
+id: bernard-roberts-2004
+performers:
+- name: Bernard Roberts
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2004]
+  place: Wyastone Concert Hall
+released: 2005
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: false, movements: [I. Allemande, II. Courante, III. Sarabande, V. Menuet I, VI. Menuet
+      II - Menuet I da capo, VII. Gigue]}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59194699-77c4-4696-ac99-ef7637aac25a
+  title: The Complete French Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 10e63cb7-67ae-4e9f-a6ea-48e2c67283db
+  recordings: [e8a622a8-cc26-4a74-ad23-c32a52703afb]

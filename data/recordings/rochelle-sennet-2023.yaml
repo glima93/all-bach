@@ -1,0 +1,29 @@
+id: rochelle-sennet-2023
+performers:
+- name: Rochelle Sennet
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2023]
+  place: 'Krannert Center for the Performing Arts: Foellinger Great Hall'
+released: 2024
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: false, movements: [II. Courante, IV. Gavotte, V. Bourrée, VI. Loure, VII. Gigue]}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15e909ee-c79a-44dc-8930-e5d6bd87c05c
+  title: 'Bach to Black: Suites for Piano, Vol. III'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 15a4dd96-557c-427b-ab58-ede8d65b758b
+  recordings: [3e0cdc27-9a8f-4c6b-bd59-29f3338ddef4]

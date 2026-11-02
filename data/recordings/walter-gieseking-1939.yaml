@@ -1,0 +1,28 @@
+id: walter-gieseking-1939
+performers:
+- name: Walter Gieseking
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1939]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '816', complete: false, movements: [VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a64f35de-57fd-461d-9b41-78ee62b11c3e
+  title: 'J. S. Bach: Partitas nos. 1, 5, 6 / Italian Concerto / Beethoven: Piano Sonata no. 17, op. 31, no. 2,
+    "Tempest"'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62e0e456-bd4b-4edc-a47c-3537cdd53621
+  recordings: [66ebfd4b-f44e-4c21-961c-1afeda178969]

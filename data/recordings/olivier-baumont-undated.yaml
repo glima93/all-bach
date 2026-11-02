@@ -1,0 +1,31 @@
+id: olivier-baumont-undated
+performers:
+- name: Olivier Baumont
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2fb37509-a8de-42a6-a2e5-2ed3b451ebe4
+  title: Six French Suites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52b921d9-43c3-4755-8787-c22c0d439a07
+  recordings: [b564ca69-ea2e-430e-a5b5-b84d1f344e28]

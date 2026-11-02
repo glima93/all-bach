@@ -1,0 +1,26 @@
+id: marju-riisikamp-2011
+performers:
+- name: Marju Riisikamp
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: Õpetajate Maja
+released: null
+original_label: null
+works:
+- {bwv: '814', complete: false, movements: [IV. Anglaise]}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/3f6816be-7d13-4a93-8ac4-9a75db4a85d5
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 90c98e98-dcb0-4849-8320-7c9a71e00d1c
+  recordings: [3f6816be-7d13-4a93-8ac4-9a75db4a85d5]

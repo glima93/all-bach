@@ -1,0 +1,26 @@
+id: martin-stadtfeld-2004
+performers:
+- name: Martin Stadtfeld
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2004]
+  place: SWR Studio
+released: 2004
+original_label: null
+works:
+- {bwv: '813', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/618bb735-3f2e-4f9f-a661-97682f35c6fa
+  title: Bach Pur
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b58542fb-afcb-431d-a234-fb5bf7f93a09
+  recordings: [af1d46a4-dd5d-47f8-9756-90add186c707]

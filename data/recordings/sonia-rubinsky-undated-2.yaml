@@ -1,0 +1,30 @@
+id: sonia-rubinsky-undated-2
+performers:
+- name: Sonia Rubinsky
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '814', complete: false, movements: [II. Courante]}
+- {bwv: '816', complete: false, movements: [VI. Loure, VII. Gigue]}
+- {bwv: '817', complete: false, movements: [V. Polonaise]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8abb654c-f927-440d-a218-84a97c04ae7a
+  title: Magna Sequentia I
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b848405a-26e7-4d25-b532-5c09d1ad7d58
+  recordings: [b5ceb9f3-4c80-427b-956d-10d9e487887e]

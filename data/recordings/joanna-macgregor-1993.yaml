@@ -1,0 +1,29 @@
+id: joanna-macgregor-1993
+performers:
+- name: Joanna MacGregor
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1993]
+  place: Snape Maltings Concert Hall
+released: null
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b965758-b5e4-4531-9a34-8987820d67f0
+  title: French Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62c39b58-fa30-465a-ae75-67baa4d97594
+  recordings: [18f3675a-46d9-432d-8ddd-6ff7ef5f1f5e]

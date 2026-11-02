@@ -1,0 +1,20 @@
+bwv: "813"
+title: "French Suite No. 2"
+key: "C minor"
+collection: "French Suites"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Köthen, c. 1722; in the 1722 Clavier-Büchlein for Anna Magdalena Bach"
+movements:
+  - "I. Allemande"
+  - "II. Courante"
+  - "III. Sarabande"
+  - "IV. Air"
+  - "V. Menuet I"
+  - "VI. Menuet II"
+  - "VII. Gigue"
+notes: "In the 1722 Clavier-Büchlein for Anna Magdalena Bach, where a minuet was added in revision; a further revised version opens her 1725 notebook. The name \"French\" is not Bach's: it first appears in Marpurg (1762)."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/French_Suites_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/a6e7fc03-32e4-4266-bc00-174b229eb6db

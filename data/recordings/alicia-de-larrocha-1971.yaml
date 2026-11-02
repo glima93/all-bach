@@ -1,0 +1,26 @@
+id: alicia-de-larrocha-1971
+performers:
+- name: Alicia de Larrocha
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1971]
+  place: Decca Studios
+released: 1999
+original_label: null
+works:
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85e6f4a3-a767-4c23-82c1-0804e8a1e12a
+  title: 'Great Pianists of the 20th Century, Volume 63: Alicia de Larrocha II'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4253b0bc-beff-4579-9101-7df5ecd317ae
+  recordings: [94533883-7503-44e9-ba9b-b2b980fd781f]

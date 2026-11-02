@@ -1,0 +1,27 @@
+id: emil-gilels-1960
+performers:
+- name: Emil Gilels
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1960]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '816', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8dd922e0-246d-4478-b6bd-bddb0835cdfa
+  title: 'Great Pianists of the 20th Century, Volume 34: Emil Gilels I'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 88b4ad33-63ba-4923-947e-26a720631156
+  recordings: [57199514-6441-41f8-b046-e1241d5c5458]

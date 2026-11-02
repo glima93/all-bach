@@ -1,0 +1,29 @@
+id: joseph-petric-undated
+performers:
+- name: Joseph Petric
+  role: accordion
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '813', complete: false, movements: [II. Courante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d462ef1f-388b-4660-8c9f-cb2d7bffa2dd
+  title: Les Must Sampler, Volume 9
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on accordion.
+musicbrainz:
+  artist: 172253d7-a49b-4fb4-b99f-4260102decd8
+  recordings: [0d55ce50-8c2f-4e3a-9435-712485989fd5]

@@ -1,0 +1,33 @@
+id: ewa-mrowca-undated
+performers:
+- name: Ewa Mrowca
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '813', complete: false, movements: [I. Allemande, II. Courante, III. Sarabande, IV. Air, V. Menuet I, VI.
+      Menuet II]}
+- {bwv: '814', complete: false, movements: [I. Allemande, II. Courante, III. Sarabande, IV. Anglaise, V. Menuet
+      I, VI. Menuet II - Menuet I da capo]}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: false, movements: [I. Allemande, II. Courante, IV. Gavotte, V. Polonaise]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/336e9b4a-3648-4e97-bf30-8f6dd89030a1
+  title: The French Suites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 73f6ad50-4068-459f-ada0-ddc65aa97429
+  recordings: [634168af-2437-48ff-a3c6-252e3f011487]

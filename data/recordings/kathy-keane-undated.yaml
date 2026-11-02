@@ -1,0 +1,28 @@
+id: kathy-keane-undated
+performers:
+- name: Kathy Keane
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '816', complete: false, movements: [I. Allemande, III. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f29a4942-d8a4-4f02-8dee-66b4b5247b17
+  title: A Classical Touch
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bda3c39b-767c-416f-9222-26f3dd215a48
+  recordings: [5ba9690e-1b46-4146-8e93-ced17ec58213]

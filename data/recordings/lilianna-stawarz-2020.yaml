@@ -1,0 +1,29 @@
+id: lilianna-stawarz-2020
+performers:
+- name: Lilianna Stawarz
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Ogólnokształcąca szkoła Muzyczna I i II stopnia im. Henryka Wieniawskiego
+released: 2021
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17b68bb9-b86d-4359-b999-d2911e760746
+  title: French Suites, BWVV 812–817
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9c1f4906-c04f-4657-8a9a-4c4498520d3d
+  recordings: [85396bc1-5681-4047-8f1e-05f38f39a2df]

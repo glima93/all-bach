@@ -1,0 +1,20 @@
+bwv: "816"
+title: "French Suite No. 5"
+key: "G major"
+collection: "French Suites"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1722–1724; entered in the 1722 Clavier-Büchlein for Anna Magdalena Bach (opening in 1722, the rest in 1724)"
+movements:
+  - "I. Allemande"
+  - "II. Courante"
+  - "III. Sarabande"
+  - "IV. Gavotte"
+  - "V. Bourrée"
+  - "VI. Loure"
+  - "VII. Gigue"
+notes: "The only one of the first five suites left incomplete when first entered in the 1722 Clavier-Büchlein; it was finished there in the second half of 1724. The name \"French\" is not Bach's: it first appears in Marpurg (1762)."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/French_Suites_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/01d06139-946b-41bc-8527-9a7aed416def

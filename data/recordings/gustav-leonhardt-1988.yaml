@@ -1,0 +1,27 @@
+id: gustav-leonhardt-1988
+performers:
+- name: Gustav Leonhardt
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '813', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d8bc7e10-0152-4cb9-a630-e99c7ee76aa7
+  title: Clavichord Recital
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [889e90bf-91ad-4fd6-81dc-3511d623d0bf]

@@ -1,0 +1,26 @@
+id: mieczysaw-horszowski-1989-2
+performers:
+- name: Mieczysław Horszowski
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1989]
+  place: Théâtre des Champs-Élysées
+released: 1989
+original_label: null
+works:
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c8238599-a8a0-4b32-9373-7a8fc89de45a
+  title: Au theatre des champs Elysées
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 37cd67d1-a786-4f5c-b91b-14f93b90ca04
+  recordings: [3d0b8a39-7239-49ce-babb-e8bf561339d4]

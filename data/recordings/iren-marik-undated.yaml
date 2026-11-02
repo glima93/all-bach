@@ -1,0 +1,28 @@
+id: iren-marik-undated
+performers:
+- name: Irén Marik
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '816', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/153c8153-6852-4c94-8770-0e523ac1df94
+  title: From Bach to Bartók
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 41181506-03a9-4e34-b0e3-85d745616027
+  recordings: [c29b2f19-af32-4b68-b2ec-e66bf6726ad6]

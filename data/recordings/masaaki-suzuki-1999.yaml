@@ -1,0 +1,27 @@
+id: masaaki-suzuki-1999
+performers:
+- name: Masaaki Suzuki
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: 神戸松蔭女子学院大学チャペル
+released: 2003
+original_label: null
+works:
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6d64279b-a1bf-452c-ba7a-b5461532a2ea
+  title: French Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d41e5072-3a8e-4f1f-97ab-3b0820de74c1
+  recordings: [55b43657-e7ba-4943-b348-db9a6dad4dce]

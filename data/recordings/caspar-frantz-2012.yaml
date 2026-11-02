@@ -1,0 +1,29 @@
+id: caspar-frantz-2012
+performers:
+- name: Caspar Frantz
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2012]
+  place: Immanuelskirche
+released: 2012
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f36d71b4-c310-4914-ad00-5b271b13b7f1
+  title: 'Französische Suiten: BWV 812-817 / 818A & 819A'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 76bee4d0-c9f2-4628-b7de-a525f831afbe
+  recordings: [ac95962b-be23-4858-b355-b1ac8daf63d9]

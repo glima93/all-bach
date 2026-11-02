@@ -1,0 +1,28 @@
+id: dame-myra-hess-undated-3
+performers:
+- name: Dame Myra Hess
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '816', complete: false, movements: [VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d932d369-959e-4265-8e0a-68315a38b2c5
+  title: Myra Hess at Illionis Vol.3 & 1937 Broadcast
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3016bf08-6677-4f71-9fb5-3e54cdc607bb
+  recordings: [d0cdc759-18f4-4633-a6ed-aba7018ff066]

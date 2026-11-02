@@ -1,0 +1,27 @@
+id: pierre-hantai-2016
+performers:
+- name: Pierre Hantaï
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Huis Bartolotti
+released: null
+original_label: null
+works:
+- {bwv: '814', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/a6821531-f93d-4478-a4c7-faea679a0918
+  title: null
+status: draft
+help_wanted:
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bf55610c-41d9-45bf-a0ae-d912f49071a0
+  recordings: [a6821531-f93d-4478-a4c7-faea679a0918]

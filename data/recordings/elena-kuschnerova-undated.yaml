@@ -1,0 +1,28 @@
+id: elena-kuschnerova-undated
+performers:
+- name: Elena Kuschnerova
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '813', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f863e7ec-b896-4f95-a4a8-7ab23f2785c8
+  title: Solo Piano Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: de61ff2f-4ac3-44a3-bb81-d202205887a3
+  recordings: [a0b5db88-f908-4e6d-9aed-4888dbe44b66]

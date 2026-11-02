@@ -1,0 +1,28 @@
+id: kart-ruubel-undated
+performers:
+- name: Kärt Ruubel
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '813', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd17c52f-c038-4116-8b75-f215ea152db9
+  title: Auff die Maÿerin
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 02265244-6afe-439e-9f5c-0a59efc43fa1
+  recordings: [0a868e76-e9ac-409a-b13f-2f44b1c75470]

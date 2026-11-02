@@ -72,6 +72,9 @@ EXCLUDE_BY_SNAPSHOT = {
     "003f5b50-8a64-499c-8939-7238cd181c74": "anime soundtrack cue (Levius) linked to the whole of English Suite No. 1; not a performance of the suite",
     "d39c3301-a203-41aa-87c2-adfd3776a7ab": "Anna Magdalena Notebook album; the English Suites are not in the notebooks, so these are notebook pieces linked to the wrong works",
   },
+  "french-suites": {
+    "aa7ac922-b9a2-4665-8dab-a584ce9cecac": "Handel Water Music / Royal Fireworks album (Virtuosi of England, Davison); a Handel Bourrée linked to French Suite No. 6",
+  },
   "harpsichord-concertos": {
     "f8df5ad3-0db2-4dc7-be48-a55397f60b20": "credited to Antonio Vivaldi (composer of the model of BWV 1065) on a Vivaldi compilation; the performers are unknown",
   },
@@ -141,7 +144,7 @@ ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone)?\b|swingle|jazz|loussi
                             r"loeki|seldom sene|baby einstein|babies|sweet little band|pink mice|\bthe nice\b|"
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
-                            r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi", re.I)
+                            r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi|alperin|dellarole", re.I)
 # In orchestral works only: names of groups that are not orchestras, so play the music arranged.
 ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
                                   r"trumpet ensemble|brass|\btrio\b", re.I)
@@ -164,7 +167,7 @@ GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|solois
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
                                r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki|dangerous liaisons|פסקול|motion picture|movies go baroque|bach minimaliste|"
-                               r"concertos? for recorder|サウンドトラック", re.I)
+                               r"concertos? for recorder|production music|サウンドトラック", re.I)
 
 
 class Flow(list):

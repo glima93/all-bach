@@ -1,0 +1,30 @@
+id: christophe-rousset-2004-2
+performers:
+- name: Christophe Rousset
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2004]
+  place: Musée d'Art et d'Histoire
+released: 2004
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: false, movements: [I. Allemande, II. Courante, III. Sarabande, IV. Gavotte, V. Polonaise,
+    VII. Bourrée, VIII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9e6280b-c653-43c6-a618-e3b7591a4904
+  title: Suites Françaises
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6784a34f-3d91-45a5-b7b3-be1eaa1096f1
+  recordings: [d26f3980-92f6-4474-9872-73dc810e2bbd]

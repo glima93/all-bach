@@ -1,0 +1,28 @@
+id: sven-kullerkupp-undated
+performers:
+- name: Sven Kullerkupp
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '816', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3f64d0bb-ab3f-4e25-b184-861195d7aed4
+  title: Elisele
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 69d8ddfb-8c6d-47fe-879b-47c3723b8588
+  recordings: [d9121a1d-07b5-48b1-bb8d-a48100dbbcda]

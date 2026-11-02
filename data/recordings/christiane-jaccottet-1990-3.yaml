@@ -1,0 +1,30 @@
+id: christiane-jaccottet-1990-3
+performers:
+- name: Christiane Jaccottet
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6fc14625-591d-4e3b-8ba3-f68dd00c84dc
+  title: 'Complete Works for Harpsichord, Vol. 8: French Suites Nos. 1-5'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85f89ec1-8f4e-4201-a8a2-80e6cbb9c9e2
+  recordings: [6fc01e46-217a-468b-a06e-9ff4b6ba762a]

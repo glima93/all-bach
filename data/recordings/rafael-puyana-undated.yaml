@@ -1,0 +1,27 @@
+id: rafael-puyana-undated
+performers:
+- name: Rafael Puyana
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Ballroom Studio A
+released: 1998
+original_label: null
+works:
+- {bwv: '814', complete: false, movements: [VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aa58a78e-c36d-4b01-a385-f20ae2022f8c
+  title: Puyana Plays Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8d7296c7-d11d-40c2-ab8b-3d1f8c010928
+  recordings: [5af92c67-597b-4f65-8082-cea7be76ba31]
