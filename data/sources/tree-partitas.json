@@ -1,0 +1,284 @@
+{
+ "collection": "partitas",
+ "taken": "2026-11-02",
+ "recordings": 3984,
+ "performances": 244,
+ "works": [
+  {
+   "bwv": "825",
+   "id": "ddd67114-e7d5-4b79-bffc-38d6e9ea4ca9",
+   "candidates": [
+    {
+     "id": "ddd67114-e7d5-4b79-bffc-38d6e9ea4ca9",
+     "title": "Partita no. 1 in B-flat major, BWV 825"
+    },
+    {
+     "id": "3c1d42c1-0cdc-402e-8a0b-771b79c60742",
+     "title": "6 Partitas, BWV 825-830"
+    },
+    {
+     "id": "aba8583a-0d11-4010-88ce-3d8ea6a384ad",
+     "title": "Partita no. 1 in B-flat major, BWV 825"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Partita no. 1 in B-flat major, BWV 825",
+   "key": "B-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "a6c5118b-9c8a-3d9b-8a24-9a11199b07c0",
+     "title": "Partita no. 1 in B-flat major, BWV 825: I. Prelude"
+    },
+    {
+     "id": "e4656bbd-1654-3e17-87c9-2552071d2207",
+     "title": "Partita no. 1 in B-flat major, BWV 825: II. Allemande"
+    },
+    {
+     "id": "11ac3438-d7c8-32a0-a12a-e67071c6fa71",
+     "title": "Partita no. 1 in B-flat major, BWV 825: III. Courante"
+    },
+    {
+     "id": "77621485-41d4-38f8-91a4-82cfbd0acb4c",
+     "title": "Partita no. 1 in B-flat major, BWV 825: IV. Sarabande"
+    },
+    {
+     "id": "5d4c19b7-2e74-3581-b45c-ef514e9b8f55",
+     "title": "Partita no. 1 in B-flat major, BWV 825: V. Menuet I"
+    },
+    {
+     "id": "19b3911b-5a27-357d-9229-743ac1fd3970",
+     "title": "Partita no. 1 in B-flat major, BWV 825: VI. Menuet II"
+    },
+    {
+     "id": "95487701-59a8-3157-95a8-950a722fe67a",
+     "title": "Partita no. 1 in B-flat major, BWV 825: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "826",
+   "id": "24e90057-a120-4d28-af83-fb8236c45982",
+   "candidates": [
+    {
+     "id": "e22033e6-746c-4529-a57f-bcc25b9e2bc1",
+     "title": "Partita no. 2 in C minor, BWV 826"
+    },
+    {
+     "id": "24e90057-a120-4d28-af83-fb8236c45982",
+     "title": "Partita no. 2 in C minor, BWV 826"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Partita no. 2 in C minor, BWV 826",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "710e0c88-bb6e-3d99-91ce-f702ffb8b5a2",
+     "title": "Partita no. 2 in C minor, BWV 826: I. Sinfonia"
+    },
+    {
+     "id": "dd3008aa-a67d-3b84-a3dd-49c0cdb8b533",
+     "title": "Partita no. 2 in C minor, BWV 826: II. Allemande"
+    },
+    {
+     "id": "30b5f154-64f2-3baa-ba72-f0a43be8be4d",
+     "title": "Partita no. 2 in C minor, BWV 826: III. Courante"
+    },
+    {
+     "id": "158b18f6-e5fc-3985-aca3-014e343b51da",
+     "title": "Partita no. 2 in C minor, BWV 826: IV. Sarabande"
+    },
+    {
+     "id": "480d2f6e-2af7-3d77-9018-02acc8876c81",
+     "title": "Partita no. 2 in C minor, BWV 826: V. Rondeaux"
+    },
+    {
+     "id": "ab3c95de-9c1c-3a34-80db-2bfdab08b70f",
+     "title": "Partita no. 2 in C minor, BWV 826: VI. Capriccio"
+    }
+   ]
+  },
+  {
+   "bwv": "827",
+   "id": "55ab379b-1a4c-4d31-9ed0-e60b4787a79b",
+   "candidates": [
+    {
+     "id": "55ab379b-1a4c-4d31-9ed0-e60b4787a79b",
+     "title": "Partita no. 3 in A minor, BWV 827"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Partita no. 3 in A minor, BWV 827",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "1653af2e-a3e7-34a8-80ad-39d04f72e32a",
+     "title": "Partita no. 3 in A minor, BWV 827: I. Fantaisie"
+    },
+    {
+     "id": "b0b195aa-ad0e-3806-85db-9449621c0a9a",
+     "title": "Partita no. 3 in A minor, BWV 827: II. Allemande"
+    },
+    {
+     "id": "c40adbcb-446f-309d-a301-ef096fbbc77d",
+     "title": "Partita no. 3 in A minor, BWV 827: III. Courante"
+    },
+    {
+     "id": "54b3315d-d9a6-3c95-8697-6aec58a36eff",
+     "title": "Partita no. 3 in A minor, BWV 827: IV. Sarabande"
+    },
+    {
+     "id": "765c7ac2-2ead-3fc0-9a4a-84f555fa65be",
+     "title": "Partita no. 3 in A minor, BWV 827: V. Burlesca"
+    },
+    {
+     "id": "9fc89758-80c6-32f4-a375-d4af79d09c5a",
+     "title": "Partita no. 3 in A minor, BWV 827: VI. Scherzo"
+    },
+    {
+     "id": "007b4ca8-dfff-38ba-91e4-9a03542dfb70",
+     "title": "Partita no. 3 in A minor, BWV 827: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "828",
+   "id": "d8f36fa6-3653-41b6-97f2-5d3378fc5bb1",
+   "candidates": [
+    {
+     "id": "d8f36fa6-3653-41b6-97f2-5d3378fc5bb1",
+     "title": "Partita no. 4 in D major, BWV 828"
+    },
+    {
+     "id": "8d3f0c71-67ae-4b13-9211-190dc3e10bfa",
+     "title": "Partita no. 4 in D major, BWV 828"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Partita no. 4 in D major, BWV 828",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "94d09282-0a94-32ea-b6d2-c4330314bff4",
+     "title": "Partita no. 4 in D major, BWV 828: I. Overture"
+    },
+    {
+     "id": "f23f09ce-b75e-3a06-a028-411b9f9f7996",
+     "title": "Partita no. 4 in D major, BWV 828: II. Allemande"
+    },
+    {
+     "id": "19375cd3-5355-33ee-85b7-77a187b4e5c7",
+     "title": "Partita no. 4 in D major, BWV 828: III. Courante"
+    },
+    {
+     "id": "143d33e7-9bd7-3c6b-92b6-bbfaa49c5576",
+     "title": "Partita no. 4 in D major, BWV 828: IV. Aria"
+    },
+    {
+     "id": "43bc6928-5f06-3f54-8a96-1e098ca80fa7",
+     "title": "Partita no. 4 in D major, BWV 828: V. Sarabande"
+    },
+    {
+     "id": "da7f5a7c-3002-3ea3-ac8d-b9967c66a1d5",
+     "title": "Partita no. 4 in D major, BWV 828: VI. Menuet"
+    },
+    {
+     "id": "2c2b8ac8-5653-383e-a626-0f43f51c9b98",
+     "title": "Partita no. 4 in D major, BWV 828: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "829",
+   "id": "10b0f6d8-acc5-46c8-8a5a-96077b790e77",
+   "candidates": [
+    {
+     "id": "10b0f6d8-acc5-46c8-8a5a-96077b790e77",
+     "title": "Partita no. 5 in G major, BWV 829"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Partita no. 5 in G major, BWV 829",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "3c93dd4b-038f-3c09-a793-78bef9e4c42b",
+     "title": "Partita no. 5 in G major, BWV 829: I. Praeambulum"
+    },
+    {
+     "id": "e961a3c0-f1a9-307c-b0a8-dd011706f63c",
+     "title": "Partita no. 5 in G major, BWV 829: II. Allemande"
+    },
+    {
+     "id": "42398554-776c-36d4-9437-64b02ff1ab68",
+     "title": "Partita no. 5 in G major, BWV 829: III. Courante"
+    },
+    {
+     "id": "86ec3918-2bd9-36c7-8f36-d55b4831da4a",
+     "title": "Partita no. 5 in G major, BWV 829: IV. Sarabande"
+    },
+    {
+     "id": "db5fc006-4c8e-373f-b3ed-d9a1e3b1c5e2",
+     "title": "Partita no. 5 in G major, BWV 829: V. Tempo di Minuetto"
+    },
+    {
+     "id": "40fb8ba8-e1db-3fe8-be28-cc4684063462",
+     "title": "Partita no. 5 in G major, BWV 829: VI. Passepied"
+    },
+    {
+     "id": "ce1ab85c-ea95-3989-b727-9f3068cbe555",
+     "title": "Partita no. 5 in G major, BWV 829: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "830",
+   "id": "13f9f078-8ce3-4b66-be68-7b6815d4fa08",
+   "candidates": [
+    {
+     "id": "13f9f078-8ce3-4b66-be68-7b6815d4fa08",
+     "title": "Partita no. 6 in E minor, BWV 830"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Partita no. 6 in E minor, BWV 830",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "801c3afb-f8be-3993-81b7-27b555957d76",
+     "title": "Partita no. 6 in E minor, BWV 830: I. Toccata"
+    },
+    {
+     "id": "8f541d61-4bc3-39c0-9771-009dc83989d6",
+     "title": "Partita no. 6 in E minor, BWV 830: II. Allemande"
+    },
+    {
+     "id": "ef4ba836-8b28-3a68-aad8-c16cb2b686d5",
+     "title": "Partita no. 6 in E minor, BWV 830: III. Courante"
+    },
+    {
+     "id": "96990ba9-4819-3268-86d2-a5a5b0e2fe7b",
+     "title": "Partita no. 6 in E minor, BWV 830: IV. Air"
+    },
+    {
+     "id": "1c9d29f3-8aaa-3355-a84b-d69d73f23c43",
+     "title": "Partita no. 6 in E minor, BWV 830: V. Sarabande"
+    },
+    {
+     "id": "e06db868-f253-36fc-aba7-f5bd4c20ab8e",
+     "title": "Partita no. 6 in E minor, BWV 830: VI. Tempo di Gavotta"
+    },
+    {
+     "id": "2c166786-f471-35f2-8242-c80dff0b384c",
+     "title": "Partita no. 6 in E minor, BWV 830: VII. Gigue"
+    }
+   ]
+  }
+ ]
+}
