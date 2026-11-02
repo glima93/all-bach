@@ -1,0 +1,30 @@
+id: yuan-sheng-undated
+performers:
+- name: Yuan Sheng
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: 中山公园音乐堂
+released: 2019
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b50a1bf2-d068-4e6f-8532-29d92efe2568
+  title: French Suites
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9dbb90f9-fb3b-4a09-b791-89e2164ba0ea
+  recordings: [b4582f2f-de74-4821-a089-c285e393b183]

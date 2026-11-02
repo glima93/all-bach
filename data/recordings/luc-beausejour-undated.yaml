@@ -1,0 +1,27 @@
+id: luc-beausejour-undated
+performers:
+- name: Luc Beauséjour
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Église Saint-Augustin
+released: 1996
+original_label: null
+works:
+- {bwv: '813', complete: false, movements: [I. Allemande, II. Courante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4415508f-ab5c-4f73-8d10-f24482bc1e8d
+  title: Little Notebook for Anna Magdalena Bach (Selections)
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dd7c23ca-0b08-4d55-a333-b6538fcb074c
+  recordings: [d411dfc7-b55c-4dba-a7c5-681963affc13]

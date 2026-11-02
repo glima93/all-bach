@@ -1,0 +1,26 @@
+id: francesco-corti-2017
+performers:
+- name: Francesco Corti
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Huis Bartolotti
+released: null
+original_label: null
+works:
+- {bwv: '816', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/a0d2b6a4-ac52-413b-846b-5ec82adb5c5b
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 7799a6f1-22c9-482c-b56a-37390254c4d1
+  recordings: [a0d2b6a4-ac52-413b-846b-5ec82adb5c5b]

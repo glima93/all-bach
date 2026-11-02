@@ -1,0 +1,32 @@
+id: christoph-ullrich-undated
+performers:
+- name: Christoph Ullrich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: false, movements: [I. Allemande, II. Courante, IV. Gavotte, V. Polonaise, VI. Menuet, VII.
+      Bourrée, VIII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/27ed970b-0809-4660-bdd9-7f32d967ffab
+  title: French Suites BWV 813-817
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f6d24af9-d539-40c4-9c8b-7ed31886d6e1
+  recordings: [f95d9ed3-c56c-4538-8635-4722d2cbc781]

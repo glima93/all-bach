@@ -1,0 +1,26 @@
+id: ingrid-haebler-1982
+performers:
+- name: Ingrid Haebler
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1982]
+  place: Concertgebouw
+released: 1998
+original_label: null
+works:
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/777a6ed8-b575-4ad2-a96a-911725f854cf
+  title: 'Great Pianists of the 20th Century, Volume 42: Ingrid Haebler'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 582c676f-48ad-4d6a-aed4-d2b87230b3b4
+  recordings: [c78560dd-7084-4faf-ab7c-f8d66d7482bd]

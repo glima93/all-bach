@@ -1,0 +1,26 @@
+id: bruce-liu-2021
+performers:
+- name: Bruce Liu
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2021]
+  place: Teldex Studio
+released: 2023
+original_label: null
+works:
+- {bwv: '816', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92138740-5cc8-49cf-9d4f-e12f1c88779a
+  title: French Suite No. 5, BWV 816
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dcd368fa-3433-457f-9cd1-636f33d8b1f1
+  recordings: [76b3f8b4-94e7-44ac-88ee-ce6fff8a3099]

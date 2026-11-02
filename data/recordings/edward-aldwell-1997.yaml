@@ -1,0 +1,29 @@
+id: edward-aldwell-1997
+performers:
+- name: Edward Aldwell
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1997]
+  place: The American Academy of Arts and Letters
+released: 2000
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2f719d29-f06e-4b6c-aa87-6e6845536ed0
+  title: Französische Suiten, BWV 812–817
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f2ec1cc5-394e-4fc9-bd28-cdaab1b4b670
+  recordings: [d0c90cec-3898-4009-8a1a-27f16b4793f2]

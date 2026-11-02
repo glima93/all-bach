@@ -1,0 +1,31 @@
+id: misha-alperin-undated
+performers:
+- name: Misha Alperin
+  role: performer
+- name: Mikhail Rudy
+  role: performer
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '813', complete: false, movements: [I. Allemande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f910c006-ca80-4262-b9b3-1e72f5ecc65b
+  title: 'Gramophone Editor''s Choice (The Top Ten Discs): October 2004'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38a2d94b-69e6-4700-879a-ade66459d0f6
+  recordings: [7d97d800-1a59-4f89-8422-5e2465d97c50]

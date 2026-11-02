@@ -1,0 +1,28 @@
+id: michelle-beauchesne-undated
+performers:
+- name: Michelle Beauchesne
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Coyote Road Studios
+released: 2009
+original_label: null
+works:
+- {bwv: '816', complete: false, movements: [IV. Gavotte]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bfb05541-768a-4a24-ad28-ce96545f74c7
+  title: Dolce
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 215fa157-8c70-4b43-bd17-0f60e02f7399
+  recordings: [ad6c5bf0-47d2-4017-914a-75275b1e2009]

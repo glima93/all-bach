@@ -1,0 +1,26 @@
+id: trevor-pinnock-2014
+performers:
+- name: Trevor Pinnock
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: 'University of Kent: Colyer-Fergusson Hall'
+released: 2016
+original_label: null
+works:
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d08b2e46-38b2-4d39-9a37-43de80e01b87
+  title: 'Journey: Two Hundred Years of Harpsichord Music'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 66d97594-15fd-49b9-8359-0c014dbe8719
+  recordings: [07f0b67b-9a81-41eb-bef2-2dea19b8b97e]

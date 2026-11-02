@@ -1,0 +1,28 @@
+id: diane-hidy-undated-2
+performers:
+- name: Diane Hidy
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8010b7bf-01fa-4c6b-805d-f2e9efd77367
+  title: 'Keith Snell Piano Repertoire: Level 10'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 57586d5a-0bc2-45c9-a446-f60de358a593
+  recordings: [31ea0c39-dfed-4ab2-8cc3-1d16600f01fc]

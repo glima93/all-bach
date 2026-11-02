@@ -1,0 +1,188 @@
+{
+ "collection": "french-suites",
+ "taken": "2026-10-31",
+ "recordings": 1798,
+ "performances": 152,
+ "works": [
+  {
+   "bwv": "813",
+   "id": "a6e7fc03-32e4-4266-bc00-174b229eb6db",
+   "candidates": [
+    {
+     "id": "a6e7fc03-32e4-4266-bc00-174b229eb6db",
+     "title": "Französische Suite Nr. 2 c-Moll, BWV 813"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Französische Suite Nr. 2 c-Moll, BWV 813",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "afbbf190-e842-32f3-b142-819e0db45ae3",
+     "title": "Französische Suite no. 2 c-Moll, BWV 813: I. Allemande"
+    },
+    {
+     "id": "0067ad61-c846-3c07-b3c0-f23d9b531c9a",
+     "title": "Französische Suite no. 2 c-Moll, BWV 813: II. Courante"
+    },
+    {
+     "id": "15288765-0ac3-3f3a-aba1-66d06033890f",
+     "title": "Französische Suite no. 2 c-Moll, BWV 813: III. Sarabande"
+    },
+    {
+     "id": "327322fe-b139-3951-be04-149588880ef3",
+     "title": "Französische Suite no. 2 c-Moll, BWV 813: IV. Air"
+    },
+    {
+     "id": "57a19c40-cc75-3d50-882e-95de47b6a016",
+     "title": "Französische Suite no. 2 c-Moll, BWV 813: V. Menuet I"
+    },
+    {
+     "id": "066a0e1e-8462-3dc1-9b11-df90860ab98e",
+     "title": "Französische Suite no. 2 c-Moll, BWV 813: VI. Menuet II"
+    },
+    {
+     "id": "5c48148f-e930-3d17-af5a-d5bf141fbcd6",
+     "title": "Französische Suite no. 2 c-Moll, BWV 813: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "814",
+   "id": "0ca4a46f-cae1-4fc8-b1a2-5d43748e9b9f",
+   "candidates": [
+    {
+     "id": "0ca4a46f-cae1-4fc8-b1a2-5d43748e9b9f",
+     "title": "Französische Suite Nr. 3 h-Moll, BWV 814"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Französische Suite Nr. 3 h-Moll, BWV 814",
+   "key": "B minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "58769e8b-078c-3962-8a4c-2514fd5df72a",
+     "title": "Französische Suite no. 3 h-Moll, BWV 814: I. Allemande"
+    },
+    {
+     "id": "c0a163a6-bfa2-34ad-b22a-bd6d4c646bef",
+     "title": "Französische Suite no. 3 h-Moll, BWV 814: II. Courante"
+    },
+    {
+     "id": "a119cc5e-a299-3cb0-a6b1-0dee296d1da2",
+     "title": "Französische Suite no. 3 h-Moll, BWV 814: III. Sarabande"
+    },
+    {
+     "id": "a7d29b93-00bf-3ff5-8e2c-41aadefd59f0",
+     "title": "Französische Suite no. 3 h-Moll, BWV 814: IV. Anglaise"
+    },
+    {
+     "id": "7cc1ba9b-0d2f-3b63-bfb3-1ce22ecb80a8",
+     "title": "Französische Suite no. 3 h-Moll, BWV 814: V. Menuet I"
+    },
+    {
+     "id": "0ef1e9ee-82eb-3605-b8b6-5ddaa6adcf15",
+     "title": "Französische Suite no. 3 h-Moll, BWV 814: VI. Menuet II - Menuet I da capo"
+    },
+    {
+     "id": "c70bea0c-b9b2-3ee6-9895-35c4d11cf4b3",
+     "title": "Französische Suite no. 3 h-Moll, BWV 814: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "816",
+   "id": "01d06139-946b-41bc-8527-9a7aed416def",
+   "candidates": [
+    {
+     "id": "01d06139-946b-41bc-8527-9a7aed416def",
+     "title": "Französische Suite Nr. 5 G-dur, BWV 816"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Französische Suite Nr. 5 G-dur, BWV 816",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "93c64f79-62f6-3d08-b089-dca9cd9a7855",
+     "title": "Französische Suite Nr. 5 G-dur, BWV 816: I. Allemande"
+    },
+    {
+     "id": "7a28816a-7b3b-3a74-bc46-9192f7ee7319",
+     "title": "Französische Suite Nr. 5 G-dur, BWV 816: II. Courante"
+    },
+    {
+     "id": "c5941fc9-4909-3c42-8bdb-7be1af2089b1",
+     "title": "Französische Suite Nr. 5 G-dur, BWV 816: III. Sarabande"
+    },
+    {
+     "id": "03d00de3-ccc7-304c-acb8-4341f1ea141f",
+     "title": "Französische Suite Nr. 5 G-dur, BWV 816: IV. Gavotte"
+    },
+    {
+     "id": "afed930f-375f-36cf-b522-50d222131fb1",
+     "title": "Französische Suite Nr. 5 G-dur, BWV 816: V. Bourrée"
+    },
+    {
+     "id": "3c330db8-cff8-3666-9f87-7de533043d6c",
+     "title": "Französische Suite Nr. 5 G-dur, BWV 816: VI. Loure"
+    },
+    {
+     "id": "08aead30-41f7-3b30-a668-38add709c9ce",
+     "title": "Französische Suite Nr. 5 G-dur, BWV 816: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "817",
+   "id": "f8e6646a-360b-4b33-9889-1c20919a34e2",
+   "candidates": [
+    {
+     "id": "f8e6646a-360b-4b33-9889-1c20919a34e2",
+     "title": "Französische Suite Nr. 6 E-dur, BWV 817"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Französische Suite Nr. 6 E-dur, BWV 817",
+   "key": "E major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "a9f9cbb2-4077-396a-8e64-675c4aaa7cef",
+     "title": "French Suite no. 6 in E major, BWV 817: I. Allemande"
+    },
+    {
+     "id": "0af9bc7b-39ce-3109-8249-d4bcdc49216d",
+     "title": "French Suite no. 6 in E major, BWV 817: II. Courante"
+    },
+    {
+     "id": "7e77e346-b6bd-30ac-b2ae-7bcc83ec4fc1",
+     "title": "French Suite no. 6 in E major, BWV 817: III. Sarabande"
+    },
+    {
+     "id": "90f3c67a-528d-36ec-917b-26a9feee0957",
+     "title": "French Suite no. 6 in E major, BWV 817: IV. Gavotte"
+    },
+    {
+     "id": "c6632594-2267-3230-8ef0-2fb4a5ad17fb",
+     "title": "French Suite no. 6 in E major, BWV 817: V. Polonaise"
+    },
+    {
+     "id": "d8a68c73-ef63-3f28-9786-44a03324a0e4",
+     "title": "French Suite no. 6 in E major, BWV 817: VI. Menuett"
+    },
+    {
+     "id": "6119f93a-d4fe-3711-81b9-439acdc767b8",
+     "title": "French Suite no. 6 in E major, BWV 817: VII. Bourrée"
+    },
+    {
+     "id": "a500b14f-177c-3d8a-9122-a36bf11ef867",
+     "title": "French Suite no. 6 in E major, BWV 817: VIII. Gigue"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+id: francesco-tristano-2010
+performers:
+- name: Francesco Tristano
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2010]
+  place: Teldex Studio
+released: 2011
+original_label: null
+works:
+- {bwv: '813', complete: false, movements: [VI. Menuet II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dd824a40-72b4-40ec-a384-16a09473d75a
+  title: bachCage
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2de59ca-07b1-431f-b946-e3e5421ede63
+  recordings: [5b44b60a-e7f2-4c54-98d3-e740f2088870]

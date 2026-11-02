@@ -1,0 +1,27 @@
+id: vassily-primakov-2008
+performers:
+- name: Vassily Primakov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '813', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eadabcbd-3335-40a7-92a3-1a04bcb86fcd
+  title: Primakov in Concert, Vol. 2
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 311c5ab1-bb4b-4da5-9f48-eb218563523e
+  recordings: [816a3488-60ba-40a1-a486-3de566d28387]

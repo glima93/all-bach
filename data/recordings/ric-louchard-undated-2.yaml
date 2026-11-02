@@ -1,0 +1,29 @@
+id: ric-louchard-undated-2
+performers:
+- name: Ric Louchard
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '814', complete: false, movements: [III. Sarabande]}
+- {bwv: '816', complete: false, movements: [III. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b253471c-12ce-447e-9bba-477b237b3f7c
+  title: G'night Wolfgang
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 189d4fb5-6f34-4fe1-96a3-bfe6934ceca9
+  recordings: [f55d2f76-12e8-4a33-90d8-ad85cf7c7388]

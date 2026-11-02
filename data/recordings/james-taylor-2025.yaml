@@ -1,0 +1,27 @@
+id: james-taylor-2025
+performers:
+- name: James Taylor
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2025]
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '816', complete: false, movements: [IV. Gavotte]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a3cb0bf1-7c2a-4e27-9ee6-debc54d60728
+  title: Shadows and Dreams
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6928a49a-327e-4461-b6d0-86507ddb7e97
+  recordings: [6ce6fb17-9819-44ee-b9a8-0fec1bd8a2a4]

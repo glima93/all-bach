@@ -1,0 +1,28 @@
+id: artist-d26d92a1-undated
+performers:
+- name: Андрей Волконский
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1962
+original_label: null
+works:
+- {bwv: '816', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4dcc50d4-3d84-4ba4-8c9d-1726b031fcc1
+  title: 'Бах: Французская сюита / Фрескобальди: Пассакалия / Партита / Две фуги'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d26d92a1-1402-45bc-8e9e-ddab1e207c51
+  recordings: [ea3534d2-99e4-4df6-9856-4403ec1fcd83]

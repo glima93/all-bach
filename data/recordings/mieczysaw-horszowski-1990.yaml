@@ -1,0 +1,27 @@
+id: mieczysaw-horszowski-1990
+performers:
+- name: Mieczysław Horszowski
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1990]
+  place: Wigmore Hall
+released: 2003
+original_label: null
+works:
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6045d4ad-6439-410c-9d8a-ac7d32c56fef
+  title: 'Bach: French Suite no. 6 / Beethoven: Piano Sonata no. 6 / Chopin: Nocturne in E-flat / Waltz in C-sharp
+    minor / Schumann: Träumerei'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 37cd67d1-a786-4f5c-b91b-14f93b90ca04
+  recordings: [19cc6bc9-fc8b-4cf3-b8b1-773efd35ba1b]

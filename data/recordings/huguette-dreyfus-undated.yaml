@@ -1,0 +1,27 @@
+id: huguette-dreyfus-undated
+performers:
+- name: Huguette Dreyfus
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Christuskirche - Église protestante allemande à Paris
+released: 2018
+original_label: null
+works:
+- {bwv: '816', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a69af194-3fc4-44eb-92a0-402422470e42
+  recordings: [17603a0c-a767-47cd-8a6c-9a1c0cef89c8]

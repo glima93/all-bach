@@ -1,0 +1,21 @@
+bwv: "817"
+title: "French Suite No. 6"
+key: "E major"
+collection: "French Suites"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1722–1725; not in the 1722 Clavier-Büchlein (though pages are missing from it); earliest copies from c. 1725"
+movements:
+  - "I. Allemande"
+  - "II. Courante"
+  - "III. Sarabande"
+  - "IV. Gavotte"
+  - "V. Polonaise"
+  - "VI. Menuet"
+  - "VII. Bourrée"
+  - "VIII. Gigue"
+notes: "One copy (Gerber) transmits it with a prelude taken from the Well-Tempered Clavier (BWV 854/1), and copies differ on the position of the minuet. The name \"French\" is not Bach's: it first appears in Marpurg (1762)."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/French_Suites_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f8e6646a-360b-4b33-9889-1c20919a34e2

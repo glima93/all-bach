@@ -1,0 +1,26 @@
+id: james-rhodes-2008
+performers:
+- name: James Rhodes
+  role: grand piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: Potton Hall
+released: 2009
+original_label: null
+works:
+- {bwv: '816', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7ea32e8e-9b10-4eab-a9cf-cee9b6b8e15b
+  title: Razor Blades, Little Pills, Big Pianos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f5e8231e-7ff0-4049-9ac0-93c8a8d5d6f6
+  recordings: [7a01f2f9-1890-4b79-aa27-b624e44b74f5]

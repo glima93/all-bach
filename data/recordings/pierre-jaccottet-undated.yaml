@@ -1,0 +1,29 @@
+id: pierre-jaccottet-undated
+performers:
+- name: Pierre Jaccottet
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/990a3485-14c4-4d64-957c-96fad95a0ce5
+  title: Partita no. 5 / Suite Francaise no. 5 & 6 / 7 Petits Preludes
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df05735e-0d81-4feb-8d12-7883f1d32acd
+  recordings: [47a9673c-31f3-4c73-99f9-04417023b05e]

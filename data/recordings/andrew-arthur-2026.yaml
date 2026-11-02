@@ -1,0 +1,30 @@
+id: andrew-arthur-2026
+performers:
+- name: Andrew Arthur
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2026]
+  place: Trinity Hall Chapel
+released: 2026
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: false, movements: [I. Allemande, II. Courante, III. Sarabande, IV. Anglaise, V. Menuet
+      I, VI. Menuet II - Menuet I da capo]}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/00459ab3-8dfb-41dc-96e6-723a812eedd2
+  title: French Suites, BWV 812-817
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a75134ea-1fde-478a-b705-acc6f5e4678d
+  recordings: [e3f7300a-feab-4a50-88e6-d1ceaf1d1c8f]

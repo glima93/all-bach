@@ -1,0 +1,29 @@
+id: keith-jarrett-1991
+performers:
+- name: Keith Jarrett
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1991]
+  place: Cavelight Studio
+released: 1993
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aee8d1e0-efc7-44b7-85e0-1b5bf6d650f0
+  title: The French Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 061c4920-3ea6-4835-98f6-02f3b82f5e3a
+  recordings: [4f82ff85-a06e-490b-8acc-e77d4bb3fd4d]

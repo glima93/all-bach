@@ -1,0 +1,29 @@
+id: pieter-jan-belder-2006
+performers:
+- name: Pieter-Jan Belder
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: Doopsgezinde kerk
+released: 2014
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5582b212-aea7-4355-8c4c-531ed438e5fc
+  title: Complete Edition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ac46c3a-f0ca-48b0-b729-f6a40d1b80e1
+  recordings: [0e4b0def-c11f-412d-9385-ff01daef04dd]

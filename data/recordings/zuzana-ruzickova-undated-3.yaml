@@ -1,0 +1,31 @@
+id: zuzana-ruzickova-undated-3
+performers:
+- name: Zuzana Růžičková
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '813', complete: true}
+- {bwv: '814', complete: true}
+- {bwv: '816', complete: true}
+- {bwv: '817', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6fb2f17-86f5-4dd2-a323-2ef09b875d21
+  title: The Complete Keyboard Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a0c08260-98d0-4d6c-848d-29c92ba0babf
+  recordings: [f7d3d33e-6351-48d2-a820-b1e9683d2e26]
