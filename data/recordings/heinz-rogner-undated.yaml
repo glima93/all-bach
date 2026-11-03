@@ -1,0 +1,28 @@
+id: heinz-rogner-undated
+performers:
+- name: Heinz Rögner
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '825', complete: false, movements: [VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d2cfb916-939e-4831-a390-b7a7c265db26
+  title: Classic Piano
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0258b62e-6de2-43ee-89b8-29caa7c3fb41
+  recordings: [cd0d15cb-1188-4dab-9b44-3cf5cc39228a]

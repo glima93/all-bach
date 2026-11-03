@@ -1,0 +1,20 @@
+bwv: "830"
+title: "Partita No. 6"
+key: "E minor"
+collection: "Partitas (Clavier-Übung I)"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Leipzig; early version by 1725 (1725 Notebook for Anna Magdalena Bach); published separately in 1730, collected in Clavier-Übung I, Op. 1 (1731)"
+movements:
+  - "I. Toccata"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Air"
+  - "V. Sarabande"
+  - "VI. Tempo di Gavotta"
+  - "VII. Gigue"
+notes: "An earlier version follows the A minor partita in the 1725 Notebook for Anna Magdalena Bach. The opening Toccata frames a central fugue."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Partitas_for_keyboard_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/13f9f078-8ce3-4b66-be68-7b6815d4fa08

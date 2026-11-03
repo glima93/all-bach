@@ -1,0 +1,27 @@
+id: elsie-hall-1936
+performers:
+- name: Elsie Hall
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1936]
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '826', complete: false, movements: [III. Courante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a93b0ad-c403-4a5e-8ba6-3dcd6dbac6d0
+  title: 'Landmarks of Recorded Pianism: Volume 3'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 305eef69-8b01-4e4c-aa63-470981d360f7
+  recordings: [6e2b480e-6848-409a-9439-86f42178ae22]

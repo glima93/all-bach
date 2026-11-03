@@ -1,0 +1,31 @@
+id: rosalyn-tureck-1956
+performers:
+- name: Rosalyn Tureck
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1956]
+  place: Abbey Road Studios
+released: 1998
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/65bb15b6-4e1b-4b51-a904-085e48d6830c
+  title: 'Great Pianists of the 20th Century, Volume 93: Rosalyn Tureck'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e102c96-3536-4ff9-ac29-d189eed65dc9
+  recordings: [d74d9f58-63dd-49b1-8a8d-a5e2620b6797]

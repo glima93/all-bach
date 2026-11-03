@@ -1,0 +1,33 @@
+id: ton-koopman-undated-2
+performers:
+- name: Ton Koopman
+  role: performer
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4443135b-64da-4ba7-b9d4-bd636cc74373
+  title: 'J.S. Bach: Six Partitas for harpsichord (Clavier Übung I) BWV 825-830'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [fb7c20b8-2d80-45fd-bc95-2f568e7be662]

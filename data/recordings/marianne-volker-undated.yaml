@@ -1,0 +1,28 @@
+id: marianne-volker-undated
+performers:
+- name: Marianne Volker
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a346ba55-7665-4eb1-9a88-9164207968f9
+  title: Works for Piano
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1bfe26d0-643c-40e1-91da-5625ef23334b
+  recordings: [45506c16-107a-4512-9bde-bfc418ff8c29]

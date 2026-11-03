@@ -1,0 +1,29 @@
+id: anne-queffelec-undated-2
+performers:
+- name: Anne Queffélec
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '826', complete: true}
+- {bwv: '829', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6373bdea-0efa-49b6-981a-929ade59b9f0
+  title: The Complete Erato Recordings
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b49797fb-7cc9-4eae-ad94-3872818ed281
+  recordings: [eba91d27-a222-4b11-8e20-526460865d5d]

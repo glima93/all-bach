@@ -1,0 +1,20 @@
+bwv: "825"
+title: "Partita No. 1"
+key: "B-flat major"
+collection: "Partitas (Clavier-Übung I)"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Leipzig; published separately in 1726, collected in Clavier-Übung I, Op. 1 (1731)"
+movements:
+  - "I. Prelude"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Sarabande"
+  - "V. Menuet I"
+  - "VI. Menuet II"
+  - "VII. Gigue"
+notes: "The first keyboard work Bach published himself, issued in 1726 as the first instalment of the series he later gathered as his Opus 1."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Partitas_for_keyboard_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/ddd67114-e7d5-4b79-bffc-38d6e9ea4ca9

@@ -1,0 +1,28 @@
+id: william-kapell-1952
+performers:
+- name: William Kapell
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1952, 1953]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '828', complete: false, movements: [I. Overture, II. Allemande, III. Courante, IV. Aria, V. Sarabande, VI.
+      Menuet]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/014b920c-0572-49a6-8700-8b49bd1ab3d0
+  title: William Kapell Edition
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 79f8d39b-835c-4361-92e4-9217ad528d4f
+  recordings: [1d75c854-ca36-4347-ab43-c3509dbbe67f]

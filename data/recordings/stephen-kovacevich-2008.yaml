@@ -1,0 +1,26 @@
+id: stephen-kovacevich-2008
+performers:
+- name: Stephen Kovacevich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: Wyastone Concert Hall
+released: 2009
+original_label: null
+works:
+- {bwv: '828', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf13566b-7454-4f02-8801-8402fed2f7b8
+  title: 'Beethoven: Diabelli Variations / Bach: Partita No. 4'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93ac8db5-86d0-47c7-b7fe-df05a421f07b
+  recordings: [0c1b63a0-6c6a-4073-812e-d460ade10b04]

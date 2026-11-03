@@ -1,0 +1,31 @@
+id: paul-badura-skoda-1986
+performers:
+- name: Paul Badura‐Skoda
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1986]
+  place: Casino Baumgarten
+released: 1987
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5afbac70-974c-44bc-98e8-7dc0c34eff8e
+  title: Clavier Übung I Six Partite BWV 825-830
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ba7e4f58-e926-4b18-ab32-d36f8f08c2ff
+  recordings: [88b57bb1-f0cf-43db-b73a-94b2322004a3]

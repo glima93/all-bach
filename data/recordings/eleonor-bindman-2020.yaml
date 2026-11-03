@@ -1,0 +1,31 @@
+id: eleonor-bindman-2020
+performers:
+- name: Eleonor Bindman
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020, 2021]
+  place: President Street Studios
+released: 2022
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/58100d7c-3666-4124-8a39-fce792842748
+  title: Partitas, BWV 825-830
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c1ae12ff-3afb-4693-9071-40086d8ff38f
+  recordings: [93b0ca1d-36e8-44b0-88c0-d710734a4ac9]

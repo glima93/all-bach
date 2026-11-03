@@ -1,0 +1,27 @@
+id: jill-crossland-2003-2
+performers:
+- name: Jill Crossland
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2003]
+  place: The Old Granary Studio
+released: 2021
+original_label: null
+works:
+- {bwv: '825', complete: false, movements: [I. Prelude, II. Allemande, IV. Sarabande, V. Menuet I, VI. Menuet II,
+    VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/34a0cd83-0e19-4d00-98d0-70731d30e075
+  title: Keyboard Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8da5e1bd-68b2-4148-a60c-387c5445fec0
+  recordings: [1380dda5-7014-4cdc-bb40-4e96a8c5c5d3]

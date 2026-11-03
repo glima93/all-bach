@@ -1,0 +1,30 @@
+id: edna-stern-undated-2
+performers:
+- name: Edna Stern
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c085aeb4-d890-4696-8fca-5c68ca1521bc
+  title: 'Me-Su-Bach: Partitas Nos. 1, 2 & 6'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dbdc6775-ddac-4380-9dea-cab8527991e0
+  recordings: [58a68af7-5410-40a3-b1a1-e4ec3c2364f6]

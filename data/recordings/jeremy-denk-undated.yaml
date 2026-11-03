@@ -1,0 +1,29 @@
+id: jeremy-denk-undated
+performers:
+- name: Jeremy Denk
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: The American Academy of Arts and Letters
+released: 2011
+original_label: null
+works:
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8db1149b-1ecb-4264-9323-4f644d21f6af
+  title: Partitas 3, 4 & 6
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 71987909-1c14-4761-ae93-502df99eec41
+  recordings: [e19a63f5-6db5-4619-af99-54df75369aa4]

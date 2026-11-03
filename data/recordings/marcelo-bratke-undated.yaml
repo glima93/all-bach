@@ -1,0 +1,28 @@
+id: marcelo-bratke-undated
+performers:
+- name: Marcelo Bratke
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30b25bc3-c848-470b-914b-e8da1788aefa
+  title: 'Bach: Partita No. 1, BWV 825 / Schubert: Improvisos / Nazareth'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1e252a30-e4b2-445d-970e-52623824fd7d
+  recordings: [f3dafddf-e321-4796-9552-ead6ca2ef67e]

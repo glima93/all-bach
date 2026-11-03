@@ -1,0 +1,31 @@
+id: celine-frisch-2024
+performers:
+- name: Céline Frisch
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2024]
+  place: Archivio di Stato di Torino
+released: 2025
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d6ba8295-f325-427b-8b49-3550f2cf81c7
+  title: Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d277acb9-771c-4bb4-9c1b-802128e93df1
+  recordings: [8bd00d7c-885a-4924-803c-ab61e100d14f]

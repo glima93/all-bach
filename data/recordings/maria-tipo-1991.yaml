@@ -1,0 +1,31 @@
+id: maria-tipo-1991
+performers:
+- name: Maria Tipo
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1991, 1992]
+  place: Académie Diplomatique Internationale
+released: 1992
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/38100adb-5e3e-4bcf-94bd-7817b51684f3
+  title: Partitas 1 - 2 - 4
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 281626b4-a02c-46dc-a1f7-240c5510286c
+  recordings: [f5743212-6964-4c57-9f18-8f6042ff334b]

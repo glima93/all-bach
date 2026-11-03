@@ -1,0 +1,32 @@
+id: igor-kipnis-1977
+performers:
+- name: Igor Kipnis
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1977]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/21a350c9-e23b-46f2-8056-2b92b1a5849a
+  title: Solo Partitas Nos. 1, 2 & 4
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 54a49aee-7eb5-4676-afdb-0e6f3e974bc9
+  recordings: [674c8054-4898-4e00-b4b2-ea900cd2fb7b]

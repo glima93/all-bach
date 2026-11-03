@@ -1,0 +1,31 @@
+id: charles-owen-2015
+performers:
+- name: Charles Owen
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2015, 2016]
+  place: The Menuhin Hall
+released: 2016
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1d4ede4-43ce-43df-ba5f-325095b522d6
+  title: The Six Keyboard Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdbcbfb7-0171-4c86-a432-671777ee17ed
+  recordings: [722d324c-4da5-4bc4-8ac0-27c961c377a9]

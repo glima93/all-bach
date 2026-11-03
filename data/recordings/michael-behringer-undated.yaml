@@ -1,0 +1,30 @@
+id: michael-behringer-undated
+performers:
+- name: Michael Behringer
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Pfarrkirche Mariä Krönung
+released: 2000
+original_label: null
+works:
+- {bwv: '827', complete: false, movements: [I. Fantaisie, II. Allemande, III. Courante, IV. Sarabande, V. Burlesca,
+    VII. Gigue]}
+- {bwv: '830', complete: false, movements: [I. Toccata, II. Allemande, III. Courante, V. Sarabande, VI. Tempo di
+      Gavotta, VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/444dfbaa-ca88-4787-8310-bc624f24cdce
+  title: Clavier‐Büchlein für Anna Magdalena Bach, 1725
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7f95286a-dd71-49db-896d-67dfb7c1b4a8
+  recordings: [95b9c096-e3a9-4d77-9262-05170f16cabc]

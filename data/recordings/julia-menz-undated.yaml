@@ -1,0 +1,28 @@
+id: julia-menz-undated
+performers:
+- name: Julia Menz
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '829', complete: false, movements: [I. Praeambulum]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2280486c-8342-4c0f-bc21-102aba3bc543
+  title: Great Virtuosi of the Harpsichord, Volume 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f9d76fe1-a778-4416-87e0-415d0383d904
+  recordings: [70ca65ae-4b70-49ae-8fa5-56506ea9e06d]

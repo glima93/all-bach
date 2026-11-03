@@ -1,0 +1,29 @@
+id: gustav-leonhardt-undated-4
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '828', complete: false, movements: [I. Overture]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c287d1ba-d76f-4756-991e-9d6bf33d35dc
+  title: 'Diapason : Les 100 Ténors'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [012c64c3-cbbe-4aae-8584-c55dcad7ccd6]

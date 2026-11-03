@@ -1,0 +1,26 @@
+id: federico-colli-2018
+performers:
+- name: Federico Colli
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2018]
+  place: Potton Hall
+released: 2019
+original_label: null
+works:
+- {bwv: '828', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7bb0a93-4cd2-4f5e-9735-67f91c71edac
+  title: 'Bach: Italian Concerto / Partita IV / Bach/Busoni: Chaconne'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7a58a476-c72c-4288-989e-cbb1377f5a3f
+  recordings: [5dba0221-5326-4e3d-b3b0-7ed8381ac8a7]

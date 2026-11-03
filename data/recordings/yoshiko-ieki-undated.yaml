@@ -1,0 +1,28 @@
+id: yoshiko-ieki-undated
+performers:
+- name: Yoshiko Ieki
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0c78fdb-657d-4a2d-9921-8cfcbb175cd2
+  title: 'Sweelinck, Couperin & Bach: Works for Harpsichord'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d133082e-46a2-4c31-9381-b40a0e48afc2
+  recordings: [842f73db-0137-4d6e-8307-dd74cd76b6c0]

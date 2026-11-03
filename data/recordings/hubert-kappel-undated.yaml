@@ -1,0 +1,29 @@
+id: hubert-kappel-undated
+performers:
+- name: Hubert Käppel
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '830', complete: false, movements: [II. Allemande, IV. Air, V. Sarabande, VI. Tempo di Gavotta, VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3e89029c-9d5e-495e-b18d-9dd9a66a31b4
+  title: Virtuoso Guitar Transcriptions
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3ebc2db4-b4b2-4fc0-8f10-5ff2a3c5dddf
+  recordings: [aeb98667-8fcc-48ab-86a4-00ec2254ffe5]

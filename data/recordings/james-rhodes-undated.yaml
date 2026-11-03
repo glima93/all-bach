@@ -1,0 +1,29 @@
+id: james-rhodes-undated
+performers:
+- name: James Rhodes
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/94ed70ed-ae52-4aef-8228-9e360ee95784
+  title: '5'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f5e8231e-7ff0-4049-9ac0-93c8a8d5d6f6
+  recordings: [2e20c013-fde8-4214-b525-d911582140a0]

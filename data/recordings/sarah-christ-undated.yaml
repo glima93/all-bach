@@ -1,0 +1,29 @@
+id: sarah-christ-undated
+performers:
+- name: Sarah Christ
+  role: harp
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2bd2ea5-b872-4f3d-b951-5839762b923b
+  title: 'Un Bal: Dances For Harp Solo'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on harp, solo.
+musicbrainz:
+  artist: 4550f77b-3880-4994-b148-5fbeb45dff81
+  recordings: [2182397d-7fcc-422b-bab3-e69c30844902]

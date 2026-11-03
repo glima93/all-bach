@@ -1,0 +1,31 @@
+id: wolfgang-rubsam-2020-2
+performers:
+- name: Wolfgang Rübsam
+  role: lautenwerck
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Immanuel Lutheran Church
+released: 2022
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1661002e-a70a-4f5a-99ab-51caf8455e81
+  title: Partitas, BWV 825–830
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [3f2935b1-88e3-452b-9c39-b9c492ee4d4b]

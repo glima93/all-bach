@@ -1,0 +1,31 @@
+id: martin-helmchen-2022
+performers:
+- name: Martin Helmchen
+  role: tangent piano
+instrument: fortepiano
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2022, 2023]
+  place: Haus des Rundfunks
+released: 2024
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/16e04dc7-2ed8-4e40-bef6-88682849a8a4
+  title: Six Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cc7cbd24-0d24-4bb8-b86a-8ebc48cffe71
+  recordings: [af8e16b1-e709-4612-ae5d-708177bde05f]

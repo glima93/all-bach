@@ -1,0 +1,28 @@
+id: racha-arodaky-2011
+performers:
+- name: Racha Arodaky
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2011]
+  place: Église luthérienne de Bon Secours
+released: 2011
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/96bb15f3-4689-4c44-96ae-3f7db979e662
+  title: Partitas N°1,2 & 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 89f7c0ee-1f1f-4a27-b368-d81e78e9aabd
+  recordings: [3b29540e-daf5-439b-9f30-5bfd410b0042]

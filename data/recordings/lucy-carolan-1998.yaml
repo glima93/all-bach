@@ -1,0 +1,31 @@
+id: lucy-carolan-1998
+performers:
+- name: Lucy Carolan
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Saint George’s, Bristol
+released: 1999
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a833fcf2-a027-4e95-8de2-7a1d9214df67
+  title: The Six Partitas, BWV 825-830
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f3e9058e-70a9-4310-87c1-2bace16dc68c
+  recordings: [e0f487f5-5c37-44e4-9cda-10b872f3fe60]

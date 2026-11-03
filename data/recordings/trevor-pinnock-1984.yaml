@@ -1,0 +1,31 @@
+id: trevor-pinnock-1984
+performers:
+- name: Trevor Pinnock
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: Clearwell Castle
+released: 1985
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f9eef0a-87c2-49e4-a575-7ee7c3f96b3d
+  title: 6 Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 66d97594-15fd-49b9-8359-0c014dbe8719
+  recordings: [c770462e-595f-47af-9c83-c03c2a5b0b46]

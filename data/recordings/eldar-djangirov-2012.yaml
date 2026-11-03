@@ -1,0 +1,26 @@
+id: eldar-djangirov-2012
+performers:
+- name: Eldar Djangirov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2012]
+  place: Manhattan Center Studios
+released: 2013
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/745a73e2-3254-4231-bb27-e4bc8c312d26
+  title: Bach / Brahms / Prokofiev
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 96776df9-9167-4ff8-af7b-4d9036c431c8
+  recordings: [b7676324-50fa-4373-80a1-a882734923a9]

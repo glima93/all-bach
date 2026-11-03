@@ -1,0 +1,31 @@
+id: gustav-leonhardt-1986
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1986]
+  place: Doopsgezinde kerk
+released: 1987
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/76aff5dd-61ea-4a60-9067-7e802891e2be
+  title: Clavier-Übung 1. Teil, 6 Partiten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [816ead07-8eb4-45d6-a940-f6d3e5abddff]

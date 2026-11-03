@@ -1,0 +1,27 @@
+id: sergio-fiorentino-1996-2
+performers:
+- name: Sergio Fiorentino
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1996]
+  place: Siemens‐Villa
+released: 2025
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '828', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4c30a306-7a45-4164-8e7f-216c74563fee
+  title: The Legacy
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4c381617-dd21-4356-bbd1-d356020fcced
+  recordings: [53c9b685-5b5b-465e-8862-5f228e76414e]

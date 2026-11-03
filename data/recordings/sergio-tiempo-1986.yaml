@@ -1,0 +1,26 @@
+id: sergio-tiempo-1986
+performers:
+- name: Sergio Tiempo
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1986]
+  place: Concertgebouw
+released: 1997
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2b79d20-8b6b-4b2d-98de-3229d6a56824
+  title: 'Classic Masters: Recital de piano II'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b8c7098-5005-4ebb-95f1-5f4dec1062fe
+  recordings: [4f467455-b4df-47f4-80d5-b4b2eaba946c]

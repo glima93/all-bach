@@ -1,0 +1,27 @@
+id: anda-geza-1972
+performers:
+- name: Anda Géza
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1972]
+  place: Mozarteum
+released: 2007
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb09d44d-0217-47ff-ade6-1cc3f47c6023
+  title: 'Bach: Partita, BWV 826 / Chopin: Sonate, op. 35 / Ravel: Valses nobles et sentimentales / Schumann: Carnaval,
+    op. 9'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 987dcba6-adff-4d9b-91af-5d5cc9f7c934
+  recordings: [3130b905-a0cb-481a-ab1d-09c1a3368496]

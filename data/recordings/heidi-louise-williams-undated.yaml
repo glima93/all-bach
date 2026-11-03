@@ -1,0 +1,28 @@
+id: heidi-louise-williams-undated
+performers:
+- name: Heidi Louise Williams
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '828', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/058b018c-6197-4348-b7f3-28973e3bbee5
+  title: Recital
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b39354d-023a-4030-9b6e-959cd55e16c0
+  recordings: [ccba20af-eeb0-4d89-9fe3-2686d410c6a2]

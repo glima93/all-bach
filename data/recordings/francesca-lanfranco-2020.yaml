@@ -1,0 +1,31 @@
+id: francesca-lanfranco-2020
+performers:
+- name: Francesca Lanfranco
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Pieve Santo Stefano
+released: 2021
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d59a35c0-b228-453d-b44b-3b0374616889
+  title: Six Partitas for Harpsichord, BWV 825–830
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9ec1f8d7-a835-4e3b-b5b1-8e274bda8b94
+  recordings: [74e4f464-2b64-4e50-bb63-439cc4b1f085]

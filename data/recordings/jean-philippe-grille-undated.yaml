@@ -1,0 +1,28 @@
+id: jean-philippe-grille-undated
+performers:
+- name: Jean-Philippe Grille
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '825', complete: false, movements: [I. Prelude, V. Menuet I, VI. Menuet II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7cc15d5f-7088-479e-a3c5-985e344acf0b
+  title: Les Orgues de Jean-André Silbermann Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1b9320fd-4ad8-4f12-9aa1-03e37db7246b
+  recordings: [ab47c017-fd12-42a6-9e8a-2c3b395814ee]

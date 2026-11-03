@@ -1,0 +1,28 @@
+id: mieczysaw-horszowski-1983
+performers:
+- name: Mieczysław Horszowski
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1983]
+  place: Snape Maltings
+released: 1993
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/598bb87d-7ce1-4e85-b546-316408f106f5
+  title: 'Bach: Partita no. 2 in C minor, BWV826 / Mozart: Piano Sonata in B-flat major, K570 / Chopin: Nocturne
+    in C-sharp minor, op. 27 no. 1 / Nocturne in D-flat major, op. 27 no. 2 / Mazurka in C major, op. 24 no 2 /
+    Debussy: Children''s Corner'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 37cd67d1-a786-4f5c-b91b-14f93b90ca04
+  recordings: [15ced84f-15c4-4f4b-b79e-1db9de9e89be]

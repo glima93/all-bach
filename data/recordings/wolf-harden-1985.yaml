@@ -1,0 +1,29 @@
+id: wolf-harden-1985
+performers:
+- name: Wolf Harden
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c14c55a5-8a94-4e31-923f-ec8b4bfd90bc
+  title: Partitas Nos. 3, 4 & 5
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e5d956d8-91e8-49f2-b062-ff37b99c4489
+  recordings: [1f2be7eb-5575-45a0-9f87-0d81d04b17ce]

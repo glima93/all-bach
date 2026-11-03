@@ -1,0 +1,32 @@
+id: andras-schiff-1983
+performers:
+- name: András Schiff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1983]
+  place: Kingsway Hall
+released: 1983
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: false, movements: [I. Toccata, II. Allemande, III. Courante, V. Sarabande, VI. Tempo di
+      Gavotta, VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a60dea6-2440-428e-87fa-5db3581ee83e
+  title: 6 Partitas, BWV 825 - BWV 830
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cb535c4c-711b-4be1-98f3-b6b5f8955d41
+  recordings: [d42b02c1-f819-4d5b-8b4e-088bb9af194d]

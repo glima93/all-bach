@@ -1,0 +1,28 @@
+id: maria-grinberg-undated
+performers:
+- name: Maria Grinberg
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/27cb6efc-19ec-4b3e-bb1e-89a08eb6a2ce
+  title: 'Solo: European Music XVII–XVIII'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ac0610d-5460-48b4-a24a-1f1ad5d51530
+  recordings: [d0b58c22-a1ae-48ab-a09a-7ab5f79d3f8d]

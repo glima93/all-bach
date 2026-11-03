@@ -1,0 +1,28 @@
+id: rosita-renard-undated
+performers:
+- name: Rosita Renard
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1949
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f4a169c4-b122-41b6-a9f4-0abef22f25e5
+  title: Rosita Renard At Carnegie Hall
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22eadc63-b1b3-4a1f-b5ee-e9bb5cd34656
+  recordings: [4a9ade03-5d63-44a7-b894-0803f7163909]

@@ -1,0 +1,31 @@
+id: ketil-haugsand-1991
+performers:
+- name: Ketil Haugsand
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1991]
+  place: Østenstad Kirke
+released: 1994
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7ec460ee-0f5c-4a02-84c6-b6c3045eb792
+  title: The Six Partitas, BWV 825-830
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4fafa18a-dd2b-4797-9dd1-9b4e56de3a2a
+  recordings: [820938c9-9b42-4e4c-91d9-a374b354f9e4]

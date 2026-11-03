@@ -1,0 +1,32 @@
+id: jean-louis-steuerman-1984
+performers:
+- name: Jean Louis Steuerman
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1984]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b24f4eb7-f4fb-4c5b-b11e-611fe066da60
+  title: The Complete Partitas / Italian Concerto / 4 Duets
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 992decd0-b7b2-48ed-b6f4-48dc8bf1f2ab
+  recordings: [d873543b-46a2-429e-9831-1ecb4e836a61]

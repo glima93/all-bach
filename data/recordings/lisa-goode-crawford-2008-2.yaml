@@ -1,0 +1,26 @@
+id: lisa-goode-crawford-2008-2
+performers:
+- name: Lisa Goode Crawford
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: Musée Unterlinden
+released: 2010
+original_label: null
+works:
+- {bwv: '828', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/69c9a560-1eb7-473e-af27-61c91f1e197b
+  title: Chromatic Fantasia and Fugue / Partita no. 4 / English Suite no. 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aa84f56d-8501-45bd-be1d-e694b58cb3ee
+  recordings: [29321586-82cd-4b8b-a171-9ab7ba6e74f9]

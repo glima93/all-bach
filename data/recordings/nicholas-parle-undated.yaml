@@ -1,0 +1,29 @@
+id: nicholas-parle-undated
+performers:
+- name: Nicholas Parle
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '825', complete: false, movements: [IV. Sarabande, VII. Gigue]}
+- {bwv: '827', complete: false, movements: [II. Allemande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/134648ac-0d71-41a7-bbd2-c6d4dfdbc2d2
+  title: 'The Classic 100: Baroque & Before'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bedb86e-30ba-42bb-9086-d5044ecc4979
+  recordings: [e4b64eba-e525-459e-8099-7cf5293cdaaf]

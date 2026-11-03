@@ -1,0 +1,31 @@
+id: richard-egarr-2016
+performers:
+- name: Richard Egarr
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Doopsgezinde kerk
+released: 2017
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0297172e-ff14-4202-a779-46a59c5b7b62
+  title: Complete Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4
+  recordings: [c5e93e30-95fe-491b-8954-a9809c75ae48]

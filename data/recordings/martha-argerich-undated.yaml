@@ -1,0 +1,29 @@
+id: martha-argerich-undated
+performers:
+- name: Martha Argerich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '826', complete: false, movements: [VI. Capriccio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c2aac856-2478-477a-96ff-87cda8f86523
+  title: 'Classic CD, Volume 103: The All-Time Greatest Pianists'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bb8b89e-5700-4d7a-aa0b-d48f8706831d
+  recordings: [69ecd5b8-774f-4789-bd12-b4ff2c359d7e]

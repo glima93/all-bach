@@ -1,0 +1,29 @@
+id: kremerata-baltica-2011
+performers:
+- name: Kremerata Baltica
+  role: orchestra
+- name: Gidon Kremer
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2011]
+  place: Latvijas Radio studijas
+released: 2012
+original_label: null
+works:
+- {bwv: '830', complete: false, movements: [V. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b953d493-3c03-465f-a6bf-2a1dc8ed9079
+  title: 'The Art of Instrumentation: Homage to Glenn Gould'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bbb1689a-0f96-49b7-9126-e73569dc9b48
+  recordings: [0460d1a9-3371-4c52-8351-25c665b4b07f]

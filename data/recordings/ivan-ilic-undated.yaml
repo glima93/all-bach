@@ -1,0 +1,28 @@
+id: ivan-ilic-undated
+performers:
+- name: Ivan Ilić
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d702035-9764-4f0e-9673-98210853b437
+  title: Elegance and Refinement - Baroque Suites, French Sweets
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a65efb42-7670-40ff-a429-f948a81730eb
+  recordings: [e5daca5f-a9a4-4af0-866a-377389bc50ee]

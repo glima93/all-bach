@@ -1,0 +1,27 @@
+id: david-fray-2012
+performers:
+- name: David Fray
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2012]
+  place: Église Notre‐Dame du Liban
+released: 2012
+original_label: null
+works:
+- {bwv: '826', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/502010e9-2b35-4843-be81-efb3ef74f16e
+  title: Partitas Nos. 2 & 6 / Toccata BWV 911
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2955be8c-03e6-48e6-b902-e034e307406c
+  recordings: [2c7238d3-1878-43cd-b85f-7e34e8ff9d60]

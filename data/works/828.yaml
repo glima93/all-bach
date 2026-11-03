@@ -1,0 +1,20 @@
+bwv: "828"
+title: "Partita No. 4"
+key: "D major"
+collection: "Partitas (Clavier-Übung I)"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Leipzig; published separately in 1728, collected in Clavier-Übung I, Op. 1 (1731)"
+movements:
+  - "I. Overture"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Aria"
+  - "V. Sarabande"
+  - "VI. Menuet"
+  - "VII. Gigue"
+notes: "Opens with a French overture: a slow, dotted introduction followed by a fast fugal section."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Partitas_for_keyboard_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/d8f36fa6-3653-41b6-97f2-5d3378fc5bb1

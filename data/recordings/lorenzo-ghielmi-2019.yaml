@@ -1,0 +1,31 @@
+id: lorenzo-ghielmi-2019
+performers:
+- name: Lorenzo Ghielmi
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: Chiesa di San Michele
+released: 2021
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d81e2709-ef58-443b-a198-12caba0eebe1
+  title: Partitas, BWV 825–830 (Clavierübung 1)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 398f9067-ff97-4743-82f3-16dcb68c3654
+  recordings: [e95d8086-fbd7-4e4d-bd45-c6cd72abb12f]

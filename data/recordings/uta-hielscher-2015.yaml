@@ -1,0 +1,26 @@
+id: uta-hielscher-2015
+performers:
+- name: Uta Hielscher
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2015]
+  place: Konzerthaus Blaibach
+released: 2016
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/284b032b-da7f-4efc-9b04-6996daf48905
+  title: Project Number One
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6aca0727-773e-4281-b518-d6c23c26990a
+  recordings: [4aff8476-35a6-4e8c-b7d9-5d6e225345aa]
