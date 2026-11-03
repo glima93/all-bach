@@ -1,9 +1,9 @@
 id: toby-sermeus-undated
 performers:
 - name: Toby Sermeus
-  role: piano
-instrument: piano
-performance_practice: modern
+  role: fortepiano
+instrument: fortepiano
+performance_practice: historical
 arrangement: false
 recorded:
   years: []

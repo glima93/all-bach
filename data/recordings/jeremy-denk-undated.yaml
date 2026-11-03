@@ -1,9 +1,9 @@
 id: jeremy-denk-undated
 performers:
 - name: Jeremy Denk
-  role: performer
-instrument: unknown
-performance_practice: unknown
+  role: piano
+instrument: piano
+performance_practice: modern
 arrangement: false
 recorded:
   years: []
@@ -22,7 +22,6 @@ links:
 status: draft
 help_wanted:
 - Recording year
-- Instrument (MusicBrainz has no instrument credit)
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:

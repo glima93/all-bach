@@ -11,8 +11,7 @@ recorded:
 released: 1993
 original_label: null
 works:
-- {bwv: '828', complete: false, movements: [I. Overture, II. Allemande, III. Courante, IV. Aria, V. Sarabande, VII.
-      Gigue]}
+- {bwv: '828', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -24,4 +23,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 5baf2170-3c25-43e1-adeb-4e2901862a69
-  recordings: [1074a276-1df5-47d6-a7f3-00584d8c6153]
+  recordings: [1074a276-1df5-47d6-a7f3-00584d8c6153, e61035ee-d065-40d2-8cb2-5add49b6c154]

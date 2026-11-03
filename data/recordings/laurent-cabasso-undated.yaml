@@ -4,8 +4,7 @@ performers:
   role: piano
 instrument: piano
 performance_practice: modern
-arrangement: true
-arranger: null
+arrangement: false
 recorded:
   years: []
   place: null

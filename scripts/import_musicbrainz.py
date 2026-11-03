@@ -95,6 +95,35 @@ EXCLUDE_BY_SNAPSHOT = {
 }
 EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 
+# One performance that the snapshot splits into two rows (an undated track of a dated set, one set recorded
+# over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
+# the row it belongs to, with the reason.
+JOIN_BY_SNAPSHOT = {
+  "partitas": {
+    "e61035ee-d065-40d2-8cb2-5add49b6c154": ("1074a276-1df5-47d6-a7f3-00584d8c6153",
+        "Sempe's Menuet of Partita No. 4: same release and place, the one movement missing from the 1993 set"),
+    "58f363b5-bb9c-4a75-a4cd-c78d1832481a": ("eb290672-d115-4baa-8257-cb5e408b9333",
+        "Leonhardt's Partitas for Harmonia Mundi, one released set recorded at Schloss Kirchheim 1963-70"),
+  },
+}
+
+# Facts the snapshot gets wrong or leaves out for one row, per snapshot: representative recording ID ->
+# fields to set, with the reason. Fix upstream in MusicBrainz too, then remove the entry here.
+OVERRIDE_BY_SNAPSHOT = {
+  "partitas": {
+    "56df13cd-74c2-4bc9-ab40-aa572b5e7fe5": ({"instrument": "fortepiano"},
+        "Bach's Piano Silbermann 1749: played on a copy of a Silbermann fortepiano, credited as piano"),
+    "09cdac89-6f97-48a0-bdd7-12adbe65371d": ({"instrument": "viola"}, "Nobuko Imai is a violist; credited as violin"),
+    "65486ec9-196a-44e6-b027-65f435161e14": ({"arrangement": False},
+        "the complete Partita No. 1 on piano, released as the soundtrack of Akerman's A Couch in New York"),
+    "e19a63f5-6db5-4619-af99-54df75369aa4": ({"instrument": "piano"}, "Jeremy Denk, pianist; no instrument credit"),
+    "933c0e72-eee3-4ffd-a549-0a34645e5382": ({"instrument": "piano"}, "Francesco Tristano, pianist; no instrument credit"),
+    "f0b13d7d-2258-4b9d-9177-570322800e9c": ({"instrument": "piano"}, "Anatoly Vedernikov, pianist; no instrument credit"),
+    "d0b58c22-a1ae-48ab-a09a-7ab5f79d3f8d": ({"instrument": "piano"}, "Maria Grinberg, pianist; no instrument credit"),
+    "d9a1de01-19b6-48ef-8548-d5bb647b9c30": ({"instrument": "piano"}, "David Theodor Schmidt, pianist; no instrument credit"),
+  },
+}
+
 INSTRUMENTS = {
     "cello": "cello", "violoncello": "cello",
     "baroque cello": "baroque-cello", "baroque violoncello": "baroque-cello",
@@ -618,6 +647,17 @@ def main(snapshot: str) -> int:
         rows = [keyboard_soloist(c, native) for c in rows]
     perfs = [expand(c, bwvs, moves) for c in rows if c["a"] and c["rep"] not in EXCLUDE and UNKNOWN_ARTIST not in c["a"]
              and NO_ARTIST not in c["a"]]
+    joins = JOIN_BY_SNAPSHOT.get(Path(snapshot).stem.removeprefix("musicbrainz-"), {})
+    overrides = OVERRIDE_BY_SNAPSHOT.get(Path(snapshot).stem.removeprefix("musicbrainz-"), {})
+    by_rep = {p["repId"]: p for p in perfs}
+    for extra, (into, _) in joins.items():
+        if extra in by_rep and into in by_rep:
+            a, b = by_rep[into], by_rep.pop(extra)
+            a["mv"] = sorted(set(a["mv"]) | set(b["mv"]))
+            a["years"] = sorted(set(a["years"]) | set(b["years"]))
+            a["places"] = list(dict.fromkeys(a["places"] + b["places"]))
+            a["recIds"] = a["recIds"] + b["recIds"]
+            perfs.remove(b)
     existing = {p: r for p, r in load("recordings")}
     by_mbid = {m: p for p, r in existing.items() for m in (r.get("musicbrainz") or {}).get("recordings", [])}
 
@@ -630,6 +670,19 @@ def main(snapshot: str) -> int:
     for perf in perfs:
         main_name = norm(perf["names"][0])
         new = from_perf(perf, bwvs, moves, native, per_performer[main_name], mode, lead, scoring)
+        if perf["repId"] in overrides:
+            fix = overrides[perf["repId"]][0]
+            if "instrument" in fix:
+                new["instrument"] = fix["instrument"]
+                new["performance_practice"] = ("historical" if fix["instrument"] in HISTORICAL
+                                               else "modern" if fix["instrument"] in MODERN | {"viola"} else "unknown")
+                if len(new["performers"]) == 1:
+                    new["performers"][0]["role"] = fix["instrument"]
+            if "arrangement" in fix:
+                new["arrangement"] = fix["arrangement"]
+                if not fix["arrangement"]:
+                    new.pop("arranger", None)
+            new["help_wanted"] = help_items(new, per_performer[main_name])
         target = next((by_mbid[m] for m in perf["recIds"] if m in by_mbid), None)
         if target is None:
             for path, r in existing.items():
@@ -685,7 +738,8 @@ def main(snapshot: str) -> int:
     merged = sum(1 for t, _ in results if t is not None)
     unmatched = [p.name for p in untouched if {w["bwv"] for w in existing[p]["works"]} & set(bwvs)
                  and not existing[p].get("musicbrainz")]
-    print(f"{len(rows) - len(perfs)} rows skipped (see EXCLUDE), {merged} existing files updated, "
+    joined = sum(1 for e, (i, _) in joins.items() if e in {c["rep"] for c in rows})
+    print(f"{len(rows) - len(perfs) - joined} rows skipped (see EXCLUDE), {joined} joined, {merged} existing files updated, "
           f"{len(results) - merged} new files; hand-made files for these works not matched: {unmatched}")
     return 0
 
