@@ -1,0 +1,31 @@
+id: scott-ross-1988-2
+performers:
+- name: Scott Ross
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: Temple de Sommières
+released: 1989
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3c5fb99c-9ecb-46a3-9e04-ca6f4d5cc304
+  title: 6 Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b01dff1-286c-4a41-a56a-8be74fe27e70
+  recordings: [c6c3fbb3-999e-492a-8262-c606fe2cf9ed]

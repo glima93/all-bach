@@ -75,6 +75,20 @@ EXCLUDE_BY_SNAPSHOT = {
   "french-suites": {
     "aa7ac922-b9a2-4665-8dab-a584ce9cecac": "Handel Water Music / Royal Fireworks album (Virtuosi of England, Davison); a Handel Bourrée linked to French Suite No. 6",
   },
+  "partitas": {
+    "863edf6a-8361-4af1-af05-9134987b5b88": "BWV 1019a (early version of violin sonata No. 6), whose harpsichord Corrente is shared with Partita No. 6; belongs with the violin and keyboard sonatas",
+    "70f2471c-70e0-487b-8a65-5c32fa2588d4": "BWV 1019a Corrente on a violin and harpsichord sonatas album; belongs with the violin and keyboard sonatas",
+    "655ad01a-da3a-46de-8a67-84bbaee43fb0": "BWV 1019a Corrente on a violin and harpsichord sonatas album; belongs with the violin and keyboard sonatas",
+    "c40e125e-f63c-42c4-afa5-19701d010416": "BWV 1019a Corrente on a violin and harpsichord sonatas album; belongs with the violin and keyboard sonatas",
+    "109724a2-2bfe-4317-938f-43da1b54d92f": "BWV 1019a Corrente on a violin and harpsichord sonatas album; belongs with the violin and keyboard sonatas",
+    "829bbd01-412e-4e50-95a7-0a75a1352c80": "BWV 1019a Gavotta (violin and keyboard version of the Tempo di Gavotta of Partita No. 6) on a violin sonatas album",
+    "5d1150fa-3592-48f4-93e4-cfee79a18733": "BWV 1019a Corrente on a violin and harpsichord sonatas album; belongs with the violin and keyboard sonatas",
+    "7c9c0660-1fb7-4be8-b163-ecb062ed16c4": "BWV 1019a Corrente on a violin and keyboard sonatas album; belongs with the violin and keyboard sonatas",
+    "828fe900-39f9-4f84-b1f8-ce6bad81dcec": "BWV 1019a Corrente (Moroney, from the violin sonatas in the Bach 2000 edition); belongs with the violin and keyboard sonatas",
+    "bc8c930f-8b2f-43c0-965e-50895b0fc932": "BWV 1019a Corrente on an album of works for violin and continuo; belongs with the violin and keyboard sonatas",
+    "63cdc074-c888-43c6-a1a3-a4d105021911": "Rachmaninoff compilation: the Sarabande is his 1925 recording again (already filed) and the Prelude is his transcription of the violin Partita BWV 1006 Prelude",
+    "ce4f1573-a2dc-4a80-ab43-12a90900fc89": "solo violin Sonatas and Partitas album; a violin Partita movement linked to the keyboard Partita No. 1",
+  },
   "harpsichord-concertos": {
     "f8df5ad3-0db2-4dc7-be48-a55397f60b20": "credited to Antonio Vivaldi (composer of the model of BWV 1065) on a Vivaldi compilation; the performers are unknown",
   },
@@ -92,7 +106,7 @@ INSTRUMENTS = {
     "lute": "lute", "harpsichord": "harpsichord", "piano": "piano", "grand piano": "piano",
     "organ": "organ", "pipe organ": "organ", "clavichord": "clavichord", "fortepiano": "fortepiano",
     "harpsichord / cembalo": "harpsichord", "cembalo": "harpsichord",
-    "lautenwerck": "harpsichord", "lute-harpsichord": "harpsichord",
+    "lautenwerck": "harpsichord", "tangent piano": "fortepiano", "lute-harpsichord": "harpsichord",
     "flute": "flute", "transverse flute": "flute", "concert flute": "flute",
     "baroque flute": "traverso", "traverso": "traverso", "flauto traverso": "traverso",
     "transverse flute (baroque)": "traverso", "recorder": "recorder", "alto recorder": "recorder",
@@ -144,7 +158,7 @@ ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone)?\b|swingle|jazz|loussi
                             r"loeki|seldom sene|baby einstein|babies|sweet little band|pink mice|\bthe nice\b|"
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
-                            r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi|alperin|dellarole", re.I)
+                            r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi|alperin|dellarole|allhoff|joachim k.hn", re.I)
 # In orchestral works only: names of groups that are not orchestras, so play the music arranged.
 ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
                                   r"trumpet ensemble|brass|\btrio\b", re.I)
@@ -167,8 +181,11 @@ GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|solois
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
                                r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki|dangerous liaisons|פסקול|motion picture|movies go baroque|bach minimaliste|"
-                               r"concertos? for recorder|production music|サウンドトラック", re.I)
+                               r"concertos? for recorder|production music|bedtime|majors for minors|f.r inl.rning|classical background|サウンドトラック", re.I)
 
+# Keyboard works: a release title that names the instrument, for a lone performer with no instrument credit.
+KEYBOARD_RELEASE = re.compile(r"\b(harpsichord|cembalo|piano)\b|pour (clavecin)", re.I)
+INSTRUMENTS_EXTRA = {"clavecin": "harpsichord"}
 
 class Flow(list):
     """A list written in YAML flow style: [a, b]."""
@@ -508,7 +525,17 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         # A solo keyboard work played by an orchestra or group with no keyboard credited, by a crossover name, or
         # on a soundtrack, relaxation or lesson album is an arrangement (Hooked on Classics, coffee-time albums).
         release = " ".join(r["title"] for r in perf["releases"])
+        # Another keyboard credited alongside (often from another track of the album) is not an arrangement.
+        rec["arrangement"] = instrument not in native | {"unknown"} or any(
+            INSTRUMENTS.get(i.lower()) not in native for i in others)
         group_only = any(t in GROUP_TYPES for t in types) and instrument not in native
+        if group_only and instrument != "unknown":
+            rec["instrument"], rec["performance_practice"] = "ensemble", "unknown"  # a string orchestra arrangement
+        if instrument == "unknown" and len(perf["names"]) == 1:
+            named = KEYBOARD_RELEASE.search(release)  # "Partitas pour clavecin", "Bach Piano Music"
+            if named:
+                rec["instrument"] = INSTRUMENTS.get(kw := (named.group(1) or named.group(2)).lower()) or INSTRUMENTS_EXTRA[kw]
+                rec["performance_practice"] = "historical" if rec["instrument"] in HISTORICAL else "modern"
         if group_only or ARRANGED_NAMES.search(" ".join(perf["names"])) or ARRANGED_RELEASES.search(release):
             rec["arrangement"] = True
         melody = [i for i in others if INSTRUMENTS.get(i.lower()) not in (None, *KEYBOARD)]
@@ -541,6 +568,8 @@ def merge(old: dict, new: dict) -> dict:
         out["released"] = new["released"]
     if out.get("instrument") in (None, "unknown") and new["instrument"] != "unknown":
         out["instrument"] = new["instrument"]
+        if out.get("performance_practice") in (None, "unknown"):
+            out["performance_practice"] = new["performance_practice"]
     out["works"] = [FlowDict(w, **({"movements": Flow(w["movements"])} if "movements" in w else {})) for w in old["works"]]
     urls = {l["url"] for l in old["links"]}
     out["links"] = list(old["links"]) + [l for l in new["links"] if l["url"] not in urls]

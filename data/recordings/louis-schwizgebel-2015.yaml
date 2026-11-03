@@ -1,0 +1,26 @@
+id: louis-schwizgebel-2015
+performers:
+- name: Louis Schwizgebel
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2015]
+  place: 'Maida Vale Studios: Studio 2'
+released: 2019
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/011df504-521c-41b1-923f-47be40d5578e
+  title: 'BBC Music, Volume 28, Number 2: Bach: Cello Suite No. 5, Keyboard Partita No. 1'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1605ffcc-e0a5-4f9c-a6f4-028760066fd9
+  recordings: [26091d07-68e4-4b9d-b0aa-0dacc4b9b8b8]

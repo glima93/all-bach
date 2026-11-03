@@ -1,0 +1,31 @@
+id: evgeni-koroliov-undated-2
+performers:
+- name: Evgeni Koroliov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e5daa74b-6686-49dd-82b1-e4b4aedeadc6
+  title: 'The Koroliov Series, Vol. 23: Johann Sebastian Bach – Partitas, Pt. 1'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 592440cc-cceb-4e50-a085-2c7afdf272ae
+  recordings: [690e19c7-3b5f-49f7-8f03-08f3d6595822]

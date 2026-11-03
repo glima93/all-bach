@@ -1,0 +1,27 @@
+id: blanche-selva-1930
+performers:
+- name: Blanche Selva
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1930]
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a063520a-2464-4556-af1d-ef58b0a37130
+  title: Blanche Selva & Cécile Boutet de Monvel
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e4c4470-8d96-4684-a40e-1332be5999f7
+  recordings: [f9e331cf-0753-4442-bccd-66f2af0bbf29]

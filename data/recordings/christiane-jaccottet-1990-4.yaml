@@ -1,0 +1,32 @@
+id: christiane-jaccottet-1990-4
+performers:
+- name: Christiane Jaccottet
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/39497eca-6040-4430-9c5a-c144f3d4fa6b
+  title: 'Complete Works for Harpsichord, Vol. 4: Partitas Nos. 1, 2 & 4'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85f89ec1-8f4e-4201-a8a2-80e6cbb9c9e2
+  recordings: [edda208d-7a25-486f-a2c1-09cd851ad93e]

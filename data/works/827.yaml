@@ -1,0 +1,20 @@
+bwv: "827"
+title: "Partita No. 3"
+key: "A minor"
+collection: "Partitas (Clavier-Übung I)"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Leipzig; early version by 1725 (1725 Notebook for Anna Magdalena Bach); published separately in 1727, collected in Clavier-Übung I, Op. 1 (1731)"
+movements:
+  - "I. Fantaisie"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Sarabande"
+  - "V. Burlesca"
+  - "VI. Scherzo"
+  - "VII. Gigue"
+notes: "An earlier version of the suite is the first piece in the 1725 Notebook for Anna Magdalena Bach, followed there by the E minor partita (BWV 830)."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Partitas_for_keyboard_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/55ab379b-1a4c-4d31-9ed0-e60b4787a79b

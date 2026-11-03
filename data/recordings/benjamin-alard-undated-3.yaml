@@ -1,0 +1,31 @@
+id: benjamin-alard-undated-3
+performers:
+- name: Benjamin Alard
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '827', complete: true}
+- {bwv: '830', complete: false, movements: [I. Toccata, II. Allemande, III. Courante, V. Sarabande, VI. Tempo di
+      Gavotta, VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/71e7cb94-9ee2-4430-ae5d-c4e2b3444930
+  title: 'The Complete Works for Keyboard, Vol. 10: Trio Sonatas, BWV 525-530 - Notebook for A.M. Bach'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [2c662e1e-9aae-46a1-986f-3673f94706bb]

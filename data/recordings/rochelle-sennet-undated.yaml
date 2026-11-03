@@ -1,0 +1,33 @@
+id: rochelle-sennet-undated
+performers:
+- name: Rochelle Sennet
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c251b16a-2171-4b4e-8a23-1048f793e407
+  title: 'Bach to Black: Suites for Piano, Volume II'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 15a4dd96-557c-427b-ab58-ede8d65b758b
+  recordings: [178ec0a3-f7ee-4ead-adf1-30b047759b9e]

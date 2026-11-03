@@ -1,0 +1,26 @@
+id: vikingur-olafsson-2025-3
+performers:
+- name: Víkingur Ólafsson
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2025]
+  place: 'Harpa: Norðurljós'
+released: 2025
+original_label: null
+works:
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a8f7356d-17fe-4dc6-b97d-46c2a197b3cc
+  title: Opus 109
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cea4a3b8-c26c-4b61-a243-cf72555e2c71
+  recordings: [b55ddf0d-de12-4aa5-9d86-bbd518eb7615]

@@ -1,0 +1,29 @@
+id: walter-van-hauwe-undated
+performers:
+- name: Walter van Hauwe
+  role: recorder
+instrument: recorder
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '826', complete: false, movements: [I. Sinfonia, II. Allemande, III. Courante, IV. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/26844d31-aa7a-46c1-ae5c-3d1608ae9d7f
+  title: Blockflute Classics 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0416f387-270d-4686-97b2-6394652d43b0
+  recordings: [17ee59b8-bcdd-47f1-9d0d-43bd185da4f3]

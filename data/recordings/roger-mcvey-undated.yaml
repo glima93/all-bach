@@ -1,0 +1,28 @@
+id: roger-mcvey-undated
+performers:
+- name: Roger McVey
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd241c8e-fd8b-4beb-91a2-79f89ace81ea
+  title: Perspectives
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fb9c2057-834e-4000-ba27-d87586960bc8
+  recordings: [a71c2ee3-9eec-442a-a3a4-8de323d5ac1b]

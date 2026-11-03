@@ -1,0 +1,29 @@
+id: walter-gieseking-undated
+performers:
+- name: Walter Gieseking
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '825', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/19e93390-ef6c-402f-abea-03ae11d72851
+  title: L’Héritage des grands
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62e0e456-bd4b-4edc-a47c-3537cdd53621
+  recordings: [f2438854-91cc-432c-b0f3-a7342847965a]

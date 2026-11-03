@@ -1,0 +1,29 @@
+id: seizo-azuma-undated
+performers:
+- name: Seizo Azuma
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '825', complete: false, movements: [V. Menuet I, VI. Menuet II, VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/12191e40-51d0-477d-9070-133c79ba4b2f
+  title: Suzuki Piano School, Volume 4, New International Edition
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cf1fac6a-ab50-4f24-85da-8440c409dd9f
+  recordings: [a6d713f6-0bf7-4d2b-abe9-99792f2d0185]

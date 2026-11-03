@@ -1,0 +1,28 @@
+id: alberto-cobo-undated
+performers:
+- name: Alberto Cobo
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9fe3ce1-ffd1-426b-8e92-d63af31dd23a
+  title: The Recital
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 416fdbdd-b91d-40fe-b1ab-7b28890004aa
+  recordings: [7b1d8519-9ccd-4168-aece-d16c0c8d747c]

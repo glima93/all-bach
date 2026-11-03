@@ -1,0 +1,27 @@
+id: simone-dinnerstein-2011
+performers:
+- name: Simone Dinnerstein
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2011]
+  place: The American Academy of Arts and Letters
+released: 2012
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59efb9be-f781-4a17-8f65-695ce98cfe27
+  title: 'Something Almost Being Said: Music of Bach and Schubert'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 352f90f9-78ea-4bcc-9d8f-00d60e87f652
+  recordings: [0a1bb374-721f-4ac2-96c6-2b6d38af5c9a]

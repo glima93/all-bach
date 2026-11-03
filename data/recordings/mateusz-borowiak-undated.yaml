@@ -1,0 +1,28 @@
+id: mateusz-borowiak-undated
+performers:
+- name: Mateusz Borowiak
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6084354c-9148-4872-9915-6e1e7695754c
+  title: Queen Elisabeth Competition - Piano 2013 & 2016 - Giltburg, Borowiak, Vondráček, Ferro
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bc8a6a3b-8763-44bb-a78f-e6358bdee9cb
+  recordings: [58bf222e-cb3e-4f58-9ad6-5e6247d35051]

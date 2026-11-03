@@ -1,0 +1,29 @@
+id: wolfgang-rubsam-undated-3
+performers:
+- name: Wolfgang Rübsam
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '825', complete: false, movements: [IV. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b94c17f9-e1d2-458d-9bce-fd3eaf30bb4f
+  title: The Genius of Bach
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [696cc80b-4cf1-489b-bf80-ba13210d251a]

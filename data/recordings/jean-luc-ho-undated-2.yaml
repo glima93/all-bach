@@ -1,0 +1,33 @@
+id: jean-luc-ho-undated-2
+performers:
+- name: Jean-Luc Ho
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f284d418-d562-4256-a7a9-1921c285c91f
+  title: 'Bach: Intégrale des Partitas pour clavecin'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4514b8ed-5a30-4bd4-b07f-49920f2f813b
+  recordings: [433759bf-a952-4e5e-999b-aec28085f5a3]

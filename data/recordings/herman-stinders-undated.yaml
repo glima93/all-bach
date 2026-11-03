@@ -1,0 +1,28 @@
+id: herman-stinders-undated
+performers:
+- name: Herman Stinders
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/497a0790-48ac-4c8f-ba64-a62cf2a9c15c
+  title: ‘Take the Original’ saison - seizoen 94-95
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 72918da3-f1e2-4c04-b61c-6772cb933856
+  recordings: [2bb7be5a-2fcf-48ed-b6ab-5a618e64b29e]

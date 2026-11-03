@@ -1,0 +1,32 @@
+id: hansjorg-albrecht-2011
+performers:
+- name: Hansjörg Albrecht
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2011]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4111ad96-a8e8-499d-83bf-21d1238b366e
+  title: Sechs Partiten
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2c3b356-0dfb-4373-b36b-11b356497d18
+  recordings: [b1d4a855-14db-495f-a063-1eb470a63168]

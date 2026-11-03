@@ -1,0 +1,35 @@
+id: artist-fcfc3731-undated
+performers:
+- name: Анатолий Ведерников
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/56bead53-c132-477f-9d47-033797c45a3c
+  title: J. S. Bach Partitas BWV 825-830
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fcfc3731-3b67-4b1d-8096-6a1537b61daf
+  recordings: [f0b13d7d-2258-4b9d-9177-570322800e9c]

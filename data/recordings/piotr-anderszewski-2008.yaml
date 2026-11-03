@@ -1,0 +1,26 @@
+id: piotr-anderszewski-2008
+performers:
+- name: Piotr Anderszewski
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: Carnegie Hall
+released: 2009
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c9443ca8-ae30-4585-8813-874c2abfb393
+  title: At Carnegie Hall
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 12735d4f-8295-42ed-8ca4-f0438e48fccd
+  recordings: [faa43df5-3c0c-4642-8ba5-30e3bdba44d7]

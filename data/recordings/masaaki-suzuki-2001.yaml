@@ -1,0 +1,31 @@
+id: masaaki-suzuki-2001
+performers:
+- name: Masaaki Suzuki
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: 神戸松蔭女子学院大学チャペル
+released: 2002
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/912f1e00-bacf-4bd4-85a7-aebef7c45366
+  title: Partitas for Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d41e5072-3a8e-4f1f-97ab-3b0820de74c1
+  recordings: [43cd2f20-7144-4a00-948c-d473dcf6dcf2]

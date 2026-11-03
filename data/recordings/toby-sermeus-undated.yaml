@@ -1,0 +1,30 @@
+id: toby-sermeus-undated
+performers:
+- name: Toby Sermeus
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '829', complete: false, movements: [I. Praeambulum, II. Allemande, III. Courante, IV. Sarabande, V. Tempo
+      di Minuetto, VI. Passepied]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/358f9b41-99b0-472f-b88c-9d7016a80b85
+  title: Bach’s Piano Silbermann 1749
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5579c6b5-0b15-4af5-bb2e-8d3533f6d47f
+  recordings: [56df13cd-74c2-4bc9-ab40-aa572b5e7fe5]

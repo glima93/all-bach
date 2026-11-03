@@ -1,0 +1,27 @@
+id: dinu-lipatti-1950
+performers:
+- name: Dinu Lipatti
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1950]
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8fd0eda3-0732-44c9-aea3-0d9af6ac693c
+  title: The Last Concert
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: dff7bf31-661a-4c7e-962b-4b75eea6fdeb
+  recordings: [575c1b6b-24a4-4e87-90cf-e339df9acc75]

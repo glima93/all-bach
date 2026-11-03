@@ -1,0 +1,33 @@
+id: sergey-schepkin-undated-2
+performers:
+- name: Sergey Schepkin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a8c6e086-a9c7-43af-8ea8-647875a4c49c
+  title: Keyboard Partitas Nos. 1-6
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4192cc75-4712-40ed-ac8c-1301d6bffb9d
+  recordings: [011d794e-3cfd-49f6-af43-bdf487149d28]

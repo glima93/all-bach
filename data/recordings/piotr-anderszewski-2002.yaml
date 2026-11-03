@@ -1,0 +1,28 @@
+id: piotr-anderszewski-2002
+performers:
+- name: Piotr Anderszewski
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2002]
+  place: Studio Tibor Varga
+released: 2002
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c3264a5b-a5e2-48fe-a6a3-cc65e4927b24
+  title: Partitas nos. 1, 3 & 6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 12735d4f-8295-42ed-8ca4-f0438e48fccd
+  recordings: [fd46fef9-5f45-4ed9-9ee2-57548402754d]

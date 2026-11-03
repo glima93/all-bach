@@ -1,0 +1,27 @@
+id: dinu-lipatti-1947
+performers:
+- name: Dinu Lipatti
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1947]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/20016e82-bb35-4bd6-a6e9-23da7098802c
+  title: Soli Deo Gloria - Meisterwerke in bedeutenden Aufnahmen
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dff7bf31-661a-4c7e-962b-4b75eea6fdeb
+  recordings: [db19e4a7-83a2-4d1a-84b5-e320186af6bd]

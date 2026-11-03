@@ -1,0 +1,26 @@
+id: benjamin-grosvenor-2013
+performers:
+- name: Benjamin Grosvenor
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2013]
+  place: Potton Hall
+released: 2013
+original_label: null
+works:
+- {bwv: '828', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/895f75c1-b1f1-414d-a7a3-5b3f38b3a68b
+  title: Dances
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7f2ad202-fc55-4f68-aa7c-25cb2049100e
+  recordings: [048b1050-9c94-4dbd-8f85-878e9e1cf620]

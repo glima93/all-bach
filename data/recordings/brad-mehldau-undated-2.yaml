@@ -1,0 +1,28 @@
+id: brad-mehldau-undated-2
+performers:
+- name: Brad Mehldau
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '828', complete: false, movements: [II. Allemande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cef08850-b353-4b79-8f7c-2d1222b97c84
+  title: After Bach II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b7723b3f-9a35-438d-bc42-8ad8b5e027ae
+  recordings: [133b6d92-13e1-44d6-90b1-ab3ce126a2e8]

@@ -1,0 +1,33 @@
+id: richard-troeger-undated
+performers:
+- name: Richard Troeger
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3816ec6e-a126-4b02-9d7b-a0313fe49ce1
+  title: 'Bach: The Six Partitas'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b1513933-de51-45e3-8722-5746ceab4b9a
+  recordings: [24c8db28-6e67-40c5-a87d-a0d3df5e13b3]

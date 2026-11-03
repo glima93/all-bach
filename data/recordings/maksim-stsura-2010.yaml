@@ -1,0 +1,26 @@
+id: maksim-stsura-2010
+performers:
+- name: Maksim Štšura
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2010]
+  place: Estonia kontserdisaal
+released: null
+original_label: null
+works:
+- {bwv: '828', complete: false, movements: [IV. Aria, V. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/9f8d2070-e10d-4f20-b07b-91e93f70e988
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: ae82b117-3a30-4de3-b0b1-78e0d4e78315
+  recordings: [9f8d2070-e10d-4f20-b07b-91e93f70e988]

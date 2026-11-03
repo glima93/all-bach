@@ -1,0 +1,29 @@
+id: artist-d1626147-undated
+performers:
+- name: 中村紘子
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/336275af-4e4d-4eef-aaf2-582fb2d0d279
+  title: グランド・リサイタル
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d1626147-d285-45c2-9b8d-3984a4e45c8d
+  recordings: [4612e9f3-ddb1-46a6-88c8-982ea0c4867f]

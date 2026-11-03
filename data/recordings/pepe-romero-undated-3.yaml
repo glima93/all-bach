@@ -1,0 +1,29 @@
+id: pepe-romero-undated-3
+performers:
+- name: Pepe Romero
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '828', complete: false, movements: [V. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dc530e11-842d-423b-8f15-7d6b7d0a54d9
+  title: Bach Adagios
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b3620030-fdea-4cf4-b9b0-cb5121451e53
+  recordings: [8f410789-10d3-4542-9a16-4a6b7e75f84e]

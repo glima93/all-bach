@@ -1,0 +1,26 @@
+id: mahan-esfahani-2009
+performers:
+- name: Mahan Esfahani
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: Wigmore Hall
+released: 2010
+original_label: null
+works:
+- {bwv: '828', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2bcdf1c3-5cf0-40de-b73e-3bc3df3c2986
+  title: 'BBC Music, Volume 18, Number 9: Poulenc: Concert champêtre / Bach: Partita no. 4 in D, BWV 828'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a2704dbd-4e05-4b89-917c-85c578fc1488
+  recordings: [bf02d38b-3a91-403d-b82e-6b9214a40ce1]

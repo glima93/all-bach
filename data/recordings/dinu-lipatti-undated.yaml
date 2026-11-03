@@ -1,0 +1,29 @@
+id: dinu-lipatti-undated
+performers:
+- name: Dinu Lipatti
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8d231f35-5bd1-4fbf-8fb0-f7a34278e94f
+  title: 'Le Monde du piano: Lipatti'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dff7bf31-661a-4c7e-962b-4b75eea6fdeb
+  recordings: [2c8225e2-8645-44f2-9f9a-60e329455541]

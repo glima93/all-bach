@@ -1,0 +1,28 @@
+id: evgeni-koroliov-2020
+performers:
+- name: Evgeni Koroliov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020, 2023]
+  place: Jesus‐Christus‐Kirche
+released: 2024
+original_label: null
+works:
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d4d730e-8e91-4c9e-b6f9-d2a16eeb75ed
+  title: The Koroliov Series, Vol. 24
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 592440cc-cceb-4e50-a085-2c7afdf272ae
+  recordings: [6d4ea9a7-bdf9-4774-a0e1-e77aeb200c75]

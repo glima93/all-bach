@@ -1,0 +1,27 @@
+id: gustav-leonhardt-1963
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1963, 1964]
+  place: Schloss Kirchheim
+released: 1990
+original_label: null
+works:
+- {bwv: '826', complete: true}
+- {bwv: '828', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43a6fc8f-03df-402e-8b4d-aa53707fc39b
+  title: 'Clavierübung Teil/Part I: Sechs Partiten, BWV 825-830'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [eb290672-d115-4baa-8257-cb5e408b9333]

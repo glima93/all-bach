@@ -1,0 +1,29 @@
+id: oscar-levant-undated
+performers:
+- name: Oscar Levant
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '825', complete: false, movements: [I. Prelude, II. Allemande, IV. Sarabande, V. Menuet I, VI. Menuet II,
+    VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3e319648-003a-4423-a824-c872156c0b9b
+  title: A Rhapsody In Blue - The Extraordinary Life Of Oscar Levant
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 51b826eb-0791-43bb-8d02-a6433ba96ca9
+  recordings: [46e65ac8-067e-4bca-be24-d5be763a0b23]

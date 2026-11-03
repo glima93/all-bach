@@ -1,0 +1,26 @@
+id: evren-ozel-2025
+performers:
+- name: Evren Ozel
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2025]
+  place: Van Cliburn Concert Hall
+released: null
+original_label: null
+works:
+- {bwv: '829', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/22e58f03-a8e4-4ed0-b742-dcc61cfcd70c
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 0758bb7a-4bc3-40a0-bcc7-c1a2ee4b2c13
+  recordings: [22e58f03-a8e4-4ed0-b742-dcc61cfcd70c]

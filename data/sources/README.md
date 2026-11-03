@@ -14,6 +14,7 @@ Each file here is a snapshot of what [MusicBrainz](https://musicbrainz.org) knew
 | `musicbrainz-harpsichord-concertos.json` | Harpsichord Concertos, BWV 1052–1065 (1053, 1058 and 1062 not found in MusicBrainz) | 29 Oct 2026 | none: works found by BWV number (`tree-harpsichord-concertos.json`) | 33 | 2,308 | 319 |
 | `musicbrainz-english-suites.json` | English Suites, BWV 806–811 | 30 Oct 2026 | none: works found by BWV number (`tree-english-suites.json`) | 44 | 1,979 | 135 |
 | `musicbrainz-french-suites.json` | French Suites, BWV 812–817 (812 and 815 not found in MusicBrainz by the collector) | 31 Oct 2026 | none: works found by BWV number (`tree-french-suites.json`) | 29 | 1,798 | 152 |
+| `musicbrainz-partitas.json` | Partitas (Clavier-Übung I), BWV 825–830 | 2 Nov 2026 | none: works found by BWV number (`tree-partitas.json`) | 41 | 3,984 | 244 |
 
 The first five snapshots were made with `scripts/musicbrainz-collect.js`, run in a browser tab on musicbrainz.org. From run 1 of the [catalogue plan](../../docs/catalogue-plan.md) on, they are made by `scripts/collect_musicbrainz.py`, a port of it, which the GitHub workflow `collect.yml` runs every night for each collection marked `queued` in `data/plan/collections.yaml`. It writes the snapshot and `tree-<id>.json`, the MusicBrainz works and movements it found for each BWV number (input to `scripts/work_stub.py`), to the branch `collect/<id>`.
 

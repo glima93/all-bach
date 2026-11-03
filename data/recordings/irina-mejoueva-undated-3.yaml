@@ -1,0 +1,28 @@
+id: irina-mejoueva-undated-3
+performers:
+- name: Irina Mejoueva
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/40158460-e981-45d8-be77-d192d5572bd2
+  title: J.S. Bach, Beethoven & Schumann
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 20d7e82a-c880-4aa9-9366-179fc514c6bf
+  recordings: [9a2e8a7f-0823-4864-aa4e-5b3b0e8ab68e]

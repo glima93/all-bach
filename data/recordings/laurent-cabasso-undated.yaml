@@ -1,0 +1,29 @@
+id: laurent-cabasso-undated
+performers:
+- name: Laurent Cabasso
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d8b99155-0597-4fdb-bbe7-0237c412fe72
+  title: Extracts from the soundtrack of Chantal Akerman’s film “A couch in New York”
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5fbd2dc3-82f3-4997-a4fd-88f84bac21a8
+  recordings: [65486ec9-196a-44e6-b027-65f435161e14]

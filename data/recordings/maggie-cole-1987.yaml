@@ -1,0 +1,26 @@
+id: maggie-cole-1987
+performers:
+- name: Maggie Cole
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1987, 1988]
+  place: Fenton House
+released: 1988
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5f5c2b5f-12d0-4b21-9204-8abd8317babc
+  title: Music for Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6523b25a-94a2-4612-aa71-89f895df9f2f
+  recordings: [e8959c65-8078-41d2-80db-04921596a2a5]

@@ -1,0 +1,28 @@
+id: richard-goode-1997
+performers:
+- name: Richard Goode
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1997, 1998]
+  place: The American Academy of Arts and Letters
+released: 1999
+original_label: null
+works:
+- {bwv: '826', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb01df33-1947-466c-97ca-dc975ade48a9
+  title: Partitas nos. 4, 2 and 5
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 945a268a-328f-4b91-9453-d1996f162a3c
+  recordings: [a02337e8-f801-411f-a0d6-dd44783e8f77]

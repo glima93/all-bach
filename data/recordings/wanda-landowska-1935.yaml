@@ -1,0 +1,27 @@
+id: wanda-landowska-1935
+performers:
+- name: Wanda Landowska
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1935]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/74623444-dc65-4e41-adf6-02e18f58a358
+  title: Landowska Plays Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39bba85f-e589-4a35-8388-259195fe9c5b
+  recordings: [5ce874c9-8864-4718-9104-a2e341866125]

@@ -1,0 +1,28 @@
+id: michal-masek-1998-2
+performers:
+- name: Michal Mašek
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1998]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e4871368-b73f-4021-b6df-32b7d1ebb1f3
+  title: Concerto for Piano and Orchestra No. 1 in D minor / Partitas Nos. 5, 6
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7a0de6b4-3be0-462b-9450-adb11132622a
+  recordings: [7627859f-15cf-44b8-bebc-1929d169ac40]

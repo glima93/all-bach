@@ -1,0 +1,31 @@
+id: mahan-esfahani-2020
+performers:
+- name: Mahan Esfahani
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Wyastone Concert Hall
+released: 2021
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/002b1991-5332-4ba4-8608-e758310191ba
+  title: The Six Partitas, BWV 825–830
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a2704dbd-4e05-4b89-917c-85c578fc1488
+  recordings: [e3b9a435-789d-4bb9-876b-7f1e75317dd2]

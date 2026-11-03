@@ -1,0 +1,26 @@
+id: piotr-sopecki-2016
+performers:
+- name: Piotr Słopecki
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2016]
+  place: Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku
+released: 2018
+original_label: null
+works:
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cb2f48bb-b793-4256-a5c7-4bf1316030eb
+  title: Fuguecraft
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52e4f76e-7f61-49f7-b26a-dee345361b29
+  recordings: [5099cf63-ce71-4f1a-a5e6-49debf8fce3a]

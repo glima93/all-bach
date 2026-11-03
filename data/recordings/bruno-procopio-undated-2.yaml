@@ -1,0 +1,31 @@
+id: bruno-procopio-undated-2
+performers:
+- name: Bruno Procopio
+  role: performer
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '825', complete: false, movements: [II. Allemande, III. Courante, IV. Sarabande, V. Menuet I, VI. Menuet
+      II, VII. Gigue]}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d4c5958a-09b0-4e63-b023-d5aaf505b074
+  title: Partitas pour clavecin No. 4, 3 & 1, Vol. 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c8bb77b2-70ca-4a03-8fdd-f973c118498c
+  recordings: [d8040277-5a5c-4b36-a437-eb7303495579]

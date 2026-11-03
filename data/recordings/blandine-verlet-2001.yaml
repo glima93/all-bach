@@ -1,0 +1,31 @@
+id: blandine-verlet-2001
+performers:
+- name: Blandine Verlet
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: Musée Unterlinden
+released: 2001
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0224f74-81a0-4609-a1dc-3500ac8abdac
+  title: Partitas pour clavecin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a91be290-9118-47d9-b3c0-b1137097bd98
+  recordings: [3ca00068-22b5-4d91-b8c1-5e9868bf2305]

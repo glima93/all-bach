@@ -1,0 +1,28 @@
+id: christoph-ullrich-1999
+performers:
+- name: Christoph Ullrich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '828', complete: false, movements: [IV. Aria, V. Sarabande]}
+- {bwv: '829', complete: false, movements: [V. Tempo di Minuetto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c0c05a1-607e-488b-a9f8-2408052c5e31
+  title: Januskopf Bach - Cage
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f6d24af9-d539-40c4-9c8b-7ed31886d6e1
+  recordings: [855460f9-6677-491f-a970-c267d55dc6d0]

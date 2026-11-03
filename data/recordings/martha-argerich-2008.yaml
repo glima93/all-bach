@@ -1,0 +1,27 @@
+id: martha-argerich-2008
+performers:
+- name: Martha Argerich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/14cfb626-ba06-4eba-87d1-3143ac01589f
+  title: null
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 3bb8b89e-5700-4d7a-aa0b-d48f8706831d
+  recordings: [14cfb626-ba06-4eba-87d1-3143ac01589f]

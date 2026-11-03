@@ -1,0 +1,28 @@
+id: helene-boschi-undated
+performers:
+- name: Hélène Boschi
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3a2432b5-7b9b-4c76-bdf8-b93272ae18c7
+  title: Portrait
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 217a78ba-0715-40cd-bd69-19fbf129f146
+  recordings: [c82df06a-10fe-40de-818a-514bf43de95d]

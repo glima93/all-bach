@@ -1,0 +1,27 @@
+id: percy-grainger-1926
+performers:
+- name: Percy Grainger
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1926]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '825', complete: false, movements: [VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3a954bf4-eb26-4df6-bc56-eb499352644b
+  title: The Complete 78-RPM Solo Recordings
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9d5a875f-9815-4384-9e4f-cd4ea4f2bc16
+  recordings: [af5a4d02-cab4-41f1-a717-732be63ad431]

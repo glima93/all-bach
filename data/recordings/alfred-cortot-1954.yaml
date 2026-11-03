@@ -1,0 +1,26 @@
+id: alfred-cortot-1954
+performers:
+- name: Alfred Cortot
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1954, 1960]
+  place: École normale de musique de Paris
+released: 2005
+original_label: null
+works:
+- {bwv: '825', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9ee6ddfd-8964-4d5d-9121-fe3503cffff7
+  title: The Master Classes
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c063351f-8877-415f-b4bd-c65f60cedb66
+  recordings: [64288511-125a-4a57-b31a-56e5b52df09a]

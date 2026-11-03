@@ -1,0 +1,27 @@
+id: vikingur-olafsson-2010
+performers:
+- name: Víkingur Ólafsson
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2010, 2011]
+  place: 'Gewandhaus: Mendelssohn-Saal'
+released: 2011
+original_label: null
+works:
+- {bwv: '826', complete: true}
+- {bwv: '829', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4db64572-d7b3-4998-86f4-5925f93bb7a9
+  title: 'Bach: Partitas / Chopin: Preludes'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cea4a3b8-c26c-4b61-a243-cf72555e2c71
+  recordings: [de9c2b97-f4f2-4b1c-8569-fcedb9ac9858]

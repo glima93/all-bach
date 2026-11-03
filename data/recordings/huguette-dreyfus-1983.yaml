@@ -1,0 +1,31 @@
+id: huguette-dreyfus-1983
+performers:
+- name: Huguette Dreyfus
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1983]
+  place: 上野学園 石橋メモリアルホール
+released: 1985
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82c91624-7e39-43ce-8638-27a0db922ffd
+  title: Six Partitas for Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a69af194-3fc4-44eb-92a0-402422470e42
+  recordings: [ec03a2a2-7d7b-4532-8398-c79a11bc77c8]

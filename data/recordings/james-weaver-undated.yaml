@@ -1,0 +1,33 @@
+id: james-weaver-undated
+performers:
+- name: James Weaver
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1978
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9228a906-958f-44ed-9f51-4c2aa56e72c3
+  title: Six Partitas for Solo Harpsichord
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: feb989a7-d009-4d81-b873-abca73e3d045
+  recordings: [446e7d86-31c1-44fa-972b-cdb653cf9335]

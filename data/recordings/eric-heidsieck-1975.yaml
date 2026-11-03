@@ -1,0 +1,27 @@
+id: eric-heidsieck-1975
+performers:
+- name: Éric Heidsieck
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1975]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '828', complete: false, movements: [I. Overture, VI. Menuet, VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0107e74f-4c2c-410a-87e5-77e60c9c7292
+  title: Récital Haendel, Beethoven, Schubert, Mendelssohn, et Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dadcfcff-9b1e-42e7-afef-cb794ce4ad0e
+  recordings: [f0f143cf-0b22-411e-ae61-5c92799b7d86]

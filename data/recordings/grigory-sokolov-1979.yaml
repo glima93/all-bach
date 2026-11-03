@@ -1,0 +1,27 @@
+id: grigory-sokolov-1979
+performers:
+- name: Grigory Sokolov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1979, 1981]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e146206-8df1-4a0d-9be5-8aaf67ec7066
+  title: Die Kunst der Fuge BWV 1080
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1928a9f4-7ce0-4c68-855c-85410c5d06a7
+  recordings: [ea549b71-7498-43bb-8ddb-78a8d677716c]

@@ -1,0 +1,28 @@
+id: richard-goode-2002
+performers:
+- name: Richard Goode
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2002]
+  place: The American Academy of Arts and Letters
+released: 2003
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/56f5a24a-b683-476f-ac7b-2931ca96b25b
+  title: Partitas nos. 1, 3, 6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 945a268a-328f-4b91-9453-d1996f162a3c
+  recordings: [400401a6-45fc-47b0-8cc6-77184accef8c]

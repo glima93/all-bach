@@ -1,0 +1,19 @@
+bwv: "826"
+title: "Partita No. 2"
+key: "C minor"
+collection: "Partitas (Clavier-Übung I)"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Leipzig; published separately in 1727, collected in Clavier-Übung I, Op. 1 (1731)"
+movements:
+  - "I. Sinfonia"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Sarabande"
+  - "V. Rondeaux"
+  - "VI. Capriccio"
+notes: "The opening Sinfonia joins a slow introduction in French-overture style, an andante and a fugue; the suite closes with a Capriccio in place of a gigue."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Partitas_for_keyboard_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/24e90057-a120-4d28-af83-fb8236c45982

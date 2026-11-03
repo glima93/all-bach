@@ -1,0 +1,29 @@
+id: eric-rosser-undated
+performers:
+- name: Eric Rosser
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '826', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f3cecff8-19d0-4ac0-9310-cfd0e75795c9
+  title: A Classical Background
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24e0e7d8-520b-4d3c-a4d6-3bfef71615a8
+  recordings: [4857e64d-5cb6-479b-b384-0ad85fc748ae]

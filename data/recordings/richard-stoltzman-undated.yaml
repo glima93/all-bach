@@ -1,0 +1,28 @@
+id: richard-stoltzman-undated
+performers:
+- name: Richard Stoltzman
+  role: clarinet
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: The American Academy of Arts and Letters
+released: 2007
+original_label: null
+works:
+- {bwv: '827', complete: false, movements: [VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0098d378-1ac2-48af-aca9-5646296b00e5
+  title: 'Variations And Fantasies: Richard Stoltzman Plays Bach'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on clarinet.
+musicbrainz:
+  artist: 1b6cb822-3883-42a5-88a0-0b1d95e4858a
+  recordings: [a5e7a775-5989-4c76-a8a6-1bd9144d5c5d]

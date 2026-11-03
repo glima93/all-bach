@@ -1,0 +1,28 @@
+id: maire-halava-undated
+performers:
+- name: Maire Halava
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '826', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6b79cf72-affc-4495-8754-e2ccda0737e0
+  title: Piano Recordings 1951–1966
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3e61baa5-7b96-4c2d-a246-1e5858a62a49
+  recordings: [4e72c433-085e-40dd-94be-be96218c3eec]

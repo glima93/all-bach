@@ -1,0 +1,32 @@
+id: jorg-demus-undated-2
+performers:
+- name: Jörg Demus
+  role: performer
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '825', complete: false, movements: [I. Prelude, II. Allemande, IV. Sarabande, VII. Gigue]}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5c62936f-5510-4419-99bd-bd075655a594
+  title: Partiten (The Best Collection of Bach Piano Music Vol. 12)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 0c2fc183-68d2-409f-a236-9cd3fcdaddeb
+  recordings: [22621636-2b06-4f23-b803-e1484df829ec]

@@ -1,0 +1,32 @@
+id: robert-woolley-1996
+performers:
+- name: Robert Woolley
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '825', complete: true}
+- {bwv: '826', complete: true}
+- {bwv: '827', complete: true}
+- {bwv: '828', complete: true}
+- {bwv: '829', complete: true}
+- {bwv: '830', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5fc805e0-74b4-493a-a54a-4c834cf263c7
+  title: Partitas for Keyboard
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9aba39bf-29a6-42ec-8cb5-87a2c676f374
+  recordings: [5891b259-0126-42b3-98a1-c47fb1d8cb23]

@@ -1,0 +1,28 @@
+id: martha-schuster-undated
+performers:
+- name: Martha Schuster
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '829', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/19e263ef-9c48-44ed-adbf-304cbc7f4cf8
+  title: Classic Reference
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d6a5b550-7266-4fed-acbf-100f802ae749
+  recordings: [d0edbf11-497c-43c2-9aa7-5fd7e9fd137f]
