@@ -1,8 +1,10 @@
-id: luc-beausejour-2020
+id: stick-bow-2020
 performers:
+- name: Stick&Bow
+  role: marimba and cello
 - name: Luc Beauséjour
   role: harpsichord
-instrument: cello
+instrument: ensemble
 performance_practice: unknown
 arrangement: true
 arranger: null

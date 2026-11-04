@@ -134,6 +134,15 @@ OVERRIDE_BY_SNAPSHOT = {
     "2b4fdf38-9319-46c9-a7d6-bccde298c1d8": ({"instrument": "piano"}, "Alexander Borovsky, pianist; no instrument credit"),
     "5091c92c-e0a7-4b2e-8f59-945f7d1bfa92": ({"arrangement": False}, "Suzuki Piano School recording: the original text on piano, not an arrangement"),
     "9b1b43ba-ab99-4392-8650-7d65a64bc506": ({"instrument": "ensemble"}, "a big band; guitar came from one sideman's credit"),
+    "d1d94280-247a-4953-bcd6-471444d92973": ({"performers": [{"name": "Stick&Bow", "role": "marimba and cello"},
+                                                             {"name": "Luc Beauséjour", "role": "harpsichord"}],
+                                              "instrument": "ensemble", "arrangement": True},
+        "two Sinfonias on Stick&Bow and Beauséjour's trio-sonata album; the keyboard-soloist rule kept only Beauséjour"),
+    "d450c82a-5373-46d3-ba5c-1df687b73807": ({"arrangement": True}, "Satoru Shiota, jazz pianist, on his solo album piano solo = solo salt"),
+    "47d46da6-b109-4188-a280-0b774ece9cfc": ({"instrument": "ensemble", "arrangement": True},
+        "eight players, live, in two-voice Inventions: an ensemble arrangement, not one keyboard"),
+    "795d4a75-14cc-4d33-872e-8b6828463af9": ({"instrument": "ensemble"},
+        "Da Gamba: organ, violin, harpsichord and two gambas credited across the album; which play the Invention is not known"),
   },
   "partitas": {
     "56df13cd-74c2-4bc9-ab40-aa572b5e7fe5": ({"instrument": "fortepiano"},
@@ -701,6 +710,8 @@ def main(snapshot: str) -> int:
         new = from_perf(perf, bwvs, moves, native, per_performer[main_name], mode, lead, scoring)
         if perf["repId"] in overrides:
             fix = overrides[perf["repId"]][0]
+            if "performers" in fix:
+                new["performers"] = [dict(p) for p in fix["performers"]]
             if "instrument" in fix:
                 new["instrument"] = fix["instrument"]
                 new["performance_practice"] = ("historical" if fix["instrument"] in HISTORICAL

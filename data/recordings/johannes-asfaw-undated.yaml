@@ -16,9 +16,9 @@ performers:
   role: performer
 - name: David Zielman
   role: performer
-instrument: unknown
+instrument: ensemble
 performance_practice: unknown
-arrangement: false
+arrangement: true
 recorded:
   years: []
   place: Ottone
@@ -48,7 +48,6 @@ links:
 status: draft
 help_wanted:
 - Recording year
-- Instrument (MusicBrainz has no instrument credit)
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: Live recording.
 musicbrainz:
