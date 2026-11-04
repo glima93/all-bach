@@ -1,0 +1,804 @@
+{
+ "collection": "inventions-sinfonias",
+ "taken": "2026-11-03",
+ "recordings": 2070,
+ "performances": 126,
+ "works": [
+  {
+   "bwv": "772",
+   "id": "ea246fd8-60bc-3469-b81e-095dd0925438",
+   "candidates": [
+    {
+     "id": "ea246fd8-60bc-3469-b81e-095dd0925438",
+     "title": "Inventio Nr. 1 C-Dur, BWV 772"
+    },
+    {
+     "id": "b6e479b5-f71d-4bac-b8e9-f53388148e82",
+     "title": "Inventio Nr. 1 C-Dur, BWV 772"
+    },
+    {
+     "id": "b93ea9d2-1455-41ab-8af3-98fd5a4a632b",
+     "title": "Inventio Nr. 1 C-Dur, BWV 772"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 1 C-Dur, BWV 772",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "ea246fd8-60bc-3469-b81e-095dd0925438",
+     "title": "Inventio Nr. 1 C-Dur, BWV 772"
+    }
+   ]
+  },
+  {
+   "bwv": "773",
+   "id": "8b3a9214-bbec-311d-a61b-874bf15dfdde",
+   "candidates": [
+    {
+     "id": "8b3a9214-bbec-311d-a61b-874bf15dfdde",
+     "title": "Inventio Nr. 2 c-Moll, BWV 773"
+    },
+    {
+     "id": "2cec9322-6ae4-4604-95ba-92763629087c",
+     "title": "Inventio Nr. 2 c-Moll, BWV 773"
+    },
+    {
+     "id": "7450f794-86be-4e57-ab96-0941eed076fe",
+     "title": "Inventio Nr. 2 c-Moll, BWV 773"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 2 c-Moll, BWV 773",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "8b3a9214-bbec-311d-a61b-874bf15dfdde",
+     "title": "Inventio Nr. 2 c-Moll, BWV 773"
+    }
+   ]
+  },
+  {
+   "bwv": "774",
+   "id": "f8b6980d-b5ee-34bb-8ef6-e5ab4c7e6d1e",
+   "candidates": [
+    {
+     "id": "f8b6980d-b5ee-34bb-8ef6-e5ab4c7e6d1e",
+     "title": "Inventio Nr. 3 D-Dur, BWV 774"
+    },
+    {
+     "id": "e49a42a5-5fc3-4c89-905c-20a8e277c9ce",
+     "title": "Inventio Nr. 3 D-Dur, BWV 774"
+    },
+    {
+     "id": "dad01ad6-c683-4856-9cb4-336d13e300d5",
+     "title": "Inventio Nr. 3 D-Dur, BWV 774"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 3 D-Dur, BWV 774",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "f8b6980d-b5ee-34bb-8ef6-e5ab4c7e6d1e",
+     "title": "Inventio Nr. 3 D-Dur, BWV 774"
+    }
+   ]
+  },
+  {
+   "bwv": "775",
+   "id": "e3d95013-61a3-312e-998b-0247aecda06f",
+   "candidates": [
+    {
+     "id": "e3d95013-61a3-312e-998b-0247aecda06f",
+     "title": "Inventio Nr. 4 d-Moll, BWV 775"
+    },
+    {
+     "id": "cf9ba892-ccbc-41da-b56f-4d03067d8f9f",
+     "title": "Inventio Nr. 4 d-Moll, BWV 775"
+    },
+    {
+     "id": "64e02f57-85c9-4108-97cb-b0dc43a7fd2a",
+     "title": "Inventio Nr. 4 d-Moll, BWV 775"
+    },
+    {
+     "id": "08b038c5-e072-406f-9394-0550a0aedc2b",
+     "title": "Invention No. 4 in D minor, BWV 775"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 4 d-Moll, BWV 775",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "e3d95013-61a3-312e-998b-0247aecda06f",
+     "title": "Inventio Nr. 4 d-Moll, BWV 775"
+    }
+   ]
+  },
+  {
+   "bwv": "776",
+   "id": "f486b15e-ba65-3e4c-aafb-9bc37ce78183",
+   "candidates": [
+    {
+     "id": "f486b15e-ba65-3e4c-aafb-9bc37ce78183",
+     "title": "Inventio Nr. 5 Es-Dur, BWV 776"
+    },
+    {
+     "id": "3efab86c-cd2c-4193-8e12-645f42744e2c",
+     "title": "Inventio Nr. 5 Es-Dur, BWV 776"
+    },
+    {
+     "id": "455d6f99-4469-42d5-a29f-5dd128223cb2",
+     "title": "Inventio Nr. 5 Es-Dur, BWV 776"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 5 Es-Dur, BWV 776",
+   "key": "E-flat major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "f486b15e-ba65-3e4c-aafb-9bc37ce78183",
+     "title": "Inventio Nr. 5 Es-Dur, BWV 776"
+    }
+   ]
+  },
+  {
+   "bwv": "777",
+   "id": "d4cd3ec1-3147-3e84-8678-5c37c44d4fab",
+   "candidates": [
+    {
+     "id": "d4cd3ec1-3147-3e84-8678-5c37c44d4fab",
+     "title": "Inventio Nr. 6 E-Dur, BWV 777"
+    },
+    {
+     "id": "499391c5-2de2-46c5-b43c-1c90cb24540a",
+     "title": "Inventio Nr. 6 E-Dur, BWV 777"
+    },
+    {
+     "id": "45ab8e38-d351-416c-bd29-d8859ea06e1c",
+     "title": "Inventio Nr. 6 E-Dur, BWV 777"
+    },
+    {
+     "id": "6402409b-bf2c-482f-8a70-0965174b796b",
+     "title": "Invention No. 6 in E Major, BWV 777"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 6 E-Dur, BWV 777",
+   "key": "E major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "d4cd3ec1-3147-3e84-8678-5c37c44d4fab",
+     "title": "Inventio Nr. 6 E-Dur, BWV 777"
+    }
+   ]
+  },
+  {
+   "bwv": "778",
+   "id": "0e2c9e87-2f3c-375b-a1e0-97c4f0c05943",
+   "candidates": [
+    {
+     "id": "0e2c9e87-2f3c-375b-a1e0-97c4f0c05943",
+     "title": "Inventio Nr. 7 e-Moll, BWV 778"
+    },
+    {
+     "id": "5acdce41-2b84-467e-94dd-393af4b44e17",
+     "title": "Inventio Nr. 7 e-Moll, BWV 778"
+    },
+    {
+     "id": "dc2c61f4-2f1b-4da9-9cfe-522574903d65",
+     "title": "Inventio Nr. 7 e-Moll, BWV 778"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 7 e-Moll, BWV 778",
+   "key": "E minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "0e2c9e87-2f3c-375b-a1e0-97c4f0c05943",
+     "title": "Inventio Nr. 7 e-Moll, BWV 778"
+    }
+   ]
+  },
+  {
+   "bwv": "779",
+   "id": "edcd30e1-6bbd-37d9-96bf-1dca3cdc3bde",
+   "candidates": [
+    {
+     "id": "edcd30e1-6bbd-37d9-96bf-1dca3cdc3bde",
+     "title": "Inventio Nr. 8 F-Dur, BWV 779"
+    },
+    {
+     "id": "7666b6de-79ff-4b43-8f80-031b8297bc27",
+     "title": "Inventio Nr. 8 F-Dur, BWV 779"
+    },
+    {
+     "id": "43487034-ab82-4a32-b970-ab394b4a1371",
+     "title": "Inventio Nr. 8 F-Dur, BWV 779"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 8 F-Dur, BWV 779",
+   "key": "F major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "edcd30e1-6bbd-37d9-96bf-1dca3cdc3bde",
+     "title": "Inventio Nr. 8 F-Dur, BWV 779"
+    }
+   ]
+  },
+  {
+   "bwv": "780",
+   "id": "53491e8e-96d1-3a07-bd09-1f8d4cb052ef",
+   "candidates": [
+    {
+     "id": "53491e8e-96d1-3a07-bd09-1f8d4cb052ef",
+     "title": "Inventio Nr. 9 f-Moll, BWV 780"
+    },
+    {
+     "id": "63da6e1e-3ea0-462a-b699-b0e6fb90dd1f",
+     "title": "Inventio Nr. 9 f-Moll, BWV 780"
+    },
+    {
+     "id": "4373f1a1-ce53-47e1-94ce-4b75f61254a4",
+     "title": "Inventio Nr. 9 f-Moll, BWV 780"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 9 f-Moll, BWV 780",
+   "key": "F minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "53491e8e-96d1-3a07-bd09-1f8d4cb052ef",
+     "title": "Inventio Nr. 9 f-Moll, BWV 780"
+    }
+   ]
+  },
+  {
+   "bwv": "781",
+   "id": "265cedde-4fd0-39a7-aad0-0b51e21cef0b",
+   "candidates": [
+    {
+     "id": "265cedde-4fd0-39a7-aad0-0b51e21cef0b",
+     "title": "Inventio Nr. 10 G-Dur, BWV 781"
+    },
+    {
+     "id": "5bc3bdf4-d258-41c4-b284-498950e26a35",
+     "title": "Inventio Nr. 10 G-Dur, BWV 781"
+    },
+    {
+     "id": "603779c5-5aab-4c0e-8423-2713446a5116",
+     "title": "Inventio Nr. 10 G-Dur, BWV 781"
+    },
+    {
+     "id": "d1c48c8b-b82e-4524-95f9-27767bf45a7f",
+     "title": "Invention No. 10 in G major, BWV 781"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 10 G-Dur, BWV 781",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "265cedde-4fd0-39a7-aad0-0b51e21cef0b",
+     "title": "Inventio Nr. 10 G-Dur, BWV 781"
+    }
+   ]
+  },
+  {
+   "bwv": "782",
+   "id": "cbf2f968-4a40-32b0-9dba-b8fe7db7e390",
+   "candidates": [
+    {
+     "id": "cbf2f968-4a40-32b0-9dba-b8fe7db7e390",
+     "title": "Inventio Nr. 11 g-Moll, BWV 782"
+    },
+    {
+     "id": "8a2a4a06-0f69-455f-9bbb-3ce49524f966",
+     "title": "Inventio Nr. 11 g-Moll, BWV 782"
+    },
+    {
+     "id": "4646b275-6e9b-484f-b999-66a5fef95fa7",
+     "title": "Inventio Nr. 11 g-Moll, BWV 782"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 11 g-Moll, BWV 782",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "cbf2f968-4a40-32b0-9dba-b8fe7db7e390",
+     "title": "Inventio Nr. 11 g-Moll, BWV 782"
+    }
+   ]
+  },
+  {
+   "bwv": "783",
+   "id": "a3462614-c1b3-3888-b090-e611111458d1",
+   "candidates": [
+    {
+     "id": "a3462614-c1b3-3888-b090-e611111458d1",
+     "title": "Inventio Nr. 12 A-Dur, BWV 783"
+    },
+    {
+     "id": "25823ffa-39ed-47c9-b79d-428b01346ebb",
+     "title": "Inventio Nr. 12 A-Dur, BWV 783"
+    },
+    {
+     "id": "07c231eb-25f9-4892-865c-615035f24158",
+     "title": "Inventio Nr. 12 A-Dur, BWV 783"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 12 A-Dur, BWV 783",
+   "key": "A major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "a3462614-c1b3-3888-b090-e611111458d1",
+     "title": "Inventio Nr. 12 A-Dur, BWV 783"
+    }
+   ]
+  },
+  {
+   "bwv": "784",
+   "id": "ba148b6e-d51a-3056-b5ab-d3efc7f644fa",
+   "candidates": [
+    {
+     "id": "ba148b6e-d51a-3056-b5ab-d3efc7f644fa",
+     "title": "Inventio Nr. 13 a-Moll, BWV 784"
+    },
+    {
+     "id": "bb525053-3534-41ca-8dad-a9a7346d2edb",
+     "title": "Inventio Nr. 13 a-Moll, BWV 784"
+    },
+    {
+     "id": "e3f8e0cf-2d44-4eed-aa4f-ebcd4b38e09e",
+     "title": "Inventio Nr. 13 a-Moll, BWV 784"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 13 a-Moll, BWV 784",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "ba148b6e-d51a-3056-b5ab-d3efc7f644fa",
+     "title": "Inventio Nr. 13 a-Moll, BWV 784"
+    }
+   ]
+  },
+  {
+   "bwv": "785",
+   "id": "ba3b0fd0-3da9-3d38-b81f-e6274d99806d",
+   "candidates": [
+    {
+     "id": "ba3b0fd0-3da9-3d38-b81f-e6274d99806d",
+     "title": "Inventio Nr. 14 B-Dur, BWV 785"
+    },
+    {
+     "id": "70804af4-c465-42c0-b4b0-6ecca1f1c820",
+     "title": "Inventio Nr. 14 B-Dur, BWV 785"
+    },
+    {
+     "id": "111d441b-931d-42c2-982a-e125eb37f074",
+     "title": "Inventio Nr. 14 B-Dur, BWV 785"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 14 B-Dur, BWV 785",
+   "key": "B-flat major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "ba3b0fd0-3da9-3d38-b81f-e6274d99806d",
+     "title": "Inventio Nr. 14 B-Dur, BWV 785"
+    }
+   ]
+  },
+  {
+   "bwv": "786",
+   "id": "3ac2d3ae-0401-321b-ab12-515bc0f385ed",
+   "candidates": [
+    {
+     "id": "3ac2d3ae-0401-321b-ab12-515bc0f385ed",
+     "title": "Inventio Nr. 15 h-Moll, BWV 786"
+    },
+    {
+     "id": "f4f5e909-a9d8-49b9-824c-aca3ef84f190",
+     "title": "Inventio Nr. 15 h-Moll, BWV 786"
+    },
+    {
+     "id": "0207a591-4550-4fca-966f-ad0326b4e90b",
+     "title": "Inventio Nr. 15 h-Moll, BWV 786"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Inventio Nr. 15 h-Moll, BWV 786",
+   "key": "B minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "3ac2d3ae-0401-321b-ab12-515bc0f385ed",
+     "title": "Inventio Nr. 15 h-Moll, BWV 786"
+    }
+   ]
+  },
+  {
+   "bwv": "787",
+   "id": "8e2b7c00-968f-32f6-85de-393f6d501765",
+   "candidates": [
+    {
+     "id": "8e2b7c00-968f-32f6-85de-393f6d501765",
+     "title": "Sinfonia Nr. 1 C-Dur, BWV 787"
+    },
+    {
+     "id": "beae9732-e8cd-442c-8629-f00a7b8400e1",
+     "title": "Sinfonia Nr. 1 C-Dur, BWV 787"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 1 C-Dur, BWV 787",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "8e2b7c00-968f-32f6-85de-393f6d501765",
+     "title": "Sinfonia Nr. 1 C-Dur, BWV 787"
+    }
+   ]
+  },
+  {
+   "bwv": "788",
+   "id": "13e9cd3c-8fd9-3fef-9841-854e8d908cfd",
+   "candidates": [
+    {
+     "id": "13e9cd3c-8fd9-3fef-9841-854e8d908cfd",
+     "title": "Sinfonia Nr. 2 c-Moll, BWV 788"
+    },
+    {
+     "id": "e91f6886-ef2b-48c4-b743-c3eda20955d0",
+     "title": "Sinfonia Nr. 2 c-Moll, BWV 788"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 2 c-Moll, BWV 788",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "13e9cd3c-8fd9-3fef-9841-854e8d908cfd",
+     "title": "Sinfonia Nr. 2 c-Moll, BWV 788"
+    }
+   ]
+  },
+  {
+   "bwv": "789",
+   "id": "4cae1af8-fc11-31a3-977e-3bdc72a0e0c5",
+   "candidates": [
+    {
+     "id": "4cae1af8-fc11-31a3-977e-3bdc72a0e0c5",
+     "title": "Sinfonia Nr. 3 D-Dur, BWV 789"
+    },
+    {
+     "id": "39371327-f0d4-430f-b8ba-e391447a9c6b",
+     "title": "Sinfonia Nr. 3 D-Dur, BWV 789"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 3 D-Dur, BWV 789",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "4cae1af8-fc11-31a3-977e-3bdc72a0e0c5",
+     "title": "Sinfonia Nr. 3 D-Dur, BWV 789"
+    }
+   ]
+  },
+  {
+   "bwv": "790",
+   "id": "12ea8ecc-8ff5-330e-98d7-f95510fc5ceb",
+   "candidates": [
+    {
+     "id": "12ea8ecc-8ff5-330e-98d7-f95510fc5ceb",
+     "title": "Sinfonia Nr. 4 d-Moll, BWV 790"
+    },
+    {
+     "id": "1e37f511-8015-4eb3-be3d-6bda6ec8b89e",
+     "title": "Sinfonia Nr. 4 d-Moll, BWV 790"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 4 d-Moll, BWV 790",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "12ea8ecc-8ff5-330e-98d7-f95510fc5ceb",
+     "title": "Sinfonia Nr. 4 d-Moll, BWV 790"
+    }
+   ]
+  },
+  {
+   "bwv": "791",
+   "id": "f48e5f51-395d-34c6-9932-abc036335147",
+   "candidates": [
+    {
+     "id": "f48e5f51-395d-34c6-9932-abc036335147",
+     "title": "Sinfonia Nr. 5 Es-Dur, BWV 791"
+    },
+    {
+     "id": "14e67c13-dc20-4dc6-bf13-d2528403eb87",
+     "title": "Sinfonia Nr. 5 Es-Dur, BWV 791"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 5 Es-Dur, BWV 791",
+   "key": "E-flat major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "f48e5f51-395d-34c6-9932-abc036335147",
+     "title": "Sinfonia Nr. 5 Es-Dur, BWV 791"
+    }
+   ]
+  },
+  {
+   "bwv": "792",
+   "id": "54e264da-0ce9-38dd-8d2e-02eef0e19a5d",
+   "candidates": [
+    {
+     "id": "54e264da-0ce9-38dd-8d2e-02eef0e19a5d",
+     "title": "Sinfonia Nr. 6 E-Dur, BWV 792"
+    },
+    {
+     "id": "26c139f2-ba92-4807-8d59-c6e06696bff2",
+     "title": "Sinfonia Nr. 6 E-Dur, BWV 792"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 6 E-Dur, BWV 792",
+   "key": "E major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "54e264da-0ce9-38dd-8d2e-02eef0e19a5d",
+     "title": "Sinfonia Nr. 6 E-Dur, BWV 792"
+    }
+   ]
+  },
+  {
+   "bwv": "793",
+   "id": "e97507a6-86c9-3e48-8af1-90e077247c02",
+   "candidates": [
+    {
+     "id": "e97507a6-86c9-3e48-8af1-90e077247c02",
+     "title": "Sinfonia Nr. 7 e-Moll, BWV 793"
+    },
+    {
+     "id": "c2565466-14a1-48ee-8e8e-2ffa9c173749",
+     "title": "Sinfonia Nr. 7 e-Moll, BWV 793"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 7 e-Moll, BWV 793",
+   "key": "E minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "e97507a6-86c9-3e48-8af1-90e077247c02",
+     "title": "Sinfonia Nr. 7 e-Moll, BWV 793"
+    }
+   ]
+  },
+  {
+   "bwv": "794",
+   "id": "145dab90-1c69-31bc-acb1-f697275677bf",
+   "candidates": [
+    {
+     "id": "145dab90-1c69-31bc-acb1-f697275677bf",
+     "title": "Sinfonia Nr. 8 F-Dur, BWV 794"
+    },
+    {
+     "id": "3615c774-d055-46a8-9288-535eee81495f",
+     "title": "Sinfonia Nr. 8 F-Dur, BWV 794"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 8 F-Dur, BWV 794",
+   "key": "F major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "145dab90-1c69-31bc-acb1-f697275677bf",
+     "title": "Sinfonia Nr. 8 F-Dur, BWV 794"
+    }
+   ]
+  },
+  {
+   "bwv": "795",
+   "id": "c45a4bd2-f436-3070-a73c-9ed581c4d37f",
+   "candidates": [
+    {
+     "id": "c45a4bd2-f436-3070-a73c-9ed581c4d37f",
+     "title": "Sinfonia Nr. 9 f-Moll, BWV 795"
+    },
+    {
+     "id": "3098ccd1-fcb0-44d5-92d0-052dd5542e69",
+     "title": "Sinfonia Nr. 9 f-Moll, BWV 795"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 9 f-Moll, BWV 795",
+   "key": "F minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "c45a4bd2-f436-3070-a73c-9ed581c4d37f",
+     "title": "Sinfonia Nr. 9 f-Moll, BWV 795"
+    }
+   ]
+  },
+  {
+   "bwv": "796",
+   "id": "8e340663-b0f3-35c9-a9d6-2e9bc8aacf2d",
+   "candidates": [
+    {
+     "id": "8e340663-b0f3-35c9-a9d6-2e9bc8aacf2d",
+     "title": "Sinfonia Nr. 10 G-Dur, BWV 796"
+    },
+    {
+     "id": "9ee7d8d3-7dff-471e-a4ca-6d6ca9bd1249",
+     "title": "Sinfonia Nr. 10 G-Dur, BWV 796"
+    },
+    {
+     "id": "40bee10b-388c-46b1-afa9-874135561d69",
+     "title": "Sinfonia in G major, BWV 796"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 10 G-Dur, BWV 796",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "8e340663-b0f3-35c9-a9d6-2e9bc8aacf2d",
+     "title": "Sinfonia Nr. 10 G-Dur, BWV 796"
+    }
+   ]
+  },
+  {
+   "bwv": "797",
+   "id": "ea2d3aa8-562e-3ba4-bbc3-fc03448f6e52",
+   "candidates": [
+    {
+     "id": "ea2d3aa8-562e-3ba4-bbc3-fc03448f6e52",
+     "title": "Sinfonia Nr. 11 g-Moll, BWV 797"
+    },
+    {
+     "id": "38dae9c1-6e35-465e-907f-02fa987b20b4",
+     "title": "Sinfonia Nr. 11 g-Moll, BWV 797"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 11 g-Moll, BWV 797",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "ea2d3aa8-562e-3ba4-bbc3-fc03448f6e52",
+     "title": "Sinfonia Nr. 11 g-Moll, BWV 797"
+    }
+   ]
+  },
+  {
+   "bwv": "798",
+   "id": "e44cd98a-ff77-3b06-a058-303795c8face",
+   "candidates": [
+    {
+     "id": "e44cd98a-ff77-3b06-a058-303795c8face",
+     "title": "Sinfonia Nr. 12 A-Dur, BWV 798"
+    },
+    {
+     "id": "e99c2884-cd25-4d19-8617-b42e7b4bc337",
+     "title": "Sinfonia Nr. 12 A-Dur, BWV 798"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 12 A-Dur, BWV 798",
+   "key": "A major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "e44cd98a-ff77-3b06-a058-303795c8face",
+     "title": "Sinfonia Nr. 12 A-Dur, BWV 798"
+    }
+   ]
+  },
+  {
+   "bwv": "799",
+   "id": "11f2fc15-ce96-3b8c-b17f-ac6695a7bc6a",
+   "candidates": [
+    {
+     "id": "11f2fc15-ce96-3b8c-b17f-ac6695a7bc6a",
+     "title": "Sinfonia Nr. 13 a-Moll, BWV 799"
+    },
+    {
+     "id": "401790e6-967c-4c62-8925-0b54777c6c86",
+     "title": "Sinfonia Nr. 13 a‐Moll, BWV 799"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 13 a-Moll, BWV 799",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "11f2fc15-ce96-3b8c-b17f-ac6695a7bc6a",
+     "title": "Sinfonia Nr. 13 a-Moll, BWV 799"
+    }
+   ]
+  },
+  {
+   "bwv": "800",
+   "id": "034a9551-409e-3efc-8fae-38c55a14b143",
+   "candidates": [
+    {
+     "id": "034a9551-409e-3efc-8fae-38c55a14b143",
+     "title": "Sinfonia Nr. 14 B-Dur, BWV 800"
+    },
+    {
+     "id": "fcbbcd41-e324-44c0-9657-f4a9b1295516",
+     "title": "Sinfonia Nr. 14 B-Dur, BWV 800"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 14 B-Dur, BWV 800",
+   "key": "B-flat major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "034a9551-409e-3efc-8fae-38c55a14b143",
+     "title": "Sinfonia Nr. 14 B-Dur, BWV 800"
+    }
+   ]
+  },
+  {
+   "bwv": "801",
+   "id": "b0315f29-2007-3a18-a60c-ee10eca8c125",
+   "candidates": [
+    {
+     "id": "b0315f29-2007-3a18-a60c-ee10eca8c125",
+     "title": "Sinfonia Nr. 15 h-Moll, BWV 801"
+    },
+    {
+     "id": "28eeb316-8baa-46e0-90cb-41d6602eb98b",
+     "title": "Sinfonia Nr. 15 h-Moll, BWV 801"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sinfonia Nr. 15 h-Moll, BWV 801",
+   "key": "B minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "b0315f29-2007-3a18-a60c-ee10eca8c125",
+     "title": "Sinfonia Nr. 15 h-Moll, BWV 801"
+    }
+   ]
+  }
+ ]
+}

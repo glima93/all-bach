@@ -1,0 +1,28 @@
+id: jorg-demus-undated-3
+performers:
+- name: Jörg Demus
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '797', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17689848-fcd3-419b-88a4-17078dc17a18
+  title: 'Piano Masterpieces: Klassische Meisterwerke großer Komponisten'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0c2fc183-68d2-409f-a236-9cd3fcdaddeb
+  recordings: [48fbd108-4087-40e5-ba77-e292d5c06396]

@@ -1,0 +1,14 @@
+bwv: "776"
+title: "Invention No. 5"
+key: "E-flat major"
+collection: "Inventions and Sinfonias"
+genre: keyboard
+scoring: "keyboard (clavier), two voices"
+composed: "Köthen; fair copy dated 1723 (an earlier version, titled Praeambulum, in the Clavier-Büchlein for Wilhelm Friedemann Bach, begun 1720)"
+movements:
+  - "Invention No. 5 in E-flat major"
+notes: "The E-flat major invention, placed fifth in the ascending key order of the 1723 fair copy."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Inventions_and_Sinfonias_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f486b15e-ba65-3e4c-aafb-9bc37ce78183

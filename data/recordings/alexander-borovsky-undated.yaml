@@ -1,0 +1,28 @@
+id: alexander-borovsky-undated
+performers:
+- name: Alexander Borovsky
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '785', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6760f7b-c529-43dc-be2e-23c7f0b380ac
+  title: The Story of Bach in Words and Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a94699ce-3ab1-491f-8299-fc643e6ba637
+  recordings: [2b4fdf38-9319-46c9-a7d6-bccde298c1d8]

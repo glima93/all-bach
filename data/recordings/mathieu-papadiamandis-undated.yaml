@@ -1,0 +1,28 @@
+id: mathieu-papadiamandis-undated
+performers:
+- name: Mathieu Papadiamandis
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '775', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b807afa8-6c5e-44b9-a538-705c2c29ea74
+  title: Pianist 52
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 28545609-2b48-45ed-96a3-c92a237065fa
+  recordings: [4fb0fa0e-a8ed-4bd3-a14a-f699fb9ac602]

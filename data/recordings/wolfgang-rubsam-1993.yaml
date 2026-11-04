@@ -1,0 +1,55 @@
+id: wolfgang-rubsam-1993
+performers:
+- name: Wolfgang Rübsam
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1993]
+  place: Orum Hall
+released: 1995
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '773', complete: true}
+- {bwv: '774', complete: true}
+- {bwv: '775', complete: true}
+- {bwv: '776', complete: true}
+- {bwv: '777', complete: true}
+- {bwv: '778', complete: true}
+- {bwv: '779', complete: true}
+- {bwv: '780', complete: true}
+- {bwv: '781', complete: true}
+- {bwv: '782', complete: true}
+- {bwv: '783', complete: true}
+- {bwv: '784', complete: true}
+- {bwv: '785', complete: true}
+- {bwv: '786', complete: true}
+- {bwv: '787', complete: true}
+- {bwv: '788', complete: true}
+- {bwv: '789', complete: true}
+- {bwv: '790', complete: true}
+- {bwv: '791', complete: true}
+- {bwv: '792', complete: true}
+- {bwv: '793', complete: true}
+- {bwv: '794', complete: true}
+- {bwv: '795', complete: true}
+- {bwv: '796', complete: true}
+- {bwv: '797', complete: true}
+- {bwv: '798', complete: true}
+- {bwv: '799', complete: true}
+- {bwv: '800', complete: true}
+- {bwv: '801', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3ffc45ad-e723-4139-aeae-477416792e77
+  title: Inventions and Sinfonias (Complete)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [6b6e3479-e0ea-459f-8077-5ce0e25ecf61]

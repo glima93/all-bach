@@ -1,0 +1,28 @@
+id: mark-kruger-undated
+performers:
+- name: Mark Kruger
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '800', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d6151c25-5a0a-400c-874c-604740b1bfdc
+  title: AMEB Piano Series 15 Sixth Grade
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5a54b783-5316-4286-819a-7042b545d3be
+  recordings: [41a7e954-bfb2-4993-a9a3-c5a3e93df8c4]

@@ -1,0 +1,55 @@
+id: johannes-asfaw-undated
+performers:
+- name: Johannes Asfaw
+  role: performer
+- name: Kanji Daito
+  role: performer
+- name: Evander Eijsink
+  role: performer
+- name: Domonkos Hegyi
+  role: performer
+- name: Anna Kuvshinov
+  role: performer
+- name: Frank Monster
+  role: performer
+- name: Peiting Xue
+  role: performer
+- name: David Zielman
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: Ottone
+released: null
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '773', complete: true}
+- {bwv: '774', complete: true}
+- {bwv: '775', complete: true}
+- {bwv: '776', complete: true}
+- {bwv: '777', complete: true}
+- {bwv: '778', complete: true}
+- {bwv: '779', complete: true}
+- {bwv: '780', complete: true}
+- {bwv: '781', complete: true}
+- {bwv: '782', complete: true}
+- {bwv: '783', complete: true}
+- {bwv: '784', complete: true}
+- {bwv: '785', complete: true}
+- {bwv: '786', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/47d46da6-b109-4188-a280-0b774ece9cfc
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 32b6ee92-1fee-4df2-85b8-174450b7a039
+  recordings: [47d46da6-b109-4188-a280-0b774ece9cfc]

@@ -1,0 +1,14 @@
+bwv: "773"
+title: "Invention No. 2"
+key: "C minor"
+collection: "Inventions and Sinfonias"
+genre: keyboard
+scoring: "keyboard (clavier), two voices"
+composed: "Köthen; fair copy dated 1723 (an earlier version, titled Praeambulum, in the Clavier-Büchlein for Wilhelm Friedemann Bach, begun 1720)"
+movements:
+  - "Invention No. 2 in C minor"
+notes: "Much of the piece is a strict canon at the octave between the two voices."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Inventions_and_Sinfonias_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/8b3a9214-bbec-311d-a61b-874bf15dfdde

@@ -1,0 +1,29 @@
+id: bernhard-lindner-undated
+performers:
+- name: Bernhard Lindner
+  role: synthesizer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '799', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7010dcb5-80b1-47fc-8cbb-587923ad0088
+  title: Bach meets the Future
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on synthesizer.
+musicbrainz:
+  artist: c60f0b06-0eac-4dc6-946f-b8eafe349ec2
+  recordings: [a5905e7f-44c9-492f-8e36-383596e9ee54]

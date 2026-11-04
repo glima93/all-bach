@@ -1,0 +1,36 @@
+id: richard-lester-undated-6
+performers:
+- name: Richard Lester
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '774', complete: true}
+- {bwv: '775', complete: true}
+- {bwv: '779', complete: true}
+- {bwv: '783', complete: true}
+- {bwv: '784', complete: true}
+- {bwv: '789', complete: true}
+- {bwv: '791', complete: true}
+- {bwv: '797', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ba5226e2-9a58-4262-8bee-25d303241f95
+  title: Works for Harpsichord Vol. 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fcd267e-44e7-453d-bc47-3dc17531df05
+  recordings: [e6c8bb8e-f86a-411d-8c0e-7bf3cce13af9]

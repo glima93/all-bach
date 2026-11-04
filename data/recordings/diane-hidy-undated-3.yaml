@@ -1,0 +1,42 @@
+id: diane-hidy-undated-3
+performers:
+- name: Diane Hidy
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '773', complete: true}
+- {bwv: '774', complete: true}
+- {bwv: '776', complete: true}
+- {bwv: '777', complete: true}
+- {bwv: '778', complete: true}
+- {bwv: '779', complete: true}
+- {bwv: '780', complete: true}
+- {bwv: '781', complete: true}
+- {bwv: '782', complete: true}
+- {bwv: '783', complete: true}
+- {bwv: '784', complete: true}
+- {bwv: '785', complete: true}
+- {bwv: '786', complete: true}
+- {bwv: '801', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4c3d703f-ff9b-47b9-8871-a062d8beab51
+  title: Notebook for Anna Magdalena Bach / Two-Part Inventions
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 57586d5a-0bc2-45c9-a446-f60de358a593
+  recordings: [b6b0d544-a23f-4d6b-9fa3-f34aefcdd724]

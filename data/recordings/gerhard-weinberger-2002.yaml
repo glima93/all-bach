@@ -1,0 +1,26 @@
+id: gerhard-weinberger-2002
+performers:
+- name: Gerhard Weinberger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002]
+  place: Domstift Brandenburg
+released: 2003
+original_label: null
+works:
+- {bwv: '790', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b86024c-ffd5-4cb3-903a-5a52497b83a5
+  title: 'Organ Works Vol. 14: Arrangements Part I'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e26bf27-1a85-4570-8fb0-ab101310bc14
+  recordings: [9f455089-06c5-451a-b416-d77abd39eedb]

@@ -1,0 +1,55 @@
+id: till-fellner-2007-2
+performers:
+- name: Till Fellner
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2007]
+  place: 'Konzerthaus: Mozart‐Saal'
+released: 2009
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '773', complete: true}
+- {bwv: '774', complete: true}
+- {bwv: '775', complete: true}
+- {bwv: '776', complete: true}
+- {bwv: '777', complete: true}
+- {bwv: '778', complete: true}
+- {bwv: '779', complete: true}
+- {bwv: '780', complete: true}
+- {bwv: '781', complete: true}
+- {bwv: '782', complete: true}
+- {bwv: '783', complete: true}
+- {bwv: '784', complete: true}
+- {bwv: '785', complete: true}
+- {bwv: '786', complete: true}
+- {bwv: '787', complete: true}
+- {bwv: '788', complete: true}
+- {bwv: '789', complete: true}
+- {bwv: '790', complete: true}
+- {bwv: '791', complete: true}
+- {bwv: '792', complete: true}
+- {bwv: '793', complete: true}
+- {bwv: '794', complete: true}
+- {bwv: '795', complete: true}
+- {bwv: '796', complete: true}
+- {bwv: '797', complete: true}
+- {bwv: '798', complete: true}
+- {bwv: '799', complete: true}
+- {bwv: '800', complete: true}
+- {bwv: '801', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9be38d88-9a04-417e-8691-53fc2118c512
+  title: Inventionen und Sinfonien / Französische Suite V
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a9b8d25-8fd8-44e8-b95e-c7bc61f64d4b
+  recordings: [4266ef5f-30c8-46cc-91e5-b734607c241f]
