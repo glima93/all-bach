@@ -1,0 +1,40 @@
+id: vladimir-feltsman-1999-2
+performers:
+- name: Vladimir Feltsman
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1999]
+  place: 'Moscow Conservatory: The Small Hall'
+released: 2001
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '773', complete: true}
+- {bwv: '774', complete: true}
+- {bwv: '775', complete: true}
+- {bwv: '776', complete: true}
+- {bwv: '777', complete: true}
+- {bwv: '778', complete: true}
+- {bwv: '779', complete: true}
+- {bwv: '780', complete: true}
+- {bwv: '781', complete: true}
+- {bwv: '782', complete: true}
+- {bwv: '783', complete: true}
+- {bwv: '784', complete: true}
+- {bwv: '785', complete: true}
+- {bwv: '786', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59b77c76-2091-4406-b75a-2d985f86cfc2
+  title: 'Clavier-übung Part I: Six Partitas'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0f04948f-006c-45af-9111-da91686610da
+  recordings: [4f61b388-8a5a-41a3-8b55-5dd4364a4e01]

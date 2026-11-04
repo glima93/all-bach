@@ -1,0 +1,27 @@
+id: iren-marik-1983
+performers:
+- name: Irén Marik
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1983]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '790', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/952e552d-346e-4378-a678-cc04a92df3fb
+  title: 'Bartók in the Desert: The Art of Irén Marik'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 41181506-03a9-4e34-b0e3-85d745616027
+  recordings: [8456f4f4-056b-403f-934f-de277556a4d4]

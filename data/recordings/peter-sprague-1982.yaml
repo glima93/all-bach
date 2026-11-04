@@ -1,0 +1,28 @@
+id: peter-sprague-1982
+performers:
+- name: Peter Sprague
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1982]
+  place: null
+released: 1982
+original_label: null
+works:
+- {bwv: '779', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/35c84e92-a3fd-4c58-b19f-51af9179015d
+  title: The Message Sent on the Wind
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With drums (drum set), bass, piano.
+musicbrainz:
+  artist: ab24b220-e21c-4817-bad4-64387f810463
+  recordings: [8428d530-da11-4c19-92d2-918bcf61bab0]

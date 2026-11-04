@@ -1,0 +1,33 @@
+id: janine-jansen-undated
+performers:
+- name: Janine Jansen
+  role: violin
+- name: Maxim Rysanov
+  role: viola
+- name: Torleif Thedéen
+  role: cello
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '795', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d9f9c639-03e4-435d-b38f-c46d076da51a
+  title: Trouw Verrassings-CD 2007
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6c5f045e-7f1e-42b8-8cbc-d2fad7279513
+  recordings: [1560750c-5a41-4b8a-abaf-88d20c08f7f3]

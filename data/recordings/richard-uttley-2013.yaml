@@ -1,0 +1,26 @@
+id: richard-uttley-2013
+performers:
+- name: Richard Uttley
+  role: grand piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2013]
+  place: The Menuhin Hall
+released: 2014
+original_label: null
+works:
+- {bwv: '797', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7e2ded9-3ee0-4e97-829d-6d009625326c
+  title: 'Grade 6 Piano Exam Pieces: The Complete 2015 & 2016 Syllabus'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9b05e716-1a97-43d9-8a1a-56749d6b2366
+  recordings: [57ece71d-0cc9-4bf0-99e3-52f56f61f2dd]

@@ -1,0 +1,28 @@
+id: seizo-azuma-undated-2
+performers:
+- name: Seizo Azuma
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '772', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/88900752-8517-41e1-b164-05445d6f022e
+  title: Suzuki Piano School, Volume 5, New International Edition
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cf1fac6a-ab50-4f24-85da-8440c409dd9f
+  recordings: [5091c92c-e0a7-4b2e-8f59-945f7d1bfa92]

@@ -1,0 +1,14 @@
+bwv: "789"
+title: "Sinfonia No. 3"
+key: "D major"
+collection: "Inventions and Sinfonias"
+genre: keyboard
+scoring: "keyboard (clavier), three voices"
+composed: "Köthen; fair copy dated 1723 (an earlier version, titled Fantasia, in the Clavier-Büchlein for Wilhelm Friedemann Bach, begun 1720)"
+movements:
+  - "Sinfonia No. 3 in D major"
+notes: "One of the major-key sinfonias in the ascending key scheme of the 1723 fair copy."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Inventions_and_Sinfonias_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/4cae1af8-fc11-31a3-977e-3bdc72a0e0c5

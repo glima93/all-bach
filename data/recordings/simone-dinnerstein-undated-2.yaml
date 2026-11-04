@@ -1,0 +1,31 @@
+id: simone-dinnerstein-undated-2
+performers:
+- name: Simone Dinnerstein
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '775', complete: true}
+- {bwv: '779', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/028350e5-0461-41d4-80f9-e876f297d513
+  title: Bach re-invented
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 352f90f9-78ea-4bcc-9d8f-00d60e87f652
+  recordings: [e55cab64-65f0-410b-b093-6099f0d8755c]

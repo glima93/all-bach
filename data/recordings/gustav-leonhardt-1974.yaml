@@ -1,0 +1,55 @@
+id: gustav-leonhardt-1974
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1974]
+  place: Doopsgezinde kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '773', complete: true}
+- {bwv: '774', complete: true}
+- {bwv: '775', complete: true}
+- {bwv: '776', complete: true}
+- {bwv: '777', complete: true}
+- {bwv: '778', complete: true}
+- {bwv: '779', complete: true}
+- {bwv: '780', complete: true}
+- {bwv: '781', complete: true}
+- {bwv: '782', complete: true}
+- {bwv: '783', complete: true}
+- {bwv: '784', complete: true}
+- {bwv: '785', complete: true}
+- {bwv: '786', complete: true}
+- {bwv: '787', complete: true}
+- {bwv: '788', complete: true}
+- {bwv: '789', complete: true}
+- {bwv: '790', complete: true}
+- {bwv: '791', complete: true}
+- {bwv: '792', complete: true}
+- {bwv: '793', complete: true}
+- {bwv: '794', complete: true}
+- {bwv: '795', complete: true}
+- {bwv: '796', complete: true}
+- {bwv: '797', complete: true}
+- {bwv: '798', complete: true}
+- {bwv: '799', complete: true}
+- {bwv: '800', complete: true}
+- {bwv: '801', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/907addc5-19d1-46fd-a0b1-712a4f33e35d
+  title: Inventions & Sinfonias
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [481875c8-cb8b-4647-8216-d8c7f4ee3f7d]

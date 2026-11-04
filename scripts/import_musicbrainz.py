@@ -89,6 +89,9 @@ EXCLUDE_BY_SNAPSHOT = {
     "63cdc074-c888-43c6-a1a3-a4d105021911": "Rachmaninoff compilation: the Sarabande is his 1925 recording again (already filed) and the Prelude is his transcription of the violin Partita BWV 1006 Prelude",
     "ce4f1573-a2dc-4a80-ab43-12a90900fc89": "solo violin Sonatas and Partitas album; a violin Partita movement linked to the keyboard Partita No. 1",
   },
+  "inventions-sinfonias": {
+    "91a8cca1-ff26-446d-bca6-132a9cba0f57": "anime soundtrack cue (A Silent Voice, Kensuke Ushio) linked to an Invention; not a performance of it",
+  },
   "harpsichord-concertos": {
     "f8df5ad3-0db2-4dc7-be48-a55397f60b20": "credited to Antonio Vivaldi (composer of the model of BWV 1065) on a Vivaldi compilation; the performers are unknown",
   },
@@ -99,6 +102,12 @@ EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "inventions-sinfonias": {
+    "3bb5b4c3-2e46-4d84-9e77-66eae6f8f5fe": ("c9f09be8-36fc-4c19-add9-6ffffd9d1fef",
+        "Schiff's only piano Inventions and Sinfonias (Decca, Kingsway Hall 1983), reissued undated on a compilation"),
+    "7e209493-cdab-41d4-8595-1b03a653740a": ("ec241ec0-15b6-4840-a01d-e17b089a75dd",
+        "Gould's Columbia Inventions and Sinfonias, one set recorded at the CBS 30th Street Studio 1963-64"),
+  },
   "partitas": {
     "e61035ee-d065-40d2-8cb2-5add49b6c154": ("1074a276-1df5-47d6-a7f3-00584d8c6153",
         "Sempe's Menuet of Partita No. 4: same release and place, the one movement missing from the 1993 set"),
@@ -110,6 +119,22 @@ JOIN_BY_SNAPSHOT = {
 # Facts the snapshot gets wrong or leaves out for one row, per snapshot: representative recording ID ->
 # fields to set, with the reason. Fix upstream in MusicBrainz too, then remove the entry here.
 OVERRIDE_BY_SNAPSHOT = {
+  "inventions-sinfonias": {
+    "941ed019-30d3-43be-abe7-731c7665bdcd": ({"arrangement": True}, "Carl Palmer (ELP drummer), Works Volume 1: a rock arrangement"),
+    "7891f183-69bc-4eae-951e-69795408202d": ({"arrangement": True}, "Don Dorsey's Bachbusters: synthesizer arrangements"),
+    "149a2ed4-5d36-4981-892d-bcd31aefa4e1": ({"arrangement": True}, "Romain Leleu (trumpet) and Thomas Leleu (tuba)"),
+    "25e4d294-e1c4-4786-a699-fabe8461e159": ({"arrangement": True}, "Rachel Podger (violin) and Alex Rolton (cello), Duologues"),
+    "e55cab64-65f0-410b-b093-6099f0d8755c": ({"arrangement": True}, "Bach re-invented: Dinnerstein with Absolute Ensemble and Järvi, a crossover arrangement"),
+    "3e282955-dcaf-4450-a291-cf4d31adf579": ({"instrument": "piano"}, "Walter Gieseking, pianist; no instrument credit"),
+    "90974026-180b-4449-afb4-f0a3b5240c38": ({"instrument": "piano"}, "Lili Kraus, pianist; no instrument credit"),
+    "d39aa73c-c110-47a5-94de-22716f25fd2e": ({"instrument": "piano"}, "João Carlos Martins, pianist; no instrument credit"),
+    "e108e081-d02a-4eae-9d5d-f695dfcd33fa": ({"instrument": "piano"}, "Simone Dinnerstein, pianist; no instrument credit"),
+    "987ac9a2-aeaa-4efc-a969-f029dcafb85d": ({"instrument": "piano"}, "Claudio Colombo, pianist; no instrument credit"),
+    "64763adb-825f-4d41-ae5f-6d297b1fcce0": ({"instrument": "piano"}, "Dan Tepfer, pianist; the Inventions are played as written between his own Reinventions"),
+    "2b4fdf38-9319-46c9-a7d6-bccde298c1d8": ({"instrument": "piano"}, "Alexander Borovsky, pianist; no instrument credit"),
+    "5091c92c-e0a7-4b2e-8f59-945f7d1bfa92": ({"arrangement": False}, "Suzuki Piano School recording: the original text on piano, not an arrangement"),
+    "9b1b43ba-ab99-4392-8650-7d65a64bc506": ({"instrument": "ensemble"}, "a big band; guitar came from one sideman's credit"),
+  },
   "partitas": {
     "56df13cd-74c2-4bc9-ab40-aa572b5e7fe5": ({"instrument": "fortepiano"},
         "Bach's Piano Silbermann 1749: played on a copy of a Silbermann fortepiano, credited as piano"),
@@ -242,8 +267,12 @@ def norm(name: str) -> str:
 
 
 def slug_for(rec: dict) -> str:
-    """Full performer name as a slug; falls back to the MusicBrainz artist ID for non-Latin names."""
-    s = norm(rec["performers"][0]["name"]).replace(" ", "-")
+    """Full performer name as a slug; falls back to the MusicBrainz artist ID for non-Latin names, including
+    ones that mix in a few Latin look-alike letters (Cyrillic with Latin e and o), which would slug to junk."""
+    name = rec["performers"][0]["name"]
+    s = norm(name).replace(" ", "-")
+    if any(ch.isalpha() and "LATIN" not in unicodedata.name(ch, "") for ch in name):
+        s = ""
     if not s:
         artist = (rec.get("musicbrainz") or {}).get("artist", "")
         s = f"artist-{artist[:8]}" if artist else "unknown"

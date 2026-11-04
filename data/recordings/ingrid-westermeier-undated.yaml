@@ -1,0 +1,31 @@
+id: ingrid-westermeier-undated
+performers:
+- name: Ingrid Westermeier
+  role: classical guitar
+- name: Rudi Zapf
+  role: hammered dulcimer
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '784', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5fb1da47-700f-452b-897a-1e68f30556a9
+  title: Classical Hammered Dulcimer
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With hammered dulcimer.
+musicbrainz:
+  artist: c19cecf6-9539-43b2-9160-0ec7fe3ea7f3
+  recordings: [68ae010e-78b0-4f24-a563-cac2ad17a4a9]

@@ -1,0 +1,26 @@
+id: rosalyn-tureck-1981
+performers:
+- name: Rosalyn Tureck
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1981]
+  place: CBS 30th Street Studio
+released: 1994
+original_label: null
+works:
+- {bwv: '772', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/94b8f220-1280-40bd-903a-8996d351dff2
+  title: Greatest Hits
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e102c96-3536-4ff9-ac29-d189eed65dc9
+  recordings: [fc2a2914-0c17-4ac0-ac78-7be96a7b77b1]

@@ -1,0 +1,56 @@
+id: martin-galling-undated-2
+performers:
+- name: Martin Galling
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '773', complete: true}
+- {bwv: '774', complete: true}
+- {bwv: '775', complete: true}
+- {bwv: '776', complete: true}
+- {bwv: '777', complete: true}
+- {bwv: '779', complete: true}
+- {bwv: '780', complete: true}
+- {bwv: '781', complete: true}
+- {bwv: '782', complete: true}
+- {bwv: '783', complete: true}
+- {bwv: '784', complete: true}
+- {bwv: '785', complete: true}
+- {bwv: '786', complete: true}
+- {bwv: '787', complete: true}
+- {bwv: '788', complete: true}
+- {bwv: '789', complete: true}
+- {bwv: '790', complete: true}
+- {bwv: '791', complete: true}
+- {bwv: '792', complete: true}
+- {bwv: '793', complete: true}
+- {bwv: '794', complete: true}
+- {bwv: '795', complete: true}
+- {bwv: '796', complete: true}
+- {bwv: '797', complete: true}
+- {bwv: '798', complete: true}
+- {bwv: '799', complete: true}
+- {bwv: '800', complete: true}
+- {bwv: '801', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4da65b1d-338e-4b0e-ab5c-ddfec928dd97
+  title: Two-Part And Three-Part Inventions
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52bab6d4-a670-4eb5-94a9-5c4d61119fe9
+  recordings: [23efd5a4-efe8-418c-96e9-a38e7494d97b]

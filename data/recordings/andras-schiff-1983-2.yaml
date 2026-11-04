@@ -1,0 +1,55 @@
+id: andras-schiff-1983-2
+performers:
+- name: András Schiff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1983]
+  place: Kingsway Hall
+released: 1985
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '773', complete: true}
+- {bwv: '774', complete: true}
+- {bwv: '775', complete: true}
+- {bwv: '776', complete: true}
+- {bwv: '777', complete: true}
+- {bwv: '778', complete: true}
+- {bwv: '779', complete: true}
+- {bwv: '780', complete: true}
+- {bwv: '781', complete: true}
+- {bwv: '782', complete: true}
+- {bwv: '783', complete: true}
+- {bwv: '784', complete: true}
+- {bwv: '785', complete: true}
+- {bwv: '786', complete: true}
+- {bwv: '787', complete: true}
+- {bwv: '788', complete: true}
+- {bwv: '789', complete: true}
+- {bwv: '790', complete: true}
+- {bwv: '791', complete: true}
+- {bwv: '792', complete: true}
+- {bwv: '793', complete: true}
+- {bwv: '794', complete: true}
+- {bwv: '795', complete: true}
+- {bwv: '796', complete: true}
+- {bwv: '797', complete: true}
+- {bwv: '798', complete: true}
+- {bwv: '799', complete: true}
+- {bwv: '800', complete: true}
+- {bwv: '801', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/daf69e89-d292-4a63-a80a-62145c43e427
+  title: Two‐Part Inventions, BWV 722a–786 / Three‐Part Inventions, BWV 787–801
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cb535c4c-711b-4be1-98f3-b6b5f8955d41
+  recordings: [3bb5b4c3-2e46-4d84-9e77-66eae6f8f5fe, c9f09be8-36fc-4c19-add9-6ffffd9d1fef]

@@ -1,0 +1,26 @@
+id: melvyn-tan-2009
+performers:
+- name: Melvyn Tan
+  role: grand piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2009, 2010]
+  place: The Menuhin Hall
+released: 2010
+original_label: null
+works:
+- {bwv: '796', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/90c633b4-4b79-42dd-ae78-f12870710e5a
+  title: 'Grade 7 Piano Exam Pieces: Complete Syllabus 2011 & 2012'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 350d3c6c-c81c-4ebf-b983-9294cb20c02e
+  recordings: [243a5d4a-7ace-45e2-9c47-3328dde59655]

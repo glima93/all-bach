@@ -1,0 +1,27 @@
+id: artist-51ea7260-undated
+performers:
+- name: 塩谷哲
+  role: grand piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: ソニー・ミュージックスタジオ
+released: 2009
+original_label: null
+works:
+- {bwv: '772', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e43f91b-4ee8-4115-b0da-25ef4482316d
+  title: piano solo = solo salt
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 51ea7260-3a12-4ede-ad72-3d5101d02d83
+  recordings: [d450c82a-5373-46d3-ba5c-1df687b73807]

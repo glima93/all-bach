@@ -1,0 +1,14 @@
+bwv: "786"
+title: "Invention No. 15"
+key: "B minor"
+collection: "Inventions and Sinfonias"
+genre: keyboard
+scoring: "keyboard (clavier), two voices"
+composed: "Köthen; fair copy dated 1723 (an earlier version, titled Praeambulum, in the Clavier-Büchlein for Wilhelm Friedemann Bach, begun 1720)"
+movements:
+  - "Invention No. 15 in B minor"
+notes: "Closes the two-part inventions in the fair copy of 1723."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Inventions_and_Sinfonias_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/3ac2d3ae-0401-321b-ab12-515bc0f385ed

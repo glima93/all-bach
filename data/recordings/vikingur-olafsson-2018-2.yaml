@@ -1,0 +1,29 @@
+id: vikingur-olafsson-2018-2
+performers:
+- name: Víkingur Ólafsson
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2018]
+  place: Harpa
+released: 2018
+original_label: null
+works:
+- {bwv: '783', complete: true}
+- {bwv: '786', complete: true}
+- {bwv: '798', complete: true}
+- {bwv: '801', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2f33218-b59c-44f2-ad71-f59ffa360a52
+  title: Johann Sebastian Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cea4a3b8-c26c-4b61-a243-cf72555e2c71
+  recordings: [4c5d255d-1453-42f7-9a25-a701113cea57]

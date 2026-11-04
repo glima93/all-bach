@@ -1,0 +1,29 @@
+id: paul-badura-skoda-undated-2
+performers:
+- name: Paul Badura‐Skoda
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '779', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17689848-fcd3-419b-88a4-17078dc17a18
+  title: 'Piano Masterpieces: Klassische Meisterwerke großer Komponisten'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ba7e4f58-e926-4b18-ab32-d36f8f08c2ff
+  recordings: [5be17e4b-dba9-4cee-aca5-319616fbf826]

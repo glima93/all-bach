@@ -1,0 +1,26 @@
+id: dmitry-paperno-2001-2
+performers:
+- name: Dmitry Paperno
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2001]
+  place: WFMT
+released: 2004
+original_label: null
+works:
+- {bwv: '788', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a80c1276-1c69-45aa-823b-4eefc5d986b9
+  title: Through the Years
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 72b250bb-d274-4ed9-945a-fcbf0ac2e1ef
+  recordings: [fbd373d3-901d-4b7e-9e66-1e858a7207bf]

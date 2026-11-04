@@ -1,0 +1,45 @@
+id: maria-sawek-undated
+performers:
+- name: Maria Sławek
+  role: violin
+- name: Marcin Zdunik
+  role: cello
+instrument: cello
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '772', complete: true}
+- {bwv: '773', complete: true}
+- {bwv: '774', complete: true}
+- {bwv: '775', complete: true}
+- {bwv: '776', complete: true}
+- {bwv: '777', complete: true}
+- {bwv: '778', complete: true}
+- {bwv: '779', complete: true}
+- {bwv: '780', complete: true}
+- {bwv: '781', complete: true}
+- {bwv: '782', complete: true}
+- {bwv: '783', complete: true}
+- {bwv: '784', complete: true}
+- {bwv: '785', complete: true}
+- {bwv: '786', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e96ce588-15e3-4c68-9639-e9f2acda7117
+  title: Rejoice!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With violin.
+musicbrainz:
+  artist: 10ad34de-ce46-40ac-8ac8-f7423903a6f6
+  recordings: [a9b33018-3a8a-41a4-aafa-bf0608eee681]

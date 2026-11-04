@@ -1,0 +1,29 @@
+id: gordon-goodwin-s-big-phat-band-undated
+performers:
+- name: Gordon Goodwin’s Big Phat Band
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '775', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4a9a9ec5-7445-4fd7-86fa-9028ddac7b67
+  title: Swingin' for the Fences
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With trumpet, drums (drum set), woodwind.
+musicbrainz:
+  artist: 443612b6-5180-4956-bad9-b81707f09973
+  recordings: [9b1b43ba-ab99-4392-8650-7d65a64bc506]

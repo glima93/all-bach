@@ -1,0 +1,14 @@
+bwv: "800"
+title: "Sinfonia No. 14"
+key: "B-flat major"
+collection: "Inventions and Sinfonias"
+genre: keyboard
+scoring: "keyboard (clavier), three voices"
+composed: "Köthen; fair copy dated 1723 (an earlier version, titled Fantasia, in the Clavier-Büchlein for Wilhelm Friedemann Bach, begun 1720)"
+movements:
+  - "Sinfonia No. 14 in B-flat major"
+notes: "The penultimate sinfonia, in B-flat major."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Inventions_and_Sinfonias_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/034a9551-409e-3efc-8fae-38c55a14b143

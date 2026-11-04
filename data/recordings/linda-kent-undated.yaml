@@ -1,0 +1,28 @@
+id: linda-kent-undated
+performers:
+- name: Linda Kent
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '784', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd56f35d-5405-4860-ad9c-abeb9f4c77a3
+  title: My First Bach Album
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ce794c36-ed9f-44d5-9bec-e858de2c044d
+  recordings: [7bc99628-dec1-435c-a2b5-1895b42186af]

@@ -1,0 +1,14 @@
+bwv: "798"
+title: "Sinfonia No. 12"
+key: "A major"
+collection: "Inventions and Sinfonias"
+genre: keyboard
+scoring: "keyboard (clavier), three voices"
+composed: "Köthen; fair copy dated 1723 (an earlier version, titled Fantasia, in the Clavier-Büchlein for Wilhelm Friedemann Bach, begun 1720)"
+movements:
+  - "Sinfonia No. 12 in A major"
+notes: "The A-major sinfonia, following the same key order as the inventions."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Inventions_and_Sinfonias_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e44cd98a-ff77-3b06-a058-303795c8face
