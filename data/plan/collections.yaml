@@ -38,7 +38,7 @@ collections:
 - {id: partitas, title: "Partitas (Clavier-Übung I)", chapter: Keyboard, bwv: ["825-830"], mode: keyboard, wave: 1, run: 6, status: imported}
 - {id: inventions-sinfonias, title: "Inventions and Sinfonias", chapter: Keyboard, bwv: ["772-801"], mode: keyboard, wave: 1, run: 7, status: imported,
    note: "772a etc. are early versions; keep them on the main work's page"}
-- {id: clavier-ubung-ii, title: "Italian Concerto and French Overture (Clavier-Übung II)", chapter: Keyboard, bwv: ["831", "971"], mode: keyboard, wave: 1, run: 8, status: queued}
+- {id: clavier-ubung-ii, title: "Italian Concerto and French Overture (Clavier-Übung II)", chapter: Keyboard, bwv: ["831", "971"], mode: keyboard, wave: 1, run: 8, status: collected}
 - {id: art-of-fugue, title: "The Art of Fugue", chapter: Late contrapuntal works, bwv: ["1080"], mode: open, wave: 1, run: 8, status: queued,
    note: "No scoring: harpsichord, organ, piano, string quartet, viol consort and orchestra are all native. Movement order differs between editions"}
 - {id: musical-offering, title: "The Musical Offering", chapter: Late contrapuntal works, bwv: ["1079"], mode: open, wave: 1, run: 9, status: todo,
