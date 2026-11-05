@@ -1,11 +1,7 @@
-id: camerata-labacensis-undated-4
+id: dubravka-tomsic-undated
 performers:
-- name: Camerata Labacensis
-  role: orchestra
-- name: Dubravka Tomsic
-  role: performer
-- name: Eugen Duvier
-  role: conductor
+- name: Dubravka Tomšič
+  role: piano
 instrument: piano
 performance_practice: modern
 arrangement: false

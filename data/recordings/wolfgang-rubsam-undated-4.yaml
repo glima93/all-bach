@@ -1,8 +1,8 @@
 id: wolfgang-rubsam-undated-4
 performers:
 - name: Wolfgang Rübsam
-  role: performer
-instrument: unknown
+  role: organ
+instrument: organ
 performance_practice: unknown
 arrangement: false
 recorded:
@@ -22,7 +22,6 @@ help_wanted:
 - Recording year
 - Check whether this is the same performance as another entry by this performer
 - Recording place
-- Instrument (MusicBrainz has no instrument credit)
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:

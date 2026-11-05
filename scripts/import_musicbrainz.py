@@ -122,6 +122,21 @@ JOIN_BY_SNAPSHOT = {
 # Facts the snapshot gets wrong or leaves out for one row, per snapshot: representative recording ID ->
 # fields to set, with the reason. Fix upstream in MusicBrainz too, then remove the entry here.
 OVERRIDE_BY_SNAPSHOT = {
+  "clavier-ubung-ii": {
+    "d85ae950-852b-4653-9c50-fa55854acca8": ({"instrument": "fortepiano"}, "Toby Sermeus, Bach's Piano Silbermann 1749: a Silbermann fortepiano copy"),
+    "99b8b346-9242-47ba-aa2e-9edf474555e3": ({"instrument": "organ"}, "Kei Koito, organist, on Organ Masterworks Vol. II; no instrument credit"),
+    "4f9b9334-7385-4086-9dec-d9c327346b01": ({"performers": [{"name": "Dubravka Tomšič", "role": "piano"}], "instrument": "piano"},
+        "the Italian Concerto is solo: the orchestra and conductor are credited for the violin concertos on the same album"),
+  },
+  "art-of-fugue": {
+    "fb15748c-f29d-402e-9501-e9c741242024": ({"arrangement": True}, "oboe d'amore, bass oboe, cor anglais and bassoon (Paillard's 1977 Erato set): winds are an arrangement for the open-score work"),
+    "7d6d9d6d-4317-4799-8c28-07160f62e765": ({"instrument": "harpsichord"}, "Lengellé and Morabito, the two-harpsichord pieces of the 1977 Erato set"),
+    "7e58f597-0139-4696-b120-6e3ed94fd70e": ({"instrument": "fortepiano"}, "Toby Sermeus, Bach's Piano Silbermann 1749: a Silbermann fortepiano copy"),
+    "bd5461d4-c2cb-4cb3-91fe-bc445e944866": ({"instrument": "piano"}, "Konstantin Lifschitz, pianist; no instrument credit"),
+    "45f5123b-b84a-42d1-992b-7f3d2fe15376": ({"instrument": "piano"}, "Schaghajegh Nosrati, pianist; no instrument credit"),
+    "69fd0e65-3041-47ca-9bfd-1482b1908e8e": ({"instrument": "piano"}, "Albert Cano Smit, pianist; no instrument credit"),
+    "51112582-8d25-44f4-aa5a-3339574614b4": ({"instrument": "organ"}, "Wolfgang Rübsam, Das Orgelwerk; no instrument credit"),
+  },
   "inventions-sinfonias": {
     "941ed019-30d3-43be-abe7-731c7665bdcd": ({"arrangement": True}, "Carl Palmer (ELP drummer), Works Volume 1: a rock arrangement"),
     "7891f183-69bc-4eae-951e-69795408202d": ({"arrangement": True}, "Don Dorsey's Bachbusters: synthesizer arrangements"),
@@ -213,7 +228,7 @@ PERIOD_ENSEMBLE = re.compile(
     r"early music|voices of music|tulipa consort|trillium consort|apollon ensemble|american bach soloists|"
     r"ama deus|madeuf|blumenstock|boulder bach festival|king.s consort|musica alta ripa|musica alchemica|harmonie des saisons|"
     r"voce strumentale|capella academica wien|helicon ensemble|mosa.ques|talens lyriques|caravans.rail|retrospect ensemble|"
-    r"capricornus|ensemble odyss|parlement de musique|phantasm|fretwork|hesp.rion|suonar parlante", re.I)
+    r"capricornus|ensemble odyss|parlement de musique|phantasm|fretwork|hesp.rion|suonar parlante|les r.cr.ations", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
 MODERN_ENSEMBLE = re.compile(r"m.nchener bach|kammerakademie potsdam|zurich baroque ensemble|^baroque chamber orchestra|"
                              r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra", re.I)
