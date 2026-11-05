@@ -105,6 +105,12 @@ EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "clavier-ubung-ii": {
+    "df07d6de-65ef-41cc-893d-41b1acc6aba5": ("38f03114-6153-40fa-81c7-3de965c8432c",
+        "Alessandrini's Italian Concerto, one performance (2000, Santissima Trinità dei Pellegrini) split across two releases"),
+    "4f9b9334-7385-4086-9dec-d9c327346b01": ("50475404-ce1f-44a9-98b7-424e3c50270e",
+        "Tomšič's Italian Concerto: the El Barroco compilation (1995) reissues her 1987 recording"),
+  },
   "inventions-sinfonias": {
     "3bb5b4c3-2e46-4d84-9e77-66eae6f8f5fe": ("c9f09be8-36fc-4c19-add9-6ffffd9d1fef",
         "Schiff's only piano Inventions and Sinfonias (Decca, Kingsway Hall 1983), reissued undated on a compilation"),
@@ -125,8 +131,15 @@ OVERRIDE_BY_SNAPSHOT = {
   "clavier-ubung-ii": {
     "d85ae950-852b-4653-9c50-fa55854acca8": ({"instrument": "fortepiano"}, "Toby Sermeus, Bach's Piano Silbermann 1749: a Silbermann fortepiano copy"),
     "99b8b346-9242-47ba-aa2e-9edf474555e3": ({"instrument": "organ"}, "Kei Koito, organist, on Organ Masterworks Vol. II; no instrument credit"),
-    "4f9b9334-7385-4086-9dec-d9c327346b01": ({"performers": [{"name": "Dubravka Tomšič", "role": "piano"}], "instrument": "piano"},
-        "the Italian Concerto is solo: the orchestra and conductor are credited for the violin concertos on the same album"),
+    "38f03114-6153-40fa-81c7-3de965c8432c": ({"performers": [{"name": "Rinaldo Alessandrini", "role": "harpsichord"}], "instrument": "harpsichord"},
+        "the Italian Concerto is solo: Concerto Italiano and the conductor credit belong to the concertos on the same albums"),
+    "f6655e44-ba0d-4787-9789-d06ca6022ca1": ({"instrument": "harpsichord"},
+        "Landowska recorded the Italian Concerto on harpsichord; the piano credit comes from the compilation's title, The Piano Masters"),
+    "3962d116-3ebf-48bb-8d4f-180aa972282e": ({"arrangement": False},
+        "the claviorganum (harpsichord and organ in one) is a historical keyboard, native to a Clavier work"),
+    "a4334c5f-9399-4cbe-9e67-15fd3e160ba1": ({"performers": [{"name": "Barbara Matthias", "role": "performer"}]},
+        "the Italian Concerto is solo: the orchestra and conductor are credited for the Brandenburg Concertos on the same album"),
+    "3f614938-9a27-40da-80a5-918d2b837083": ({"instrument": "harpsichord"}, "Andrew Appel, harpsichordist; no instrument credit"),
   },
   "art-of-fugue": {
     "fb15748c-f29d-402e-9501-e9c741242024": ({"arrangement": True}, "oboe d'amore, bass oboe, cor anglais and bassoon (Paillard's 1977 Erato set): winds are an arrangement for the open-score work"),
@@ -136,6 +149,10 @@ OVERRIDE_BY_SNAPSHOT = {
     "45f5123b-b84a-42d1-992b-7f3d2fe15376": ({"instrument": "piano"}, "Schaghajegh Nosrati, pianist; no instrument credit"),
     "69fd0e65-3041-47ca-9bfd-1482b1908e8e": ({"instrument": "piano"}, "Albert Cano Smit, pianist; no instrument credit"),
     "51112582-8d25-44f4-aa5a-3339574614b4": ({"instrument": "organ"}, "Wolfgang Rübsam, Das Orgelwerk; no instrument credit"),
+    "7c02db84-fabf-429f-ab54-5aa4006d52b9": ({"instrument": "piano"}, "Joanna MacGregor, pianist, Counterpoint; no instrument credit"),
+    "71b8ca58-26b5-4ec7-b669-f7a7276d519a": ({"arrangement": True}, "Austrian Art Gang, a jazz ensemble: a crossover arrangement"),
+    "96160808-8c2a-40c4-998c-754c8f5a31be": ({"arrangement": True},
+        "KPM library compilation Essential Classic Barocco: an orchestral arrangement, like its Italian Concerto track"),
   },
   "inventions-sinfonias": {
     "941ed019-30d3-43be-abe7-731c7665bdcd": ({"arrangement": True}, "Carl Palmer (ELP drummer), Works Volume 1: a rock arrangement"),

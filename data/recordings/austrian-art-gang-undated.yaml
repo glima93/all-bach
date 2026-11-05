@@ -4,7 +4,7 @@ performers:
   role: ensemble
 instrument: ensemble
 performance_practice: unknown
-arrangement: false
+arrangement: true
 recorded:
   years: []
   place: null

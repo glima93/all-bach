@@ -1,9 +1,9 @@
 id: wanda-landowska-undated-2
 performers:
 - name: Wanda Landowska
-  role: piano
-instrument: piano
-performance_practice: modern
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
 arrangement: false
 recorded:
   years: []

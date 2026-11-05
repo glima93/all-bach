@@ -1,7 +1,7 @@
 id: rinaldo-alessandrini-2000
 performers:
 - name: Rinaldo Alessandrini
-  role: conductor
+  role: harpsichord
 instrument: harpsichord
 performance_practice: historical
 arrangement: false
@@ -11,7 +11,7 @@ recorded:
 released: 2004
 original_label: null
 works:
-- {bwv: '971', complete: false, movements: [II. Andante, III. Presto]}
+- {bwv: '971', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -23,4 +23,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 6fe8e649-728d-4ae6-969c-25947ff9bb96
-  recordings: [38f03114-6153-40fa-81c7-3de965c8432c]
+  recordings: [38f03114-6153-40fa-81c7-3de965c8432c, df07d6de-65ef-41cc-893d-41b1acc6aba5]

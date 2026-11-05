@@ -1,9 +1,9 @@
 id: andrew-appel-1987
 performers:
 - name: Andrew Appel
-  role: performer
-instrument: unknown
-performance_practice: unknown
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
 arrangement: false
 recorded:
   years: [1987]
@@ -19,7 +19,6 @@ links:
   title: Johann Sebastian Bach, 3 Fantasias, Toccata, Capriccio, Italian Concerto
 status: draft
 help_wanted:
-- Instrument (MusicBrainz has no instrument credit)
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:
