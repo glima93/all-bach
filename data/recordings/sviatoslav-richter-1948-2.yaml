@@ -1,0 +1,27 @@
+id: sviatoslav-richter-1948-2
+performers:
+- name: Sviatoslav Richter
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1948]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8f24623-d899-4450-abf0-56ccd56b6e6c
+  title: 'Russian Piano School, Volume 6: Sviatoslav Richter'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 2014bfbb-c65d-45dc-9973-35bead3833fa
+  recordings: [6c62cbef-dfd6-439e-93a3-761073f9c0f5]

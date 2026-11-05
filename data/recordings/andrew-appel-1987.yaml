@@ -1,0 +1,27 @@
+id: andrew-appel-1987
+performers:
+- name: Andrew Appel
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1987]
+  place: Snug Harbor Cultural Centre
+released: 1987
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f7f6ce8d-37e6-4a70-8423-3b0306f08849
+  title: Johann Sebastian Bach, 3 Fantasias, Toccata, Capriccio, Italian Concerto
+status: draft
+help_wanted:
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 83e8b347-d384-4b49-a9da-31208843a904
+  recordings: [3f614938-9a27-40da-80a5-918d2b837083]

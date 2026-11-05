@@ -1,0 +1,29 @@
+id: united-states-navy-band-undated
+performers:
+- name: United States Navy Band
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [IX. Contrapunctus 9 a 4 alla Duodecima]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b5e1083e-3a6c-42e2-841f-fbca03107465
+  title: Music for Chamber Winds
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 510d95ab-130a-4141-b975-c62bfb452972
+  recordings: [ecc2c4f5-b238-4fd5-8191-23b5c695d267]

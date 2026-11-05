@@ -1,0 +1,28 @@
+id: kenneth-gilbert-1988
+performers:
+- name: Kenneth Gilbert
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e58905fa-1af9-460c-847a-ad4044d613d6
+  title: Concerto Italien / Ouverture à la Française
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24dade80-0518-4ae7-b62e-cbd31489bb5d
+  recordings: [22b0f8f7-bc13-41cb-9e55-12a1cc5e1219]

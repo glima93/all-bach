@@ -1,0 +1,29 @@
+id: bob-van-asperen-1969
+performers:
+- name: Bob van Asperen
+  role: harpsichord
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1969]
+  place: Fuggerschloss Kirchheim
+released: 1990
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: ['XII, 1. Contrapunctus inversus a 4 (Forma recta)', 'XII, 2. Contrapunctus
+      inversus 12 a 4 (Forma inversa)', 'XVIII, 1. Fuga à 2 Claviere', 'XVIII, 2. Alio modo. Fuga à 2 Claviere']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43d11361-7567-45f7-b5c9-b038ee383d59
+  title: Die Kunst der Fuge / Clavierübung II
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f7af258-5683-4fdd-be7a-6e60d69ad12a
+  recordings: [a468e7da-0a4e-4e86-9245-2132df553153]

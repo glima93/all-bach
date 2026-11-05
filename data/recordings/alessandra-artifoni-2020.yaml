@@ -1,0 +1,27 @@
+id: alessandra-artifoni-2020
+performers:
+- name: Alessandra Artifoni
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Villa l’Oriuolo
+released: 2021
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: false, movements: ['I. [Allegro]', III. Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99b93efa-ef9b-4e32-b111-8ec28defc4cd
+  title: Echo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a5cb917c-6bcd-4409-83e8-fca2d5ac370e
+  recordings: [daaee763-d387-42d3-b1f4-f073e9006514]

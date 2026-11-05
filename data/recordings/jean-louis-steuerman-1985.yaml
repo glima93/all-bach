@@ -1,0 +1,28 @@
+id: jean-louis-steuerman-1985
+performers:
+- name: Jean-Louis Steuerman
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4a796c65-eb6c-4f0c-8e2f-a1ad87158501
+  title: Italian Concerto, BWV 971 / French Overture, BWV 831 / 4 Duets, BWV 802-805
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 992decd0-b7b2-48ed-b6f4-48dc8bf1f2ab
+  recordings: [653b43a8-fd6c-48a4-99fb-381d2990c635]

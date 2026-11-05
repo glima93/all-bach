@@ -1,0 +1,29 @@
+id: wanda-landowska-undated-2
+performers:
+- name: Wanda Landowska
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e20e89ac-058e-4e66-9df2-7d294d3c5d66
+  title: The Piano Masters
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39bba85f-e589-4a35-8388-259195fe9c5b
+  recordings: [f6655e44-ba0d-4787-9789-d06ca6022ca1]

@@ -1,0 +1,27 @@
+id: evgeni-koroliov-1990
+performers:
+- name: Evgeni Koroliov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1990]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1080', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb3a86e4-7908-3b4e-a3ca-2825e01581f5
+  title: Die Kunst der Fuge, BWV 1080
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 592440cc-cceb-4e50-a085-2c7afdf272ae
+  recordings: [7befa9d5-83de-4195-a42f-52fb7b8bfe07]

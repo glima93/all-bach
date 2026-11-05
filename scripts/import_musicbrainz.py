@@ -92,6 +92,9 @@ EXCLUDE_BY_SNAPSHOT = {
   "inventions-sinfonias": {
     "91a8cca1-ff26-446d-bca6-132a9cba0f57": "anime soundtrack cue (A Silent Voice, Kensuke Ushio) linked to an Invention; not a performance of it",
   },
+  "art-of-fugue": {
+    "9c436181-2b3a-4396-bc07-bcc79d4f5cd0": "credited to Joachim-Ernst Berendt, the writer who compiled the album (Hinübergehen); the performers are not named",
+  },
   "harpsichord-concertos": {
     "f8df5ad3-0db2-4dc7-be48-a55397f60b20": "credited to Antonio Vivaldi (composer of the model of BWV 1065) on a Vivaldi compilation; the performers are unknown",
   },
@@ -210,14 +213,14 @@ PERIOD_ENSEMBLE = re.compile(
     r"early music|voices of music|tulipa consort|trillium consort|apollon ensemble|american bach soloists|"
     r"ama deus|madeuf|blumenstock|boulder bach festival|king.s consort|musica alta ripa|musica alchemica|harmonie des saisons|"
     r"voce strumentale|capella academica wien|helicon ensemble|mosa.ques|talens lyriques|caravans.rail|retrospect ensemble|"
-    r"capricornus|ensemble odyss|parlement de musique", re.I)
+    r"capricornus|ensemble odyss|parlement de musique|phantasm|fretwork|hesp.rion|suonar parlante", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
 MODERN_ENSEMBLE = re.compile(r"m.nchener bach|kammerakademie potsdam|zurich baroque ensemble|^baroque chamber orchestra|"
                              r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra", re.I)
 # Credits or names that mean the music was arranged for other forces (jazz trio, brass band, synthesizer …).
 ARRANGED = re.compile(r"drum|saxophone|synthesi[sz]er|moog|electric|accordion|marimba|vibraphone|tuba|"
                       r"clarinet|banjo|mandolin|ukulele|harmonica|beatbox|bass guitar|guitar", re.I)
-ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone)?\b|swingle|jazz|loussier|guitar|switched.on|synth|\bbeat\b|"
+ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone?)?\b|swingle|jazz|loussier|guitar|gitarr|switched.on|synth|\bbeat\b|"
                             r"loeki|seldom sene|baby einstein|babies|sweet little band|pink mice|\bthe nice\b|"
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
@@ -244,7 +247,12 @@ GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|solois
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
                                r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki|dangerous liaisons|פסקול|motion picture|movies go baroque|bach minimaliste|"
-                               r"concertos? for recorder|production music|bedtime|majors for minors|f.r inl.rning|classical background|サウンドトラック", re.I)
+                               r"concertos? for recorder|bachbusters|production music|bedtime|majors for minors|f.r inl.rning|classical background|サウンドトラック", re.I)
+
+# Open-score works (mode "open", the Art of Fugue): keyboards, strings, viols and orchestra are native (plan note);
+# winds, brass, saxophones, recorders, guitars and crossover groups play it arranged. Credits, then group names.
+OPEN_ARRANGED = re.compile(r"recorder|blockfl|brass|trumpet|trombone|saxophon|guitar|accordion", re.I)
+OPEN_ARRANGED_NAMES = re.compile(r"(?<!hanover )\bband\b|recorder|blockfl|quinta essentia|cellisten|laibach", re.I)
 
 # Keyboard works: a release title that names the instrument, for a lone performer with no instrument credit.
 KEYBOARD_RELEASE = re.compile(r"\b(harpsichord|cembalo|piano)\b|pour (clavecin)", re.I)
@@ -585,6 +593,10 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         rec["performance_practice"] = practice
         rec["arrangement"] = arranged
         others = mention
+        if mode == "open" and not arranged and (any(OPEN_ARRANGED.search(i) for i in perf["ins"])
+                                                 or OPEN_ARRANGED_NAMES.search(" ".join(perf["names"]))):
+            rec["performance_practice"], rec["arrangement"] = "unknown", True
+            others = [i for i in perf["ins"] if OPEN_ARRANGED.search(i)]
     elif mode == "open":
         rec["arrangement"] = instrument == "other" and bool(arranged_credits(perf)) \
             or bool(ARRANGED_NAMES.search(" ".join(perf["names"])))
@@ -595,7 +607,8 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         # Another keyboard credited alongside (often from another track of the album) is not an arrangement.
         rec["arrangement"] = instrument not in native | {"unknown"} or any(
             INSTRUMENTS.get(i.lower()) not in native for i in others)
-        group_only = any(t in GROUP_TYPES for t in types) and instrument not in native
+        group_only = (any(t in GROUP_TYPES for t in types) or bool(GROUP_NAME.search(perf["names"][0]))) \
+            and instrument not in native
         if group_only and instrument != "unknown":
             rec["instrument"], rec["performance_practice"] = "ensemble", "unknown"  # a string orchestra arrangement
         if instrument == "unknown" and len(perf["names"]) == 1:

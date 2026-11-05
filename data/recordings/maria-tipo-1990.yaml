@@ -1,0 +1,26 @@
+id: maria-tipo-1990
+performers:
+- name: Maria Tipo
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1990]
+  place: Salle Wagram
+released: 1991
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bc40b842-a13f-479c-9044-5b61c019e5b8
+  title: '"Jesu, joy of man''s desiring" / Chromatic Fantasia / Preludes / Concerto Italien'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 281626b4-a02c-46dc-a1f7-240c5510286c
+  recordings: [47431cb0-6119-4899-bf00-4a9f14292baf]

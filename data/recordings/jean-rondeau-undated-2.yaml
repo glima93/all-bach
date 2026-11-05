@@ -1,0 +1,28 @@
+id: jean-rondeau-undated-2
+performers:
+- name: Jean Rondeau
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c527fddf-f9fd-4eb0-afdc-4d3af1d94d15
+  title: 'Bach: Imagine'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9add7fc6-06c3-4c1f-b614-ebeadfa1e69b
+  recordings: [932dd0ca-7a89-41c8-b034-82987ceedf4d]

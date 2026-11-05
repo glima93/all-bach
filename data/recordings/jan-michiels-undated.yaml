@@ -1,0 +1,28 @@
+id: jan-michiels-undated
+performers:
+- name: Jan Michiels
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: ['XIX. Fuga a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c7c73b7e-06e1-453f-9f65-deaa9b0828a9
+  title: Ein Musikalisches Opfer
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f736ac0d-c95a-4431-9f68-ed2e7ff9fbf8
+  recordings: [4dd9f7b2-4595-4c46-9745-983c6e4f66da]

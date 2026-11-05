@@ -1,0 +1,26 @@
+id: helmut-walcha-1970
+performers:
+- name: Helmut Walcha
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: Grote Sint Laurenskerk
+released: 1984
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: ['XVIII, 1. Fuga à 2 Claviere', 'XVIII, 2. Alio modo. Fuga à 2 Claviere']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e6374f8-420b-353b-8c42-dbb249bfac1c
+  title: Das Orgelwerk
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f4c1fd6-75c8-4c40-8fcf-0b5496c01bf2
+  recordings: [68ec2c7d-e395-4bc5-9225-d3bf682730a8]

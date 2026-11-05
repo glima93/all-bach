@@ -1,0 +1,33 @@
+id: barbara-matthias-undated
+performers:
+- name: Barbara Matthias
+  role: performer
+- name: Baroque Soloists of Budapest
+  role: orchestra
+- name: Lajos Bernath
+  role: conductor
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/39e77102-ebb7-4a22-ac85-df813ba7e9a4
+  title: The Brandenburg Concertos, Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9ae470c1-7e5d-45dc-aeb8-9fce68359840
+  recordings: [a4334c5f-9399-4cbe-9e67-15fd3e160ba1]

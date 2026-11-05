@@ -1,0 +1,28 @@
+id: johann-schmidt-undated
+performers:
+- name: Johann Schmidt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc70f41b-2fb9-4da9-a529-953220189805
+  title: Toccata and Fugue / Air On A G String / Italian Concerto / Violin Concerto
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 40e005fc-384a-4ff4-b6f6-d3009f45d705
+  recordings: [85eadf4d-a964-43f1-b084-a015f21077a7]

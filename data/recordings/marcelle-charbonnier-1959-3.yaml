@@ -1,0 +1,27 @@
+id: marcelle-charbonnier-1959-3
+performers:
+- name: Marcelle Charbonnier
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1959]
+  place: null
+released: 1959
+original_label: null
+works:
+- {bwv: '831', complete: false, movements: [V. Passepied I, VI. Passepied II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b929056c-5096-4d9b-908e-4d990ec1f76e
+  title: 'Les grandes formes instrumentales : 2. La Suite'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 73e44dbf-923d-4f47-9e79-0d4fedc19ced
+  recordings: [92faa6db-7a07-4ef1-aaba-f5bf328d6c3e]

@@ -1,0 +1,28 @@
+id: tiffany-poon-undated
+performers:
+- name: Tiffany Poon
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3cec317e-056c-4adc-9ce7-2084b904fde3
+  title: Natural Beauty
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 56e5c906-b3d0-41f2-ab08-1ae0ddb2e324
+  recordings: [6f4a3e04-2f35-4580-87f3-037e8f551709]

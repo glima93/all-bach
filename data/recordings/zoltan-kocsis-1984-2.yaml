@@ -1,0 +1,28 @@
+id: zoltan-kocsis-1984-2
+performers:
+- name: Zoltán Kocsis
+  role: performer
+- name: Ferenc Rados
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1984]
+  place: Liszt Ferenc Zeneművészeti Egyetem
+released: 1984
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: ['XVIII, 2. Alio modo. Fuga à 2 Claviere']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c4cb8539-1cf4-46c5-a582-458369f5ad44
+  title: Die Kunst der Fuge
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84f1d4a8-4eb4-41fc-9fff-ec9ec6bffa84
+  recordings: [4a7ff308-6b5d-4f8a-92a0-1db1da81f0c8]

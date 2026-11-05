@@ -1,0 +1,26 @@
+id: salih-can-gevrek-2023
+performers:
+- name: Salih Can Gevrek
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2023]
+  place: Queen Elisabeth Music Chapel
+released: 2024
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ea748843-7cea-452e-af59-0c6368272e15
+  title: Concertos Without Orchestra
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a4706c9-3a2c-4144-84f9-41855548c3e4
+  recordings: [b8fbac63-32d7-45cf-a0f4-465654c5bf25]

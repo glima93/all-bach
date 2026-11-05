@@ -1,0 +1,29 @@
+id: phantasm-1997
+performers:
+- name: Phantasm
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: St. Bartholomew's Church
+released: 1998
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, III. Contrapunctus 3, IV.
+      Contrapunctus 4, V. Contrapunctus 5, VI. Contrapunctus 6 a 4 in Stylo Francese, VII. Contrapunctus 7 a 4 per
+      Augmentationem et Diminutionem, VIII. Contrapunctus 8 a 3, IX. Contrapunctus 9 a 4 alla Duodecima, X. Contrapunctus
+      10 a 4 alla Decima, XI. Contrapunctus 11 a 4]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2d5c7e5d-8637-4142-ab61-326f1203b27e
+  title: Art of Fugue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dba2074a-0365-48d5-9865-0937ec429aa6
+  recordings: [421f8bda-290f-4de8-9216-f5a6aa88ea41]

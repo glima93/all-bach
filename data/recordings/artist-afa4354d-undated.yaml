@@ -1,0 +1,28 @@
+id: artist-afa4354d-undated
+performers:
+- name: 小原道雄
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15ae6bba-16e1-4b9e-8392-2de947ba1086
+  title: 独葡独歩2023版
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: afa4354d-ed5c-486e-87aa-459e9df46556
+  recordings: [5e838a1d-a3da-4688-825c-e9bf525f8a4d]

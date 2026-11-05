@@ -1,0 +1,28 @@
+id: solomon-undated
+performers:
+- name: Solomon
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1eb74fb5-6034-4501-8654-2cd5b338cc09
+  title: Solomon
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 06b6282e-812f-48b6-b14e-4a75de493fc9
+  recordings: [33aec7a0-f5a2-41ea-9caf-645ff6b9c430]

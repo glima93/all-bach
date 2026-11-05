@@ -1,0 +1,30 @@
+id: igor-kipnis-undated-2
+performers:
+- name: Igor Kipnis
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1976
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6f78a89e-c508-46b2-a071-eafefa46ba89
+  title: Italienisches Konzert / Französische Ouvertüre
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 54a49aee-7eb5-4676-afdb-0e6f3e974bc9
+  recordings: [659d4d4b-642e-40d8-bd14-3a8e3f292fe4]

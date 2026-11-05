@@ -1,0 +1,31 @@
+id: heinrich-schiff-undated
+performers:
+- name: Heinrich Schiff
+  role: cello
+- name: Frank Peter Zimmermann
+  role: violin
+instrument: cello
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [XV. Canon alla Ottava, XVII. Canon alla Duodecima in Contrapunto alla
+      Quinta]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/977174fa-c4d7-4b2f-b310-abf21b9d5fb7
+  title: Honegger, Martinů, Bach, Pintscher, Ravel
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6dfd29a-5c7d-4708-9ff5-25cd5f5de5b5
+  recordings: [ff280dc5-2f9a-41ba-9022-9deb4ba52c93]

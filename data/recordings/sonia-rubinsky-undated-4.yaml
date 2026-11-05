@@ -1,0 +1,29 @@
+id: sonia-rubinsky-undated-4
+performers:
+- name: Sonia Rubinsky
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '831', complete: false, movements: [I. Ouverture, II. Courante, III. Gavotte I, IV. Gavotte II, V. Passepied
+      I, VI. Passepied II, VIII. Bourree I, IX. Bourree II, X. Gigue, XI. Echo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/73891bea-9932-4e05-ae1b-969ed88addea
+  title: Magna Sequentia II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b848405a-26e7-4d25-b532-5c09d1ad7d58
+  recordings: [eca61a42-c417-49fd-b5c4-3e6ccff57468]

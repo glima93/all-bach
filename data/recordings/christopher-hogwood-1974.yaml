@@ -1,0 +1,29 @@
+id: christopher-hogwood-1974
+performers:
+- name: Christopher Hogwood
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974]
+  place: Brent Town Hall
+released: 1994
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [III. Contrapunctus 3, VI. Contrapunctus 6 a 4 in Stylo Francese, VIII.
+      Contrapunctus 8 a 3, 'XIII, 1. Contrapunctus inversus a 3 (Forma recta)', XIV. Canon per Augmentationem in
+      Contrario Motu, XV. Canon alla Ottava, XVI. Canon alla Decima in Contrapunto alla Terza, XVII. Canon alla
+      Duodecima in Contrapunto alla Quinta]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/899e0228-cc6e-4ae0-b8e8-781d8c395938
+  title: The Art of Fugue / Musical Offering
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 00db6f13-4ec4-4ff9-ab10-07340b511e97
+  recordings: [743538e6-72ee-42b2-af76-b26a253c2864]

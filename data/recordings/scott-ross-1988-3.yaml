@@ -1,0 +1,27 @@
+id: scott-ross-1988-3
+performers:
+- name: Scott Ross
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: Château d'Assas
+released: 1994
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b01dff1-286c-4a41-a56a-8be74fe27e70
+  recordings: [ec1305b2-2472-4d7e-812d-70638b85df0e]

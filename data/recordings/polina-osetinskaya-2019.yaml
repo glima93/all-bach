@@ -1,0 +1,26 @@
+id: polina-osetinskaya-2019
+performers:
+- name: Polina Osetinskaya
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2019]
+  place: CineLab SoundMix
+released: 2019
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/896b6e92-91f8-48fd-82d4-c2c8fe21ff92
+  title: Bach / Scarlatti
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3d347e94-2408-463d-b8d5-6c01f3b56e7e
+  recordings: [c21fdb6e-a5f3-4af9-83d7-a93b2381e389]

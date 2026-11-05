@@ -1,0 +1,27 @@
+id: andreas-staier-1993-2
+performers:
+- name: Andreas Staier
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: Beethoven-Haus
+released: 1994
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2910cbc7-b0f6-4342-af6d-445f58c40cdb
+  title: Andreas Staier Edition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 159f2f4b-2431-4045-adbd-a2d320c907ac
+  recordings: [60fb5978-a15f-4879-84ed-bc274f1c4bdc]

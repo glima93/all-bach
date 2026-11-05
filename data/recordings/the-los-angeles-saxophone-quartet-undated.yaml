@@ -1,0 +1,34 @@
+id: the-los-angeles-saxophone-quartet-undated
+performers:
+- name: The Los Angeles Saxophone Quartet
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Wilshire United Methodist Church
+released: null
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, IV. Contrapunctus 4, VII.
+      Contrapunctus 7 a 4 per Augmentationem et Diminutionem, VIII. Contrapunctus 8 a 3, IX. Contrapunctus 9 a 4
+      alla Duodecima, X. Contrapunctus 10 a 4 alla Decima, 'XII, 1. Contrapunctus inversus a 4 (Forma recta)', 'XII,
+      2. Contrapunctus inversus 12 a 4 (Forma inversa)', 'XIII, 1. Contrapunctus inversus a 3 (Forma recta)', 'XIII,
+      2. Contrapunctus inversus a 3 (Forma inversa)', XIV. Canon per Augmentationem in Contrario Motu, XV. Canon
+      alla Ottava, XVI. Canon alla Decima in Contrapunto alla Terza, XVII. Canon alla Duodecima in Contrapunto alla
+      Quinta, 'XIX. Fuga a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f781faf1-b517-46de-ae3f-8cacabe2436f
+  title: 'J.S. Bach: The Art Of The Fugue'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5591116c-9cd4-4ac0-9dc4-e87ae2715e82
+  recordings: [164d5a8b-78e0-4875-85ef-a0de6d7b9aae]

@@ -1,0 +1,30 @@
+id: glenn-gould-undated-8
+performers:
+- name: Glenn Gould
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '831', complete: false, movements: [VII. Sarabande]}
+- {bwv: '971', complete: false, movements: [II. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/280ac95e-4934-4479-b491-8302256116cf
+  title: 'The Art of J.S. Bach: Ryuichi Sakamoto Selections'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7002bf88-1269-4965-a772-4ba1e7a91eaa
+  recordings: [d478bb72-6abc-4738-955c-8a6019bd128e]

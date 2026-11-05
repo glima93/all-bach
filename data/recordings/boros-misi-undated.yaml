@@ -1,0 +1,28 @@
+id: boros-misi-undated
+performers:
+- name: Boros Misi
+  role: grand piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Supersize Recording
+released: 2022
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cbece292-21f9-4c69-9499-f88ae67fc565
+  title: Fantasy and Fugue in G minor / Toccata und Fuge in D minor / Praeludium und Fuge A major / Italienisches
+    Konzert
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 48c0aea6-c0e6-4fda-8b8b-4db9c8b14e39
+  recordings: [a491447d-bda7-4d3a-a10c-7fa6bdcf8502]

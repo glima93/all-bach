@@ -1,0 +1,26 @@
+id: gregor-hollmann-1998
+performers:
+- name: Gregor Hollmann
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Schloss Nordkirchen
+released: 1999
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a28db0b6-516c-4e46-9034-17aaa35c6319
+  title: Solo Concertos, Vol. 4
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 744e74f9-132c-4fde-93c1-85e3e1a3b42d
+  recordings: [7706bd33-8e82-4243-bf91-40abbf538d86]

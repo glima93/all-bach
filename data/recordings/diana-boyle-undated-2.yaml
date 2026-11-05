@@ -1,0 +1,28 @@
+id: diana-boyle-undated-2
+performers:
+- name: Diana Boyle
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '831', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7866289f-f15e-46f4-9591-e8d3147ac6a2
+  title: Diana Boyle Plays J.S. Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c49dd4eb-ef18-4348-a223-6dbdfffe70ff
+  recordings: [5b85dbd7-c521-4677-be3f-8407594f7c35]

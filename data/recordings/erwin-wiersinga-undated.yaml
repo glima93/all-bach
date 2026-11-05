@@ -1,0 +1,27 @@
+id: erwin-wiersinga-undated
+performers:
+- name: Erwin Wiersinga
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Martinikerk
+released: 2019
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/299d39ad-7df1-4bf1-ac94-437c22923a00
+  title: A New Angle
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e4621c97-e70d-441c-9365-6619365bab5c
+  recordings: [7d0ad089-429f-41e7-8dc3-e10c31977fee]

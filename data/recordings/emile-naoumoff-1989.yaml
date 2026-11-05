@@ -1,0 +1,26 @@
+id: emile-naoumoff-1989
+performers:
+- name: Emile Naoumoff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1989]
+  place: Studio Damiens
+released: 1990
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a05bec96-2726-406a-a01a-a4bde4d62ca4
+  title: Jean Sébastien Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 07159b74-91a4-45d2-81d5-1055c7db463f
+  recordings: [c32133ec-7428-4578-ac6c-94fbdf886f94]

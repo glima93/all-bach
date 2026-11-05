@@ -1,0 +1,30 @@
+id: robert-m-cundick-undated
+performers:
+- name: Robert M. Cundick
+  role: organ
+- name: John Longhurst
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [X. Contrapunctus 10 a 4 alla Decima]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9f72ab69-ac53-454a-acc1-fa100cf3731d
+  title: A Tabernacle Organ Duo Extravaganza
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a17da594-d89e-4b69-8ae5-ac934b2e08c4
+  recordings: [e793a9e3-be71-4b8a-9d36-b497038a7342]

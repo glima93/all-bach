@@ -1,0 +1,27 @@
+id: isolde-ahlgrimm-undated
+performers:
+- name: Isolde Ahlgrimm
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Doopsgezinde kerk
+released: 2018
+original_label: null
+works:
+- {bwv: '971', complete: false, movements: [III. Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 25d77c57-b5fe-4e55-a4d6-bc70d72ecd11
+  recordings: [29767189-fad6-4d8e-8e0e-bf83c65773a2]

@@ -1,0 +1,28 @@
+id: zsuzsa-pertis-undated
+performers:
+- name: Zsuzsa Pertis
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [XIV. Canon per Augmentationem in Contrario Motu, XV. Canon alla Ottava]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/37323147-cd97-4b9f-895b-0dd00356ce2d
+  title: Die Kunst der Fuge
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5d878e8c-7a4c-4060-bfe1-55dd2796f18d
+  recordings: [dc778dea-5f1b-4279-bd3d-b8bdba70f4ae]

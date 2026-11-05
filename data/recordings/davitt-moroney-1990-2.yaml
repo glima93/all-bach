@@ -1,0 +1,27 @@
+id: davitt-moroney-1990-2
+performers:
+- name: Davitt Moroney
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d11c50e6-baba-42a1-8815-901113853216
+  title: Bach - Everyman's Library
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ec6f651a-b483-408c-a5e5-a868f549022b
+  recordings: [bf049bcc-7932-4550-895f-f9ce9f933c5c]

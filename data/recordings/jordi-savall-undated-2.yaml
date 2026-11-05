@@ -1,0 +1,28 @@
+id: jordi-savall-undated-2
+performers:
+- name: Jordi Savall
+  role: viola da gamba
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: ['XIII, 1. Contrapunctus inversus a 3 (Forma recta)']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d67a0ec0-2749-42d5-a9e6-d67de12691c0
+  title: Musicien de l'Europe
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9a4bb654-35c5-4c88-8460-39d5bb01aa57
+  recordings: [85d2da42-7775-43e5-9ab3-16b3664964f3]

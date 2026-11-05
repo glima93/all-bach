@@ -1,0 +1,27 @@
+id: pieter-jan-belder-1999-6
+performers:
+- name: Pieter-Jan Belder
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Maria Minor
+released: 1999
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a284f03-e48b-4220-b4e1-47e851468658
+  title: 'Bach Edition, Volume 3: Keyboard Works/Klavierwerke, Volume I'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ac46c3a-f0ca-48b0-b729-f6a40d1b80e1
+  recordings: [d2d6fc0d-f737-4672-b1c2-c5821c4ab51d]

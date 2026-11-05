@@ -1,0 +1,26 @@
+id: wolfgang-rubsam-1991-2
+performers:
+- name: Wolfgang Rübsam
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1991]
+  place: Clara-Wieck-Auditorium
+released: 1991
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7335899d-3bd7-4cb9-be33-b7baa3ced5a4
+  title: French Suites Nos. 1 & 2, Italian Concerto, Chromatic Fantasia and Fugue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [7d6b0577-ffdb-4d12-b2db-0d38ab1a706f]

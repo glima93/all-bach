@@ -1,0 +1,26 @@
+id: wilhelm-kempff-1923
+performers:
+- name: Wilhelm Kempff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1923]
+  place: Deutsche Grammophon Ges. Studio Berlin
+released: 2022
+original_label: null
+works:
+- {bwv: '971', complete: false, movements: [III. Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/11d2e39d-fb83-4340-87e3-63f6a9a5dcc9
+  title: Complete Acoustical Recordings Berlin, 1923–1925
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 095311b3-786f-4905-af19-03ae6b242a57
+  recordings: [9e0895c1-1d73-48b2-947b-47af5db97c65]

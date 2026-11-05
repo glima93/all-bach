@@ -1,0 +1,29 @@
+id: daniel-hyde-undated
+performers:
+- name: Daniel Hyde
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [XIV. Canon per Augmentationem in Contrario Motu, XV. Canon alla Ottava,
+    XVI. Canon alla Decima in Contrapunto alla Terza, XVII. Canon alla Duodecima in Contrapunto alla Quinta]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/89b6643a-4e9f-4201-9ddb-a01089b53c2c
+  title: The Art of Fugue
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6e1236eb-5b4a-49e9-8e82-cb35243ebd8f
+  recordings: [24c17341-454d-4d90-a955-1199510bc387]

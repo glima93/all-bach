@@ -1,0 +1,26 @@
+id: joyce-yang-2005
+performers:
+- name: Joyce Yang
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2005]
+  place: Bass Performance Hall
+released: 2005
+original_label: null
+works:
+- {bwv: '831', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59ae92d6-a335-47fe-9c01-ab6ff8531a65
+  title: 'Twelfth Van Cliburn International Piano Competition: Joyce Yang, Silver Medalist'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c89ec1a5-047f-4125-8d40-6ef783351882
+  recordings: [2682b836-375d-4db9-a86e-99568fc687cb]

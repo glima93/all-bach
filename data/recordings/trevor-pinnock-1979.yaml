@@ -1,0 +1,27 @@
+id: trevor-pinnock-1979
+performers:
+- name: Trevor Pinnock
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1979]
+  place: Henry Wood Hall
+released: 1984
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b10d1103-f946-4301-8bd0-74d9b3a46404
+  title: Works for Organ / Works for Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 66d97594-15fd-49b9-8359-0c014dbe8719
+  recordings: [a3b17078-5e15-4394-99aa-192862a07eba]

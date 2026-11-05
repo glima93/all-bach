@@ -1,0 +1,27 @@
+id: laurence-cummings-1999-2
+performers:
+- name: Laurence Cummings
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c712b9c-aa56-4355-b9ba-0de1d07fd4ba
+  title: High Fidelity Reference CD No. 69
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9ea1cafb-d94e-4aa3-a0c9-5ab30de653de
+  recordings: [2062c7ad-65c4-4352-b3b8-1e46bb03764d]

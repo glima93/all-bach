@@ -1,0 +1,28 @@
+id: stuttgarter-kammerorchester-1965
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1965]
+  place: Liederhalle
+released: 1998
+original_label: null
+works:
+- {bwv: '1080', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ceebeadf-4001-49d0-a344-875a8c4346e5
+  title: Orchestral Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [913bf0fa-d6b2-48d4-9a62-306840186235]

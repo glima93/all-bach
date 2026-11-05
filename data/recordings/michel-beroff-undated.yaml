@@ -1,0 +1,28 @@
+id: michel-beroff-undated
+performers:
+- name: Michel Béroff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '831', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/583064ae-d54a-459e-b0d8-e1d388f1e5f0
+  title: Complete Erato Recordings
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 299aabb2-2a87-4501-a99b-07c91ea4a5e0
+  recordings: [bd6192d7-10a7-4b29-a2e3-fb0db8d050e0]

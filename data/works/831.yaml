@@ -1,0 +1,24 @@
+bwv: "831"
+title: "Overture in the French Style"
+key: "B minor"
+collection: "Italian Concerto and French Overture (Clavier-Übung II)"
+genre: keyboard
+scoring: "keyboard (two-manual harpsichord)"
+composed: "Leipzig; published 1735 in Clavier-Übung II, revised from an earlier C minor version (BWV 831a)"
+movements:
+  - "I. Ouverture"
+  - "II. Courante"
+  - "III. Gavotte I"
+  - "IV. Gavotte II"
+  - "V. Passepied I"
+  - "VI. Passepied II"
+  - "VII. Sarabande"
+  - "VIII. Bourree I"
+  - "IX. Bourree II"
+  - "X. Gigue"
+  - "XI. Echo"
+notes: "Published as the companion to the Italian Concerto in the second part of the Clavier-Übung, it sets the French orchestral suite against the Italian concerto. Bach transposed the work from C minor to B minor for publication, placing it a tritone away from the Concerto's F major."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Overture_in_the_French_style"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/13c7fae5-83ee-4a34-be2f-efbf7a0e6639

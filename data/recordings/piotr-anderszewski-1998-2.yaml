@@ -1,0 +1,26 @@
+id: piotr-anderszewski-1998-2
+performers:
+- name: Piotr Anderszewski
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1998]
+  place: Maison de la radio et de la musique
+released: 1999
+original_label: null
+works:
+- {bwv: '831', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30e30b96-ccf7-4ad8-9e4f-7d82bdacefa1
+  title: Suite française No. 5, Overture in the French Style
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 12735d4f-8295-42ed-8ca4-f0438e48fccd
+  recordings: [4e5baead-abc2-4877-9a21-787c04556dda]
