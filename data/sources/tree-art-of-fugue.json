@@ -1,0 +1,116 @@
+{
+ "collection": "art-of-fugue",
+ "taken": "2026-11-04",
+ "recordings": 2020,
+ "performances": 156,
+ "works": [
+  {
+   "bwv": "1080",
+   "id": "e562bb8c-5981-4665-8d07-6bbbb0429a8d",
+   "candidates": [
+    {
+     "id": "e562bb8c-5981-4665-8d07-6bbbb0429a8d",
+     "title": "Die Kunst der Fuge, BWV 1080"
+    },
+    {
+     "id": "4a557eb6-a7ab-4e1c-a5d4-42605b59ba54",
+     "title": "Die Kunst der Fuge, BWV 1080"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Die Kunst der Fuge, BWV 1080",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "2aa0c9bf-1a04-3929-a470-ba9f97d5f765",
+     "title": "Die Kunst der Fuge, BWV 1080: I. Contrapunctus 1"
+    },
+    {
+     "id": "97be078d-8c22-333c-b05c-aed79d4f3554",
+     "title": "Die Kunst der Fuge, BWV 1080: II. Contrapunctus 2"
+    },
+    {
+     "id": "0e135e6c-a2bc-332a-9158-329d1987e7f5",
+     "title": "Die Kunst der Fuge, BWV 1080: III. Contrapunctus 3"
+    },
+    {
+     "id": "057dc676-e173-3951-a621-9790ea3cb3da",
+     "title": "Die Kunst der Fuge, BWV 1080: IV. Contrapunctus 4"
+    },
+    {
+     "id": "3b69ca74-fe97-3055-880c-d565d6a39654",
+     "title": "Die Kunst der Fuge, BWV 1080: V. Contrapunctus 5"
+    },
+    {
+     "id": "345800f6-a046-303b-8334-c701cd2470d2",
+     "title": "Die Kunst der Fuge, BWV 1080: VI. Contrapunctus 6 a 4 in Stylo Francese"
+    },
+    {
+     "id": "d23f18e6-59e6-35b0-83f9-408901037c32",
+     "title": "Die Kunst der Fuge, BWV 1080: VII. Contrapunctus 7 a 4 per Augmentationem et Diminutionem"
+    },
+    {
+     "id": "07df2b8b-4edf-3643-9839-e4cbc2d39031",
+     "title": "Die Kunst der Fuge, BWV 1080: VIII. Contrapunctus 8 a 3"
+    },
+    {
+     "id": "eba29eca-65c8-3773-8d03-5633a49228f4",
+     "title": "Die Kunst der Fuge, BWV 1080: IX. Contrapunctus 9 a 4 alla Duodecima"
+    },
+    {
+     "id": "febfbd6f-3f59-3231-af71-dadc1ab1a619",
+     "title": "Die Kunst der Fuge, BWV 1080: X. Contrapunctus 10 a 4 alla Decima"
+    },
+    {
+     "id": "51174ec8-0b46-3fb8-a0ca-3fb7aafdc5fd",
+     "title": "Die Kunst der Fuge, BWV 1080: XI. Contrapunctus 11 a 4"
+    },
+    {
+     "id": "a91c8be8-bc66-3034-ab0e-8001fc2bfcd5",
+     "title": "Die Kunst der Fuge, BWV 1080: XII, 1. Contrapunctus inversus a 4 (Forma recta)"
+    },
+    {
+     "id": "986044bd-cd41-3c45-ac91-28451e58bf6d",
+     "title": "Die Kunst der Fuge, BWV 1080: XII, 2. Contrapunctus inversus 12 a 4 (Forma inversa)"
+    },
+    {
+     "id": "558c7109-39ae-3052-89b8-05b0a9b9665a",
+     "title": "Die Kunst der Fuge, BWV 1080: XIII, 1. Contrapunctus inversus a 3 (Forma recta)"
+    },
+    {
+     "id": "5465e820-d04f-3e2d-b843-0ccda2802a62",
+     "title": "Die Kunst der Fuge, BWV 1080: XIII, 2. Contrapunctus inversus a 3 (Forma inversa)"
+    },
+    {
+     "id": "d3db5430-ebff-3151-bab1-c3c286174d82",
+     "title": "Die Kunst der Fuge, BWV 1080: XIV. Canon per Augmentationem in Contrario Motu"
+    },
+    {
+     "id": "cb24f2b7-0c42-3da0-8f51-36f6764a02c4",
+     "title": "Die Kunst der Fuge, BWV 1080: XV. Canon alla Ottava"
+    },
+    {
+     "id": "2080fabd-44dd-3027-b6c6-5fbae476c57f",
+     "title": "Die Kunst der Fuge, BWV 1080: XVI. Canon alla Decima in Contrapunto alla Terza"
+    },
+    {
+     "id": "5c2320c3-dbe9-31c6-a8ae-36fa7ea50424",
+     "title": "Die Kunst der Fuge, BWV 1080: XVII. Canon alla Duodecima in Contrapunto alla Quinta"
+    },
+    {
+     "id": "1b3e8563-c60a-487f-87a4-a38dbbca2ed9",
+     "title": "Die Kunst der Fuge, BWV 1080: XVIII, 1. Fuga à 2 Claviere"
+    },
+    {
+     "id": "38049976-51f7-48df-937b-05dfe9ebc104",
+     "title": "Die Kunst der Fuge, BWV 1080: XVIII, 2. Alio modo. Fuga à 2 Claviere"
+    },
+    {
+     "id": "8281eb46-4681-3ad7-adb9-13d577a01b18",
+     "title": "Die Kunst der Fuge, BWV 1080: XIX. Fuga a 3 [4] Soggetti"
+    }
+   ]
+  }
+ ]
+}
