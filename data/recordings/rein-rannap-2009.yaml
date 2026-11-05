@@ -1,0 +1,27 @@
+id: rein-rannap-2009
+performers:
+- name: Rein Rannap
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2009]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b8e3c506-ad4b-45db-bf4f-3c4fe66a1927
+  title: Klaveri kuld
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 47e2a032-0cf3-42b3-8b6a-a1de8ae87c1d
+  recordings: [eec2de8e-1233-40ad-9418-2aa16159cf46]

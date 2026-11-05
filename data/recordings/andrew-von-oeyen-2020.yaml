@@ -1,0 +1,27 @@
+id: andrew-von-oeyen-2020
+performers:
+- name: Andrew von Oeyen
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020]
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '831', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6a35a66a-c1f6-4bc3-9730-89ab9fdfeb38
+  title: Bach / Beethoven
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f263b377-4c4a-4b59-9756-ba6a054aac47
+  recordings: [19dd6449-b7ea-4a92-8213-1d872cbd99f2]

@@ -1,0 +1,31 @@
+id: rascher-saxophone-quartet-undated
+performers:
+- name: Raschèr Saxophone Quartet
+  role: saxophone
+- name: Carsten Klomp
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1080', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b8e7d5a0-d492-41c8-985e-a28da3ea5b41
+  title: Die Kunst der Fuge
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With saxophone.
+musicbrainz:
+  artist: 2455f95c-2d38-40cc-9fd1-15ede76f96d7
+  recordings: [cf9183bf-be8c-4e9d-bc45-56e753fe13de]

@@ -1,0 +1,27 @@
+id: aya-hamada-2020
+performers:
+- name: Aya Hamada
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Musée d'Art et d'Histoire
+released: 2021
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e5b1514f-2841-44ed-a332-a2ccc19ac020
+  title: Clavier-Übung II / Chaconne
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 083b5a3a-7a8f-42a1-ad93-c620c8fabf89
+  recordings: [25cfb762-19ff-4ecf-87c0-6ca24b79aeb7]

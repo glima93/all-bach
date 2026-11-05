@@ -1,0 +1,26 @@
+id: karl-richter-1969-2
+performers:
+- name: Karl Richter
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1969]
+  place: Plenarsaal der Akademie der Wissenschaften
+released: 1970
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a9b9696-08d2-449e-9665-67d005c02b60
+  title: 'Karl Richter: A Universal Musician'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e01ebec7-98c5-450a-bf67-5650f8b4eff0
+  recordings: [8c3908ca-beee-442d-9b18-195d9d537078]

@@ -1,0 +1,29 @@
+id: walter-gieseking-undated-2
+performers:
+- name: Walter Gieseking
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '971', complete: false, movements: ['I. [Allegro]']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9fb9ece4-2b53-4a2b-9739-de3f11329ccc
+  title: Piano Masters
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62e0e456-bd4b-4edc-a47c-3537cdd53621
+  recordings: [e9359c5b-9b23-43a4-b856-cf793f9b68e6]

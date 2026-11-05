@@ -1,0 +1,32 @@
+id: zhu-xiao-mei-2014
+performers:
+- name: Zhu Xiao-Mei
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: Gewandhaus
+released: 2014
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, III. Contrapunctus 3, IV.
+      Contrapunctus 4, V. Contrapunctus 5, VI. Contrapunctus 6 a 4 in Stylo Francese, VII. Contrapunctus 7 a 4 per
+      Augmentationem et Diminutionem, VIII. Contrapunctus 8 a 3, IX. Contrapunctus 9 a 4 alla Duodecima, X. Contrapunctus
+      10 a 4 alla Decima, XI. Contrapunctus 11 a 4, 'XII, 1. Contrapunctus inversus a 4 (Forma recta)', 'XII, 2.
+      Contrapunctus inversus 12 a 4 (Forma inversa)', XV. Canon alla Ottava, XVI. Canon alla Decima in Contrapunto
+      alla Terza, XVII. Canon alla Duodecima in Contrapunto alla Quinta, 'XVIII, 1. Fuga à 2 Claviere', 'XVIII,
+      2. Alio modo. Fuga à 2 Claviere', 'XIX. Fuga a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/089de6ca-3d9f-493c-b324-eb7282d19a48
+  title: Die Kunst der Fuge
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 974bea93-32a7-4557-a979-f887ebb31495
+  recordings: [97314768-9f1b-4ab9-b6ff-0c11acbf0063]

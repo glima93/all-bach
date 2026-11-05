@@ -1,0 +1,28 @@
+id: leopoldo-lipstein-undated
+performers:
+- name: Leopoldo Lipstein
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f352d3d5-ea99-47fa-a34f-9d63417514ec
+  title: Brahms, Bach, Villa-Lobos
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3437f553-cd00-48d4-9a7f-e302c360dd15
+  recordings: [42d79e0c-8793-48f7-81cd-be5e37ea13ef]

@@ -1,0 +1,28 @@
+id: marnie-laird-undated
+performers:
+- name: Marnie Laird
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '971', complete: false, movements: ['I. [Allegro]']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/316c3186-eafb-421c-9844-15c202e6afb5
+  title: 'Classical Piano Favorites, Vol. 2: Bach, Mozart, Brahms, Debussy, Schumann'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ee51216-9d21-4f06-b2ca-ee1408c695de
+  recordings: [378933c7-9570-40c4-9878-7e6af0ef6af3]

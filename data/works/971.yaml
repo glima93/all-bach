@@ -1,0 +1,16 @@
+bwv: "971"
+title: "Italian Concerto"
+key: "F major"
+collection: "Italian Concerto and French Overture (Clavier-Übung II)"
+genre: keyboard
+scoring: "keyboard (two-manual harpsichord)"
+composed: "Leipzig; published 1735 in Clavier-Übung II"
+movements:
+  - "I. [Allegro]"
+  - "II. Andante"
+  - "III. Presto"
+notes: "Titled \"Concerto nach Italiænischen Gusto\", it transfers the solo–tutti contrast of the Italian concerto to a single player, using the forte and piano markings of the two manuals. It was published together with the French Overture, BWV 831, in the second part of the Clavier-Übung."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Italian_Concerto"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/97a2c256-65d3-4da7-a633-6624261a7cf4

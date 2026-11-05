@@ -1,0 +1,28 @@
+id: les-violons-du-roy-2000
+performers:
+- name: Les Violons du Roy
+  role: orchestra
+- name: Bernard Labadie
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: 'Domaine Forget: Salle Françoys-Bernier'
+released: 2001
+original_label: null
+works:
+- {bwv: '1080', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/812a9122-7505-455f-99fd-843c7c3fc68e
+  title: Art of the Fugue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a118464e-b220-41ff-959d-08da62fa39b7
+  recordings: [0c9a9d6b-d1f7-4a99-a512-68054df61047]

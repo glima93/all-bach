@@ -1,0 +1,29 @@
+id: ksenija-sidorova-undated
+performers:
+- name: Ksenija Sidorova
+  role: accordion
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '831', complete: false, movements: [I. Ouverture]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/262b84d4-11fc-450b-991a-7964b4c2ff12
+  title: Classical Accordion
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on accordion.
+musicbrainz:
+  artist: 3daef105-1d80-428f-a1de-a5ea5ff3fe10
+  recordings: [3edda19c-1dc8-488c-8733-66d782db6020]

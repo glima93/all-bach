@@ -1,0 +1,31 @@
+id: geoffrey-madge-2020
+performers:
+- name: Geoffrey Madge
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020]
+  place: Zeeuwse Concertzaal
+released: 2021
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, III. Contrapunctus 3, IV.
+      Contrapunctus 4, V. Contrapunctus 5, VI. Contrapunctus 6 a 4 in Stylo Francese, VII. Contrapunctus 7 a 4 per
+      Augmentationem et Diminutionem, VIII. Contrapunctus 8 a 3, IX. Contrapunctus 9 a 4 alla Duodecima, X. Contrapunctus
+      10 a 4 alla Decima, XI. Contrapunctus 11 a 4, 'XII, 1. Contrapunctus inversus a 4 (Forma recta)', 'XII, 2.
+      Contrapunctus inversus 12 a 4 (Forma inversa)', 'XIII, 1. Contrapunctus inversus a 3 (Forma recta)', 'XIII,
+      2. Contrapunctus inversus a 3 (Forma inversa)', 'XIX. Fuga a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/78a7ce77-949d-487c-a740-3e4b402453b0
+  title: The Art of Fugue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45e13045-fb71-4803-92bf-a2072ee75cd8
+  recordings: [0227f0ee-0c5d-4f31-8199-9279f136037f]

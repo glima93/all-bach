@@ -1,0 +1,29 @@
+id: boston-symphony-orchestra-brass-undated
+performers:
+- name: Boston Symphony Orchestra Brass
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [IX. Contrapunctus 9 a 4 alla Duodecima]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6bec1498-b4af-430c-9ebd-5b078e99cf6a
+  title: 'Greatest Hits: Brass'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ed6a493-0300-428d-82da-91c62b4d50aa
+  recordings: [8725214a-816b-4a56-b945-66565d98839e]

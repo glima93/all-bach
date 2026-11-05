@@ -1,0 +1,30 @@
+id: christopher-hogwood-undated-2
+performers:
+- name: Christopher Hogwood
+  role: harpsichord
+- name: Christophe Rousset
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Conservatoire national supérieur de musique et de danse de Paris
+released: 1996
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: ['XVIII, 2. Alio modo. Fuga à 2 Claviere']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2a073952-5f3a-4454-891f-de88713d611a
+  title: Concertos / Duets
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 00db6f13-4ec4-4ff9-ab10-07340b511e97
+  recordings: [70934ee4-cf52-4466-a3dc-a1e6d47914e1]

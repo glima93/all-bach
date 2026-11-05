@@ -1,0 +1,27 @@
+id: andras-schiff-1991-2
+performers:
+- name: András Schiff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1991]
+  place: Reitstadel
+released: 1993
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4ae6a79e-f668-455d-923b-2f448d98f783
+  title: 6 French Suites / Italian Concerto / French Overture
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cb535c4c-711b-4be1-98f3-b6b5f8955d41
+  recordings: [d9b195b0-5cd0-4b66-ba61-a591ef8151a4]

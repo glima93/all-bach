@@ -1,0 +1,28 @@
+id: toby-sermeus-undated-3
+performers:
+- name: Toby Sermeus
+  role: fortepiano
+instrument: fortepiano
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [VIII. Contrapunctus 8 a 3]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/358f9b41-99b0-472f-b88c-9d7016a80b85
+  title: Bach’s Piano Silbermann 1749
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5579c6b5-0b15-4af5-bb2e-8d3533f6d47f
+  recordings: [7e58f597-0139-4696-b120-6e3ed94fd70e]

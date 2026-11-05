@@ -1,0 +1,27 @@
+id: yuan-sheng-2014
+performers:
+- name: Yuan Sheng
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: Beijing Concert Hall
+released: 2015
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/741c902a-a4a7-442a-8cd8-811cab0ae66f
+  title: Italian Concerto / French Overture / 4 Duets / Aria & 10 Variations in Italian Style
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9dbb90f9-fb3b-4a09-b791-89e2164ba0ea
+  recordings: [de5dec8b-39e7-4a32-b09f-ef87617dde4a]

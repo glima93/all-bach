@@ -1,0 +1,26 @@
+id: trevor-pinnock-1983
+performers:
+- name: Trevor Pinnock
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1983]
+  place: Ongaku No Tomo
+released: 1984
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b10d1103-f946-4301-8bd0-74d9b3a46404
+  title: Works for Organ / Works for Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 66d97594-15fd-49b9-8359-0c014dbe8719
+  recordings: [7c4d332e-c5ad-46f7-8453-de624d5c707a]

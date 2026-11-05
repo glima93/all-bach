@@ -1,0 +1,26 @@
+id: sophie-yates-1995
+performers:
+- name: Sophie Yates
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: St. Bartholomew's Church
+released: 1996
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e8409120-ccf6-4959-baab-2f2f586b9cd9
+  title: 'La Sophie: Popular Harpsichord Music of the 18th Century'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 64202f32-bff7-462c-9c9f-fe9adb2f7a78
+  recordings: [af6f8277-ca16-436f-9c5c-216593f71b1d]

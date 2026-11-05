@@ -1,0 +1,26 @@
+id: orion-weiss-2007
+performers:
+- name: Orion Weiss
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2007]
+  place: Zipper Hall
+released: 2011
+original_label: null
+works:
+- {bwv: '831', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33dc2c6a-0b36-433d-97f6-b2b296e66f54
+  title: 'Orion: J.S. Bach / Scriabin / Mozart / Carter'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c93f3174-8ee1-4322-a3ad-bb38be250ffd
+  recordings: [6d702bd5-946f-4c17-b362-792bbe814c9b]

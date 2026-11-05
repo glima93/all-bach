@@ -1,0 +1,28 @@
+id: evan-kory-undated-3
+performers:
+- name: Evan Kory
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '831', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5662e4ee-13dc-41f3-8171-1570f8a935de
+  title: French Suite no. 2 / English Suite no. 6 / Four Duette / French Overture
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 199e0afa-20b4-4196-998f-00ccea0d2231
+  recordings: [026aaacd-37f9-405c-8f05-d998a4d18c1d]

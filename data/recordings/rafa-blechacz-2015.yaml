@@ -1,0 +1,26 @@
+id: rafa-blechacz-2015
+performers:
+- name: Rafał Blechacz
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2015]
+  place: Meistersaal
+released: 2017
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9462a7e9-a155-41e3-9271-03adfa698985
+  title: Johann Sebastian Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 76c335fd-3edc-4bea-bace-80d3e8d389df
+  recordings: [5d13c6dd-3f05-4b9b-99ba-876dc9bdeb40]

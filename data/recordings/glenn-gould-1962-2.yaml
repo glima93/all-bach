@@ -1,0 +1,28 @@
+id: glenn-gould-1962-2
+performers:
+- name: Glenn Gould
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: All Saints Anglican Church
+released: 1962
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, III. Contrapunctus 3, IV.
+      Contrapunctus 4, V. Contrapunctus 5, VI. Contrapunctus 6 a 4 in Stylo Francese, VII. Contrapunctus 7 a 4 per
+      Augmentationem et Diminutionem, VIII. Contrapunctus 8 a 3, IX. Contrapunctus 9 a 4 alla Duodecima]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f10bada-8a69-4562-8536-16e142671b75
+  title: The Art of the Fugue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7002bf88-1269-4965-a772-4ba1e7a91eaa
+  recordings: [f49ed88c-4b52-42cd-8d34-ca31992e7e70]

@@ -1,0 +1,30 @@
+id: joanna-macgregor-undated
+performers:
+- name: Joanna MacGregor
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [X. Contrapunctus 10 a 4 alla Decima, 'XVIII, 1. Fuga à 2 Claviere',
+    'XVIII, 2. Alio modo. Fuga à 2 Claviere', 'XIX. Fuga a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/172c2146-28fe-446a-ab27-a57668a1492e
+  title: Quiet Music
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62c39b58-fa30-465a-ae75-67baa4d97594
+  recordings: [07f7b46c-9e0b-4e73-8b32-d7bf6cbcbb6d]

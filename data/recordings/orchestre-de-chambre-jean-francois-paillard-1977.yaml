@@ -1,0 +1,42 @@
+id: orchestre-de-chambre-jean-francois-paillard-1977
+performers:
+- name: Orchestre de chambre Jean‐François Paillard
+  role: strings
+- name: Jean‐François Paillard
+  role: performer
+- name: Alain Courmont
+  role: performer
+- name: Gérard Granier
+  role: performer
+- name: Jean-Claude Jaboulay
+  role: performer
+- name: Claude Maisonneuve
+  role: performer
+- name: Amaury Wallez
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: Eglise Notre-Dame des Roses
+released: 1978
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, IV. Contrapunctus 4, V. Contrapunctus
+      5, VI. Contrapunctus 6 a 4 in Stylo Francese, VII. Contrapunctus 7 a 4 per Augmentationem et Diminutionem,
+    VIII. Contrapunctus 8 a 3, IX. Contrapunctus 9 a 4 alla Duodecima, X. Contrapunctus 10 a 4 alla Decima, XI.
+      Contrapunctus 11 a 4, 'XII, 1. Contrapunctus inversus a 4 (Forma recta)', 'XII, 2. Contrapunctus inversus
+      12 a 4 (Forma inversa)', 'XIX. Fuga a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4e85e29a-9883-4b23-a67f-9ebda1b98290
+  title: Die Kunst der Fuge (L’Art de la fugue) BWV 1080
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 736d2231-9b64-4f71-b3aa-f5936eb55938
+  recordings: [8409e488-740f-4652-b2e6-cac9f1857807]

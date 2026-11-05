@@ -1,0 +1,27 @@
+id: alexander-weimann-2008
+performers:
+- name: Alexander Weimann
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: Église de Saint-Alphonse-Rodriguez
+released: 2009
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/97ea7cc0-06e5-44e7-8ca6-a03028769648
+  title: Clavierübung II
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 813d1c12-077e-4cf9-ba65-0839ef432972
+  recordings: [4e1a45ca-3960-447b-8194-3b999f0005e1]

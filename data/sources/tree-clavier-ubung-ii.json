@@ -1,0 +1,108 @@
+{
+ "collection": "clavier-ubung-ii",
+ "taken": "2026-11-04",
+ "recordings": 1085,
+ "performances": 201,
+ "works": [
+  {
+   "bwv": "831",
+   "id": "13c7fae5-83ee-4a34-be2f-efbf7a0e6639",
+   "candidates": [
+    {
+     "id": "13c7fae5-83ee-4a34-be2f-efbf7a0e6639",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831"
+    },
+    {
+     "id": "d32ccaef-103f-44cc-8bcb-2fd5060b979e",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Ouvertüre nach französischer Art h-Moll, BWV 831",
+   "key": "B minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "eb30bd32-6bdf-34b4-a8a5-2eba35cd7654",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831: I. Ouverture"
+    },
+    {
+     "id": "6b453f0a-dfb8-3c03-855c-70246b34e5fb",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831: II. Courante"
+    },
+    {
+     "id": "e78e31a9-48f7-380e-9a8f-6b17128e4cce",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831: III. Gavotte I"
+    },
+    {
+     "id": "ca6f55a1-4f0e-3100-84a7-c61a98716c62",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831: IV. Gavotte II"
+    },
+    {
+     "id": "87f88e03-4f1d-3230-a37f-c12d23d8b091",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831: V. Passepied I"
+    },
+    {
+     "id": "36580573-9b66-3a7f-95ef-b12fb0b915ef",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831: VI. Passepied II"
+    },
+    {
+     "id": "5ac9d309-eaae-3ba3-b11f-9889f79ac671",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831: VII. Sarabande"
+    },
+    {
+     "id": "3829aa1f-0584-39ec-beab-350adf02a3e2",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831: VIII. Bourree I"
+    },
+    {
+     "id": "ebfa380b-c9ac-32c2-b8d1-afdd10b50cda",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831: IX. Bourree II"
+    },
+    {
+     "id": "803c84c1-4180-3907-9c56-825b05093ede",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831: X. Gigue"
+    },
+    {
+     "id": "820908a7-9f0f-3a71-b63b-75d96ba76a7f",
+     "title": "Ouvertüre nach französischer Art h-Moll, BWV 831: XI. Echo"
+    }
+   ]
+  },
+  {
+   "bwv": "971",
+   "id": "97a2c256-65d3-4da7-a633-6624261a7cf4",
+   "candidates": [
+    {
+     "id": "97a2c256-65d3-4da7-a633-6624261a7cf4",
+     "title": "Italienisches Konzert F-Dur, BWV 971"
+    },
+    {
+     "id": "bdc9b1b7-529f-40d1-a76a-78d8360343c8",
+     "title": "Italienisches Konzert F-Dur, BWV 971"
+    },
+    {
+     "id": "f7f6c913-796a-4b5a-8439-43e93eabc162",
+     "title": "Italian Concerto in F major, BWV 971"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Italienisches Konzert F-Dur, BWV 971",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "556b2cff-c431-3052-a5c1-91da91162e09",
+     "title": "Italienisches Konzert F-Dur, BWV 971: I. [Allegro]"
+    },
+    {
+     "id": "ce540b99-1141-3436-9e95-6db739298497",
+     "title": "Italienisches Konzert F-Dur, BWV 971: II. Andante"
+    },
+    {
+     "id": "82f2d45c-e4fc-3a02-9337-c39a38e7eeab",
+     "title": "Italienisches Konzert F-Dur, BWV 971: III. Presto"
+    }
+   ]
+  }
+ ]
+}

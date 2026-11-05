@@ -1,0 +1,27 @@
+id: robert-casadesus-1958
+performers:
+- name: Robert Casadesus
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1958]
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/54f858e1-2a80-4cbb-b3f9-6fc7426bb262
+  title: The Columbia Stereo Collection 1958–1963
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6b5fbc3e-d08a-4a92-b6fe-de9c11d73fa9
+  recordings: [8e602c53-cee7-43f4-a546-ff805826c4f1]

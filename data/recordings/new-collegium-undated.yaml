@@ -1,0 +1,35 @@
+id: new-collegium-undated
+performers:
+- name: New Collegium
+  role: orchestra
+- name: Claudio Ribeiro
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, III. Contrapunctus 3, V. Contrapunctus
+      5, VI. Contrapunctus 6 a 4 in Stylo Francese, VII. Contrapunctus 7 a 4 per Augmentationem et Diminutionem,
+    VIII. Contrapunctus 8 a 3, IX. Contrapunctus 9 a 4 alla Duodecima, XI. Contrapunctus 11 a 4, 'XII, 2. Contrapunctus
+      inversus 12 a 4 (Forma inversa)', 'XIII, 1. Contrapunctus inversus a 3 (Forma recta)', XV. Canon alla Ottava,
+    'XIX. Fuga a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1ad41a9a-0156-44a8-892c-75b67c8d3244
+  title: 'Lemniscate: The Art of Fugue'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With recorder, trombone.
+musicbrainz:
+  artist: 1834159b-9f7c-482d-882c-cdf69e5dc620
+  recordings: [33ac786c-505d-4085-b7f4-c5b8a19257e1]

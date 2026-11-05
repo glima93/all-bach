@@ -1,0 +1,30 @@
+id: bob-van-asperen-2012-2
+performers:
+- name: Bob van Asperen
+  role: harpsichord
+- name: Bernhard Klapprott
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2012]
+  place: St.-Georgs-Kirche
+released: 2018
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: ['XII, 1. Contrapunctus inversus a 4 (Forma recta)', 'XII, 2. Contrapunctus
+      inversus 12 a 4 (Forma inversa)', 'XIII, 1. Contrapunctus inversus a 3 (Forma recta)', 'XIII, 2. Contrapunctus
+      inversus a 3 (Forma inversa)']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d108f0d-d4b6-4365-87fa-9d8d5985eea8
+  title: Die Kunst der Fuge, BWV 1080
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f7af258-5683-4fdd-be7a-6e60d69ad12a
+  recordings: [0d4ee285-1f47-49a1-91ff-5357a9b0af1a]

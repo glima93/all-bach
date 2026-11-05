@@ -1,0 +1,30 @@
+id: carsten-klomp-undated
+performers:
+- name: Carsten Klomp
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [II. Contrapunctus 2, III. Contrapunctus 3, V. Contrapunctus 5, VII.
+      Contrapunctus 7 a 4 per Augmentationem et Diminutionem, X. Contrapunctus 10 a 4 alla Decima, 'XII, 1. Contrapunctus
+      inversus a 4 (Forma recta)', XV. Canon alla Ottava]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b8e7d5a0-d492-41c8-985e-a28da3ea5b41
+  title: Die Kunst der Fuge
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9e27a16d-94d1-46e4-b3ea-72b5a78a5319
+  recordings: [81262515-b4f2-481b-b8ed-7b1bba451f02]

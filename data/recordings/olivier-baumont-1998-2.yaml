@@ -1,0 +1,27 @@
+id: olivier-baumont-1998-2
+performers:
+- name: Olivier Baumont
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/32843d3e-dc03-4105-bef3-bb1e645cfb1b
+  title: Six Concertos After Vivaldi / Italian Concerto, BWV 971
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52b921d9-43c3-4755-8787-c22c0d439a07
+  recordings: [bb0e88ae-7b57-4f52-935b-669629d80df9]

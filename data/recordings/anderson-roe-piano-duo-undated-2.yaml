@@ -1,0 +1,28 @@
+id: anderson-roe-piano-duo-undated-2
+performers:
+- name: Anderson & Roe Piano Duo
+  role: piano
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: ['XVIII, 1. Fuga à 2 Claviere', 'XVIII, 2. Alio modo. Fuga à 2 Claviere']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e34bd8df-7054-4bc3-8dbf-1926468e0b9b
+  title: The Art of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aa4dae8f-032f-40c7-9b70-3fe03ac037ea
+  recordings: [a66c0425-f25d-4cc8-a90e-69a346ef5e74]

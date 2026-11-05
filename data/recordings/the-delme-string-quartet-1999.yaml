@@ -1,0 +1,31 @@
+id: the-delme-string-quartet-1999
+performers:
+- name: The Delmé String Quartet
+  role: string quartet
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Temple Church
+released: 2000
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, III. Contrapunctus 3, IV.
+      Contrapunctus 4, V. Contrapunctus 5, VI. Contrapunctus 6 a 4 in Stylo Francese, VII. Contrapunctus 7 a 4 per
+      Augmentationem et Diminutionem, VIII. Contrapunctus 8 a 3, IX. Contrapunctus 9 a 4 alla Duodecima, X. Contrapunctus
+      10 a 4 alla Decima, XI. Contrapunctus 11 a 4, 'XII, 1. Contrapunctus inversus a 4 (Forma recta)', 'XII, 2.
+      Contrapunctus inversus 12 a 4 (Forma inversa)', 'XIII, 1. Contrapunctus inversus a 3 (Forma recta)', 'XIII,
+      2. Contrapunctus inversus a 3 (Forma inversa)', 'XIX. Fuga a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bcb860e1-62d5-46e2-9b0b-449eb9b36380
+  title: Die Kunst der Fuge
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 970da466-3de4-4da0-b039-6491a9e5e7df
+  recordings: [0ac08e8c-527c-473b-9233-677b92d97075]

@@ -1,0 +1,28 @@
+id: ton-koopman-1993-3
+performers:
+- name: Ton Koopman
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: Waalse Kerk
+released: 1996
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [VIII. Contrapunctus 8 a 3, XIV. Canon per Augmentationem in Contrario
+      Motu, XV. Canon alla Ottava, XVI. Canon alla Decima in Contrapunto alla Terza, XVII. Canon alla Duodecima
+      in Contrapunto alla Quinta]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/559a14f3-4e90-4b36-9b4f-cd316513e66f
+  title: Die Kunst der Fuge
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [49ad357d-f340-4954-88a1-ab7500109817]

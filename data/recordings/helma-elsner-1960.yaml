@@ -1,0 +1,27 @@
+id: helma-elsner-1960
+performers:
+- name: Helma Elsner
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1960]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e0e7763-c544-32f3-85cf-1a15f094b6e0
+  title: Harpsichord Music
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4064e565-98db-4c48-a2e0-64bbbf7f05ab
+  recordings: [7f9823b8-d0d3-42bc-baaf-0d3877bd57cd]

@@ -1,0 +1,27 @@
+id: gustav-leonhardt-1965-2
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1965, 1967]
+  place: Fuggerschloss Kirchheim
+released: 1990
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43d11361-7567-45f7-b5c9-b038ee383d59
+  title: Die Kunst der Fuge / Clavierübung II
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [c4dd632a-f792-4da8-8837-fd29c421036c]

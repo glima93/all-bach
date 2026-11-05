@@ -1,0 +1,29 @@
+id: christopher-czaja-sager-undated
+performers:
+- name: Christopher Czaja Sager
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '831', complete: false, movements: [V. Passepied I, VI. Passepied II, VIII. Bourree I, IX. Bourree II]}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/90afa34f-c170-4526-8ae2-1800ce295957
+  title: Piano Virtuoso
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 96632eef-ef65-48a1-8216-666a53ab8c1b
+  recordings: [2ca0bbb9-ce43-48d9-a3df-8697cba77a29]

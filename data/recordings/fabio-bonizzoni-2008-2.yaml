@@ -1,0 +1,30 @@
+id: fabio-bonizzoni-2008-2
+performers:
+- name: Fabio Bonizzoni
+  role: harpsichord
+- name: Mariko Uchimura
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: ['XIII, 1. Contrapunctus inversus a 3 (Forma recta)', 'XIII, 2. Contrapunctus
+      inversus a 3 (Forma inversa)', 'XIX. Fuga a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/190384bc-0e53-4b38-b3c8-7811ee8ef0cb
+  title: Die Kunst der Fuge, BWV 1080, after manuscript Bach P200
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bf19f24-c88e-4078-b758-0d8804c41302
+  recordings: [6e7afeb1-2cbe-4785-9ace-f63cd7380a52]

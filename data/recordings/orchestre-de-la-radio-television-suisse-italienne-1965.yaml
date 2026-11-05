@@ -1,0 +1,35 @@
+id: orchestre-de-la-radio-television-suisse-italienne-1965
+performers:
+- name: Orchestre de La Radio-Television Suisse Italienne
+  role: orchestra
+- name: Hermann Scherchen
+  role: conductor
+- name: Luciano Sgrizzi
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1965]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, III. Contrapunctus 3, IV.
+      Contrapunctus 4, V. Contrapunctus 5, VIII. Contrapunctus 8 a 3, XI. Contrapunctus 11 a 4, 'XII, 1. Contrapunctus
+      inversus a 4 (Forma recta)', 'XIII, 2. Contrapunctus inversus a 3 (Forma inversa)', XIV. Canon per Augmentationem
+      in Contrario Motu, XV. Canon alla Ottava, XVI. Canon alla Decima in Contrapunto alla Terza, XVII. Canon alla
+      Duodecima in Contrapunto alla Quinta, 'XIX. Fuga a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/64658b9d-d655-4204-a560-e3ac681b10bf
+  title: L'art de la fugue
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 41046cb0-bc2c-43e2-8632-fff377b69453
+  recordings: [89378a47-e08f-4091-a1ed-67e682e562d8]

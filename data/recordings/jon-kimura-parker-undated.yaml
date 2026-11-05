@@ -1,0 +1,28 @@
+id: jon-kimura-parker-undated
+performers:
+- name: Jon Kimura Parker
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '971', complete: false, movements: ['I. [Allegro]']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3f458fac-7a6f-4169-831f-8d79c50ae470
+  title: 'Classical Music With a View: Islands + Vistas'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 2c6538b0-9cfc-44ff-9489-63fd2e8fc2a9
+  recordings: [36e74601-d4ed-4a34-8c86-d5a81396f2dd]

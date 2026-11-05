@@ -1,0 +1,30 @@
+id: flanders-recorder-quartet-undated-2
+performers:
+- name: Flanders Recorder Quartet
+  role: recorder
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, IX. Contrapunctus 9 a 4 alla Duodecima, 'XIX. Fuga
+      a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/66d48a12-1117-4fab-93bc-1eff9b65e359
+  title: Abundance = Abondance = Füllhorn
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With recorder.
+musicbrainz:
+  artist: af5d68c6-b5f5-41d0-ae36-34f402f63e5b
+  recordings: [aacadbcc-5eea-4600-b833-0e1f36115ffa]

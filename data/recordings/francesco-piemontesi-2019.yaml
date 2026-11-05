@@ -1,0 +1,26 @@
+id: francesco-piemontesi-2019
+performers:
+- name: Francesco Piemontesi
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2019]
+  place: Jesus‐Christus‐Kirche
+released: 2021
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fcf1a95f-fe1a-4c6b-a228-a2d4d7f1c075
+  title: Bach Nostalghia
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fe2395f5-6bb1-40b5-8bb0-ec2765159124
+  recordings: [ec2d7366-bc36-4dbb-90cd-076afb6e5122]

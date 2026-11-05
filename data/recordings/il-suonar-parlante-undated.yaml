@@ -1,0 +1,39 @@
+id: il-suonar-parlante-undated
+performers:
+- name: Il Suonar Parlante
+  role: ensemble
+- name: Vittorio Ghielmi
+  role: performer
+- name: Lorenzo Ghielmi
+  role: fortepiano
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, III. Contrapunctus 3, IV.
+      Contrapunctus 4, V. Contrapunctus 5, VI. Contrapunctus 6 a 4 in Stylo Francese, VII. Contrapunctus 7 a 4 per
+      Augmentationem et Diminutionem, VIII. Contrapunctus 8 a 3, IX. Contrapunctus 9 a 4 alla Duodecima, X. Contrapunctus
+      10 a 4 alla Decima, XI. Contrapunctus 11 a 4, 'XII, 1. Contrapunctus inversus a 4 (Forma recta)', 'XII, 2.
+      Contrapunctus inversus 12 a 4 (Forma inversa)', 'XIII, 1. Contrapunctus inversus a 3 (Forma recta)', 'XIII,
+      2. Contrapunctus inversus a 3 (Forma inversa)', XIV. Canon per Augmentationem in Contrario Motu, XV. Canon
+      alla Ottava, XVI. Canon alla Decima in Contrapunto alla Terza, XVII. Canon alla Duodecima in Contrapunto alla
+      Quinta, 'XIX. Fuga a 3 [4] Soggetti']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/889db899-882b-4b2f-8e28-f72a0824457c
+  title: My Choice
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 605fefe2-a022-4068-b550-1ca687a45f2a
+  recordings: [8ff7a063-514c-4a52-96be-82e8163d5df9]

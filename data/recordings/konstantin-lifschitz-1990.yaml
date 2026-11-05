@@ -1,0 +1,26 @@
+id: konstantin-lifschitz-1990
+performers:
+- name: Konstantin Lifschitz
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1990]
+  place: Московская Государственная Консерватория им. П. И. Чайковского
+released: 1994
+original_label: null
+works:
+- {bwv: '831', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/501cdf50-e886-4d6e-9573-a69808273d3c
+  title: Debut Recording
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45cef22c-05bb-4ed8-bf88-8c8be427df23
+  recordings: [bae2ce4c-bccf-45f7-86c8-aee650237519]

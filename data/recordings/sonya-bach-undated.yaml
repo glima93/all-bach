@@ -1,0 +1,28 @@
+id: sonya-bach-undated
+performers:
+- name: Sonya Bach
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/172223ff-36f0-487e-8386-718c210b29f8
+  title: Keyboard Concertos / Italian Concerto
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f9c111c7-3119-4f66-85fd-9b3a9b1163d7
+  recordings: [c64d3d71-f31d-426f-bdf2-46364b71e55e]

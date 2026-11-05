@@ -1,0 +1,27 @@
+id: arturo-benedetti-michelangeli-1943
+performers:
+- name: Arturo Benedetti Michelangeli
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1943]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/047b4b92-6694-48cc-a298-70b64d5b0ddd
+  title: Arturo Benedetti Michelangeli 1942-1943
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: f0eca52a-cece-4844-9902-46c55f82aa5a
+  recordings: [27f195cf-769b-4d21-b0f8-56f8a8ab2db7]

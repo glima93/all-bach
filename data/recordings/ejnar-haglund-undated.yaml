@@ -1,0 +1,27 @@
+id: ejnar-haglund-undated
+performers:
+- name: Ejnar Haglund
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Salsta slott
+released: null
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bc5b65c2-d3c5-45f3-b5c4-01174c0b652a
+  title: Musik på Salsta slott
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dae51ed1-4add-43b5-8422-098979ce46b6
+  recordings: [8e3f3605-3e3a-4a1b-a261-7f31727f44cc]

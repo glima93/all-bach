@@ -1,0 +1,28 @@
+id: juan-de-la-rubia-undated
+performers:
+- name: Juan de la Rubia
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/337c5310-821d-46aa-8894-58f2fb3e53f7
+  title: Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 410723f7-0190-4603-8232-d3ebcf9630ec
+  recordings: [ba3cb6ff-9247-4d06-bc6e-837adb3b3af1]

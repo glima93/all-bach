@@ -1,0 +1,27 @@
+id: wilhelm-kempff-1931
+performers:
+- name: Wilhelm Kempff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1931]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '971', complete: false, movements: ['I. [Allegro]']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2092ff7e-acd8-4353-b6df-53d5ff057a9b
+  title: The Solo Repertoire
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 095311b3-786f-4905-af19-03ae6b242a57
+  recordings: [10613524-7642-4db0-99f5-b5f282c34913]

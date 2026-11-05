@@ -1,0 +1,26 @@
+id: robert-hill-1998
+performers:
+- name: Robert Hill
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Kirche zu St. Fides und Markus
+released: 1998
+original_label: null
+works:
+- {bwv: '1080', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de36e7bc-179b-4e49-a84b-ed03a36dcf09
+  title: The Art of Fugue, BWV 1080
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0bf5318b-bde3-4ff4-a226-2154527fe277
+  recordings: [29a0b458-50c7-4ce5-9811-c36460472013]

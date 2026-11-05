@@ -1,0 +1,27 @@
+id: vladimir-feltsman-undated
+performers:
+- name: Vladimir Feltsman
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: The American Academy of Arts and Letters
+released: 1995
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/411be37b-da43-4c49-8f65-fc1664898b3d
+  title: Keyboard Concertos
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0f04948f-006c-45af-9111-da91686610da
+  recordings: [e046813b-244f-425c-a357-f4f6b922396f]

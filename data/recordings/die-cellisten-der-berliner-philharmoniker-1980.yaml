@@ -1,0 +1,28 @@
+id: die-cellisten-der-berliner-philharmoniker-1980
+performers:
+- name: Die 12 Cellisten der Berliner Philharmoniker
+  role: cello
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1980]
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, V. Contrapunctus 5]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2674734-801b-4cb0-9ca7-0658d0932390
+  title: Classics Meet Pops
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 26f962b9-f183-4003-9799-76c3317d1a09
+  recordings: [28b85d5f-7a89-41b8-9ac0-96c2264c4983]

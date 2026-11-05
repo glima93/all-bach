@@ -1,0 +1,28 @@
+id: christopher-jessup-undated
+performers:
+- name: Christopher Jessup
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '971', complete: false, movements: ['I. [Allegro]']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0900da7-cfc4-45b8-8ad1-a1529690e0c6
+  title: The First Movements
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8cb65e6-772e-4c60-bf98-5ab820d14f64
+  recordings: [85ef1376-47a0-4e96-b973-07429bf17a2f]

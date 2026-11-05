@@ -1,0 +1,28 @@
+id: friedrich-gulda-undated
+performers:
+- name: Friedrich Gulda
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: 'Wiener Musikverein: Großer Musikvereinssaal'
+released: 2016
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/47a5a036-4d02-4407-a6aa-052cb4e60c22
+  title: Message from G.
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e77e163b-e86d-4a06-a16e-8a06575c227f
+  recordings: [e1ce8c59-2daa-4dbf-a3e4-eed87a8d44cf]

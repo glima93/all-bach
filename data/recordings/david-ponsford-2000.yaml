@@ -1,0 +1,26 @@
+id: david-ponsford-2000
+performers:
+- name: David Ponsford
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Westonbirt School Chapel
+released: 2009
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a3ea773-f564-44fc-a95a-55b24a30034b
+  title: Concertos for Harpsichord & Strings ; Italian Concerto BWV 971
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5272db5d-54af-44c8-833c-51658fb0462b
+  recordings: [10dfc5a2-5417-4405-88f0-015206acb77c]

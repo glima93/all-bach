@@ -1,0 +1,27 @@
+id: yoon-ju-lee-2001
+performers:
+- name: Yoon Ju Lee
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2001]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e04706d-24ad-4acd-95f0-14cef62f281c
+  title: 'Bach: Italian Concerto / Beethoven: Sonata, op. 109 / Liszt: Sonata in B minor'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdd32afe-f7ee-4b8f-91bf-a633bc256d55
+  recordings: [8b83e822-6d78-4b6b-af89-abfeaa518d88]

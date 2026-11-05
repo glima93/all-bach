@@ -87,12 +87,15 @@ def main() -> int:
     chapters = chapter_of()
     work_col = {w["bwv"]: w["collection"] for w in works}
     cols: list[dict] = []
+    by_name: dict[str, dict] = {}
     for w in works:
-        if not cols or cols[-1]["name"] != w["collection"]:
+        # One volume per collection, placed at its first work, even when its BWV numbers are not contiguous
+        # (Clavier-Übung II is 831 and 971, with the Well-Tempered Clavier in between).
+        if w["collection"] not in by_name:
             n = int(re.match(r"\d+", w["bwv"]).group())
             cols.append({"name": w["collection"], "slug": col_slug(w["collection"]),
                          "chapter": chapters.get(n, "Additions"), "recs": []})
-    by_name = {c["name"]: c for c in cols}
+            by_name[w["collection"]] = cols[-1]
     stats: dict[str, list] = {}
     for r in recordings:
         for name in dict.fromkeys(work_col[w["bwv"]] for w in r["works"]):

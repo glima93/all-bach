@@ -1,0 +1,28 @@
+id: maria-perrotta-undated
+performers:
+- name: Maria Perrotta
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '1080', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/72991274-d2f8-401d-9c7a-674de24608a4
+  title: Die Kunst der Fuge, BWV 1080
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c78ca114-8edb-4c27-8017-1313b896fbe6
+  recordings: [160198ac-3154-444b-bceb-9f21a4800fe0]

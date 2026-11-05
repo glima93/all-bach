@@ -1,0 +1,29 @@
+id: frankfurter-gitarren-duo-undated
+performers:
+- name: Frankfurter Gitarren Duo
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1977
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, XV. Canon alla Ottava]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/57e409f9-038d-482a-b746-d7af8321a688
+  title: Renaissance und Barockmusik auf Lauten und Gitarren (Frankfurter Gitarren Duo)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c18dbdbc-6bbc-4fd1-a8c0-4b1dcc20b08e
+  recordings: [e2cd7f3a-b68c-4e01-991c-a8dffec198b1]

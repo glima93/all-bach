@@ -1,0 +1,26 @@
+id: violaine-cochard-2000
+performers:
+- name: Violaine Cochard
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Christuskirche - Église protestante allemande à Paris
+released: 2005
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/88460867-349e-41a5-a093-975d7a2483ca
+  title: Arias
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 98c0256b-1828-45ab-8b33-5bf63093aa27
+  recordings: [bd2add9c-27c4-4b5a-ba60-8c409dca7b1e]

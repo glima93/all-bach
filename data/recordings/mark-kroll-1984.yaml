@@ -1,0 +1,28 @@
+id: mark-kroll-1984
+performers:
+- name: Mark Kroll
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '831', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8fec35c0-82f6-455c-be82-50d0db3893ec
+  title: Ouverture in the French Manner in B Minor, BWV 831 / Three Concertos for Solo Harpsichord (after Antonio
+    Vivaldi)
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95dbd5f6-71a0-450a-8bce-5b2b77e0d3b1
+  recordings: [fa775ec3-a763-4b29-95df-ff121a9376cb]

@@ -1,0 +1,30 @@
+id: yuji-takahashi-1975
+performers:
+- name: Yuji Takahashi
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1975]
+  place: null
+released: 1975
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, IV. Contrapunctus 4, VIII. Contrapunctus 8 a 3,
+    IX. Contrapunctus 9 a 4 alla Duodecima, X. Contrapunctus 10 a 4 alla Decima, XI. Contrapunctus 11 a 4, XV. Canon
+      alla Ottava]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6dd13642-4dc4-4558-bb19-96d1c088581c
+  title: The [Electric] Art of the Fugue
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on Moog, analog synthesizer.
+musicbrainz:
+  artist: c72aeaf8-31b1-49a2-8b93-f47fec9d3309
+  recordings: [6b87779f-56cc-4bbf-ae7c-49391cc5459f]

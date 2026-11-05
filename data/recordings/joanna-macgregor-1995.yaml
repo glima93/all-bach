@@ -1,0 +1,34 @@
+id: joanna-macgregor-1995
+performers:
+- name: Joanna MacGregor
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1995]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, III. Contrapunctus 3, IV.
+      Contrapunctus 4, V. Contrapunctus 5, VI. Contrapunctus 6 a 4 in Stylo Francese, VII. Contrapunctus 7 a 4 per
+      Augmentationem et Diminutionem, VIII. Contrapunctus 8 a 3, IX. Contrapunctus 9 a 4 alla Duodecima, X. Contrapunctus
+      10 a 4 alla Decima, XI. Contrapunctus 11 a 4, 'XII, 1. Contrapunctus inversus a 4 (Forma recta)', 'XII, 2.
+      Contrapunctus inversus 12 a 4 (Forma inversa)', 'XIII, 1. Contrapunctus inversus a 3 (Forma recta)', 'XIII,
+      2. Contrapunctus inversus a 3 (Forma inversa)', XIV. Canon per Augmentationem in Contrario Motu, XV. Canon
+      alla Ottava, XVI. Canon alla Decima in Contrapunto alla Terza, XVII. Canon alla Duodecima in Contrapunto alla
+      Quinta]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8a1acde2-3ee9-4fd0-81cb-bb5bfef70512
+  title: Counterpoint
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62c39b58-fa30-465a-ae75-67baa4d97594
+  recordings: [7c02db84-fabf-429f-ab54-5aa4006d52b9]

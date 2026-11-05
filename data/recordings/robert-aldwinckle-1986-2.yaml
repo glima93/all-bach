@@ -1,0 +1,27 @@
+id: robert-aldwinckle-1986-2
+performers:
+- name: Robert Aldwinckle
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1986]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e69e036a-4c7e-4908-b2a1-4dd3e6e73f51
+  title: 'The Harmonious Blacksmith: Harpsichord Favourites'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a4ad33e-7498-4d7b-b99c-af880214ead3
+  recordings: [bfd90382-c0a7-4b86-aff8-1fe46fe4d64a]

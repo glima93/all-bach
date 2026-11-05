@@ -1,0 +1,27 @@
+id: vlado-perlemuter-1985
+performers:
+- name: Vlado Perlemuter
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: Wyastone Leys
+released: 1987
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b8f4e0c6-6a95-4ccd-a16b-010ed8303c56
+  title: 'JS Bach: Italian Concerto / Debussy: Pour le piano / Images 1 / L''Isle joyeuse / Chopin: Three Mazurkas
+    / Tarantelle'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a21d548e-d582-49e0-87d4-a9e3cb099224
+  recordings: [3b37223b-17ef-43c5-9d34-a070ea91a345]

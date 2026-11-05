@@ -1,0 +1,27 @@
+id: igor-ardasev-1994
+performers:
+- name: Igor Ardašev
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1994]
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '971', complete: false, movements: ['I. [Allegro]']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/371c2ff7-c6b8-430c-8c7a-2ea2695faa72
+  title: Forever Italy
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1c616c31-6c2b-42d7-abf7-7b41ecc79c8b
+  recordings: [b9fbdb1a-cdcd-4d5c-b4cd-1b4784134f87]

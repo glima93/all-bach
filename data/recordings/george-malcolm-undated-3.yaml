@@ -1,0 +1,28 @@
+id: george-malcolm-undated-3
+performers:
+- name: George Malcolm
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/90766e8e-a8af-4d25-b068-12e3451aa68f
+  title: 'Unforgettable Classics: Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b2b0e5dc-c960-4b2b-b9c6-caac0e546456
+  recordings: [30c0a803-6505-431e-9b4f-c68516e15629]

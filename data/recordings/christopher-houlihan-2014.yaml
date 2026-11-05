@@ -1,0 +1,26 @@
+id: christopher-houlihan-2014
+performers:
+- name: Christopher Houlihan
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2014]
+  place: Trinity College Chapel
+released: 2017
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2b818ab-8c23-467b-807a-df514377873d
+  title: Christopher Houlihan Plays Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4f492a6c-86da-4fab-9c13-c48d17938c43
+  recordings: [3904202e-356e-4a0a-a940-fc37943827ad]

@@ -1,0 +1,34 @@
+id: charles-krigbaum-undated
+performers:
+- name: Charles Krigbaum
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1080', complete: false, movements: [I. Contrapunctus 1, II. Contrapunctus 2, III. Contrapunctus 3, IV.
+      Contrapunctus 4, V. Contrapunctus 5, VI. Contrapunctus 6 a 4 in Stylo Francese, VII. Contrapunctus 7 a 4 per
+      Augmentationem et Diminutionem, VIII. Contrapunctus 8 a 3, IX. Contrapunctus 9 a 4 alla Duodecima, X. Contrapunctus
+      10 a 4 alla Decima, XI. Contrapunctus 11 a 4, 'XII, 1. Contrapunctus inversus a 4 (Forma recta)', 'XIII, 2.
+      Contrapunctus inversus a 3 (Forma inversa)', 'XVIII, 1. Fuga à 2 Claviere', 'XVIII, 2. Alio modo. Fuga à 2
+      Claviere']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9377ff64-5ba7-4d14-b2e7-a6c13fc708c2
+  title: The Art of The Fugue by J.S. Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed496976-33d9-4bd6-86dd-b5dcc3d2af06
+  recordings: [a241d541-614f-4953-a45d-859ecac5f50d]

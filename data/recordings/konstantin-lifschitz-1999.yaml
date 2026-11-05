@@ -1,0 +1,26 @@
+id: konstantin-lifschitz-1999
+performers:
+- name: Konstantin Lifschitz
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1999]
+  place: Société du Centre Pierre-Péladeau
+released: 2001
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a5cf5b3e-6027-4e91-b6d7-b18196963016
+  title: Konstantin Lifschitz joue Bach, Beethoven, Byrd, Schumann
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 45cef22c-05bb-4ed8-bf88-8c8be427df23
+  recordings: [d4dad585-bb7b-43c9-b441-ee954912259a]

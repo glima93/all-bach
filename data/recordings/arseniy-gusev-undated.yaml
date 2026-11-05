@@ -1,0 +1,28 @@
+id: arseniy-gusev-undated
+performers:
+- name: Arseniy Gusev
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '831', complete: false, movements: [XI. Echo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f1add6a-fad9-49c3-8708-696577f168be
+  title: Enfleurage
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7bcc4220-c34e-4300-8647-27d0fcd08f3a
+  recordings: [74a06b51-095d-4401-be16-ee4db8621f22]

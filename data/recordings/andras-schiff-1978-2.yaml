@@ -1,0 +1,27 @@
+id: andras-schiff-1978-2
+performers:
+- name: András Schiff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1978]
+  place: 上野学園 石橋メモリアルホール
+released: 1990
+original_label: null
+works:
+- {bwv: '831', complete: true}
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f5264d7a-85b8-4cdb-bcb5-75d8732ed2ee
+  title: Andras Schiff / Johann Sebastian Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cb535c4c-711b-4be1-98f3-b6b5f8955d41
+  recordings: [09f96f1f-ad02-428d-9877-fbdcf6e2e942]

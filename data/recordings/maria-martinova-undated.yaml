@@ -1,0 +1,28 @@
+id: maria-martinova-undated
+performers:
+- name: Maria Martinova
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '971', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fabb3a80-b13a-4920-b0f1-4567a3321559
+  title: Maria Martinova Plays J.S. Bach, Chopin & Szymanowski
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f9b1bf3d-48e8-43fb-a1eb-3deb23bc369d
+  recordings: [e2b96ffb-2700-4292-bb5b-85a483a46ca8]
