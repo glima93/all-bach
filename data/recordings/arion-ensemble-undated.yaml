@@ -1,0 +1,28 @@
+id: arion-ensemble-undated
+performers:
+- name: Arion Ensemble
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7344aac9-df28-451d-9924-88ab266994a6
+  title: Musical Offering
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 21cb8af7-b8f7-41c5-a6db-0f9ef690fad5
+  recordings: [dfab714e-9d49-4092-8257-30f76dc33d88]

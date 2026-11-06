@@ -1,0 +1,29 @@
+bwv: "1079"
+title: "The Musical Offering"
+key: "C minor"
+collection: "The Musical Offering"
+genre: other
+scoring: "ricercars for keyboard; canons in open score; trio sonata for flute, violin and continuo"
+composed: "Leipzig, 1747 (after the visit to Frederick the Great at Potsdam on 7 May 1747); printed 1747"
+movements:
+  - "I. Ricercare a 3"
+  - "II. Canon perpetuus super thema regium"
+  - "IIIa. 5 Canones diversi super thema regium, Canon a 2"
+  - "IIIb. 5 Canones diversi super thema regium, Canon a 2 Violini in unisono"
+  - "IIIc. 5 Canones diversi super thema regium, Canon a 2 Per motum contrarium"
+  - "IIId. 5 Canones diversi super thema regium, Canon a 2 Per augmentationem, contrario motu"
+  - "IIIe. 5 Canones diversi super thema regium, Canon a 2 Per tonos"
+  - "IV. Fuga Canonica in Epidiapente"
+  - "V. Ricercare a 6"
+  - "VI. Canon a 2"
+  - "VII. Canon a 4"
+  - "VIII. Trio: a. Largo"
+  - "VIII. Trio: b. Allegro"
+  - "VIII. Trio: c. Andante"
+  - "VIII. Trio: d. Allegro"
+  - "IX. Canon perpetuus"
+notes: "A collection of two ricercars, ten canons and a trio sonata, all based on the \"royal theme\" given to Bach by Frederick the Great during his visit to Potsdam on 7 May 1747. Bach dedicated the work to the king and had it printed later that year (September 1747)."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/The_Musical_Offering"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/5ce9a117-bd22-4bab-b7a1-bbef6ffa0e00

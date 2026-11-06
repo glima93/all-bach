@@ -1,0 +1,26 @@
+id: bernard-lagace-1995-2
+performers:
+- name: Bernard Lagacé
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Église Immaculée-Conception
+released: null
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92a21075-b5b6-4248-93c8-54fae41aae72
+  title: The Art of Fugue & Other Late Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b444f8fc-3246-462d-b5af-773ce7da6209
+  recordings: [63947c4b-424c-4c6c-a2be-4e53a4b7e8ba]

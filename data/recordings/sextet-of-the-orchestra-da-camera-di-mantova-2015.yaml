@@ -1,0 +1,28 @@
+id: sextet-of-the-orchestra-da-camera-di-mantova-2015
+performers:
+- name: Sextet of the Orchestra da Camera di Mantova
+  role: ensemble
+- name: Alessandro Maria Carnelli
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: Teatro Bibiena
+released: 2016
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a4bbe25c-ddcd-4f15-b90b-fe958818ff8f
+  title: Towards Verklärte Nacht
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: ad59eabc-d4c3-480a-8fc8-9f952184afdb
+  recordings: [08401e93-a6ba-48e4-b2ad-d54a7649b40a]

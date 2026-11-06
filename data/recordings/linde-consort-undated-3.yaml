@@ -1,0 +1,30 @@
+id: linde-consort-undated-3
+performers:
+- name: Linde Consort
+  role: orchestra
+- name: Hans-Martin Linde
+  role: conductor
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1982
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b619d371-6158-4c13-89f6-3b28e19f4447
+  title: Die Brandenburgischen Konzerte / Musikalisches Opfer
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 10eb2e67-ebab-4306-8bcf-4447bbfef714
+  recordings: [ca94df4f-3f89-4618-b159-79e984356729]

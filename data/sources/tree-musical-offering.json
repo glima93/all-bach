@@ -1,0 +1,92 @@
+{
+ "collection": "musical-offering",
+ "taken": "2026-11-05",
+ "recordings": 692,
+ "performances": 142,
+ "works": [
+  {
+   "bwv": "1079",
+   "id": "5ce9a117-bd22-4bab-b7a1-bbef6ffa0e00",
+   "candidates": [
+    {
+     "id": "5ce9a117-bd22-4bab-b7a1-bbef6ffa0e00",
+     "title": "Musikalisches Opfer, BWV 1079"
+    },
+    {
+     "id": "76e45cfd-dab3-47ca-82ad-4fe475aa648b",
+     "title": "Musikalisches Opfer, BWV 1079"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Musikalisches Opfer, BWV 1079",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "767733ec-edc9-36a4-8559-92d63350dd98",
+     "title": "Musikalisches Opfer, BWV 1079: I. Ricercare a 3"
+    },
+    {
+     "id": "4425d9df-7894-3237-8b9e-30976068bb1c",
+     "title": "Musikalisches Opfer, BWV 1079: II. Canon perpetuus super thema regium"
+    },
+    {
+     "id": "67692f6b-7aed-36c2-8bc4-3f46171ed1a8",
+     "title": "Musikalisches Opfer, BWV 1079: IIIa. 5 Canones diversi super thema regium, Canon a 2"
+    },
+    {
+     "id": "4b6fafce-4cf1-34a0-9190-41b13a80f4a1",
+     "title": "Musikalisches Opfer, BWV 1079: IIIb. 5 Canones diversi super thema regium, Canon a 2 Violini in unisono"
+    },
+    {
+     "id": "56a78330-7a83-36e6-aae7-6310cb9bdcbe",
+     "title": "Musikalisches Opfer, BWV 1079: IIIc. 5 Canones diversi super thema regium, Canon a 2 Per motum contrarium"
+    },
+    {
+     "id": "013383d7-57b8-3c30-a60a-5324a0d0bead",
+     "title": "Musikalisches Opfer, BWV 1079: IIId. 5 Canones diversi super thema regium, Canon a 2 Per augmentationem, contrario motu"
+    },
+    {
+     "id": "35dea305-d029-3d13-b233-0bb3ad31fb7a",
+     "title": "Musikalisches Opfer, BWV 1079: IIIe. 5 Canones diversi super thema regium, Canon a 2 Per tonos"
+    },
+    {
+     "id": "fa54249e-3dc9-3c02-8b77-ff6c6a833146",
+     "title": "Musikalisches Opfer, BWV 1079: IV. Fuga Canonica in Epidiapente"
+    },
+    {
+     "id": "9003a09b-fbc7-3a27-b005-0fa7df2fab2d",
+     "title": "Musikalisches Opfer, BWV 1079: V. Ricercare a 6"
+    },
+    {
+     "id": "59d74567-4c38-3f6e-97ce-5cfc63a64039",
+     "title": "Musikalisches Opfer, BWV 1079: VI. Canon a 2"
+    },
+    {
+     "id": "d57bdb41-397c-3479-bc91-59274addc547",
+     "title": "Musikalisches Opfer, BWV 1079: VII. Canon a 4"
+    },
+    {
+     "id": "1fb47eeb-8045-3506-9465-c07ba10a22e5",
+     "title": "Musikalisches Opfer, BWV 1079: VIII. Trio: a. Largo"
+    },
+    {
+     "id": "6151778e-34da-3c37-b95e-a7ee9c68fa14",
+     "title": "Musikalisches Opfer, BWV 1079: VIII. Trio: b. Allegro"
+    },
+    {
+     "id": "758b5add-7bdf-3774-83e9-7b73e7c47332",
+     "title": "Musikalisches Opfer, BWV 1079: VIII. Trio: c. Andante"
+    },
+    {
+     "id": "af53f342-1cfd-3079-b41f-e1eadf5caf4f",
+     "title": "Musikalisches Opfer, BWV 1079: VIII. Trio: d. Allegro"
+    },
+    {
+     "id": "f1e82825-e0e6-3c2f-9ce6-6a314e45e24b",
+     "title": "Musikalisches Opfer, BWV 1079: IX. Canon perpetuus"
+    }
+   ]
+  }
+ ]
+}

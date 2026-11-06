@@ -1,0 +1,27 @@
+id: marie-claire-alain-undated-3
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Stiftskirche St. Georg
+released: 1994
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/94a254f1-440d-4bc3-9914-e305cb894131
+  title: L'Œuvre pour orgue
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [c1cefa35-5653-4bca-9feb-f6c01ca27091]

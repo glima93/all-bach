@@ -1,0 +1,33 @@
+id: ensemble-sonnerie-1994
+performers:
+- name: Ensemble Sonnerie
+  role: ensemble
+- name: Gary Cooper
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: St. Bartholomew's Church
+released: 1996
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [I. Ricercare a 3, II. Canon perpetuus super thema regium, 'IIIa. 5
+      Canones diversi super thema regium, Canon a 2', 'IIIb. 5 Canones diversi super thema regium, Canon a 2 Violini
+      in unisono', 'IIIc. 5 Canones diversi super thema regium, Canon a 2 Per motum contrarium', 'IIId. 5 Canones
+      diversi super thema regium, Canon a 2 Per augmentationem, contrario motu', 'IIIe. 5 Canones diversi super
+      thema regium, Canon a 2 Per tonos', IV. Fuga Canonica in Epidiapente, V. Ricercare a 6, VI. Canon a 2, VII.
+      Canon a 4, 'VIII. Trio: a. Largo', 'VIII. Trio: b. Allegro', 'VIII. Trio: c. Andante', IX. Canon perpetuus]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b10768c4-40e4-4af7-b508-b0a76592d362
+  title: The Musical Offering
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 11554576-309b-45a5-b055-22d68fb4de65
+  recordings: [bd02f26c-308a-417e-a1b9-36137ac2b620]

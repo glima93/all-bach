@@ -1,0 +1,28 @@
+id: johan-brouwer-undated-2
+performers:
+- name: Johan Brouwer
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [I. Ricercare a 3]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d2c67ebc-29a0-43a3-b210-a568723143f1
+  title: Johan Brouwer plays Bach, Böhm, Couperin, Forqueray
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 59a7cbe6-4645-48fc-adb3-6d32a890be93
+  recordings: [c050de8f-e65a-44e1-9fdb-ad590b162b48]

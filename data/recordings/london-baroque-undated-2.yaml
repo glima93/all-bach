@@ -1,0 +1,29 @@
+id: london-baroque-undated-2
+performers:
+- name: London Baroque
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: ['VIII. Trio: a. Largo', 'VIII. Trio: b. Allegro', 'VIII. Trio: c. Andante',
+    'VIII. Trio: d. Allegro']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/902f8a85-551b-405a-b3c5-36c2480c391e
+  title: Sonates en Trio
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 07a23662-947c-45ef-b9a3-789392e24932
+  recordings: [8d0b384a-7744-4809-b9d1-2d23488b6b1d]

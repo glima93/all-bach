@@ -1,0 +1,48 @@
+id: gunars-larsens-undated
+performers:
+- name: Gunārs Larsens
+  role: violin
+- name: Christiane Jaccottet
+  role: harpsichord
+- name: Aurèle Nicolet
+  role: flute
+- name: Markus Nyikos
+  role: cello
+- name: Piotr Jan Milewski
+  role: violin
+- name: Max Lesueur
+  role: viola
+- name: Alfred Steinauer
+  role: double bass
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Musica Théâtre
+released: 1977
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [I. Ricercare a 3, II. Canon perpetuus super thema regium, 'IIIa. 5
+      Canones diversi super thema regium, Canon a 2', 'IIIb. 5 Canones diversi super thema regium, Canon a 2 Violini
+      in unisono', 'IIIc. 5 Canones diversi super thema regium, Canon a 2 Per motum contrarium', 'IIId. 5 Canones
+      diversi super thema regium, Canon a 2 Per augmentationem, contrario motu', 'IIIe. 5 Canones diversi super
+      thema regium, Canon a 2 Per tonos', IV. Fuga Canonica in Epidiapente, VI. Canon a 2, VII. Canon a 4, 'VIII.
+      Trio: a. Largo', 'VIII. Trio: b. Allegro', 'VIII. Trio: c. Andante', 'VIII. Trio: d. Allegro', IX. Canon perpetuus]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e98dc2f0-25d9-4305-9803-ffc746ea8c81
+  title: Musikalisches Opfer, BWV 1079
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 258933da-9fe2-4d1c-8560-0f6f5b9449b7
+  recordings: [0720bcb9-c0d3-46f1-a603-a9280dcb562c, 2514dea8-e341-4ad8-8efd-a4aa9bcd2de6, 3560403a-a6a5-4ccd-8a44-ba70119153dc,
+    40cda6c5-e377-4172-bb3b-7a27759f946e, 577ca772-60a2-49bc-b456-e35a3f466575, 58061be1-81fb-4d5f-9958-b70d384f2783,
+    9403a4d0-e403-45f3-80e6-8989e25e80b0, e29e5cda-0315-430b-92cb-12c8dd005010, edacec2c-576e-459c-9ed6-5129ce69a230,
+    f30a44b0-9a04-4294-a4a3-7fdaf33b607e]

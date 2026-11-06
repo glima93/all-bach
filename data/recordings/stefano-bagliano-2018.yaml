@@ -1,0 +1,29 @@
+id: stefano-bagliano-2018
+performers:
+- name: Stefano Bagliano
+  role: recorder
+- name: Andrea Coen
+  role: harpsichord
+instrument: recorder
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2018]
+  place: Palazzo Annibaldeschi
+released: 2020
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [IV. Fuga Canonica in Epidiapente]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17639486-4528-4625-94d3-b184ef5cef3d
+  title: Music for Recorder & Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With harpsichord.
+musicbrainz:
+  artist: 4338d50f-679b-486c-bc90-df09f119a092
+  recordings: [e90bf5ac-ead0-4a61-95ec-cbd69defb5dd]

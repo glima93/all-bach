@@ -1,0 +1,36 @@
+id: davitt-moroney-1987
+performers:
+- name: Davitt Moroney
+  role: harpsichord
+- name: John Holloway
+  role: violin
+- name: Janet See
+  role: flute
+- name: Jaap ter Linden
+  role: cello
+- name: Martha Cook
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1987]
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b995c95e-2a8d-49f5-b7c6-0eb6710c4f27
+  title: Musikalisches Opfer
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ec6f651a-b483-408c-a5e5-a868f549022b
+  recordings: [148a51be-848f-4f9a-acae-19205a0e45d2, 2454d470-57c9-45bf-be75-46016674365a, 28013b26-e02a-44fe-bbaf-16eca5ed548e,
+    362967c4-b8c7-40c9-9930-5a660c94918e, 65d35de1-b922-4f07-ba68-2fffd64656dc, e5a51a43-1816-40f2-b89c-d7698ccf378c]

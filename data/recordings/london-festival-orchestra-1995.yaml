@@ -1,0 +1,28 @@
+id: london-festival-orchestra-1995
+performers:
+- name: London Festival Orchestra
+  role: orchestra
+- name: Ross Pople
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: The Warehouse
+released: 1995
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0665fa1-52dd-46f7-a736-e6681e14492d
+  title: Musical Offering
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2914addc-dc71-41ce-a3b0-68d6a73bb5d0
+  recordings: [1e10f5da-77f0-4479-a1e8-e19c181bcb85]

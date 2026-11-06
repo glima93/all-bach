@@ -1,0 +1,35 @@
+id: laura-jeppesen-undated
+performers:
+- name: Laura Jeppesen
+  role: viola da gamba
+- name: Daniel Stepner
+  role: violin
+- name: John Gibbons
+  role: fortepiano
+- name: Christopher Krueger
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/47c3984a-1940-4fe1-8377-e3df22df0fd8
+  title: 'J. S. Bach: A Musical Offering'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4519a65d-be11-487b-ae6e-4e7eb65e8fdf
+  recordings: [011e29b1-2e11-4e2d-97cc-f3003751eba3, 2d1bdc4b-41b2-44ab-960a-349eb625ca1b, 699ef486-9a8f-4bad-8285-7ac59839693a,
+    6d53ab6f-5e7f-426b-a983-53dfdb43f661, 75040e0c-d414-4e58-a82e-fe829a8fe531, acd0b276-1cd0-4ec7-919f-d6b6dc0012bb]

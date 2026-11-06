@@ -1,0 +1,28 @@
+id: ausonia-undated
+performers:
+- name: Ausonia
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/11719a9e-a7aa-441b-9940-d3002c94a01b
+  title: Musicalisches Opfer
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: de058ed8-208a-48db-b646-993068ab9c09
+  recordings: [22efb34c-a641-4c4b-a822-2c9a4e4c9956]

@@ -1,0 +1,29 @@
+id: artist-3b0fc770-undated
+performers:
+- name: 上海交响乐团
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/22d32959-852e-4668-b5b3-b58eb5f79f24
+  title: 在场
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b0fc770-e6b2-4d61-aaa6-90d4ee730e4f
+  recordings: [50d03f9f-46b3-4369-ba20-33a2091b5b85]

@@ -1,0 +1,26 @@
+id: simon-johnson-2021-2
+performers:
+- name: Simon Johnson
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: St Paul’s Cathedral
+released: 2022
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/acb4c185-ce55-4df5-b9f7-cb48ffd44ee1
+  title: 'B.A.C.H: Anatomy of a Motif'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 78163706-8458-4b12-b7f1-3116fe39d053
+  recordings: [3b833564-f3b8-4c72-b552-cfea0ee61e98]

@@ -1,0 +1,28 @@
+id: florilegium-2018
+performers:
+- name: Florilegium
+  role: ensemble
+- name: Terence Charlston
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: St Michael’s Church
+released: 2019
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [I. Ricercare a 3]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d69a990-580d-45bb-934c-10c78818f8d9
+  title: 'Music for a King: Chamber Works from the Court of Frederick the Great'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a6b7a55b-d3ff-4461-b817-58cc6f24de09
+  recordings: [e4e92359-6201-42da-beef-e81d6143a936]

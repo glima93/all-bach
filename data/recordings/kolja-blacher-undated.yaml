@@ -1,0 +1,34 @@
+id: kolja-blacher-undated
+performers:
+- name: Kolja Blacher
+  role: violin
+- name: Mari Fujiwara
+  role: cello
+- name: Michio Kobayashi
+  role: harpsichord
+- name: Aurèle Nicolet
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: ['VIII. Trio: a. Largo', 'VIII. Trio: d. Allegro']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf63dcf1-9910-4358-8726-25d2ff3a91e0
+  title: 'Denon New Releases: Classical Sampler 1986/1987'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 762df67d-8453-43ae-addc-1ef60d512912
+  recordings: [1b8e6a7a-7563-4b1f-b746-d300251795cd, 68be37ad-e11a-4e4d-b305-dc5220cdae73]

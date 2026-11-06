@@ -1,0 +1,30 @@
+id: bath-festival-orchestra-undated-4
+performers:
+- name: Bath Festival Orchestra
+  role: orchestra
+- name: Yehudi Menuhin
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30f07729-2c56-4b67-b6a4-4dbad38db299
+  title: The Great EMI Recordings
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc6cebc8-6e51-464e-8589-6ae1c498f5d9
+  recordings: [6bd426ba-3ce7-4495-8ac6-49d126c488a0]

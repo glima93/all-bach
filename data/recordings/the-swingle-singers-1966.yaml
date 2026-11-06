@@ -1,0 +1,54 @@
+id: the-swingle-singers-1966
+performers:
+- name: The Swingle Singers
+  role: ensemble
+- name: The Modern Jazz Quartet
+  role: ensemble
+- name: Percy Heath
+  role: double bass
+- name: Milt Jackson
+  role: vibraphone
+- name: Connie Kay
+  role: drums (drum set)
+- name: John Lewis
+  role: piano
+- name: Jeanette Baucomont
+  role: soprano
+- name: Jean Cussac
+  role: bass
+- name: Claude Germain
+  role: tenor
+- name: José Germain
+  role: bass
+- name: Alice Herald
+  role: alto
+- name: Christiane Legrand
+  role: soprano
+- name: Claudine Meunier
+  role: alto
+- name: Ward Swingle
+  role: tenor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1966]
+  place: null
+released: 1966
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b7889d6-06c4-43b9-a192-7d6764fe22ce
+  title: Place Vendôme
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With vibraphone, drums (drum set).
+musicbrainz:
+  artist: 1709e9f2-c77f-4779-b67d-44905fbc35c0
+  recordings: [06ab6365-e351-4f6f-a0a6-ade42d5a2821, f8511c55-7e7c-4193-b463-b588e3181560]

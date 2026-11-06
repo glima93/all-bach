@@ -1,0 +1,33 @@
+id: barbara-kortmann-2016
+performers:
+- name: Barbara Kortmann
+  role: flute
+- name: Inka Döring
+  role: cello
+- name: Sabine Erdmann
+  role: harpsichord
+- name: Hellen Weiss
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Christuskirche
+released: 2017
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: ['VIII. Trio: a. Largo', 'VIII. Trio: b. Allegro', 'VIII. Trio: c. Andante',
+    'VIII. Trio: d. Allegro']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cee384d7-514c-44d3-a926-c2c3b57a6929
+  title: Inner Lights
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 51cd0a3e-5664-44e5-a654-d89aa4430c0f
+  recordings: [e7cc0b7b-c861-41f0-bb30-e666ca7511ed]

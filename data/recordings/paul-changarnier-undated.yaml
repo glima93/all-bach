@@ -1,0 +1,33 @@
+id: paul-changarnier-undated
+performers:
+- name: Paul Changarnier
+  role: marimba
+- name: Nicolas Cousin
+  role: marimba
+- name: Alexandre Esperet
+  role: marimba
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: ['IIIe. 5 Canones diversi super thema regium, Canon a 2 Per tonos']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/508a652d-f7a4-4911-ac18-7a15bc122ee8
+  title: Bach au Marimba
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With marimba.
+musicbrainz:
+  artist: 96681919-b210-44ab-9251-8c4fb7cdc387
+  recordings: [1f367dd6-ebd5-4c1b-bfec-4cf0b6735b90]

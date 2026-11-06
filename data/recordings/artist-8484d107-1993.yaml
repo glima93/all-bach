@@ -1,0 +1,36 @@
+id: artist-8484d107-1993
+performers:
+- name: 寺神戸亮
+  role: violin
+- name: 有田千代子
+  role: harpsichord
+- name: 若松夏美
+  role: viola
+- name: 中野哲也
+  role: viola da gamba
+- name: 有田正広
+  role: transverse flute
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: Akigawa Kirara Hall
+released: 1994
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d9e099c3-0f90-43f8-8d15-a5fd91b00376
+  title: 音楽の捧げもの
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8484d107-7ba5-45f5-9ec6-8ade146e5f80
+  recordings: [11cd7208-9a31-4c35-842f-722b68f53a3b, 2c7143a4-3b97-4982-8b80-6f430397ed06, 3a3b9cb5-1dc1-4168-8697-23ba75953711,
+    4d8a63f6-8e99-45c9-a510-0ac8de0deb45, 587cb1e0-1892-4ba7-b324-2c8f456b9a32, 5f645c6e-aa96-4ae9-80d9-d574dcba568f,
+    8a71f2ef-4429-4ec3-a09f-5c63f7a5c25f, 9ec8312d-9ee6-47b9-adc7-340e7ed39921, ab62e530-2517-4404-afb9-e71057cc2bab]
