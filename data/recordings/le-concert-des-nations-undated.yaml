@@ -4,6 +4,8 @@ performers:
   role: orchestra
 - name: Jordi Savall
   role: conductor
+- name: Pierre Hantaï
+  role: harpsichord
 instrument: ensemble
 performance_practice: historical
 arrangement: false

@@ -4,8 +4,14 @@ performers:
   role: violin
 - name: Michael Behringer
   role: harpsichord
+- name: Martin Jopp
+  role: violin
+- name: Karl Kaiser
+  role: flute
+- name: Eberhard Weber
+  role: viola da gamba
 instrument: ensemble
-performance_practice: unknown
+performance_practice: historical
 arrangement: false
 recorded:
   years: [1999]

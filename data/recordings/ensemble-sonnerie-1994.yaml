@@ -2,6 +2,8 @@ id: ensemble-sonnerie-1994
 performers:
 - name: Ensemble Sonnerie
   role: ensemble
+- name: Gary Cooper
+  role: harpsichord
 instrument: ensemble
 performance_practice: historical
 arrangement: false

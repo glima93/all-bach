@@ -2,6 +2,8 @@ id: florilegium-2018
 performers:
 - name: Florilegium
   role: ensemble
+- name: Terence Charlston
+  role: harpsichord
 instrument: ensemble
 performance_practice: historical
 arrangement: false

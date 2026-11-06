@@ -1,19 +1,19 @@
-id: artist-258933da-undated
+id: gunars-larsens-undated
 performers:
-- name: Гунарс Ларсенс
-  role: performer
-- name: Кристиан Жаккотте
-  role: performer
-- name: Маркус Никос
-  role: performer
-- name: Орель Николе
-  role: performer
-- name: Ян Милевски
-  role: performer
-- name: Макс Леснер
-  role: performer
-- name: Альфред Штайнауэр
-  role: performer
+- name: Gunārs Larsens
+  role: violin
+- name: Christiane Jaccottet
+  role: harpsichord
+- name: Aurèle Nicolet
+  role: flute
+- name: Markus Nyikos
+  role: cello
+- name: Piotr Jan Milewski
+  role: violin
+- name: Max Lesueur
+  role: viola
+- name: Alfred Steinauer
+  role: double bass
 instrument: ensemble
 performance_practice: unknown
 arrangement: false

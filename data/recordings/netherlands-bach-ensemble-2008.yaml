@@ -2,6 +2,8 @@ id: netherlands-bach-ensemble-2008
 performers:
 - name: Netherlands Bach Ensemble
   role: ensemble
+- name: David Jansen
+  role: harpsichord
 instrument: ensemble
 performance_practice: unknown
 arrangement: false

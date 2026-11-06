@@ -4,6 +4,30 @@ performers:
   role: ensemble
 - name: The Modern Jazz Quartet
   role: ensemble
+- name: Percy Heath
+  role: double bass
+- name: Milt Jackson
+  role: vibraphone
+- name: Connie Kay
+  role: drums (drum set)
+- name: John Lewis
+  role: piano
+- name: Jeanette Baucomont
+  role: soprano
+- name: Jean Cussac
+  role: bass
+- name: Claude Germain
+  role: tenor
+- name: José Germain
+  role: bass
+- name: Alice Herald
+  role: alto
+- name: Christiane Legrand
+  role: soprano
+- name: Claudine Meunier
+  role: alto
+- name: Ward Swingle
+  role: tenor
 instrument: ensemble
 performance_practice: unknown
 arrangement: true

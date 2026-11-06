@@ -3,7 +3,7 @@ performers:
 - name: Kolja Blacher
   role: violin
 - name: Mari Fujiwara
-  role: performer
+  role: cello
 - name: Michio Kobayashi
   role: harpsichord
 - name: Aurèle Nicolet
@@ -17,7 +17,7 @@ recorded:
 released: 1986
 original_label: null
 works:
-- {bwv: '1079', complete: false, movements: ['VIII. Trio: a. Largo']}
+- {bwv: '1079', complete: false, movements: ['VIII. Trio: a. Largo', 'VIII. Trio: d. Allegro']}
 links:
 - platform: musicbrainz
   kind: release
@@ -31,4 +31,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 762df67d-8453-43ae-addc-1ef60d512912
-  recordings: [1b8e6a7a-7563-4b1f-b746-d300251795cd]
+  recordings: [1b8e6a7a-7563-4b1f-b746-d300251795cd, 68be37ad-e11a-4e4d-b305-dc5220cdae73]

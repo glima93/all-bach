@@ -4,6 +4,20 @@ performers:
   role: orchestra
 - name: Ton Koopman
   role: harpsichord
+- name: Wilbert Hazelzet
+  role: transverse flute
+- name: Catherine Manson
+  role: violin
+- name: Jonathan Manson
+  role: cello
+- name: Tini Mathot
+  role: harpsichord
+- name: David Rabinovich
+  role: violin
+- name: Jane Rogers
+  role: viola
+- name: Christine Sticher
+  role: violone
 instrument: ensemble
 performance_practice: historical
 arrangement: false

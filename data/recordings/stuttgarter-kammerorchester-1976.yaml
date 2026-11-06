@@ -4,6 +4,18 @@ performers:
   role: orchestra
 - name: Karl Münchinger
   role: conductor
+- name: Georg Baynov
+  role: violin
+- name: Robert Dohn
+  role: flute
+- name: Mischa Frey
+  role: cello
+- name: Martin Galling
+  role: harpsichord
+- name: Michael Mayer
+  role: viola
+- name: Hans-Peter Weber
+  role: cor anglais
 instrument: ensemble
 performance_practice: unknown
 arrangement: false

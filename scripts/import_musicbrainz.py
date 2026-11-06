@@ -118,6 +118,8 @@ JOIN_BY_SNAPSHOT = {
              "Kohnen and the three Kuijkens on the DHM 50 Jahre box: their 1994 Deutsche Harmonia Mundi set")
        for rep in ("4ed98508-0fd8-48cb-8c79-aa1b6b8d9baa", "edda2daf-25a8-4573-97cb-e3299b3096da",
                    "eea6c015-731b-4658-b2a0-3ee96980e5fe", "f2ba8940-e53e-465d-a37d-77e8675b8518")},
+    "68be37ad-e11a-4e4d-b305-dc5220cdae73": ("1b8e6a7a-7563-4b1f-b746-d300251795cd",
+        "Nicolet and Kobayashi's trio sonata Allegro (Best of Denon) and the Largo with Blacher and Fujiwara (Denon sampler): one Denon set"),
     "28013b26-e02a-44fe-bbaf-16eca5ed548e": ("362967c4-b8c7-40c9-9930-5a660c94918e",
         "Holloway, ter Linden, Moroney and See on a later compilation: Moroney's 1987 set"),
   },
@@ -160,6 +162,17 @@ OVERRIDE_BY_SNAPSHOT = {
   "musical-offering": {
     "6bd83dce-d70a-4916-a01e-9cee43b5a3e1": ({"arrangement": True}, "Chailly and the Concertgebouw play the Ricercar a 6 in Webern's orchestration"),
     "8056e03d-1333-4b61-bd28-1744c054bb73": ({"instrument": "ensemble"}, "the Munich Instrumental Ensemble is a group; MusicBrainz gives it no type"),
+    "58061be1-81fb-4d5f-9958-b70d384f2783": ({"performers": [
+        {"name": "Gunārs Larsens", "role": "violin"}, {"name": "Christiane Jaccottet", "role": "harpsichord"},
+        {"name": "Aurèle Nicolet", "role": "flute"}, {"name": "Markus Nyikos", "role": "cello"},
+        {"name": "Piotr Jan Milewski", "role": "violin"}, {"name": "Max Lesueur", "role": "viola"},
+        {"name": "Alfred Steinauer", "role": "double bass"}]},
+        "credited in Cyrillic on the 1977 release; Latin names and roles from the same rows' instrument credits"),
+    "3a3b9cb5-1dc1-4168-8697-23ba75953711": ({"performance_practice": "historical"}, "Arita, Terakado, Wakamatsu and Nakano: period instruments (transverse flute, baroque strings)"),
+    "4ae4a1ee-d525-429a-b15f-1392c78fabac": ({"performance_practice": "historical"}, "the Kuijkens and Kohnen, DHM 1994: period instruments"),
+    "e6280388-eff5-425b-ab84-ea46cbd1dbd0": ({"performance_practice": "historical"}, "von der Goltz, Kaiser and Behringer (Freiburger Barockorchester players): period instruments"),
+    "f8a62950-7961-497c-9619-a050dd0f6ecc": ({"performance_practice": "historical"}, "Hazelzet (traverso), ter Linden and Ogg: period instruments"),
+    "e5a51a43-1816-40f2-b89c-d7698ccf378c": ({"performance_practice": "historical"}, "Moroney, Holloway, ter Linden and See: period instruments"),
   },
   "clavier-ubung-ii": {
     "d85ae950-852b-4653-9c50-fa55854acca8": ({"instrument": "fortepiano"}, "Toby Sermeus, Bach's Piano Silbermann 1749: a Silbermann fortepiano copy"),
@@ -635,8 +648,14 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
     solo = len(perf["names"]) == 1
     performers = []
     types = perf.get("types") or []
+    # A credit in another script than the role list (정경화 credited, "Kyung-Wha Chung" in the roles): when one name
+    # and one role are left unmatched, they belong together.
+    lost = [n for n in perf["names"] if not (roles.get(n.lower()) or roles.get(n))]
+    spare = [k for k in roles if k not in {n.lower() for n in perf["names"]} | set(perf["names"])]
     for i, name in enumerate(perf["names"]):
         role = roles.get(name.lower()) or roles.get(name)
+        if not role and len(lost) == 1 and len(spare) == 1:
+            role = roles[spare[0]]
         if not role and i < len(types) and types[i] in TYPE_ROLE:
             role = TYPE_ROLE[types[i]]
         if not role:
@@ -827,6 +846,13 @@ def main(snapshot: str) -> int:
             perfs.remove(b)
     if Path(snapshot).stem.removeprefix("musicbrainz-") in JOIN_BY_RELEASE:
         perfs = join_by_release(perfs)
+        for p in perfs:  # players credited only with their instrument (the album credits, not the track's)
+            named = set(p["names"]) | {n.lower() for n in p["names"]}
+            unmatched = [n for i, n in enumerate(p["names"]) if n not in p["roles"] and n.lower() not in p["roles"]
+                         and not (i < len(p["types"]) and p["types"][i] in GROUP_TYPES)]
+            if not unmatched:
+                p["names"] = p["names"] + [k for k in p["roles"] if k not in named and k.lower() not in named
+                                           and p["roles"][k].lower() not in ("conductor", "orchestra")]
     existing = {p: r for p, r in load("recordings")}
     by_mbid = {m: p for p, r in existing.items() for m in (r.get("musicbrainz") or {}).get("recordings", [])}
 
@@ -839,8 +865,10 @@ def main(snapshot: str) -> int:
     for perf in perfs:
         main_name = norm(perf["names"][0])
         new = from_perf(perf, bwvs, moves, native, per_performer[main_name], mode, lead, scoring)
-        if perf["repId"] in overrides:
-            fix = overrides[perf["repId"]][0]
+        key = perf["repId"] if perf["repId"] in overrides or Path(snapshot).stem.removeprefix("musicbrainz-") not in JOIN_BY_RELEASE \
+            else next((r for r in perf["recIds"] if r in overrides), perf["repId"])  # a joined set: any of its rows
+        if key in overrides:
+            fix = overrides[key][0]
             if "performers" in fix:
                 new["performers"] = [dict(p) for p in fix["performers"]]
             if "instrument" in fix:
@@ -849,6 +877,8 @@ def main(snapshot: str) -> int:
                                                else "modern" if fix["instrument"] in MODERN | {"viola"} else "unknown")
                 if len(new["performers"]) == 1:
                     new["performers"][0]["role"] = fix["instrument"]
+            if "performance_practice" in fix:
+                new["performance_practice"] = fix["performance_practice"]
             if "arrangement" in fix:
                 new["arrangement"] = fix["arrangement"]
                 if not fix["arrangement"]:
