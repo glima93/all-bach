@@ -1,0 +1,34 @@
+id: kyung-wha-chung-undated-2
+performers:
+- name: Kyung-Wha Chung
+  role: performer
+- name: James Galway
+  role: flute
+- name: Moray Welsh
+  role: cello
+- name: Phillip Moll
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: CBS Studios
+released: 1979
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: ['VIII. Trio: a. Largo', 'VIII. Trio: b. Allegro', 'VIII. Trio: c. Andante',
+    'VIII. Trio: d. Allegro']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d02bae4-5f37-46fc-bcd7-d3ccdbfa51c8
+  title: Suite No.2 / Concerto / Trio Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a83500d7-4b80-4a5c-ada8-60676bbb2848
+  recordings: [611768a7-26ab-459b-9b35-d98f9aaaadb4, aaa22b95-9710-496d-8e5a-2dfbb0ccd0e3]

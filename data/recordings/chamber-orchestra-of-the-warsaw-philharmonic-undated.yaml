@@ -1,0 +1,30 @@
+id: chamber-orchestra-of-the-warsaw-philharmonic-undated
+performers:
+- name: Chamber Orchestra of the Warsaw Philharmonic
+  role: orchestra
+- name: Karol Teutsch
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bc04e6b2-2097-4a8b-8577-6265256666c5
+  title: 'Vivaldi: Stabat Mater / Bach: Ricercare / Aria / Purcell: Pavan and Chacony'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f80608e0-5ba0-45bf-abb0-0aa2f13269c8
+  recordings: [804e4090-aaa8-426e-93d4-c480bf7e7b04]

@@ -95,6 +95,10 @@ EXCLUDE_BY_SNAPSHOT = {
   "art-of-fugue": {
     "9c436181-2b3a-4396-bc07-bcc79d4f5cd0": "credited to Joachim-Ernst Berendt, the writer who compiled the album (Hinübergehen); the performers are not named",
   },
+  "musical-offering": {
+    "b8ac7bbb-b8d9-479f-9005-96a1d30188ea": "Most Beautiful Music, Vol. 1 (Radio Luxembourg, de Froment): the same MusicBrainz recording is filed as their Orchestral Suites track; one track cannot be both",
+    "9fa72977-1f2c-44f4-b47f-4c69423ab9db": "Aimard's Ricercar a 3 on his DG album of WTC Book I, which holds only the WTC: a fugue linked to the wrong work",
+  },
   "harpsichord-concertos": {
     "f8df5ad3-0db2-4dc7-be48-a55397f60b20": "credited to Antonio Vivaldi (composer of the model of BWV 1065) on a Vivaldi compilation; the performers are unknown",
   },
@@ -105,6 +109,18 @@ EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "musical-offering": {
+    "f8511c55-7e7c-4193-b463-b588e3181560": ("06ab6365-e351-4f6f-a0a6-ade42d5a2821",
+        "the Swingle Singers and the Modern Jazz Quartet's 1966 Ricercar (Place Vendôme), reissued on Compact Jazz"),
+    "e0299e6d-d94b-4e28-b2be-9bb4659d5b1c": ("f40c8887-be57-41e4-86a0-d5b76204a646",
+        "the trio sonata Largo with Rampal, Stern, Parnas and Ritter, reissued on Stern's birthday box"),
+    **{rep: ("4ae4a1ee-d525-429a-b15f-1392c78fabac",
+             "Kohnen and the three Kuijkens on the DHM 50 Jahre box: their 1994 Deutsche Harmonia Mundi set")
+       for rep in ("4ed98508-0fd8-48cb-8c79-aa1b6b8d9baa", "edda2daf-25a8-4573-97cb-e3299b3096da",
+                   "eea6c015-731b-4658-b2a0-3ee96980e5fe", "f2ba8940-e53e-465d-a37d-77e8675b8518")},
+    "28013b26-e02a-44fe-bbaf-16eca5ed548e": ("362967c4-b8c7-40c9-9930-5a660c94918e",
+        "Holloway, ter Linden, Moroney and See on a later compilation: Moroney's 1987 set"),
+  },
   "clavier-ubung-ii": {
     "df07d6de-65ef-41cc-893d-41b1acc6aba5": ("38f03114-6153-40fa-81c7-3de965c8432c",
         "Alessandrini's Italian Concerto, one performance (2000, Santissima Trinità dei Pellegrini) split across two releases"),
@@ -125,9 +141,26 @@ JOIN_BY_SNAPSHOT = {
   },
 }
 
+# Snapshots of works whose movements are scored for different forces (the Musical Offering: keyboard
+# ricercars, canons for two to four players, a trio sonata). The collector groups by performer line-up, so one
+# recorded set comes out as one row per line-up. Here rows on the same earliest release with the same recording
+# years (or all undated) are one performance; performers are the union, the row with most movements first.
+JOIN_BY_RELEASE = {
+  "musical-offering": "each movement has its own line-up, so the collector split recorded sets by line-up",
+}
+
+# Instruments the snapshot's `native` list leaves out, per snapshot, with the reason.
+NATIVE_EXTRA_BY_SNAPSHOT = {
+  "musical-offering": (["flute", "traverso"], "the trio sonata and the canons name the flute (Frederick the Great's instrument)"),
+}
+
 # Facts the snapshot gets wrong or leaves out for one row, per snapshot: representative recording ID ->
 # fields to set, with the reason. Fix upstream in MusicBrainz too, then remove the entry here.
 OVERRIDE_BY_SNAPSHOT = {
+  "musical-offering": {
+    "6bd83dce-d70a-4916-a01e-9cee43b5a3e1": ({"arrangement": True}, "Chailly and the Concertgebouw play the Ricercar a 6 in Webern's orchestration"),
+    "8056e03d-1333-4b61-bd28-1744c054bb73": ({"instrument": "ensemble"}, "the Munich Instrumental Ensemble is a group; MusicBrainz gives it no type"),
+  },
   "clavier-ubung-ii": {
     "d85ae950-852b-4653-9c50-fa55854acca8": ({"instrument": "fortepiano"}, "Toby Sermeus, Bach's Piano Silbermann 1749: a Silbermann fortepiano copy"),
     "99b8b346-9242-47ba-aa2e-9edf474555e3": ({"instrument": "organ"}, "Kei Koito, organist, on Organ Masterworks Vol. II; no instrument credit"),
@@ -245,7 +278,8 @@ PERIOD_ENSEMBLE = re.compile(
     r"early music|voices of music|tulipa consort|trillium consort|apollon ensemble|american bach soloists|"
     r"ama deus|madeuf|blumenstock|boulder bach festival|king.s consort|musica alta ripa|musica alchemica|harmonie des saisons|"
     r"voce strumentale|capella academica wien|helicon ensemble|mosa.ques|talens lyriques|caravans.rail|retrospect ensemble|"
-    r"capricornus|ensemble odyss|parlement de musique|phantasm|fretwork|hesp.rion|suonar parlante|les r.cr.ations", re.I)
+    r"capricornus|ensemble odyss|parlement de musique|phantasm|fretwork|hesp.rion|suonar parlante|les r.cr.ations|"
+    r"musica ad rhenum|ricercar consort|ausonia|ensemble diderot|aulos ensemble", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
 MODERN_ENSEMBLE = re.compile(r"m.nchener bach|kammerakademie potsdam|zurich baroque ensemble|^baroque chamber orchestra|"
                              r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra", re.I)
@@ -595,6 +629,9 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
             instrument = "organ"  # a lone performer of an organ work, with no instrument credit
         if mode == "open":
             others = [i for i in others if ARRANGED.search(i)]
+            played = {INSTRUMENTS.get(i.lower()) for i in perf["ins"]} & native
+            if len(perf["names"]) >= 2 and len(played) >= 2:
+                instrument = "ensemble"  # a duo of different instruments (flute and keyboard in the trio sonata)
     solo = len(perf["names"]) == 1
     performers = []
     types = perf.get("types") or []
@@ -632,6 +669,11 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
     elif mode == "open":
         rec["arrangement"] = instrument == "other" and bool(arranged_credits(perf)) \
             or bool(ARRANGED_NAMES.search(" ".join(perf["names"])))
+        lead_arranged = [i for i in perf["ins"] if OPEN_ARRANGED.search(i)]
+        if lead_arranged and not rec["arrangement"]:  # a recorder with harpsichord, as in the group rule above
+            rec["instrument"] = INSTRUMENTS.get(lead_arranged[0].lower(), "other")
+            rec["performance_practice"], rec["arrangement"] = "unknown", True
+            others = [i for i in perf["ins"] if i != lead_arranged[0]]
     elif mode == "keyboard":
         # A solo keyboard work played by an orchestra or group with no keyboard credited, by a crossover name, or
         # on a soundtrack, relaxation or lesson album is an arrangement (Hooked on Classics, coffee-time albums).
@@ -706,6 +748,47 @@ def order(rec: dict) -> dict:
     return {k: rec[k] for k in keys if k in rec}
 
 
+def join_by_release(perfs: list[dict]) -> list[dict]:
+    """Fold rows on the same earliest release with the same recording years into one performance."""
+    groups: dict[tuple, list[dict]] = {}
+    for p in perfs:
+        key = (p["releases"][0]["id"], tuple(sorted(p["years"]))) if p["releases"] else (p["repId"],)
+        groups.setdefault(key, []).append(p)
+    out = []
+    for group in groups.values():
+        if len(group) == 1:
+            out.append(group[0])
+            continue
+        group.sort(key=lambda p: (-len(p["mv"]), -len(p["names"])))
+        a = {**group[0], "names": list(group[0]["names"]), "ids": list(group[0]["ids"]),
+             "types": list(group[0]["types"]), "roles": dict(group[0]["roles"]), "ins": list(group[0]["ins"]),
+             "places": list(group[0]["places"]), "recIds": list(group[0]["recIds"]), "mv": list(group[0]["mv"])}
+        for b in group[1:]:
+            for i, (name, aid) in enumerate(zip(b["names"], b["ids"])):
+                if aid not in a["ids"]:
+                    a["names"].append(name)
+                    a["ids"].append(aid)
+                    if len(a["types"]) == len(a["ids"]) - 1 and i < len(b["types"]):
+                        a["types"].append(b["types"][i])
+            a["roles"] = {**b["roles"], **a["roles"]}
+            a["ins"] += [i for i in b["ins"] if i not in a["ins"]]
+            a["places"] += [x for x in b["places"] if x not in a["places"]]
+            a["recIds"] += b["recIds"]
+            a["mv"] = sorted(set(a["mv"]) | set(b["mv"]), key=lambda m: (m.split(":")[0], int(m.split(":")[1])))
+            fr = [x for x in (a["firstRelease"], b["firstRelease"]) if x]
+            a["firstRelease"] = min(fr) if fr else None
+            a["live"] = a["live"] or b["live"]
+        # Lead with the groups, then the players heard on the most rows (the set's leader).
+        seen = {aid: sum(aid in p["ids"] for p in group) for aid in a["ids"]}
+        grp = lambda i: i < len(a["types"]) and a["types"][i] in GROUP_TYPES
+        order_ = sorted(range(len(a["ids"])), key=lambda i: (not grp(i), -seen[a["ids"][i]], i))
+        a["names"] = [a["names"][i] for i in order_]
+        a["ids"] = [a["ids"][i] for i in order_]
+        a["types"] = [a["types"][i] for i in order_] if len(a["types"]) == len(order_) else a["types"]
+        out.append(a)
+    return out
+
+
 def main(snapshot: str) -> int:
     data = json.loads(Path(snapshot).read_text(encoding="utf-8"))
     EXCLUDE.clear()
@@ -713,6 +796,7 @@ def main(snapshot: str) -> int:
     if isinstance(data, list):
         data = {"works": CELLO_SUITES, "native": CELLO_FAMILY, "rows": data}
     bwvs, native, rows = data["works"], set(data["native"]), data["rows"]
+    native |= set(NATIVE_EXTRA_BY_SNAPSHOT.get(Path(snapshot).stem.removeprefix("musicbrainz-"), ([], ""))[0])
     # Importer mode (docs/catalogue-plan.md): older snapshots have none; "ensemble" was then the native list.
     mode = data.get("mode") or ("ensemble" if "ensemble" in native else "classic")
     lead = data["native"] if mode == "chamber" else None
@@ -741,6 +825,8 @@ def main(snapshot: str) -> int:
             a["places"] = list(dict.fromkeys(a["places"] + b["places"]))
             a["recIds"] = a["recIds"] + b["recIds"]
             perfs.remove(b)
+    if Path(snapshot).stem.removeprefix("musicbrainz-") in JOIN_BY_RELEASE:
+        perfs = join_by_release(perfs)
     existing = {p: r for p, r in load("recordings")}
     by_mbid = {m: p for p, r in existing.items() for m in (r.get("musicbrainz") or {}).get("recordings", [])}
 

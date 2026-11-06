@@ -1,0 +1,28 @@
+id: munich-instrumental-ensemble-undated
+performers:
+- name: Munich Instrumental Ensemble
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55fc12d3-bcfb-48c7-a69f-f2c77db37070
+  title: 1000 Meisterwerke der klassischen Musik
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b52b73b-4626-49db-974b-63bbef4ceeb5
+  recordings: [8056e03d-1333-4b61-bd28-1744c054bb73]

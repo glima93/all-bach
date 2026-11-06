@@ -1,0 +1,30 @@
+id: michio-kobayashi-undated
+performers:
+- name: Michio Kobayashi
+  role: piano
+- name: Aurèle Nicolet
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: ['VIII. Trio: d. Allegro']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b48f41a5-3188-4fee-830f-c5288347c3d9
+  title: The Best of Denon Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8569d6e4-ce75-4f71-a350-4fd378fc1445
+  recordings: [68be37ad-e11a-4e4d-b305-dc5220cdae73]

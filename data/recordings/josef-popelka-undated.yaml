@@ -1,0 +1,27 @@
+id: josef-popelka-undated
+performers:
+- name: Josef Popelka
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St. Clement's Cathedral
+released: 1988
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c4b6142c-5c2a-44da-8a17-092d6975a2cf
+  title: Das musikalische Opfer, BWV 1079
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ccdf7ba5-38b8-401c-ad1e-bd7b6065afd8
+  recordings: [ea8a8194-60f1-44ad-83ac-73da3b25af15]

@@ -1,0 +1,31 @@
+id: walter-heinz-bernstein-undated-2
+performers:
+- name: Walter Heinz Bernstein
+  role: harpsichord
+- name: Eberhard Palm
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [IV. Fuga Canonica in Epidiapente]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/27555820-8c1f-4278-bfdb-ec8dc0c05efe
+  title: 'Classical Masters: Johann Sebastian Bach'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 00f7a729-476c-40b4-96c6-cf8ee95e6de7
+  recordings: [4256eebc-cfae-4ac3-803b-ecfc03257215]

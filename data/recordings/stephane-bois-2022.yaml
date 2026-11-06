@@ -1,0 +1,26 @@
+id: stephane-bois-2022
+performers:
+- name: Stéphane Bois
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2022]
+  place: Chapelle Sainte-Claire du Salin
+released: 2023
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee64cbfc-e096-4c71-a8fc-ccf17aa221ec
+  title: 'Bach à Leipzig: L’Apogée d’une pensée créatrice'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 33851478-c589-4267-8618-9139338235b4
+  recordings: [bd27d57e-4471-4029-a5a2-572a66394453]

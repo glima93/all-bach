@@ -1,0 +1,26 @@
+id: olivier-latry-2019
+performers:
+- name: Olivier Latry
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2019]
+  place: Cathédrale Notre-Dame de Paris
+released: 2019
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/02645642-1753-4281-8a50-a3f8cddb8b5a
+  title: Bach to Notre-Dame
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6711018-699b-4cfa-8dbc-4e40606a5ed0
+  recordings: [54e36ec6-9b41-4d7e-bea7-4e17f0b4ddf4]

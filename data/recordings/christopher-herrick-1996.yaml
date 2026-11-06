@@ -1,0 +1,26 @@
+id: christopher-herrick-1996
+performers:
+- name: Christopher Herrick
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Stadtkirche St. Martin
+released: 1997
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [I. Ricercare a 3, V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/194777d7-2a44-4765-9f0c-219731ea39a4
+  title: Organ Miniatures
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2201c61a-cdd5-454e-9ccd-52c25e382afc
+  recordings: [8daec285-23c0-4d8a-9347-972f68dbbbba]

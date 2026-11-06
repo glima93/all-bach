@@ -1,0 +1,26 @@
+id: ann-helena-schluter-2018
+performers:
+- name: Ann-Helena Schlüter
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2018]
+  place: Tonstudio Mozarteum
+released: 2019
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [I. Ricercare a 3, V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/45df2e45-5b2e-47d9-bd42-b9bcfd2cb415
+  title: Fantasias & Duets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: abde6c22-58ad-45df-a23f-71bd263c1154
+  recordings: [d0cacd2e-a97d-4100-bcd2-8b947fa50a93]

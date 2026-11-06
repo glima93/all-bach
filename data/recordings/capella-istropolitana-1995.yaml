@@ -1,0 +1,34 @@
+id: capella-istropolitana-1995
+performers:
+- name: Capella Istropolitana
+  role: orchestra
+- name: Christian Benda
+  role: conductor
+- name: Nils-Thilo Krämer
+  role: performer
+- name: Ariane Pfister
+  role: performer
+- name: Sebastian Benda
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Moyzesova sieň
+released: 1998
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ca533466-9578-4a05-aeef-55c7eaf9da30
+  title: The Musical Offering
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e7119b5-a3a0-4d78-b8c8-55778f8b618c
+  recordings: [d3d631db-7c93-45e2-a785-c15cf1e1b613]

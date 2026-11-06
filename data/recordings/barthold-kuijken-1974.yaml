@@ -1,0 +1,34 @@
+id: barthold-kuijken-1974
+performers:
+- name: Barthold Kuijken
+  role: performer
+- name: Sigiswald Kuijken
+  role: performer
+- name: Wieland Kuijken
+  role: performer
+- name: Robert Kohnen
+  role: performer
+- name: Gustav Leonhardt
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1974]
+  place: Doopsgezinde Gemeente
+released: 1985
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e1355de3-4518-45c0-8697-135ed0aaf4d1
+  title: Musical Offering
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 78d102d1-c148-4cbe-8d05-32b866a9fa21
+  recordings: [11c41b95-47a3-4a36-afa8-6a34c1e71e9c]

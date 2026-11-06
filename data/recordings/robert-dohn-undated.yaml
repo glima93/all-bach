@@ -1,0 +1,34 @@
+id: robert-dohn-undated
+performers:
+- name: Robert Dohn
+  role: flute
+- name: Martin Ostertag
+  role: cello
+- name: Martha Schuster
+  role: performer
+- name: Ernö Sebestyen
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: ['VIII. Trio: a. Largo', 'VIII. Trio: d. Allegro']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/19e263ef-9c48-44ed-adbf-304cbc7f4cf8
+  title: Classic Reference
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 96860329-fe08-469c-b38f-ff6da45054c5
+  recordings: [5cba7619-e9f3-47b9-9403-6ef5fcc4d795]

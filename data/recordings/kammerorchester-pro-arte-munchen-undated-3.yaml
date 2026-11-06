@@ -1,0 +1,30 @@
+id: kammerorchester-pro-arte-munchen-undated-3
+performers:
+- name: Kammerorchester Pro Arte München
+  role: orchestra
+- name: Kurt Redel
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7722d173-c33a-489a-b897-dbf8acb94118
+  title: Musikalisches Opfer
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed05f1ef-562f-49d3-9aac-bfc864acf1a2
+  recordings: [eb2f197e-5142-43dd-8d5a-dff9500781e0]

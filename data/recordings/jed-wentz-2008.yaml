@@ -1,0 +1,36 @@
+id: jed-wentz-2008
+performers:
+- name: Jed Wentz
+  role: flute
+- name: Michael Borgstede
+  role: harpsichord
+- name: Igor Ruhadze
+  role: violin
+- name: Sara de Corso
+  role: violin
+- name: Daniel De Oliveira
+  role: performer
+- name: Job ter Haar
+  role: cello
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: Doopsgezinde kerk
+released: 2010
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf74e971-b791-4c23-ab2d-2189e6f8195a
+  title: Complete Edition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a73b28b-1d33-43bc-ba00-ccb3d02570ac
+  recordings: [1de1a4da-b3cd-4769-8950-2222290903ed, 2c057d90-4989-4625-a3e0-c1ec2461a927, edde93c9-d556-4aa0-9db8-cb1e44a57293]

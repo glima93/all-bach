@@ -1,0 +1,27 @@
+id: christopher-hogwood-undated-3
+performers:
+- name: Christopher Hogwood
+  role: fortepiano
+instrument: fortepiano
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: St.John's Downshire Hill
+released: 2018
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [I. Ricercare a 3]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 00db6f13-4ec4-4ff9-ab10-07340b511e97
+  recordings: [5c564121-459d-446a-9555-2e59994ea2a2]

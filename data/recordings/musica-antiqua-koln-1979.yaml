@@ -1,0 +1,32 @@
+id: musica-antiqua-koln-1979
+performers:
+- name: Musica Antiqua Köln
+  role: orchestra
+- name: Reinhard Goebel
+  role: conductor
+- name: Wilbert Hazelzet
+  role: performer
+- name: Charles Medlam
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1979]
+  place: Herkulessaal
+released: 1979
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fa2e3b17-a7f5-419d-8fe8-cf30983fc3b5
+  title: Das Musikalische Opfer
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 16f26d89-eabf-46fd-9786-4b66bb9a2302
+  recordings: [7dd1f47d-b897-4429-a1ef-05bd96cf24f9]

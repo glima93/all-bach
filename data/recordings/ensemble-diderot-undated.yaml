@@ -1,0 +1,36 @@
+id: ensemble-diderot-undated
+performers:
+- name: Ensemble Diderot
+  role: ensemble
+- name: Johannes Pramsohler
+  role: performer
+- name: Philippe Grisvard
+  role: performer
+- name: Gulrim Choi
+  role: performer
+- name: Roldán Bernabé
+  role: performer
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b42921ea-709c-470a-b2a0-dc0c0eba712a
+  title: 'J. S. Bach: A Musical Offering'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 88bf4b0f-21dd-4df7-8a5f-528440551821
+  recordings: [4035314a-bf0f-44ca-8b70-91ad99b6da3b, 4c66562e-890b-4605-88b8-f00a7f5458d2, dd38743e-0ce6-4435-bd40-36bf15c3b067]

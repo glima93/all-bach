@@ -1,0 +1,36 @@
+id: leonard-hokanson-undated
+performers:
+- name: Leonard Hokanson
+  role: harpsichord
+- name: Wolfgang Marschner
+  role: violin
+- name: Kurt Redel
+  role: flute
+- name: Wilhelm Schneller
+  role: cello
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [I. Ricercare a 3, 'IIIb. 5 Canones diversi super thema regium, Canon
+      a 2 Violini in unisono', V. Ricercare a 6, VI. Canon a 2, VII. Canon a 4, 'VIII. Trio: a. Largo', 'VIII. Trio:
+      b. Allegro', 'VIII. Trio: c. Andante', 'VIII. Trio: d. Allegro', IX. Canon perpetuus]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/61b0e30a-1d06-4d98-a864-415219472dcb
+  title: Musikalisches Opfer (Kurt Redel)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c0126d06-51d2-4377-ad56-d8005a45c074
+  recordings: [2a4f779c-3ec3-4fe2-bf71-ccec1fb1e864, 7eb32ba7-99c3-4a1e-9a30-62fad1681329, aa59256b-5728-449a-a265-84afc3b6a4c2]

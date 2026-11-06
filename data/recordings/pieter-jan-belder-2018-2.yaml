@@ -1,0 +1,26 @@
+id: pieter-jan-belder-2018-2
+performers:
+- name: Pieter-Jan Belder
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: Gereformeerde kerk Westeremden
+released: 2019
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [I. Ricercare a 3, V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b7a2303-7dcf-43b6-b0ac-933916b2b861
+  title: Kunst der Fuge
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ac46c3a-f0ca-48b0-b729-f6a40d1b80e1
+  recordings: [00bc37ca-d4ae-48e8-95fd-44e5b1c3f44c]

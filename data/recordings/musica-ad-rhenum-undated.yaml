@@ -1,0 +1,31 @@
+id: musica-ad-rhenum-undated
+performers:
+- name: Musica ad Rhenum
+  role: ensemble
+- name: Jed Wentz
+  role: flute
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: ['VIII. Trio: a. Largo', 'VIII. Trio: b. Allegro', 'VIII. Trio: c. Andante',
+    'VIII. Trio: d. Allegro']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e67fccfb-512d-4326-86e0-7b67c2d158c6
+  title: 'Bach in Berlin: Flute music composed for Frederick the Great'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eeb6a90f-7f15-4da1-b270-f54d353e56ec
+  recordings: [5a714559-41da-4f6e-bff1-069afc43842c]

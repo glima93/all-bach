@@ -1,0 +1,28 @@
+id: neues-bachisches-collegium-musicum-undated-5
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e836f6f5-ac41-4d01-a621-03eb06fb92d3
+  title: Musikalisches Opfer
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [5960bba6-4eac-4d83-8ada-744a7b1336a8]

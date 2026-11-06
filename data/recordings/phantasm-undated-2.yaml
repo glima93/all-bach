@@ -1,0 +1,28 @@
+id: phantasm-undated-2
+performers:
+- name: Phantasm
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [I. Ricercare a 3, V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a8607ff-ceb0-4cfc-b6ba-d2d6a8ccaf90
+  title: The Well-Tempered Consort – I
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dba2074a-0365-48d5-9865-0937ec429aa6
+  recordings: [14933e13-ec15-42b3-9205-8cfe0801ffcc]

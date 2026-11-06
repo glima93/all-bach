@@ -1,0 +1,28 @@
+id: michel-bouvard-undated
+performers:
+- name: Michel Bouvard
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [V. Ricercare a 6]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30fcccbb-343d-4bb7-a588-e9ea8ebef779
+  title: L’art de l’orgue polyphonique
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8e908d19-706e-47c7-aefd-478eabf87608
+  recordings: [9f7615bc-2f8c-4768-9a99-c8293dd4423e]

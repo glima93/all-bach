@@ -1,0 +1,28 @@
+id: mahan-esfahani-undated-2
+performers:
+- name: Mahan Esfahani
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '1079', complete: false, movements: [I. Ricercare a 3, V. Ricercare a 6, VI. Canon a 2]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b8f846e-f068-46e5-8a3c-8a44419f79cc
+  title: Byrd / Bach / Ligeti
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a2704dbd-4e05-4b89-917c-85c578fc1488
+  recordings: [e2f89144-22d9-4d6a-b15e-f0d6a6c50d02]

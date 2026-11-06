@@ -1,0 +1,28 @@
+id: stuttgarter-kammerorchester-1976
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: Schloss Ludwigsburg
+released: 1977
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2dfd8a13-cbf1-4566-9139-a2d6d899a7f0
+  title: Musical Offering
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [9dd67c78-0caa-4912-b66b-9394bfd82f6a]

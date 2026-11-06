@@ -1,0 +1,26 @@
+id: ricercar-consort-2011
+performers:
+- name: Ricercar Consort
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: Temple de Lourmarin
+released: 2015
+original_label: null
+works:
+- {bwv: '1079', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8e3d3297-faa2-4882-b1ce-bd23bd282275
+  title: Musikalisches Opfer
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6264b98d-4ddc-4b96-a79d-18f53394a99e
+  recordings: [76b1af6c-cedf-4a8e-959e-07734ff15bfb]
