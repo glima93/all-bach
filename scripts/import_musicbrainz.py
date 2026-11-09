@@ -218,6 +218,15 @@ OVERRIDE_BY_SNAPSHOT = {
         "Horacio Franco, recorder player, on a Bach and Beatles crossover album"),
     "82e44550-6e9e-4888-a7c4-5af471561aa5": ({"instrument": "other", "arrangement": True},
         "Per Arne Glorvigen, bandoneon"),
+    "870896eb-18b4-4eae-998d-268a4ee2d20d": ({"performers": [{"name": "Capriccio Stravagante", "role": "ensemble"}], "instrument": "violin", "performance_practice": "historical"},
+        "Capriccio Stravagante on Il Violino: BWV 1024 for violin and continuo; the group is credited, not its violinist"),
+    "4e3822ea-5e83-4bdd-99a2-1d623cfa6549": ({"performers": [{"name": "Sonnerie", "role": "ensemble"}], "instrument": "violin", "performance_practice": "historical"},
+        "Sonnerie (Monica Huggett's group) in BWV 1021 and 1023, the violin and continuo sonatas; the group is credited, not its violinist"),
+    "a8d6d504-992c-4684-8b11-5ed6f710d6f3": ({"performers": [{"name": "Trio Settecento", "role": "ensemble"}], "instrument": "violin", "performance_practice": "historical"},
+        "Trio Settecento: Rachel Barton Pine on baroque violin, with continuo"),
+    "1d100057-109f-474d-8802-2d0a40f5af37": ({"performers": [{"name": "Ensemble Gaudior", "role": "ensemble"},
+        {"name": "Alexandra MacCracken", "role": "violin"}, {"name": "Elena Tsai", "role": "harpsichord"}]},
+        "Ensemble Gaudior: MacCracken (violin) and Tsai (harpsichord) are credited for the track but not in its artist credit"),
     "e9459ec6-9373-4b13-81df-c3c2f8391163": ({"arrangement": True},
         "Lara St. John with Langlamet on harp in place of the harpsichord"),
     "4246ae83-2f09-4348-8c1f-18e69852e982": ({"performance_practice": "historical"},
@@ -280,8 +289,6 @@ OVERRIDE_BY_SNAPSHOT = {
         "Glodeanu and Haas: period instruments"),
     "e394b50b-ebd1-4645-8e57-079b8ac11a75": ({"performance_practice": "historical"},
         "Hirasaki, Ghielmi and Camporini: period instruments"),
-    "a8d6d504-992c-4684-8b11-5ed6f710d6f3": ({"performance_practice": "historical"},
-        "Trio Settecento (Rachel Barton Pine on baroque violin): period instruments"),
   },
   "musical-offering": {
     "6bd83dce-d70a-4916-a01e-9cee43b5a3e1": ({"arrangement": True}, "Chailly and the Concertgebouw play the Ricercar a 6 in Webern's orchestration"),
@@ -453,7 +460,7 @@ GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|solois
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
                                r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki|dangerous liaisons|פסקול|motion picture|movies go baroque|bach minimaliste|"
-                               r"concertos? for recorder|bachbusters|exam pieces|production music|bedtime|majors for minors|f.r inl.rning|classical background|サウンドトラック", re.I)
+                               r"concertos? for recorder|bachbusters|production music|bedtime|majors for minors|f.r inl.rning|classical background|サウンドトラック", re.I)
 
 # Open-score works (mode "open", the Art of Fugue): keyboards, strings, viols and orchestra are native (plan note);
 # winds, brass, saxophones, recorders, guitars and crossover groups play it arranged. Credits, then group names.
@@ -741,8 +748,7 @@ def chamber_of(perf: dict, lead: list[str]) -> tuple[str, str, bool, list[str]]:
     """
     arranged = arranged_credits(perf)
     mapped = [INSTRUMENTS.get(i.lower(), "other") for i in perf["ins"]]
-    release = " ".join(r["title"] for r in perf["releases"])
-    if arranged or ARRANGED_NAMES.search(" ".join(perf["names"])) or ARRANGED_RELEASES.search(release):
+    if arranged or ARRANGED_NAMES.search(" ".join(perf["names"])):
         # The solo part on its own instrument with an arranged accompaniment (violin with guitar continuo) is
         # filed under the solo instrument.
         played = next((m for m in mapped if m in lead), None)
@@ -1022,7 +1028,7 @@ def main(snapshot: str) -> int:
                 new["instrument"] = fix["instrument"]
                 new["performance_practice"] = ("historical" if fix["instrument"] in HISTORICAL
                                                else "modern" if fix["instrument"] in MODERN | {"viola"} else "unknown")
-                if len(new["performers"]) == 1:
+                if len(new["performers"]) == 1 and "performers" not in fix:
                     new["performers"][0]["role"] = fix["instrument"]
             if "performance_practice" in fix:
                 new["performance_practice"] = fix["performance_practice"]

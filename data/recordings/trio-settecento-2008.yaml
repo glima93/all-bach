@@ -2,7 +2,7 @@ id: trio-settecento-2008
 performers:
 - name: Trio Settecento
   role: ensemble
-instrument: unknown
+instrument: violin
 performance_practice: historical
 arrangement: false
 recorded:
@@ -19,7 +19,6 @@ links:
   title: A German Bouquet
 status: draft
 help_wanted:
-- Instrument (MusicBrainz has no instrument credit)
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:

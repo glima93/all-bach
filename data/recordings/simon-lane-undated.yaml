@@ -5,9 +5,8 @@ performers:
 - name: Katie Stillman
   role: violin
 instrument: violin
-performance_practice: unknown
-arrangement: true
-arranger: null
+performance_practice: modern
+arrangement: false
 recorded:
   years: []
   place: null

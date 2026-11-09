@@ -2,6 +2,10 @@ id: ensemble-gaudior-undated-2
 performers:
 - name: Ensemble Gaudior
   role: ensemble
+- name: Alexandra MacCracken
+  role: violin
+- name: Elena Tsai
+  role: harpsichord
 instrument: violin
 performance_practice: unknown
 arrangement: false

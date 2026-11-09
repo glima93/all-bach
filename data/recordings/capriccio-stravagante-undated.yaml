@@ -2,7 +2,7 @@ id: capriccio-stravagante-undated
 performers:
 - name: Capriccio Stravagante
   role: ensemble
-instrument: unknown
+instrument: violin
 performance_practice: historical
 arrangement: false
 recorded:
@@ -21,7 +21,6 @@ status: draft
 help_wanted:
 - Recording year
 - Recording place
-- Instrument (MusicBrainz has no instrument credit)
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:
