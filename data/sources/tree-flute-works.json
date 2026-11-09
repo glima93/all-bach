@@ -1,0 +1,260 @@
+{
+ "collection": "flute-works",
+ "taken": "2026-11-09",
+ "recordings": 1332,
+ "performances": 205,
+ "works": [
+  {
+   "bwv": "1013",
+   "id": "f5b963a9-2382-4313-98cc-55be79ff787b",
+   "candidates": [
+    {
+     "id": "f5b963a9-2382-4313-98cc-55be79ff787b",
+     "title": "Partita für Flöte in a-Moll, BWV 1013"
+    },
+    {
+     "id": "14b3831a-960d-4c65-96f7-78c8d9943c76",
+     "title": "Partita in A minor, BWV 1013"
+    },
+    {
+     "id": "61c60db7-d6f2-443a-b1d5-2eeed7aa7f32",
+     "title": "Partita in A minor, BWV 1013"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Partita für Flöte in a-Moll, BWV 1013",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "1158ae1f-4cb5-315f-a26a-cc49280372be",
+     "title": "Partita für Flöte in a-Moll, BWV 1013: I. Allemande"
+    },
+    {
+     "id": "7392fcf6-65b4-379a-a0fd-d0ec8f5ee72d",
+     "title": "Partita für Flöte in a-Moll, BWV 1013: II. Corrente"
+    },
+    {
+     "id": "9e2df6c8-b70e-318d-ba5f-2c345cf2506f",
+     "title": "Partita für Flöte in a-Moll, BWV 1013: III. Sarabande"
+    },
+    {
+     "id": "69bec9a9-d970-3058-8508-b32df2273c42",
+     "title": "Partita für Flöte in a-Moll, BWV 1013: IV. Bourrée anglaise"
+    }
+   ]
+  },
+  {
+   "bwv": "1030",
+   "id": "6bdb38e2-7cfb-4d79-9046-0ee170cf47ad",
+   "candidates": [
+    {
+     "id": "c52c851f-6439-41f7-9bb4-6f8ce16d89dc",
+     "title": "Sonata in B minor, BWV 1030"
+    },
+    {
+     "id": "6bdb38e2-7cfb-4d79-9046-0ee170cf47ad",
+     "title": "Sonata for Flute & Keyboard in B minor, BWV 1030"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonata for Flute & Keyboard in B minor, BWV 1030",
+   "key": "B minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "72b43704-425a-41da-9223-74cbc94aa8d8",
+     "title": "Sonata for Flute & Keyboard in B minor, BWV 1030: I. Andante"
+    },
+    {
+     "id": "5fcc8e1b-48ee-4038-8716-be4813f005c6",
+     "title": "Sonata for Flute & Keyboard in B minor, BWV 1030: II. Largo e dolce"
+    },
+    {
+     "id": "0dbd26f5-95de-40c7-a157-19e9f5e8f0b2",
+     "title": "Sonata for Flute & Keyboard in B minor, BWV 1030: III. Presto - Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1031",
+   "id": "3ac58155-23ee-4737-81dc-ffc7336663d6",
+   "candidates": [
+    {
+     "id": "be0407d9-0004-49cc-8948-585f32802af5",
+     "title": "Flute Sonata in E-flat major, BWV 1031"
+    },
+    {
+     "id": "3ac58155-23ee-4737-81dc-ffc7336663d6",
+     "title": "Flute Sonata in E-flat major, BWV 1031"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Flute Sonata in E-flat major, BWV 1031",
+   "key": "E-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "9349b892-35db-49b8-ac37-8348bc114ae9",
+     "title": "Flute Sonata in E-flat major, BWV 1031: I. Allegro moderato"
+    },
+    {
+     "id": "2b5a0249-b6a9-3e0b-843e-452e18a0095b",
+     "title": "Flute Sonata in E-flat major, BWV 1031: II. Siciliano"
+    },
+    {
+     "id": "eefd7764-d50d-4878-92ec-f1caf90d873e",
+     "title": "Flute Sonata in E-flat major, BWV 1031: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1032",
+   "id": "a9b9053b-cb1d-4973-9a23-df2f0dac6fb7",
+   "candidates": [
+    {
+     "id": "a9b9053b-cb1d-4973-9a23-df2f0dac6fb7",
+     "title": "Sonata for Flute and Harpsichord in A major, BWV 1032"
+    },
+    {
+     "id": "670e3aee-865a-4dcc-8cd0-5f2de8de6d7c",
+     "title": "Sonata for Flute and Harpsichord in A major, BWV 1032"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonata for Flute and Harpsichord in A major, BWV 1032",
+   "key": "A major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "14eaeb93-e121-4665-a9fd-4628733c16d8",
+     "title": "Sonata for Flute and Harpsichord in A major, BWV 1032: I. Vivace"
+    },
+    {
+     "id": "7f598699-70e7-4948-a83d-3bb7c203e6d9",
+     "title": "Sonata for Flute and Harpsichord in A major, BWV 1032: II. Largo e dolce"
+    },
+    {
+     "id": "9d5bc269-1d41-447c-9919-55974195b21a",
+     "title": "Sonata for Flute and Harpsichord in A major, BWV 1032: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1033",
+   "id": "296d5d56-8762-428c-9d57-f4c00e8f6749",
+   "candidates": [
+    {
+     "id": "296d5d56-8762-428c-9d57-f4c00e8f6749",
+     "title": "Flute Sonata in C major, BWV 1033"
+    },
+    {
+     "id": "d057aa90-d0d3-4563-a5d7-2464112f46be",
+     "title": "Flute Sonata in C major, BWV 1033"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Flute Sonata in C major, BWV 1033",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "af96024d-ce0a-44ed-8b54-59b2fa57ba36",
+     "title": "Flute Sonata in C major, BWV 1033: I. Andante - Presto"
+    },
+    {
+     "id": "b6800891-fe2b-4962-96ad-5983a4680907",
+     "title": "Flute Sonata in C major, BWV 1033: II. Allegro"
+    },
+    {
+     "id": "22f7c438-7923-4619-ba13-978e65f61996",
+     "title": "Flute Sonata in C major, BWV 1033: III. Adagio"
+    },
+    {
+     "id": "b85a2694-e183-4d5e-9eec-46531ee5ee5b",
+     "title": "Flute Sonata in C major, BWV 1033: IV. Menuetto I"
+    },
+    {
+     "id": "18ba93cd-5f11-4e70-bd51-8c854e4a8390",
+     "title": "Flute Sonata in C major, BWV 1033: V. Menuetto II"
+    }
+   ]
+  },
+  {
+   "bwv": "1034",
+   "id": "e639b3db-8695-4101-b527-16d75ae5e8cd",
+   "candidates": [
+    {
+     "id": "91f386f9-7595-48b0-83a7-1d4605f69309",
+     "title": "Sonata in E minor, BWV 1034"
+    },
+    {
+     "id": "e639b3db-8695-4101-b527-16d75ae5e8cd",
+     "title": "Sonata for Flute and Continuo in E minor, BWV 1034"
+    },
+    {
+     "id": "543a8ec4-3807-4e08-9b72-fbe84774b6bf",
+     "title": "Sonata for Flute and Continuo in E minor, BWV 1034"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonata for Flute and Continuo in E minor, BWV 1034",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "4069340e-70e6-43a5-b0f5-87063973dbdb",
+     "title": "Sonata for Flute and Continuo in E minor, BWV 1034: I. Adagio ma non tanto"
+    },
+    {
+     "id": "f68c91c7-70e7-4132-9a17-eba480249c9a",
+     "title": "Sonata for Flute and Continuo in E minor, BWV 1034: II. Allegro"
+    },
+    {
+     "id": "9010273e-67a4-4545-978d-ae7b2921557b",
+     "title": "Sonata for Flute and Continuo in E minor, BWV 1034: III. Andante"
+    },
+    {
+     "id": "a3c74220-2d4f-4d61-9a93-c2b79fa39d69",
+     "title": "Sonata for Flute and Continuo in E minor, BWV 1034: IV. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1035",
+   "id": "40e657e3-2e67-4122-8357-ef5d0a8e027c",
+   "candidates": [
+    {
+     "id": "40e657e3-2e67-4122-8357-ef5d0a8e027c",
+     "title": "Flute Sonata in E major, BWV 1035"
+    },
+    {
+     "id": "301c6c2f-792c-450f-93d9-8215ec4c40e5",
+     "title": "Flute Sonata in E major, BWV 1035"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Flute Sonata in E major, BWV 1035",
+   "key": "E major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "25749b17-8673-470a-809c-ed51a0c76329",
+     "title": "Flute Sonata in E major, BWV 1035: I. Adagio ma non tanto"
+    },
+    {
+     "id": "2869cac7-7efd-429b-9cbc-5eef2dbc9176",
+     "title": "Flute Sonata in E major, BWV 1035: II. Allegro"
+    },
+    {
+     "id": "cea12aed-0442-447a-8315-8957eb800ede",
+     "title": "Flute Sonata in E major, BWV 1035: III. Siciliana"
+    },
+    {
+     "id": "712bad76-aeae-49bf-92ea-8bc25b271256",
+     "title": "Flute Sonata in E major, BWV 1035: IV. Allegro assai"
+    }
+   ]
+  }
+ ]
+}

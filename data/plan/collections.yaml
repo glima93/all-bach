@@ -47,7 +47,7 @@ collections:
    note: "1014–1019 the six sonatas; 1020–1026 other violin works (several doubtful)"}
 - {id: gamba-sonatas, title: "Sonatas for viola da gamba and harpsichord", chapter: Chamber, bwv: ["1027-1029"], mode: chamber, native: [viola-da-gamba, cello, baroque-cello, viola], wave: 1, run: 11, status: queued,
    note: "Cello and viola versions are common: file the instrument, modern practice, not an arrangement"}
-- {id: flute-works, title: "Flute Sonatas and Partita", chapter: Chamber, bwv: ["1013", "1030-1035"], mode: chamber, native: [flute, traverso, recorder], wave: 1, run: 11, status: queued,
+- {id: flute-works, title: "Flute Sonatas and Partita", chapter: Chamber, bwv: ["1013", "1030-1035"], mode: chamber, native: [flute, traverso, recorder], wave: 1, run: 11, status: collected,
    note: "1013 is the solo partita (mode solo for that work); 1031 and 1033 doubtful"}
 - {id: chamber-trio-sonatas, title: "Trio Sonatas", chapter: Chamber, bwv: ["1036-1040"], mode: chamber, native: [ensemble], wave: 1, run: 12, status: todo,
    note: "1038 and 1039 (= gamba sonata 1027); 1036 and 1037 are spurious"}
