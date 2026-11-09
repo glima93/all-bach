@@ -1,0 +1,17 @@
+bwv: "1015"
+title: "Sonata for Violin and Harpsichord No. 2 in A major"
+key: "A major"
+collection: "Sonatas for violin and harpsichord"
+genre: chamber
+scoring: "Violin and obbligato harpsichord"
+composed: "Probably Köthen, c. 1720–23; earliest surviving source a 1725 copy largely by Johann Heinrich Bach, with later revisions in Leipzig"
+movements:
+  - "I. Dolce"
+  - "II. Allegro"
+  - "III. Andante un poco"
+  - "IV. Presto"
+notes: "The second of the six sonatas BWV 1014–1019. Its third movement is a strict canon between violin and the harpsichord's right hand over a bass of broken semiquaver chords."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Six_Sonatas_for_Violin_and_Harpsichord,_BWV_1014%E2%80%931019"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/1056036c-d127-4fd1-b5a2-67731301c62b

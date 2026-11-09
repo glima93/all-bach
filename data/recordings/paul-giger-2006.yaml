@@ -1,0 +1,28 @@
+id: paul-giger-2006
+performers:
+- name: Paul Giger
+  role: violin
+- name: Marie-Louise Dähler
+  role: harpsichord
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2006]
+  place: Propstei Sankt Gerold
+released: 2007
+original_label: null
+works:
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f926581-c5e3-42d6-8fd0-295c0639deba
+  title: Towards Silence
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6c1611e7-0e70-4355-be5f-c37388f96c93
+  recordings: [e663bc03-334f-4b90-b0c3-f63e985557d6]

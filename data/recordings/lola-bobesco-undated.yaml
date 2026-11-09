@@ -1,0 +1,30 @@
+id: lola-bobesco-undated
+performers:
+- name: Lola Bobesco
+  role: violin
+- name: Albert Guttman
+  role: piano
+instrument: violin
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1969
+original_label: null
+works:
+- {bwv: '1017', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6cc2ddde-b226-4daf-b11e-620deba7069a
+  title: Recital
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4c86d076-bf26-4de4-bdc9-aa0cda8d43ee
+  recordings: [7b5d413b-c926-45b3-874d-5a143afd911e]

@@ -1,0 +1,33 @@
+id: zuzana-ruzickova-1969
+performers:
+- name: Zuzana Růžičková
+  role: harpsichord
+- name: Josef Suk
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1969]
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6fb2f17-86f5-4dd2-a323-2ef09b875d21
+  title: The Complete Keyboard Works
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a0c08260-98d0-4d6c-848d-29c92ba0babf
+  recordings: [6905a5b3-0992-4feb-b5f1-c27789c33b1c]

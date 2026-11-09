@@ -1,0 +1,30 @@
+id: joseph-swensen-undated
+performers:
+- name: Joseph Swensen
+  role: violin
+- name: John Gibbons
+  role: harpsichord
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1014', complete: false, movements: [III. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c8d30b30-09a8-4c28-9851-64ec72054458
+  title: Bach for Relaxation
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ce34ddc0-cc30-4888-9053-078e26ff3d80
+  recordings: [b92ca9f6-c749-4070-9f72-fc1fa7cb8907]

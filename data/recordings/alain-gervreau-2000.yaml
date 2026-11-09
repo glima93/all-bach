@@ -1,0 +1,32 @@
+id: alain-gervreau-2000
+performers:
+- name: Alain Gervreau
+  role: cello
+- name: Jan-Willem Jansen
+  role: harpsichord
+- name: Hélène Schmitt
+  role: violin
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1023', complete: true}
+- {bwv: '1024', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43c4af36-f5d1-47f0-a048-6445e3e01d01
+  title: Pièces pour violon & basse continue
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 96e9dd51-6ba2-43a6-a10c-716f75e7433c
+  recordings: [01f6d52d-e41c-453d-a5e1-c389001ac1a0]

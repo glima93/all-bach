@@ -1,0 +1,17 @@
+bwv: "1018"
+title: "Sonata for Violin and Harpsichord No. 5 in F minor"
+key: "F minor"
+collection: "Sonatas for violin and harpsichord"
+genre: chamber
+scoring: "Violin and obbligato harpsichord"
+composed: "Probably Köthen, c. 1720–23; earliest surviving source a 1725 copy largely by Johann Heinrich Bach, with later revisions in Leipzig"
+movements:
+  - "I. [Largo]"
+  - "II. Allegro"
+  - "III. Adagio"
+  - "IV. Vivace"
+notes: "The fifth of the six sonatas BWV 1014–1019. Its Adagio sets demisemiquaver figures in the harpsichord's right hand against arpeggios in the left."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Six_Sonatas_for_Violin_and_Harpsichord,_BWV_1014%E2%80%931019"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/8768bb9e-fe20-4f74-92e7-af79271fd31e

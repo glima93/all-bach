@@ -1,0 +1,28 @@
+id: wanda-landowska-1944
+performers:
+- name: Wanda Landowska
+  role: harpsichord
+- name: Yehudi Menuhin
+  role: violin
+instrument: violin
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1944]
+  place: 'Victor Studio #1'
+released: 2000
+original_label: null
+works:
+- {bwv: '1016', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/27a14c8e-878e-4f58-b3a9-86e9210ef0a6
+  title: Violin Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39bba85f-e589-4a35-8388-259195fe9c5b
+  recordings: [a21f8e62-5163-4721-8654-15307672a14e, e7830e07-a999-4e0b-a0cc-e73b18ecd1c1]

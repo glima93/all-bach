@@ -1,0 +1,30 @@
+id: amandine-beyer-undated
+performers:
+- name: Amandine Beyer
+  role: violin
+- name: Pierre Hantaï
+  role: harpsichord
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1017', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0be136ea-76a7-470d-933d-db79e303ed45
+  title: Suites pour Orchestre 1 & 4
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eee9d1c8-b609-4373-97b9-48807d7d1b85
+  recordings: [60d64b4b-4b47-4ca8-835c-eaac5663b74a]

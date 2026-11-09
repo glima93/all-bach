@@ -1,0 +1,29 @@
+id: martha-argerich-2016
+performers:
+- name: Martha Argerich
+  role: piano
+- name: Tedi Papavrami
+  role: violin
+instrument: violin
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2016]
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1017', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e9f3a109-5f85-42d9-9781-e9d0a38a22ff
+  title: Live from Lugano 2016
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 3bb8b89e-5700-4d7a-aa0b-d48f8706831d
+  recordings: [9c94d214-6b78-459c-af3a-1be7f81a9d3f]

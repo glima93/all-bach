@@ -1,0 +1,34 @@
+id: ambrose-gauntlett-1961
+performers:
+- name: Ambrose Gauntlett
+  role: viola da gamba
+- name: George Malcolm
+  role: harpsichord
+- name: Yehudi Menuhin
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: 'Abbey Road Studios: Studio 1'
+released: 2016
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0bd0d893-18db-45a3-a8ad-b26b11205c0a
+  title: The Menuhin Century
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 59c90d94-68cb-4542-9643-5db119ad7845
+  recordings: [f74721c2-ac25-429f-9420-8648b2a9cf27]

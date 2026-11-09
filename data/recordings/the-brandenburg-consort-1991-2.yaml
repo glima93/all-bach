@@ -1,0 +1,29 @@
+id: the-brandenburg-consort-1991-2
+performers:
+- name: The Brandenburg Consort
+  role: orchestra
+- name: Roy Goodman
+  role: conductor
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1991]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1021', complete: false, movements: [III. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ed0a6bb4-204a-40c9-b340-03d398e68fa5
+  title: The Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22b1e838-fbd1-4b60-a4c6-5314625f1697
+  recordings: [8c7367c9-4893-4e1a-bb61-0523a8767ca8]

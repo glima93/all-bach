@@ -1,0 +1,32 @@
+id: luis-otavio-santos-1999
+performers:
+- name: Luís Otávio Santos
+  role: violin
+- name: Pieter-Jan Belder
+  role: harpsichord
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Maria Minor
+released: 1999
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f6126fc2-4580-463b-b127-9b9f9bcddf6d
+  title: Sonatas for Violin and Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 48ce8cac-7e32-464b-b75e-c114d7fbb5bb
+  recordings: [677c81dc-c7d0-4ee7-8da5-5c70b7c19907]

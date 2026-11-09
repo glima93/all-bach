@@ -1,0 +1,32 @@
+id: kenneth-gilbert-undated
+performers:
+- name: Kenneth Gilbert
+  role: harpsichord
+- name: Steven Staryk
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1021', complete: true}
+- {bwv: '1022', complete: true}
+- {bwv: '1023', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e6918c2-66c1-4a84-9f70-9d7134c753e6
+  title: Four Hundred Years of the Violin
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24dade80-0518-4ae7-b62e-cbd31489bb5d
+  recordings: [b18ad542-944b-4e3a-beed-4529b6eedaae]

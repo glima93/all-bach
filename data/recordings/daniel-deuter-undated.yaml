@@ -1,0 +1,32 @@
+id: daniel-deuter-undated
+performers:
+- name: Daniel Deuter
+  role: violin
+- name: Heike Johanna Lindner
+  role: viola da gamba
+- name: Markus Märkl
+  role: harpsichord
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1024', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9c780fa-4206-434f-8f76-99ed9edae3e4
+  title: Treasures – Chamber Music from the collection of Earl Rudolf Franz Erwein von Schönborn zu Wiesentheid
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b87872cc-a60f-4951-b120-4cb540bdaef3
+  recordings: [bb7cb34e-1c9c-4bef-989b-448ac098fc3a]

@@ -1,0 +1,29 @@
+id: william-primrose-1923
+performers:
+- name: William Primrose
+  role: violin
+- name: H.G. Templeman
+  role: piano
+instrument: violin
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1923]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1015', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8e520373-2c06-439d-a5fe-85398661a975
+  title: 'William Primrose: The Early Recordings, Violin and Viola'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52b9ebe9-bde2-4423-9b40-b0cb3ba7d933
+  recordings: [38a74793-6157-40a7-8644-d0d5b23568d0]

@@ -1,0 +1,30 @@
+id: zdenka-ostadalova-undated
+performers:
+- name: Zdenka Ostadalova
+  role: harpsichord
+- name: Fabien Roussel
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1018', complete: false, movements: [II. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/71ace859-cd38-413d-851a-050b0be5fd78
+  title: La Magie des plus beaux Adagios, Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52607cee-450d-4c72-b64c-20cebab2fd17
+  recordings: [7531d601-fe4d-49b9-b8e3-9b25652bac04]

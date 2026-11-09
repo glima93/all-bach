@@ -1,0 +1,30 @@
+id: endre-granat-1975
+performers:
+- name: Endre Granat
+  role: violin
+- name: Edith Kilbuck
+  role: harpsichord
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1975]
+  place: Evans Auditorium, Lewis & Clark College
+released: null
+original_label: null
+works:
+- {bwv: '1017', complete: false, movements: [I. Largo, II. Allegro, III. Adagio]}
+- {bwv: '1018', complete: false, movements: ['I. [Largo]', II. Allegro, III. Adagio]}
+- {bwv: '1023', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/04f0b794-8256-493d-9cff-34c2793d3319
+  title: 'Bach: Complete Works for Violin & Harpsichord 2'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ca9d37d-8a30-42a5-baaf-4f6cf1d811da
+  recordings: [474f31ae-bd04-427e-a4a8-be25a301bb00]

@@ -1,0 +1,29 @@
+id: shunske-sato-undated
+performers:
+- name: Shunske Sato
+  role: violin
+- name: Menno van Delft
+  role: harpsichord
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: 'Concertgebouw: Kleine Zaal'
+released: null
+original_label: null
+works:
+- {bwv: '1016', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/f419a501-b61b-4a95-8ccb-b6e44230ff29
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8fb4b983-6cc6-428f-87d7-639817736175
+  recordings: [f419a501-b61b-4a95-8ccb-b6e44230ff29]

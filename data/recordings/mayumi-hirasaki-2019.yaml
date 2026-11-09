@@ -1,0 +1,34 @@
+id: mayumi-hirasaki-2019
+performers:
+- name: Mayumi Hirasaki
+  role: violin
+- name: Anna Camporini
+  role: cello
+- name: Lorenzo Ghielmi
+  role: harpsichord
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1021', complete: true}
+- {bwv: '1022', complete: true}
+- {bwv: '1023', complete: true}
+- {bwv: '1024', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b9a5f590-6edf-4ee1-b3be-29c54e61deae
+  title: Sonatas for Violin and Basso Continuo
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d6963db1-5fc1-4e1a-9360-e969ca84bbef
+  recordings: [6f8d0fa8-8503-4bd4-91b1-cb3fc16c6e45, e394b50b-ebd1-4645-8e57-079b8ac11a75]

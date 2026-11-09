@@ -1,0 +1,36 @@
+id: john-holloway-1988
+performers:
+- name: John Holloway
+  role: violin
+- name: Davitt Moroney
+  role: harpsichord
+- name: Susan Sheppard
+  role: cello
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988, 1989]
+  place: Finchcocks
+released: 1999
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+- {bwv: '1021', complete: true}
+- {bwv: '1023', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2aed78bc-b946-4123-a265-2617996c61b6
+  title: The Sonatas for Violin and Keyboard
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ea0573a-f97b-45ab-8099-ea4dca87cb39
+  recordings: [ebff4be7-867a-408f-a6d8-078ca050f4a8]

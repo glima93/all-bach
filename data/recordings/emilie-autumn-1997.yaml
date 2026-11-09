@@ -1,0 +1,26 @@
+id: emilie-autumn-1997
+performers:
+- name: Emilie Autumn
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: The Asylum for Wayward Victorian Girls
+released: 2000
+original_label: null
+works:
+- {bwv: '1017', complete: false, movements: [I. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/edd3071e-a583-4481-b506-0afc917aef02
+  title: Chambermaid
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c8bc9ad3-1df2-4c9b-9cf7-cf6fc60441dc
+  recordings: [724ab3a1-eb87-4d3a-b2f3-c4fa3ba71f0f]

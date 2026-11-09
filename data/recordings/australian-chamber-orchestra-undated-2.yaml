@@ -1,0 +1,32 @@
+id: australian-chamber-orchestra-undated-2
+performers:
+- name: Australian Chamber Orchestra
+  role: orchestra
+- name: Neal Peres Da Costa
+  role: chamber organ
+- name: Richard Tognetti
+  role: conductor
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1015', complete: false, movements: [I. Dolce, III. Andante un poco]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7b770b3e-7172-409a-9df1-c2bff198d424
+  title: Bach Beethoven Brahms
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22f136e2-6007-41e2-976d-c4dec0c973bc
+  recordings: [5aa0c8d4-8dec-4fcd-b28d-fddc2aff1eef]

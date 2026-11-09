@@ -1,0 +1,26 @@
+id: trio-settecento-2008
+performers:
+- name: Trio Settecento
+  role: ensemble
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: Nichols Concert Hall
+released: 2009
+original_label: null
+works:
+- {bwv: '1023', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/13f435cb-6cea-4b52-9599-21df93f2edbd
+  title: A German Bouquet
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 999c5209-da00-4dab-b7a0-a0c25a0fc47e
+  recordings: [a8d6d504-992c-4684-8b11-5ed6f710d6f3]

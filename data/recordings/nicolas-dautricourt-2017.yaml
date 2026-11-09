@@ -1,0 +1,32 @@
+id: nicolas-dautricourt-2017
+performers:
+- name: Nicolas Dautricourt
+  role: violin
+- name: Juho Pohjonen
+  role: piano
+instrument: violin
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2017]
+  place: Salle Philharmonique de Liège
+released: 2018
+original_label: null
+works:
+- {bwv: '1014', complete: false, movements: [I. Adagio, II. Allegro, III. Andante]}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a81c856-d311-44be-b1e5-ec8b7e945795
+  title: 6 sonates pour violon & piano BWV 1014-1019
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 87c5e1a4-a6fd-4db6-a2d0-8ecde19447ee
+  recordings: [58e6afee-3930-4982-ba45-e7d5e3e20946]

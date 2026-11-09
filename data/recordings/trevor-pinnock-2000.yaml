@@ -1,0 +1,36 @@
+id: trevor-pinnock-2000
+performers:
+- name: Trevor Pinnock
+  role: harpsichord
+- name: Rachel Podger
+  role: violin
+- name: Jonathan Manson
+  role: viola da gamba
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: St Martin’s Church
+released: 2000
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+- {bwv: '1021', complete: true}
+- {bwv: '1023', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6420f3ea-ec3c-4da8-9d75-0fdd0c3355b0
+  title: The Complete Sonatas for Violin and Obbligato Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 66d97594-15fd-49b9-8359-0c014dbe8719
+  recordings: [cc69ac77-10d9-464d-b2e6-fb55bf2f07b9, f92b2c6f-0c8b-4d63-891b-88fe23125302]

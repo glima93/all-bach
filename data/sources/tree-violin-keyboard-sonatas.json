@@ -1,0 +1,316 @@
+{
+ "collection": "violin-keyboard-sonatas",
+ "taken": "2026-11-06",
+ "recordings": 1792,
+ "performances": 163,
+ "works": [
+  {
+   "bwv": "1014",
+   "id": "e3d84d65-a426-4cb2-b6f1-f00a92a82382",
+   "candidates": [
+    {
+     "id": "e3d84d65-a426-4cb2-b6f1-f00a92a82382",
+     "title": "Sonate für Violine und Klavier h-Moll, BWV 1014"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate für Violine und Klavier h-Moll, BWV 1014",
+   "key": "B minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "429684a8-4109-3e31-ae3b-556078d98052",
+     "title": "Sonate für Violine und Klavier h-Moll, BWV 1014: I. Adagio"
+    },
+    {
+     "id": "855e879a-c4bd-3e58-80e8-47dffb5680fd",
+     "title": "Sonate für Violine und Klavier h-Moll, BWV 1014: II. Allegro"
+    },
+    {
+     "id": "749d0e6a-f87d-30ae-8678-94c31ebc3279",
+     "title": "Sonate für Violine und Klavier h-Moll, BWV 1014: III. Andante"
+    },
+    {
+     "id": "b0c06789-9ea5-3f18-8a17-4063867aa436",
+     "title": "Sonate für Violine und Klavier h-Moll, BWV 1014: IV. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1015",
+   "id": "1056036c-d127-4fd1-b5a2-67731301c62b",
+   "candidates": [
+    {
+     "id": "1056036c-d127-4fd1-b5a2-67731301c62b",
+     "title": "Sonate für Violine und Klavier A-Dur, BWV 1015"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate für Violine und Klavier A-Dur, BWV 1015",
+   "key": "A major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "25570dc2-8b14-3f98-8664-c78dbe1a26a3",
+     "title": "Sonate für Violine und Klavier A-Dur, BWV 1015: I. Dolce"
+    },
+    {
+     "id": "6a2a5dc2-421e-34c3-bcef-82389c28db85",
+     "title": "Sonate für Violine und Klavier A-Dur, BWV 1015: II. Allegro"
+    },
+    {
+     "id": "6bbe740e-f6e4-3262-935f-f968707a2916",
+     "title": "Sonate für Violine und Klavier A-Dur, BWV 1015: III. Andante un poco"
+    },
+    {
+     "id": "14efb7e5-c3fd-311a-9622-4c9817199b28",
+     "title": "Sonate für Violine und Klavier A-Dur, BWV 1015: IV. Presto"
+    }
+   ]
+  },
+  {
+   "bwv": "1016",
+   "id": "0a633962-8208-4f67-8f5c-8b4277d5ca53",
+   "candidates": [
+    {
+     "id": "0a633962-8208-4f67-8f5c-8b4277d5ca53",
+     "title": "Sonate für Violine und Klavier E-Dur, BWV 1016"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate für Violine und Klavier E-Dur, BWV 1016",
+   "key": "E major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "8e8a03f4-511f-3f72-8c3d-d11cde2681d3",
+     "title": "Sonate für Violine und Klavier E-Dur, BWV 1016: I. Adagio"
+    },
+    {
+     "id": "742d8e05-f3f5-39f3-8619-ab00472d96df",
+     "title": "Sonate für Violine und Klavier E-Dur, BWV 1016: II. Allegro"
+    },
+    {
+     "id": "466845ae-a095-3e10-be64-de9dd9ec5585",
+     "title": "Sonate für Violine und Klavier E-Dur, BWV 1016: III. Adagio ma non tanto"
+    },
+    {
+     "id": "160c2bb4-1f0c-30fc-aadb-52b2da80967b",
+     "title": "Sonate für Violine und Klavier E-Dur, BWV 1016: IV. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1017",
+   "id": "c324226d-9960-4f67-a67b-062f9c2e7f9b",
+   "candidates": [
+    {
+     "id": "800024a3-8d51-47e6-a1d4-c3edbd5347e6",
+     "title": "Siciliano from Sonata no. 4, BWV 1017"
+    },
+    {
+     "id": "c324226d-9960-4f67-a67b-062f9c2e7f9b",
+     "title": "Sonate für Violine und Klavier c-Moll, BWV 1017"
+    },
+    {
+     "id": "0c884213-5b41-4f6d-869a-bedb317e008f",
+     "title": "Sonate für Violine und Klavier c-Moll, BWV 1017"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate für Violine und Klavier c-Moll, BWV 1017",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "404cd570-8a35-3b48-98ee-78b798103b38",
+     "title": "Sonate für Violine und Klavier c-Moll, BWV 1017: I. Largo"
+    },
+    {
+     "id": "38ff291d-70fb-3351-b972-2ce4bd2e17ad",
+     "title": "Sonate für Violine und Klavier c-Moll, BWV 1017: II. Allegro"
+    },
+    {
+     "id": "840125df-6d10-3a8d-97f6-d364ae9355fe",
+     "title": "Sonate für Violine und Klavier c-Moll, BWV 1017: III. Adagio"
+    },
+    {
+     "id": "883c83c2-100c-3e29-9599-c6fa2ca8101f",
+     "title": "Sonate für Violine und Klavier c-Moll, BWV 1017: IV. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1018",
+   "id": "8768bb9e-fe20-4f74-92e7-af79271fd31e",
+   "candidates": [
+    {
+     "id": "8768bb9e-fe20-4f74-92e7-af79271fd31e",
+     "title": "Sonate für Violine und Klavier f-Moll, BWV 1018"
+    },
+    {
+     "id": "24ed4820-3f1d-40e6-815b-199c21c830b5",
+     "title": "Sonate für Violine und Klavier f-Moll, BWV 1018"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate für Violine und Klavier f-Moll, BWV 1018",
+   "key": "F minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "f8c13c04-188f-3f3c-82a8-4ff96e8566c0",
+     "title": "Sonate für Violine und Klavier f-Moll, BWV 1018: I."
+    },
+    {
+     "id": "6c192a86-ea4a-3005-9b48-a553d4e2ef10",
+     "title": "Sonate für Violine und Klavier f-Moll, BWV 1018: II. Allegro"
+    },
+    {
+     "id": "484e9a7d-3a18-34be-8a40-69176682d375",
+     "title": "Sonate für Violine und Klavier f-Moll, BWV 1018: III. Adagio"
+    },
+    {
+     "id": "d901c713-9622-3afa-9c5a-7c2eb1cb2ec9",
+     "title": "Sonate für Violine und Klavier f-Moll, BWV 1018: IV. Vivace"
+    }
+   ]
+  },
+  {
+   "bwv": "1021",
+   "id": "8d7a1763-4030-45d1-bc79-bd671f5f09e6",
+   "candidates": [
+    {
+     "id": "8d7a1763-4030-45d1-bc79-bd671f5f09e6",
+     "title": "Violin Sonata in G major, BWV 1021"
+    },
+    {
+     "id": "2f2dc673-0efb-4a50-aa9b-a102d87faa6d",
+     "title": "Violin Sonata in G major, BWV 1021"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Violin Sonata in G major, BWV 1021",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "292bae46-780e-3ee0-b45e-d7d60de96a5a",
+     "title": "Violin Sonata in G major, BWV 1021: I. Adagio"
+    },
+    {
+     "id": "113ed5bc-638b-38d1-9289-754c0842c928",
+     "title": "Violin Sonata in G major, BWV 1021: II. Vivace"
+    },
+    {
+     "id": "a6790465-0002-3a69-8304-ccb0f7c5f798",
+     "title": "Violin Sonata in G major, BWV 1021: III. Largo"
+    },
+    {
+     "id": "aec2b3f2-d0c1-376c-a66b-81653506198f",
+     "title": "Violin Sonata in G major, BWV 1021: IV. Presto"
+    }
+   ]
+  },
+  {
+   "bwv": "1022",
+   "id": "cd169093-f3eb-44fd-95bc-3c93ac94f6a2",
+   "candidates": [
+    {
+     "id": "cd169093-f3eb-44fd-95bc-3c93ac94f6a2",
+     "title": "Sonate für Violine und Cembalo F-dur, BWV 1022"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate für Violine und Cembalo F-dur, BWV 1022",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "f08f85b4-50a4-3213-b31f-f9b6c18cca62",
+     "title": "Sonate für Violine und Cembalo F-dur, BWV 1022: I. [Ohne Satzbezeichnung]"
+    },
+    {
+     "id": "ccb765c5-f5f7-3833-b4b4-c092b8f1524d",
+     "title": "Sonate für Violine und Cembalo F-dur, BWV 1022: II. Allegro e presto"
+    },
+    {
+     "id": "59bd2eaa-7dd5-3e05-8add-c36015ac30e4",
+     "title": "Sonate für Violine und Cembalo F-dur, BWV 1022: III. Adagio"
+    },
+    {
+     "id": "30407687-ec75-32a2-87f4-a4b21c1f64d2",
+     "title": "Sonate für Violine und Cembalo F-dur, BWV 1022: IV. Presto"
+    }
+   ]
+  },
+  {
+   "bwv": "1023",
+   "id": "33445ee6-6a06-4bdb-acc3-b6406964ebce",
+   "candidates": [
+    {
+     "id": "33445ee6-6a06-4bdb-acc3-b6406964ebce",
+     "title": "Violin Sonata in E minor, BWV 1023"
+    },
+    {
+     "id": "8d5be00a-0e1b-436b-a22c-2a0b82cb37b0",
+     "title": "Violin Sonata in E minor, BWV 1023, P. 85"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Violin Sonata in E minor, BWV 1023",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "c42ec1a0-3d27-3288-bb24-2d31b3bb8d9c",
+     "title": "Violin Sonata in E minor, BWV 1023: I. (Preludio)"
+    },
+    {
+     "id": "c729c134-9737-3973-a915-c6caf6137c78",
+     "title": "Violin Sonata in E minor, BWV 1023: II. Adagio ma non tanto"
+    },
+    {
+     "id": "8c255486-5e2c-380a-999f-9afe8d4eb2a9",
+     "title": "Violin Sonata in E minor, BWV 1023: III. Allemande"
+    },
+    {
+     "id": "96df7f79-0dc2-3a6e-a707-02df93642b94",
+     "title": "Violin Sonata in E minor, BWV 1023: IV. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "1024",
+   "id": "f2aae37d-196a-4b6d-8230-b78e6449d3a7",
+   "candidates": [
+    {
+     "id": "f2aae37d-196a-4b6d-8230-b78e6449d3a7",
+     "title": "Sonate für Violine und Basso continuo c-moll, BWV 1024"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate für Violine und Basso continuo c-moll, BWV 1024",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "02727776-ea17-3446-99d1-d2a0de3a469b",
+     "title": "Sonate für Violine und Basso continuo c-moll, BWV 1024: I. Adagio"
+    },
+    {
+     "id": "c5519deb-14fc-3dce-8974-e0c5aeed34e6",
+     "title": "Sonate für Violine und Basso continuo c-moll, BWV 1024: II. Presto"
+    },
+    {
+     "id": "31dad102-1fd6-348a-b766-e144cbd0d152",
+     "title": "Sonate für Violine und Basso continuo c-moll, BWV 1024: III. Affettuoso"
+    },
+    {
+     "id": "c2c466e3-c0cc-39e3-9f9d-0124ac30e1d9",
+     "title": "Sonate für Violine und Basso continuo c-moll, BWV 1024: IV. Vivace"
+    }
+   ]
+  }
+ ]
+}

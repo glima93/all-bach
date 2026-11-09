@@ -1,0 +1,32 @@
+id: hendrik-bouman-1981
+performers:
+- name: Hendrik Bouman
+  role: harpsichord
+- name: Reinhard Goebel
+  role: violin
+- name: Jaap ter Linden
+  role: cello
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1981]
+  place: Plenarsaal der Akademie der Wissenschaften
+released: 1989
+original_label: null
+works:
+- {bwv: '1021', complete: true}
+- {bwv: '1023', complete: true}
+- {bwv: '1024', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/163ed43f-b04e-4481-baf9-d6bf3a0db7e4
+  title: Kammermusik
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8f402e69-606c-46f7-94fd-a20ff2c99467
+  recordings: [c96f3a19-56fd-4de0-a9bf-3dc9ed197180]

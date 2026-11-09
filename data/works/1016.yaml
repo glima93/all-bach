@@ -1,0 +1,17 @@
+bwv: "1016"
+title: "Sonata for Violin and Harpsichord No. 3 in E major"
+key: "E major"
+collection: "Sonatas for violin and harpsichord"
+genre: chamber
+scoring: "Violin and obbligato harpsichord"
+composed: "Probably Köthen, c. 1720–23; earliest surviving source a 1725 copy largely by Johann Heinrich Bach, with later revisions in Leipzig"
+movements:
+  - "I. Adagio"
+  - "II. Allegro"
+  - "III. Adagio ma non tanto"
+  - "IV. Allegro"
+notes: "The third of the six sonatas BWV 1014–1019; both fast movements are fugues shared equally among the three voices. Ferdinand David and Felix Mendelssohn performed it at the Leipzig Gewandhaus in 1838."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Six_Sonatas_for_Violin_and_Harpsichord,_BWV_1014%E2%80%931019"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/0a633962-8208-4f67-8f5c-8b4277d5ca53

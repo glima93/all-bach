@@ -1,0 +1,29 @@
+id: nadja-zwiener-2022
+performers:
+- name: Nadja Zwiener
+  role: violin
+- name: Johannes Lang
+  role: organ
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2022]
+  place: Kreuzkirche
+released: 2023
+original_label: null
+works:
+- {bwv: '1021', complete: true}
+- {bwv: '1023', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a94b87cf-cc1b-488b-8b96-3658579b1172
+  title: '1723: Bach, Bertali, Biber, Corelli, Pisendel'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 135feae0-48f9-4d4b-9658-d0b283484ec5
+  recordings: [b2582118-4be0-4d51-b62f-1199f708a598]

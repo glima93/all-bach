@@ -1,0 +1,34 @@
+id: mira-glodeanu-undated
+performers:
+- name: Mira Glodeanu
+  role: violin
+- name: Frédérick Haas
+  role: harpsichord
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a7cd42a2-56d1-44d4-a782-aaae1464c827
+  title: Clavier Sonaten mit obligater Violine
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 105fc195-f237-4be1-96a3-c0bdc1b4326e
+  recordings: [d037dcf5-f100-436e-af69-3ceaf1a771e2]

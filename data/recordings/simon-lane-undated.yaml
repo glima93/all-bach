@@ -1,0 +1,30 @@
+id: simon-lane-undated
+performers:
+- name: Simon Lane
+  role: piano
+- name: Katie Stillman
+  role: violin
+instrument: violin
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1014', complete: false, movements: [III. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9f3b308d-c43d-4664-a6d3-9e79f79be8de
+  title: 'Grade 5 Violin Exam Pieces: The Complete 2016–2019 Syllabus'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c832a372-9647-4612-9c83-c88d00f5380b
+  recordings: [5b9d6487-c892-42cb-801b-e72c503e6b85]

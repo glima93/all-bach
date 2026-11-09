@@ -1,0 +1,29 @@
+id: isaac-stern-1952
+performers:
+- name: Isaac Stern
+  role: violin
+- name: Alexander Zakin
+  role: piano
+instrument: violin
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1952, 1953]
+  place: CBS 30th Street Studio
+released: 1996
+original_label: null
+works:
+- {bwv: '1016', complete: true}
+- {bwv: '1023', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2aa1b680-8acb-48e2-b3a1-f79741d63bec
+  title: 'A Life in Music, Volume 23: Violin Sonatas'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7d9be72b-ab36-4ce1-8a2c-05bf0f7eb0b4
+  recordings: [d4e4e272-af1b-4d76-b049-f6bd5182677d]

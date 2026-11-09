@@ -1,0 +1,33 @@
+id: ambroise-aubrun-undated
+performers:
+- name: Ambroise Aubrun
+  role: violin
+- name: Mireille Podeur
+  role: harpsichord
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Abbaye de Saint-Amant-de-Boixe
+released: 2023
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3f9478cb-a50f-46ff-bdab-14b5e5206281
+  title: Sei suonate a Cembalo certato e Violino solo
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 895109c5-e56a-47e8-af91-9f268dc4524e
+  recordings: [c92cfe09-d6ea-4e79-9d4d-9b50d5c60875]

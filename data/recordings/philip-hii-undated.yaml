@@ -1,0 +1,29 @@
+id: philip-hii-undated
+performers:
+- name: Philip Hii
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1023', complete: false, movements: [II. Adagio ma non tanto, III. Allemande, IV. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d4c3ef64-61d4-41e5-8192-d21c271da82e
+  title: New Transcriptions for Guitar
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With classical guitar.
+musicbrainz:
+  artist: 4a78bd72-9a70-4a2e-91b0-772efe9009d2
+  recordings: [31e1e24e-9b07-42d8-9026-13f55fab47a4]

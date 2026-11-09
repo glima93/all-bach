@@ -1,0 +1,31 @@
+id: georg-egger-2000
+performers:
+- name: Georg Egger
+  role: violin
+- name: Ekkehard Weber
+  role: viola da gamba
+- name: Boris Kleiner
+  role: harpsichord
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: Zentralsaal
+released: 2000
+original_label: null
+works:
+- {bwv: '1021', complete: true}
+- {bwv: '1023', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55da8f94-ac72-486e-bb1e-13f2df796c84
+  title: Werke für Violine und Basso continuo, BWV 1021,1023, 1025, 1026, 1019a
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eee9154d-97b7-4708-8493-33241df067e4
+  recordings: [fc524e91-15b6-4b79-a33b-f1db5d0eae79]
