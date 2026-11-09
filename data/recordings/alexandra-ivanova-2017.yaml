@@ -1,0 +1,32 @@
+id: alexandra-ivanova-2017
+performers:
+- name: Alexandra Ivanova
+  role: harpsichord
+- name: Anaïs Chen
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Steppenwolf Studio
+released: 2018
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4535ec5c-0eec-4422-9995-80aebf837e96
+  title: Sonatas for Harpsichord and Violin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4210b39a-0142-437e-ad3e-f364735a7d97
+  recordings: [59c81229-f469-4e5e-a846-a2c5b2d134e8]

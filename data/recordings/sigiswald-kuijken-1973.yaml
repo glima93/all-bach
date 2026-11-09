@@ -1,0 +1,32 @@
+id: sigiswald-kuijken-1973
+performers:
+- name: Sigiswald Kuijken
+  role: violin
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1973]
+  place: Schloss Amerongen
+released: 1974
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c7ecee8b-55bb-418f-b0dc-8cb10a6e3fb3
+  title: Six Sonates pour Violon et Clavecin No. 1-6 Bwv 1014-1019
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8dde51e7-de48-4cfe-9904-7b8af564f2ef
+  recordings: [2317b151-acdd-4561-81b2-fe128512fd1d]

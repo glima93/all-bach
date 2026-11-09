@@ -99,6 +99,10 @@ EXCLUDE_BY_SNAPSHOT = {
     "b8ac7bbb-b8d9-479f-9005-96a1d30188ea": "Most Beautiful Music, Vol. 1 (Radio Luxembourg, de Froment): the same MusicBrainz recording is filed as their Orchestral Suites track; one track cannot be both",
     "9fa72977-1f2c-44f4-b47f-4c69423ab9db": "Aimard's Ricercar a 3 on his DG album of WTC Book I, which holds only the WTC: a fugue linked to the wrong work",
   },
+  "violin-keyboard-sonatas": {
+    "a14b8433-630f-454c-b727-92bfe3ab18e7": "Hooked on Classics 2 (Royal Philharmonic, Louis Clark): a medley track, already filed for the English Suite No. 2 Bourrées; not a performance of Sonata No. 4",
+    "6d9fe2ff-fa23-4c91-91eb-4f80bb1c5e61": "Poulet's album of the solo violin Sonatas and Partitas: two solo-violin movements linked to Sonata No. 1, which needs a keyboard",
+  },
   "harpsichord-concertos": {
     "f8df5ad3-0db2-4dc7-be48-a55397f60b20": "credited to Antonio Vivaldi (composer of the model of BWV 1065) on a Vivaldi compilation; the performers are unknown",
   },
@@ -109,6 +113,38 @@ EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "violin-keyboard-sonatas": {
+    "afcd5ff8-92ab-40c6-a9e0-a2af119ece14": ("638a6dac-6aea-4ed0-831f-381ff481b093",
+        "Höbarth's BWV 1023 on A Violino e Cembalo, the one sonata missing from the Höbarth and Häkkinen set on that release (Häkkinen's credit lost)"),
+    "0e214ff6-60ba-4298-9c45-c57aeb8d6cb6": ("1370fcbe-5e2c-4df5-9c1a-9e048eee9268",
+        "Faust and Bezuidenhout's BWV 1024 Affettuoso: same release, year and place as the rest of their BWV 1024 (cello credit missing)"),
+    "7c28b12a-5ecd-4109-8d48-6095b99483cb": ("b2487b66-640c-49fb-9634-13164d5980e8",
+        "Szeryng's Adagio of BWV 1014 on the Bach 333 box, recorded at Notre-Dame du Liban: the Szeryng and Walcha set (Walcha's credit lost)"),
+    "ab67b2d1-6e9a-492d-b193-67ba0af03986": ("4246ae83-2f09-4348-8c1f-18e69852e982",
+        "Harnoncourt and Tachezi's Andante of BWV 1014 on a Classic FM compilation: the Alice Harnoncourt, Nikolaus Harnoncourt and Tachezi set (Alice's credit lost)"),
+    "6f8d0fa8-8503-4bd4-91b1-cb3fc16c6e45": ("e394b50b-ebd1-4645-8e57-079b8ac11a75",
+        "Hirasaki and Ghielmi's BWV 1022 on the same 2019 release as their continuo sonatas with Camporini: one set"),
+    "2e008111-50c0-4945-bb26-263f2c670492": ("076c5943-f196-4439-b345-a8edf1319b28",
+        "Manze and Egarr's Violin Sonatas (1999, St George's Bristol): one set, ter Linden added for some sonatas"),
+    "1385e8b7-6435-477c-b454-51a0f34e169c": ("033a0c4e-5c54-4e8e-b642-593775e784af",
+        "Schmid and Spiri's 2000 set (Kalksburg), Hess added on cello for BWV 1021 and 1023: one release"),
+    "2ebb8fb5-0796-4a0f-83c9-cf947959ad7c": ("537f97b2-b8eb-4719-a37a-ffcef83d2bcf",
+        "Blumenstock and Butt's Violin Sonatas (Skywalker Sound, 1991-92): BWV 1021 with Le Guin on the same release"),
+    "b4f6245b-6391-4fb4-8e28-ed899ebd04d9": ("537f97b2-b8eb-4719-a37a-ffcef83d2bcf",
+        "Blumenstock and Butt's Violin Sonatas (Skywalker Sound, 1991-92): BWV 1023 with Lehning on the same release"),
+    "ad201ba9-3be1-4113-9b3a-83b64e6c0b4d": ("52ad3974-36c6-4780-8709-c700aa3830d5",
+        "Wallfisch and Nicholson's 1996 set (St Michael's Church), Tunnicliffe added on cello for the continuo sonatas: one release"),
+    "f92b2c6f-0c8b-4d63-891b-88fe23125302": ("cc69ac77-10d9-464d-b2e6-fb55bf2f07b9",
+        "Podger and Pinnock's complete sonatas (2000, St Martin's Church), Manson added on gamba for BWV 1021 and 1023: one release"),
+    "e5590383-c0c9-4595-a31a-bceb299e2097": ("404789fe-d9d5-4c5f-a272-cc4da74b72d6",
+        "Monosoff and Weaver's sonatas, Davidoff added on gamba for the two continuo sonatas: one release"),
+    "a272515b-4650-4cce-8112-02b1ed02766f": ("ab59ee71-5bd7-4251-905f-2a5455e987d8",
+        "Grumiaux and Jaccottet's Sonatas BWV 1014-1023 (1978-80), Mermoud added on cello for BWV 1021 and 1023: one release"),
+    "df29c099-3d7d-4b0e-9ae5-07db006b8c7b": ("91735c8e-a4d9-4ca6-a78d-3a50994408d0",
+        "Gould and Laredo's Sonata No. 4: an undated track of their 1975-76 Columbia set, on the same release"),
+    "e7830e07-a999-4e0b-a0cc-e73b18ecd1c1": ("a21f8e62-5163-4721-8654-15307672a14e",
+        "Landowska's Sonata No. 3 on The Piano Masters compilation (credited as piano): her 1944 recording with Menuhin"),
+  },
   "musical-offering": {
     "f8511c55-7e7c-4193-b463-b588e3181560": ("06ab6365-e351-4f6f-a0a6-ade42d5a2821",
         "the Swingle Singers and the Modern Jazz Quartet's 1966 Ricercar (Place Vendôme), reissued on Compact Jazz"),
@@ -159,6 +195,94 @@ NATIVE_EXTRA_BY_SNAPSHOT = {
 # Facts the snapshot gets wrong or leaves out for one row, per snapshot: representative recording ID ->
 # fields to set, with the reason. Fix upstream in MusicBrainz too, then remove the entry here.
 OVERRIDE_BY_SNAPSHOT = {
+  "violin-keyboard-sonatas": {
+    "8c7367c9-4893-4e1a-bb61-0523a8767ca8": ({"movements": ["1021:2"]},
+        "the Brandenburg Consort play the Largo of BWV 1021 as the slow movement of Brandenburg No. 3 (Hyperion's track list); MusicBrainz links the whole sonata"),
+    "c8e37a86-2005-4c6a-ab59-5614bcd401f4": ({"performers": [{"name": "Leonid Kogan", "role": "violin"}, {"name": "Vladimir Yampolsky", "role": "piano"}]},
+        "Kogan and Yampolsky: the roles are credited in Cyrillic, so no name matches its role"),
+    "6b6201d5-8044-49b7-83f3-9999dceb1a85": ({"performers": [{"name": "Marina Kozolupova", "role": "violin"}, {"name": "Maria Yudina", "role": "piano"}]},
+        "Kozolupova and Yudina: the roles are credited in Cyrillic, so no name matches its role"),
+    "b2b69247-79af-4d66-a810-faa1315c257b": ({"performers": [{"name": "David Oistrakh", "role": "violin"}, {"name": "Lev Oborin", "role": "piano"}]},
+        "Oistrakh and Oborin: the roles are credited in Cyrillic, so no name matches its role"),
+    "81c7b869-40a8-4dc6-b406-2529c5231f09": ({"performers": [{"name": "Igor Oistrakh", "role": "violin"}, {"name": "Natalia Zertsalova", "role": "harpsichord"}]},
+        "Igor Oistrakh and Zertsalova: the roles are credited in Cyrillic, so no name matches its role"),
+    "a46cb46b-acb8-47c6-b9d4-c13319fc1d4f": ({"performers": [{"name": "Janine Jansen", "role": "violin"}, {"name": "Jan Jansen", "role": "harpsichord"}]},
+        "Jan Jansen is credited on harpsichord for the sonatas but missing from the track credit"),
+    "f419a501-b61b-4a95-8ccb-b6e44230ff29": ({"performers": [{"name": "Shunske Sato", "role": "violin"}, {"name": "Menno van Delft", "role": "harpsichord"}], "performance_practice": "historical"},
+        "Sato and van Delft (Netherlands Bach Society): baroque violin and harpsichord; no credits in MusicBrainz"),
+    "a6789016-4a33-4dc5-acc5-8a513e014cde": ({"instrument": "violin"},
+        "David Oistrakh, violinist; no instrument credit"),
+    "e2cca82a-2691-460d-a1d8-629f1784d4a0": ({"instrument": "violin"},
+        "Emmanuelle Dauvin, violinist (Pièces pour violon et basse); no instrument credit"),
+    "e59754ce-912b-4cc1-a784-44d57d93d85b": ({"instrument": "recorder", "arrangement": True},
+        "Horacio Franco, recorder player, on a Bach and Beatles crossover album"),
+    "82e44550-6e9e-4888-a7c4-5af471561aa5": ({"instrument": "other", "arrangement": True},
+        "Per Arne Glorvigen, bandoneon"),
+    "e9459ec6-9373-4b13-81df-c3c2f8391163": ({"arrangement": True},
+        "Lara St. John with Langlamet on harp in place of the harpsichord"),
+    "4246ae83-2f09-4348-8c1f-18e69852e982": ({"performance_practice": "historical"},
+        "Alice and Nikolaus Harnoncourt and Tachezi: period instruments"),
+    "076c5943-f196-4439-b345-a8edf1319b28": ({"performance_practice": "historical"},
+        "Manze, Egarr and ter Linden: period instruments"),
+    "0b8a43e6-2824-4402-9b46-6194789bd51e": ({"performance_practice": "historical"},
+        "Huggett and Koopman: period instruments"),
+    "b0bf54af-4786-4e72-89a4-b109cbcf2b69": ({"performance_practice": "historical"},
+        "Huggett, Cunningham and Meyerson: period instruments"),
+    "ebff4be7-867a-408f-a6d8-078ca050f4a8": ({"performance_practice": "historical"},
+        "Holloway, Moroney and Sheppard: period instruments"),
+    "cc69ac77-10d9-464d-b2e6-fb55bf2f07b9": ({"performance_practice": "historical"},
+        "Podger, Pinnock and Manson: period instruments"),
+    "60d64b4b-4b47-4ca8-835c-eaac5663b74a": ({"performance_practice": "historical"},
+        "Beyer and Hantaï: period instruments"),
+    "ff302624-4fe7-49f7-bacd-e239ee8c43bb": ({"performance_practice": "historical"},
+        "Banchini and Bötticher: period instruments"),
+    "4acd0909-3344-484a-a9ae-78447d809250": ({"performance_practice": "historical"},
+        "Goebel and Hill: period instruments"),
+    "c96f3a19-56fd-4de0-a9bf-3dc9ed197180": ({"performance_practice": "historical"},
+        "Goebel, Bouman and ter Linden: period instruments"),
+    "165a948b-0152-42b6-8209-55c57089d17a": ({"performance_practice": "historical"},
+        "Terakado and Bonizzoni: period instruments"),
+    "1681abc3-e1f7-46bf-bcdd-98e01902f936": ({"performance_practice": "historical"},
+        "Terakado and Bonizzoni: period instruments"),
+    "9552b96d-6531-49c5-8ff9-7004c9c84d5e": ({"performance_practice": "historical"},
+        "Terakado and Henstra: period instruments"),
+    "52ad3974-36c6-4780-8709-c700aa3830d5": ({"performance_practice": "historical"},
+        "Wallfisch, Nicholson and Tunnicliffe: period instruments"),
+    "19f703d8-bc01-4765-8c33-ad23141c969a": ({"performance_practice": "historical"},
+        "van Dael and van Asperen: period instruments"),
+    "c536fd11-4765-4ddb-9dc4-d6b6cf781fc8": ({"performance_practice": "historical"},
+        "Comberti and Tilney: period instruments"),
+    "5761b409-ba05-467f-85e0-2acbca311d3e": ({"performance_practice": "historical"},
+        "Biondi and Alessandrini: period instruments"),
+    "04e08ac8-ef35-4068-b29a-368f41b9cad0": ({"performance_practice": "historical"},
+        "Carmignola and Marcon: period instruments"),
+    "3a42af2f-df54-4616-ba8d-1a130a39b18a": ({"performance_practice": "historical"},
+        "Schröder and Ingólfsdóttir: period instruments"),
+    "7d66126e-f468-456b-a53c-ae2e1412839d": ({"performance_practice": "historical"},
+        "Valetti and Frisch: period instruments"),
+    "2ae987e2-5467-4f0f-98de-4225f39be90f": ({"performance_practice": "historical"},
+        "Malgoire and Rannou: period instruments"),
+    "01f6d52d-e41c-453d-a5e1-c389001ac1a0": ({"performance_practice": "historical"},
+        "Schmitt, Jansen and Gervreau: period instruments"),
+    "677c81dc-c7d0-4ee7-8da5-5c70b7c19907": ({"performance_practice": "historical"},
+        "Otávio Santos and Belder: period instruments"),
+    "609a7672-77ed-4728-8f12-449f050b2c3e": ({"performance_practice": "historical"},
+        "Catherine Manson and Koopman: period instruments"),
+    "4c48c518-c434-4861-9676-af93fa53e0ec": ({"performance_practice": "historical"},
+        "Lucy Russell and Butt: period instruments"),
+    "e724acc5-c1b5-49a1-8152-156fd14627bf": ({"performance_practice": "historical"},
+        "Schayegh and Halubek: period instruments"),
+    "f2c85d4c-149f-4003-975d-cf99382d8128": ({"performance_practice": "historical"},
+        "Christine Busch and Johannsen: period instruments"),
+    "edb03a39-b17d-4ca6-b335-32e8a0e29d38": ({"performance_practice": "historical"},
+        "Siranossian, Máté and García Alarcón: period instruments"),
+    "d037dcf5-f100-436e-af69-3ceaf1a771e2": ({"performance_practice": "historical"},
+        "Glodeanu and Haas: period instruments"),
+    "e394b50b-ebd1-4645-8e57-079b8ac11a75": ({"performance_practice": "historical"},
+        "Hirasaki, Ghielmi and Camporini: period instruments"),
+    "a8d6d504-992c-4684-8b11-5ed6f710d6f3": ({"performance_practice": "historical"},
+        "Trio Settecento (Rachel Barton Pine on baroque violin): period instruments"),
+  },
   "musical-offering": {
     "6bd83dce-d70a-4916-a01e-9cee43b5a3e1": ({"arrangement": True}, "Chailly and the Concertgebouw play the Ricercar a 6 in Webern's orchestration"),
     "8056e03d-1333-4b61-bd28-1744c054bb73": ({"instrument": "ensemble"}, "the Munich Instrumental Ensemble is a group; MusicBrainz gives it no type"),
@@ -303,7 +427,8 @@ ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone?)?\b|swingle|jazz|louss
                             r"loeki|seldom sene|baby einstein|babies|sweet little band|pink mice|\bthe nice\b|"
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
-                            r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi|alperin|dellarole|allhoff|joachim k.hn", re.I)
+                            r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi|alperin|dellarole|allhoff|joachim k.hn|"
+                            r"glorvigen|horacio franco|mehmari", re.I)
 # In orchestral works only: names of groups that are not orchestras, so play the music arranged.
 ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
                                   r"trumpet ensemble|brass|\btrio\b", re.I)
@@ -318,6 +443,8 @@ PERIOD_RELEASE = re.compile(r"(antique|period|original) instruments", re.I)
 KEYBOARD_SOLO = re.compile(r"^(\d+ )?harpsichords?\b", re.I)
 # In a keyboard concerto, melody soloists that mean a reconstruction for the lost original instrument.
 RECONSTRUCTED_SOLO = re.compile(r"violin|oboe|flute|trumpet", re.I)
+# Chamber mode: credits for a solo instrument the schema has no name for (filed as "other").
+CHAMBER_OTHER_SOLO = re.compile(r"\bharp\b|pardessus|bandone", re.I)
 # Credits MusicBrainz lists among instruments that name no instrument ("solo" from "solo piano" credits).
 NOT_INSTRUMENTS = {"solo"}
 # Performer names that are groups even when MusicBrainz gives no artist type.
@@ -326,7 +453,7 @@ GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|solois
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
                                r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki|dangerous liaisons|פסקול|motion picture|movies go baroque|bach minimaliste|"
-                               r"concertos? for recorder|bachbusters|production music|bedtime|majors for minors|f.r inl.rning|classical background|サウンドトラック", re.I)
+                               r"concertos? for recorder|bachbusters|exam pieces|production music|bedtime|majors for minors|f.r inl.rning|classical background|サウンドトラック", re.I)
 
 # Open-score works (mode "open", the Art of Fugue): keyboards, strings, viols and orchestra are native (plan note);
 # winds, brass, saxophones, recorders, guitars and crossover groups play it arranged. Credits, then group names.
@@ -613,16 +740,26 @@ def chamber_of(perf: dict, lead: list[str]) -> tuple[str, str, bool, list[str]]:
     instrument, not as an arrangement; keyboard and other continuo credits alone don't name the solo part.
     """
     arranged = arranged_credits(perf)
-    if arranged or ARRANGED_NAMES.search(" ".join(perf["names"])):
-        return ("ensemble" if is_group(perf) else INSTRUMENTS.get(arranged[0].lower(), "other") if arranged else "unknown",
-                "unknown", True, arranged)
     mapped = [INSTRUMENTS.get(i.lower(), "other") for i in perf["ins"]]
+    release = " ".join(r["title"] for r in perf["releases"])
+    if arranged or ARRANGED_NAMES.search(" ".join(perf["names"])) or ARRANGED_RELEASES.search(release):
+        # The solo part on its own instrument with an arranged accompaniment (violin with guitar continuo) is
+        # filed under the solo instrument.
+        played = next((m for m in mapped if m in lead), None)
+        return (played or ("ensemble" if is_group(perf) else INSTRUMENTS.get(arranged[0].lower(), "other")
+                           if arranged else "unknown"), "unknown", True, arranged)
     if lead == ["ensemble"]:
         main = "ensemble"
     else:
         main = next((m for m in mapped if m in lead), None) \
             or next((m for m in mapped if m not in CONTINUO and m != "other"), None) \
+            or ("other" if any(CHAMBER_OTHER_SOLO.search(i) for i in perf["ins"]) else None) \
             or (lead[0] if perf["ins"] or len(perf["names"]) > 1 else "unknown")
+    if main not in lead and main not in ("unknown", "ensemble"):
+        # Any instrument outside the solo part's family (a flute or recorder in a violin sonata, a violoncello
+        # piccolo, a harp): an arrangement.
+        return main, "unknown", True, [i for i in perf["ins"]
+                                       if INSTRUMENTS.get(i.lower(), "other") not in {*lead, *CONTINUO}]
     practice = ("historical" if main in HISTORICAL_LEAD or period_group(perf)
                 else "modern" if "piano" in mapped else "unknown")
     return main, practice, False, []
@@ -654,6 +791,8 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
     spare = [k for k in roles if k not in {n.lower() for n in perf["names"]} | set(perf["names"])]
     for i, name in enumerate(perf["names"]):
         role = roles.get(name.lower()) or roles.get(name)
+        if role in NOT_INSTRUMENTS:
+            role = None  # "solo": the instrument is named below
         if not role and len(lost) == 1 and len(spare) == 1:
             role = roles[spare[0]]
         if not role and i < len(types) and types[i] in TYPE_ROLE:
@@ -839,6 +978,14 @@ def main(snapshot: str) -> int:
     for extra, (into, _) in joins.items():
         if extra in by_rep and into in by_rep:
             a, b = by_rep[into], by_rep.pop(extra)
+            # Players heard only on the folded-in row (a cellist added for the continuo sonatas) join the set.
+            for i, (name, aid) in enumerate(zip(b["names"], b["ids"])):
+                if aid not in a["ids"]:
+                    a["names"], a["ids"] = a["names"] + [name], a["ids"] + [aid]
+                    if len(a["types"]) == len(a["ids"]) - 1 and i < len(b["types"]):
+                        a["types"] = a["types"] + [b["types"][i]]
+            a["roles"] = {**b["roles"], **a["roles"]}
+            a["ins"] = a["ins"] + [i for i in b["ins"] if i not in a["ins"]]
             a["mv"] = sorted(set(a["mv"]) | set(b["mv"]))
             a["years"] = sorted(set(a["years"]) | set(b["years"]))
             a["places"] = list(dict.fromkeys(a["places"] + b["places"]))
@@ -879,6 +1026,8 @@ def main(snapshot: str) -> int:
                     new["performers"][0]["role"] = fix["instrument"]
             if "performance_practice" in fix:
                 new["performance_practice"] = fix["performance_practice"]
+            if "movements" in fix:  # the movements the recording actually plays, as "<bwv>:<index>"
+                new["works"] = works_block({**perf, "mv": fix["movements"]}, bwvs, moves)
             if "arrangement" in fix:
                 new["arrangement"] = fix["arrangement"]
                 if not fix["arrangement"]:

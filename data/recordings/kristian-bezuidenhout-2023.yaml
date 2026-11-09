@@ -1,0 +1,32 @@
+id: kristian-bezuidenhout-2023
+performers:
+- name: Kristian Bezuidenhout
+  role: harpsichord
+- name: Isabelle Faust
+  role: violin
+- name: Kristin von der Goltz
+  role: cello
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2023]
+  place: Doopsgezinde Gemeente
+released: 2025
+original_label: null
+works:
+- {bwv: '1021', complete: true}
+- {bwv: '1023', complete: false, movements: [II. Adagio ma non tanto, III. Allemande, IV. Gigue]}
+- {bwv: '1024', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1d9a3a1c-e18b-4319-ba40-6c2059468f12
+  title: Sonatas for Violin and Continuo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49fba3f8-644c-4bb4-9ff3-a1a61bd11844
+  recordings: [0e214ff6-60ba-4298-9c45-c57aeb8d6cb6, 1370fcbe-5e2c-4df5-9c1a-9e048eee9268]

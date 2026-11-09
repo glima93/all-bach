@@ -1,0 +1,30 @@
+id: ryo-terakado-2022
+performers:
+- name: Ryo Terakado
+  role: violin
+- name: Fabio Bonizzoni
+  role: harpsichord
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2022]
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0c0b4927-0995-4111-9c94-17eeb8e95be0
+  title: The Sonatas for Violin and Cembalo obbligato, Vol. 2
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8484d107-7ba5-45f5-9ec6-8ade146e5f80
+  recordings: [1681abc3-e1f7-46bf-bcdd-98e01902f936]

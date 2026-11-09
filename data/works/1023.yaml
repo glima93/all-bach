@@ -1,0 +1,17 @@
+bwv: "1023"
+title: "Violin Sonata in E minor"
+key: "E minor"
+collection: "Sonatas for violin and harpsichord"
+genre: chamber
+scoring: "Violin and continuo"
+composed: "Probably Weimar, c. 1714–17; survives only in a Dresden copy made around 1730 by Johann Gottfried Grundig"
+movements:
+  - "I. (Preludio)"
+  - "II. Adagio ma non tanto"
+  - "III. Allemande"
+  - "IV. Gigue"
+notes: "The copy originally named only \"Sig.r Bach\", with \"J. S. Bach\" added by another hand, but current research has not ruled out Johann Sebastian's authorship and it is generally accepted."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_chamber_music_works_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/33445ee6-6a06-4bdb-acc3-b6406964ebce

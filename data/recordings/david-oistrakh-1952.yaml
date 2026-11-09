@@ -1,0 +1,29 @@
+id: david-oistrakh-1952
+performers:
+- name: David Oistrakh
+  role: violin
+- name: Lev Oborin
+  role: piano
+instrument: violin
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1952]
+  place: null
+released: 1975
+original_label: null
+works:
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9b8ea64f-fbd3-4526-bee2-97c06d6da0e9
+  title: 'Historic Russian Archives: David Oistrakh: Chamber Music Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 67d957a2-8dc8-4036-bb2e-c00946f6cac3
+  recordings: [b2b69247-79af-4d66-a810-faa1315c257b]

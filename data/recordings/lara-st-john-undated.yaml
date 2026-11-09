@@ -1,0 +1,31 @@
+id: lara-st-john-undated
+performers:
+- name: Lara St. John
+  role: violin
+- name: Marie‐Pierre Langlamet
+  role: harp
+instrument: violin
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1016', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/540e40f4-adfe-4812-b2d0-0a7294394338
+  title: Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a05b33fd-c464-440c-8ebc-83fa84e4620d
+  recordings: [e9459ec6-9373-4b13-81df-c3c2f8391163]

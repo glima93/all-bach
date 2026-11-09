@@ -1,0 +1,32 @@
+id: chouchane-siranossian-2020
+performers:
+- name: Chouchane Siranossian
+  role: violin
+- name: Balázs Máté
+  role: performer
+- name: Leonardo García Alarcón
+  role: harpsichord
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Opéra de Dijon
+released: 2021
+original_label: null
+works:
+- {bwv: '1021', complete: true}
+- {bwv: '1023', complete: true}
+- {bwv: '1024', complete: false, movements: [I. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/45db0421-8a95-4ae6-9dca-455c2884cf79
+  title: Bach Before Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b56643d-085f-40f1-b60d-d65780305c54
+  recordings: [edb03a39-b17d-4ca6-b335-32e8a0e29d38]

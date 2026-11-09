@@ -1,0 +1,17 @@
+bwv: "1024"
+title: "Violin Sonata in C minor"
+key: "C minor"
+collection: "Sonatas for violin and harpsichord"
+genre: chamber
+scoring: "Violin and continuo"
+composed: "Date unknown; survives in a manuscript in Dresden"
+movements:
+  - "I. Adagio"
+  - "II. Presto"
+  - "III. Affettuoso"
+  - "IV. Vivace"
+notes: "Of doubtful authorship; it has been attributed to Johann Georg Pisendel, the Dresden concertmaster and a friend of Bach."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_chamber_music_works_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f2aae37d-196a-4b6d-8230-b78e6449d3a7

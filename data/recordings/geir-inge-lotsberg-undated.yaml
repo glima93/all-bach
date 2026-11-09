@@ -1,0 +1,34 @@
+id: geir-inge-lotsberg-undated
+performers:
+- name: Geir Inge Lotsberg
+  role: violin
+- name: Kåre Nordstoga
+  role: organ
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9a661af3-2e02-4563-8f96-542071d551d6
+  title: Sonatas BWV 1014–1019, revisited
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 686a7cf7-af9f-4815-8c8d-236f1542351f
+  recordings: [de4c7541-65d2-42df-a84e-6bd2a900f4c8]

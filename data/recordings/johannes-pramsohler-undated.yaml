@@ -1,0 +1,30 @@
+id: johannes-pramsohler-undated
+performers:
+- name: Johannes Pramsohler
+  role: violin
+- name: Philippe Grisvard
+  role: harpsichord
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1024', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7da6e832-9bf3-4ef6-927e-a30a0fedb9ed
+  title: Bach & Entourage
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c0514f34-1672-4f00-bad9-0c38e6f33316
+  recordings: [ed056ae9-d653-4750-bd9c-4e0a000f7fbe]

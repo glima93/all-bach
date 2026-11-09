@@ -1,0 +1,28 @@
+id: emily-webb-undated-3
+performers:
+- name: Emily Webb
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f83ce54-82f9-4305-a8ea-191f3e32b890
+  title: 'Violin Sonata in F minor, BWV 1018: Senza indicazione'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2302385c-65e9-48bc-be39-88fa1a0504e5
+  recordings: [388ff973-ab5e-4b3e-8b8d-34d7096c0af3]

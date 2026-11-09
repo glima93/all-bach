@@ -1,0 +1,31 @@
+id: philomusica-of-london-1959-2
+performers:
+- name: Philomusica of London
+  role: orchestra
+- name: Granville Jones
+  role: violin
+- name: Thurston Dart
+  role: conductor
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959]
+  place: null
+released: 1977
+original_label: null
+works:
+- {bwv: '1021', complete: false, movements: [III. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9cb24150-492a-4e5f-b66a-92e243831743
+  title: The Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e36486b6-2dc8-406c-bed2-4e5081b4ddf6
+  recordings: [905a754a-bc0e-4382-8389-bd95eb0f5cf6]

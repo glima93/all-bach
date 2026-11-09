@@ -1,0 +1,32 @@
+id: herbert-hoffmann-undated
+performers:
+- name: Herbert Hoffmann
+  role: harpsichord
+- name: Alexander Molzahn
+  role: cello
+- name: Manoug Parikian
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1960
+original_label: null
+works:
+- {bwv: '1023', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/10d23eb2-7818-44ed-b0c6-37e868b5ec37
+  title: Concertos de Violon N°1 en la Mineur & N°2 en Mi Majeur
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eaedf052-4339-4fbc-834d-7c2094555d27
+  recordings: [e55e424d-9950-4e30-b157-c755e2dea771]

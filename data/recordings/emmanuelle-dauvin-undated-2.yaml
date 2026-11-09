@@ -1,0 +1,28 @@
+id: emmanuelle-dauvin-undated-2
+performers:
+- name: Emmanuelle Dauvin
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1023', complete: false, movements: [I. (Preludio), II. Adagio ma non tanto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4e6dc730-0a4b-469e-a151-9868af12e086
+  title: 'OVNI Baroque: Pièces pour violon et basse'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9927f983-b86d-4e09-9615-dbeed654d06a
+  recordings: [e2cca82a-2691-460d-a1d8-629f1784d4a0]

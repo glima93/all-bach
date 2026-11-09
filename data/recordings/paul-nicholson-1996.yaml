@@ -1,0 +1,37 @@
+id: paul-nicholson-1996
+performers:
+- name: Paul Nicholson
+  role: harpsichord
+- name: Elizabeth Wallfisch
+  role: violin
+- name: Richard Tunnicliffe
+  role: cello
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: St Michael’s Church
+released: 1998
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+- {bwv: '1021', complete: true}
+- {bwv: '1023', complete: true}
+- {bwv: '1024', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/db08dce2-8ecd-4e28-922f-6237c67b9317
+  title: Sonatas for Violin and Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ad82c0c-5a2f-48d7-851d-88842cc9951e
+  recordings: [52ad3974-36c6-4780-8709-c700aa3830d5, ad201ba9-3be1-4113-9b3a-83b64e6c0b4d]

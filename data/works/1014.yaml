@@ -1,0 +1,17 @@
+bwv: "1014"
+title: "Sonata for Violin and Harpsichord No. 1 in B minor"
+key: "B minor"
+collection: "Sonatas for violin and harpsichord"
+genre: chamber
+scoring: "Violin and obbligato harpsichord"
+composed: "Probably Köthen, c. 1720–23; earliest surviving source a 1725 copy largely by Johann Heinrich Bach, with later revisions in Leipzig"
+movements:
+  - "I. Adagio"
+  - "II. Allegro"
+  - "III. Andante"
+  - "IV. Allegro"
+notes: "The first of the six sonatas BWV 1014–1019, in which the harpsichord plays a fully written-out obbligato part rather than a figured-bass accompaniment, making the works effectively trios for two upper voices and bass. The closing Allegro is a fugue whose subject is inverted in the second half."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Six_Sonatas_for_Violin_and_Harpsichord,_BWV_1014%E2%80%931019"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e3d84d65-a426-4cb2-b6f1-f00a92a82382

@@ -1,0 +1,29 @@
+id: edward-witsenburg-undated
+performers:
+- name: Edward Witsenburg
+  role: harp
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1018', complete: false, movements: ['I. [Largo]']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0ef72bc1-24e4-4162-90cc-87a4d13d78d9
+  title: Harp Music From Six Centuries
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on harp.
+musicbrainz:
+  artist: b5af596a-dc2f-4936-9129-a7a0649e3d19
+  recordings: [fc14cb06-a23e-4327-bc83-acf7d906ac34]

@@ -1,0 +1,33 @@
+id: jaap-schroder-undated
+performers:
+- name: Jaap Schröder
+  role: violin
+- name: Helga Ingólfsdóttir
+  role: harpsichord
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Skálholtskirkja
+released: 2000
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: false, movements: [I. Dolce, II. Allegro, III. Andante un poco]}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c6960d3-3ef2-4cca-b8e2-188059c731b8
+  title: Sónötur fyrir fiðlu og sembal, BWV 1014–1019
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b69c8f14-4ef0-47ab-8c27-96ec6f711c8d
+  recordings: [3a42af2f-df54-4616-ba8d-1a130a39b18a]

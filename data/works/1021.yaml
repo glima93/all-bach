@@ -1,0 +1,17 @@
+bwv: "1021"
+title: "Violin Sonata in G major"
+key: "G major"
+collection: "Sonatas for violin and harpsichord"
+genre: chamber
+scoring: "Violin and continuo"
+composed: "Leipzig; survives only in a copy by Anna Magdalena Bach, c. 1732–33"
+movements:
+  - "I. Adagio"
+  - "II. Vivace"
+  - "III. Largo"
+  - "IV. Presto"
+notes: "The headings and figured bass in the copy are thought to be in Bach's own hand. The same bass line underlies the Trio Sonata BWV 1038 and the Violin Sonata BWV 1022, both of doubtful authorship."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_chamber_music_works_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/8d7a1763-4030-45d1-bc79-bd671f5f09e6

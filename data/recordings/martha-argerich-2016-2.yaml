@@ -1,0 +1,28 @@
+id: martha-argerich-2016-2
+performers:
+- name: Martha Argerich
+  role: piano
+- name: Itzhak Perlman
+  role: violin
+instrument: violin
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2016]
+  place: Salle Colonne
+released: 2016
+original_label: null
+works:
+- {bwv: '1017', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9241ca89-4b64-4873-bd71-c23a5c00a201
+  title: Schumann, Bach, Brahms
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bb8b89e-5700-4d7a-aa0b-d48f8706831d
+  recordings: [ed733a07-eb3e-40bb-a445-8f732fe9a3c5]

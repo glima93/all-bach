@@ -1,0 +1,31 @@
+id: per-arne-glorvigen-undated-2
+performers:
+- name: Per Arne Glorvigen
+  role: performer
+- name: Sveinung Lillebjerka
+  role: performer
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1018', complete: false, movements: [III. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aec4d15f-0236-41cd-bc7a-f6a15d591639
+  title: Virgin and Whore
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3e95fa95-a937-442f-8bb9-8dfdc8afd65b
+  recordings: [82e44550-6e9e-4888-a7c4-5af471561aa5]

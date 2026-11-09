@@ -1,0 +1,32 @@
+id: micaela-comberti-2000
+performers:
+- name: Micaela Comberti
+  role: violin
+- name: Colin Tilney
+  role: harpsichord
+instrument: violin
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Holy Trinity
+released: 2001
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bde69fe8-ceda-48d0-9324-221584c14f95
+  title: The Six Sonatas for Violin & Harpsichord, Volume One
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cf3a1320-ff7b-41f5-8983-24ee7d3c23c2
+  recordings: [c536fd11-4765-4ddb-9dc4-d6b6cf781fc8]

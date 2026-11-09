@@ -1,0 +1,34 @@
+id: rahel-rilling-undated
+performers:
+- name: Rahel Rilling
+  role: violin
+- name: Johannes Roloff
+  role: piano
+instrument: violin
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1014', complete: true}
+- {bwv: '1015', complete: true}
+- {bwv: '1016', complete: true}
+- {bwv: '1017', complete: true}
+- {bwv: '1018', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c7d7acc-a010-4508-931f-41bb28fd6cd4
+  title: Pure Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 88112a4e-95bf-4e48-a599-d84506395595
+  recordings: [aa16e664-dceb-4c01-ae03-3c1e56f53dc6]
