@@ -1,0 +1,29 @@
+id: sebastian-pachel-undated
+performers:
+- name: Sebastian Pachel
+  role: pan flute
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1013', complete: false, movements: [III. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b775eae5-5d62-498e-8475-398c2a87bea4
+  title: Pan Flute and Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on pan flute.
+musicbrainz:
+  artist: 37bfbb93-dd53-4be9-96a5-b70406d0b53d
+  recordings: [5d42369d-9196-423a-9e51-6bdb31a8d38b]

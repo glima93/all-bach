@@ -1,0 +1,26 @@
+id: jean-pierre-rampal-1985
+performers:
+- name: Jean‐Pierre Rampal
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985]
+  place: Église Notre‐Dame du Liban
+released: 1985
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/21ca6fbe-43d1-4564-b730-8a21851cd7d5
+  title: Sonatas for Flute / Partita for Solo Flute
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4deb8a6c-38f1-47d6-9e75-ada1add9dd65
+  recordings: [602bce36-25e1-4404-9800-0edd4308f5fb]

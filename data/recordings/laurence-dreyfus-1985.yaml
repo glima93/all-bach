@@ -1,0 +1,29 @@
+id: laurence-dreyfus-1985
+performers:
+- name: Laurence Dreyfus
+  role: viola da gamba
+- name: Ketil Haugsand
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1985]
+  place: Gamle Aker kirke
+released: 1986
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f31ba165-3c7a-4159-b589-06ad0c2a60e0
+  title: Sonatas for Viola da gamba and Harpsichord, BWV 1027-1029
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7c6adbd3-ab3a-4348-a0aa-760cd3dcb974
+  recordings: [6dbb21ea-2a00-4fbc-9dbe-212cd3114a4b]

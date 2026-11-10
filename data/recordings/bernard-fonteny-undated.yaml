@@ -1,0 +1,33 @@
+id: bernard-fonteny-undated
+performers:
+- name: Bernard Fonteny
+  role: cello
+- name: Huguette Grémy-Chauliac
+  role: harpsichord
+- name: Maxence Larrieu
+  role: transverse flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b1e2ed45-0931-402e-ba91-ae2c5620dece
+  title: Intégrale des Sonates pour Flûte et Clavecin, Vol. 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 81a706a1-9e63-4231-97a5-c8286e2e96e0
+  recordings: [6ccf94d4-aa3a-4bd3-89e3-1af8a61241d7]

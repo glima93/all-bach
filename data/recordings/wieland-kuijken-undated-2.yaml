@@ -1,0 +1,32 @@
+id: wieland-kuijken-undated-2
+performers:
+- name: Wieland Kuijken
+  role: bass viol
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7b7b286-2da4-4368-8b24-e04934e49f96
+  title: 3 Sonaten für viola da gamba und cembalo
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e3cee123-59a2-4813-97c1-cabd099cb076
+  recordings: [2d0aa7a2-2a14-400a-8be6-777725df7411]

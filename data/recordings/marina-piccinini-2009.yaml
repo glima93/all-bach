@@ -1,0 +1,26 @@
+id: marina-piccinini-2009
+performers:
+- name: Marina Piccinini
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: Reitstadel
+released: 2010
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2f8e6b4-4895-456e-a5e6-f4b1558ae704
+  title: Flute Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cdf92dca-6496-4610-a3f3-453db5e3b8d2
+  recordings: [6b5e7b47-8b54-4af7-9663-ad025f1c2353]

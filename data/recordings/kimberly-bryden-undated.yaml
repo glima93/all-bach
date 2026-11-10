@@ -1,0 +1,30 @@
+id: kimberly-bryden-undated
+performers:
+- name: Kimberly Bryden
+  role: oboe
+- name: Martha Reikow
+  role: cello
+instrument: oboe
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Zeta Recording
+released: 1994
+original_label: null
+works:
+- {bwv: '1031', complete: false, movements: [II. Siciliano]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4becd2a4-2da2-4ece-a88b-7547e01c6ecb
+  title: 'The Bach Variations: A Windham Hill Sampler'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With oboe.
+musicbrainz:
+  artist: e9ffcf2c-bef2-43a5-b17a-452779c4fc94
+  recordings: [1b1e16fb-8ec4-481f-be9e-b40eea26213a]

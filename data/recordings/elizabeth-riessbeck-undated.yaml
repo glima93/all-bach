@@ -1,0 +1,31 @@
+id: elizabeth-riessbeck-undated
+performers:
+- name: Elizabeth Riessbeck
+  role: flute
+- name: Klaus Gäckle
+  role: guitar
+instrument: flute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1033', complete: false, movements: [II. Allegro, III. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d2bf1a1-ec79-4526-a341-3500eee5183e
+  title: The 99 Most Essential Bach Masterpieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: 03e396d3-fac8-4be5-95f7-48acd527ca5d
+  recordings: [327c5f09-4a4f-4115-b2b6-482797024f94]

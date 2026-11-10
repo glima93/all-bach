@@ -1,0 +1,29 @@
+id: steven-isserlis-2014
+performers:
+- name: Steven Isserlis
+  role: cello
+- name: Richard Egarr
+  role: harpsichord
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: Wyastone Concert Hall
+released: 2015
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eca9a24d-638b-4d14-a80d-bec6952becca
+  title: Gamba Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f194b541-726e-4201-9773-fa87a5a18cfc
+  recordings: [f726feea-a6b2-45eb-9bd3-9d7b2b6bca0d]

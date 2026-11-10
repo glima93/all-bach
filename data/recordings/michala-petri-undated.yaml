@@ -1,0 +1,29 @@
+id: michala-petri-undated
+performers:
+- name: Michala Petri
+  role: treble recorder / alto recorder
+instrument: recorder
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/536564a6-af31-4b0b-b2aa-879f20a89dc6
+  title: 'Souvenir: Music for Recorder & Lute/Guitar'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4d21918a-8fac-4f35-94f9-42180bbc0d7a
+  recordings: [8db0bd5d-7c70-4173-9aa0-5cac4c04bdc0]

@@ -1,0 +1,29 @@
+id: gergely-ittzes-2006
+performers:
+- name: Gergely Ittzés
+  role: flute
+- name: Anthony Newman
+  role: harpsichord
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2006]
+  place: Bedford Studio
+released: 2017
+original_label: null
+works:
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/84e3c33f-b5eb-434b-a6e2-a706c70f477e
+  title: 'The Great Book of Flute Sonatas, Volume 1: The 18th Century'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45a63ba6-fdc9-4910-9664-2120cdf8d9ac
+  recordings: [605f8742-b15f-462f-a704-5cc0b33d5ab7]

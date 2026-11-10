@@ -1,0 +1,30 @@
+id: john-dornenburg-1991
+performers:
+- name: John Dornenburg
+  role: viola da gamba
+- name: Malcolm Proud
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1991]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3c952fb0-d0cf-4876-8858-748d0f401c84
+  title: 'Bach Edition, Volume 16: Chamber Music/Kammermusik'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 847e7f5b-5e3d-4ee5-9fa2-7736f8bc1e66
+  recordings: [f1140c13-da15-48eb-8a40-9d38a58e3bc1]

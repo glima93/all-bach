@@ -1,0 +1,29 @@
+id: lucile-boulanger-2011
+performers:
+- name: Lucile Boulanger
+  role: bass viol
+- name: Arnaud De Pasquale
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: Chapelle de l'hôpital Notre-Dame de Bon Secours
+released: 2011
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fd961514-d6f0-45f8-8c86-37d7f3930a7c
+  title: Sonata à Cembalo è Viola da Gamba
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 92572287-fca4-429c-b1aa-2ed936528f13
+  recordings: [13a8e49d-9a58-4e74-9ebb-95d08b37b007]

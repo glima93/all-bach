@@ -1,0 +1,31 @@
+id: anne-breeden-undated
+performers:
+- name: Anne Breeden
+  role: piano
+- name: Andrew Dahlke
+  role: soprano saxophone
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1035', complete: false, movements: [I. Adagio ma non tanto, III. Siciliana, IV. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2dc210b-c38b-4cb0-84af-29fa19c3b5ad
+  title: Animé
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on piano, soprano saxophone.
+musicbrainz:
+  artist: 68815112-8b69-4d5a-85c0-c07f7f0ffef2
+  recordings: [af87f650-2247-420d-962a-e0b1088c689c]

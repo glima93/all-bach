@@ -1,0 +1,29 @@
+id: celine-frisch-2000-2
+performers:
+- name: Céline Frisch
+  role: viola da gamba
+- name: Juan Manuel Quintana
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Reitstadel
+released: 2001
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/12bc5258-f07e-4ac2-86e7-f193955e4cb8
+  title: Sonates pour viole de gambe et clavecin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d277acb9-771c-4bb4-9c1b-802128e93df1
+  recordings: [2e51758d-74c5-45b3-9235-0346f244f4d2]

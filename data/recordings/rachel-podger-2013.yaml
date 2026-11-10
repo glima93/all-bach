@@ -1,0 +1,27 @@
+id: rachel-podger-2013
+performers:
+- name: Rachel Podger
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2013]
+  place: Doopsgezinde kerk
+released: 2013
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7437c027-3d5e-4070-b2a5-1478b9c81ae1
+  title: Guardian Angel
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With violin.
+musicbrainz:
+  artist: a11b6112-9a07-4fc9-b0a6-a7487275bb2b
+  recordings: [c0a620bf-940e-4ec8-9b46-c6e4113fae6a]

@@ -1,0 +1,36 @@
+id: heinz-holliger-undated
+performers:
+- name: Heinz Holliger
+  role: oboe
+- name: Christiane Jaccottet
+  role: harpsichord
+- name: Aurèle Nicolet
+  role: flute
+- name: Manfred Sax
+  role: bassoon
+- name: Angela Schwartz
+  role: cello
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Radiostudio Basel
+released: null
+original_label: null
+works:
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/10fd483c-da35-42d7-b326-d7df7d37c961
+  title: Trio Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cd5a15f3-8937-49da-9719-d3790136802c
+  recordings: [6a51d113-0208-4327-a6a2-0bb7ccd95650]

@@ -1,0 +1,27 @@
+id: marion-ralincourt-undated
+performers:
+- name: Marion Ralincourt
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Cité de la Musique et de la Danse
+released: 2021
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7858bd12-863e-412b-9b9e-9e94f11652c3
+  title: Bach / Reich
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f10612cd-dd4e-4604-9200-29d221a6d34b
+  recordings: [9c2fe9de-c1d6-41b7-81e5-53ca762bcc45]

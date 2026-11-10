@@ -1,0 +1,29 @@
+id: lars-hannibal-undated
+performers:
+- name: Lars Hannibal
+  role: lute
+- name: Michala Petri
+  role: recorder
+instrument: recorder
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: OUR Recording Studio
+released: 2011
+original_label: null
+works:
+- {bwv: '1033', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d320550e-025c-4aa5-8ed3-67f82d374d4e
+  title: Virtuoso Baroque
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1b710822-ad69-415c-9c5e-090ae748e168
+  recordings: [c6592c6c-f427-47ce-b083-15ef4ed78ba3]

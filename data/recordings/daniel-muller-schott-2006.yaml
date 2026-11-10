@@ -1,0 +1,29 @@
+id: daniel-muller-schott-2006
+performers:
+- name: Daniel Müller‐Schott
+  role: cello
+- name: Angela Hewitt
+  role: piano
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2006]
+  place: Bavaria Musikstudios
+released: 2007
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/38ce97e7-065f-42e0-a97e-3b653011b379
+  title: Gamba Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c592d375-3c23-40f2-b118-e457f7a2e10f
+  recordings: [d33a5bca-e8b6-41c1-87ae-dfb39ffe6c61]

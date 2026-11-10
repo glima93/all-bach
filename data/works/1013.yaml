@@ -1,0 +1,17 @@
+bwv: "1013"
+title: "Partita in A minor for solo flute"
+key: "A minor"
+collection: "Flute Sonatas and Partita"
+genre: chamber
+scoring: "Solo flute"
+composed: "Probably c. 1723; the sole 18th-century source is a copy by two of Bach's copyists, possibly begun in Köthen c. 1722–23 and completed in Leipzig in 1723–24"
+movements:
+  - "I. Allemande"
+  - "II. Corrente"
+  - "III. Sarabande"
+  - "IV. Bourrée anglaise"
+notes: "The source is headed \"Solo p[our une] flûte traversière\"; the name \"Partita\" was given by 20th-century editors. Its writing for the flute is more demanding than the flute part of the fifth Brandenburg Concerto."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Partita_in_A_minor_for_solo_flute_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f5b963a9-2382-4313-98cc-55be79ff787b

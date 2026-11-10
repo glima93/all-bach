@@ -1,0 +1,28 @@
+id: brandon-patrick-george-undated
+performers:
+- name: Brandon Patrick George
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e837d4d-c77a-46ef-9e84-8d333b500bd2
+  title: Flute Sonatas & Solo Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d3ce84b4-e400-4be7-a7fc-56c57a72e710
+  recordings: [4042f523-9d33-4904-8ac7-d79b3ec51120]

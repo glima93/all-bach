@@ -1,0 +1,30 @@
+id: julius-berger-2001
+performers:
+- name: Julius Berger
+  role: cello
+- name: Stefan Hussong
+  role: accordion
+instrument: cello
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2001]
+  place: Schule Schloss Salem
+released: 2005
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8d30e4db-2268-429e-8004-4b7199f92b3a
+  title: Wolke und Mond
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With accordion.
+musicbrainz:
+  artist: d619c045-d034-4281-bb53-1ae80b12a5c8
+  recordings: [0eeae41a-783c-4b9f-b334-6c7f06e6dec5]

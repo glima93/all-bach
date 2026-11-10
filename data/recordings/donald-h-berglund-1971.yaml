@@ -1,0 +1,29 @@
+id: donald-h-berglund-1971
+performers:
+- name: Donald H. Berglund
+  role: flute
+- name: Winifred Ross
+  role: piano
+instrument: flute
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1971]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1031', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d236f5e-4e45-47b9-9f79-76ede5f78014
+  title: Signature Flute Solos
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45f54265-beca-47cd-a71d-eda30f8f9f85
+  recordings: [37fa5cf5-d806-45e3-9308-bd046a8fb6f5]

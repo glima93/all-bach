@@ -1,0 +1,26 @@
+id: wilbert-hazelzet-1998
+performers:
+- name: Wilbert Hazelzet
+  role: concert flute
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Iglesia de San Miguel
+released: 1999
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/48a9c676-5500-489d-9b13-7ca99be2515d
+  title: Suites for cello BWV 1007-1009 (transcr. Wilbert Hazelzet) / Partita for flute BWV 1013
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64f6678-6f11-4a41-8706-9b61245f92a7
+  recordings: [800bbb72-876c-4a01-a938-c8d74058cfde]

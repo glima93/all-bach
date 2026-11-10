@@ -1,0 +1,27 @@
+id: peter-lukas-graf-1973
+performers:
+- name: Peter-Lukas Graf
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973]
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2b34dba8-29b2-4a49-a5f7-7a261ec051d3
+  title: Werke für Flöte Solo
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdc0c5bb-9755-439f-bef8-9516e0c15536
+  recordings: [3e698e18-f157-48ac-9dd6-a72fbe744bb7]

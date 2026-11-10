@@ -1,0 +1,26 @@
+id: andrea-kolle-1993
+performers:
+- name: Andrea Kollé
+  role: concert flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: Kirche Blumenstein
+released: 1993
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9702b4d7-43e5-4ebc-96da-4aad9df0d73a
+  title: Flöte.Solo.Flute
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 78b07264-dd5d-4de2-bf03-fc4773a96f93
+  recordings: [927edc58-7ccc-4960-af96-a0cca973128c]

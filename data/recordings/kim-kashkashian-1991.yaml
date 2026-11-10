@@ -1,0 +1,29 @@
+id: kim-kashkashian-1991
+performers:
+- name: Kim Kashkashian
+  role: viola
+- name: Keith Jarrett
+  role: harpsichord
+instrument: viola
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1991]
+  place: Cavelight Studio
+released: 1994
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/104403f1-c800-4c01-b191-3ac955566c2f
+  title: 3 Sonaten für Viola da Gamba und Cembalo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fa870f84-178c-4533-9fed-4f034d69e7e8
+  recordings: [f80e8b8d-dc6d-4847-a79e-dc807d33c0cc]

@@ -1,0 +1,27 @@
+id: les-basses-reunies-2007
+performers:
+- name: Les Basses Réunies
+  role: baroque-cello
+instrument: baroque-cello
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: Eglise de Pampigny
+released: 2009
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e2f515b9-d66b-4b3a-a23a-fbfd62d3d765
+  title: Sonates, BWV 1027-1029, Chorals & Trios
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 144f4f92-8c1e-48ab-8420-9d3825e26a3e
+  recordings: [c1876a95-7683-4fcc-95be-1a12a3d6f478]

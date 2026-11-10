@@ -1,0 +1,30 @@
+id: ecaterina-botar-undated
+performers:
+- name: Ecaterina Botar
+  role: performer
+- name: Gavril Costea
+  role: performer
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1031', complete: false, movements: [II. Siciliano]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6b097e99-814a-4f78-836c-bc978381ceb3
+  title: Romantic Classic, Volume 6
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d1d9ed5a-b392-421d-86db-8c85fb905ee8
+  recordings: [ec0ee875-4315-411b-a11c-6a2d7c40b9f1]

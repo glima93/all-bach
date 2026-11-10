@@ -1,0 +1,16 @@
+bwv: "1029"
+title: "Sonata for Viola da Gamba and Harpsichord No. 3 in G minor"
+key: "G minor"
+collection: "Sonatas for viola da gamba and harpsichord"
+genre: chamber
+scoring: "Viola da gamba and obbligato harpsichord"
+composed: "Probably Leipzig, late 1730s or early 1740s; no autograph survives, and the work is known from a set of parts copied by Christian Friedrich Penzel"
+movements:
+  - "I. Vivace"
+  - "II. Adagio"
+  - "III. Allegro"
+notes: "The third of the three sonatas BWV 1027–1029, and the only one in three movements."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Sonatas_for_viola_da_gamba_and_harpsichord_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e91e83f2-3859-421f-b900-a8e247707188

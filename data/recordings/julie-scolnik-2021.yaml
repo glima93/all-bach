@@ -1,0 +1,33 @@
+id: julie-scolnik-2021
+performers:
+- name: Julie Scolnik
+  role: flute
+- name: Sophie Scolnik-Brower
+  role: piano
+instrument: flute
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2021]
+  place: 'WGBH Studios: Fraser Performance Studio'
+released: 2022
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a44d26b4-afaa-476c-a5f2-0579d5200a27
+  title: Complete Sonatas for Flute & Piano
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ec94b49-122a-44da-b7e5-6461068a348a
+  recordings: [dd641169-f47d-4f56-9ff2-6cfa991d1b64]

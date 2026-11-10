@@ -1,0 +1,29 @@
+id: sami-junnonen-2013
+performers:
+- name: Sami Junnonen
+  role: flute
+- name: Heidi Äijälä
+  role: kantele
+instrument: flute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2013, 2014]
+  place: Inkoon Musiikki
+released: 2015
+original_label: null
+works:
+- {bwv: '1033', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dd178226-9eeb-4730-961e-cbd0403bb9f7
+  title: 'Laet lauloi: The Chant Enchanted'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With kantele.
+musicbrainz:
+  artist: 70652d48-1589-411a-ac0c-e9851a5720f3
+  recordings: [08ef834b-7120-4c65-b850-f56342b3ce30]

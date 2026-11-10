@@ -1,0 +1,28 @@
+id: chris-britton-undated
+performers:
+- name: Chris Britton
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15a0da48-0237-49ce-bc0d-092e6ab5ebf2
+  title: Counterpoint for One
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c1235230-3e1c-4cc9-add1-d88245beaa72
+  recordings: [444a79b6-bd89-4d3f-9ff1-7369bb3a287a]

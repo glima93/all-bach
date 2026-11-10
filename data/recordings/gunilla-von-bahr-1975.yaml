@@ -1,0 +1,26 @@
+id: gunilla-von-bahr-1975
+performers:
+- name: Gunilla von Bahr
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1975]
+  place: Wiks slott
+released: 1987
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/41d03928-8c34-4616-990b-e21ffcc1ddb5
+  title: Piccolo Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7a3a2fdc-b746-4724-a5dc-371339692ddb
+  recordings: [5db87588-5f96-4266-878a-f61be64cbafc]

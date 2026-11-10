@@ -1,0 +1,31 @@
+id: eugene-rousseau-undated
+performers:
+- name: Eugene Rousseau
+  role: saxophone
+- name: Hans Graf
+  role: piano
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e3f73741-7c69-419b-8f90-7557990b25f1
+  title: Saxophone Colors
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on piano, saxophone.
+musicbrainz:
+  artist: 0e08515b-d5a0-4465-ab43-3fc83e8831dc
+  recordings: [e7d956e1-8ef7-422d-beb3-99ffd53f1276]

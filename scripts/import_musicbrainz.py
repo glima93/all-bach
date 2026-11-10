@@ -107,12 +107,61 @@ EXCLUDE_BY_SNAPSHOT = {
     "f8df5ad3-0db2-4dc7-be48-a55397f60b20": "credited to Antonio Vivaldi (composer of the model of BWV 1065) on a Vivaldi compilation; the performers are unknown",
   },
 }
+EXCLUDE_BY_SNAPSHOT["flute-works"] = {
+    "a14b8433-630f-454c-b727-92bfe3ab18e7": "Hooked on Classics 2 (Royal Philharmonic, Louis Clark): the medley track already filed for the English Suite No. 2 Bourrées, linked to the flute sonatas too",
+    "1e0f94e6-f9ce-4ce2-93e4-b2f338737db4": "Young Person's Guide to the Classic 1: a compilation of other artists' classical recordings issued under Yngwie Malmsteen's name; he does not play the Bourrée",
+    "45ddb272-aa23-4f3b-99d1-62820ab0044e": "RCM exam book disc: the piano accompaniment alone (Longworth), the track for practising with; the flute and piano performance is filed",
+}
 EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 
 # One performance that the snapshot splits into two rows (an undated track of a dated set, one set recorded
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "flute-works": {
+    "11486481-cea1-49ec-a54a-f04a3408a632": ("17e4c4b4-8e27-441d-a816-cb8621463153",
+        "Brüggen and Leonhardt's BWV 1030 and 1032, first issued with the Brandenburgs: the same 1975 Doopsgezinde kerk sessions as the Complete Sonatas & Partita"),
+    "0a1e6c3a-d040-46f6-b62b-36dddf907046": ("7959c4be-5ec7-4eec-845b-488cd20eb535",
+        "Grafenauer and Graf's BWV 1031 Siciliano, an undated track of their 1987 flute and harp album"),
+    "6df70a08-c374-466a-837b-43ae1ee210a7": ("8fbebf38-6fda-45dd-9a2e-82b0b577f2e5",
+        "Sharon Bezaly and Terence Charlston's BWV 1031 Siciliano (BIS, Barocking Together), reissued on a compilation credited to London Baroque"),
+    "f808eb7d-58d8-4fe7-9e1f-df298f6a2ce6": ("86f186b6-4732-4954-ada1-a49c991d7e0b",
+        "the Siciliana of Preston, Pinnock and Savall's 1975 set on a sampler; the roles still name Savall"),
+    "07e798ef-0778-416f-a16d-ebf962286979": ("d1421080-db71-4fbd-bd39-c75ed7719098",
+        "Galway, Lumsden and Ryan's BWV 1035 from Serenade for Flute, reissued with the London Virtuosi on the same disc"),
+    "979b93b6-00f5-4202-a56e-c7730475c14b": ("da429123-0a77-453a-aacb-5e9b187db74f",
+        "the one sonata (BWV 1033) missing from the Moravian Trio's set on the same undated release, credited to its flutist alone"),
+    "23073e80-c855-42d9-9fa1-5131f2d791af": ("da429123-0a77-453a-aacb-5e9b187db74f",
+        "the Moravian Trio's BWV 1031 (flute, bassoon, harpsichord) on a compilation, wrongly credited to Moravian Brass Ostrava"),
+    "08e82807-cc8b-48be-9eb8-e02eaf059425": ("3da2cc83-629b-4b52-8618-ca633f954db0",
+        "Rampal's 1975 BWV 1013 on the same Erato Flute Sonatas album (1979), recorded in the same church as the 1973 sonatas"),
+    "b7ec3784-090e-4949-ac29-1d3a555e4530": ("3da2cc83-629b-4b52-8618-ca633f954db0",
+        "Rampal, Veyron-Lacroix and Savall's BWV 1031 and 1033 reissued in Bach 2000: the same Erato set"),
+    "6f4ad646-ca57-4522-af55-36e4db4c13e9": ("3da2cc83-629b-4b52-8618-ca633f954db0",
+        "the same trio's BWV 1035 in Rampal's Complete Erato Recordings 1970-82: the missing sonata of that set"),
+    "29a4a4e3-8a7f-45df-bf14-31be3c3cd265": ("84a9c9bc-1650-4a7e-a0a5-416a754a0e86",
+        "Pahud and Pinnock's continuo sonatas with Jonathan Manson, from the same 2008 Complete Flute Sonatas (another release ID)"),
+    "518242c0-20c6-4eb5-b54e-9c7fd34e2cf3": ("8926a1bc-85f4-41e7-a1a1-f4ea08a3e13a",
+        "Michael Form's BWV 1013 from the same undated Flute Sonatas album with Bonizzoni (another release ID)"),
+    "33cb046b-e036-4300-a1ef-21b72f5330fa": ("b119ce0f-7e95-495a-89c1-101280bf554d",
+        "Robison and Cooper's sonatas reissued in the Big Bach Set: the same complete set as the Partita"),
+    "1999e934-f9af-46b3-96f8-bc04cb01866e": ("b119ce0f-7e95-495a-89c1-101280bf554d",
+        "Robison, Cooper and Eddy's sonatas reissued in the Bigger Bach Set: the same complete set"),
+  },
+  "gamba-sonatas": {
+    "81c39663-2804-4301-9c26-a9dc22a524ba": ("941a7e74-08f1-4355-a5ae-f3e012383aab",
+        "Wenzinger and Neumeyer: the undated tracks of the same 1952 release"),
+    "b5a2c64f-1600-4921-acd1-1b61602da1f4": ("aa46c3f7-dc2d-4a0d-908f-fd6d119d9633",
+        "du Pré and Kinloch Anderson's 1962 BWV 1028, reissued on A Jacqueline du Pré Recital without a date"),
+    "01b55387-f2e3-400e-8899-1ea839f512ad": ("2e2c40ea-c4ec-4836-925c-4a1a31cb1297",
+        "Starker and Sebök's 1963 Mercury BWV 1029, reissued without a date"),
+    "b1513c9e-4f71-4cd7-870e-de4e6595a588": ("4c4f0f86-ac36-4387-b995-05eb90db01cb",
+        "Casals and Baumgartner, Prades 1950: the same 3 Sonatas release, undated tracks"),
+    "0ae85092-dd27-406e-8a38-47b5751d9dde": ("84afc15a-347c-4c60-8b4b-4fc53d117b8a",
+        "Gaillard (piccolo cello) and Cochard's BWV 1028 I-III: Amarillis's recording from the Aria album, reissued without a date"),
+    "f06b65bc-2b9e-4734-9153-f9f0c537c543": ("ebea3461-9c9c-4e1b-a0ed-2e4357be35a4",
+        "Harmonie universelle is an Alia Vox sampler; its BWV 1028 is Savall and Koopman's 2000 Alia Vox recording"),
+  },
   "violin-keyboard-sonatas": {
     "afcd5ff8-92ab-40c6-a9e0-a2af119ece14": ("638a6dac-6aea-4ed0-831f-381ff481b093",
         "Höbarth's BWV 1023 on A Violino e Cembalo, the one sonata missing from the Höbarth and Häkkinen set on that release (Häkkinen's credit lost)"),
@@ -186,15 +235,97 @@ JOIN_BY_SNAPSHOT = {
 JOIN_BY_RELEASE = {
   "musical-offering": "each movement has its own line-up, so the collector split recorded sets by line-up",
 }
+# Chamber sets the collector splits by line-up (the solo partita, the sonatas with keyboard, the continuo sonatas
+# with a cellist or gambist added): rows on the same release, with the same recording years and the same solo
+# player, are one performance.
+JOIN_BY_PLAYER_RELEASE = {
+  "flute-works": "a flutist's set is split into the solo Partita, the obbligato sonatas and the continuo sonatas",
+  "gamba-sonatas": "a set is split by line-up when a player is credited on only some sonatas",
+}
 
 # Instruments the snapshot's `native` list leaves out, per snapshot, with the reason.
 NATIVE_EXTRA_BY_SNAPSHOT = {
+  "gamba-sonatas": (["violoncello-piccolo"], "a cello-family instrument like the cello the plan files as native (Bylsma, Wispelwey)"),
   "musical-offering": (["flute", "traverso"], "the trio sonata and the canons name the flute (Frederick the Great's instrument)"),
 }
 
 # Facts the snapshot gets wrong or leaves out for one row, per snapshot: representative recording ID ->
 # fields to set, with the reason. Fix upstream in MusicBrainz too, then remove the entry here.
 OVERRIDE_BY_SNAPSHOT = {
+  "gamba-sonatas": {
+    "64c01010-75cf-477e-a2f7-ce6fd55785fe": ({"performers": [{"name": "Daniil Shafran", "role": "cello"},
+                                                             {"name": "Andrei Volkonsky", "role": "harpsichord"}]},
+        "roles credited in Cyrillic only"),
+    "6a51d113-0208-4327-a6a2-0bb7ccd95650": ({"instrument": "ensemble", "arrangement": True},
+        "Holliger, Nicolet and others on a trio-sonata album: BWV 1029 arranged for oboe, flute and continuo"),
+    "4690f92a-22ba-45c4-8b57-1bf67f3f9dd1": ({"instrument": "ensemble", "arrangement": True},
+        "Sonates en Trio: BWV 1028 arranged as a trio sonata for two flutes and continuo"),
+    "b3278980-26eb-4711-8ef6-2db9ac0b2d74": ({"instrument": "ensemble", "arrangement": True},
+        "Lifescapes: Bach, a crossover relaxation series by an orchestra; not the sonata as written"),
+    "fa7ba7e5-7d87-4f93-8c57-665e32838e1b": ({"instrument": "baroque-cello"}, "Bruno Cocset plays period cellos; credited as cello"),
+    "cfb653fb-2df8-4b4b-8d6c-eb611894a7a2": ({"performers": [{"name": "Jordi Savall", "role": "viola da gamba"},
+                                                             {"name": "Ton Koopman", "role": "harpsichord"}]},
+        "Savall and Koopman's 1977 duo recording (Claydon House); the Amsterdam Baroque Orchestra and a conductor credit are wrong"),
+    "c1876a95-7683-4fcc-95be-1a12a3d6f478": ({"instrument": "baroque-cello"}, "Les Basses Réunies is Bruno Cocset's group; he plays the solo part on period cellos"),
+    "17e794e0-d991-4683-8c2f-c8d1187de79e": ({"instrument": "ensemble", "arrangement": True, "performance_practice": "historical"},
+        "The Rare Fruits Council (period strings) on its Trio Sonatas album: BWV 1029 played as a trio sonata"),
+    "724da060-7c8a-4886-a360-e87517172af3": ({"performers": [{"name": "Aleksandr Rudin", "role": "cello"}]},
+        "name credited in Cyrillic (Александр Рудин); the pianist is not named"),
+    "ebea3461-9c9c-4e1b-a0ed-2e4357be35a4": ({"released": 2000},
+        "Alia Vox's release of the 2000 recording; MusicBrainz's 1998 date comes before the sessions"),
+    "84afc15a-347c-4c60-8b4b-4fc53d117b8a": ({"instrument": "violoncello-piccolo"},
+        "Amarillis's Aria album: BWV 1028 is played on a piccolo cello (MusicWeb review, March 2001)"),
+    "b5bc02f1-bd4f-455a-abe8-a4d63fe9c070": ({"performance_practice": "historical"},
+        "Bettina Hoffmann (Modo Antiquo) and Fedi, a period-instrument duo; the cello is filed as credited"),
+  },
+  "flute-works": {
+    "d87e0cd2-fc17-45ae-ae1f-a7fe51ba5e88": ({"instrument": "oboe", "arrangement": True}, "Alex Klein is an oboist; no instrument credit"),
+    "1ebc9e67-616b-4fe2-9d22-6a7b82aa4c59": ({"performers": [{"name": "Annegret Bauerle", "role": "flute"}]},
+        "the roles credit Annegret Bauerle on flute; Marko Simsa narrates the children's album"),
+    "1b1e16fb-8ec4-481f-be9e-b40eea26213a": ({"performers": [{"name": "Kimberly Bryden", "role": "oboe"},
+                                                             {"name": "Martha Reikow", "role": "cello"}]},
+        "the roles credit Bryden (oboe) and Reikow (cello); Tim Story is the album's compiler"),
+    "ea794a52-9fbe-4975-8ba1-a0730f7f88d0": ({"instrument": "violin"}, "Sparf plays the violin with Härenstam on guitar, as in his violin-sonata file"),
+    "abaa9a25-3b75-46f3-bb6a-561667c2b86c": ({"instrument": "other"}, "the melody is on Frati's mandolin, with guitar accompaniment"),
+    "6098ba08-b4d4-4bcf-ae04-c9455fb54ca1": ({"instrument": "recorder"}, "Horacio Franco is a recorder player; no instrument credit (as in run 10)"),
+    "094c67bc-9a53-47ea-bc69-3fb24581450f": ({"movements": ["1013:0", "1013:1", "1013:2", "1013:3"]},
+        "Russell's discography lists the whole Partita on Air on a G String; MusicBrainz links only the Bourrée"),
+    "8fbebf38-6fda-45dd-9a2e-82b0b577f2e5": ({"performers": [{"name": "Sharon Bezaly", "role": "flute"},
+                                                             {"name": "Terence Charlston", "role": "harpsichord"}],
+                                              "performance_practice": "unknown"},
+        "Barocking Together credits only Bezaly (modern flute) and Charlston on BWV 1031; London Baroque came from the joined reissue"),
+    "43206f52-eba2-423e-b760-cbf94f76d9c6": ({"instrument": "ensemble", "arrangement": True, "performance_practice": "historical"},
+        "The Rare Fruits Council (period strings) on its Trio Sonatas album: BWV 1030 played as a trio sonata"),
+    "b55b903a-8cca-4c6b-9582-9d93791a0a8f": ({"released": 2017},
+        "the sonatas row's release year; the Partita row's 2006 comes before the 2016 sessions"),
+    "84a9c9bc-1650-4a7e-a0a5-416a754a0e86": ({"performers": [{"name": "Emmanuel Pahud", "role": "flute"},
+                                                             {"name": "Trevor Pinnock", "role": "harpsichord"},
+                                                             {"name": "Jonathan Manson", "role": "cello"}]},
+        "Manson plays the cello continuo; his role is not credited"),
+    "8926a1bc-85f4-41e7-a1a1-f4ea08a3e13a": ({"performers": [{"name": "Michael Form", "role": "flute"},
+                                                             {"name": "Fabio Bonizzoni", "role": "harpsichord"}]},
+        "Bonizzoni's role is not credited"),
+    "b119ce0f-7e95-495a-89c1-101280bf554d": ({"performers": [{"name": "Paula Robison", "role": "flute"},
+                                                             {"name": "Kenneth Cooper", "role": "harpsichord"},
+                                                             {"name": "Timothy Eddy", "role": "cello"}]},
+        "the Bigger Bach Set credits the three without roles"),
+    "e6efe75c-7045-4a34-a905-f062b221b63d": ({"performers": [{"name": "Svetlana Mitriaikina", "role": "flute"},
+                                                             {"name": "Alexei Parshin", "role": "organ"}]},
+        "roles credited in Cyrillic only"),
+    "ec66cf1c-f8fe-48bb-abdf-2b4fa542b46b": ({"performers": [{"name": "Anna Besson", "role": "flute"},
+                                                             {"name": "Benjamin Alard", "role": "harpsichord"},
+                                                             {"name": "Ronan Kernoa", "role": "cello"}]},
+        "instrumental tracks on Van Mechelen's Erbarme dich album; the tenor does not sing in them"),
+    "20888a00-b9ab-4b2b-8989-bc3a1fe25515": ({"performers": [{"name": "James Galway", "role": "flute"},
+                                                             {"name": "Ursula Dütschler", "role": "harpsichord"}]},
+        "BWV 1032 on the album is a flute and harpsichord sonata; the orchestra, conductor and violinist play the concerto"),
+    "da429123-0a77-453a-aacb-5e9b187db74f": ({"instrument": "flute"}, "the Moravian Trio's flute sonatas: the flutist's credit is on the joined BWV 1033 row"),
+    "3cbed898-2eb3-4598-95ab-253bad84f578": ({"arrangement": True}, "Galway with orchestra (Gerhardt): an orchestral arrangement"),
+    "01554053-49c1-4a23-a8e0-a144c63bf0ed": ({"instrument": "recorder", "performance_practice": "historical"},
+        "Piers Adams is a recorder player, with Red Priest's period players; no instrument credits"),
+    "97eb3b19-fe2a-486b-a148-8535252dcd48": ({"instrument": "recorder", "performance_practice": "historical"},
+        "Marion Verbruggen (recorder) and Mitzi Meyerson (harpsichord), period instruments; no instrument credits"),
+  },
   "violin-keyboard-sonatas": {
     "8c7367c9-4893-4e1a-bb61-0523a8767ca8": ({"movements": ["1021:2"]},
         "the Brandenburg Consort play the Largo of BWV 1021 as the slow movement of Brandenburg No. 3 (Hyperion's track list); MusicBrainz links the whole sonata"),
@@ -386,6 +517,7 @@ INSTRUMENTS = {
     "baroque flute": "traverso", "traverso": "traverso", "flauto traverso": "traverso",
     "transverse flute (baroque)": "traverso", "recorder": "recorder", "alto recorder": "recorder",
     "treble recorder": "recorder", "oboe": "oboe", "baroque oboe": "oboe",
+    "bass viol": "viola-da-gamba", "treble recorder / alto recorder": "recorder",
 }
 IMPLIED = {"1048": {1: [0, 2]},
            "811": {4: [3]}}  # the Double of English Suite No. 6 is usually on the Sarabande's track
@@ -397,7 +529,16 @@ KEYBOARD = ["harpsichord", "piano", "clavichord", "organ", "fortepiano"]
 # Chamber mode: instruments that usually play the continuo, so a credit for one of them alone does not say
 # what the solo part was played on.
 CONTINUO = {"harpsichord", "piano", "organ", "fortepiano", "lute", "cello", "baroque-cello", "viola-da-gamba"}
-HISTORICAL_LEAD = {"baroque-violin", "baroque-cello", "viola-da-gamba", "traverso", "recorder"}
+HISTORICAL_LEAD = {"baroque-violin", "baroque-cello", "viola-da-gamba", "traverso", "recorder", "violoncello-piccolo"}
+# Chamber mode: credits for an accompaniment the music was not written for (a harp or kantele for the
+# harpsichord, percussion added). The solo part keeps its instrument; the recording is an arrangement.
+CHAMBER_ARRANGED = re.compile(r"\bharp\b|kantele|percussion", re.I)
+# Chamber mode: players known to play the flute parts on a period flute, often credited just "flute" or
+# "transverse flute" (which maps to the modern flute).
+TRAVERSO_PLAYERS = re.compile(r"barthold kuijken|frans br.ggen|wilbert hazelzet|lazarevitch|frank theuns|konrad h.nteler|"
+                              r"karl kaiser|jed wentz|alexander murray|ashley solomon|janet see|kossenko|marc hanta|"
+                              r"stephen preston|beznosiuk|linde brunmayr|stephen schultz|toshiyuki shibata|anna besson|"
+                              r"emi ferguson|diana baroni|marten root|pauliina fred|leopold stastny|christopher krueger", re.I)
 
 # Orchestral and other ensemble works (snapshot native ["ensemble"]): the group plays; what needs
 # working out is whether the group plays period instruments, and whether it is an arrangement.
@@ -423,7 +564,7 @@ PERIOD_ENSEMBLE = re.compile(
     r"ama deus|madeuf|blumenstock|boulder bach festival|king.s consort|musica alta ripa|musica alchemica|harmonie des saisons|"
     r"voce strumentale|capella academica wien|helicon ensemble|mosa.ques|talens lyriques|caravans.rail|retrospect ensemble|"
     r"capricornus|ensemble odyss|parlement de musique|phantasm|fretwork|hesp.rion|suonar parlante|les r.cr.ations|"
-    r"musica ad rhenum|ricercar consort|ausonia|ensemble diderot|aulos ensemble", re.I)
+    r"musica ad rhenum|ricercar consort|ausonia|ensemble diderot|aulos ensemble|basses r.unies", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
 MODERN_ENSEMBLE = re.compile(r"m.nchener bach|kammerakademie potsdam|zurich baroque ensemble|^baroque chamber orchestra|"
                              r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra", re.I)
@@ -451,7 +592,7 @@ KEYBOARD_SOLO = re.compile(r"^(\d+ )?harpsichords?\b", re.I)
 # In a keyboard concerto, melody soloists that mean a reconstruction for the lost original instrument.
 RECONSTRUCTED_SOLO = re.compile(r"violin|oboe|flute|trumpet", re.I)
 # Chamber mode: credits for a solo instrument the schema has no name for (filed as "other").
-CHAMBER_OTHER_SOLO = re.compile(r"\bharp\b|pardessus|bandone", re.I)
+CHAMBER_OTHER_SOLO = re.compile(r"\bharp\b|pardessus|bandone|bassoon|fagott|pan flute", re.I)
 # Credits MusicBrainz lists among instruments that name no instrument ("solo" from "solo piano" credits).
 NOT_INSTRUMENTS = {"solo"}
 # Performer names that are groups even when MusicBrainz gives no artist type.
@@ -747,7 +888,13 @@ def chamber_of(perf: dict, lead: list[str]) -> tuple[str, str, bool, list[str]]:
     instrument, not as an arrangement; keyboard and other continuo credits alone don't name the solo part.
     """
     arranged = arranged_credits(perf)
-    mapped = [INSTRUMENTS.get(i.lower(), "other") for i in perf["ins"]]
+    mapped = [INSTRUMENTS.get(i.lower(), "other") for i in perf["ins"] if i.lower() not in NOT_INSTRUMENTS]
+    if len(perf["names"]) == 1 and mapped and all(m in CONTINUO and m not in lead for m in mapped):
+        # One player credited only with a keyboard or continuo instrument (a pianist's Siciliano, a gambist's
+        # flute Partita): the solo part is played on it, arranged.
+        return mapped[0], "unknown", True, []
+    if not arranged and any(m in lead for m in mapped):
+        arranged = [i for i in perf["ins"] if CHAMBER_ARRANGED.search(i)]
     if arranged or ARRANGED_NAMES.search(" ".join(perf["names"])):
         # The solo part on its own instrument with an arranged accompaniment (violin with guitar continuo) is
         # filed under the solo instrument.
@@ -766,8 +913,13 @@ def chamber_of(perf: dict, lead: list[str]) -> tuple[str, str, bool, list[str]]:
         # piccolo, a harp): an arrangement.
         return main, "unknown", True, [i for i in perf["ins"]
                                        if INSTRUMENTS.get(i.lower(), "other") not in {*lead, *CONTINUO}]
+    if main == "flute" and TRAVERSO_PLAYERS.search(" ".join(perf["names"])):
+        main = "traverso"
+    # Another instrument of the solo part's family than the written one (cello or viola for the gamba) is
+    # filed as itself with practice modern, unless a period instrument or group says otherwise (plan note).
+    substitute = main in lead[1:] and main not in HISTORICAL_LEAD
     practice = ("historical" if main in HISTORICAL_LEAD or period_group(perf)
-                else "modern" if "piano" in mapped else "unknown")
+                else "modern" if "piano" in mapped or substitute else "unknown")
     return main, practice, False, []
 
 
@@ -813,7 +965,9 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         "performance_practice": "historical" if instrument in HISTORICAL else "modern" if instrument in MODERN else "unknown",
         "arrangement": instrument not in native | {"unknown"} or bool(others),
         "recorded": {"years": Flow(sorted(perf["years"])), "place": "; ".join(dict.fromkeys(perf["places"])) or None},
-        "released": year(perf.get("firstRelease")),
+        # A first release before the recording year is a wrong date on one side: leave the release year open.
+        "released": None if perf["years"] and (year(perf.get("firstRelease")) or 9999) < min(perf["years"])
+        else year(perf.get("firstRelease")),
         "original_label": None,
         "works": works_block(perf, bwvs, moves),
         "links": mb_links(perf),
@@ -912,11 +1066,24 @@ def order(rec: dict) -> dict:
     return {k: rec[k] for k in keys if k in rec}
 
 
-def join_by_release(perfs: list[dict]) -> list[dict]:
-    """Fold rows on the same earliest release with the same recording years into one performance."""
+def solo_player(p: dict, lead: list[str]) -> str | None:
+    """Artist ID of the player credited with the solo part's instrument (or of a lone performer)."""
+    for name, aid in zip(p["names"], p["ids"]):
+        role = (p["roles"].get(name) or p["roles"].get(name.lower()) or "").lower()
+        if INSTRUMENTS.get(role) in lead:
+            return aid
+    return p["ids"][0] if len(p["ids"]) == 1 else None
+
+
+def join_by_release(perfs: list[dict], lead: list[str] | None = None) -> list[dict]:
+    """Fold rows on the same earliest release with the same recording years into one performance; with `lead`,
+    only rows with the same solo player, who then leads the performer list."""
     groups: dict[tuple, list[dict]] = {}
     for p in perfs:
         key = (p["releases"][0]["id"], tuple(sorted(p["years"]))) if p["releases"] else (p["repId"],)
+        if lead is not None:
+            player = solo_player(p, lead) if p["releases"] else None
+            key = key + (player,) if player else (p["repId"],)
         groups.setdefault(key, []).append(p)
     out = []
     for group in groups.values():
@@ -945,7 +1112,8 @@ def join_by_release(perfs: list[dict]) -> list[dict]:
         # Lead with the groups, then the players heard on the most rows (the set's leader).
         seen = {aid: sum(aid in p["ids"] for p in group) for aid in a["ids"]}
         grp = lambda i: i < len(a["types"]) and a["types"][i] in GROUP_TYPES
-        order_ = sorted(range(len(a["ids"])), key=lambda i: (not grp(i), -seen[a["ids"][i]], i))
+        first = solo_player(group[0], lead) if lead is not None else None
+        order_ = sorted(range(len(a["ids"])), key=lambda i: (a["ids"][i] != first, not grp(i), -seen[a["ids"][i]], i))
         a["names"] = [a["names"][i] for i in order_]
         a["ids"] = [a["ids"][i] for i in order_]
         a["types"] = [a["types"][i] for i in order_] if len(a["types"]) == len(order_) else a["types"]
@@ -963,7 +1131,9 @@ def main(snapshot: str) -> int:
     native |= set(NATIVE_EXTRA_BY_SNAPSHOT.get(Path(snapshot).stem.removeprefix("musicbrainz-"), ([], ""))[0])
     # Importer mode (docs/catalogue-plan.md): older snapshots have none; "ensemble" was then the native list.
     mode = data.get("mode") or ("ensemble" if "ensemble" in native else "classic")
-    lead = data["native"] if mode == "chamber" else None
+    lead = data["native"] + [i for i in NATIVE_EXTRA_BY_SNAPSHOT.get(Path(snapshot).stem.removeprefix("musicbrainz-"),
+                                                                   ([], ""))[0] if i not in data["native"]] \
+        if mode == "chamber" else None
     # Scoring of the works, for telling soloists from transcriptions in orchestral works. Snapshots from the
     # browser collector (no "mode" key) keep their original rules, so re-importing them changes nothing.
     scorings = {w["bwv"]: w.get("scoring") or "" for _, w in load("works")}
@@ -994,11 +1164,16 @@ def main(snapshot: str) -> int:
             a["ins"] = a["ins"] + [i for i in b["ins"] if i not in a["ins"]]
             a["mv"] = sorted(set(a["mv"]) | set(b["mv"]))
             a["years"] = sorted(set(a["years"]) | set(b["years"]))
+            fr = [x for x in (a.get("firstRelease"), b.get("firstRelease")) if x]
+            a["firstRelease"] = min(fr) if fr else None
             a["places"] = list(dict.fromkeys(a["places"] + b["places"]))
             a["recIds"] = a["recIds"] + b["recIds"]
             perfs.remove(b)
+    if Path(snapshot).stem.removeprefix("musicbrainz-") in JOIN_BY_PLAYER_RELEASE:
+        perfs = join_by_release(perfs, lead or [])
     if Path(snapshot).stem.removeprefix("musicbrainz-") in JOIN_BY_RELEASE:
         perfs = join_by_release(perfs)
+    if Path(snapshot).stem.removeprefix("musicbrainz-") in JOIN_BY_RELEASE | JOIN_BY_PLAYER_RELEASE.keys():
         for p in perfs:  # players credited only with their instrument (the album credits, not the track's)
             named = set(p["names"]) | {n.lower() for n in p["names"]}
             unmatched = [n for i, n in enumerate(p["names"]) if n not in p["roles"] and n.lower() not in p["roles"]
@@ -1034,6 +1209,8 @@ def main(snapshot: str) -> int:
                 new["performance_practice"] = fix["performance_practice"]
             if "movements" in fix:  # the movements the recording actually plays, as "<bwv>:<index>"
                 new["works"] = works_block({**perf, "mv": fix["movements"]}, bwvs, moves)
+            if "released" in fix:
+                new["released"] = fix["released"]
             if "arrangement" in fix:
                 new["arrangement"] = fix["arrangement"]
                 if not fix["arrangement"]:

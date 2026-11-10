@@ -1,0 +1,30 @@
+id: alexis-kossenko-undated
+performers:
+- name: Alexis Kossenko
+  role: flute
+- name: Sébastien d'Hérin
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e49ed4f7-fd77-4c0d-b8ef-4ff151b1f3ff
+  title: La flûte à travers les âges
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f6d300b4-e835-43f3-b497-bd5e5612da44
+  recordings: [b0bb8de2-4531-4e83-bcc8-f2d79b9ca1a3]

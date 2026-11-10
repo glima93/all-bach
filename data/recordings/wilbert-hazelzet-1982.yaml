@@ -1,0 +1,36 @@
+id: wilbert-hazelzet-1982
+performers:
+- name: Wilbert Hazelzet
+  role: flute
+- name: Hendrik Bouman
+  role: harpsichord
+- name: Jaap ter Linden
+  role: cello
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1982]
+  place: Zentralsaal; Plenarsaal der Akademie der Wissenschaften
+released: 1995
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/163ed43f-b04e-4481-baf9-d6bf3a0db7e4
+  title: Kammermusik
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64f6678-6f11-4a41-8706-9b61245f92a7
+  recordings: [637f00b4-53e6-426d-97ef-f4d034d9cadd, 9984a43d-130a-43e1-845f-4635b576c666, db89c7a9-7dcd-427b-a75c-c86126acced4]

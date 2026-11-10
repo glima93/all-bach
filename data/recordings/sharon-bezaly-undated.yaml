@@ -1,0 +1,30 @@
+id: sharon-bezaly-undated
+performers:
+- name: Sharon Bezaly
+  role: flute
+- name: Terence Charlston
+  role: harpsichord
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '1031', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0930e5f2-d55e-4cc1-b212-1d5386e3869d
+  title: 'Rise of the Masters: 100 Supreme Classical Masterpieces: Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9091ade7-02a8-42b8-9fe5-78022a91398b
+  recordings: [6df70a08-c374-466a-837b-43ae1ee210a7, 8fbebf38-6fda-45dd-9a2e-82b0b577f2e5]

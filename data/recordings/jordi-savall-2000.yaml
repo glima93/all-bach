@@ -1,0 +1,29 @@
+id: jordi-savall-2000
+performers:
+- name: Jordi Savall
+  role: viola da gamba
+- name: Ton Koopman
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Colegiata de Sant Vicenç
+released: 2000
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6a526734-d3b9-4fd5-9923-6cb453f8f032
+  title: Die Sonaten für Viola da gamba und Cembalo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9a4bb654-35c5-4c88-8460-39d5bb01aa57
+  recordings: [ebea3461-9c9c-4e1b-a0ed-2e4357be35a4, f06b65bc-2b9e-4734-9153-f9f0c537c543]

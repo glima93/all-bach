@@ -1,0 +1,30 @@
+id: wendy-isaac-bergin-undated
+performers:
+- name: Wendy Isaac Bergin
+  role: flute
+- name: Joanne Vollendorf Clark
+  role: piano
+instrument: flute
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '1031', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0a58e4f9-1bae-4bce-a865-418c90d59c85
+  title: 'Music for a Winter''s Day: Works for Pipe Organ, Flute and Piano'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 53ffe1bb-0af4-4643-b66e-69d8253d807c
+  recordings: [deab6de7-111d-456c-bc22-33a332d27d2e]

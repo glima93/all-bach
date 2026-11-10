@@ -1,0 +1,30 @@
+id: masato-suzuki-undated
+performers:
+- name: Masato Suzuki
+  role: harpsichord
+- name: Antoine Tamestit
+  role: viola
+instrument: viola
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6ea2295b-bbcc-49ad-bb4b-92e5b5fab367
+  title: 3 Sonatas for Viola [da Gamba] and Harpsichord
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38149487-3d79-43b6-9590-dcff33287004
+  recordings: [a475d811-b69a-49d6-8aab-9bebf4bcd0c5]

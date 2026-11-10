@@ -1,0 +1,32 @@
+id: wieland-kuijken-undated-3
+performers:
+- name: Wieland Kuijken
+  role: viola da gamba
+- name: Piet Kuijken
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f061e01d-8e74-49bc-a8bf-50091f4feb52
+  title: 6 Suites à Violoncello Solo / Sonate à Cembalo è Viola da Gamba
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e3cee123-59a2-4813-97c1-cabd099cb076
+  recordings: [6a6b9633-bbbf-4355-8778-b9ad2d301bf1]

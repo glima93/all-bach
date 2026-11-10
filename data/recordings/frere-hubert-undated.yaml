@@ -1,0 +1,32 @@
+id: frere-hubert-undated
+performers:
+- name: Frère Hubert
+  role: flute
+- name: Jacques Berthier
+  role: organ
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '1030', complete: false, movements: [II. Largo e dolce]}
+- {bwv: '1031', complete: false, movements: [II. Siciliano]}
+- {bwv: '1034', complete: false, movements: [I. Adagio ma non tanto, III. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef99d1b5-faec-408e-becd-19807205853b
+  title: La Voie Intérieure
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7afc65fa-6981-40f0-b7a7-0595c14466f7
+  recordings: [f271ea1f-a239-49a3-bf19-7f166d338aa6]

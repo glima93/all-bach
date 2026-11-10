@@ -1,0 +1,30 @@
+id: zuzana-ruzickova-1996-2
+performers:
+- name: Zuzana Růžičková
+  role: harpsichord
+- name: Josef Suk
+  role: viola
+instrument: viola
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1996]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cbb11ba0-789a-4fa2-bbea-954ba5ca2c51
+  title: Sonatas BWV 1020, 1022, 1027-1029
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a0c08260-98d0-4d6c-848d-29c92ba0babf
+  recordings: [2c45e6cd-7487-4b13-81af-84dc2b00225c]

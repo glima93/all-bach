@@ -1,0 +1,31 @@
+id: amy-brucksch-undated
+performers:
+- name: Amy Brucksch
+  role: guitar
+- name: Kate Steinbeck
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1033', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3dd21e34-0aa7-4473-a990-012b90ce358f
+  title: Luminescence
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: efa7d4d3-4480-45b2-af94-61d064f5d532
+  recordings: [9ea8ffd2-0dc5-42a2-a479-17d12c6754f0]

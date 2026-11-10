@@ -1,0 +1,34 @@
+id: la-cetra-barockorchester-basel-undated-3
+performers:
+- name: La Cetra Barockorchester Basel
+  role: orchestra
+- name: Maurice Steger
+  role: recorder
+- name: Jonathan Pešek
+  role: cello
+- name: Sebastian Wienand
+  role: harpsichord
+instrument: recorder
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1035', complete: false, movements: [I. Adagio ma non tanto, II. Allegro, IV. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2456f348-86a9-4305-97fb-57d2b8cabe12
+  title: A Tribute to Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0f8a79ba-8a22-4704-8f91-540a0dfe465c
+  recordings: [b38dd65a-18ba-4ce8-91e1-d5864523c64c]

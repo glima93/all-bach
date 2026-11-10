@@ -1,0 +1,31 @@
+id: eckhardt-gunther-undated
+performers:
+- name: Eckhardt Günther
+  role: guitar
+- name: Hans Mühre
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1033', complete: false, movements: [III. Adagio, IV. Menuetto I, V. Menuetto II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/be8ed8a3-ef60-4009-aed3-0359bab32b27
+  title: 'Encounters: Chamber Music for Flute & Guitar'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: 436c5fe9-929f-4b76-8848-c42899991273
+  recordings: [00ae488f-a392-42d0-9241-d9a69bef396b]

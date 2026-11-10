@@ -1,0 +1,33 @@
+id: similia-undated
+performers:
+- name: Similia
+  role: ensemble
+- name: Annie Labrie
+  role: classical guitar
+- name: Nadia Labrie
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '1034', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8cd45e0c-3aac-486f-993b-0da65bf96e12
+  title: Cantabile
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With classical guitar.
+musicbrainz:
+  artist: e73cdaf9-1c89-4439-a8e2-663d3886a598
+  recordings: [8d3df9a0-e9b9-4248-a81d-f4aec36aae80]

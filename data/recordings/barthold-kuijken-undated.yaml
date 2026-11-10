@@ -1,0 +1,28 @@
+id: barthold-kuijken-undated
+performers:
+- name: Barthold Kuijken
+  role: flute
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf0cd150-8ae9-4eec-9c6e-06b55347dc29
+  title: Solo pour la flute traversiere
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 78d102d1-c148-4cbe-8d05-32b866a9fa21
+  recordings: [29be1324-a7e1-4bbf-b260-b86ed9c0f3bd]

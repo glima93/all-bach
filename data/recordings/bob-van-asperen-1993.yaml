@@ -1,0 +1,28 @@
+id: bob-van-asperen-1993
+performers:
+- name: Bob van Asperen
+  role: harpsichord
+- name: Barthold Kuijken
+  role: transverse flute
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: Doopsgezinde kerk
+released: 1993
+original_label: null
+works:
+- {bwv: '1031', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9976bcbe-d3d4-49d0-965a-610e240217cb
+  title: Complete Flute Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f7af258-5683-4fdd-be7a-6e60d69ad12a
+  recordings: [51f0fe18-fe5d-40d7-a1f3-3e0eb390c881]

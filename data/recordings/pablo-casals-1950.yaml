@@ -1,0 +1,30 @@
+id: pablo-casals-1950
+performers:
+- name: Pau Casals
+  role: cello
+- name: Paul Baumgartner
+  role: piano
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1950]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b4b6acfb-ba57-4d3f-9bf5-f0760c9f4985
+  title: 3 Sonatas
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 2fcffd9a-f02a-4a2c-8085-6257f918949d
+  recordings: [4c4f0f86-ac36-4387-b995-05eb90db01cb, b1513c9e-4f71-4cd7-870e-de4e6595a588]

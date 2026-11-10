@@ -1,0 +1,36 @@
+id: stephen-preston-1975
+performers:
+- name: Stephen Preston
+  role: flute
+- name: Jordi Savall
+  role: viola da gamba
+- name: Trevor Pinnock
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1975]
+  place: St. Andrews Church
+released: 1997
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d6425b7c-53d0-4a81-b975-899474d74fa5
+  title: The Flute Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7a2ac616-e205-4a73-95e2-13ed15b93028
+  recordings: [62294280-4cdd-478a-adef-54daea061463, 86f186b6-4732-4954-ada1-a49c991d7e0b, f808eb7d-58d8-4fe7-9e1f-df298f6a2ce6]

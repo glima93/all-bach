@@ -1,0 +1,16 @@
+bwv: "1032"
+title: "Flute Sonata in A major"
+key: "A major"
+collection: "Flute Sonatas and Partita"
+genre: chamber
+scoring: "Flute and obbligato harpsichord"
+composed: "Probably 1730s (dating debated); the autograph score is incomplete"
+movements:
+  - "I. Vivace"
+  - "II. Largo e dolce"
+  - "III. Allegro"
+notes: "Forty-six bars are lost from the autograph, so performances rely on one of several modern reconstructions."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Flute_Sonata_in_A_major,_BWV_1032"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/a9b9053b-cb1d-4973-9a23-df2f0dac6fb7

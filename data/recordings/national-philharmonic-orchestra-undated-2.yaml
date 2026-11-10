@@ -1,0 +1,31 @@
+id: national-philharmonic-orchestra-undated-2
+performers:
+- name: National Philharmonic Orchestra
+  role: orchestra
+- name: James Galway
+  role: flute
+- name: Charles Gerhardt
+  role: conductor
+instrument: flute
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: St. Giles’ without Cripplegate
+released: 1978
+original_label: null
+works:
+- {bwv: '1033', complete: false, movements: [II. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/26ffcc7e-eb43-433b-8d11-0043d00a224a
+  title: The Magic Flute of James Galway
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a94c0f47-7caa-42b6-b9b3-4708f6fbe7de
+  recordings: [3cbed898-2eb3-4598-95ab-253bad84f578]

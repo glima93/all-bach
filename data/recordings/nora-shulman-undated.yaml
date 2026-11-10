@@ -1,0 +1,28 @@
+id: nora-shulman-undated
+performers:
+- name: Nora Shulman
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1033', complete: false, movements: [IV. Menuetto I, V. Menuetto II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a30187aa-419c-4ffa-bdef-08021539bf14
+  title: 'RCM Flute: Overtones Book 03'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1074dde5-0ddc-41fe-9c0a-7d13eb3f3fd6
+  recordings: [0e0fae59-e3a8-4e40-be9a-e4a5aafc679b]

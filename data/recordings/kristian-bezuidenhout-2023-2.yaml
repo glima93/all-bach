@@ -1,0 +1,29 @@
+id: kristian-bezuidenhout-2023-2
+performers:
+- name: Kristian Bezuidenhout
+  role: harpsichord
+- name: Isabelle Faust
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2023]
+  place: Doopsgezinde Gemeente
+released: 2025
+original_label: null
+works:
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1d9a3a1c-e18b-4319-ba40-6c2059468f12
+  title: Sonatas for Violin and Continuo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With violin.
+musicbrainz:
+  artist: 49fba3f8-644c-4bb4-9ff3-a1a61bd11844
+  recordings: [a50c1934-f6f2-4c68-85d1-73e8ce4ec575]

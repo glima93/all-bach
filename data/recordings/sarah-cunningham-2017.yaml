@@ -1,0 +1,29 @@
+id: sarah-cunningham-2017
+performers:
+- name: Sarah Cunningham
+  role: viola da gamba
+- name: Richard Egarr
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: United Church of New Marlborough
+released: 2021
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5ece8a71-4b20-447a-8b29-3113fd04fa57
+  title: Sonatas for Viola da Gamba & Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5561cc3c-017d-482c-ad68-81d7420b107f
+  recordings: [7409a440-c84a-4961-b29d-13b531190ca6]

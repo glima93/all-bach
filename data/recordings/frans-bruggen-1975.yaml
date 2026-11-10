@@ -1,0 +1,34 @@
+id: frans-bruggen-1975
+performers:
+- name: Frans Brüggen
+  role: transverse flute
+- name: Anner Bylsma
+  role: cello
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1975]
+  place: Doopsgezinde kerk
+released: 1988
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/70f4156d-c349-45bc-ab97-fd54c82caea9
+  title: Complete Sonatas & Partita for Transver Flute & Alternative Instrumentations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ef36a7b-c93c-4e05-9d23-2dd9f85c653a
+  recordings: [11486481-cea1-49ec-a54a-f04a3408a632, 17e4c4b4-8e27-441d-a816-cb8621463153, f9fb36ee-d310-4a0f-a288-5c750573338d]

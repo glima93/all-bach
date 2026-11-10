@@ -1,0 +1,35 @@
+id: julius-baker-undated
+performers:
+- name: Julius Baker
+  role: flute
+- name: Sylvia Marlowe
+  role: harpsichord
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: false, movements: [I. Vivace, II. Largo e dolce]}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bfabca42-3c9c-4353-bd52-8681820f6ae6
+  title: Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f9096958-9149-43cb-a051-f54b59b46ee7
+  recordings: [223f397f-1fe4-438b-bdd7-715627f2359a]

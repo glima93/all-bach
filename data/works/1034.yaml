@@ -1,0 +1,17 @@
+bwv: "1034"
+title: "Flute Sonata in E minor"
+key: "E minor"
+collection: "Flute Sonatas and Partita"
+genre: chamber
+scoring: "Flute and basso continuo"
+composed: "c. 1720s, traditionally assigned to the Köthen years (1717–23), though it may date from Bach's early Leipzig period"
+movements:
+  - "I. Adagio ma non tanto"
+  - "II. Allegro"
+  - "III. Andante"
+  - "IV. Allegro"
+notes: "One of two sonatas for flute and continuo, with BWV 1035, generally accepted as Bach's own."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Flute_Sonata_in_E_minor,_BWV_1034"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e639b3db-8695-4101-b527-16d75ae5e8cd

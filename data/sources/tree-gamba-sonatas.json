@@ -1,0 +1,72 @@
+{
+ "collection": "gamba-sonatas",
+ "taken": "2026-11-09",
+ "recordings": 468,
+ "performances": 84,
+ "works": [
+  {
+   "bwv": "1028",
+   "id": "a1e32893-134b-4ee2-802a-0ee899b3e789",
+   "candidates": [
+    {
+     "id": "a1e32893-134b-4ee2-802a-0ee899b3e789",
+     "title": "Sonate für Viola da Gamba und Cembalo D-Dur, BWV 1028"
+    },
+    {
+     "id": "6542b50a-986c-484a-b05e-544e7b916003",
+     "title": "Sonate für Viola da Gamba und Cembalo D-Dur, BWV 1028"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate für Viola da Gamba und Cembalo D-Dur, BWV 1028",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "cb15fe1a-a749-328b-b943-a59f3ea4f52e",
+     "title": "Sonate für Viola da Gamba und Cembalo D-Dur, BWV 1028: I. Adagio"
+    },
+    {
+     "id": "c659f8ca-7b18-3d1e-be02-c64e5ee418f6",
+     "title": "Sonate für Viola da Gamba und Cembalo D-Dur, BWV 1028: II. Allegro"
+    },
+    {
+     "id": "233eda88-77e9-3a34-ac13-49ed947b55a2",
+     "title": "Sonate für Viola da Gamba und Cembalo D-Dur, BWV 1028: III. Andante"
+    },
+    {
+     "id": "28bf0258-0b33-377d-832a-5b66a96deabd",
+     "title": "Sonate für Viola da Gamba und Cembalo D-Dur, BWV 1028: IV. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "1029",
+   "id": "e91e83f2-3859-421f-b900-a8e247707188",
+   "candidates": [
+    {
+     "id": "e91e83f2-3859-421f-b900-a8e247707188",
+     "title": "Sonate für Viola da Gamba und Cembalo g-Moll, BWV 1029"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate für Viola da Gamba und Cembalo g-Moll, BWV 1029",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "df9f1c2a-71de-3205-8376-403dc50a05f3",
+     "title": "Sonate für Viola da Gamba und Cembalo g-Moll, BWV 1029: I. Vivace"
+    },
+    {
+     "id": "efe2bb8a-cda1-3789-ab1a-ddd68d38853a",
+     "title": "Sonate für Viola da Gamba und Cembalo g-Moll, BWV 1029: II. Adagio"
+    },
+    {
+     "id": "7124e4c5-bf63-348a-969b-27651a61e4fb",
+     "title": "Sonate für Viola da Gamba und Cembalo g-Moll, BWV 1029: III. Allegro"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+id: byron-hedgepeth-undated
+performers:
+- name: Byron Hedgepeth
+  role: percussion
+- name: Kate Steinbeck
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1034', complete: false, movements: [III. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7bec341f-b2e0-4c83-9676-befd70441515
+  title: Light in the Corner
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With percussion.
+musicbrainz:
+  artist: 3ae13e14-3575-4751-be78-3f3f4f7c6b98
+  recordings: [f3d464b1-0fb8-4aea-b77e-8326d78a5b50]

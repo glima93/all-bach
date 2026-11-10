@@ -1,0 +1,36 @@
+id: alexander-murray-undated
+performers:
+- name: Alexander Murray
+  role: flute
+- name: Martha Goldstein
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1974
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1b6caece-d1a8-467c-a9f3-78d723a8aa40
+  title: Music for the Solo Traverso Vol. 1 Authentic and Complete Works from the Neue Bach Gesellschaft
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2eba130a-ce34-4618-bb7e-c697a8b1501f
+  recordings: [2b327649-0361-449e-84bb-438de933e986, 538b6d36-fa24-41f2-8b38-2ab37231af77]

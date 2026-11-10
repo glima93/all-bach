@@ -1,0 +1,35 @@
+id: wilbert-hazelzet-2001-3
+performers:
+- name: Wilbert Hazelzet
+  role: transverse flute
+- name: Jaap ter Linden
+  role: cello
+- name: Jacques Ogg
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001, 2002]
+  place: Maria Minor
+released: 2002
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3b112da2-043d-4af1-9e4f-94a6d6e542dd
+  title: The Flute Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64f6678-6f11-4a41-8706-9b61245f92a7
+  recordings: [665587f7-aa52-42aa-b62b-16b8475a05fa]

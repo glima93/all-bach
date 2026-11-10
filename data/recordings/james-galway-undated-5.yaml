@@ -1,0 +1,41 @@
+id: james-galway-undated-5
+performers:
+- name: James Galway
+  role: flute
+- name: David Lumsden
+  role: harpsichord
+- name: Jane Ryan
+  role: viola da gamba
+- name: London Virtuosi
+  role: ensemble
+- name: John Georgiadis
+  role: performer
+- name: Brian Hawkins
+  role: performer
+- name: Anthony Camden
+  role: performer
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1972
+original_label: null
+works:
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eca3e3ec-ab3a-4b9e-afd2-0b512abaae32
+  title: Serenade for Flute
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84045b93-beb0-4bc8-a855-93266ec6bbdc
+  recordings: [07e798ef-0778-416f-a16d-ebf962286979, d1421080-db71-4fbd-bd39-c75ed7719098]

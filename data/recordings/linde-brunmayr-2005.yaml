@@ -1,0 +1,26 @@
+id: linde-brunmayr-2005
+performers:
+- name: Linde Brunmayr
+  role: flute
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2005]
+  place: Kartause Mauerbach
+released: 2006
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aceb7fb5-7dea-407c-a1b1-2c6be8ece009
+  title: Flute Sonatas & Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3944ca03-66b7-4d4e-b9d9-133a8502687c
+  recordings: [a0ea735c-51c3-48b3-8b90-3dca427ff457]

@@ -1,0 +1,26 @@
+id: anna-garzuly-wahlgren-2017
+performers:
+- name: Anna Garzuly-Wahlgren
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: 'Gewandhaus: Mendelssohn-Saal'
+released: 2018
+original_label: null
+works:
+- {bwv: '1013', complete: false, movements: [IV. Bourrée anglaise]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6c071888-ece3-428c-96c7-87b0c069d243
+  title: 'Suite imaginaire: Baroque Works for Solo Flute'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 825ca0cd-c11a-4f76-b8d9-0f5607e19feb
+  recordings: [c98a7b3e-d6b2-4a90-862c-4ed8d45a79db]

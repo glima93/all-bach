@@ -1,0 +1,30 @@
+id: paul-meisen-undated
+performers:
+- name: Paul Meisen
+  role: concert flute
+- name: Gabriel Rosenberg
+  role: piano
+instrument: flute
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1030', complete: false, movements: [I. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a5b48acd-2eb8-47df-9d38-2cbc2c80c953
+  title: Hommage à Johann Sebastian Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: be01e786-0715-4053-ac90-6dbcf53a6f75
+  recordings: [2b7b0b3f-3025-47cc-bfd5-9bad9ededf9d]

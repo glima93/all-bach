@@ -1,0 +1,28 @@
+id: jorg-hahnlein-undated
+performers:
+- name: Jörg Hähnlein
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/16d8dafb-a4ac-4e01-834f-b6e797773e21
+  title: The World of the Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 711e7a9d-8233-45c7-a4c6-68d2aa93636c
+  recordings: [14c62e1a-8e1c-461d-9b0e-f2470466340c]

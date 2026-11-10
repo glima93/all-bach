@@ -1,0 +1,32 @@
+id: valerie-balssa-2003
+performers:
+- name: Valérie Balssa
+  role: flute
+- name: Jean-Pierre Pinet
+  role: flute
+- name: Hager Hanana
+  role: cello
+- name: Blandine Rannou
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: [2003, 2004]
+  place: Église luthérienne de Bon Secours
+released: 2004
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9065ad83-d7e0-481b-b967-4a50588dc8a1
+  title: Sonates en Trio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 312a8d09-a2ca-45aa-9326-e86a9e41bcbf
+  recordings: [4690f92a-22ba-45c4-8b57-1bf67f3f9dd1]

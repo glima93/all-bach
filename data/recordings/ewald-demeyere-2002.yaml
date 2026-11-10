@@ -1,0 +1,32 @@
+id: ewald-demeyere-2002
+performers:
+- name: Ewald Demeyere
+  role: harpsichord
+- name: Barthold Kuijken
+  role: transverse flute
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2002]
+  place: Doopsgezinde kerk
+released: 2002
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1d9a7f4-3a65-4049-a944-ff8155895d05
+  title: Flute Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9e36fd4a-6a5c-4aa4-80b3-94a7ced473a2
+  recordings: [d2682176-91aa-48fa-8bb3-1922ae1d528f]

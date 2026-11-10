@@ -1,0 +1,16 @@
+bwv: "1030"
+title: "Flute Sonata in B minor"
+key: "B minor"
+collection: "Flute Sonatas and Partita"
+genre: chamber
+scoring: "Flute and obbligato harpsichord"
+composed: "Leipzig, after 1735; autograph score survives, and a harpsichord part in G minor suggests an earlier version"
+movements:
+  - "I. Andante"
+  - "II. Largo e dolce"
+  - "III. Presto - Allegro"
+notes: "One of the sonatas for flute and obbligato harpsichord that are accepted as Bach's own; the autograph contains a number of errors."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Flute_Sonata_in_B_minor,_BWV_1030"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/6bdb38e2-7cfb-4d79-9046-0ee170cf47ad

@@ -1,0 +1,30 @@
+id: paolo-pandolfo-1994
+performers:
+- name: Paolo Pandolfo
+  role: viola da gamba
+- name: Rinaldo Alessandrini
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b2c75089-3663-48d0-a2b8-adef88b45443
+  title: Sonates et suite pour viole de gambe et clavecin
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8c546e4-7c90-4818-9796-8f4bc7d2a7b1
+  recordings: [6917914d-51c1-48f5-ad05-c2ce41647a78]

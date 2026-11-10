@@ -1,0 +1,30 @@
+id: leopold-mannes-undated
+performers:
+- name: Leopold Mannes
+  role: piano
+- name: John Wummer
+  role: flute
+instrument: flute
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/581435d8-0bb3-432f-9d60-3bcaf3fbdf1d
+  title: Bach Festival - Prades 1950 Volume III
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6201610-3b44-4f78-baf7-aee2d83317ff
+  recordings: [28589ca2-6631-4fb6-a8c1-b1a71eabf332]

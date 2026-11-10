@@ -1,0 +1,30 @@
+id: the-aulos-ensemble-undated-3
+performers:
+- name: The Aulos Ensemble
+  role: ensemble
+instrument: unknown
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1034', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ff53f9a2-d814-44a8-a979-6f6494d0d47d
+  title: Eight Sonatas for Diverse Instruments
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5b31561f-f24d-4099-b561-8d52a063a69e
+  recordings: [a84beea9-4f52-42e3-a5b2-e32ae5a982d3]

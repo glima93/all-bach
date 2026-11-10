@@ -1,0 +1,31 @@
+id: pieter-wispelwey-1996
+performers:
+- name: Pieter Wispelwey
+  role: violoncello piccolo
+- name: Richard Egarr
+  role: fortepiano
+- name: Daniel Yeadon
+  role: cello
+instrument: violoncello-piccolo
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Hervormde Kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/21adae0e-98b1-46e0-ba36-97ae3f17975f
+  title: Gamba Sonatas, Riddle Preludes, Baroque Perpetua
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9e0a084-82ae-4e84-8ff5-a832f720a194
+  recordings: [652db2f1-caa4-4c87-be51-0edee2922dd7, 8f022874-7960-4c3a-b108-97e20ddc862f]
