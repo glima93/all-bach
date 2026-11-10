@@ -1,0 +1,34 @@
+id: karl-kaiser-1999
+performers:
+- name: Karl Kaiser
+  role: flute
+- name: Musica Alta Ripa
+  role: ensemble
+- name: Bernward Lohr
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ba2c1eb3-6999-4ee9-9fe3-ec0963e6532a
+  title: Flute Sonatas Vol. 2
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 79918b7f-ff21-4642-ab68-f190b3f25e7c
+  recordings: [05180989-886c-4c50-b1ba-9c4640c5c736, 1dc22caf-aefe-4094-a95b-fd4e0e2f93ce, e2c37df2-1177-46b4-9155-8b25a2a9be75]

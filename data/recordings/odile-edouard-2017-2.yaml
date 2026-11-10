@@ -1,0 +1,29 @@
+id: odile-edouard-2017-2
+performers:
+- name: Odile Edouard
+  role: violin
+- name: Freddy Eichelberger
+  role: organ
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2017]
+  place: Temple de Boudry
+released: 2020
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f2de328-371d-48e0-a019-f8dcb5f1f3ac
+  title: Trios pour clavier et violon (Sechs Trios fürs Clavier und die Violine)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With violin.
+musicbrainz:
+  artist: 1f1de3c1-b5ac-47b3-bb80-fa5f94db21b1
+  recordings: [fcb17eae-cbee-4302-b6b8-27c9989b6844]

@@ -1,0 +1,36 @@
+id: petri-alanko-1995-2
+performers:
+- name: Petri Alanko
+  role: flute
+- name: Anssi Mattila
+  role: harpsichord
+- name: Jukka Rautasalo
+  role: cello
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8cb2c8ed-f104-4303-9b50-c79ddbfa22d7
+  title: 'Flute Sonatas, Volume 2: BWV 1020, 1030, 1033 and 1035 / Trio Sonata, BWV 1039'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24ce509a-f809-4de2-9ae0-a39fa04fa5c4
+  recordings: [1aa7e612-1df0-4e32-9251-a4488511eace, b6d6d493-9f6e-4cbe-9eb7-758272082745]

@@ -1,0 +1,30 @@
+id: violaine-cochard-undated-5
+performers:
+- name: Violaine Cochard
+  role: harpsichord
+- name: Ophélie Gaillard
+  role: violoncello piccolo
+instrument: violoncello-piccolo
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1028', complete: false, movements: [I. Adagio, II. Allegro, III. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a08c2d3d-3763-4ba2-bacf-ec2d8ccea7fd
+  title: Cantatas with Violoncello Piccolo
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 98c0256b-1828-45ab-8b33-5bf63093aa27
+  recordings: [0ae85092-dd27-406e-8a38-47b5751d9dde]

@@ -1,0 +1,30 @@
+id: bruno-canino-undated
+performers:
+- name: Bruno Canino
+  role: harpsichord
+- name: Severino Gazzelloni
+  role: concert flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1981
+original_label: null
+works:
+- {bwv: '1031', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/87a039ec-be49-4238-aca8-3471b90ac2ad
+  title: Il Flauto nel Barocco Italiano e Tedesco
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9de731f6-bca7-4d97-8963-21677ef0f41b
+  recordings: [9b0d9f8f-5b07-42d3-a147-524f4f9db7a9]

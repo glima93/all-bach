@@ -1,0 +1,29 @@
+id: hille-perl-1998
+performers:
+- name: Hille Perl
+  role: viola da gamba
+- name: Michael Behringer
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Pfarrkirche Mariä Krönung
+released: 2000
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/61519f7d-156e-41db-9e23-6b92da8a9dc3
+  title: Sonaten für Viola da Gamba und Cembalo, BWV 1027–1029
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0e672875-c893-4b15-b68c-6a5beac9462a
+  recordings: [b194c638-4d11-4520-b5a3-d8665384d7ce]

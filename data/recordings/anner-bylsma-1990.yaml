@@ -1,0 +1,29 @@
+id: anner-bylsma-1990
+performers:
+- name: Anner Bylsma
+  role: violoncello piccolo
+- name: Bob van Asperen
+  role: harpsichord
+instrument: violoncello-piccolo
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Hervormde Kerk
+released: 1990
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e79e7d55-b46f-46f0-b9af-da95993f5b49
+  title: 'J.S. Bach: Sonatas for Viola da Gamba / J.C.F. Bach: Sonata in A (from "Musikalisches Vielerley")'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 68ff4d23-dbd3-459a-a295-df867b8ce9b9
+  recordings: [303feb33-8ee6-4633-ba39-b736a0740243]

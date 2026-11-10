@@ -1,0 +1,28 @@
+id: hans-ola-ericsson-1995
+performers:
+- name: Hans‐Ola Ericsson
+  role: harpsichord
+- name: Lena Weman
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Frimurarna i Uppsala
+released: 1996
+original_label: null
+works:
+- {bwv: '1031', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/63ee77a3-bcc9-4da2-96af-cad5e097aa77
+  title: Complete Sonatas for Flute and Obbligato Keyboard Instrument
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 61b9f392-6ac4-4ac2-9c15-077b7b363d0b
+  recordings: [2a11b234-a307-4d1b-8a9f-d3e9ccc986b9]

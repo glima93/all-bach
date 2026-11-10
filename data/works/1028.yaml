@@ -1,0 +1,17 @@
+bwv: "1028"
+title: "Sonata for Viola da Gamba and Harpsichord No. 2 in D major"
+key: "D major"
+collection: "Sonatas for viola da gamba and harpsichord"
+genre: chamber
+scoring: "Viola da gamba and obbligato harpsichord"
+composed: "Probably Leipzig, late 1730s or early 1740s; no autograph survives, and the work is known from a copy in score with a separate solo part by Christian Friedrich Penzel"
+movements:
+  - "I. Adagio"
+  - "II. Allegro"
+  - "III. Andante"
+  - "IV. Allegro"
+notes: "The second of the three sonatas BWV 1027–1029. Of the set, only the first sonata, BWV 1027, survives in Bach's autograph."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Sonatas_for_viola_da_gamba_and_harpsichord_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/a1e32893-134b-4ee2-802a-0ee899b3e789

@@ -1,0 +1,33 @@
+id: pauliina-fred-2015
+performers:
+- name: Pauliina Fred
+  role: flute
+- name: Aapo Häkkinen
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2015]
+  place: Vihdin kirkko
+released: 2016
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/895165c5-37e7-4b78-a416-a0fae00e03cf
+  title: Sonatas for Flute and Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 80c2e552-846f-4933-bd6e-a5b753a4732c
+  recordings: [e3032714-0a44-4beb-96df-216e5fadc2c7]

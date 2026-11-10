@@ -1,0 +1,16 @@
+bwv: "1031"
+title: "Flute Sonata in E-flat major"
+key: "E-flat major"
+collection: "Flute Sonatas and Partita"
+genre: chamber
+scoring: "Flute and obbligato harpsichord"
+composed: null
+movements:
+  - "I. Allegro moderato"
+  - "II. Siciliano"
+  - "III. Allegro"
+notes: "Of doubtful authorship: a copy by C. P. E. Bach and a second source from Christian Friedrich Penzel attribute it to J. S. Bach, but it has also been ascribed to C. P. E. Bach himself (H. 545). Jeanne Swack has pointed to its close structural resemblance to a flute sonata in E-flat by Johann Joachim Quantz."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Flute_Sonata_in_E-flat_major,_BWV_1031"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/3ac58155-23ee-4737-81dc-ffc7336663d6

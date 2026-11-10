@@ -1,0 +1,31 @@
+id: jonathan-manson-undated
+performers:
+- name: Jonathan Manson
+  role: viola da gamba
+- name: Trevor Pinnock
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/75c2dfa8-5bb3-45f0-951f-e735b70525ef
+  title: Viola da Gamba and Harpsichord Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d3c7de5f-76d0-43e3-92df-4195e324157e
+  recordings: [35633e04-b5f1-4df5-9616-0f0b4d3b54bb]

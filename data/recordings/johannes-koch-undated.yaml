@@ -1,0 +1,31 @@
+id: johannes-koch-undated
+performers:
+- name: Johannes Koch
+  role: viola da gamba
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f59095aa-a9a0-4f60-95cb-5128011d920d
+  title: BWV 1027-1029
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 079084e0-efe7-417d-96c9-d8933ff5e727
+  recordings: [5d13bffd-1a2d-4fa0-9eca-cf5163c12532]

@@ -1,0 +1,29 @@
+id: marie-stockmarr-becker-2020
+performers:
+- name: Marie Stockmarr Becker
+  role: viola
+- name: Ilaria Macedonio
+  role: harpsichord
+instrument: viola
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020]
+  place: Garnisonskirken
+released: 2021
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2003fa4f-9d32-4bac-8da1-8faabafa3bb1
+  title: 'J. S. Bach: Sonatas for Viola (da Gamba) and Harpsichord'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b806766a-7b01-4f78-a0c1-579af620e867
+  recordings: [9a38ab39-9ba6-4fd7-987b-4e9f0b6ad67b]

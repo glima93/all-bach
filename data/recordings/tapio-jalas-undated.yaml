@@ -1,0 +1,28 @@
+id: tapio-jalas-undated
+performers:
+- name: Tapio Jalas
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2557508b-c5a5-4b89-8bc7-46ceb5914fbd
+  title: Huilumusiikkia
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dd33408b-0b28-4e0d-914c-924c97abc773
+  recordings: [1ebad9ff-8d37-4086-919d-02399d002c44]

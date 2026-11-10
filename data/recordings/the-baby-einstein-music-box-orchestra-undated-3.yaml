@@ -1,0 +1,29 @@
+id: the-baby-einstein-music-box-orchestra-undated-3
+performers:
+- name: The Baby Einstein Music Box Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1031', complete: false, movements: [I. Allegro moderato, III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e2d6f7d-8bed-32e7-8f57-63c46d8fd1b6
+  title: Baby Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0d1d8c87-7654-4574-bbdd-62567255c5f0
+  recordings: [fa07b5f2-36ac-47c1-9ae7-3fac960d57c6]

@@ -1,0 +1,35 @@
+id: jean-pierre-rampal-1985-2
+performers:
+- name: Jean‐Pierre Rampal
+  role: flute
+- name: Trevor Pinnock
+  role: harpsichord
+- name: Roland Pidoux
+  role: cello
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985]
+  place: Église Notre‐Dame du Liban
+released: 1985
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b3066227-4602-4e5f-83ab-24b918726742
+  title: Sonatas for Flute
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4deb8a6c-38f1-47d6-9e75-ada1add9dd65
+  recordings: [517a89bb-c43b-4b45-b936-d3ccecaab41a, bac1ae54-9cad-4e0e-adeb-da2c7680db06, cb075003-4eef-49bc-8fcb-411cb81cd37c]

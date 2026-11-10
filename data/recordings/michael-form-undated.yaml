@@ -1,0 +1,34 @@
+id: michael-form-undated
+performers:
+- name: Michael Form
+  role: flute
+- name: Fabio Bonizzoni
+  role: performer
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c0bc471-73b5-46e8-b176-ab5bc564db33
+  title: Flute Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 302e03ad-0f53-4a8e-9fb3-30c1be16f299
+  recordings: [518242c0-20c6-4eb5-b54e-9c7fd34e2cf3, 8926a1bc-85f4-41e7-a1a1-f4ea08a3e13a]

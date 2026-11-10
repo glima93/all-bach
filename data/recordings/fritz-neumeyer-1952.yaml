@@ -1,0 +1,29 @@
+id: fritz-neumeyer-1952
+performers:
+- name: Fritz Neumeyer
+  role: harpsichord
+- name: August Wenzinger
+  role: viola da gamba
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1952]
+  place: Paulussaal
+released: 1954
+original_label: null
+works:
+- {bwv: '1028', complete: false, movements: [I. Adagio, II. Allegro, III. Andante]}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0ab4adb5-1752-4584-a09f-cc02941dc2ec
+  title: 3 Sonaten für Viola da Gamba und obligates Cembalo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 80c376e6-255e-45d7-ab08-b42ae88160e8
+  recordings: [81c39663-2804-4301-9c26-a9dc22a524ba, 941a7e74-08f1-4355-a5ae-f3e012383aab]

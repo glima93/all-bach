@@ -1,0 +1,33 @@
+id: jean-pierre-rampal-undated-3
+performers:
+- name: Jean‐Pierre Rampal
+  role: flute
+- name: Robert Veyron‐Lacroix
+  role: harpsichord
+- name: Jordi Savall
+  role: viola da gamba
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a1803ce-6264-4c2d-ad48-0bb1c4d14429
+  title: 'The Complete Erato Recordings: III. 1970-82'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4deb8a6c-38f1-47d6-9e75-ada1add9dd65
+  recordings: [6f4ad646-ca57-4522-af55-36e4db4c13e9]

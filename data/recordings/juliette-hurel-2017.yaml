@@ -1,0 +1,26 @@
+id: juliette-hurel-2017
+performers:
+- name: Juliette Hurel
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Abbaye aux Dames
+released: 2018
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5712d759-94d5-4004-9e4d-925dcf21192a
+  title: Bach Inspiration
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e7c89935-859b-4ec4-941f-08a14b7b0aba
+  recordings: [a7439ef7-35d5-4c26-9bba-d6c835d6437b]

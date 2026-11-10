@@ -1,0 +1,34 @@
+id: irena-grafenauer-1987
+performers:
+- name: Irena Grafenauer
+  role: flute
+- name: Maria Graf
+  role: harp
+- name: David Geringas
+  role: cello
+instrument: flute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1987]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1031', complete: false, movements: [II. Siciliano]}
+- {bwv: '1033', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85efc5d0-3278-45a2-bc27-4abf117969b5
+  title: '3 Sonatas for Flute and Harp: BWV 1020, 1031, 1033 / Partita for Solo Flute / Suite for Harp'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With harp.
+musicbrainz:
+  artist: 70ba5f62-8e76-4ae3-89bd-3f6022e40232
+  recordings: [0a1e6c3a-d040-46f6-b62b-36dddf907046, 22705dab-9577-4007-a779-0d1418176854, 7959c4be-5ec7-4eec-845b-488cd20eb535]

@@ -1,0 +1,30 @@
+id: ensemble-trazom-2000
+performers:
+- name: Ensemble Trazom
+  role: ensemble
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1031', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/df254271-8fa6-49bd-94ae-a74aaf116057
+  title: Flute Sonatas / Trio Sonatas
+status: draft
+help_wanted:
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fd7727d9-90e1-4cc2-b0ee-745c232315e7
+  recordings: [9a06933e-01bd-4556-9736-9d811b395c65]

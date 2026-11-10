@@ -1,0 +1,29 @@
+id: jan-willem-jansen-1995
+performers:
+- name: Jan-Willem Jansen
+  role: harpsichord
+- name: Marianne Muller
+  role: viola da gamba
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: Chapelle des Carmélites
+released: 1995
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3d7e4f5b-3fa5-4336-843c-e2961b8ddb54
+  title: Sonates pour viole de gambe et clavecin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9bf267c4-96aa-4a09-aac7-4ba3e85c2720
+  recordings: [d99ef1e5-e941-485c-bb60-6897351bc14f]

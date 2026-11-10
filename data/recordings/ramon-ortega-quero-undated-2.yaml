@@ -1,0 +1,33 @@
+id: ramon-ortega-quero-undated-2
+performers:
+- name: Ramón Ortega Quero
+  role: oboe
+- name: Luise Buchberger
+  role: cello
+- name: Peter Kofler
+  role: harpsichord
+instrument: oboe
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1034', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c0f08422-e269-4d84-b68c-93925ee399c0
+  title: New Oboe Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With oboe.
+musicbrainz:
+  artist: 6491f31c-6f70-4de7-b204-10eac68fcbd2
+  recordings: [250bcded-3425-4b92-b0e1-fb567d8c758c]

@@ -1,0 +1,18 @@
+bwv: "1033"
+title: "Flute Sonata in C major"
+key: "C major"
+collection: "Flute Sonatas and Partita"
+genre: chamber
+scoring: "Flute and basso continuo"
+composed: "c. 1731, the date of the only source, a manuscript copy by C. P. E. Bach that attributes the work to J. S. Bach"
+movements:
+  - "I. Andante - Presto"
+  - "II. Allegro"
+  - "III. Adagio"
+  - "IV. Menuetto I"
+  - "V. Menuetto II"
+notes: "Of doubtful authorship: scholars question the attribution, and the sonata may be an arrangement by C. P. E. Bach of a flute piece by his father."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Flute_Sonata_in_C_major,_BWV_1033"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/296d5d56-8762-428c-9d57-f4c00e8f6749

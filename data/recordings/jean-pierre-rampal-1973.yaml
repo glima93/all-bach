@@ -1,0 +1,33 @@
+id: jean-pierre-rampal-1973
+performers:
+- name: Jean‐Pierre Rampal
+  role: flute
+- name: Robert Veyron‐Lacroix
+  role: harpsichord
+- name: Jordi Savall
+  role: viola da gamba
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973]
+  place: Église Saint-Jean-Baptiste de Grenelle
+released: 1979
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/26a1bd84-a89f-4f1f-b11d-aa349ed12b8c
+  title: Flute Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4deb8a6c-38f1-47d6-9e75-ada1add9dd65
+  recordings: [3da2cc83-629b-4b52-8618-ca633f954db0]

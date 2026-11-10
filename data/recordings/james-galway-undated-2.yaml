@@ -1,0 +1,30 @@
+id: james-galway-undated-2
+performers:
+- name: James Galway
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '1030', complete: false, movements: [II. Largo e dolce]}
+- {bwv: '1032', complete: false, movements: [II. Largo e dolce]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e5a43e14-3f4c-4ec0-9f91-75903a65e4b3
+  title: The Art of James Galway
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84045b93-beb0-4bc8-a855-93266ec6bbdc
+  recordings: [363a5b0c-d372-43d1-ae3a-9d9debd430fb]

@@ -1,0 +1,29 @@
+id: marten-root-undated
+performers:
+- name: Marten Root
+  role: performer
+- name: Menno van Delft
+  role: performer
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: 'Concertgebouw: Kleine Zaal'
+released: null
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/0946a1c0-80d4-44f2-9b4f-3a1d2d47df25
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 3f929072-577b-421e-a253-01ed48e8e51b
+  recordings: [0946a1c0-80d4-44f2-9b4f-3a1d2d47df25]

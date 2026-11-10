@@ -1,0 +1,27 @@
+id: polina-osetinskaya-2022
+performers:
+- name: Polina Osetinskaya
+  role: piano
+instrument: piano
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2022]
+  place: CineLab SoundMix
+released: 2022
+original_label: null
+works:
+- {bwv: '1031', complete: false, movements: [II. Siciliano]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33d45360-674e-41eb-81b0-02b538dc7823
+  title: Baroque Music in Auteur Cinema
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3d347e94-2408-463d-b8d5-6c01f3b56e7e
+  recordings: [13792050-28a4-4647-83e4-d0b4c86b6454]

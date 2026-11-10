@@ -1,0 +1,29 @@
+id: maxence-larrieu-1984
+performers:
+- name: Maxence Larrieu
+  role: flute
+- name: Susanna Mildonian
+  role: harp
+instrument: flute
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1984]
+  place: Sint Pieters kerk
+released: 1995
+original_label: null
+works:
+- {bwv: '1031', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a036d70f-bbb2-4a78-b57c-f96f564b42bd
+  title: Barok - de collectie
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With harp.
+musicbrainz:
+  artist: c5656f24-24ce-4842-a1b2-f7b569207626
+  recordings: [0204c21e-1eb2-476c-b1f1-a54e2310ab7d]

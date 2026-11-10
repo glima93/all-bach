@@ -1,0 +1,33 @@
+id: marc-beaucoudray-undated
+performers:
+- name: Marc Beaucoudray
+  role: flute
+- name: William Christie
+  role: harpsichord
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3ea96cd3-a5ad-439a-bb1c-746d46243284
+  title: Sonates pour flûte
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e036270c-ffd6-4401-aeae-f97b31256af8
+  recordings: [5a925440-3007-4bff-bbf5-9225a8ddd823]

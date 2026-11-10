@@ -1,0 +1,36 @@
+id: james-galway-undated-3
+performers:
+- name: James Galway
+  role: flute
+- name: Phillip Moll
+  role: harpsichord
+- name: Sarah Cunningham
+  role: viola da gamba
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: The Hit Factory
+released: 1995
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dc321d11-6ff6-4924-b4ca-caaaceca61bb
+  title: Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84045b93-beb0-4bc8-a855-93266ec6bbdc
+  recordings: [8e1255cb-65ce-4ebc-a0a6-c4170f06faa3]

@@ -1,0 +1,32 @@
+id: andre-manz-undated
+performers:
+- name: André Manz
+  role: harpsichord
+- name: Heidi Molnar-Berner
+  role: flute
+- name: Daniel Suter
+  role: cello
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '1034', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/02231847-d6cd-4982-87d8-6c0d81e337c6
+  title: Telemann - Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f145130c-e15d-4514-b1b6-d8c6e4465476
+  recordings: [c398b995-fff1-44b6-9fc6-a90d18e43716]

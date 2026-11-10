@@ -1,0 +1,29 @@
+id: martha-argerich-1985
+performers:
+- name: Martha Argerich
+  role: piano
+- name: Mischa Maisky
+  role: cello
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: Plenarsaal der Akademie der Wissenschaften
+released: 1985
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2acfddde-53cd-49d1-aec6-e4ce582adaad
+  title: Cello-Sonaten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bb8b89e-5700-4d7a-aa0b-d48f8706831d
+  recordings: [66184ee3-4d76-4d58-9ab3-d16f494be403]

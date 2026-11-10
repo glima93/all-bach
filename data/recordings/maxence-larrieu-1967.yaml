@@ -1,0 +1,37 @@
+id: maxence-larrieu-1967
+performers:
+- name: Maxence Larrieu
+  role: flute
+- name: Rafael Puyana
+  role: harpsichord
+- name: Wieland Kuijken
+  role: viola da gamba
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1967]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0b20d16-a721-46ef-91c1-31cfa951db64
+  title: Flute Sonatas / Viola da Gamba Sonatas
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c5656f24-24ce-4842-a1b2-f7b569207626
+  recordings: [157d7f38-e33b-4d90-803a-e83d881de8df, c42db5f5-283e-4a99-a99e-6defad4f57c9, e43f4964-1b30-4623-8b21-f453834974cd]

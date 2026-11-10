@@ -1,0 +1,34 @@
+id: aurele-nicolet-1984
+performers:
+- name: Aurèle Nicolet
+  role: flute
+- name: Christiane Jaccottet
+  role: harpsichord
+- name: Mari Fujiwara
+  role: cello
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Kirche St. Stephan
+released: null
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33053f9c-613c-46ae-9864-710cf4f929ea
+  title: The Complete Sonatas for Flute
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 98b40321-a346-4a73-ba89-7ce868743371
+  recordings: [0dd4ff1e-b748-48c9-8fa8-e640d084134c, c3530d5c-be1b-4297-94aa-b0d08c668393, d26f168a-ec15-43d6-92d9-5154535de772]

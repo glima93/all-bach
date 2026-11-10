@@ -1,0 +1,29 @@
+id: marika-lombardi-undated
+performers:
+- name: Marika Lombardi
+  role: oboe
+instrument: oboe
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5021e367-5c64-4a21-8379-c8ddb66e425e
+  title: Solo
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With oboe.
+musicbrainz:
+  artist: 51dd0bab-c790-417a-a3be-76f45a31463c
+  recordings: [ab13c3b1-47f0-4058-b908-9689e047d005]

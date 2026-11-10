@@ -1,0 +1,29 @@
+id: martin-kuuskmann-undated
+performers:
+- name: Martin Kuuskmann
+  role: bassoon
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f42c21b-3066-46dc-8848-4f3793c4082a
+  title: Nonstop
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on bassoon.
+musicbrainz:
+  artist: fa6b9552-daec-4489-aae7-d2d1a8326d9d
+  recordings: [01074c01-831e-4114-8d60-9c282f8e6f89]

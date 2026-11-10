@@ -1,0 +1,34 @@
+id: paula-robison-undated-3
+performers:
+- name: Paula Robison
+  role: flute
+- name: Kenneth Cooper
+  role: harpsichord
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99bfd174-e463-4b28-abc5-4e65227480e7
+  title: Big Bach Set
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ec969ea-4f63-4a0b-a502-1389966686c4
+  recordings: [33cb046b-e036-4300-a1ef-21b72f5330fa]

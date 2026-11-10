@@ -1,0 +1,30 @@
+id: nils-erik-sparf-2012-2
+performers:
+- name: Nils‐Erik Sparf
+  role: violin
+- name: David Härenstam
+  role: guitar
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2012]
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '1033', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/076c04d8-bb61-48d7-9872-d5847179a636
+  title: Violin Sonatas BWV 1020-1023
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: f577b6dd-fae0-4996-a789-e7ed7764b9a0
+  recordings: [ea794a52-9fbe-4975-8ba1-a0730f7f88d0]

@@ -1,0 +1,29 @@
+id: hendrik-bouman-1982
+performers:
+- name: Hendrik Bouman
+  role: harpsichord
+- name: Jaap ter Linden
+  role: viola da gamba
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1982]
+  place: Plenarsaal der Akademie der Wissenschaften
+released: 1995
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/163ed43f-b04e-4481-baf9-d6bf3a0db7e4
+  title: Kammermusik
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8f402e69-606c-46f7-94fd-a20ff2c99467
+  recordings: [8a91a457-0391-4381-b335-1b63417680f0]

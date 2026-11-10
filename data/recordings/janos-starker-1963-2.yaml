@@ -1,0 +1,29 @@
+id: janos-starker-1963-2
+performers:
+- name: János Starker
+  role: cello
+- name: György Sebök
+  role: piano
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1963]
+  place: Fine Recording Studios
+released: 1991
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ce0c694f-0cbf-4b4e-b3c6-18d8af3b8358
+  title: Suites for Solo Cello / Sonatas in G & D Major
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8ec9a9fe-3709-43a9-adba-6a1a11b7e7da
+  recordings: [01b55387-f2e3-400e-8899-1ea839f512ad, 2e2c40ea-c4ec-4836-925c-4a1a31cb1297]

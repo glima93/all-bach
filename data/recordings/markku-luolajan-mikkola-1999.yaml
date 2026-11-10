@@ -1,0 +1,29 @@
+id: markku-luolajan-mikkola-1999
+performers:
+- name: Markku Luolajan-Mikkola
+  role: viola da gamba
+- name: Miklós Spányi
+  role: tangent piano
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Phoenix Studios
+released: 2000
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/91df88c6-621d-476f-b999-4148bf7ade48
+  title: Gamba Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e4b9c6ef-754a-4ca7-ad17-46991463853c
+  recordings: [d690bc9c-2e29-410c-bf05-68877647fff3]

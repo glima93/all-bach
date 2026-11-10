@@ -1,0 +1,30 @@
+id: diana-baroni-undated
+performers:
+- name: Diana Baroni
+  role: performer
+- name: Dirk Börner
+  role: performer
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1034', complete: false, movements: [II. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/392d3762-b3e2-4b04-a592-3503c087c579
+  title: The MA Recordings Audiophiliac High Resolution Music Sampler 2020
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9466ba59-f9f7-4cfe-af0a-f77671daf52c
+  recordings: [ac6d2ab0-e7f3-401d-9045-ff7e867d266d]

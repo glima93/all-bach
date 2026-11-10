@@ -1,0 +1,34 @@
+id: roger-heagney-undated
+performers:
+- name: Roger Heagney
+  role: harpsichord
+- name: Jacqueline Johnson
+  role: cello
+- name: Frederick Shade
+  role: flute
+- name: Len Vorster
+  role: fortepiano
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1033', complete: false, movements: [I. Andante - Presto, II. Allegro, III. Adagio, V. Menuetto II]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bc8a076a-aa59-4d1b-a28d-f50e1a018063
+  title: 'The Magic Flute of Frederick Shade: Live in Concert'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 0f0548b7-f911-40d5-8921-739a508a4eab
+  recordings: [560b675e-fe04-4a27-8926-d54a4205c789]

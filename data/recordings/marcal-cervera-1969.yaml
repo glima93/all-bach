@@ -1,0 +1,30 @@
+id: marcal-cervera-1969
+performers:
+- name: Marçal Cervera
+  role: viola da gamba
+- name: Rafael Puyana
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1969]
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0b20d16-a721-46ef-91c1-31cfa951db64
+  title: Flute Sonatas / Viola da Gamba Sonatas
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b6064062-a3e9-44a5-bbe3-900302697cd8
+  recordings: [14d91bcf-9ec1-4e39-8d95-fec75dc365d3]

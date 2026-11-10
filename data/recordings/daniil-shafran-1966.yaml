@@ -1,0 +1,30 @@
+id: daniil-shafran-1966
+performers:
+- name: Daniil Shafran
+  role: cello
+- name: Andrei Volkonsky
+  role: harpsichord
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1966]
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ba5b1c38-8505-4874-8846-e4ade3d02da7
+  title: Sonatas for Cello & Clavier
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a8128e3-959c-4cc9-8cb4-8a6089a7453b
+  recordings: [64c01010-75cf-477e-a2f7-ce6fd55785fe]

@@ -1,0 +1,35 @@
+id: raymond-delnoye-1984
+performers:
+- name: Raymond Delnoye
+  role: flute
+- name: Gerard Dekker
+  role: organ
+- name: Marien van Staalen
+  role: cello
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Petrus' Bandenkerk, Rotterdam Overschie
+released: 1995
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1032', complete: false, movements: [II. Largo e dolce, III. Allegro]}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a036d70f-bbb2-4a78-b57c-f96f564b42bd
+  title: Barok - de collectie
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a569b414-a2a5-4f92-8489-ca807bde3cad
+  recordings: [5146c583-0def-4483-9d9f-f65dd39f4f53, 7ca65fc7-cd4d-4f85-8e68-b9b1854ff3bd, 8e793455-ce01-489b-b18b-59ecf6656413]

@@ -1,0 +1,33 @@
+id: marc-hantai-2016
+performers:
+- name: Marc Hantaï
+  role: transverse flute
+- name: Pierre Hantaï
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6d6ca97f-acb3-4fe1-b7cc-a7f3d05e3d9e
+  title: Sonates pour flûte et clavecin
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e70f1d37-5e72-43a9-ae9f-29629da79ad9
+  recordings: [b55b903a-8cca-4c6b-9582-9d93791a0a8f, f7604258-0aae-492e-a277-2cb031095bce]

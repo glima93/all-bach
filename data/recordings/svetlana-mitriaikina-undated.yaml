@@ -1,0 +1,30 @@
+id: svetlana-mitriaikina-undated
+performers:
+- name: Svetlana Mitriaikina
+  role: performer
+- name: Alexei Parshin
+  role: performer
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: 'Московская Государственная Консерватория им. П. И. Чайковского: большой зал'
+released: 2000
+original_label: null
+works:
+- {bwv: '1030', complete: false, movements: [II. Largo e dolce]}
+- {bwv: '1031', complete: false, movements: [II. Siciliano]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1db95f40-c59e-4dc0-abcc-baf7cf1c3107
+  title: Great Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6bc849ff-65d7-4ca7-a356-65ae4a3044b4
+  recordings: [e6efe75c-7045-4a34-a905-f062b221b63d]

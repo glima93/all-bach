@@ -1,0 +1,38 @@
+id: laurel-zucker-undated
+performers:
+- name: Laurel Zucker
+  role: flute
+- name: Gerald Ranck
+  role: harpsichord
+- name: Samuel Magill
+  role: cello
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d57492bc-1bc8-4fa4-bdcc-8ee6d724f6cf
+  title: The Complete Flute Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a88491a-9708-4df2-b095-7c70889e5ff3
+  recordings: [9c211ada-2301-466e-be78-e69195c2de96, e7add8f3-676c-472a-b0b4-d59ab695ccd1]

@@ -1,0 +1,30 @@
+id: mieneke-van-der-velden-undated
+performers:
+- name: Mieneke van der Velden
+  role: performer
+- name: Benjamin Alard
+  role: performer
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/d2bbe28c-1647-481d-a5db-d88c4e12d2d5
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: a1a8e5dd-0141-4d9f-ac37-94e83130d85e
+  recordings: [d2bbe28c-1647-481d-a5db-d88c4e12d2d5]

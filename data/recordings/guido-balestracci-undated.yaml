@@ -1,0 +1,31 @@
+id: guido-balestracci-undated
+performers:
+- name: Guido Balestracci
+  role: viola da gamba
+- name: Blandine Rannou
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c4f1dc6-00ca-47f8-a3ff-29c1970d3fc8
+  title: Sonates pour viole de gambe et clavecin obligé
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ba37bba5-5504-4704-820d-4b43a88e576f
+  recordings: [392e48b9-f690-468f-8600-642a227ef36f]

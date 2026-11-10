@@ -1,0 +1,30 @@
+id: hanne-petri-undated
+performers:
+- name: Hanne Petri
+  role: harpsichord
+- name: Michala Petri
+  role: recorder
+instrument: recorder
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '1031', complete: false, movements: [II. Siciliano]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/612a4a00-82a5-45b4-859f-f69596322588
+  title: Intermezzo Musicale
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cb892685-1635-44af-baa7-03865b7e2065
+  recordings: [5452b0f4-55cb-40b7-8946-7a1276dbafd9]

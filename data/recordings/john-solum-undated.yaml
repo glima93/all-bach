@@ -1,0 +1,36 @@
+id: john-solum-undated
+performers:
+- name: John Solum
+  role: flute
+- name: Igor Kipnis
+  role: harpsichord
+- name: Barbara Bogatin
+  role: performer
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Concordia College
+released: 1993
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/97653f53-2208-4eda-8748-44b49d8dd789
+  title: 6 Flute Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d88cf3ab-4cef-4408-89fc-af4a7b3a142b
+  recordings: [fb008b72-ef78-4eea-9759-f05fcc416081]

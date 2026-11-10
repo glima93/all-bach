@@ -1,0 +1,29 @@
+id: helen-callus-2014
+performers:
+- name: Helen Callus
+  role: viola
+- name: Luc Beauséjour
+  role: harpsichord
+instrument: viola
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: Église Saint-Augustin
+released: 2015
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/74041504-b6a2-40a7-8e66-2cd9083ec19f
+  title: Bach / Krebs / Abel
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8b2b5a27-ef55-4026-97b9-86c784ea02e1
+  recordings: [6fafd2d2-831d-4a5b-a706-3eeee893d673]

@@ -1,0 +1,28 @@
+id: annegret-bauerle-undated
+performers:
+- name: Annegret Bauerle
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '1013', complete: false, movements: [IV. Bourrée anglaise]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2c86d28-0d84-4b82-82d4-6a2da116ba16
+  title: Bach für Kinder - Mit Gesang und Himmelsklang
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 70f93fb4-c7ac-4dd5-82af-fd368dc7db30
+  recordings: [1ebc9e67-616b-4fe2-9d22-6a7b82aa4c59]

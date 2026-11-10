@@ -1,0 +1,27 @@
+id: artist-0387ca46-1989
+performers:
+- name: Александр Рудин
+  role: cello
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1989]
+  place: Концертный зал имени П. И. Чайковского
+released: 2020
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/108618a9-191d-45f2-85f9-084a0e2bb029
+  title: Collection
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0387ca46-0de0-452c-8a5d-54cc7e87dc97
+  recordings: [724da060-7c8a-4886-a360-e87517172af3]

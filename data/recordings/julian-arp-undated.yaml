@@ -1,0 +1,31 @@
+id: julian-arp-undated
+performers:
+- name: Julian Arp
+  role: cello
+- name: Caspar Frantz
+  role: piano
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b16bd5c5-82fd-4916-b714-839c946deee6
+  title: Works for Cello and Piano
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c591159-b8d5-4c78-b326-e21589ed70d5
+  recordings: [7dc07c00-734f-425a-9f28-e9ea6ce425a0]

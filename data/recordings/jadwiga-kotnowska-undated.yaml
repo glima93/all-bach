@@ -1,0 +1,28 @@
+id: jadwiga-kotnowska-undated
+performers:
+- name: Jadwiga Kotnowska
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '1013', complete: false, movements: [I. Allemande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7dbd7c84-2dde-4136-a495-f4bf8e0ff94e
+  title: Bach Greatest Hits
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5cce5192-3101-4524-9148-db8e3e04dd8a
+  recordings: [cba73c05-d0c1-4965-b9ff-d25b27dac0ca]

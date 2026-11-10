@@ -1,0 +1,30 @@
+id: stephen-schultz-2016
+performers:
+- name: Stephen Schultz
+  role: flute
+- name: Jory Vinikour
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Skywalker Sound
+released: 2018
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2bc6c15-1c57-49d0-bf90-66d04bd7f418
+  title: Sonatas for Flute and Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ffd51908-dafd-4490-ab74-99665887c910
+  recordings: [76f861c9-2285-4370-9b1d-023bebb03e2e]

@@ -1,0 +1,29 @@
+id: melisande-corriveau-2020-2
+performers:
+- name: Mélisande Corriveau
+  role: pardessus de viole
+- name: Eric Milnes
+  role: harpsichord
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2020]
+  place: Église Saint-Augustin
+released: 2021
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6042fa85-27a4-45d1-90e9-ba3a580f19bf
+  title: Bach au pardessus de viole
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on pardessus de viole, harpsichord.
+musicbrainz:
+  artist: 702a2302-7f31-45d2-9907-e4384ad11bd6
+  recordings: [5996d89b-aaa5-46cf-91af-742733228b96]

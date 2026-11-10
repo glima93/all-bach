@@ -1,0 +1,29 @@
+id: gonzalo-x-ruiz-undated-2
+performers:
+- name: Gonzalo X. Ruiz
+  role: oboe
+instrument: oboe
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15eef4e7-b2e6-4467-a8c0-1cba216cdc34
+  title: Soliloquies
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With oboe.
+musicbrainz:
+  artist: 12346af7-6f67-4225-8b68-a66cf1ccdec7
+  recordings: [923fb448-2f2e-4055-af96-4bd468f17a76]

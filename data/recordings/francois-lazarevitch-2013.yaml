@@ -1,0 +1,34 @@
+id: francois-lazarevitch-2013
+performers:
+- name: François Lazarevitch
+  role: transverse flute
+- name: Les Musiciens de Saint-Julien
+  role: ensemble
+- name: Jean Rondeau
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2013]
+  place: Chapelle de l'hôpital Notre-Dame de Bon Secours
+released: 2014
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a3985fdb-1577-4f9e-b571-a233c9579a0c
+  title: Sonates & Solo pour la flûte traversière
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 66f36d05-d4b5-4dd4-9a48-ff90a202ddd4
+  recordings: [434cf048-01c6-4ff3-ab7f-e10d2c022a68, e5e87293-a9da-41f3-bfa6-cd0371def93e]

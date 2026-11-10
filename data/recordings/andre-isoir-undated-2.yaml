@@ -1,0 +1,31 @@
+id: andre-isoir-undated-2
+performers:
+- name: André Isoir
+  role: organ
+- name: Michel Giboureau
+  role: oboe
+instrument: oboe
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1031', complete: false, movements: [II. Siciliano]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5dc65150-94aa-4c9b-9843-6dd483f26ff7
+  title: Œuvres pour orgue et hautbois
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With oboe.
+musicbrainz:
+  artist: f06a4379-1bbf-41a2-b2aa-4818d67605d7
+  recordings: [dd87849b-2d9a-4d72-9303-7df218d923f1]

@@ -1,0 +1,29 @@
+id: siegfried-pank-1980
+performers:
+- name: Siegfried Pank
+  role: viola da gamba
+- name: Isolde Ahlgrimm
+  role: harpsichord
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1980]
+  place: Lukaskirche
+released: 1984
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/22ee3e07-1e55-4d95-b901-503e17b29d5a
+  title: Die Sonaten für Viola da gamba und Cembalo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1acc984e-8804-42e2-8e41-d078a15fd03e
+  recordings: [dbb547f9-80c6-4af7-bddf-a063a5abfb61]

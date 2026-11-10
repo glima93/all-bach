@@ -1,0 +1,28 @@
+id: asa-karlberg-undated
+performers:
+- name: Åsa Karlberg
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6c3080d6-fd57-4c1f-a084-e9de08f4dd2e
+  title: Welcome to My Musical Room
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6883af24-6c89-436f-9ad4-af6528fae852
+  recordings: [8d9d8916-cec7-4436-bf6c-2c46d1c3c0df]

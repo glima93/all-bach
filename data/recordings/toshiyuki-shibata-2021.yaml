@@ -1,0 +1,30 @@
+id: toshiyuki-shibata-2021
+performers:
+- name: Toshiyuki Shibata
+  role: transverse flute
+- name: Anthony Romaniuk
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Concertgebouw
+released: 2022
+original_label: null
+works:
+- {bwv: '1030', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7c987b49-c06f-4862-bfd0-75ce1603d301
+  title: Sonatas, Fantasias, Improvisations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8d7ce43f-389d-4ace-ba98-ca7886c5b136
+  recordings: [48e7e4dc-b5a4-4f4e-b04e-8e19f7204841]

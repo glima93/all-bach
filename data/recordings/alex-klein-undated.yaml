@@ -1,0 +1,28 @@
+id: alex-klein-undated
+performers:
+- name: Alex Klein
+  role: oboe
+instrument: oboe
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1013', complete: false, movements: [IV. Bourrée anglaise]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0fd2a01b-7eb9-4bac-b97e-ea3b9450b24f
+  title: Fantasies and Partitas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 67fdb6e6-f6b1-4431-bd2f-26be98c314f1
+  recordings: [d87e0cd2-fc17-45ae-ae1f-a7fe51ba5e88]

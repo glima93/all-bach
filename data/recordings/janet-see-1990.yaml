@@ -1,0 +1,36 @@
+id: janet-see-1990
+performers:
+- name: Janet See
+  role: flute
+- name: Davitt Moroney
+  role: harpsichord
+- name: Mary Springfels
+  role: viola da gamba
+instrument: traverso
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Skywalker Sound
+released: 1991
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+- {bwv: '1030', complete: true}
+- {bwv: '1031', complete: true}
+- {bwv: '1032', complete: true}
+- {bwv: '1033', complete: true}
+- {bwv: '1034', complete: true}
+- {bwv: '1035', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/636bb683-08a4-43d2-b698-d7a81c278eda
+  title: Complete Sonatas for Flute and Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b67696c-4a9d-46d8-9e42-54d9185176d9
+  recordings: [9e15d759-a875-470c-8624-df2a90d3909f, be2f4e45-79b6-452e-8d8a-d31cfa52c535, e594fc70-5113-471f-a30f-1124b32eabc0]

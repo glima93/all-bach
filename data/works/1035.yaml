@@ -1,0 +1,17 @@
+bwv: "1035"
+title: "Flute Sonata in E major"
+key: "E major"
+collection: "Flute Sonatas and Partita"
+genre: chamber
+scoring: "Flute and basso continuo"
+composed: "After 1741, following Bach's visit to the Prussian court at Potsdam; no autograph survives, and the sources are later copies"
+movements:
+  - "I. Adagio ma non tanto"
+  - "II. Allegro"
+  - "III. Siciliana"
+  - "IV. Allegro assai"
+notes: "One early copy states that the autograph was written at Potsdam for the privy chamberlain Michael Gabriel Fredersdorf, Frederick the Great's valet and an amateur flautist."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Flute_Sonata_in_E_major,_BWV_1035"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/40e657e3-2e67-4122-8357-ef5d0a8e027c

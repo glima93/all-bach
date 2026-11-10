@@ -1,0 +1,27 @@
+id: petri-alanko-1995
+performers:
+- name: Petri Alanko
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/86bc2500-360c-444c-9c19-381f23e8ff04
+  title: Flute Sonatas, Vol. 1
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24ce509a-f809-4de2-9ae0-a39fa04fa5c4
+  recordings: [a14e07b5-aa8b-4df3-93af-4da6e787a7a4]

@@ -1,0 +1,29 @@
+id: jordan-fumado-2021
+performers:
+- name: Jordan Fumadó
+  role: harpsichord
+- name: Alejandro Marías
+  role: viola da gamba
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Auditorio San Francisco
+released: 2023
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d5c97310-5f49-40b8-a9dd-a9fce477e5c7
+  title: 3 + 1 Viola da Gamba Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ca67a6de-78ab-4c9e-9aa9-6db08ab63fc9
+  recordings: [bec37cdf-9bd5-4169-9a33-2d9d8557be1e]

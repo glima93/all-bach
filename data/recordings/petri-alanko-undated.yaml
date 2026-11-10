@@ -1,0 +1,31 @@
+id: petri-alanko-undated
+performers:
+- name: Petri Alanko
+  role: performer
+- name: Anssi Mattila
+  role: performer
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '1031', complete: false, movements: [II. Siciliano]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b090bb05-7aeb-4809-9afb-86fe17381870
+  title: The Essential J.S. Bach
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a1dd6849-8c46-40af-bc0e-80897d61ed2b
+  recordings: [cd321432-22d2-466c-b746-839ab1647780]

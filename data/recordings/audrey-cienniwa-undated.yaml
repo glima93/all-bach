@@ -1,0 +1,31 @@
+id: audrey-cienniwa-undated
+performers:
+- name: Audrey Cienniwa
+  role: cello
+- name: Paul Cienniwa
+  role: harpsichord
+instrument: cello
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1028', complete: true}
+- {bwv: '1029', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/21f39324-48f7-4c39-8f70-d62608f81ea7
+  title: Sonatas for Viola da Gamba
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3d334efd-4795-42c9-9005-d9750435b4d2
+  recordings: [eb8b5373-1097-4759-addb-8b3c8436efcc]

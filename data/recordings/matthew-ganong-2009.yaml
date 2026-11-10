@@ -1,0 +1,29 @@
+id: matthew-ganong-2009
+performers:
+- name: Matthew Ganong
+  role: piano
+- name: Elias Goldstein
+  role: viola
+instrument: viola
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2009]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1029', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0610776b-3cab-488a-8364-b1da19ac1133
+  title: Elias Goldstein Live
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 995443f9-98fb-4b58-81b3-8d77a760c9ce
+  recordings: [780c7cda-4cb0-4e28-bd5e-6a57c8c762c2]
