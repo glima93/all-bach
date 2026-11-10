@@ -1,0 +1,192 @@
+{
+ "collection": "lute-works",
+ "taken": "2026-11-10",
+ "recordings": 551,
+ "performances": 105,
+ "works": [
+  {
+   "bwv": "995",
+   "id": "beff096a-a472-4961-9aab-276344abfd24",
+   "candidates": [
+    {
+     "id": "beff096a-a472-4961-9aab-276344abfd24",
+     "title": "Suite for Lute in G minor, BWV 995"
+    },
+    {
+     "id": "84d10b4f-7144-4b91-b548-9432ca35e194",
+     "title": "Suite in G minor, BWV 995 [trans. A minor]"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Suite for Lute in G minor, BWV 995",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "71022882-85e3-36ac-a020-6fa64f155f71",
+     "title": "Suite for Lute in G minor, BWV 995: I. Prelude"
+    },
+    {
+     "id": "ec45b32f-e6d9-3380-89b5-d14d6b9c8d79",
+     "title": "Suite for Lute in G minor, BWV 995: II. Allemande"
+    },
+    {
+     "id": "8461e30f-f8e8-3a5f-bd17-70f0f539154a",
+     "title": "Suite for Lute in G minor, BWV 995: III. Courante"
+    },
+    {
+     "id": "f882a468-dfd2-34f9-8a66-b51c8f47a63f",
+     "title": "Suite for Lute in G minor, BWV 995: IV. Sarabande"
+    },
+    {
+     "id": "74e076a9-0452-455b-85b6-3a2376a88877",
+     "title": "Suite for Lute in G minor, BWV 995: V. Gavotte I"
+    },
+    {
+     "id": "29d1eedb-d1b6-364c-a1a7-25149701d8f5",
+     "title": "Suite for Lute in G minor, BWV 995: VI. Gavotte II en Rondeau"
+    },
+    {
+     "id": "7df58ca8-9b17-38dc-be8d-5e6052736e00",
+     "title": "Suite for Lute in G minor, BWV 995: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "996",
+   "id": "8ea818b8-0582-4a2f-a94d-e350d9762a19",
+   "candidates": [
+    {
+     "id": "1c639337-6adf-466a-aff7-fff335a75970",
+     "title": "Suite in E minor, BWV 996"
+    },
+    {
+     "id": "8ea818b8-0582-4a2f-a94d-e350d9762a19",
+     "title": "Suite in E minor, BWV 996"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Suite in E minor, BWV 996",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "330be69f-e539-4f1d-b397-27d2340e839f",
+     "title": "Suite in E minor, BWV 996: I. Präludium. Presto"
+    },
+    {
+     "id": "9579fa06-715a-4980-867c-565f998949df",
+     "title": "Suite in E minor, BWV 996: II. Allemande"
+    },
+    {
+     "id": "93313f52-a29d-4878-a072-6305a7f38fa5",
+     "title": "Suite in E minor, BWV 996: III. Courante"
+    },
+    {
+     "id": "d4d7f34a-7c89-4de7-90bb-86384ca90e26",
+     "title": "Suite in E minor, BWV 996: IV. Sarabande"
+    },
+    {
+     "id": "39939244-c190-45bb-858e-7447f73d0e74",
+     "title": "Suite in E minor, BWV 996: V. Bourrée"
+    },
+    {
+     "id": "e957cde3-6247-43d0-a448-8b5ec1eb3849",
+     "title": "Suite in E minor, BWV 996: VI. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "998",
+   "id": "2016b681-af04-30d5-9c05-11773502a613",
+   "candidates": [
+    {
+     "id": "2016b681-af04-30d5-9c05-11773502a613",
+     "title": "Praeludium, Fuge und Allegro Es-Dur, BWV 998"
+    },
+    {
+     "id": "1cd3a070-11fc-4626-acdc-2c6d73bd5b39",
+     "title": "Praeludium, Fuge und Allegro Es-Dur, BWV 998"
+    },
+    {
+     "id": "62f7c153-d4b9-4a68-9b16-a3fc05373025",
+     "title": "Prelude, Fugue & Allegro in E-flat Major, BV B 36 (After J. S. Bach's BWV 998)"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Praeludium, Fuge und Allegro Es-Dur, BWV 998",
+   "key": "E-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "49d8fb5a-caa2-4a74-b91d-08fc24387076",
+     "title": "Praeludium, Fuge und Allegro Es-Dur, BWV 998: I. Praeludium"
+    },
+    {
+     "id": "c1c4a5b2-3c38-4cd2-8fe7-6baf1d5392c2",
+     "title": "Praeludium, Fuge und Allegro Es-Dur, BWV 998: II. Fuge"
+    },
+    {
+     "id": "1a282ab1-09ae-4f23-9bf3-84e26b25ed26",
+     "title": "Praeludium, Fuge und Allegro Es-Dur, BWV 998: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "999",
+   "id": "d53cc638-6f32-3356-a5e2-7923f2529716",
+   "candidates": [
+    {
+     "id": "d53cc638-6f32-3356-a5e2-7923f2529716",
+     "title": "Prelude in C minor, BWV 999"
+    },
+    {
+     "id": "18047db5-42b4-4b5d-81be-5788653c1b0f",
+     "title": "Prelude in C minor, BWV 999"
+    },
+    {
+     "id": "45853305-f43a-4ce2-8e95-e4bac4b1e1cd",
+     "title": "Prelude in C minor, BWV 999"
+    },
+    {
+     "id": "7a35d893-ce14-410d-a520-5fc34fb48ecc",
+     "title": "Prelude in C minor, BWV 999"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Prelude in C minor, BWV 999",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "d53cc638-6f32-3356-a5e2-7923f2529716",
+     "title": "Prelude in C minor, BWV 999"
+    }
+   ]
+  },
+  {
+   "bwv": "1000",
+   "id": "3467a1b8-eca6-371b-a0e3-b50f08c3aa81",
+   "candidates": [
+    {
+     "id": "3467a1b8-eca6-371b-a0e3-b50f08c3aa81",
+     "title": "Fuge g-Moll, BWV 1000"
+    },
+    {
+     "id": "6b987428-968a-4caf-90d9-83f72736ad0f",
+     "title": "Fuge g-Moll, BWV 1000"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge g-Moll, BWV 1000",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "3467a1b8-eca6-371b-a0e3-b50f08c3aa81",
+     "title": "Fuge g-Moll, BWV 1000"
+    }
+   ]
+  }
+ ]
+}
