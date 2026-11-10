@@ -1,13 +1,11 @@
-id: reinoud-van-mechelen-2016
+id: anna-besson-2016
 performers:
-- name: Reinoud Van Mechelen
-  role: performer
-- name: Benjamin Alard
-  role: performer
 - name: Anna Besson
   role: flute
+- name: Benjamin Alard
+  role: harpsichord
 - name: Ronan Kernoa
-  role: performer
+  role: cello
 instrument: traverso
 performance_practice: historical
 arrangement: false

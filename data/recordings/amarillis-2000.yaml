@@ -1,7 +1,11 @@
 id: amarillis-2000
 performers:
 - name: Amarillis
-  role: violoncello-piccolo
+  role: ensemble
+- name: Violaine Cochard
+  role: harpsichord
+- name: Ophélie Gaillard
+  role: violoncello piccolo
 instrument: violoncello-piccolo
 performance_practice: historical
 arrangement: false
@@ -23,4 +27,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: cd10fc54-5b2d-488f-85ec-bb1b5e3c93b1
-  recordings: [84afc15a-347c-4c60-8b4b-4fc53d117b8a]
+  recordings: [0ae85092-dd27-406e-8a38-47b5751d9dde, 84afc15a-347c-4c60-8b4b-4fc53d117b8a]

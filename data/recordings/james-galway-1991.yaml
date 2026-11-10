@@ -1,15 +1,9 @@
-id: wurttembergisches-kammerorchester-heilbronn-1991-3
+id: james-galway-1991
 performers:
-- name: Württembergisches Kammerorchester Heilbronn
-  role: orchestra
-- name: Ursula Dütschler
-  role: harpsichord
 - name: James Galway
   role: flute
-- name: Rainer Wolters
-  role: violin
-- name: Jörg Faerber
-  role: conductor
+- name: Ursula Dütschler
+  role: harpsichord
 instrument: flute
 performance_practice: unknown
 arrangement: false

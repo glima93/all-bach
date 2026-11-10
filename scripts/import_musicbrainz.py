@@ -131,6 +131,22 @@ JOIN_BY_SNAPSHOT = {
         "Galway, Lumsden and Ryan's BWV 1035 from Serenade for Flute, reissued with the London Virtuosi on the same disc"),
     "979b93b6-00f5-4202-a56e-c7730475c14b": ("da429123-0a77-453a-aacb-5e9b187db74f",
         "the one sonata (BWV 1033) missing from the Moravian Trio's set on the same undated release, credited to its flutist alone"),
+    "23073e80-c855-42d9-9fa1-5131f2d791af": ("da429123-0a77-453a-aacb-5e9b187db74f",
+        "the Moravian Trio's BWV 1031 (flute, bassoon, harpsichord) on a compilation, wrongly credited to Moravian Brass Ostrava"),
+    "08e82807-cc8b-48be-9eb8-e02eaf059425": ("3da2cc83-629b-4b52-8618-ca633f954db0",
+        "Rampal's 1975 BWV 1013 on the same Erato Flute Sonatas album (1979), recorded in the same church as the 1973 sonatas"),
+    "b7ec3784-090e-4949-ac29-1d3a555e4530": ("3da2cc83-629b-4b52-8618-ca633f954db0",
+        "Rampal, Veyron-Lacroix and Savall's BWV 1031 and 1033 reissued in Bach 2000: the same Erato set"),
+    "6f4ad646-ca57-4522-af55-36e4db4c13e9": ("3da2cc83-629b-4b52-8618-ca633f954db0",
+        "the same trio's BWV 1035 in Rampal's Complete Erato Recordings 1970-82: the missing sonata of that set"),
+    "29a4a4e3-8a7f-45df-bf14-31be3c3cd265": ("84a9c9bc-1650-4a7e-a0a5-416a754a0e86",
+        "Pahud and Pinnock's continuo sonatas with Jonathan Manson, from the same 2008 Complete Flute Sonatas (another release ID)"),
+    "518242c0-20c6-4eb5-b54e-9c7fd34e2cf3": ("8926a1bc-85f4-41e7-a1a1-f4ea08a3e13a",
+        "Michael Form's BWV 1013 from the same undated Flute Sonatas album with Bonizzoni (another release ID)"),
+    "33cb046b-e036-4300-a1ef-21b72f5330fa": ("b119ce0f-7e95-495a-89c1-101280bf554d",
+        "Robison and Cooper's sonatas reissued in the Big Bach Set: the same complete set as the Partita"),
+    "1999e934-f9af-46b3-96f8-bc04cb01866e": ("b119ce0f-7e95-495a-89c1-101280bf554d",
+        "Robison, Cooper and Eddy's sonatas reissued in the Bigger Bach Set: the same complete set"),
   },
   "gamba-sonatas": {
     "81c39663-2804-4301-9c26-a9dc22a524ba": ("941a7e74-08f1-4355-a5ae-f3e012383aab",
@@ -141,6 +157,8 @@ JOIN_BY_SNAPSHOT = {
         "Starker and Sebök's 1963 Mercury BWV 1029, reissued without a date"),
     "b1513c9e-4f71-4cd7-870e-de4e6595a588": ("4c4f0f86-ac36-4387-b995-05eb90db01cb",
         "Casals and Baumgartner, Prades 1950: the same 3 Sonatas release, undated tracks"),
+    "0ae85092-dd27-406e-8a38-47b5751d9dde": ("84afc15a-347c-4c60-8b4b-4fc53d117b8a",
+        "Gaillard (piccolo cello) and Cochard's BWV 1028 I-III: Amarillis's recording from the Aria album, reissued without a date"),
     "f06b65bc-2b9e-4734-9153-f9f0c537c543": ("ebea3461-9c9c-4e1b-a0ed-2e4357be35a4",
         "Harmonie universelle is an Alia Vox sampler; its BWV 1028 is Savall and Koopman's 2000 Alia Vox recording"),
   },
@@ -248,6 +266,13 @@ OVERRIDE_BY_SNAPSHOT = {
     "cfb653fb-2df8-4b4b-8d6c-eb611894a7a2": ({"performers": [{"name": "Jordi Savall", "role": "viola da gamba"},
                                                              {"name": "Ton Koopman", "role": "harpsichord"}]},
         "Savall and Koopman's 1977 duo recording (Claydon House); the Amsterdam Baroque Orchestra and a conductor credit are wrong"),
+    "c1876a95-7683-4fcc-95be-1a12a3d6f478": ({"instrument": "baroque-cello"}, "Les Basses Réunies is Bruno Cocset's group; he plays the solo part on period cellos"),
+    "17e794e0-d991-4683-8c2f-c8d1187de79e": ({"instrument": "ensemble", "arrangement": True, "performance_practice": "historical"},
+        "The Rare Fruits Council (period strings) on its Trio Sonatas album: BWV 1029 played as a trio sonata"),
+    "724da060-7c8a-4886-a360-e87517172af3": ({"performers": [{"name": "Aleksandr Rudin", "role": "cello"}]},
+        "name credited in Cyrillic (Александр Рудин); the pianist is not named"),
+    "ebea3461-9c9c-4e1b-a0ed-2e4357be35a4": ({"released": 2000},
+        "Alia Vox's release of the 2000 recording; MusicBrainz's 1998 date comes before the sessions"),
     "84afc15a-347c-4c60-8b4b-4fc53d117b8a": ({"instrument": "violoncello-piccolo"},
         "Amarillis's Aria album: BWV 1028 is played on a piccolo cello (MusicWeb review, March 2001)"),
     "b5bc02f1-bd4f-455a-abe8-a4d63fe9c070": ({"performance_practice": "historical"},
@@ -269,10 +294,33 @@ OVERRIDE_BY_SNAPSHOT = {
                                                              {"name": "Terence Charlston", "role": "harpsichord"}],
                                               "performance_practice": "unknown"},
         "Barocking Together credits only Bezaly (modern flute) and Charlston on BWV 1031; London Baroque came from the joined reissue"),
+    "43206f52-eba2-423e-b760-cbf94f76d9c6": ({"instrument": "ensemble", "arrangement": True, "performance_practice": "historical"},
+        "The Rare Fruits Council (period strings) on its Trio Sonatas album: BWV 1030 played as a trio sonata"),
+    "b55b903a-8cca-4c6b-9582-9d93791a0a8f": ({"released": 2017},
+        "the sonatas row's release year; the Partita row's 2006 comes before the 2016 sessions"),
+    "84a9c9bc-1650-4a7e-a0a5-416a754a0e86": ({"performers": [{"name": "Emmanuel Pahud", "role": "flute"},
+                                                             {"name": "Trevor Pinnock", "role": "harpsichord"},
+                                                             {"name": "Jonathan Manson", "role": "cello"}]},
+        "Manson plays the cello continuo; his role is not credited"),
+    "8926a1bc-85f4-41e7-a1a1-f4ea08a3e13a": ({"performers": [{"name": "Michael Form", "role": "flute"},
+                                                             {"name": "Fabio Bonizzoni", "role": "harpsichord"}]},
+        "Bonizzoni's role is not credited"),
+    "b119ce0f-7e95-495a-89c1-101280bf554d": ({"performers": [{"name": "Paula Robison", "role": "flute"},
+                                                             {"name": "Kenneth Cooper", "role": "harpsichord"},
+                                                             {"name": "Timothy Eddy", "role": "cello"}]},
+        "the Bigger Bach Set credits the three without roles"),
+    "e6efe75c-7045-4a34-a905-f062b221b63d": ({"performers": [{"name": "Svetlana Mitriaikina", "role": "flute"},
+                                                             {"name": "Alexei Parshin", "role": "organ"}]},
+        "roles credited in Cyrillic only"),
+    "ec66cf1c-f8fe-48bb-abdf-2b4fa542b46b": ({"performers": [{"name": "Anna Besson", "role": "flute"},
+                                                             {"name": "Benjamin Alard", "role": "harpsichord"},
+                                                             {"name": "Ronan Kernoa", "role": "cello"}]},
+        "instrumental tracks on Van Mechelen's Erbarme dich album; the tenor does not sing in them"),
+    "20888a00-b9ab-4b2b-8989-bc3a1fe25515": ({"performers": [{"name": "James Galway", "role": "flute"},
+                                                             {"name": "Ursula Dütschler", "role": "harpsichord"}]},
+        "BWV 1032 on the album is a flute and harpsichord sonata; the orchestra, conductor and violinist play the concerto"),
     "da429123-0a77-453a-aacb-5e9b187db74f": ({"instrument": "flute"}, "the Moravian Trio's flute sonatas: the flutist's credit is on the joined BWV 1033 row"),
     "3cbed898-2eb3-4598-95ab-253bad84f578": ({"arrangement": True}, "Galway with orchestra (Gerhardt): an orchestral arrangement"),
-    "23073e80-c855-42d9-9fa1-5131f2d791af": ({"instrument": "flute", "arrangement": False},
-        "BWV 1031 with flute, bassoon and harpsichord credited (the Moravian Trio); the brass group's name is a credit error"),
     "01554053-49c1-4a23-a8e0-a144c63bf0ed": ({"instrument": "recorder", "performance_practice": "historical"},
         "Piers Adams is a recorder player, with Red Priest's period players; no instrument credits"),
     "97eb3b19-fe2a-486b-a148-8535252dcd48": ({"instrument": "recorder", "performance_practice": "historical"},
@@ -490,7 +538,7 @@ CHAMBER_ARRANGED = re.compile(r"\bharp\b|kantele|percussion", re.I)
 TRAVERSO_PLAYERS = re.compile(r"barthold kuijken|frans br.ggen|wilbert hazelzet|lazarevitch|frank theuns|konrad h.nteler|"
                               r"karl kaiser|jed wentz|alexander murray|ashley solomon|janet see|kossenko|marc hanta|"
                               r"stephen preston|beznosiuk|linde brunmayr|stephen schultz|toshiyuki shibata|anna besson|"
-                              r"emi ferguson|diana baroni|marten root|pauliina fred|leopold stastny", re.I)
+                              r"emi ferguson|diana baroni|marten root|pauliina fred|leopold stastny|christopher krueger", re.I)
 
 # Orchestral and other ensemble works (snapshot native ["ensemble"]): the group plays; what needs
 # working out is whether the group plays period instruments, and whether it is an arrangement.
@@ -917,7 +965,9 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         "performance_practice": "historical" if instrument in HISTORICAL else "modern" if instrument in MODERN else "unknown",
         "arrangement": instrument not in native | {"unknown"} or bool(others),
         "recorded": {"years": Flow(sorted(perf["years"])), "place": "; ".join(dict.fromkeys(perf["places"])) or None},
-        "released": year(perf.get("firstRelease")),
+        # A first release before the recording year is a wrong date on one side: leave the release year open.
+        "released": None if perf["years"] and (year(perf.get("firstRelease")) or 9999) < min(perf["years"])
+        else year(perf.get("firstRelease")),
         "original_label": None,
         "works": works_block(perf, bwvs, moves),
         "links": mb_links(perf),
@@ -1114,6 +1164,8 @@ def main(snapshot: str) -> int:
             a["ins"] = a["ins"] + [i for i in b["ins"] if i not in a["ins"]]
             a["mv"] = sorted(set(a["mv"]) | set(b["mv"]))
             a["years"] = sorted(set(a["years"]) | set(b["years"]))
+            fr = [x for x in (a.get("firstRelease"), b.get("firstRelease")) if x]
+            a["firstRelease"] = min(fr) if fr else None
             a["places"] = list(dict.fromkeys(a["places"] + b["places"]))
             a["recIds"] = a["recIds"] + b["recIds"]
             perfs.remove(b)
@@ -1157,6 +1209,8 @@ def main(snapshot: str) -> int:
                 new["performance_practice"] = fix["performance_practice"]
             if "movements" in fix:  # the movements the recording actually plays, as "<bwv>:<index>"
                 new["works"] = works_block({**perf, "mv": fix["movements"]}, bwvs, moves)
+            if "released" in fix:
+                new["released"] = fix["released"]
             if "arrangement" in fix:
                 new["arrangement"] = fix["arrangement"]
                 if not fix["arrangement"]:
