@@ -1,0 +1,160 @@
+{
+ "collection": "chamber-trio-sonatas",
+ "taken": "2026-11-10",
+ "recordings": 261,
+ "performances": 67,
+ "works": [
+  {
+   "bwv": "1036",
+   "id": "827f0134-be49-4cea-84b4-062205f64efb",
+   "candidates": [
+    {
+     "id": "827f0134-be49-4cea-84b4-062205f64efb",
+     "title": "Trio Sonata in D minor, Wq. 145, H. 569 (BWV 1036)"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Trio Sonata in D minor, Wq. 145, H. 569 (BWV 1036)",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "7429327c-9771-4592-9d8f-13ae04791958",
+     "title": "Trio Sonata in D minor, Wq. 145, H.569, (BWV 1036): I. Adagio"
+    },
+    {
+     "id": "bb8d9e66-a724-467d-8c71-510aab07747b",
+     "title": "Trio Sonata in D minor, Wq. 145, H.569, (BWV 1036): II. Allegro"
+    },
+    {
+     "id": "de6f348e-1438-4f07-af09-cd12ddee0d2c",
+     "title": "Trio Sonata in D minor, Wq. 145, H.569, (BWV 1036): III. Largo"
+    },
+    {
+     "id": "8c9b2424-8598-41d3-9347-25bfcf4a479a",
+     "title": "Trio Sonata in D minor, Wq. 145, H.569, (BWV 1036): IV. Vivace"
+    }
+   ]
+  },
+  {
+   "bwv": "1037",
+   "id": "4b87f369-3968-4efe-9541-2bf7f4d8f54d",
+   "candidates": [
+    {
+     "id": "4b87f369-3968-4efe-9541-2bf7f4d8f54d",
+     "title": "Trio Sonata in C major, DürG 13 (BWV 1037)"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Trio Sonata in C major, DürG 13 (BWV 1037)",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "99cbc125-a07f-4280-98ae-ac5eb0a5c676",
+     "title": "Trio Sonata in C major, DürG 13, BWV 1037: I. Adagio"
+    },
+    {
+     "id": "05bf3dee-b0c1-4a7d-bdf1-426b50d4bdb2",
+     "title": "Trio Sonata in C major, DürG 13, BWV 1037: II. Alla breve"
+    },
+    {
+     "id": "fb279ff5-9e12-49b8-8271-79a4c588e700",
+     "title": "Trio Sonata in C major, DürG 13, BWV 1037: III. Largo"
+    },
+    {
+     "id": "6cc6a4d8-21e4-4c29-88e4-3ff54326e768",
+     "title": "Trio Sonata in C major, DürG 13, BWV 1037: IV. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "1038",
+   "id": "e85b95c3-eccf-464a-98de-1ae677eeb601",
+   "candidates": [
+    {
+     "id": "e85b95c3-eccf-464a-98de-1ae677eeb601",
+     "title": "Sonate G-Dur, BWV 1038"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate G-Dur, BWV 1038",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "7cfd86c9-3440-40aa-97bd-190bf14056c0",
+     "title": "Sonate G-Dur BWV 1038: I. Largo"
+    },
+    {
+     "id": "42bde2a6-34a1-4d1a-9160-b8700b771c67",
+     "title": "Sonate G-Dur BWV 1038: II. Vivace"
+    },
+    {
+     "id": "7903710b-16d6-4a04-9ddc-20939e8f43c8",
+     "title": "Sonate G-Dur BWV 1038: III. Adagio"
+    },
+    {
+     "id": "fe78b1f9-54eb-4ca4-9ac7-5b179925fd5a",
+     "title": "Sonate G-Dur BWV 1038: IV. Presto"
+    }
+   ]
+  },
+  {
+   "bwv": "1039",
+   "id": "598b2b95-df06-45f2-8068-7af211a97388",
+   "candidates": [
+    {
+     "id": "598b2b95-df06-45f2-8068-7af211a97388",
+     "title": "Trio Sonata in G major, BWV 1039"
+    },
+    {
+     "id": "51ffe4d6-62c7-46aa-b7de-8156832dee92",
+     "title": "Trio Sonata in G major, BWV 1039"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Trio Sonata in G major, BWV 1039",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "ad1ce405-234b-4ac3-af66-a52b638886a1",
+     "title": "Trio Sonata in G major, BWV 1039: I. Adagio"
+    },
+    {
+     "id": "d5aaca03-3779-4d56-a07f-b9c02a761ef9",
+     "title": "Trio Sonata in G major, BWV 1039: II. Allegro ma non presto"
+    },
+    {
+     "id": "47444c15-cbaa-415e-8ca3-4254073989be",
+     "title": "Trio Sonata in G major, BWV 1039: III. Adagio e piano"
+    },
+    {
+     "id": "7df6169d-8ce3-4652-9cdf-ed02979190c9",
+     "title": "Trio Sonata in G major, BWV 1039: IV. Presto"
+    }
+   ]
+  },
+  {
+   "bwv": "1040",
+   "id": "05d034bd-1163-4e0d-8f6f-46af65eb13ab",
+   "candidates": [
+    {
+     "id": "05d034bd-1163-4e0d-8f6f-46af65eb13ab",
+     "title": "Trio Sonata in F major, BWV 1040"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Trio Sonata in F major, BWV 1040",
+   "key": "F major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "05d034bd-1163-4e0d-8f6f-46af65eb13ab",
+     "title": "Trio Sonata in F major, BWV 1040"
+    }
+   ]
+  }
+ ]
+}

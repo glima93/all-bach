@@ -49,7 +49,7 @@ collections:
    note: "Cello and viola versions are common: file the instrument, modern practice, not an arrangement"}
 - {id: flute-works, title: "Flute Sonatas and Partita", chapter: Chamber, bwv: ["1013", "1030-1035"], mode: chamber, native: [flute, traverso, recorder], wave: 1, run: 11, status: imported,
    note: "1013 is the solo partita (mode solo for that work); 1031 and 1033 doubtful"}
-- {id: chamber-trio-sonatas, title: "Trio Sonatas", chapter: Chamber, bwv: ["1036-1040"], mode: chamber, native: [ensemble], wave: 1, run: 12, status: queued,
+- {id: chamber-trio-sonatas, title: "Trio Sonatas", chapter: Chamber, bwv: ["1036-1040"], mode: chamber, native: [ensemble], wave: 1, run: 12, status: collected,
    note: "1038 and 1039 (= gamba sonata 1027); 1036 and 1037 are spurious"}
 - {id: lute-works, title: "Works for lute", chapter: Lute, bwv: ["995-1000"], mode: lute, wave: 1, run: 12, status: queued,
    note: "Most recordings are on guitar; lute-harpsichord too. Guitar is filed as the instrument (practice modern), not as an arrangement: decided 28 Oct 2026"}
