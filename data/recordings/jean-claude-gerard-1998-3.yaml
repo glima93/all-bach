@@ -2,6 +2,12 @@ id: jean-claude-gerard-1998-3
 performers:
 - name: Jean‐Claude Gérard
   role: flute
+- name: Walter Forchert
+  role: violin
+- name: Sergio Azzolini
+  role: bassoon
+- name: Boris Kleiner
+  role: piano
 instrument: ensemble
 performance_practice: modern
 arrangement: false

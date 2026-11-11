@@ -1,9 +1,11 @@
-id: betty-fischer-1964
+id: nathan-milstein-1964-2
 performers:
-- name: Betty Fischer
-  role: piano
+- name: Nathan Milstein
+  role: violin
 - name: Erica Morini
   role: violin
+- name: Betty Fischer
+  role: piano
 instrument: ensemble
 performance_practice: modern
 arrangement: false

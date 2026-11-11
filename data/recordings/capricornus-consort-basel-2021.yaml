@@ -1,7 +1,9 @@
 id: capricornus-consort-basel-2021
 performers:
 - name: Capricornus Consort Basel
-  role: conductor
+  role: ensemble
+- name: Péter Barczi
+  role: violin
 instrument: ensemble
 performance_practice: historical
 arrangement: false

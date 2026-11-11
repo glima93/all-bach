@@ -17,8 +17,7 @@ recorded:
 released: 2001
 original_label: null
 works:
-- {bwv: '1038', complete: false, movements: [I. Largo, II. Vivace, III. Adagio]}
-- {bwv: '1039', complete: false, movements: [IV. Presto]}
+- {bwv: '1038', complete: true}
 links:
 - platform: musicbrainz
   kind: release

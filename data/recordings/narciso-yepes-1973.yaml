@@ -1,16 +1,20 @@
 id: narciso-yepes-1973
 performers:
 - name: Narciso Yepes
-  role: lute
-instrument: lute
-performance_practice: historical
+  role: guitar
+instrument: guitar
+performance_practice: modern
 arrangement: false
 recorded:
   years: [1973]
   place: Phonogram Studio
-released: 2017
+released: 2007
 original_label: null
 works:
+- {bwv: '995', complete: true}
+- {bwv: '996', complete: true}
+- {bwv: '998', complete: true}
+- {bwv: '999', complete: true}
 - {bwv: '1000', complete: true}
 links:
 - platform: musicbrainz
@@ -23,4 +27,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 2c960ed5-a832-4ad3-a8c5-10190e5e19d1
-  recordings: [04b8fa3c-56ab-4ed0-8e42-10755382f7b5]
+  recordings: [04b8fa3c-56ab-4ed0-8e42-10755382f7b5, bd293948-4cbc-4bbf-be0f-53e9f893c414]

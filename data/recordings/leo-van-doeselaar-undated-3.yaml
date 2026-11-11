@@ -11,8 +11,8 @@ performers:
 - name: Mieneke van der Velden
   role: viola da gamba
 instrument: ensemble
-performance_practice: unknown
-arrangement: false
+performance_practice: historical
+arrangement: true
 recorded:
   years: []
   place: Koepelkerk

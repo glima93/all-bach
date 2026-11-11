@@ -6,7 +6,8 @@ performers:
   role: performer
 instrument: unknown
 performance_practice: unknown
-arrangement: false
+arrangement: true
+arranger: null
 recorded:
   years: []
   place: null

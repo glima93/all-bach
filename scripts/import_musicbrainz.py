@@ -50,6 +50,9 @@ EXCLUDE_BY_SNAPSHOT = {
     "0499eaea-4825-4705-b679-0dd94464b1bd": "C. P. E. Bach's three-movement Wq 145 on an album of his trio sonatas Wq 144-151, not BWV 1036",
     "d7fb0e33-acd3-4b47-87a2-ee9c34c8b2c7": "an Adagio from Lazarevitch and Taylor's C. P. E. Bach album (Sonatas for Flute and Fortepiano)",
   },
+  "lute-works": {
+    "e3e2f6b9-eac6-4050-9a80-f1d957cf8005": "Apkalna's Bach & Glass (Oehms) plays the organ Prelude and Fugue in E-flat BWV 552, not BWV 998 (only Prelude and Fugue linked)",
+  },
   "cello-suites": {
     "04f657f2-dbb1-4b2a-8c4b-e96a1e4f4080": "release is the Orchestral Suites BWV 1066-1069",
     "91db1c6e-aa80-4cfc-8ef5-50639f20bc1e": "release is Rameau's harpsichord works",
@@ -125,6 +128,7 @@ JOIN_BY_SNAPSHOT = {
   "lute-works": {
     "5aac3021-1492-4368-91ab-de19586dba7a": ("43a43ec3-99db-464b-b1fa-ad9b356a13e4", "Luca Pianca's BWV 999 and 1000 on Bach 2000, with his 1998 BWV 995"),
     "8bdfa221-eee4-44c4-8cd4-b2b327d0048d": ("1b5f6485-f696-497a-bec7-16b32079778c", "Barchi's lute-harpsichord tracks on the Bach 2000 sampler, from the same set"),
+    "04b8fa3c-56ab-4ed0-8e42-10755382f7b5": ("bd293948-4cbc-4bbf-be0f-53e9f893c414", "Yepes's BWV 1000, the rest of his 1973 DG set of the lute works on The Complete Solo Recordings"),
   },
   "chamber-trio-sonatas": {
     "4b3321f8-719e-4def-a11d-d5ac7d0677a3": ("43c98fdc-4c73-4009-9e33-9c16a1664167", "Galway's BWV 1039 and 1038 on the same 1995 album, Bach Vol. 2: Trio Sonatas"),
@@ -276,8 +280,54 @@ OVERRIDE_BY_SNAPSHOT = {
         "Kammertrio Linz-Wien, on an album of chamber music for guitar, recorder and baroque violin: guitar continuo"),
     "f39cb59e-a840-43f2-ba34-49eba8367b5d": ({"arrangement": True},
         "the group Trio Sonata, on 'More Music for Flute, Oboe and Guitar': BWV 1037 arranged for that trio"),
+    "b2d41a52-2487-452c-982e-f047dde10754": ({"performers": [
+        {"name": "Musica Antiqua Köln", "role": "ensemble"}, {"name": "Reinhard Goebel", "role": "violin"},
+        {"name": "Hajo Bäß", "role": "violin"}, {"name": "Wilbert Hazelzet", "role": "traverso"},
+        {"name": "Philippe Suzanne", "role": "traverso"}, {"name": "Jaap ter Linden", "role": "cello"},
+        {"name": "Hendrik Bouman", "role": "harpsichord"}], "performance_practice": "historical"},
+        "Musica Antiqua Köln's 1980 Archiv trio sonatas, credited player by player in MusicBrainz"),
+    "b86bd4ac-a464-4589-8732-4366258e81de": ({"movements": ["1038:0", "1038:1", "1038:2", "1038:3"]},
+        "one trio sonata on the Berliner Barock Solisten album (flute, violin, continuo): the Presto linked to BWV 1039 is BWV 1038's"),
+    "4b6c1222-5544-44df-8405-b2022fccc076": ({"arrangement": True, "performance_practice": "unknown"},
+        "Holliger, Nicolet and others: BWV 1036 played with oboe and flute instead of violin (as their BWV 1029 in run 11)"),
+    "a380a7c9-d481-4ab4-86fa-b3a7127c1e64": ({"arrangement": True},
+        "Da Gamba: BWV 1038 with a viola da gamba for the flute part"),
+    "d53aae5f-ba17-4c97-9875-899c265a0d4d": ({"arrangement": True},
+        "BWV 1039 for one recorder and obbligato harpsichord, as in the gamba version BWV 1027"),
+    "29eec865-4d1a-40d0-8ace-d11c5faee033": ({"arrangement": True, "performance_practice": "modern"},
+        "BWV 1038 for flute and piano, the piano taking the violin part"),
+    "f806a310-5a0d-4428-a511-5bc7500c783b": ({"performers": [
+        {"name": "Nathan Milstein", "role": "violin"}, {"name": "Erica Morini", "role": "violin"},
+        {"name": "Betty Fischer", "role": "piano"}], "performance_practice": "modern"},
+        "BWV 1037 needs two violins; the release is The Art of Nathan Milstein"),
+    "cc391779-9431-4217-8b2e-30c21ec7c62c": ({"performers": [
+        {"name": "Capricornus Consort Basel", "role": "ensemble"}, {"name": "Péter Barczi", "role": "violin"}]},
+        "the consort's director plays the violin; the role pairing gave the group his 'conductor' credit"),
+    "912fad78-d1ac-47b1-8f37-703cd84e0190": ({"performers": [
+        {"name": "Jean‐Claude Gérard", "role": "flute"}, {"name": "Walter Forchert", "role": "violin"},
+        {"name": "Sergio Azzolini", "role": "bassoon"}, {"name": "Boris Kleiner", "role": "piano"}]},
+        "partners credited only in the roles"),
+    "6ef685e3-7a53-4f59-b63a-2e8492ea5428": ({"performers": [
+        {"name": "Marten Root", "role": "traverso"}, {"name": "Shunske Sato", "role": "violin"},
+        {"name": "Mieneke van der Velden", "role": "viola da gamba"}, {"name": "Benjamin Alard", "role": "harpsichord"}],
+        "performance_practice": "historical"}, "no roles in MusicBrainz; Netherlands Bach Society players on period instruments"),
+    "d0981c4d-aee8-409d-9e0c-6aa84a2251ac": ({"performers": [
+        {"name": "Anna Besson", "role": "traverso"}, {"name": "Benjamin Alard", "role": "organ"},
+        {"name": "Ronan Kernoa", "role": "cello"}], "performance_practice": "historical"},
+        "an instrumental movement on Van Mechelen's Erbarme dich: the tenor does not play (as in run 11)"),
+    "5f13d07c-21f5-4aa8-8298-2bee8bcba46f": ({"performers": [
+        {"name": "Bach Collegium Japan", "role": "ensemble"}, {"name": "Masaaki Suzuki", "role": "harpsichord"}]},
+        "Suzuki's role credited in Japanese only"),
   },
   "lute-works": {
+    "c27d887d-2ea3-42ad-9187-3f4cfc4c0a65": ({"instrument": "guitar", "performance_practice": "modern"},
+        "Bream Plays Dowland and Bach (1956): Dowland on lute, Bach on guitar (BWV 998 played in D major); the lute credit is the album's"),
+    "bd293948-4cbc-4bbf-be0f-53e9f893c414": ({"instrument": "guitar", "performance_practice": "modern"},
+        "Yepes's 1973 DG set of the lute works, on his ten-string guitar (DG credits guitar)"),
+    "e0f11ec9-7435-4a7b-9bb8-f098d4b5c90b": ({"performers": [{"name": "Yushan Jiang", "role": "harpsichord"}]},
+        "江禹杉, credited in Chinese only; Yushan Jiang on the release's international editions"),
+    "f341f7dd-c03b-46e9-bc17-c4abfe3ad386": ({"instrument": "guitar", "arrangement": True},
+        "Acoustic Alchemy, a smooth-jazz guitar group"),
     "6c483068-88c0-4b4b-9e52-bba64a57e2b3": ({"instrument": "lute", "performance_practice": "historical"}, "Claire Antonini is a lutenist (Œuvres pour luth)"),
     "234f8e3b-a310-4cc2-961e-7d39517a7c8a": ({"instrument": "lute", "performance_practice": "historical"}, "Clive Titmuss is a lutenist (The Twilight of the Lute)"),
     "7c89bb4f-8e04-4753-97f9-f541b09474c5": ({"instrument": "guitar", "performance_practice": "modern"}, "Filomena Moretti is a guitarist"),
@@ -653,15 +703,19 @@ INSTRUMENTS_EXTRA = {"clavecin": "harpsichord"}
 # with the credit kept in the notes (decided with guitar, 28 Oct 2026: the lute works are played on many plucked
 # instruments). Other credits (often the album's) make an arrangement only when they are not native and not a
 # keyboard: a double bass, percussion or fiddle with the guitar.
-LUTE_FAMILY = re.compile(r"theorbo|archlute|arciliuto|baroque lute|liuto|chitarrone", re.I)
+LUTE_FAMILY = re.compile(r"theorbo|archlute|arciliuto|baroque lute|\bliuto\b(?! forte)|chitarrone", re.I)
 # Lute works: a release title naming the guitar, for a lone performer with no instrument credit. Titles naming the
 # lute often name the works ("Works for Lute" played on guitar), so they are not used.
 GUITAR_RELEASE = re.compile(r"\bguitar|gitarre|guitare|guitarra|chitarra", re.I)
 # Lute works: crossover names, beyond ARRANGED_NAMES (whose "guitar" words do not apply here).
+LUTE_RELEASE = re.compile(r"\blute|\bluth|\blaute|la[uú]d\b|liuto", re.I)
 LUTE_ARRANGED_NAMES = re.compile(r"acoustic alchemy", re.I)
 # Trio sonatas (chamber mode, native ["ensemble"]): melody instruments the works' scoring does not name (oboes
 # for the flutes of BWV 1039, a viola) mean an arrangement. Recorders count as flutes; continuo credits and the
 # bassoon (a continuo instrument) are not checked.
+# Trio sonatas: players known to play these on period instruments, for the ensemble's performance practice.
+CHAMBER_PERIOD_PLAYERS = re.compile(r"reinhard goebel|jaap ter linden|hendrik bouman|harnoncourt|tachezi|^rebel$|"
+                                    r"rare fruits council|shunske sato|van der velden|benjamin alard|leonhardt|kuijken|bylsma", re.I)
 TRIO_MELODY = {"violin": "violin", "baroque-violin": "violin", "viola": "viola", "flute": "flute", "traverso": "flute",
                "recorder": "flute", "oboe": "oboe"}
 
@@ -955,6 +1009,9 @@ def chamber_of(perf: dict, lead: list[str]) -> tuple[str, str, bool, list[str]]:
         return (played or ("ensemble" if is_group(perf) else INSTRUMENTS.get(arranged[0].lower(), "other")
                            if arranged else "unknown"), "unknown", True, arranged)
     if lead == ["ensemble"]:
+        names = perf["names"]
+        if any(TRAVERSO_PLAYERS.search(n) or CHAMBER_PERIOD_PLAYERS.search(n) for n in names) or period_group(perf):
+            return "ensemble", "historical", False, []
         main = "ensemble"
     else:
         main = next((m for m in mapped if m in lead), None) \
@@ -1090,14 +1147,15 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
             rec["notes"] = ((rec["notes"] or "") + f" Played on {family}.").strip()
             if solo:
                 performers[0]["role"] = family
-        if instrument == "unknown" and solo and GUITAR_RELEASE.search(release):
+        if instrument == "unknown" and solo and GUITAR_RELEASE.search(release) and not LUTE_RELEASE.search(release):
             instrument = "guitar"
         rec["instrument"] = instrument
         others = [i for i in perf["ins"] if INSTRUMENTS.get(i.lower()) not in native | set(KEYBOARD)
                   and not LUTE_FAMILY.search(i) and i.lower() not in NOT_INSTRUMENTS]
         rec["arrangement"] = instrument not in native | {"unknown"} or bool(others) \
             or bool(ARRANGED_NAMES.search(re.sub(r"guitar|gitarr", "", names, flags=re.I))) \
-            or bool(LUTE_ARRANGED_NAMES.search(names)) or bool(ARRANGED_RELEASES.search(release))
+            or bool(LUTE_ARRANGED_NAMES.search(names)) or bool(ARRANGED_RELEASES.search(release)) \
+            or len(perf["names"]) >= 2  # a guitar duo, or a lute with recorder: these are solo works
         rec["performance_practice"] = ("modern" if instrument == "guitar"  # decided 28 Oct 2026: guitar is native
                                        else "historical" if instrument in HISTORICAL | {"lute"}
                                        else "modern" if instrument in MODERN else "unknown")

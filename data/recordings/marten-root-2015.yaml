@@ -1,15 +1,15 @@
 id: marten-root-2015
 performers:
 - name: Marten Root
-  role: performer
+  role: traverso
 - name: Shunske Sato
-  role: performer
+  role: violin
 - name: Mieneke van der Velden
-  role: performer
+  role: viola da gamba
 - name: Benjamin Alard
-  role: performer
+  role: harpsichord
 instrument: ensemble
-performance_practice: unknown
+performance_practice: historical
 arrangement: false
 recorded:
   years: [2015]

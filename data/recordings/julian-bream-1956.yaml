@@ -1,9 +1,9 @@
 id: julian-bream-1956
 performers:
 - name: Julian Bream
-  role: lute
-instrument: lute
-performance_practice: historical
+  role: guitar
+instrument: guitar
+performance_practice: modern
 arrangement: false
 recorded:
   years: [1956]

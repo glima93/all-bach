@@ -1,19 +1,21 @@
-id: hendrik-bouman-1980
+id: musica-antiqua-koln-1980
 performers:
-- name: Hendrik Bouman
-  role: harpsichord
+- name: Musica Antiqua Köln
+  role: ensemble
 - name: Reinhard Goebel
   role: violin
-- name: Jaap ter Linden
-  role: cello
 - name: Hajo Bäß
   role: violin
 - name: Wilbert Hazelzet
-  role: flute
+  role: traverso
 - name: Philippe Suzanne
-  role: flute
+  role: traverso
+- name: Jaap ter Linden
+  role: cello
+- name: Hendrik Bouman
+  role: harpsichord
 instrument: ensemble
-performance_practice: unknown
+performance_practice: historical
 arrangement: false
 recorded:
   years: [1980]

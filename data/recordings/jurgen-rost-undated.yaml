@@ -6,7 +6,8 @@ performers:
   role: guitar
 instrument: guitar
 performance_practice: modern
-arrangement: false
+arrangement: true
+arranger: null
 recorded:
   years: []
   place: null
