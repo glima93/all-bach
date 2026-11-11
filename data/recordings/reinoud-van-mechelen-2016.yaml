@@ -1,0 +1,32 @@
+id: reinoud-van-mechelen-2016
+performers:
+- name: Reinoud Van Mechelen
+  role: performer
+- name: Benjamin Alard
+  role: organ
+- name: Anna Besson
+  role: flute
+- name: Ronan Kernoa
+  role: cello
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Église Sainte-Aurélie
+released: 2016
+original_label: null
+works:
+- {bwv: '1039', complete: false, movements: [III. Adagio e piano]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e3c303fc-4e7b-4aed-aed2-8d4debbcc9c3
+  title: Erbarme dich
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 99089cae-cee9-47f4-8f39-004382e906ef
+  recordings: [d0981c4d-aee8-409d-9e0c-6aa84a2251ac]

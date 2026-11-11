@@ -1,0 +1,28 @@
+id: neymar-dias-undated-3
+performers:
+- name: Neymar Dias
+  role: viola caipira
+instrument: other
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '998', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/038f2f7d-3870-4f05-8795-8d0948585472
+  title: Feels Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a9d9f53-5f92-4b66-9ecc-f9445917176b
+  recordings: [83450bc1-189b-40db-b8e3-7c6ab8241e30]

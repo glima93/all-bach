@@ -1,0 +1,27 @@
+id: ronn-mcfarlane-1996
+performers:
+- name: Ronn McFarlane
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: 'Tanglewood: Seiji Ozawa Hall'
+released: 1996
+original_label: null
+works:
+- {bwv: '999', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/356ebe7a-8c81-4b00-b64a-e0eba4c224cb
+  title: A Distant Shore
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 67b3ca80-549c-40c9-abeb-8d5bf2273462
+  recordings: [809f33b0-69a4-451c-9f16-516b6c9de081]

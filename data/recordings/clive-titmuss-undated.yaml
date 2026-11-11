@@ -1,0 +1,28 @@
+id: clive-titmuss-undated
+performers:
+- name: Clive Titmuss
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '998', complete: false, movements: [I. Prelude, II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c5219301-4c3e-4566-8803-a3e0e53038f1
+  title: The Twilight of the Lute
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 612f52ab-480e-4d06-82b8-2a4bb916b3cb
+  recordings: [234f8e3b-a310-4cc2-961e-7d39517a7c8a]

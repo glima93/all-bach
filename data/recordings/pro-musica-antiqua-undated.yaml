@@ -1,0 +1,28 @@
+id: pro-musica-antiqua-undated
+performers:
+- name: Pro Musica Antiqua
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a0b8180-17fd-41ca-ae6f-ff8ec7e38d98
+  title: 'The Best: Baroque'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e8dd9fe-0a6a-44e1-bbff-4a7ca5b5bf4c
+  recordings: [33cf2af2-c62d-48eb-a94a-3f2b61afaf25]

@@ -1,0 +1,29 @@
+id: boulou-elios-ferre-undated
+performers:
+- name: Boulou & Elios Ferré
+  role: ensemble
+instrument: guitar
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '998', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/304003fc-6b1c-479e-b978-f14edfcf482c
+  title: Shades of a Dream
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With double bass.
+musicbrainz:
+  artist: 35a21561-4426-4d3f-9676-55303a63c013
+  recordings: [5482b4ec-e16f-451f-8f00-c355bce97348]

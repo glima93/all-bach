@@ -1,0 +1,16 @@
+bwv: "998"
+title: "Prelude, Fugue and Allegro in E-flat major"
+key: "E-flat major"
+collection: "Works for lute"
+genre: lute
+scoring: "Lute or harpsichord"
+composed: "Leipzig, probably c. 1735 or later; the autograph survives"
+movements:
+  - "I. Prelude"
+  - "II. Fugue"
+  - "III. Allegro"
+notes: "The autograph is headed \"Prelude pour la Luth. ò Cembal.\"; the fugue is one of the few by Bach in da capo (ternary) form."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Prelude,_Fugue_and_Allegro_in_E-flat_major,_BWV_998"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/2016b681-af04-30d5-9c05-11773502a613

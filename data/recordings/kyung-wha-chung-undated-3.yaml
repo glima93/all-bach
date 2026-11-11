@@ -1,0 +1,34 @@
+id: kyung-wha-chung-undated-3
+performers:
+- name: Kyung-Wha Chung
+  role: violin
+- name: James Galway
+  role: flute
+- name: Phillip Moll
+  role: harpsichord
+- name: Moray Welsh
+  role: cello
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: CBS Studios
+released: 1979
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+- {bwv: '1039', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d5191cd3-f8c9-4f6b-98ce-0f6c47a5d9cf
+  title: Trio Sonatas BWV 1038 1039 & 1079
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a83500d7-4b80-4a5c-ada8-60676bbb2848
+  recordings: [c9593479-252c-4fda-9624-17d76cb82cbd]

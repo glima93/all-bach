@@ -1,0 +1,27 @@
+id: xavier-cauhepe-1993
+performers:
+- name: Xavier Cauhépé
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6ff94f6f-a4b9-4cf4-92c8-10f81798df4c
+  title: Florilège de musique pour luth en concert
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 0480526b-3bde-484b-82c7-4679f3497458
+  recordings: [e620d281-e464-4e65-9a05-079d23d55a6d]

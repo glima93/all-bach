@@ -1,0 +1,17 @@
+bwv: "1037"
+title: "Trio Sonata in C major"
+key: "C major"
+collection: "Trio Sonatas"
+genre: chamber
+scoring: "Two violins and continuo"
+composed: "Date and place unknown; if by Goldberg (1727–1756), it can only date from the 1740s or early 1750s"
+movements:
+  - "I. Adagio"
+  - "II. Alla breve"
+  - "III. Largo"
+  - "IV. Gigue"
+notes: "Published as Bach's in the Bach-Gesellschaft edition (1860), but now attributed to his pupil Johann Gottlieb Goldberg (DürG 13)."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/4b87f369-3968-4efe-9541-2bf7f4d8f54d

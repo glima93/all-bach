@@ -1,0 +1,28 @@
+id: tom-nauman-undated
+performers:
+- name: Tom Nauman
+  role: classical guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '996', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/729c093d-8e09-4c66-8656-a1d3ce17aff2
+  title: Guitar Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 724edceb-30d3-455f-9902-9fad161fe730
+  recordings: [5590c6c9-d46e-4f00-9eab-588c630c9f14]

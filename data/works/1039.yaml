@@ -1,0 +1,17 @@
+bwv: "1039"
+title: "Trio Sonata in G major"
+key: "G major"
+collection: "Trio Sonatas"
+genre: chamber
+scoring: "Two flutes and continuo"
+composed: "Probably Leipzig, 1730s; the main source is a set of parts copied in Bach's circle on paper used c. 1726–45, and Christoph Wolff dates the work to 1736–41"
+movements:
+  - "I. Adagio"
+  - "II. Allegro ma non presto"
+  - "III. Adagio e piano"
+  - "IV. Presto"
+notes: "Another version of the Sonata for viola da gamba and harpsichord BWV 1027, which is thought to be the later, final form; whether the flute version is the original or both derive from a lost earlier trio is uncertain."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Sonata_in_G_major_for_two_flutes_and_basso_continuo,_BWV_1039"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/598b2b95-df06-45f2-8068-7af211a97388

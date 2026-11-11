@@ -1,0 +1,27 @@
+id: toyohiko-satoh-undated
+performers:
+- name: Toyohiko Satoh
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Doopsgezinde kerk
+released: 2018
+original_label: null
+works:
+- {bwv: '995', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3a08c378-ca0c-477e-b8bc-342733266447
+  recordings: [6fdbe363-2ac0-4acc-bd7c-ee26809fa65c]

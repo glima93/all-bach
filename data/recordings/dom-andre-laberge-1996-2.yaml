@@ -1,0 +1,26 @@
+id: dom-andre-laberge-1996-2
+performers:
+- name: Dom André Laberge
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Abbaye de Saint-Benoit-du-Lac
+released: 1996
+original_label: null
+works:
+- {bwv: '998', complete: false, movements: [I. Prelude, II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bdee0552-c7dd-4787-ba10-85d62b584c70
+  title: Inventions & Sinfonies, Prélude, fugue et allegro
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5294ae8f-78d4-45db-b4d2-b54e5cd78edc
+  recordings: [e57ed09b-9d5d-4461-a629-424badd24d6a]

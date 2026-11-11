@@ -1,0 +1,27 @@
+id: paul-berget-2006
+performers:
+- name: Paul Berget
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '996', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eff5f226-0432-4fed-a47c-089712814199
+  title: J.S. Bach on the Lute
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c08e915-1913-409e-9d86-b7bc197cee52
+  recordings: [7d119701-93ef-4321-9439-e07ba8f58478]

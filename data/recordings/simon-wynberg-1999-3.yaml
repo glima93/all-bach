@@ -1,0 +1,28 @@
+id: simon-wynberg-1999-3
+performers:
+- name: Simon Wynberg
+  role: guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '995', complete: false, movements: [IV. Sarabande, VI. Gavotte II en Rondeau]}
+- {bwv: '996', complete: false, movements: [V. Bourrée]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eab9e5c2-98cc-4966-943d-1b83acb35e48
+  title: Classics by the Sea
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d521db7c-4c48-49d1-9a92-64cd7d2a3185
+  recordings: [70aeb7f0-74d5-413e-9b61-6a076b6e44bd]

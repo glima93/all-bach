@@ -1,0 +1,29 @@
+id: martha-goldstein-undated-5
+performers:
+- name: Martha Goldstein
+  role: lautenwerck
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '996', complete: true}
+- {bwv: '998', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/581aa4bb-297b-40ba-9ce9-6808aa413c5e
+  title: The Sound of the Keyboard Lute
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e0ef8e76-94bc-4f2c-8295-d4208524b6d1
+  recordings: [7eddd173-351b-41fc-b633-29fc575917d6]

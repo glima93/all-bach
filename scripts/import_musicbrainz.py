@@ -46,6 +46,10 @@ NO_ARTIST = "eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61"  # MusicBrainz "[no artist]"
 # snapshot because a recording mislinked to one collection is often a real performance of another.
 # Fix upstream in MusicBrainz too, then remove the entry here.
 EXCLUDE_BY_SNAPSHOT = {
+  "chamber-trio-sonatas": {
+    "0499eaea-4825-4705-b679-0dd94464b1bd": "C. P. E. Bach's three-movement Wq 145 on an album of his trio sonatas Wq 144-151, not BWV 1036",
+    "d7fb0e33-acd3-4b47-87a2-ee9c34c8b2c7": "an Adagio from Lazarevitch and Taylor's C. P. E. Bach album (Sonatas for Flute and Fortepiano)",
+  },
   "cello-suites": {
     "04f657f2-dbb1-4b2a-8c4b-e96a1e4f4080": "release is the Orchestral Suites BWV 1066-1069",
     "91db1c6e-aa80-4cfc-8ef5-50639f20bc1e": "release is Rameau's harpsichord works",
@@ -118,6 +122,19 @@ EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "lute-works": {
+    "5aac3021-1492-4368-91ab-de19586dba7a": ("43a43ec3-99db-464b-b1fa-ad9b356a13e4", "Luca Pianca's BWV 999 and 1000 on Bach 2000, with his 1998 BWV 995"),
+    "8bdfa221-eee4-44c4-8cd4-b2b327d0048d": ("1b5f6485-f696-497a-bec7-16b32079778c", "Barchi's lute-harpsichord tracks on the Bach 2000 sampler, from the same set"),
+  },
+  "chamber-trio-sonatas": {
+    "4b3321f8-719e-4def-a11d-d5ac7d0677a3": ("43c98fdc-4c73-4009-9e33-9c16a1664167", "Galway's BWV 1039 and 1038 on the same 1995 album, Bach Vol. 2: Trio Sonatas"),
+    "d934b97c-cb7f-4141-89e0-cfeb053f0945": ("c6015943-5fe7-4bd1-8776-cf5d37cf2ec5", "Jed Wentz's BWV 1039 and 1038 on the same 2008 release"),
+    "e16c7980-9cd0-4cf2-8297-96fa411edf34": ("b2d41a52-2487-452c-982e-f047dde10754", "Musica Antiqua Köln's 1980 Archiv trio sonatas: BWV 1037"),
+    "a7a656aa-a4fc-48e8-9cf8-c908ba46b927": ("b2d41a52-2487-452c-982e-f047dde10754", "Musica Antiqua Köln's 1980 Archiv trio sonatas: BWV 1038"),
+    "190b3b91-b5d0-47aa-90e9-94b32aba6d57": ("b2d41a52-2487-452c-982e-f047dde10754", "Musica Antiqua Köln's 1980 Archiv trio sonatas: BWV 1039 (Hazelzet, Suzanne)"),
+    "34609164-9acf-48ea-ad24-6750b1462588": ("478dee7a-08ac-43ad-96d3-808009459b39", "Brüggen's BWV 1039 on Virtuose Kammermusik: the undated row has the last movement, the 1968 row the first three"),
+    "332f3881-991d-4221-a598-8858b3cd3a09": ("25c9ebb0-5870-4ab8-b073-da1404efeb69", "Ortega Quero's BWV 1039 on New Oboe Sonatas: the first movement's row lacks the second oboe and cellist"),
+  },
   "flute-works": {
     "11486481-cea1-49ec-a54a-f04a3408a632": ("17e4c4b4-8e27-441d-a816-cb8621463153",
         "Brüggen and Leonhardt's BWV 1030 and 1032, first issued with the Brandenburgs: the same 1975 Doopsgezinde kerk sessions as the Complete Sonatas & Partita"),
@@ -245,6 +262,8 @@ JOIN_BY_PLAYER_RELEASE = {
 
 # Instruments the snapshot's `native` list leaves out, per snapshot, with the reason.
 NATIVE_EXTRA_BY_SNAPSHOT = {
+  "lute-works": (["piano", "clavichord", "fortepiano"], "BWV 996, 998 and 999 survive in keyboard sources or name the harpsichord; "
+                 "as for the keyboard works, any Clavier is native (piano filed as modern)"),
   "gamba-sonatas": (["violoncello-piccolo"], "a cello-family instrument like the cello the plan files as native (Bylsma, Wispelwey)"),
   "musical-offering": (["flute", "traverso"], "the trio sonata and the canons name the flute (Frederick the Great's instrument)"),
 }
@@ -252,6 +271,24 @@ NATIVE_EXTRA_BY_SNAPSHOT = {
 # Facts the snapshot gets wrong or leaves out for one row, per snapshot: representative recording ID ->
 # fields to set, with the reason. Fix upstream in MusicBrainz too, then remove the entry here.
 OVERRIDE_BY_SNAPSHOT = {
+  "chamber-trio-sonatas": {
+    "a53771bd-a72b-4e3c-91c7-7a86aae5a491": ({"arrangement": True, "performance_practice": "unknown"},
+        "Kammertrio Linz-Wien, on an album of chamber music for guitar, recorder and baroque violin: guitar continuo"),
+    "f39cb59e-a840-43f2-ba34-49eba8367b5d": ({"arrangement": True},
+        "the group Trio Sonata, on 'More Music for Flute, Oboe and Guitar': BWV 1037 arranged for that trio"),
+  },
+  "lute-works": {
+    "6c483068-88c0-4b4b-9e52-bba64a57e2b3": ({"instrument": "lute", "performance_practice": "historical"}, "Claire Antonini is a lutenist (Œuvres pour luth)"),
+    "234f8e3b-a310-4cc2-961e-7d39517a7c8a": ({"instrument": "lute", "performance_practice": "historical"}, "Clive Titmuss is a lutenist (The Twilight of the Lute)"),
+    "7c89bb4f-8e04-4753-97f9-f541b09474c5": ({"instrument": "guitar", "performance_practice": "modern"}, "Filomena Moretti is a guitarist"),
+    "54080206-2cee-454d-a300-717165490aad": ({"instrument": "recorder", "arrangement": True, "performers": [
+        {"name": "René Clemencic", "role": "recorder"}, {"name": "András Kecskés", "role": "lute"}]},
+        "Clemencic (recorder) and Kecskés (lute), Flûte à bec, Luth, & Guitare: the Prelude with recorder"),
+    "83450bc1-189b-40db-b8e3-7c6ab8241e30": ({"instrument": "other", "arrangement": True, "performers": [{"name": "Neymar Dias", "role": "viola caipira"}]},
+        "Neymar Dias, Feels Bach: played on the viola caipira"),
+    "6e60536a-bd8d-4413-a2e0-c6ca05310892": ({"instrument": "flute", "arrangement": True, "performers": [{"name": "Emi Ferguson", "role": "flute"}, {"name": "Ruckus", "role": "ensemble"}]},
+        "Ruckus with Emi Ferguson (flute), Fly the Coop: BWV 999 arranged for flute and continuo band"),
+  },
   "gamba-sonatas": {
     "64c01010-75cf-477e-a2f7-ce6fd55785fe": ({"performers": [{"name": "Daniil Shafran", "role": "cello"},
                                                              {"name": "Andrei Volkonsky", "role": "harpsichord"}]},
@@ -571,7 +608,7 @@ MODERN_ENSEMBLE = re.compile(r"m.nchener bach|kammerakademie potsdam|zurich baro
 # Credits or names that mean the music was arranged for other forces (jazz trio, brass band, synthesizer …).
 ARRANGED = re.compile(r"drum|saxophone|synthesi[sz]er|moog|electric|accordion|marimba|vibraphone|tuba|"
                       r"clarinet|banjo|mandolin|ukulele|harmonica|beatbox|bass guitar|guitar", re.I)
-ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone?)?\b|swingle|jazz|loussier|guitar|gitarr|switched.on|synth|\bbeat\b|"
+ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone?)?\b(?<!manfred sax)|swingle|jazz|loussier|guitar|gitarr|switched.on|synth|\bbeat\b|"
                             r"loeki|seldom sene|baby einstein|babies|sweet little band|pink mice|\bthe nice\b|"
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
@@ -611,6 +648,22 @@ OPEN_ARRANGED_NAMES = re.compile(r"(?<!hanover )\bband\b|recorder|blockfl|quinta
 # Keyboard works: a release title that names the instrument, for a lone performer with no instrument credit.
 KEYBOARD_RELEASE = re.compile(r"\b(harpsichord|cembalo|piano)\b|pour (clavecin)", re.I)
 INSTRUMENTS_EXTRA = {"clavecin": "harpsichord"}
+
+# Lute works (mode "lute"): instruments of the lute family credited under their own names are filed as the lute,
+# with the credit kept in the notes (decided with guitar, 28 Oct 2026: the lute works are played on many plucked
+# instruments). Other credits (often the album's) make an arrangement only when they are not native and not a
+# keyboard: a double bass, percussion or fiddle with the guitar.
+LUTE_FAMILY = re.compile(r"theorbo|archlute|arciliuto|baroque lute|liuto|chitarrone", re.I)
+# Lute works: a release title naming the guitar, for a lone performer with no instrument credit. Titles naming the
+# lute often name the works ("Works for Lute" played on guitar), so they are not used.
+GUITAR_RELEASE = re.compile(r"\bguitar|gitarre|guitare|guitarra|chitarra", re.I)
+# Lute works: crossover names, beyond ARRANGED_NAMES (whose "guitar" words do not apply here).
+LUTE_ARRANGED_NAMES = re.compile(r"acoustic alchemy", re.I)
+# Trio sonatas (chamber mode, native ["ensemble"]): melody instruments the works' scoring does not name (oboes
+# for the flutes of BWV 1039, a viola) mean an arrangement. Recorders count as flutes; continuo credits and the
+# bassoon (a continuo instrument) are not checked.
+TRIO_MELODY = {"violin": "violin", "baroque-violin": "violin", "viola": "viola", "flute": "flute", "traverso": "flute",
+               "recorder": "flute", "oboe": "oboe"}
 
 class Flow(list):
     """A list written in YAML flow style: [a, b]."""
@@ -980,6 +1033,16 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         rec["performance_practice"] = practice
         rec["arrangement"] = arranged
         others = mention
+        if mode == "chamber" and lead == ["ensemble"] and not arranged:
+            # Checked against the scoring of the works the row plays when it plays only one: on a mixed row the
+            # credits are the album's, so a violin for BWV 1038 says nothing about BWV 1039.
+            played = {m.split(":")[0] for m in perf["mv"]}
+            scoring = SCORINGS.get(next(iter(played)), "").lower() if len(played) == 1 else None
+            foreign = [] if scoring is None else [
+                i for i in perf["ins"] if INSTRUMENTS.get(i.lower()) in TRIO_MELODY
+                and TRIO_MELODY[INSTRUMENTS[i.lower()]] not in scoring]
+            if foreign:
+                rec["performance_practice"], rec["arrangement"], others = "unknown", True, foreign
         if mode == "open" and not arranged and (any(OPEN_ARRANGED.search(i) for i in perf["ins"])
                                                  or OPEN_ARRANGED_NAMES.search(" ".join(perf["names"]))):
             rec["performance_practice"], rec["arrangement"] = "unknown", True
@@ -1014,10 +1077,30 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         if melody:  # a cello or violin with the keyboard: a transcription led by the melody instrument
             rec["instrument"], rec["performance_practice"] = INSTRUMENTS[melody[0].lower()], "unknown"
             others = [i for i in others if i != melody[0]] + [i for i in perf["ins"] if INSTRUMENTS.get(i.lower()) == instrument]
-    elif mode == "lute" and instrument == "guitar":
-        rec["performance_practice"] = "modern"  # decided 28 Oct 2026: guitar is native for the lute works
-    elif mode == "lute" and instrument == "lute":
-        rec["performance_practice"] = "historical"
+    elif mode == "lute":
+        names = " ".join(perf["names"])
+        release = " ".join(r["title"] for r in perf["releases"])
+        # The first performer's own credit names the instrument (an album crediting organ and harpsichord players too).
+        own = INSTRUMENTS.get((roles.get(perf["names"][0].lower()) or roles.get(perf["names"][0]) or "").lower())
+        if own in native:
+            instrument = own
+        family = next((i for i in perf["ins"] if LUTE_FAMILY.search(i)), None)
+        if instrument == "other" and family:
+            instrument = "lute"
+            rec["notes"] = ((rec["notes"] or "") + f" Played on {family}.").strip()
+            if solo:
+                performers[0]["role"] = family
+        if instrument == "unknown" and solo and GUITAR_RELEASE.search(release):
+            instrument = "guitar"
+        rec["instrument"] = instrument
+        others = [i for i in perf["ins"] if INSTRUMENTS.get(i.lower()) not in native | set(KEYBOARD)
+                  and not LUTE_FAMILY.search(i) and i.lower() not in NOT_INSTRUMENTS]
+        rec["arrangement"] = instrument not in native | {"unknown"} or bool(others) \
+            or bool(ARRANGED_NAMES.search(re.sub(r"guitar|gitarr", "", names, flags=re.I))) \
+            or bool(LUTE_ARRANGED_NAMES.search(names)) or bool(ARRANGED_RELEASES.search(release))
+        rec["performance_practice"] = ("modern" if instrument == "guitar"  # decided 28 Oct 2026: guitar is native
+                                       else "historical" if instrument in HISTORICAL | {"lute"}
+                                       else "modern" if instrument in MODERN else "unknown")
     if rec["arrangement"]:
         rec["arranger"] = None
         if instrument == "other" and perf["ins"]:

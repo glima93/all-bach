@@ -1,0 +1,28 @@
+id: filomena-moretti-undated
+performers:
+- name: Filomena Moretti
+  role: guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '995', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/671d5144-1269-449e-9d18-ab7f688b6c69
+  title: 'Bach: Works for Lute'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84217741-6519-448b-bc88-c94d58a37022
+  recordings: [7c89bb4f-8e04-4753-97f9-f541b09474c5]

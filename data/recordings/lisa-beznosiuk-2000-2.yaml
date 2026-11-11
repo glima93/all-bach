@@ -1,0 +1,30 @@
+id: lisa-beznosiuk-2000-2
+performers:
+- name: Lisa Beznosiuk
+  role: flute
+- name: Richard Tunnicliffe
+  role: cello
+- name: Paul Nicholson
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000, 2001]
+  place: Walcot Hall
+released: 2002
+original_label: null
+works:
+- {bwv: '1039', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ed203c23-6730-4183-92e5-816be0b100c0
+  title: The Complete Flute Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65dff25a-98a5-4546-8f52-0e12973afe5d
+  recordings: [27e133c7-ab12-4ca1-aa0c-6b076ed26438]

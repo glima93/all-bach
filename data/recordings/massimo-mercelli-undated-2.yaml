@@ -1,0 +1,30 @@
+id: massimo-mercelli-undated-2
+performers:
+- name: Massimo Mercelli
+  role: flute
+- name: Ramin Bahrami
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a62c1727-e096-429e-bf64-35ff6bc438b2
+  title: Sanssouci
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a29f535d-356c-4703-8a7c-cf18d54b5245
+  recordings: [29eec865-4d1a-40d0-8ace-d11c5faee033]

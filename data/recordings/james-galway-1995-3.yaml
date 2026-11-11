@@ -1,0 +1,35 @@
+id: james-galway-1995-3
+performers:
+- name: James Galway
+  role: flute
+- name: Monica Huggett
+  role: violin
+- name: Phillip Moll
+  role: harpsichord
+- name: Sarah Cunningham
+  role: viola da gamba
+- name: Jeanne Galway
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Henry Wood Hall
+released: 1996
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+- {bwv: '1039', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1f78d51c-30b8-4269-8cf9-ff0249237b9a
+  title: 'Bach, Vol. 2: Trio Sonatas'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84045b93-beb0-4bc8-a855-93266ec6bbdc
+  recordings: [43c98fdc-4c73-4009-9e33-9c16a1664167, 4b3321f8-719e-4def-a11d-d5ac7d0677a3]

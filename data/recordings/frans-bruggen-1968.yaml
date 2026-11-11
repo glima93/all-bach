@@ -1,0 +1,27 @@
+id: frans-bruggen-1968
+performers:
+- name: Frans Brüggen
+  role: transverse flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1968]
+  place: null
+released: 1978
+original_label: null
+works:
+- {bwv: '1039', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ebf64ff3-d242-445f-b995-46fc99643053
+  title: Virtuose Kammermusik
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ef36a7b-c93c-4e05-9d23-2dd9f85c653a
+  recordings: [34609164-9acf-48ea-ad24-6750b1462588, 478dee7a-08ac-43ad-96d3-808009459b39]

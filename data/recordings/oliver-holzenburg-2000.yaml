@@ -1,0 +1,27 @@
+id: oliver-holzenburg-2000
+performers:
+- name: Oliver Holzenburg
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Klosterkirche Beinwil
+released: 2000
+original_label: null
+works:
+- {bwv: '995', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/02cfb53e-ec7c-4365-9db8-7aa3d2c9aca1
+  title: 'Arrangements for Lute: BWV 995, 1000, 1006a'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 25c33507-344b-414a-9463-c7ce3ded3de0
+  recordings: [ef56d136-19e1-4f5b-b1ce-0112a87eb60f]

@@ -1,0 +1,30 @@
+id: hopkinson-smith-1980
+performers:
+- name: Hopkinson Smith
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1980, 1981]
+  place: L'Eglise romane de Saint-Lambert-des-Bois
+released: 1987
+original_label: null
+works:
+- {bwv: '995', complete: true}
+- {bwv: '996', complete: true}
+- {bwv: '998', complete: false, movements: [I. Prelude]}
+- {bwv: '999', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/05da5347-62a4-456e-99ce-e680a327c546
+  title: L'œuvre de Luth
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dfa6d053-2bd8-4119-9b17-7bb39af0a5a5
+  recordings: [f3e6d787-ff3e-42a6-a43a-d574f0f92aa7]

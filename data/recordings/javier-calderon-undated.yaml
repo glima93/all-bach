@@ -1,0 +1,30 @@
+id: javier-calderon-undated
+performers:
+- name: Javier Calderón
+  role: guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '996', complete: true}
+- {bwv: '998', complete: true}
+- {bwv: '999', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6bac6a6d-3af9-4509-8cb3-6100f18f2d86
+  title: Javier Calderón Plays J.S. Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 78f1def5-29ea-4469-b677-cdaf8d57585a
+  recordings: [877853b1-3361-434b-a3ff-d1bffbaf8655]

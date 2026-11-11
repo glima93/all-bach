@@ -1,0 +1,27 @@
+id: monika-rost-undated
+performers:
+- name: Monika Rost
+  role: classical guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Lukaskirche
+released: 1984
+original_label: null
+works:
+- {bwv: '996', complete: false, movements: [III. Courante, V. Bourrée]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f1a9a5ad-5477-4b53-8c8c-2fd909a53a55
+  title: Werke für Laute
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ea375747-bb6c-423e-9bc1-0216777763a1
+  recordings: [fc9c423f-d179-4858-9ee0-cdf8113f5112]

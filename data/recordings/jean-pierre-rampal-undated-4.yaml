@@ -1,0 +1,34 @@
+id: jean-pierre-rampal-undated-4
+performers:
+- name: Jean‐Pierre Rampal
+  role: flute
+- name: Isaac Stern
+  role: violin
+- name: Leslie Parnas
+  role: cello
+- name: John Steele Ritter
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2feed532-68e2-477e-b84c-b8836bea93f3
+  title: バッハ父子のトリオ・ソナタ (ランパル＼スターン他)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4deb8a6c-38f1-47d6-9e75-ada1add9dd65
+  recordings: [29657b82-7ab1-4e9c-bb6d-963398044780]

@@ -1,0 +1,14 @@
+bwv: "1000"
+title: "Fugue in G minor"
+key: "G minor"
+collection: "Works for lute"
+genre: lute
+scoring: "Lute"
+composed: "Probably Leipzig, after 1723; it survives only in a lute tablature attributed to Bach's Leipzig friend Johann Christian Weyrauch"
+movements:
+  - "Fugue in G minor"
+notes: "An arrangement of the fugue from the Violin Sonata No. 1 in G minor, BWV 1001 (which Bach also arranged for organ as BWV 539); whether Bach himself made the lute version is uncertain."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Fugue_in_G_minor,_BWV_1000"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/3467a1b8-eca6-371b-a0e3-b50f08c3aa81

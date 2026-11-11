@@ -1,0 +1,32 @@
+id: timothy-eddy-1980
+performers:
+- name: Timothy Eddy
+  role: cello
+- name: Itzhak Perlman
+  role: violin
+- name: Samuel Sanders
+  role: harpsichord
+- name: Pinchas Zukerman
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980]
+  place: CBS Studios
+released: 2015
+original_label: null
+works:
+- {bwv: '1037', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d02ec51f-b999-40a2-a6a9-883b8052c20d
+  title: Oboe Quartets & Trio Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e27c71eb-0617-4bfb-a8b3-9d1b9ad89e80
+  recordings: [38d275b1-778b-4602-b0dd-63ca40626817]

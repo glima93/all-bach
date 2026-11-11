@@ -1,0 +1,28 @@
+id: jerry-willard-undated
+performers:
+- name: Jerry Willard
+  role: archlute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '996', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc5a30e1-43ec-49a8-9152-ca5e9554d3e1
+  title: Jerry Willard PLAYS! Four Centuries of Lute and Guitar
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on archlute.
+musicbrainz:
+  artist: 2e680d07-82d0-4e79-be40-7050f84a5561
+  recordings: [53b316d7-546c-40e9-bff5-1cb741eb14b5]

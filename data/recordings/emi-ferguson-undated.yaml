@@ -1,0 +1,30 @@
+id: emi-ferguson-undated
+performers:
+- name: Emi Ferguson
+  role: flute
+- name: Ruckus
+  role: ensemble
+instrument: flute
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '999', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/514ebacb-f55a-4bf0-b90c-50403890a9c8
+  title: 'Fly the Coop: Bach Sonatas and Preludes'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 67284755-7ac8-4256-83e8-16b963e77d4c
+  recordings: [6e60536a-bd8d-4413-a2e0-c6ca05310892]

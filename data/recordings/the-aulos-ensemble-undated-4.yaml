@@ -1,0 +1,29 @@
+id: the-aulos-ensemble-undated-4
+performers:
+- name: The Aulos Ensemble
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+- {bwv: '1039', complete: false, movements: [III. Adagio e piano, IV. Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ff53f9a2-d814-44a8-a979-6f6494d0d47d
+  title: Eight Sonatas for Diverse Instruments
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5b31561f-f24d-4099-b561-8d52a063a69e
+  recordings: [aeebda1c-62e4-470b-bfc2-c6d61602f302]

@@ -1,0 +1,27 @@
+id: pieter-jan-belder-2020
+performers:
+- name: Pieter-Jan Belder
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020, 2021]
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '998', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c111c9db-d279-49ad-9e06-015010543c02
+  title: Miscellaneous Pieces for Harpsichord
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5ac46c3a-f0ca-48b0-b729-f6a40d1b80e1
+  recordings: [478e8c5c-add4-46db-92b8-57255c94af72]

@@ -1,0 +1,28 @@
+id: nigel-north-1985
+performers:
+- name: Nigel North
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1985]
+  place: Finchcocks
+released: 1985
+original_label: null
+works:
+- {bwv: '995', complete: true}
+- {bwv: '999', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/695fe648-2ea3-436a-b5b9-38a18382354c
+  title: Lute Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39cd4e82-eca2-446a-a4a1-02a9ca4ceea5
+  recordings: [4326c08e-e181-4af6-94d2-800ff8808f2d]

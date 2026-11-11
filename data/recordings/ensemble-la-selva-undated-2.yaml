@@ -1,0 +1,28 @@
+id: ensemble-la-selva-undated-2
+performers:
+- name: Ensemble La Selva
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '1040', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7b27fc4-3373-494b-909a-fe02f7ab12ea
+  title: Early Wind Sonatas ca.1713–23
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4da6fd59-cd5b-4628-a310-558c7aab79eb
+  recordings: [beec7d0b-19b0-4cdc-bc2c-ba6c65f12e6e]

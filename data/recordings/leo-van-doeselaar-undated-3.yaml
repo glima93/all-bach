@@ -1,0 +1,35 @@
+id: leo-van-doeselaar-undated-3
+performers:
+- name: Leo van Doeselaar
+  role: organ
+- name: François Fernandez
+  role: violin
+- name: Siebe Henstra
+  role: harpsichord
+- name: Ricardo Rodriguez Miranda
+  role: viola da gamba
+- name: Mieneke van der Velden
+  role: viola da gamba
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Koepelkerk
+released: 2008
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6a505e8f-c6bc-4f85-93aa-a6ab1384f99b
+  title: Da Gamba
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 92cf381b-ec74-442f-92c5-73ec60ecd44a
+  recordings: [a380a7c9-d481-4ab4-86fa-b3a7127c1e64]

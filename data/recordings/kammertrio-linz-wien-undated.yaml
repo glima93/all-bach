@@ -1,0 +1,28 @@
+id: kammertrio-linz-wien-undated
+performers:
+- name: Kammertrio Linz-Wien
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0483b8c2-3652-454b-98e6-749870b8869a
+  title: Kammermusik für Gitarre, Blockflöte und Barockgeige
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e05b1622-1f1a-4ae6-b3b6-4d8c513b1fee
+  recordings: [a53771bd-a72b-4e3c-91c7-7a86aae5a491]

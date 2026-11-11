@@ -1,0 +1,29 @@
+id: luca-pianca-1998
+performers:
+- name: Luca Pianca
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Oratorio San Rocco
+released: 1999
+original_label: null
+works:
+- {bwv: '995', complete: false, movements: [I. Prelude, II. Allemande, III. Courante, IV. Sarabande, V. Gavotte
+      I, VII. Gigue]}
+- {bwv: '999', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45c91d80-d17e-4376-a55e-972d3b94104f
+  recordings: [43a43ec3-99db-464b-b1fa-ad9b356a13e4, 5aac3021-1492-4368-91ab-de19586dba7a]

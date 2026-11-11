@@ -1,0 +1,28 @@
+id: lenka-filipova-undated
+performers:
+- name: Lenka Filipová
+  role: guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/392b4d83-56f0-4300-b2a9-d4e648befb00
+  title: The Best of Lenka Filipová
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5178a059-d947-4fe4-a703-367064b727ad
+  recordings: [7e6570ca-6c57-454b-9544-de33722306ff]

@@ -1,0 +1,26 @@
+id: benjamin-alard-2019
+performers:
+- name: Benjamin Alard
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: Auditorium Antonin Artaud
+released: 2020
+original_label: null
+works:
+- {bwv: '996', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/57b3ac12-4060-470a-a346-0598edeaf73f
+  title: 'The Complete Works for Keyboard 3: In the French Style'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [6d828db3-9bfa-46bb-bc47-1d225816b1ca]

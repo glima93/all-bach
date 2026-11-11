@@ -1,0 +1,29 @@
+id: xavier-diaz-latorre-undated
+performers:
+- name: Xavier Díaz-Latorre
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '995', complete: false, movements: [I. Prelude, II. Allemande, IV. Sarabande, V. Gavotte I, VI. Gavotte
+      II en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b30f51c6-c7a6-4994-bb4e-20b8ff091c7b
+  title: Stolen roses
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6f1b0f2-7d48-47ab-8686-17c3323aa58b
+  recordings: [7e5f2177-80e5-4ead-b088-312efaf83913]

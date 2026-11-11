@@ -1,0 +1,30 @@
+id: camerata-bern-1996
+performers:
+- name: Camerata Bern
+  role: orchestra
+- name: Heinz Holliger
+  role: oboe
+- name: Thomas Zehetmair
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Théâtre et Salle de musique
+released: 1998
+original_label: null
+works:
+- {bwv: '1040', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/80af256a-f634-4f92-9257-9599dfeb373b
+  title: Bach Oboe Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b562bf23-c7db-4254-9435-4772b66d08cd
+  recordings: [f6a5f079-0c9f-4f36-a27f-8b4e89bdf8b4]

@@ -1,0 +1,30 @@
+id: braulio-paulini-undated
+performers:
+- name: Braulio Paulini
+  role: guitar
+- name: Joseph Paulson
+  role: guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '996', complete: false, movements: [I. Prelude. Presto, II. Allemande, V. Bourrée]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3a6dface-6b01-4984-a78f-9c10e8997abf
+  title: Romantic Classical Guitar
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 69871d9c-0894-4aef-a966-9c4705575ca7
+  recordings: [9f41eac7-73c2-4935-8b21-8bf2d47980ec]

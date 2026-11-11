@@ -1,0 +1,27 @@
+id: wolfgang-rubsam-2020-3
+performers:
+- name: Wolfgang Rübsam
+  role: lautenwerck
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Immanuel Lutheran Church
+released: 2020
+original_label: null
+works:
+- {bwv: '996', complete: true}
+- {bwv: '998', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/47430084-8063-4616-9db7-9c115bae9e07
+  title: French Suites, BWV 812-817
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [9bb3a8e1-81bc-4522-8a3b-f8a4f3c4ef1b]

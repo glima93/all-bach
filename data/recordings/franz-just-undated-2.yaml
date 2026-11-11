@@ -1,0 +1,28 @@
+id: franz-just-undated-2
+performers:
+- name: Franz Just
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '999', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7018f7a0-05c0-44a6-8705-3782412b27b4
+  title: J. S. Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 78a7bc55-ae1b-43a6-87ce-69aadf8db8da
+  recordings: [5aa9f37d-56c5-4213-818f-520d52ca8841]

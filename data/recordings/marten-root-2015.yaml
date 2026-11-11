@@ -1,0 +1,32 @@
+id: marten-root-2015
+performers:
+- name: Marten Root
+  role: performer
+- name: Shunske Sato
+  role: performer
+- name: Mieneke van der Velden
+  role: performer
+- name: Benjamin Alard
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: Paushuize
+released: null
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/6ef685e3-7a53-4f59-b63a-2e8492ea5428
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3f929072-577b-421e-a253-01ed48e8e51b
+  recordings: [6ef685e3-7a53-4f59-b63a-2e8492ea5428]

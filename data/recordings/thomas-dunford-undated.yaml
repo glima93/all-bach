@@ -1,0 +1,27 @@
+id: thomas-dunford-undated
+performers:
+- name: Thomas Dunford
+  role: archlute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Salle de Musique
+released: 2018
+original_label: null
+works:
+- {bwv: '995', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4e535df4-9099-4970-9042-6e63bc62c187
+  title: Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on archlute.
+musicbrainz:
+  artist: 1a3b8687-0405-4a52-985a-bde19c6f92de
+  recordings: [b8669b94-cbd6-4a47-8df6-5839ab0e8991]

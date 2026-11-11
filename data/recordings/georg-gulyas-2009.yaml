@@ -1,0 +1,28 @@
+id: georg-gulyas-2009
+performers:
+- name: Georg Gulyás
+  role: classical guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2009, 2010]
+  place: Lycke Church
+released: 2011
+original_label: null
+works:
+- {bwv: '995', complete: false, movements: [V. Gavotte I, VII. Gigue]}
+- {bwv: '999', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/faf0e2f0-24b7-42c7-a0c5-825cea58dacd
+  title: Georg Gulyás Plays Bach II
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 743ca748-6496-4681-b920-328e489c15fa
+  recordings: [900b9a29-ed9b-420b-a763-f8c03f89af45]

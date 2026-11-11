@@ -1,0 +1,27 @@
+id: michele-barchi-1998
+performers:
+- name: Michele Barchi
+  role: lautenwerck
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Oratorio San Rocco
+released: 1999
+original_label: null
+works:
+- {bwv: '996', complete: true}
+- {bwv: '998', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ee9f91f-f11b-49da-baed-768b2c11e127
+  recordings: [1b5f6485-f696-497a-bec7-16b32079778c, 8bdfa221-eee4-44c4-8cd4-b2b327d0048d]

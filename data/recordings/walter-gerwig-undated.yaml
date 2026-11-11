@@ -1,0 +1,27 @@
+id: walter-gerwig-undated
+performers:
+- name: Walter Gerwig
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Thienhaus Studio
+released: 2014
+original_label: null
+works:
+- {bwv: '995', complete: false, movements: [III. Courante, IV. Sarabande]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0993266-50d4-4500-b304-7d5583c08712
+  title: Music for Lute
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8ec9eac5-551c-4364-93fa-7923df829984
+  recordings: [c961537d-3658-4494-8184-164701d9d762]

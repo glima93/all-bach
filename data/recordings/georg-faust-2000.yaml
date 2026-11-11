@@ -1,0 +1,33 @@
+id: georg-faust-2000
+performers:
+- name: Georg Faust
+  role: cello
+- name: Rainer Kussmaul
+  role: violin
+- name: Emmanuel Pahud
+  role: flute
+- name: Christine Schornsheim
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: Teldec Studio
+released: 2001
+original_label: null
+works:
+- {bwv: '1038', complete: false, movements: [I. Largo, II. Vivace, III. Adagio]}
+- {bwv: '1039', complete: false, movements: [IV. Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/56aa78bc-9773-407d-8244-b7b542b632f5
+  title: Brandenburg Concerto no. 5 / Orchestral Suite no. 2 / Trio Sonata / Partita
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c20d2004-1a4c-454a-adaf-a6cdb5bcceb5
+  recordings: [b86bd4ac-a464-4589-8732-4366258e81de]

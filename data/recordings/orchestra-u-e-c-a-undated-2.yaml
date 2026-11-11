@@ -1,0 +1,28 @@
+id: orchestra-u-e-c-a-undated-2
+performers:
+- name: Orchestra U.E.C.A.
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '1039', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/618a2dc2-b0e9-4cbb-b7d6-0f745db33d16
+  title: The Greatest Classical Composers - Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 58abd7ad-16ce-4ba2-a23b-77c72f555d1d
+  recordings: [a0c92f4e-4c2c-4f53-b323-f48a5dcd21d7]

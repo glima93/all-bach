@@ -1,0 +1,33 @@
+id: leopold-stastny-1976-2
+performers:
+- name: Leopold Stastny
+  role: flute
+- name: Alice Harnoncourt
+  role: violin
+- name: Nikolaus Harnoncourt
+  role: cello
+- name: Herbert Tachezi
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39646f5b-9746-4ae6-b9dc-2963262ddb4f
+  recordings: [edd05051-702a-481b-894d-1989fa47355a]

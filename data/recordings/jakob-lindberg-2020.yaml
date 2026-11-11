@@ -1,0 +1,26 @@
+id: jakob-lindberg-2020
+performers:
+- name: Jakob Lindberg
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Länna Kyrka
+released: 2021
+original_label: null
+works:
+- {bwv: '999', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9686b5fc-cf01-44e3-adc7-1b25a17508e8
+  title: Bach on the Rauwolf Lute
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a897d5df-4138-49b1-ac06-8dc729402663
+  recordings: [e1f881cb-0684-4555-bb2b-2d32a60761c2]

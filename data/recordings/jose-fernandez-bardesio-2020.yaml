@@ -1,0 +1,27 @@
+id: jose-fernandez-bardesio-2020
+performers:
+- name: José Fernández Bardesio
+  role: guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020]
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '995', complete: false, movements: [V. Gavotte I, VI. Gavotte II en Rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dc844bb9-17bf-4827-8d5f-4b509af0f3dd
+  title: Bach & Barrios
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3e9985df-3355-4a17-9e55-63c8d2ace2c8
+  recordings: [e6f10c2b-89e8-44c8-91e0-fec8a62c132d]

@@ -1,0 +1,30 @@
+id: ars-rediviva-undated-5
+performers:
+- name: Ars Rediviva
+  role: orchestra
+- name: Milan Munclinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1963
+original_label: null
+works:
+- {bwv: '1039', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/68ec76b0-06ea-4e26-be79-2d8218bb87db
+  title: Chamber Music by the Bach Family
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ab56484-5a98-47e2-9b32-25ac9f890f08
+  recordings: [2a54ce76-da53-4214-832d-59a0e0ef6fa3]

@@ -1,0 +1,31 @@
+id: konrad-junghanel-1988
+performers:
+- name: Konrad Junghänel
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988, 1989]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '995', complete: true}
+- {bwv: '996', complete: true}
+- {bwv: '998', complete: true}
+- {bwv: '999', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8d88b538-5b9c-440c-9b78-53627f923a22
+  title: Die Lautenwerke / Complete Lute Works
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a7a2487a-8721-4fa7-ab60-8a55a2184f54
+  recordings: [1e354d35-4320-449d-bdc8-c72333e42e58]

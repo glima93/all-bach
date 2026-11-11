@@ -1,0 +1,30 @@
+id: rebel-undated
+performers:
+- name: REBEL
+  role: ensemble
+- name: Jörg-Michael Schwarz
+  role: performer
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1037', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b80c882a-2dae-48bd-abbd-2fe77de72f87
+  title: 'Beyond the Variations: Chamber Music for Strings & Basso Continuo'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4d948738-c22d-41bb-870e-c63b7f735ade
+  recordings: [f1aacfde-629e-45d9-9adc-419e05bdf97d]

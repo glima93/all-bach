@@ -1,0 +1,30 @@
+id: jurgen-rost-undated
+performers:
+- name: Jürgen Rost
+  role: guitar
+- name: Monika Rost
+  role: guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '996', complete: false, movements: [V. Bourrée]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/20b686da-39ce-4ef7-b59c-0c6a403824d7
+  title: Meisterwerke
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad221ac6-b13d-4c25-bccb-3dd19c912622
+  recordings: [fb9c05a8-4b06-4d09-8576-268512c55803]

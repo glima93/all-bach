@@ -1,0 +1,29 @@
+id: kim-heindel-1993
+performers:
+- name: Kim Heindel
+  role: lautenwerck
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '996', complete: true}
+- {bwv: '998', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6595de7-bd84-42f9-be45-27f34d738e64
+  title: Aufs Lautenwerck
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a634e744-a018-430b-bbd2-1210053960b5
+  recordings: [1edffd07-5bc7-4004-ba6e-670c6be0bc63]
