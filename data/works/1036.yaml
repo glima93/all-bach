@@ -1,0 +1,17 @@
+bwv: "1036"
+title: "Trio Sonata in D minor"
+key: "D minor"
+collection: "Trio Sonatas"
+genre: chamber
+scoring: "Violin and obbligato harpsichord (also played as a trio for two violins, or flute and violin, and continuo)"
+composed: "Leipzig, 1731, according to C. P. E. Bach's estate catalogue of 1790; he revised it in Berlin in 1747"
+movements:
+  - "I. Adagio"
+  - "II. Allegro"
+  - "III. Largo"
+  - "IV. Vivace"
+notes: "Now attributed to Carl Philipp Emanuel Bach: this is the early four-movement version of his trio Wq 145 (H. 569), which in 1747 he recast in three movements for flute, violin and bass."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/827f0134-be49-4cea-84b4-062205f64efb

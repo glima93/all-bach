@@ -1,0 +1,30 @@
+id: claire-antonini-undated
+performers:
+- name: Claire Antonini
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '995', complete: false, movements: [I. Prelude, II. Allemande, III. Courante, IV. Sarabande, V. Gavotte
+      I, VII. Gigue]}
+- {bwv: '998', complete: false, movements: [I. Prelude, II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cdf4b379-8c8f-4553-a30c-0c46860c84bc
+  title: 'Johann Sebastian Bach: Œuvres pour luth'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 576d9110-12d3-4475-b7b8-7363dd0f291e
+  recordings: [6c483068-88c0-4b4b-9e52-bba64a57e2b3]

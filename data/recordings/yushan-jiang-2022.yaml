@@ -1,0 +1,28 @@
+id: yushan-jiang-2022
+performers:
+- name: Yushan Jiang
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2022]
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '996', complete: true}
+- {bwv: '998', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7ecd2f71-0dc0-42d8-92f2-f71f9fe22e12
+  title: Works for Harpsichord
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bb3e7de6-85a2-4d44-bad4-c184e17adbd8
+  recordings: [e0f11ec9-7435-4a7b-9bb8-f098d4b5c90b]

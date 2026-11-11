@@ -1,0 +1,28 @@
+id: alberto-crugnola-undated
+performers:
+- name: Alberto Crugnola
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ba1d2734-59e8-4dca-b1dc-934549b6d7ef
+  title: German Lute Music of the XVIII Century, Volume 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9c2eee2a-5673-4e1a-b72a-d24572f4c7e4
+  recordings: [30f02249-7c36-47fb-92f4-fad6f56d617b]

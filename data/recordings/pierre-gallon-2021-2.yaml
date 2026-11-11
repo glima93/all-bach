@@ -1,0 +1,26 @@
+id: pierre-gallon-2021-2
+performers:
+- name: Pierre Gallon
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Begijnhofkerk
+released: 2022
+original_label: null
+works:
+- {bwv: '999', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f3864506-17f3-4d48-9256-d95ceeddba66
+  title: Bach - Suites françaises
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 40814ee7-cbbe-4bfa-9f2b-e70d4d974a07
+  recordings: [895c7352-d4a8-4249-8ce8-8350eb50eacf]

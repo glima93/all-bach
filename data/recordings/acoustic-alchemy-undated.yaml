@@ -1,0 +1,30 @@
+id: acoustic-alchemy-undated
+performers:
+- name: Acoustic Alchemy
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '996', complete: false, movements: [II. Allemande]}
+- {bwv: '999', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6f7d3b56-b9c1-49b4-84c5-0f10255ef4bc
+  title: 33⅓
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 78de0cb4-245a-4679-9d09-d4f277c58e0e
+  recordings: [f341f7dd-c03b-46e9-bc17-c4abfe3ad386]

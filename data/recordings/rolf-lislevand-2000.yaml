@@ -1,0 +1,27 @@
+id: rolf-lislevand-2000
+performers:
+- name: Rolf Lislevand
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Église Saint-Apollinaire
+released: 2001
+original_label: null
+works:
+- {bwv: '995', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef2f3be1-402b-47cd-b394-5519142333eb
+  title: Intavolatura
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e4f4eab7-e864-4838-9908-8ccd37c9ce35
+  recordings: [ed31f16a-512f-488a-be92-4ff18df029c9]

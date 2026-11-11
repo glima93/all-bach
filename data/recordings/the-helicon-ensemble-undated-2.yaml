@@ -1,0 +1,30 @@
+id: the-helicon-ensemble-undated-2
+performers:
+- name: The Helicon Ensemble
+  role: performer
+- name: Albert Fuller
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '1037', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f9fe2916-a1ed-48a8-a8b8-48e7735f1be2
+  title: Vivaldi / Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ec2a096-6a58-464e-a9d6-ac622a987d4b
+  recordings: [2e780bc2-87ca-4214-931f-5b32b01a1eea]

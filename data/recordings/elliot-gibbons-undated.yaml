@@ -1,0 +1,29 @@
+id: elliot-gibbons-undated
+performers:
+- name: Elliot Gibbons
+  role: guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '996', complete: false, movements: [II. Allemande, V. Bourrée]}
+- {bwv: '999', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/58d82bdc-7cc6-4d37-87ff-a2f6c9a2f7e1
+  title: Mysterious Barricades
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c1f0330f-527d-4ddf-9a20-a3f4685ded40
+  recordings: [28cee556-5ca7-4028-9bbd-7f704b4280da]

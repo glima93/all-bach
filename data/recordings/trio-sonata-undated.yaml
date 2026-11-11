@@ -1,0 +1,28 @@
+id: trio-sonata-undated
+performers:
+- name: Trio Sonata
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '1037', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/388f5b86-0d6e-458d-bc9f-111c7e604e36
+  title: Encore! More Music for Flute, Oboe and Guitar
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a475e40-ae27-4e56-a5a4-e21f93bb7999
+  recordings: [f39cb59e-a840-43f2-ba34-49eba8367b5d]

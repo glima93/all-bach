@@ -1,0 +1,19 @@
+bwv: "996"
+title: "Suite for Lute in E minor"
+key: "E minor"
+collection: "Works for lute"
+genre: lute
+scoring: "Probably lute-harpsichord (Lautenwerck); often played on lute or guitar"
+composed: "Probably Weimar, c. 1708–17; no autograph survives"
+movements:
+  - "I. Prelude. Presto"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Sarabande"
+  - "V. Bourrée"
+  - "VI. Gigue"
+notes: "The main source, a copy in keyboard notation, carries the annotation \"aufs Lautenwerck\" in an unidentified hand. The Bourrée is one of the best-known pieces in the guitar repertoire."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Lute_Suite_in_E_minor,_BWV_996"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/8ea818b8-0582-4a2f-a94d-e350d9762a19

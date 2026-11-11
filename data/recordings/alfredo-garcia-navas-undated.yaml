@@ -1,0 +1,28 @@
+id: alfredo-garcia-navas-undated
+performers:
+- name: Alfredo Garcia-Navas
+  role: guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '996', complete: false, movements: [V. Bourrée]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2c86d28-0d84-4b82-82d4-6a2da116ba16
+  title: Bach für Kinder - Mit Gesang und Himmelsklang
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 592816d6-1e5c-454b-bd5d-0bf8adf1df00
+  recordings: [cdbfa159-e7d3-4043-8140-6c595188f8db]

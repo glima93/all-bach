@@ -1,0 +1,30 @@
+id: eugene-istomin-1950
+performers:
+- name: Eugene Istomin
+  role: piano
+- name: Isaac Stern
+  role: violin
+- name: John Wummer
+  role: flute
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1950]
+  place: Église Saint-Pierre de Prades
+released: 2003
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e3e83e1d-3b0a-4b69-a72d-f1f3e95f46c6
+  title: The Complete Columbia Analogue Recordings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f81cc557-3e10-4b30-bc1d-bc21ec235a54
+  recordings: [7c32c833-a6ea-46ae-a900-e2c8f94dbe05]

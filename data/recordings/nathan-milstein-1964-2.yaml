@@ -1,0 +1,30 @@
+id: nathan-milstein-1964-2
+performers:
+- name: Nathan Milstein
+  role: violin
+- name: Erica Morini
+  role: violin
+- name: Betty Fischer
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1964]
+  place: Capitol 46th Street Studios
+released: 1993
+original_label: null
+works:
+- {bwv: '1037', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4dc0a90b-cf8e-4e82-b2ba-1ef4ba26e04c
+  title: The Art Of Nathan Milstein
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4f30de9a-ab35-4b7e-8812-a5b6a6e701c6
+  recordings: [f806a310-5a0d-4428-a511-5bc7500c783b]

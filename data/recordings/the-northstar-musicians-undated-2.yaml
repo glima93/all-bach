@@ -1,0 +1,28 @@
+id: the-northstar-musicians-undated-2
+performers:
+- name: The Northstar Musicians
+  role: performer
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '996', complete: false, movements: [V. Bourrée]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6490f097-b5c5-4b61-a72a-e1dafd52cf44
+  title: 'Classical Guitar Masters: Musical Renaissance'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f36753e-ffe3-436d-8f8f-6dd7f053eef5
+  recordings: [2b3e2d5e-3a1b-43de-ae62-a81854e6849c]

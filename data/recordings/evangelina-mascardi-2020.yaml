@@ -1,0 +1,30 @@
+id: evangelina-mascardi-2020
+performers:
+- name: Evangelina Mascardi
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020, 2021]
+  place: Istituto di musica antica Academia Montis Regalis
+released: 2022
+original_label: null
+works:
+- {bwv: '995', complete: true}
+- {bwv: '996', complete: true}
+- {bwv: '998', complete: true}
+- {bwv: '999', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15a1927f-8a54-49ad-b504-21756d8fe715
+  title: Complete Lute Works - CD 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 951dfbdb-4dcc-453b-b68b-e289d61a3888
+  recordings: [6b2a1402-ea01-423f-aca0-c417993ec58c]

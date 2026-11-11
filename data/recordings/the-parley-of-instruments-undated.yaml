@@ -1,0 +1,32 @@
+id: the-parley-of-instruments-undated
+performers:
+- name: The Parley of Instruments
+  role: ensemble
+- name: Jennifer Smith
+  role: soprano
+- name: Roy Goodman
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '1040', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8674e325-cd17-4a5d-9dfa-027ee2a9ef5f
+  title: Hunt Cantata, BWV 208 "Was mir behagt"
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 70af5d9a-c6e0-4fcf-9cde-4d3d00e0fcb0
+  recordings: [2002d88d-486e-4566-8ebe-d24bf0862bd7]

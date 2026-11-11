@@ -1,0 +1,28 @@
+id: andreas-martin-2004
+performers:
+- name: Andreas Martin
+  role: theorbo
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2004]
+  place: Studio Tibor Varga
+released: 2004
+original_label: null
+works:
+- {bwv: '995', complete: true}
+- {bwv: '999', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6daba49b-d47f-4c68-bfd1-bdea033f099a
+  title: Obras para laúd
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on theorbo.
+musicbrainz:
+  artist: bb2a25cb-f669-4d8b-bfe4-bb9e8449ed54
+  recordings: [9ec26995-8582-48b3-aeee-d308acf837de]

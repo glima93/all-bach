@@ -1,0 +1,28 @@
+id: anthony-hamilton-undated
+performers:
+- name: Anthony Hamilton
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '999', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e52b9c8-e492-4f75-a300-fe921b738c6b
+  title: 50 Shades of Classical
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: da3b8ba9-ebd5-4723-99bd-90f0f70ad724
+  recordings: [21fec1f9-460d-4f37-bbad-36870fddb5a8]

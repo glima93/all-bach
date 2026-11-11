@@ -1,0 +1,17 @@
+bwv: "1038"
+title: "Trio Sonata in G major"
+key: "G major"
+collection: "Trio Sonatas"
+genre: chamber
+scoring: "Flute, violin and continuo"
+composed: "Probably Leipzig, c. 1732–35; the music survives in Bach's own hand, though no composer is named"
+movements:
+  - "I. Largo"
+  - "II. Vivace"
+  - "III. Adagio"
+  - "IV. Presto"
+notes: "Built on the same bass as the Violin Sonata BWV 1021, and arranged as the Violin Sonata BWV 1022; its authorship is doubtful, and it may be a composition exercise by a son or pupil on Bach's bass."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e85b95c3-eccf-464a-98de-1ae677eeb601

@@ -1,0 +1,26 @@
+id: kenneth-gilbert-1984-3
+performers:
+- name: Kenneth Gilbert
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: Musée des beaux-arts de Chartres
+released: 1986
+original_label: null
+works:
+- {bwv: '998', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9ddaf842-2da9-470f-a0d6-fe03f4c38c3d
+  title: Kleine Präludien
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24dade80-0518-4ae7-b62e-cbd31489bb5d
+  recordings: [72f2060c-2194-4dcf-abe3-ea88e9811e8c]

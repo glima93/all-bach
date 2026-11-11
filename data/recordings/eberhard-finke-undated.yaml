@@ -1,0 +1,34 @@
+id: eberhard-finke-undated
+performers:
+- name: Eberhard Finke
+  role: cello
+- name: Aurèle Nicolet
+  role: flute
+- name: Edith Picht‐Axenfeld
+  role: harpsichord
+- name: Jean‐Pierre Rampal
+  role: flute
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1036', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b26959e-6e3c-4514-b379-0fe1d376c076
+  title: The Complete Erato Recordings II. 1963–1969
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 87b816f9-749b-42b2-9670-5d3a503bd9e9
+  recordings: [c5270053-e7f1-45bc-8389-d59c7196a2e6]

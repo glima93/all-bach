@@ -1,0 +1,31 @@
+id: konrad-ragossnig-undated
+performers:
+- name: Konrad Ragossnig
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1971
+original_label: null
+works:
+- {bwv: '995', complete: false, movements: [I. Prelude, II. Allemande, IV. Sarabande, V. Gavotte I, VI. Gavotte
+      II en Rondeau, VII. Gigue]}
+- {bwv: '999', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8e2b6209-1f9b-489c-848b-155f7a8d8ec6
+  title: 'The Great Composers Collection, Vol. 1: Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 61959b62-83a8-445d-825e-c6b92545632d
+  recordings: [d8840626-ce41-4d45-8976-97e23bbf93df]

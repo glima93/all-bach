@@ -1,0 +1,26 @@
+id: london-baroque-2011
+performers:
+- name: London Baroque
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: St Martin’s Church
+released: 2013
+original_label: null
+works:
+- {bwv: '1037', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/df29acf6-cfbf-4fb4-a3c4-1789f6f30edb
+  title: The Trio Sonata in 18th-Century Germany
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 07a23662-947c-45ef-b9a3-789392e24932
+  recordings: [6b19d7cb-10f1-4d76-a1b7-603a3a862250]

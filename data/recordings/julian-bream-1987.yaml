@@ -1,0 +1,26 @@
+id: julian-bream-1987
+performers:
+- name: Julian Bream
+  role: guitar
+instrument: guitar
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1987]
+  place: 'Kenwood House: Library; Liederkranzhalle'
+released: null
+original_label: null
+works:
+- {bwv: '996', complete: false, movements: [V. Bourrée]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4ab5c9bf-db76-4e88-be56-324731120adf
+  title: Lute Suites nos. 1 and 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5bada1be-28e1-45b8-9d89-6e14700d82d9
+  recordings: [1cb9babe-ea9b-45e7-82f3-fa30956b3b11]

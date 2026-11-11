@@ -1,0 +1,14 @@
+bwv: "999"
+title: "Prelude in C minor"
+key: "C minor"
+collection: "Works for lute"
+genre: lute
+scoring: "Lute"
+composed: "Date unknown, possibly Köthen (1717–23) or the early Leipzig years; the only source is a copy by Johann Peter Kellner made after 1727"
+movements:
+  - "Prelude in C minor"
+notes: "Kellner's copy is headed \"Praelude in C mol pour la Lute\" but is written on two keyboard staves; it is also known as No. 3 of the Twelve Little Preludes."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Prelude_in_C_minor,_BWV_999"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/d53cc638-6f32-3356-a5e2-7923f2529716

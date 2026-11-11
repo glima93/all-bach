@@ -1,0 +1,26 @@
+id: jakob-lindberg-1986
+performers:
+- name: Jakob Lindberg
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1986]
+  place: Wiks slott
+released: 1994
+original_label: null
+works:
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/65f68bb2-48da-40e5-8de1-62249f11e243
+  title: Baroque Times
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a897d5df-4138-49b1-ac06-8dc729402663
+  recordings: [7f954c95-6d74-4fca-9f15-6fc709b06882]

@@ -1,0 +1,42 @@
+id: musica-antiqua-koln-1980
+performers:
+- name: Musica Antiqua Köln
+  role: ensemble
+- name: Reinhard Goebel
+  role: violin
+- name: Hajo Bäß
+  role: violin
+- name: Wilbert Hazelzet
+  role: traverso
+- name: Philippe Suzanne
+  role: traverso
+- name: Jaap ter Linden
+  role: cello
+- name: Hendrik Bouman
+  role: harpsichord
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1980]
+  place: Plenarsaal der Akademie der Wissenschaften
+released: 2018
+original_label: null
+works:
+- {bwv: '1036', complete: true}
+- {bwv: '1037', complete: true}
+- {bwv: '1038', complete: true}
+- {bwv: '1039', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8f402e69-606c-46f7-94fd-a20ff2c99467
+  recordings: [190b3b91-b5d0-47aa-90e9-94b32aba6d57, a7a656aa-a4fc-48e8-9cf8-c908ba46b927, b2d41a52-2487-452c-982e-f047dde10754,
+    e16c7980-9cd0-4cf2-8297-96fa411edf34]

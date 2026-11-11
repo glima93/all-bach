@@ -1,0 +1,29 @@
+id: louis-pernot-undated
+performers:
+- name: Louis Pernot
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '996', complete: false, movements: [V. Bourrée]}
+- {bwv: '999', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dc392468-3631-4a44-b9d5-d52fa9876943
+  title: The Best of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c9245440-0203-4a7c-af69-e5c916071788
+  recordings: [752c2ac4-48ca-4354-b2f4-7fd6d76a7c1f]

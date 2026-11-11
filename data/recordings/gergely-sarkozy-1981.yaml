@@ -1,0 +1,27 @@
+id: gergely-sarkozy-1981
+performers:
+- name: Gergely Sárközy
+  role: lautenwerck
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1981]
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '996', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/64d6d032-0c83-4b13-9944-70350380f17d
+  title: 'Bach: Suite In E Minor BWV 996, Suite In C Minor BWV 997, Three Chorales'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a6711245-66de-4aa0-8582-827b5eb3b06e
+  recordings: [9bf842f9-689d-4a4e-8a13-8070bc5a42cc]

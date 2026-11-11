@@ -1,0 +1,27 @@
+id: eugen-m-dombois-1971
+performers:
+- name: Eugen M. Dombois
+  role: lute
+instrument: lute
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1971, 1972]
+  place: Casino Zögernitz
+released: 1980
+original_label: null
+works:
+- {bwv: '995', complete: false, movements: [V. Gavotte I, VII. Gigue]}
+- {bwv: '998', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b262b011-6728-4dcc-b997-bc6893cb3810
+  title: Die Barocklaute I & II
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5cadc9e7-417b-4462-bee1-59d939f7d68b
+  recordings: [32eb93af-7e14-4512-982e-b48f9921f439]

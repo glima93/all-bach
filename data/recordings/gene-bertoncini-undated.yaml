@@ -1,0 +1,31 @@
+id: gene-bertoncini-undated
+performers:
+- name: Gene Bertoncini
+  role: guitar
+- name: Michael Moore
+  role: double bass
+instrument: guitar
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '995', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a7571fdc-bda0-4532-b374-d554e3658503
+  title: Bridges
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With double bass.
+musicbrainz:
+  artist: 78dbc63b-a8ed-4eb0-8ee6-e320fc9b1cd7
+  recordings: [7ee00b73-52f1-47db-a183-f70a9649859b]

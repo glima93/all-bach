@@ -1,0 +1,28 @@
+id: ensemble-baroque-de-limoges-undated-2
+performers:
+- name: Ensemble Baroque de Limoges
+  role: ensemble
+instrument: ensemble
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '1039', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2fbbab6f-d3f1-4df4-b9fe-c907326b9fda
+  title: Reflexio
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b872d226-e1e1-4783-b8e4-d15f69b1f5ff
+  recordings: [06d39368-4a3a-4fcb-8d94-f9782819e24e]

@@ -1,0 +1,33 @@
+id: jean-claude-gerard-1998-3
+performers:
+- name: Jean‐Claude Gérard
+  role: flute
+- name: Walter Forchert
+  role: violin
+- name: Sergio Azzolini
+  role: bassoon
+- name: Boris Kleiner
+  role: piano
+instrument: ensemble
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1998]
+  place: Tonstudio van Geest
+released: 1999
+original_label: null
+works:
+- {bwv: '1038', complete: true}
+- {bwv: '1039', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/77e7022b-d0fe-4eb4-b907-233042e605fa
+  title: Chamber Music for the Flute
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5374abb3-5609-4f8f-8477-dc42e08ec3ce
+  recordings: [912fad78-d1ac-47b1-8f37-703cd84e0190]

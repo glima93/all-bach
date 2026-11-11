@@ -1,0 +1,30 @@
+id: virtuosi-saxoniae-undated-2
+performers:
+- name: Virtuosi Saxoniae
+  role: orchestra
+- name: Ludwig Güttler
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '1040', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f773c777-8b2b-4878-904d-6a54a62ee6ee
+  title: Meisterwerke
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 50415566-1dfc-4185-a900-d257bce41b55
+  recordings: [615ac35f-44bc-4798-99f4-2d4d353e0cfd]

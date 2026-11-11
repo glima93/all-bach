@@ -1,0 +1,32 @@
+id: emmanuel-pahud-2008-2
+performers:
+- name: Emmanuel Pahud
+  role: flute
+- name: Silvia Careddu
+  role: flute
+- name: Jonathan Manson
+  role: cello
+- name: Trevor Pinnock
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: Teldex Studio
+released: 2008
+original_label: null
+works:
+- {bwv: '1039', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac965bde-b0b7-4cf7-b9b2-7bafbad8f62d
+  title: Complete Flute Sonatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e9678a8c-4fcd-46ad-8f4e-3d17f6e3943f
+  recordings: [9550ec87-dbc3-492f-ade8-c9dac12baf01]
