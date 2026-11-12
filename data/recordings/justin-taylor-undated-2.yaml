@@ -1,0 +1,29 @@
+id: justin-taylor-undated-2
+performers:
+- name: Justin Taylor
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '903', complete: false, movements: [I. Fantasia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ccc3ecd0-d18c-4345-a53d-4df0f56d03f8
+  title: Les Plus Beaux CD du mois — octobre 2023
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 23e5e29a-4c96-4019-b8b2-85722f2d3bc5
+  recordings: [114cff2b-d042-4f84-b88a-c891b6404f04]

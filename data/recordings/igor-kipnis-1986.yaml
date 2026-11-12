@@ -1,0 +1,34 @@
+id: igor-kipnis-1986
+performers:
+- name: Igor Kipnis
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1986]
+  place: Concordia College
+released: 1987
+original_label: null
+works:
+- {bwv: '903', complete: true}
+- {bwv: '904', complete: true}
+- {bwv: '906', complete: true}
+- {bwv: '917', complete: true}
+- {bwv: '918', complete: true}
+- {bwv: '919', complete: true}
+- {bwv: '922', complete: true}
+- {bwv: '944', complete: true}
+- {bwv: '961', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50c6cb73-1bf0-4fe1-9694-355ef47dc5d0
+  title: The Complete Fantasias of Johann Sebastian Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 54a49aee-7eb5-4676-afdb-0e6f3e974bc9
+  recordings: [99e10b79-89d5-4f08-9f13-2c7a8d61ce30]

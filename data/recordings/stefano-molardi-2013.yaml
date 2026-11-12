@@ -1,0 +1,26 @@
+id: stefano-molardi-2013
+performers:
+- name: Stefano Molardi
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2013]
+  place: Dreifaltigkeitskirche
+released: 2014
+original_label: null
+works:
+- {bwv: '957', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5582b212-aea7-4355-8c4c-531ed438e5fc
+  title: Complete Edition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 911b08e9-752e-4cc4-b24e-72ebe39e36f1
+  recordings: [34a7b2c4-ab6e-470b-bffc-84881240f1cc]

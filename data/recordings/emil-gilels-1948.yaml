@@ -1,0 +1,27 @@
+id: emil-gilels-1948
+performers:
+- name: Emil Gilels
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1948]
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92452f52-54d9-42c4-a5b8-77b2eb2e274a
+  title: The 100th Anniversary Edition
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 88b4ad33-63ba-4923-947e-26a720631156
+  recordings: [3f9e044a-a6cb-407f-a54f-3016dcf4e804]

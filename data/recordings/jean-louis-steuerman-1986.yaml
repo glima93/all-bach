@@ -1,0 +1,30 @@
+id: jean-louis-steuerman-1986
+performers:
+- name: Jean Louis Steuerman
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1986]
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '894', complete: true}
+- {bwv: '903', complete: true}
+- {bwv: '904', complete: true}
+- {bwv: '906', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/91d50552-4afd-445e-b407-fc7001387584
+  title: Chromatic Fantasy & Fugue / Capriccio
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 992decd0-b7b2-48ed-b6f4-48dc8bf1f2ab
+  recordings: [01dc0858-c6de-4f5c-87c2-b402d3d06cef]

@@ -1,0 +1,27 @@
+id: bernard-bartelink-undated
+performers:
+- name: Bernard Bartelink
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Basiliek van Onze-Lieve-Vrouw-Tenhemelopneming
+released: 1989
+original_label: null
+works:
+- {bwv: '906', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6d29dae-0203-4b56-ac45-9428946826cc
+  title: Beroemde orgelwerken
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f4376bd8-75d4-4ac5-9984-ced657e108a5
+  recordings: [ab5981fc-e1b9-47ee-b1a0-dd88c2f151fb]

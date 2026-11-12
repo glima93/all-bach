@@ -1,0 +1,29 @@
+id: marcelle-meyer-1946-4
+performers:
+- name: Marcelle Meyer
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1946, 1947]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '903', complete: true}
+- {bwv: '904', complete: true}
+- {bwv: '906', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1773a0ce-a137-4b5e-807c-c5fd8a2e71d8
+  title: Ses enregistrements 1925 - 1957
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 910d4cd7-0852-49ad-a293-c15ea735ad40
+  recordings: [ba49ff9f-934a-4b6f-b348-4f99f3d5fbce]

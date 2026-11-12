@@ -1,0 +1,28 @@
+id: colin-booth-undated-3
+performers:
+- name: Colin Booth
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/09e34c6f-ef09-445f-8b59-07520583e400
+  title: JS Bach by Arrangement
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1caca34b-bf60-4949-9a83-e9837eb8d86e
+  recordings: [12c04889-c4c9-4e39-92ab-d5a3505382ac]

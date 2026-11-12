@@ -53,12 +53,12 @@ collections:
    note: "1038 and 1039 (= gamba sonata 1027); 1036 and 1037 are spurious"}
 - {id: lute-works, title: "Works for lute", chapter: Lute, bwv: ["995-1000"], mode: lute, wave: 1, run: 12, status: imported,
    note: "Most recordings are on guitar; lute-harpsichord too. Guitar is filed as the instrument (practice modern), not as an arrangement: decided 28 Oct 2026"}
-- {id: toccatas, title: "Toccatas", chapter: Keyboard, bwv: ["910-916"], mode: keyboard, wave: 1, run: 13, status: collected}
-- {id: keyboard-preludes-fugues, title: "Fantasias, Preludes and Fugues for keyboard", chapter: Keyboard, bwv: ["894-909", "917-923", "944-962"], mode: keyboard, wave: 1, run: 13, status: collected,
+- {id: toccatas, title: "Toccatas", chapter: Keyboard, bwv: ["910-916"], mode: keyboard, wave: 1, run: 13, status: imported}
+- {id: keyboard-preludes-fugues, title: "Fantasias, Preludes and Fugues for keyboard", chapter: Keyboard, bwv: ["894-909", "917-923", "944-962"], mode: keyboard, wave: 1, run: 13, status: imported,
    note: "Includes the Chromatic Fantasia and Fugue (903)"}
-- {id: keyboard-transcriptions, title: "Concerto transcriptions for keyboard", chapter: Keyboard, bwv: ["972-987"], mode: keyboard, wave: 1, run: 14, status: todo,
+- {id: keyboard-transcriptions, title: "Concerto transcriptions for keyboard", chapter: Keyboard, bwv: ["972-987"], mode: keyboard, wave: 1, run: 14, status: queued,
    note: "After Vivaldi, Marcello, Telemann and others"}
-- {id: little-preludes, title: "Little Preludes", chapter: Keyboard, bwv: ["924-943"], mode: keyboard, wave: 1, run: 14, status: todo}
+- {id: little-preludes, title: "Little Preludes", chapter: Keyboard, bwv: ["924-943"], mode: keyboard, wave: 1, run: 14, status: queued}
 - {id: keyboard-sonatas-variations, title: "Sonatas, Variations and Capriccios", chapter: Keyboard, bwv: ["963-970", "989-994"], mode: keyboard, wave: 1, run: 15, status: todo,
    note: "Includes the Capriccio on the departure of a beloved brother (992) and the Aria variata (989)"}
 - {id: other-keyboard-suites, title: "Other suites and pieces for keyboard", chapter: Keyboard, bwv: ["818-824", "832-845"], mode: keyboard, wave: 1, run: 15, status: todo}

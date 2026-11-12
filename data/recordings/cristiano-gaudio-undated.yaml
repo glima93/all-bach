@@ -1,0 +1,28 @@
+id: cristiano-gaudio-undated
+performers:
+- name: Cristiano Gaudio
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '903', complete: false, movements: [I. Fantasia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82422832-286a-47d0-818c-154e409b1ccf
+  title: Les Plus Beaux CD du mois — été 2026
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 00c57879-88d1-4aa9-a7c7-8eb899560d05
+  recordings: [ccb07892-5d05-4aed-ae99-acfbbfe108ca]

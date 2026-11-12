@@ -1,0 +1,26 @@
+id: paulina-zamora-2020-2
+performers:
+- name: Paulina Zamora
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020]
+  place: Museo de Artes Decorativas Palacio Rioja
+released: 2021
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c9cb95c2-4cce-4028-a580-002523f4a993
+  title: Zamora Plays Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a1db893-ef11-4b53-b6ae-7c956de1f880
+  recordings: [c269ba1f-d84b-4d44-bb5c-ecf6f668f70e]

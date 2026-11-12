@@ -1,0 +1,34 @@
+id: amandine-savary-undated
+performers:
+- name: Amandine Savary
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+- {bwv: '913', complete: true}
+- {bwv: '914', complete: true}
+- {bwv: '915', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8036301c-831d-4346-a1de-86cc56a16ec6
+  title: Toccatas, BWV 910 - 916
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1b638633-6cf4-4c40-af6b-40eacbfbaab2
+  recordings: [3f048731-d784-44ba-8693-533538d8606e]

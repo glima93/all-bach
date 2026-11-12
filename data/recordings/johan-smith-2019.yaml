@@ -1,0 +1,27 @@
+id: johan-smith-2019
+performers:
+- name: Johan Smith
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2019]
+  place: St. Paul’s Anglican Church
+released: 2020
+original_label: null
+works:
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dca0b86c-cad5-4805-b8e7-27b3edfabf22
+  title: Guitar Recital
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 849fed5a-d3a4-4948-957c-4193b1541f87
+  recordings: [b47baa75-cd28-4d63-a6bb-3afa09e73561]

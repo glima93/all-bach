@@ -1,0 +1,27 @@
+id: ton-koopman-1986-4
+performers:
+- name: Ton Koopman
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1986]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/065795d6-43d6-4934-a283-7fc4541d984f
+  title: Harpsichord works BWV 903, 816, 1079, 916, 971
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [0473853b-978d-4428-9821-4a610cb5b4d0]

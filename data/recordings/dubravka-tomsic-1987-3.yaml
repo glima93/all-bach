@@ -1,0 +1,27 @@
+id: dubravka-tomsic-1987-3
+performers:
+- name: Dubravka Tomšič
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1987]
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '912', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8b09b02-b148-476b-adec-cbcbbb514a79
+  title: Italian Concerto in F / Partita No. 1 / Toccata in D
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d4bd3e3e-c662-4d01-b068-4826809cc8cb
+  recordings: [e96a803d-5adf-49d0-a1c4-79f2b5a3fd41]

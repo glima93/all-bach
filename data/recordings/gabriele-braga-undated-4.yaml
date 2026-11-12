@@ -1,0 +1,28 @@
+id: gabriele-braga-undated-4
+performers:
+- name: Gabriele Braga
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15ebb2b1-dd88-49d1-bccc-e41158b717c5
+  title: Bach Favourites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 569304b7-011c-487b-93a3-00c29b6c2654
+  recordings: [ce6b7e72-9764-450e-ae37-909a566270c8]

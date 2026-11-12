@@ -1,0 +1,27 @@
+id: guiomar-novaes-1946
+performers:
+- name: Guiomar Novaes
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1946]
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '912', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eab8a21d-4de1-47c2-8382-41dc76cda2db
+  title: The Complete Published 78RPM Recordings
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85cdd339-a724-42b3-a31b-58e2ca42939f
+  recordings: [faa4ead2-229e-4f4b-8577-34faa205ab08]

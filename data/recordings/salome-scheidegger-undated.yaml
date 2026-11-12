@@ -1,0 +1,28 @@
+id: salome-scheidegger-undated
+performers:
+- name: Salome Scheidegger
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a91d7d1e-bd2a-4468-9ef5-7e642a1161fc
+  title: Storytelling
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 959efb83-f3ed-4b16-9843-0462fd614074
+  recordings: [62c3244a-3125-4a09-a1cf-914f19b36bc4]

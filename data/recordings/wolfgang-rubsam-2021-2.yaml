@@ -1,0 +1,26 @@
+id: wolfgang-rubsam-2021-2
+performers:
+- name: Wolfgang Rübsam
+  role: lautenwerck
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Church of Saint Louis, King of France
+released: 2021
+original_label: null
+works:
+- {bwv: '894', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f647e389-c9a6-403e-b307-85464737441e
+  title: Toccatas BWV 910–916
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [c85c9026-348c-4562-800f-b7694b2ccfa5]

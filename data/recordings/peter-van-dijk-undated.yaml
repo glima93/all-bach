@@ -1,0 +1,28 @@
+id: peter-van-dijk-undated
+performers:
+- name: Peter van Dijk
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '905', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c6514c61-bc1c-45c1-9f1e-e830f7a833cd
+  title: Historische Orgeln in Vorpommern
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4f9c23d4-a07f-4156-857a-ef4395a5a2cb
+  recordings: [d1ce5f31-7824-492d-900e-ac332bf9a431]

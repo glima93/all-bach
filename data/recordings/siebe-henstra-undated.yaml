@@ -1,0 +1,27 @@
+id: siebe-henstra-undated
+performers:
+- name: Siebe Henstra
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Felix Meritis
+released: null
+original_label: null
+works:
+- {bwv: '913', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/8a8c9270-00c5-4734-acb8-a26e121f2342
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 44915be9-4eb3-443e-8d11-b628c748731b
+  recordings: [8a8c9270-00c5-4734-acb8-a26e121f2342]

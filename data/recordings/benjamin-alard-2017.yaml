@@ -1,0 +1,39 @@
+id: benjamin-alard-2017
+performers:
+- name: Benjamin Alard
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017, 2018, 2020, 2021, 2023]
+  place: Église Sainte-Aurélie
+released: 2018
+original_label: null
+works:
+- {bwv: '894', complete: true}
+- {bwv: '896', complete: true}
+- {bwv: '899', complete: true}
+- {bwv: '903', complete: true}
+- {bwv: '917', complete: true}
+- {bwv: '921', complete: true}
+- {bwv: '944', complete: true}
+- {bwv: '946', complete: true}
+- {bwv: '947', complete: true}
+- {bwv: '949', complete: true}
+- {bwv: '950', complete: true}
+- {bwv: '953', complete: true}
+- {bwv: '955', complete: true}
+- {bwv: '959', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a57538fc-ad76-46df-a855-f0f1c55ab1ab
+  title: 'The Complete Work for Keyboard 1: The Young Heir'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [48d0c3ad-dd09-49be-bf6b-48b8e6ffebf6]

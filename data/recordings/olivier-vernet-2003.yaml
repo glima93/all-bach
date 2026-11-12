@@ -1,0 +1,34 @@
+id: olivier-vernet-2003
+performers:
+- name: Olivier Vernet
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2003]
+  place: Église Saint Cyr et Sainte Julitte
+released: 2008
+original_label: null
+works:
+- {bwv: '895', complete: true}
+- {bwv: '899', complete: true}
+- {bwv: '900', complete: true}
+- {bwv: '901', complete: true}
+- {bwv: '902', complete: true}
+- {bwv: '908', complete: false, movements: [II. Fughetta]}
+- {bwv: '952', complete: true}
+- {bwv: '953', complete: true}
+- {bwv: '961', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b06245df-a444-4474-8e5c-7871c2a11b05
+  title: 'Johann Sebastian Bach: Intégrale pour orgue'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 215d92b3-630f-46b3-bdc9-5995333efcbb
+  recordings: [ad4de7f5-940f-4c91-8e1e-7d5f12f0fff4]

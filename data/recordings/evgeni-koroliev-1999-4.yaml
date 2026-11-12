@@ -1,0 +1,27 @@
+id: evgeni-koroliev-1999-4
+performers:
+- name: Evgeni Koroliev
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1999]
+  place: Sendesaal des Hessischen Rundfunks
+released: 1999
+original_label: null
+works:
+- {bwv: '903', complete: true}
+- {bwv: '906', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c3b615de-bd49-4d16-9554-a6c50ebf5059
+  title: Französische Ouvertüre & Italienisches Konzert, BWV 831, 971
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 592440cc-cceb-4e50-a085-2c7afdf272ae
+  recordings: [7e8925b2-bc17-4023-9dbe-634b4c1a3d6f]

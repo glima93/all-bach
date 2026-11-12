@@ -1,0 +1,27 @@
+id: celine-frisch-2008
+performers:
+- name: Céline Frisch
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: Chapelle de l'hôpital Notre-Dame de Bon Secours
+released: 2009
+original_label: null
+works:
+- {bwv: '914', complete: true}
+- {bwv: '915', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f44afed-9eb0-4980-8cec-c967f0c6a704
+  title: Die Quellen des jungen Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d277acb9-771c-4bb4-9c1b-802128e93df1
+  recordings: [89c787e3-3c55-4382-952a-fc9e5cda6710]

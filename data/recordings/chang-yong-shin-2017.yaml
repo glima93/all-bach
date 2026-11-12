@@ -1,0 +1,26 @@
+id: chang-yong-shin-2017
+performers:
+- name: Chang-Yong Shin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2017]
+  place: Steinway Hall
+released: 2018
+original_label: null
+works:
+- {bwv: '912', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5508044a-db59-413f-a402-d744f0fbb7c3
+  title: Bach / Mozart / Haydn / Beethoven
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ad20476-33e1-4bf5-9173-f8145b958c58
+  recordings: [92e0bc72-8264-4705-b67f-2e7bab687185]

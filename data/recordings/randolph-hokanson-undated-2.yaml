@@ -1,0 +1,28 @@
+id: randolph-hokanson-undated-2
+performers:
+- name: Randolph Hokanson
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '912', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/c0eceb19-7446-4cd0-9496-3bfddf295212
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dc082bb9-296f-4f8d-9176-767f38ad3622
+  recordings: [c0eceb19-7446-4cd0-9496-3bfddf295212]

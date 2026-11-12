@@ -1,0 +1,26 @@
+id: yves-rechsteiner-2001-2
+performers:
+- name: Yves Rechsteiner
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: Chapelle de l'hôpital Notre-Dame de Bon Secours
+released: 2002
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc6f8a8f-a8d0-4b44-bbec-6d7b3eb12d38
+  title: Fantaisie chromatique, sonates & transcriptions
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2fa6f017-59a5-4efc-80ba-c4120ae7c1fd
+  recordings: [ffc68379-1061-4149-8333-d898a4644ce3]

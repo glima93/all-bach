@@ -1,0 +1,28 @@
+id: caroline-duris-undated
+performers:
+- name: Caroline Duris
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/078ee00c-d8c8-40f7-8def-c016609f43d7
+  title: De battre mon cœur s'est arrêté
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ab646a05-e181-48ee-89a1-d03879aae016
+  recordings: [bd0f4d4e-f5e3-4e26-9ce4-1b18242dc08e]

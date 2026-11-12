@@ -1,0 +1,26 @@
+id: bernard-foccroulle-1990
+performers:
+- name: Bernard Foccroulle
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: Klosterkirche Muri
+released: 2009
+original_label: null
+works:
+- {bwv: '944', complete: false, movements: [II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f80ba219-a4d4-4c90-a891-2b0c7347e4b8
+  title: Gesamte Orgelwerke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38e9fcc8-c04e-46a1-babf-8606719eb2f9
+  recordings: [46aeda53-779d-4ede-915c-b3eecb07c060]

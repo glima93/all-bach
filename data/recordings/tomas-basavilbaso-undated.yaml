@@ -1,0 +1,28 @@
+id: tomas-basavilbaso-undated
+performers:
+- name: Tomás Basavilbaso
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '906', complete: false, movements: [I. Fantasia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8e2200c9-85d6-46c5-96ac-b99410eaf738
+  title: 'Clásicos en Zaragoza: Alumnos del Conservatorio Profesional de Música'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6994ef58-da31-43b2-80d2-fce3aafdd651
+  recordings: [6363004c-18bc-439d-ab47-8a08fc412b56]

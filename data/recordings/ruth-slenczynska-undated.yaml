@@ -1,0 +1,28 @@
+id: ruth-slenczynska-undated
+performers:
+- name: Ruth Slenczynska
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0649735-0ee5-4e0f-b03f-d454b49456e7
+  title: Complete American Decca Recordings
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e980562-7dca-4662-8040-2e68a882f29a
+  recordings: [1f887caa-6efd-4c9a-9ea4-39d05c4bbaae]

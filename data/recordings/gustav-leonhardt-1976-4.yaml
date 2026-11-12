@@ -1,0 +1,28 @@
+id: gustav-leonhardt-1976-4
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1976, 1979]
+  place: Museum für Kunst und Gewerbe
+released: 1989
+original_label: null
+works:
+- {bwv: '903', complete: true}
+- {bwv: '906', complete: true}
+- {bwv: '944', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf634b70-dd26-4c65-9597-54f2036dea27
+  title: Italienisches Konzert / Toccata BWV 912 & BWV 913 / Fuge BWV 944 / Fantaisie BWV 906
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [ac150181-8075-4680-8cbf-013f3b758a7a]

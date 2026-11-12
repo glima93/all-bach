@@ -1,0 +1,27 @@
+id: vladimir-horowitz-1949
+performers:
+- name: Vladimir Horowitz
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1949]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '911', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b42db053-2e35-419a-846e-1b4d6dcc7706
+  title: The Private Collection, Volume 1
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 81269a28-c616-4e87-8942-a6f8e59b68e4
+  recordings: [12ea880f-cc31-40b1-bb7c-3d336fb1d434]

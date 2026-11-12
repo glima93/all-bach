@@ -1,0 +1,26 @@
+id: dame-myra-hess-1950
+performers:
+- name: Dame Myra Hess
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1950]
+  place: BBC Studios
+released: 2005
+original_label: null
+works:
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f3594be6-b312-4864-8715-1530b423b370
+  title: 'Beethoven: Piano Concerto No.2 / Schumann: Piano Concerto in A minor / Bach: Toccata in G major, BWV916'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3016bf08-6677-4f71-9fb5-3e54cdc607bb
+  recordings: [25b59d16-0997-42ff-828d-90d1e8917af7]

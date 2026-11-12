@@ -1,0 +1,28 @@
+id: fan-ya-lin-undated
+performers:
+- name: Fan-Ya Lin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '911', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aef26fcd-d51f-432d-9453-3e23a2804944
+  title: Emerging
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f8fcce16-3f20-4274-9c04-7a813564c430
+  recordings: [9bdcf616-2163-48f1-ab55-0aa3d0ca2e5b]

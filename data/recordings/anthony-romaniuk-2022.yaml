@@ -1,0 +1,26 @@
+id: anthony-romaniuk-2022
+performers:
+- name: Anthony Romaniuk
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2022]
+  place: 'Flagey Arts Center: Studio 1'
+released: 2023
+original_label: null
+works:
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6c784662-ac65-4b6a-baa5-36dba4818c60
+  title: Perpetuum
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ba13db87-9fcf-4fc0-8833-3d1aa8254d7a
+  recordings: [0172ab97-4a94-4b17-a659-3fc795130857]

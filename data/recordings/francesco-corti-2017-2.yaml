@@ -1,0 +1,26 @@
+id: francesco-corti-2017-2
+performers:
+- name: Francesco Corti
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Muziekgebouw aan ’t IJ
+released: null
+original_label: null
+works:
+- {bwv: '904', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/795b3b64-8d94-4f4d-acd8-0c6c7834dea1
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 7799a6f1-22c9-482c-b56a-37390254c4d1
+  recordings: [795b3b64-8d94-4f4d-acd8-0c6c7834dea1]

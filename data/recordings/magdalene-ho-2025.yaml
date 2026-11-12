@@ -1,0 +1,26 @@
+id: magdalene-ho-2025
+performers:
+- name: Magdalene Ho
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2025]
+  place: Van Cliburn Concert Hall
+released: 2025
+original_label: null
+works:
+- {bwv: '912', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/24c9fb5f-c5a1-4a2b-a062-b8fbc8d493fa
+  title: '2025 Cliburn Competition: Magdalene Ho – Preliminary Round (Live)'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: a99664b4-a90c-4db2-bd3d-b4821083df69
+  recordings: [52028ddf-05da-42db-8114-e47ef1820aa0]

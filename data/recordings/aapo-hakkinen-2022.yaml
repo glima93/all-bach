@@ -1,0 +1,27 @@
+id: aapo-hakkinen-2022
+performers:
+- name: Aapo Häkkinen
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2022]
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d1730c93-808b-4f75-93a3-acef4537a49c
+  title: Fantasias
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f6486fc7-90ef-48ad-8ca3-905af1354afe
+  recordings: [a7e98492-2b98-4f70-a3ec-ef4746eb967e]

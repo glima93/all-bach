@@ -1,0 +1,27 @@
+id: hans-fagius-1987
+performers:
+- name: Hans Fagius
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1987]
+  place: Lövstabruks kyrka
+released: 1988
+original_label: null
+works:
+- {bwv: '946', complete: true}
+- {bwv: '957', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/84f9483f-e8da-4135-8b27-24bcb5b47561
+  title: The Complete Organ Music, Volume 5
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1326ea97-4cae-428c-bbc2-f7aaf5354ec1
+  recordings: [8e4068ca-cc48-44c9-8a5d-c23c03dfc4ef]

@@ -1,0 +1,27 @@
+id: simon-barere-1946
+performers:
+- name: Simon Barere
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1946]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eba3efb0-c79a-4e0b-bc9e-243b898b51b6
+  title: Recordings from 1934 to 1936
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e4f0f6c2-e196-48d9-bcac-3099f518dee1
+  recordings: [86891b94-c497-4795-b99e-e054de395321]

@@ -1,0 +1,29 @@
+id: alessandro-deljavan-2015
+performers:
+- name: Alessandro Deljavan
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2015]
+  place: Saletta acustica Eric James
+released: 2015
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '911', complete: true}
+- {bwv: '914', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f999cb9a-2ff3-41a1-964c-41cf8b104afa
+  title: Toccatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b3d06bb3-f34b-47b1-a225-bab5d2386a26
+  recordings: [555827dc-cde5-4e1c-8015-a8492b9c0502]

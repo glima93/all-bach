@@ -1,0 +1,27 @@
+id: hermann-iseringhausen-1983
+performers:
+- name: Hermann Iseringhausen
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1983]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99b81894-7b31-4b75-a57f-2210c4be1255
+  title: Clavichordmusik des 17. und 18. Jahrhunderts
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dc7d6a98-3a22-4eea-b8a2-352d749bb109
+  recordings: [cf8b4dc4-c9d8-4572-95bd-985d7d151965]

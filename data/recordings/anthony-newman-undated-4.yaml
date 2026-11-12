@@ -1,0 +1,28 @@
+id: anthony-newman-undated-4
+performers:
+- name: Anthony Newman
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99ab8675-e0b2-4f03-b5a2-aaecc1b06818
+  title: Toccatas for Harpsichord / Chromatic Fantasy and Fugue
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ea4c412-b5db-499a-ad58-8251d91526ca
+  recordings: [370fee84-6d27-4e1c-a70b-c3042bfe19de]

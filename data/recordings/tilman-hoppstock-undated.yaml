@@ -1,0 +1,29 @@
+id: tilman-hoppstock-undated
+performers:
+- name: Tilman Hoppstock
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '904', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9f33cac9-a7e3-40c4-86a9-35856faf0974
+  title: Bach Transcriptions for Guitar and Works by Frank Martin and Leo Brouwer
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4dfb6261-0dcc-489b-a4a8-24e5f5fb883b
+  recordings: [3be6e7cb-3d70-4848-9714-e3032fecdd46]

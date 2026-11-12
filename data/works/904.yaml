@@ -1,0 +1,15 @@
+bwv: "904"
+title: "Fantasia and Fugue in A minor"
+key: "A minor"
+collection: "Fantasias, Preludes and Fugues for keyboard"
+genre: keyboard
+scoring: "keyboard"
+composed: "before 1727"
+movements:
+  - "I. Fantasia"
+  - "II. Fugue"
+notes: "The fugue is a double fugue, its second subject a descending chromatic line that is finally combined with the first. The work survives in manuscript copies (Berlin State Library P 804)."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/281e848b-277f-4c7a-a175-13dce5d0ef75

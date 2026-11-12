@@ -1,0 +1,30 @@
+id: hortense-cartier-bresson-undated
+performers:
+- name: Hortense Cartier-Bresson
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '913', complete: true}
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/043f6249-2962-4e5d-b6d3-cf83c09abb44
+  title: Bach / Berg / Schoenberg / Webern
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aab01994-4ee3-478c-b893-e3ccc177bb2c
+  recordings: [ebf6d600-ea9f-494c-abf6-83c8c50a3e1e]

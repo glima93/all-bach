@@ -1,0 +1,30 @@
+id: kevin-bowyer-undated-4
+performers:
+- name: Kevin Bowyer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Sankt Hans Kirke
+released: 1993
+original_label: null
+works:
+- {bwv: '895', complete: true}
+- {bwv: '898', complete: true}
+- {bwv: '950', complete: true}
+- {bwv: '951', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/caaedd8d-a422-4865-871d-f6b5e01e5b78
+  title: The Works for Organ Volume 8
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5954df7b-4e00-40db-83cc-5875d43da2dd
+  recordings: [9c0cad87-e4d6-4269-abe4-6737d0040b77]

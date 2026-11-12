@@ -1,0 +1,29 @@
+id: andreas-staier-undated
+performers:
+- name: Andreas Staier
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '918', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d5fa135d-5e3e-4fa4-8bb7-4f91d19a609a
+  title: 'Classic FM: Music for Our Time'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 159f2f4b-2431-4045-adbd-a2d320c907ac
+  recordings: [018e31e2-9149-4e9c-9e5a-56373cbb2246]

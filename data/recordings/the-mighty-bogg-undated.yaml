@@ -1,0 +1,29 @@
+id: the-mighty-bogg-undated
+performers:
+- name: The Mighty Bogg
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '916', complete: false, movements: [I. Presto]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eccbec7a-3dcf-437a-bee6-e7192736a0f4
+  title: The Bogg Collection (Volumes 1 & 2)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 01d9bd53-799c-4bad-8eb7-d066cc9ca212
+  recordings: [33aa0023-7561-4a7e-987b-d884c7f669f4]

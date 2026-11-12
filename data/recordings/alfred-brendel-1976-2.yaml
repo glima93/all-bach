@@ -1,0 +1,28 @@
+id: alfred-brendel-1976-2
+performers:
+- name: Alfred Brendel
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1976]
+  place: Walthamstow Assembly Hall
+released: 1977
+original_label: null
+works:
+- {bwv: '903', complete: true}
+- {bwv: '904', complete: true}
+- {bwv: '922', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5c0540ae-7953-4e08-b628-c4918153361f
+  title: Italienisches Konzert BWV 971 / Chromatische Fantasie und Fugue BWV 903
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a37c64f-4151-4c4b-ab69-a58450f9967e
+  recordings: [c1440a5d-12d8-4ecf-96bf-cf011ff78ab6]

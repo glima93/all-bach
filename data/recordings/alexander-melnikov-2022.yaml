@@ -1,0 +1,26 @@
+id: alexander-melnikov-2022
+performers:
+- name: Alexander Melnikov
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2022]
+  place: Teldex Studio
+released: 2023
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/05afcb1f-97ef-424c-ac9f-6e8410177585
+  title: 'Fantasie: 7 Composers, 7 Keyboards'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d8b8e2f0-ccb0-4d43-b5c6-657005147528
+  recordings: [2f9bf44c-1ba9-4cee-adc5-9a64e10b964a]

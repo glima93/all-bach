@@ -1,0 +1,27 @@
+id: rosalyn-tureck-1981-2
+performers:
+- name: Rosalyn Tureck
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1981]
+  place: CBS 30th Street Studio
+released: 1997
+original_label: null
+works:
+- {bwv: '895', complete: true}
+- {bwv: '917', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dfb55148-01ae-4dc3-9184-c9c464771f15
+  title: The Keyboard Album
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e102c96-3536-4ff9-ac29-d189eed65dc9
+  recordings: [2c4c94e6-43f0-483b-ab55-8037b8e6b0df]

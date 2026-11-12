@@ -1,0 +1,28 @@
+id: inon-barnatan-undated
+performers:
+- name: Inon Barnatan
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aae83786-62ad-4b25-88b5-053228d1d0fd
+  title: Time Traveler's Suite
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e05d7222-6d1c-4254-945e-f4cc9be9b521
+  recordings: [b54c9ff2-b8b2-4eda-a712-f5777387c3a5]

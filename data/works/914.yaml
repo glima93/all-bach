@@ -1,0 +1,17 @@
+bwv: "914"
+title: "Toccata in E minor"
+key: "E minor"
+collection: "Toccatas"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1707–1709"
+movements:
+  - "I."
+  - "II. Un poco allegro"
+  - "III. Adagio"
+  - "IV. Fugue a 3. Allegro"
+notes: "One of the seven manualiter toccatas BWV 910–916, in four sections ending with a three-voice fugue; one source transmits two versions of the fugue. Its opening motif resembles that of the organ Prelude and Fugue in F minor, BWV 534."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Toccatas_for_Keyboard_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/a86749bc-d939-3a92-98c7-b561901ad48f

@@ -1,0 +1,27 @@
+id: siebe-henstra-undated-2
+performers:
+- name: Siebe Henstra
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Koepelkerk
+released: 2008
+original_label: null
+works:
+- {bwv: '917', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6a505e8f-c6bc-4f85-93aa-a6ab1384f99b
+  title: Da Gamba
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With harpsichord, viola da gamba, organ.
+musicbrainz:
+  artist: 92cf381b-ec74-442f-92c5-73ec60ecd44a
+  recordings: [50194a88-2b12-4db1-a1df-1bab8b12a5d4]

@@ -1,0 +1,31 @@
+id: luc-beausejour-1992-3
+performers:
+- name: Luc Beauséjour
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1992]
+  place: Église de Saint-Alphonse-Rodriguez
+released: 1995
+original_label: null
+works:
+- {bwv: '894', complete: true}
+- {bwv: '903', complete: true}
+- {bwv: '904', complete: true}
+- {bwv: '906', complete: true}
+- {bwv: '919', complete: true}
+- {bwv: '951', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6b5b6e06-16e9-4115-9c24-3ad8b5ce7d13
+  title: Concerto and Fantasias for Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dd7c23ca-0b08-4d55-a333-b6538fcb074c
+  recordings: [b6ad5fb1-6eb5-4c21-a98d-2397a09d36be]

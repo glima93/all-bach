@@ -1,0 +1,28 @@
+id: christian-grvlen-undated
+performers:
+- name: Christian Grøvlen
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '903', complete: false, movements: [I. Fantasia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dbc6116f-83c8-4a2a-a416-2faa73512874
+  title: 2L - the MQA experience
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e3f25903-3e33-4619-b93a-610e4cfa66a7
+  recordings: [9aeb29e9-1b44-4d03-b214-4492a8b9797c]

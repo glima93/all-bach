@@ -1,0 +1,27 @@
+id: rudolf-serkin-1950-2
+performers:
+- name: Rudolf Serkin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1950]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/48ce8bb8-eed8-4f06-96bf-43c1bd5f66cc
+  title: Pablo Casals The Original Jacket Collection
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 005da96d-67fb-4723-ad78-b0571b6ce076
+  recordings: [3d19c397-7c49-4a3f-befc-9193390b2e80]

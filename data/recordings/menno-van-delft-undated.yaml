@@ -1,0 +1,29 @@
+id: menno-van-delft-undated
+performers:
+- name: Menno van Delft
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '894', complete: true}
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/b5601538-2b05-4fb3-93c6-fee344b68eea
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 555490bc-c8b8-4e2a-8e93-02f8c046b94f
+  recordings: [b5601538-2b05-4fb3-93c6-fee344b68eea]

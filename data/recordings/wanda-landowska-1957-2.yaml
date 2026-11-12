@@ -1,0 +1,26 @@
+id: wanda-landowska-1957-2
+performers:
+- name: Wanda Landowska
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1957]
+  place: Wanda Landowska's home
+released: 1992
+original_label: null
+works:
+- {bwv: '906', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a6432fd-248b-4bb2-bad7-8d178716a9cc
+  title: Goldberg Variations / Partita No. 2 / Two-Part & Three-Part Inventions
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39bba85f-e589-4a35-8388-259195fe9c5b
+  recordings: [e1f9ce72-c9f1-4ce6-9c63-e6c9663d6552]

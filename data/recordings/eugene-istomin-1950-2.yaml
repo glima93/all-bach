@@ -1,0 +1,27 @@
+id: eugene-istomin-1950-2
+performers:
+- name: Eugene Istomin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1950]
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c2447048-00fd-4ea1-82ca-3765173c94ab
+  title: The Concerto and Solo Recordings
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f81cc557-3e10-4b30-bc1d-bc21ec235a54
+  recordings: [5c4be951-022e-46dc-9bf4-0329e8ea9716]

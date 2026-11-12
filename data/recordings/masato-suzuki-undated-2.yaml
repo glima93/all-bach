@@ -1,0 +1,28 @@
+id: masato-suzuki-undated-2
+performers:
+- name: Masato Suzuki
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '906', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/c75e982f-066f-4526-88c2-569d1c2d671d
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38149487-3d79-43b6-9590-dcff33287004
+  recordings: [c75e982f-066f-4526-88c2-569d1c2d671d]

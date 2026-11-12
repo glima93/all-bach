@@ -1,0 +1,27 @@
+id: jorge-bolet-1944
+performers:
+- name: Jorge Bolet
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1944]
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '912', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/378cafcb-2239-409e-8934-0a771a37206d
+  title: 'Jorge Bolet: Volume 2'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ac4e472f-d701-4f4b-a1b7-21f2c36fe8ea
+  recordings: [a6476495-5289-44df-b1dd-84800807cbdc]

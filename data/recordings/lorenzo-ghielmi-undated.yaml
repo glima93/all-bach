@@ -1,0 +1,28 @@
+id: lorenzo-ghielmi-undated
+performers:
+- name: Lorenzo Ghielmi
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '922', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/889db899-882b-4b2f-8e28-f72a0824457c
+  title: My Choice
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 398f9067-ff97-4743-82f3-16dcb68c3654
+  recordings: [3295acce-bb10-4d39-8eca-be7665b6eaf3]

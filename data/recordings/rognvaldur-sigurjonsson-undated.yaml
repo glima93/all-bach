@@ -1,0 +1,28 @@
+id: rognvaldur-sigurjonsson-undated
+performers:
+- name: Rögnvaldur Sigurjónsson
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5297d0f3-f8ee-49f8-8491-6088ad36d6a1
+  title: Píanó
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 30fb146c-e8f7-434a-8ac2-6461ae18ecf6
+  recordings: [1c70b9de-464e-4d20-99c7-c62f65b918b4]

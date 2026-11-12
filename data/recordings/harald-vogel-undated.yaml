@@ -1,0 +1,28 @@
+id: harald-vogel-undated
+performers:
+- name: Harald Vogel
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '902', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b2cc70ec-2aca-4487-8121-732ee835104b
+  title: Arp Schnitger in Groningen
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 66033d3c-aa19-4359-99ea-d95ee001718b
+  recordings: [baaaba69-e526-4883-acb1-9e9f3c8c9d0f]

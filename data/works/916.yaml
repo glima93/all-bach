@@ -1,0 +1,16 @@
+bwv: "916"
+title: "Toccata in G major"
+key: "G major"
+collection: "Toccatas"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1707–1713"
+movements:
+  - "I. Presto"
+  - "II. Adagio"
+  - "III. Allegro"
+notes: "Unlike the other toccatas, it is laid out in the three movements of an Italian concerto, and one copy calls it \"Concerto seu Toccata\". Its earliest source is the Andreas Bach Book."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Toccatas_for_Keyboard_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/3e14c8a3-287a-39b5-87c6-f3177444d366

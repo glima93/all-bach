@@ -1,0 +1,27 @@
+id: clara-haskil-1953
+performers:
+- name: Clara Haskil
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1953]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7eb8bb4-b0b9-4b54-a8cf-b5aa452b4598
+  title: Clara Haskil
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1537563a-8c38-492c-aafd-54b4b6271327
+  recordings: [1a4de01c-d40e-4c3c-97b0-9c211a49be9a]

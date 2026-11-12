@@ -1,0 +1,39 @@
+id: glenn-gould-1979
+performers:
+- name: Glenn Gould
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1979, 1980]
+  place: null
+released: 1980
+original_label: null
+works:
+- {bwv: '895', complete: true}
+- {bwv: '898', complete: true}
+- {bwv: '899', complete: true}
+- {bwv: '900', complete: true}
+- {bwv: '902', complete: true}
+- {bwv: '906', complete: true}
+- {bwv: '917', complete: true}
+- {bwv: '919', complete: true}
+- {bwv: '950', complete: true}
+- {bwv: '951', complete: true}
+- {bwv: '952', complete: true}
+- {bwv: '953', complete: true}
+- {bwv: '961', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ca34a08f-229d-4008-ae79-f9c38bbfd9b9
+  title: The Partitas, Preludes, Fugues & Fughettas
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7002bf88-1269-4965-a772-4ba1e7a91eaa
+  recordings: [cd854af4-ac3c-4e4c-ba88-f1fb55dd06bb]

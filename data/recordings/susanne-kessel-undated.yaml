@@ -1,0 +1,28 @@
+id: susanne-kessel-undated
+performers:
+- name: Susanne Kessel
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '904', complete: false, movements: [II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/294ea0a2-7829-4278-ba39-561917b5f3e8
+  title: Blueprint
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7479b9a6-c482-49b4-b2ab-8982488d25a9
+  recordings: [d1b44318-c639-4eb5-b482-64623d29474d]

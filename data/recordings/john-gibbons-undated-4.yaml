@@ -1,0 +1,29 @@
+id: john-gibbons-undated-4
+performers:
+- name: John Gibbons
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Old Catholic Church
+released: 1987
+original_label: null
+works:
+- {bwv: '894', complete: true}
+- {bwv: '903', complete: true}
+- {bwv: '906', complete: false, movements: [I. Fantasia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4168e761-7c86-459b-9a38-208156b0b7ca
+  title: A Bach Recital
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 215834bc-bf05-4faf-9f1e-8dfa25007aac
+  recordings: [c8c2cf8f-518f-4d68-85ef-a1410d06d734]

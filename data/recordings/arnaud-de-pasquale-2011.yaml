@@ -1,0 +1,26 @@
+id: arnaud-de-pasquale-2011
+performers:
+- name: Arnaud De Pasquale
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: Chapelle de l'hôpital Notre-Dame de Bon Secours
+released: 2011
+original_label: null
+works:
+- {bwv: '911', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fd961514-d6f0-45f8-8c86-37d7f3930a7c
+  title: Sonata à Cembalo è Viola da Gamba
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5930e0fa-4d25-4c11-9944-c32417251c1e
+  recordings: [bb499007-f163-4af5-84d5-6d8a9ce6ade5]

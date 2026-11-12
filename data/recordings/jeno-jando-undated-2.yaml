@@ -1,0 +1,28 @@
+id: jeno-jando-undated-2
+performers:
+- name: Jenő Jandó
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '894', complete: false, movements: [II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43263594-1316-40ab-8494-d2ae523649ae
+  title: Bach to Work
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 42959d4b-b222-49e3-880d-b21a87689279
+  recordings: [918c309d-fbf2-4ddf-a415-5e382ca2eaab]

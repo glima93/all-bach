@@ -1,0 +1,28 @@
+id: ivan-moravec-undated
+performers:
+- name: Ivan Moravec
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0daccb65-e241-4b00-9eda-704c18d80de8
+  title: 'Piano Recital: Bach, Mozart and Schumann'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1dfafa60-48be-4a6e-ae0f-882f51de31aa
+  recordings: [bb94cada-f236-49dd-a991-29b048af6fad]

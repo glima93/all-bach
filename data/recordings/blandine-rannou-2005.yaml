@@ -1,0 +1,32 @@
+id: blandine-rannou-2005
+performers:
+- name: Blandine Rannou
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2005]
+  place: 'Flagey Arts Center: Studio 1'
+released: 2005
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+- {bwv: '913', complete: true}
+- {bwv: '914', complete: true}
+- {bwv: '915', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a3fec2fb-91d6-4394-80cb-4ca303357d41
+  title: Toccatas, BWV 910 / 916
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a39c4b23-8f7c-45ce-bc20-138a9c9c1f9a
+  recordings: [7d638018-e2dc-447d-a1f0-cf5ca093badc]

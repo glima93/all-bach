@@ -1,0 +1,15 @@
+bwv: "896"
+title: "Prelude and Fugue in A major"
+key: "A major"
+collection: "Fantasias, Preludes and Fugues for keyboard"
+genre: keyboard
+scoring: "keyboard"
+composed: "Arnstadt, c. 1704–1707"
+movements:
+  - "I. Prelude"
+  - "II. Fugue"
+notes: "One of Bach's earliest keyboard works, preserved in the Möller Manuscript compiled by his brother Johann Christoph Bach."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e8444863-7ca2-4f09-b9d3-2c5e4344d00a

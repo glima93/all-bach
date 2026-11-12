@@ -1,0 +1,35 @@
+id: andreas-staier-1988
+performers:
+- name: Andreas Staier
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: St. Germanus
+released: 1989
+original_label: null
+works:
+- {bwv: '894', complete: true}
+- {bwv: '901', complete: true}
+- {bwv: '902', complete: true}
+- {bwv: '903', complete: true}
+- {bwv: '904', complete: true}
+- {bwv: '906', complete: true}
+- {bwv: '917', complete: true}
+- {bwv: '919', complete: true}
+- {bwv: '921', complete: true}
+- {bwv: '922', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b5233acd-33bc-4a99-bcd6-592ac03d1411
+  title: Clavierfantasien
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 159f2f4b-2431-4045-adbd-a2d320c907ac
+  recordings: [8db5831e-c787-4643-844d-6ac40fdb4949]
