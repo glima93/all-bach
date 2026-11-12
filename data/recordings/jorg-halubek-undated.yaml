@@ -1,0 +1,28 @@
+id: jorg-halubek-undated
+performers:
+- name: Jörg Halubek
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '912', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/300140f3-7197-4714-bb2d-ac0a44f7e6b7
+  title: 53°32′46.0″N 9°59′42.4’’E (Hamburg)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 415f6600-2290-4c6c-997b-acb5c3a53281
+  recordings: [60669986-a2df-42b9-8654-bdbc12ebb357]

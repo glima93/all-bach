@@ -1,0 +1,26 @@
+id: bob-van-asperen-1994-2
+performers:
+- name: Bob Van Asperen
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: Waalse Kerk
+released: 1996
+original_label: null
+works:
+- {bwv: '904', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43e35de7-085f-4cf5-b2c2-1a5d08960c13
+  title: Concertos for 3 & 4 harpsichords
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f7af258-5683-4fdd-be7a-6e60d69ad12a
+  recordings: [b4007b7d-332b-49ab-be10-79552082978d]

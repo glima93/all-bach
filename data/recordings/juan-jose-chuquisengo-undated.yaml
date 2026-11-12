@@ -1,0 +1,27 @@
+id: juan-jose-chuquisengo-undated
+performers:
+- name: Juan José Chuquisengo
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: 'Bavarian Radio: Studio 2'
+released: 2014
+original_label: null
+works:
+- {bwv: '911', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/204efb59-b66f-4218-bbeb-3324afd4d9f1
+  title: 'Piano: Great Recordings'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f9795b30-fa3f-49ab-bee7-5decabb7968a
+  recordings: [aab9e33c-e282-4b75-889c-3bfa3e258e29]

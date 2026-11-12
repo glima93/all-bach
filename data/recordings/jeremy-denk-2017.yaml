@@ -1,0 +1,26 @@
+id: jeremy-denk-2017
+performers:
+- name: Jeremy Denk
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2017]
+  place: 'Performing Arts Center: Recital Hall'
+released: 2019
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8d95849f-252e-434a-84f7-4bb9d5b1ea70
+  title: c.1300-c.2000
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 71987909-1c14-4761-ae93-502df99eec41
+  recordings: [24f4516c-a649-4e8f-8476-5dda75c7b2b3]

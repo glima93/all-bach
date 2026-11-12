@@ -1,0 +1,27 @@
+id: igor-levit-undated-2
+performers:
+- name: Igor Levit
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Leibniz-Saal
+released: 2023
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/192cbe3e-ffc2-4e4d-b604-45edfccfc4fc
+  title: Fantasia
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2297faf9-2cc0-45c6-bfcf-e9280d640f6d
+  recordings: [13cc7525-e781-4aa5-adf1-ff12437ff5c5]

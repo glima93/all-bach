@@ -1,0 +1,32 @@
+id: menno-van-delft-1999-2
+performers:
+- name: Menno van Delft
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Maria Minor
+released: 2000
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+- {bwv: '913', complete: true}
+- {bwv: '914', complete: true}
+- {bwv: '915', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e3230c1-6aff-46e5-86c1-e640996eff40
+  title: 'Bach Edition, Volume 13: Keyboard Works/Klavierwerke, Volume II'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 555490bc-c8b8-4e2a-8e93-02f8c046b94f
+  recordings: [fb4e40a7-7fc1-4ed2-aea3-2ca438771097]

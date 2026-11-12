@@ -1,0 +1,32 @@
+id: masaaki-suzuki-2018
+performers:
+- name: Masaaki Suzuki
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: 神戸松蔭女子学院大学チャペル
+released: 2020
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+- {bwv: '913', complete: true}
+- {bwv: '914', complete: false, movements: [I., III. Adagio, IV. Fugue a 3. Allegro]}
+- {bwv: '915', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a708b6e2-fbcc-40e0-a9d8-f28f0651079a
+  title: Toccatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d41e5072-3a8e-4f1f-97ab-3b0820de74c1
+  recordings: [135293cd-b578-4ec9-b230-c27586ed9628]

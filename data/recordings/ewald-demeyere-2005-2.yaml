@@ -1,0 +1,31 @@
+id: ewald-demeyere-2005-2
+performers:
+- name: Ewald Demeyere
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2005]
+  place: Doopsgezinde kerk
+released: 2005
+original_label: null
+works:
+- {bwv: '894', complete: true}
+- {bwv: '907', complete: true}
+- {bwv: '908', complete: true}
+- {bwv: '917', complete: true}
+- {bwv: '922', complete: true}
+- {bwv: '944', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7b5c6857-e683-4dcb-9f31-6fa95de4aad5
+  title: The Young Virtuoso
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9e36fd4a-6a5c-4aa4-80b3-94a7ced473a2
+  recordings: [28ab7689-123b-4af8-9082-66a36670634d]

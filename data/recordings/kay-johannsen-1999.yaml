@@ -1,0 +1,26 @@
+id: kay-johannsen-1999
+performers:
+- name: Kay Johannsen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Stadtkirche „Zur Gotteshilfe“
+released: 2004
+original_label: null
+works:
+- {bwv: '957', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/804faed7-27f9-4871-b7da-590310257370
+  title: Organ Chorales From the Neumeister Collection
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5d34c349-035b-4fc5-ac10-dfdbe58c7875
+  recordings: [b65a7dca-f842-4768-a479-60f362c3c773]

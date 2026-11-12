@@ -1,0 +1,28 @@
+id: raymond-lewenthal-undated
+performers:
+- name: Raymond Lewenthal
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '911', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c36207b5-c35e-4e35-8682-ef1c554e3d3b
+  title: The Liszt Legacy
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c6fe34f3-7b0f-42a6-93ee-ecb64a173112
+  recordings: [c0ec3d65-b37f-4e65-b9cb-fee59ad2ff4d]

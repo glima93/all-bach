@@ -1,0 +1,31 @@
+id: glenn-gould-1976
+performers:
+- name: Glenn Gould
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1976, 1979]
+  place: Eaton's Auditorium
+released: 1979
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+- {bwv: '913', complete: true}
+- {bwv: '915', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8d1056b3-8e74-4eb4-92e0-687a4a145e3c
+  title: Toccatas, Vol. 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7002bf88-1269-4965-a772-4ba1e7a91eaa
+  recordings: [1c87c790-4291-4e9f-b4b5-d8f189d1700b]

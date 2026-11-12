@@ -1,0 +1,26 @@
+id: wolfgang-gluxam-1995-3
+performers:
+- name: Wolfgang Glüxam
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: Großer Sendesaal des ORF
+released: 2002
+original_label: null
+works:
+- {bwv: '922', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/925e2eec-faa9-4fce-80ca-090609ea1c7d
+  title: Clavierwerke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 35dc4bd7-c672-411d-bc6d-4ea8b4f67bd7
+  recordings: [61733cfc-0787-4105-92fc-b4aab05b21bb]

@@ -1,0 +1,26 @@
+id: yannick-nezet-seguin-2020
+performers:
+- name: Yannick Nézet‐Séguin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2020]
+  place: Domaine Forget
+released: 2021
+original_label: null
+works:
+- {bwv: '913', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/37686c53-f366-46d2-8955-bcee4ca0eab0
+  title: 'Introspection: Solo Piano Sessions'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84c4f3ea-1897-4649-befb-ccbc013910ed
+  recordings: [227bf570-071a-4963-8af6-ac235c5bed5a]

@@ -1,0 +1,32 @@
+id: mahan-esfahani-2018
+performers:
+- name: Mahan Esfahani
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: St. John’s Church
+released: 2019
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+- {bwv: '913', complete: true}
+- {bwv: '914', complete: true}
+- {bwv: '915', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1414ed01-69f9-4a70-aa06-45e43bfeadd4
+  title: The Toccatas, BWV 910-916
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a2704dbd-4e05-4b89-917c-85c578fc1488
+  recordings: [c9f4b455-3908-44d2-a6a3-ba0e0b62829f]

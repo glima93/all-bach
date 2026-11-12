@@ -1,0 +1,27 @@
+id: george-malcolm-undated-4
+performers:
+- name: George Malcolm
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Decca Studios
+released: 2018
+original_label: null
+works:
+- {bwv: '912', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b2b0e5dc-c960-4b2b-b9c6-caac0e546456
+  recordings: [d6a35cae-419a-488b-b105-9a5644e35b8f]

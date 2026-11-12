@@ -1,0 +1,212 @@
+{
+ "collection": "toccatas",
+ "taken": "2026-11-11",
+ "recordings": 480,
+ "performances": 153,
+ "works": [
+  {
+   "bwv": "910",
+   "id": "dba02b5b-1b2e-30c7-a741-3885ccd0e49b",
+   "candidates": [
+    {
+     "id": "dba02b5b-1b2e-30c7-a741-3885ccd0e49b",
+     "title": "Toccata in F-sharp minor, BWV 910"
+    },
+    {
+     "id": "8ffef4a4-a695-452b-a668-f05c7d954b99",
+     "title": "Toccata and Fugue in F-sharp major, BWV 910"
+    },
+    {
+     "id": "309877aa-7257-415e-9e22-2b26052b0471",
+     "title": "Toccata in F-sharp minor, BWV 910"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Toccata in F-sharp minor, BWV 910",
+   "key": "F-sharp minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "dba02b5b-1b2e-30c7-a741-3885ccd0e49b",
+     "title": "Toccata in F-sharp minor, BWV 910"
+    }
+   ]
+  },
+  {
+   "bwv": "911",
+   "id": "f0cf1f6b-48d1-3f72-98c5-66651d4d61e8",
+   "candidates": [
+    {
+     "id": "f0cf1f6b-48d1-3f72-98c5-66651d4d61e8",
+     "title": "Toccata in C minor, BWV 911"
+    },
+    {
+     "id": "3cc8b19b-ece8-4ca7-873e-9a39c66ef36c",
+     "title": "Toccata in C minor, BWV 911"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Toccata in C minor, BWV 911",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "f0cf1f6b-48d1-3f72-98c5-66651d4d61e8",
+     "title": "Toccata in C minor, BWV 911"
+    }
+   ]
+  },
+  {
+   "bwv": "912",
+   "id": "00d4276d-a706-309d-a624-4ba1a85d447c",
+   "candidates": [
+    {
+     "id": "00d4276d-a706-309d-a624-4ba1a85d447c",
+     "title": "Toccata in D major, BWV 912"
+    },
+    {
+     "id": "b69fb460-9cf7-4079-965a-888f5e982ef3",
+     "title": "Toccata in D major, BWV 912"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Toccata in D major, BWV 912",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "2971256d-a198-4095-bd4b-146a0a4bdfe6",
+     "title": "Toccata in D-dur, BWV 912: I. Presto - Allegro"
+    },
+    {
+     "id": "5c90a3ea-b015-48c3-aa82-d010032c592b",
+     "title": "Toccata in D-dur, BWV 912: II. Adagio - Fuga"
+    },
+    {
+     "id": "d845042e-11a0-4caa-8a60-3c6d90a83f11",
+     "title": "Toccata in D-dur, BWV 912: III. Con discrezione - Fuga"
+    }
+   ]
+  },
+  {
+   "bwv": "913",
+   "id": "6a820169-4b98-38e1-89f9-f99b75fe5355",
+   "candidates": [
+    {
+     "id": "6a820169-4b98-38e1-89f9-f99b75fe5355",
+     "title": "Toccata in D minor, BWV 913"
+    },
+    {
+     "id": "d0e107e9-4258-4086-be89-93ae09e821db",
+     "title": "Toccata in D minor, BWV 913"
+    },
+    {
+     "id": "042fa4a6-bade-4ad1-97db-7c27d66231ff",
+     "title": "Toccata in D minor, BWV 913"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Toccata in D minor, BWV 913",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "6a820169-4b98-38e1-89f9-f99b75fe5355",
+     "title": "Toccata in D minor, BWV 913"
+    }
+   ]
+  },
+  {
+   "bwv": "914",
+   "id": "a86749bc-d939-3a92-98c7-b561901ad48f",
+   "candidates": [
+    {
+     "id": "a86749bc-d939-3a92-98c7-b561901ad48f",
+     "title": "Toccata in E minor, BWV 914"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Toccata in E minor, BWV 914",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "e6d0c23f-dd7e-4742-bb43-e48caac5e52b",
+     "title": "Toccata in e-moll, BWV 914: I."
+    },
+    {
+     "id": "74cbf2ee-5e6a-4f05-9557-42e558c2c302",
+     "title": "Toccata in e-moll, BWV 914: II. Un poco allegro"
+    },
+    {
+     "id": "592ccf06-07e4-4d97-bf0a-c35795cdf158",
+     "title": "Toccata in e-moll, BWV 914: III. Adagio"
+    },
+    {
+     "id": "32aefcbc-c101-45d2-9ba3-22ee33a52a68",
+     "title": "Toccata in e-moll, BWV 914: IV. Fuga a 3. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "915",
+   "id": "7404cd22-591c-3790-baa8-a0d16567b3ae",
+   "candidates": [
+    {
+     "id": "7404cd22-591c-3790-baa8-a0d16567b3ae",
+     "title": "Toccata in G minor, BWV 915"
+    },
+    {
+     "id": "cc02115a-8431-4cd5-95ea-416c0490bb4c",
+     "title": "Toccata in G minor, BWV 915"
+    },
+    {
+     "id": "604ab26e-7148-4025-889e-9c71a6fe9da0",
+     "title": "Toccata in G minor, BWV 915"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Toccata in G minor, BWV 915",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "92be70c6-a985-4c7d-b8f5-dc052a78975a",
+     "title": "Toccata in G minor, BWV 915: I. Toccata"
+    },
+    {
+     "id": "3d220d04-3c3b-4c2c-af97-e1a1ac36eb8b",
+     "title": "Toccata in G minor, BWV 915: II. Fugue"
+    }
+   ]
+  },
+  {
+   "bwv": "916",
+   "id": "3e14c8a3-287a-39b5-87c6-f3177444d366",
+   "candidates": [
+    {
+     "id": "3e14c8a3-287a-39b5-87c6-f3177444d366",
+     "title": "Toccata G-Dur, BWV 916"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Toccata G-Dur, BWV 916",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "8fc0b796-5afe-3659-a694-93e5792a4910",
+     "title": "Toccata G-Dur, BWV 916: I. Presto"
+    },
+    {
+     "id": "93e0fe1e-c5c6-3a94-8259-cf695f717a87",
+     "title": "Toccata G-Dur, BWV 916: II. Adagio"
+    },
+    {
+     "id": "4e75d4a5-927c-3d1c-96ce-f8568a13223c",
+     "title": "Toccata G-Dur, BWV 916: III. Allegro"
+    }
+   ]
+  }
+ ]
+}

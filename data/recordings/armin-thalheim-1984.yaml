@@ -1,0 +1,27 @@
+id: armin-thalheim-1984
+performers:
+- name: Armin Thalheim
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: Paul-Gerhardt-Kirche
+released: 1984
+original_label: null
+works:
+- {bwv: '915', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cadc199a-dd01-41e6-91b4-670204da04b9
+  title: Cembalowerke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: de3ec87e-a6c9-4d91-a359-7cd3876598b5
+  recordings: [603daeb0-aec0-48b8-bd6e-bf3ab9113374]

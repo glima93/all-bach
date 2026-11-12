@@ -1,0 +1,29 @@
+id: ralph-kirkpatrick-1957-2
+performers:
+- name: Ralph Kirkpatrick
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1957, 1959, 1960]
+  place: Studio Blankenese
+released: 1994
+original_label: null
+works:
+- {bwv: '903', complete: true}
+- {bwv: '904', complete: true}
+- {bwv: '906', complete: true}
+- {bwv: '944', complete: false, movements: [II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/54065115-10c7-497d-a6e7-14b58d6703da
+  title: The complete 1950s Bach recordings on Archiv
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 957f3222-063c-4057-878d-b968f06b7623
+  recordings: [c286f17c-df05-4ffe-9d54-17ab9ea4c54e]

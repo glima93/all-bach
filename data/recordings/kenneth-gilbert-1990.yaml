@@ -1,0 +1,30 @@
+id: kenneth-gilbert-1990
+performers:
+- name: Kenneth Gilbert
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990, 1992]
+  place: Musée des beaux-arts de Chartres
+released: 1991
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+- {bwv: '915', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3f39444b-80a3-40ed-a22b-751bb89f9155
+  title: Chromatische Fantasie & Fuge / Toccaten BWV 912·913·914·916
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24dade80-0518-4ae7-b62e-cbd31489bb5d
+  recordings: [29086032-9391-45b8-afc2-a30c5e22784f]

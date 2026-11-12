@@ -1,0 +1,26 @@
+id: luca-oberti-2016-2
+performers:
+- name: Luca Oberti
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Castello Giovannelli di Luzzana
+released: 2018
+original_label: null
+works:
+- {bwv: '904', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f491272-14d9-485e-8e8b-3471b9750ce1
+  title: An Italian Journey
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0e038ef0-2624-419b-b4e6-36988e71a9e6
+  recordings: [c610dea1-4228-401c-9b94-4bb8972ffd33]

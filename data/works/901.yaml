@@ -1,0 +1,15 @@
+bwv: "901"
+title: "Prelude and Fughetta in F major"
+key: "F major"
+collection: "Fantasias, Preludes and Fugues for keyboard"
+genre: keyboard
+scoring: "keyboard"
+composed: "before 1727"
+movements:
+  - "I. Prelude"
+  - "II. Fughetta"
+notes: "The fughetta is an early form of the fugue in A-flat major, BWV 886, from Book II of The Well-Tempered Clavier."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/3c3d2be3-9f18-4dda-b981-7d1662ce3668

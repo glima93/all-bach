@@ -1,0 +1,27 @@
+id: mahan-esfahani-undated-3
+performers:
+- name: Mahan Esfahani
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: St. John’s Church
+released: 2024
+original_label: null
+works:
+- {bwv: '953', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6045a50e-e838-4aca-a4c3-ce7e61fc5833
+  title: Preludes / Inventions / Sinfonias
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a2704dbd-4e05-4b89-917c-85c578fc1488
+  recordings: [82a81525-801e-4a08-baad-76c7c7c84141]

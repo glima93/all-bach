@@ -1,0 +1,27 @@
+id: audrey-vigoureux-2014
+performers:
+- name: Audrey Vigoureux
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: 'Maison de la radio: Studio Ernest Ansermet'
+released: 2015
+original_label: null
+works:
+- {bwv: '904', complete: true}
+- {bwv: '906', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dd5806d1-fd23-4c97-8a4e-e7f7daef8939
+  title: Quasi una Fantasia
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: db347644-a351-4e62-a626-fd973b97853d
+  recordings: [aaf25342-e54f-481b-aec2-8f0ae56151cf]

@@ -1,0 +1,32 @@
+id: christophe-rousset-2020-2
+performers:
+- name: Christophe Rousset
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Hôtel de l’Industrie
+released: 2024
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+- {bwv: '913', complete: true}
+- {bwv: '914', complete: true}
+- {bwv: '915', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d712df44-aa9b-4201-9994-70e87da3bd32
+  title: The Complete Toccatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6784a34f-3d91-45a5-b7b3-be1eaa1096f1
+  recordings: [167b474a-35a7-489a-b8fa-19661c6b5111]

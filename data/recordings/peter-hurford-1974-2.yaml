@@ -1,0 +1,27 @@
+id: peter-hurford-1974-2
+performers:
+- name: Peter Hurford
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974, 1986]
+  place: Church of Our Lady of Sorrows
+released: 1990
+original_label: null
+works:
+- {bwv: '946', complete: true}
+- {bwv: '957', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d98b2479-0526-4e4b-8446-e5a91b885c4f
+  title: The Organ Works, Volume 1 (Peter Hurford)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7475712c-efb2-4498-99fc-163a33d7d975
+  recordings: [28795a2a-f6e7-4a24-bfc4-b0a2bd28d715]

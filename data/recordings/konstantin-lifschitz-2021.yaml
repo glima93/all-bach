@@ -1,0 +1,33 @@
+id: konstantin-lifschitz-2021
+performers:
+- name: Konstantin Lifschitz
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2021]
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+- {bwv: '913', complete: true}
+- {bwv: '914', complete: true}
+- {bwv: '915', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7e6a7ed-f878-48d8-8d0d-df6c4f4cf683
+  title: Toccatas and Fantasies
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45cef22c-05bb-4ed8-bf88-8c8be427df23
+  recordings: [63804b8f-c0a8-4cb1-8e50-f0837484b470]

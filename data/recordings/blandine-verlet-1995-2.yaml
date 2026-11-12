@@ -1,0 +1,29 @@
+id: blandine-verlet-1995-2
+performers:
+- name: Blandine Verlet
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: Musée Unterlinden
+released: null
+original_label: null
+works:
+- {bwv: '894', complete: true}
+- {bwv: '903', complete: true}
+- {bwv: '904', complete: true}
+- {bwv: '922', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf80e19e-e7ac-4207-99f0-99bbc0a43693
+  title: Fantaisies, toccatas et fugues
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a91be290-9118-47d9-b3c0-b1137097bd98
+  recordings: [75e28e4c-3a0d-4f8a-b957-789277c3374e]

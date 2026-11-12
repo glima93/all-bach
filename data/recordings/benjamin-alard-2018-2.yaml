@@ -1,0 +1,26 @@
+id: benjamin-alard-2018-2
+performers:
+- name: Benjamin Alard
+  role: claviorganum
+instrument: other
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018]
+  place: Église Sainte-Aurélie
+released: 2019
+original_label: null
+works:
+- {bwv: '914', complete: false, movements: [I.]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e49429d7-6a40-4957-8739-1740a2a1b63b
+  title: 'The Complete Works for Keyboard 2: Towards the North'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on claviorganum.
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [1be0e621-d62f-493e-bb67-3ce3494b57ef]

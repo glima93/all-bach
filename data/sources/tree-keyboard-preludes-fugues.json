@@ -1,0 +1,936 @@
+{
+ "collection": "keyboard-preludes-fugues",
+ "taken": "2026-11-11",
+ "recordings": 680,
+ "performances": 222,
+ "works": [
+  {
+   "bwv": "894",
+   "id": "0b55adf9-6e70-3d91-8ac7-e322e3bb2041",
+   "candidates": [
+    {
+     "id": "0b55adf9-6e70-3d91-8ac7-e322e3bb2041",
+     "title": "Präludium und Fuge a-Moll, BWV 894"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge a-Moll, BWV 894",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "e756f456-a482-3569-bf40-07d5a9081410",
+     "title": "Präludium und Fuge a-Moll, BWV 894: I. Präludium"
+    },
+    {
+     "id": "26127e15-c755-3bc8-bd38-b96db71ea245",
+     "title": "Präludium und Fuge a-Moll, BWV 894: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "895",
+   "id": "11133d0f-5568-421e-8a4b-c2fe74b34395",
+   "candidates": [
+    {
+     "id": "11133d0f-5568-421e-8a4b-c2fe74b34395",
+     "title": "Präludium und Fuge a-Moll, BWV 895"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge a-Moll, BWV 895",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "e076b0c1-36d3-34ee-bd5a-df7e2e6a949f",
+     "title": "Präludium und Fuge a-Moll, BWV 895: Präludium"
+    },
+    {
+     "id": "49c6f54f-bee3-3bf9-9d91-336dd328682e",
+     "title": "Präludium und Fuge a-Moll, BWV 895: Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "896",
+   "id": "e8444863-7ca2-4f09-b9d3-2c5e4344d00a",
+   "candidates": [
+    {
+     "id": "e8444863-7ca2-4f09-b9d3-2c5e4344d00a",
+     "title": "Präludium und Fuge A-Dur, BWV 896"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge A-Dur, BWV 896",
+   "key": "A major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "cc43e3fb-a218-352c-9a1a-f6eaa5160020",
+     "title": "Präludium und Fuge A-Dur, BWV 896: I. Präludium"
+    },
+    {
+     "id": "f631cb61-a15d-3880-a36f-eae22f4fe38e",
+     "title": "Präludium und Fuge A-Dur, BWV 896: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "897",
+   "id": "b9e6a481-7ad3-4b36-b3fb-3542135781f1",
+   "candidates": [
+    {
+     "id": "b9e6a481-7ad3-4b36-b3fb-3542135781f1",
+     "title": "Prelude and Fugue in A minor, BWV 897"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Prelude and Fugue in A minor, BWV 897",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "b9e6a481-7ad3-4b36-b3fb-3542135781f1",
+     "title": "Prelude and Fugue in A minor, BWV 897"
+    }
+   ]
+  },
+  {
+   "bwv": "898",
+   "id": "1f015bfb-f671-4bea-8827-493abebb11ff",
+   "candidates": [
+    {
+     "id": "1f015bfb-f671-4bea-8827-493abebb11ff",
+     "title": "Prelude and Fugue on 'B-A-C-H', BWV 898"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Prelude and Fugue on 'B-A-C-H', BWV 898",
+   "key": "B-flat major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "1f015bfb-f671-4bea-8827-493abebb11ff",
+     "title": "Prelude and Fugue on 'B-A-C-H', BWV 898"
+    }
+   ]
+  },
+  {
+   "bwv": "899",
+   "id": "fcea6ac3-ddf0-4db9-ac7f-554c4e106506",
+   "candidates": [
+    {
+     "id": "fcea6ac3-ddf0-4db9-ac7f-554c4e106506",
+     "title": "Präludium und Fughetta d-Moll, BWV 899"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fughetta d-Moll, BWV 899",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "2bb688b6-3f46-3bad-a4b0-f49ceceb1c7c",
+     "title": "Präludium und Fughetta d-Moll, BWV 899: I. Präludium"
+    },
+    {
+     "id": "c1b2494e-9889-345b-9289-1f517defdddf",
+     "title": "Präludium und Fughetta d-Moll, BWV 899: II. Fughetta"
+    }
+   ]
+  },
+  {
+   "bwv": "900",
+   "id": "be778930-662e-4456-b128-dc3762cd8739",
+   "candidates": [
+    {
+     "id": "be778930-662e-4456-b128-dc3762cd8739",
+     "title": "Präludium und Fughetta e-Moll, BWV 900"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fughetta e-Moll, BWV 900",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0bd1d503-d665-334d-bd16-67c0cb2f375e",
+     "title": "Präludium und Fughetta e-Moll, BWV 900: I. Präludium"
+    },
+    {
+     "id": "0578f9c5-e0d3-3aa2-9d94-f443911ad3d7",
+     "title": "Präludium und Fughetta e-Moll, BWV 900: II. Fughetta"
+    }
+   ]
+  },
+  {
+   "bwv": "901",
+   "id": "3c3d2be3-9f18-4dda-b981-7d1662ce3668",
+   "candidates": [
+    {
+     "id": "3c3d2be3-9f18-4dda-b981-7d1662ce3668",
+     "title": "Präludium und Fughetta F-Dur, BWV 901"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fughetta F-Dur, BWV 901",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "2b83d778-ad4f-3251-99f1-5290a6639f79",
+     "title": "Präludium und Fughetta F-Dur, BWV 901: I. Präludium"
+    },
+    {
+     "id": "19be8f1a-ef62-3577-90e8-9255143f8c20",
+     "title": "Präludium und Fughetta F-Dur, BWV 901: II. Fughetta"
+    }
+   ]
+  },
+  {
+   "bwv": "902",
+   "id": "43016f57-c472-4398-8f74-e816cbf14ac1",
+   "candidates": [
+    {
+     "id": "43016f57-c472-4398-8f74-e816cbf14ac1",
+     "title": "Präludium und Fughetta G-Dur, BWV 902"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fughetta G-Dur, BWV 902",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "d27947b2-fa87-3db4-8009-bb670e615092",
+     "title": "Präludium und Fughetta G-Dur, BWV 902: I. Präludium"
+    },
+    {
+     "id": "fba5d19f-d944-33eb-99bc-6b89f9483627",
+     "title": "Präludium und Fughetta G-Dur, BWV 902: II. Fughetta"
+    }
+   ]
+  },
+  {
+   "bwv": "903",
+   "id": "7031bd90-b425-421f-b41d-211a76e56359",
+   "candidates": [
+    {
+     "id": "7031bd90-b425-421f-b41d-211a76e56359",
+     "title": "Chromatische Fantasie und Fuge d-Moll, BWV 903"
+    },
+    {
+     "id": "eb97b1b4-b3b3-465a-ae5a-5fe24342ce0f",
+     "title": "Chromatische Fantasie und Fuge d-Moll, BWV 903"
+    },
+    {
+     "id": "562e77a9-fb12-4dee-a914-f1c9f6c6bb6c",
+     "title": "Chromatische Fantasie und Fuge d-Moll, BWV 903"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Chromatische Fantasie und Fuge d-Moll, BWV 903",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "1476eb3c-2947-3831-a63c-4e6459e22f27",
+     "title": "Chromatische Fantasie und Fuge d-Moll, BWV 903: I. Fantasie"
+    },
+    {
+     "id": "f281fe90-6a4d-3940-8322-2a1e044fa88c",
+     "title": "Chromatische Fantasie und Fuge d-Moll, BWV 903: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "904",
+   "id": "281e848b-277f-4c7a-a175-13dce5d0ef75",
+   "candidates": [
+    {
+     "id": "281e848b-277f-4c7a-a175-13dce5d0ef75",
+     "title": "Fantasie und Fuge a-Moll, BWV 904"
+    },
+    {
+     "id": "5be9db62-581a-4d02-9d14-1c3500d3f587",
+     "title": "Fantasie und Fuge a-Moll, BWV 904"
+    },
+    {
+     "id": "0f09f3c5-fe9e-4d0c-b59e-0c143c1493b7",
+     "title": "Fantasie und Fuge a-Moll, BWV 904"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie und Fuge a-Moll, BWV 904",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "360eb5f1-db67-3851-9573-111162052d3e",
+     "title": "Fantasie und Fuge a-Moll, BWV 904: I. Fantasie"
+    },
+    {
+     "id": "88bd3d3e-3864-3de2-8cfb-4a3f6956bbf8",
+     "title": "Fantasie und Fuge a-Moll, BWV 904: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "905",
+   "id": "4885ef4f-6570-4ebc-8205-b34060b6beb9",
+   "candidates": [
+    {
+     "id": "4885ef4f-6570-4ebc-8205-b34060b6beb9",
+     "title": "Fantasie und Fuge d-moll, BWV 905"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie und Fuge d-moll, BWV 905",
+   "key": null,
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "4885ef4f-6570-4ebc-8205-b34060b6beb9",
+     "title": "Fantasie und Fuge d-moll, BWV 905"
+    }
+   ]
+  },
+  {
+   "bwv": "906",
+   "id": "7282d87c-4ccd-38ed-b1f8-f862518e4f68",
+   "candidates": [
+    {
+     "id": "7282d87c-4ccd-38ed-b1f8-f862518e4f68",
+     "title": "Fantasie und Fuge c-Moll, BWV 906"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie und Fuge c-Moll, BWV 906",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "051a9d6d-2ad7-3ade-b016-b0e10bef1c5a",
+     "title": "Fantasie und Fuge c-Moll, BWV 906: I. Fantasie"
+    },
+    {
+     "id": "46165cc3-2dd7-31dc-b84d-d4d271489a2b",
+     "title": "Fantasie und Fuge c-Moll, BWV 906: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "907",
+   "id": "79c05d69-d025-4d92-adc0-3f4daf28279c",
+   "candidates": [
+    {
+     "id": "79c05d69-d025-4d92-adc0-3f4daf28279c",
+     "title": "Fantasia and Fughetta in B-flat major, BWV 907"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasia and Fughetta in B-flat major, BWV 907",
+   "key": "B-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "4a3fe7ae-04fc-4aa6-90bd-4ebe765c9e5c",
+     "title": "Fantasia and Fughetta in B-flat major, BWV 907: I. Fantasia"
+    },
+    {
+     "id": "900d6b4b-d964-4499-88e8-a37dd0557312",
+     "title": "Fantasia and Fughetta in B-flat major, BWV 907: II. Fughetta"
+    }
+   ]
+  },
+  {
+   "bwv": "908",
+   "id": "c95ad9b8-6450-4bea-b7ac-b4a2df0ffc60",
+   "candidates": [
+    {
+     "id": "c95ad9b8-6450-4bea-b7ac-b4a2df0ffc60",
+     "title": "Fantasia and Fughetta in D major, BWV 908"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasia and Fughetta in D major, BWV 908",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "7eaff890-4e30-4726-aae9-8396e74e0598",
+     "title": "Fantasia and Fughetta in D major, BWV 908: I. Fantasia"
+    },
+    {
+     "id": "dca64c26-8a66-407b-861b-6fe7bb151fbb",
+     "title": "Fantasia and Fughetta in D major, BWV 908: II. Fughetta"
+    }
+   ]
+  },
+  {
+   "bwv": "909",
+   "id": "02bfb89e-8877-47c0-a19d-b574bae78198",
+   "candidates": [
+    {
+     "id": "02bfb89e-8877-47c0-a19d-b574bae78198",
+     "title": "Concerto and Fugue in C minor, BWV 909"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto and Fugue in C minor, BWV 909",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "02bfb89e-8877-47c0-a19d-b574bae78198",
+     "title": "Concerto and Fugue in C minor, BWV 909"
+    }
+   ]
+  },
+  {
+   "bwv": "917",
+   "id": "11aa8eb7-dc56-3380-9e2f-03b7a49f6589",
+   "candidates": [
+    {
+     "id": "11aa8eb7-dc56-3380-9e2f-03b7a49f6589",
+     "title": "Fantasie g-Moll, BWV 917"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie g-Moll, BWV 917",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "11aa8eb7-dc56-3380-9e2f-03b7a49f6589",
+     "title": "Fantasie g-Moll, BWV 917"
+    }
+   ]
+  },
+  {
+   "bwv": "918",
+   "id": "11af6e22-58de-3317-855f-027195c7184a",
+   "candidates": [
+    {
+     "id": "11af6e22-58de-3317-855f-027195c7184a",
+     "title": "Fantasia über ein Rondo c-Moll, BWV 918"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasia über ein Rondo c-Moll, BWV 918",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "11af6e22-58de-3317-855f-027195c7184a",
+     "title": "Fantasia über ein Rondo c-Moll, BWV 918"
+    }
+   ]
+  },
+  {
+   "bwv": "919",
+   "id": "40812625-e9f5-3730-88cd-948437af4f61",
+   "candidates": [
+    {
+     "id": "40812625-e9f5-3730-88cd-948437af4f61",
+     "title": "Fantasie c-Moll, BWV 919"
+    },
+    {
+     "id": "7c0730cf-5dfd-4a15-9d4e-27d330a09cb1",
+     "title": "Fantasie c-Moll, BWV 919"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie c-Moll, BWV 919",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "40812625-e9f5-3730-88cd-948437af4f61",
+     "title": "Fantasie c-Moll, BWV 919"
+    }
+   ]
+  },
+  {
+   "bwv": "920",
+   "id": "979f8e32-521f-4fe4-b33d-66e35b36e2d0",
+   "candidates": [
+    {
+     "id": "979f8e32-521f-4fe4-b33d-66e35b36e2d0",
+     "title": "Fantasia in G minor, BWV 920"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasia in G minor, BWV 920",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "979f8e32-521f-4fe4-b33d-66e35b36e2d0",
+     "title": "Fantasia in G minor, BWV 920"
+    }
+   ]
+  },
+  {
+   "bwv": "921",
+   "id": "6e76e293-9fb8-4648-81ce-c9e3f60e7754",
+   "candidates": [
+    {
+     "id": "6e76e293-9fb8-4648-81ce-c9e3f60e7754",
+     "title": "Præludium C-moll, BWV 921"
+    },
+    {
+     "id": "79987875-6923-4d34-b22d-6e3f1e672cc7",
+     "title": "Præludium C-moll, BWV 921"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Præludium C-moll, BWV 921",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "6e76e293-9fb8-4648-81ce-c9e3f60e7754",
+     "title": "Præludium C-moll, BWV 921"
+    }
+   ]
+  },
+  {
+   "bwv": "922",
+   "id": "1b34ee8a-521a-3288-aa84-7bea99f172a1",
+   "candidates": [
+    {
+     "id": "1b34ee8a-521a-3288-aa84-7bea99f172a1",
+     "title": "Fantasia a-Moll, BWV 922"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasia a-Moll, BWV 922",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "1b34ee8a-521a-3288-aa84-7bea99f172a1",
+     "title": "Fantasia a-Moll, BWV 922"
+    }
+   ]
+  },
+  {
+   "bwv": "923",
+   "id": "b3cfd628-0b17-3ba7-af34-5ba1add770be",
+   "candidates": [
+    {
+     "id": "b3cfd628-0b17-3ba7-af34-5ba1add770be",
+     "title": "Präludium h-Moll, BWV 923"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium h-Moll, BWV 923",
+   "key": "B minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "b3cfd628-0b17-3ba7-af34-5ba1add770be",
+     "title": "Präludium h-Moll, BWV 923"
+    }
+   ]
+  },
+  {
+   "bwv": "944",
+   "id": "2bda1f50-7bd5-3eee-aa8c-eda7f426ecf7",
+   "candidates": [
+    {
+     "id": "2bda1f50-7bd5-3eee-aa8c-eda7f426ecf7",
+     "title": "Fantasie und Fuge a-Moll, BWV 944"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie und Fuge a-Moll, BWV 944",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "4fd2a457-77dd-3088-acb9-2798ab618685",
+     "title": "Fantasie und Fuge a-Moll, BWV 944: I. Fantasia"
+    },
+    {
+     "id": "5a206fd9-cd97-37fc-bf25-52505baf7943",
+     "title": "Fantasie und Fuge a-Moll, BWV 944: II. Fuga"
+    }
+   ]
+  },
+  {
+   "bwv": "945",
+   "id": "7db66b87-a6f3-4467-a8c8-e9483156dc47",
+   "candidates": [
+    {
+     "id": "7db66b87-a6f3-4467-a8c8-e9483156dc47",
+     "title": "Fugue in E minor, BWV 945"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fugue in E minor, BWV 945",
+   "key": "E minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "7db66b87-a6f3-4467-a8c8-e9483156dc47",
+     "title": "Fugue in E minor, BWV 945"
+    }
+   ]
+  },
+  {
+   "bwv": "946",
+   "id": "9a0e2fe2-7cb5-34a5-823d-85a62faada43",
+   "candidates": [
+    {
+     "id": "9a0e2fe2-7cb5-34a5-823d-85a62faada43",
+     "title": "Fuge nach Tomaso Albinoni C-Dur, BWV 946"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge nach Tomaso Albinoni C-Dur, BWV 946",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "9a0e2fe2-7cb5-34a5-823d-85a62faada43",
+     "title": "Fuge nach Tomaso Albinoni C-Dur, BWV 946"
+    }
+   ]
+  },
+  {
+   "bwv": "947",
+   "id": "69a390a5-736d-37e8-baa4-3b9ea5395aec",
+   "candidates": [
+    {
+     "id": "69a390a5-736d-37e8-baa4-3b9ea5395aec",
+     "title": "Fuge a-Moll, BWV 947"
+    },
+    {
+     "id": "75bb8a4c-0554-4565-8331-9352bc9c3814",
+     "title": "Fugue in A minor, BWV 947"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge a-Moll, BWV 947",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "69a390a5-736d-37e8-baa4-3b9ea5395aec",
+     "title": "Fuge a-Moll, BWV 947"
+    }
+   ]
+  },
+  {
+   "bwv": "948",
+   "id": "ff2b4efb-9cdd-392d-8f2f-9456530fd991",
+   "candidates": [
+    {
+     "id": "ff2b4efb-9cdd-392d-8f2f-9456530fd991",
+     "title": "Fuge d-Moll, BWV 948"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge d-Moll, BWV 948",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "ff2b4efb-9cdd-392d-8f2f-9456530fd991",
+     "title": "Fuge d-Moll, BWV 948"
+    }
+   ]
+  },
+  {
+   "bwv": "949",
+   "id": "8006776f-1d85-3b35-8a34-64772a8ca93b",
+   "candidates": [
+    {
+     "id": "8006776f-1d85-3b35-8a34-64772a8ca93b",
+     "title": "Fuge nach Tomaso Albinoni A-Dur, BWV 949"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge nach Tomaso Albinoni A-Dur, BWV 949",
+   "key": "A major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "8006776f-1d85-3b35-8a34-64772a8ca93b",
+     "title": "Fuge nach Tomaso Albinoni A-Dur, BWV 949"
+    }
+   ]
+  },
+  {
+   "bwv": "950",
+   "id": "540ae683-fc15-3f6b-86e1-32eff31572c8",
+   "candidates": [
+    {
+     "id": "540ae683-fc15-3f6b-86e1-32eff31572c8",
+     "title": "Fuge nach Tomaso Albinoni A-Dur, BWV 950"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge nach Tomaso Albinoni A-Dur, BWV 950",
+   "key": null,
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "540ae683-fc15-3f6b-86e1-32eff31572c8",
+     "title": "Fuge nach Tomaso Albinoni A-Dur, BWV 950"
+    }
+   ]
+  },
+  {
+   "bwv": "951",
+   "id": "ebe594cc-894d-3b79-95d1-688b3ffa6bf9",
+   "candidates": [
+    {
+     "id": "ebe594cc-894d-3b79-95d1-688b3ffa6bf9",
+     "title": "Fuge nach Tomaso Albinoni h-Moll, BWV 951"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge nach Tomaso Albinoni h-Moll, BWV 951",
+   "key": "B minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "ebe594cc-894d-3b79-95d1-688b3ffa6bf9",
+     "title": "Fuge nach Tomaso Albinoni h-Moll, BWV 951"
+    }
+   ]
+  },
+  {
+   "bwv": "952",
+   "id": "438e48f7-5e69-39ba-a1fe-b77d19677435",
+   "candidates": [
+    {
+     "id": "438e48f7-5e69-39ba-a1fe-b77d19677435",
+     "title": "Fuge C-Dur, BWV 952"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge C-Dur, BWV 952",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "438e48f7-5e69-39ba-a1fe-b77d19677435",
+     "title": "Fuge C-Dur, BWV 952"
+    }
+   ]
+  },
+  {
+   "bwv": "953",
+   "id": "bd0adba3-41ce-3e96-8a95-631d13912658",
+   "candidates": [
+    {
+     "id": "bd0adba3-41ce-3e96-8a95-631d13912658",
+     "title": "Fuge C-Dur, BWV 953"
+    },
+    {
+     "id": "3f8dea36-2f49-4ece-af62-b0e8be3681cd",
+     "title": "Prélude BWV 846a - Fugue BWV 953"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge C-Dur, BWV 953",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "bd0adba3-41ce-3e96-8a95-631d13912658",
+     "title": "Fuge C-Dur, BWV 953"
+    }
+   ]
+  },
+  {
+   "bwv": "954",
+   "id": "a28742c9-317b-362c-ab0b-8ffff6a264c2",
+   "candidates": [
+    {
+     "id": "a28742c9-317b-362c-ab0b-8ffff6a264c2",
+     "title": "Fuge B-Dur nach Johann Adam Reincken, BWV 954"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge B-Dur nach Johann Adam Reincken, BWV 954",
+   "key": "B-flat major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "a28742c9-317b-362c-ab0b-8ffff6a264c2",
+     "title": "Fuge B-Dur nach Johann Adam Reincken, BWV 954"
+    }
+   ]
+  },
+  {
+   "bwv": "955",
+   "id": "021835ce-0b7c-3597-b5b5-609d637eed57",
+   "candidates": [
+    {
+     "id": "021835ce-0b7c-3597-b5b5-609d637eed57",
+     "title": "Fuge B-Dur, BWV 955"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge B-Dur, BWV 955",
+   "key": "B-flat major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "021835ce-0b7c-3597-b5b5-609d637eed57",
+     "title": "Fuge B-Dur, BWV 955"
+    }
+   ]
+  },
+  {
+   "bwv": "956",
+   "id": "7db79b61-5e43-3126-a297-19407ff43cd5",
+   "candidates": [
+    {
+     "id": "7db79b61-5e43-3126-a297-19407ff43cd5",
+     "title": "Fuge e-Moll, BWV 956"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge e-Moll, BWV 956",
+   "key": "E minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "7db79b61-5e43-3126-a297-19407ff43cd5",
+     "title": "Fuge e-Moll, BWV 956"
+    }
+   ]
+  },
+  {
+   "bwv": "957",
+   "id": "8e807beb-9219-3ad9-835c-7dfdb67b3732",
+   "candidates": [
+    {
+     "id": "8e807beb-9219-3ad9-835c-7dfdb67b3732",
+     "title": "Machs mit mir, Gott, nach deiner Güt, BWV 957"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Machs mit mir, Gott, nach deiner Güt, BWV 957",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "8e807beb-9219-3ad9-835c-7dfdb67b3732",
+     "title": "Machs mit mir, Gott, nach deiner Güt, BWV 957"
+    }
+   ]
+  },
+  {
+   "bwv": "958",
+   "id": "280d465b-87fa-44e5-a24b-aef8bf9c041a",
+   "candidates": [
+    {
+     "id": "280d465b-87fa-44e5-a24b-aef8bf9c041a",
+     "title": "Fuge a-Moll, BWV 958"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge a-Moll, BWV 958",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "280d465b-87fa-44e5-a24b-aef8bf9c041a",
+     "title": "Fuge a-Moll, BWV 958"
+    }
+   ]
+  },
+  {
+   "bwv": "959",
+   "id": "c58d57f5-d8f3-3fd6-9ab6-ac833c135c64",
+   "candidates": [
+    {
+     "id": "c58d57f5-d8f3-3fd6-9ab6-ac833c135c64",
+     "title": "Fuge a-Moll, BWV 959"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge a-Moll, BWV 959",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "c58d57f5-d8f3-3fd6-9ab6-ac833c135c64",
+     "title": "Fuge a-Moll, BWV 959"
+    }
+   ]
+  },
+  {
+   "bwv": "960",
+   "id": "56fc8544-91d2-427b-a3d8-aabd2862847b",
+   "candidates": [
+    {
+     "id": "56fc8544-91d2-427b-a3d8-aabd2862847b",
+     "title": "Fugue in E minor, BWV 960"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fugue in E minor, BWV 960",
+   "key": "E minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "56fc8544-91d2-427b-a3d8-aabd2862847b",
+     "title": "Fugue in E minor, BWV 960"
+    }
+   ]
+  },
+  {
+   "bwv": "961",
+   "id": "6276c452-8327-336a-ab00-07ba7e4215ad",
+   "candidates": [
+    {
+     "id": "6276c452-8327-336a-ab00-07ba7e4215ad",
+     "title": "Fughetta c-Moll, BWV 961"
+    },
+    {
+     "id": "85b21a75-ef72-411a-94ad-7a1b22caeda6",
+     "title": "Fughetta c-Moll, BWV 961"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fughetta c-Moll, BWV 961",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "6276c452-8327-336a-ab00-07ba7e4215ad",
+     "title": "Fughetta c-Moll, BWV 961"
+    }
+   ]
+  },
+  {
+   "bwv": "962",
+   "id": "2cdb1f24-24c5-4905-91cd-258ee95acda4",
+   "candidates": [
+    {
+     "id": "2cdb1f24-24c5-4905-91cd-258ee95acda4",
+     "title": "Fugue in E minor, BWV 962"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fugue in E minor, BWV 962",
+   "key": "E minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "2cdb1f24-24c5-4905-91cd-258ee95acda4",
+     "title": "Fugue in E minor, BWV 962"
+    }
+   ]
+  }
+ ]
+}

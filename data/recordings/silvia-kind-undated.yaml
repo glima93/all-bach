@@ -1,0 +1,28 @@
+id: silvia-kind-undated
+performers:
+- name: Silvia Kind
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1973
+original_label: null
+works:
+- {bwv: '922', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1e60376f-577c-4c58-b739-3753842e2d8b
+  title: Sylvia Kind Plays Baroque Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 70cf3237-bb5a-4447-9097-310d7f760a14
+  recordings: [18d1d004-1167-404f-a98a-722797432939]

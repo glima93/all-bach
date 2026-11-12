@@ -1,0 +1,14 @@
+bwv: "911"
+title: "Toccata in C minor"
+key: "C minor"
+collection: "Toccatas"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1707–1713"
+movements:
+  - "Toccata in C minor"
+notes: "One of the seven manualiter toccatas BWV 910–916; its sections alternate free passages with two fugues on the same subject. The earliest source is the Andreas Bach Book."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Toccatas_for_Keyboard_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f0cf1f6b-48d1-3f72-98c5-66651d4d61e8

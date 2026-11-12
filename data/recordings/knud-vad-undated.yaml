@@ -1,0 +1,28 @@
+id: knud-vad-undated
+performers:
+- name: Knud Vad
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '957', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/db62266e-1ac4-45c2-9415-48414b7d3431
+  title: The Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5829afec-9133-46c9-89fc-de5b14180f71
+  recordings: [943b7591-6b3a-43e6-9340-38335bd1cbea]

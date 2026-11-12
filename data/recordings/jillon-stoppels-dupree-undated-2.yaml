@@ -1,0 +1,29 @@
+id: jillon-stoppels-dupree-undated-2
+performers:
+- name: Jillon Stoppels Dupree
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '902', complete: true}
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/22fce7da-b79a-4615-aef6-1fc7e1804186
+  title: Fantasy and Caprice
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a13a6500-bffd-4997-a171-01b4796a041e
+  recordings: [cf1c0668-2de9-4e76-a1b2-75f45cdbbb16]

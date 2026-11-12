@@ -1,0 +1,29 @@
+id: smaro-gregoriadou-undated
+performers:
+- name: Smaro Gregoriadou
+  role: guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e8bddd0-e480-4e87-9f66-b4291bc3d1ad
+  title: Reinventing Guitar II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 47890bfa-fa34-4f7b-bca2-b79f9115016f
+  recordings: [79094119-b3d0-47f4-954d-6a6316769a25]

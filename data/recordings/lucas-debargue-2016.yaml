@@ -1,0 +1,26 @@
+id: lucas-debargue-2016
+performers:
+- name: Lucas Debargue
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2016]
+  place: Funkhaus Nalepastraße, Saal 1
+released: 2016
+original_label: null
+works:
+- {bwv: '911', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44ccd331-c395-401e-8529-ef71a3292c58
+  title: Bach / Beethoven / Medtner
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8e0b2205-8053-4592-8968-d806d7be1abc
+  recordings: [07d52e2f-07c8-46d9-a4fd-dea7f3c00f63]

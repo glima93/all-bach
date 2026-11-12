@@ -1,0 +1,28 @@
+id: pavlos-hatzopoulos-undated
+performers:
+- name: Pavlos Hatzopoulos
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '912', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/96bb52b4-86bd-40e7-a89f-920d3f7e9f1b
+  title: 'Beethoven: Sonatas / Bach: Transcriptions & Toccata'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ba758486-0b74-4be8-a888-0312b1298ba6
+  recordings: [b31128f4-5242-44a5-bd22-d87409b97571]

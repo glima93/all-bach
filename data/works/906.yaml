@@ -1,0 +1,15 @@
+bwv: "906"
+title: "Fantasia and Fugue in C minor"
+key: "C minor"
+collection: "Fantasias, Preludes and Fugues for keyboard"
+genre: keyboard
+scoring: "keyboard"
+composed: "Leipzig, fantasia c. 1728–1730; fugue c. 1738"
+movements:
+  - "I. Fantasia"
+  - "II. Fugue"
+notes: "Two autographs survive: one of the fantasia alone (c. 1728–1730) and a later fair copy (c. 1738) in which the fugue breaks off after 47 bars. The hand-crossings and galant traits make it one of Bach's latest and most modern keyboard preludes and fugues."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Fantasia_and_Fugue_in_C_minor,_BWV_906"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/7282d87c-4ccd-38ed-b1f8-f862518e4f68

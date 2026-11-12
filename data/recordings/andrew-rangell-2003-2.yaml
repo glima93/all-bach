@@ -1,0 +1,27 @@
+id: andrew-rangell-2003-2
+performers:
+- name: Andrew Rangell
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2003]
+  place: Isabella Stewart Gardner Museum
+released: 2006
+original_label: null
+works:
+- {bwv: '902', complete: false, movements: [I. Prelude]}
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f9891ab-285e-4962-a37f-04becda3bdd8
+  title: Andrew Rangell plays J.S. Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 710da3a1-0476-4592-a2f7-5e89dff41eec
+  recordings: [59d747c8-4e17-4f91-b103-4e03303fc9bd]

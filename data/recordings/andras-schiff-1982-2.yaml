@@ -1,0 +1,26 @@
+id: andras-schiff-1982-2
+performers:
+- name: András Schiff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1982]
+  place: Kingsway Hall
+released: 1993
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ab48b585-ac01-421d-8d9a-d22e1d576c17
+  title: 'Great Pianists of the 20th Century, Volume 88: András Schiff'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cb535c4c-711b-4be1-98f3-b6b5f8955d41
+  recordings: [cd8f95d0-7561-4c37-8c3d-853ae0888964]

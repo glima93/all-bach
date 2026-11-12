@@ -1,0 +1,30 @@
+id: benjamin-alard-undated-6
+performers:
+- name: Benjamin Alard
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '895', complete: true}
+- {bwv: '904', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4cf44d84-3351-460d-a7b2-015277a54025
+  title: 'The Complete Works for Keyboard 5: Weimar 1708–1717, Toccatas & Fugues'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [304c087b-ed69-433e-ba1d-1a0fbd5a588c]

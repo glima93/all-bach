@@ -1,0 +1,29 @@
+id: richard-lester-undated-8
+performers:
+- name: Richard Lester
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '912', complete: true}
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f4d82892-cfb3-4590-92cf-fb6950580be5
+  title: Works for Harpsichord, Vol. 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fcd267e-44e7-453d-bc47-3dc17531df05
+  recordings: [45b9a228-c6db-403c-9aba-dd60f1e934d5]

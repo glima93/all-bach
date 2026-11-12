@@ -1,0 +1,26 @@
+id: alexandre-tharaud-2024
+performers:
+- name: Alexandre Tharaud
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2024]
+  place: Grande Salle
+released: 2024
+original_label: null
+works:
+- {bwv: '906', complete: false, movements: [I. Fantasia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b558c939-6204-438e-ac2d-bd36b4eeaf46
+  title: Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 83b74911-aa21-4e31-ad1c-5eb505248f5a
+  recordings: [e5500829-4d2a-40e1-80b8-c03c41138092]

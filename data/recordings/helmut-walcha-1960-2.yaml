@@ -1,0 +1,26 @@
+id: helmut-walcha-1960-2
+performers:
+- name: Helmut Walcha
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1960]
+  place: Thienhaus Studio
+released: 2017
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9bc777c8-847f-4486-8643-5e51c6f09ccf
+  title: Keyboard Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f4c1fd6-75c8-4c40-8fcf-0b5496c01bf2
+  recordings: [c03a2621-ad61-4f6d-b3c3-1062a5f00a78]

@@ -1,0 +1,27 @@
+id: kris-verhelst-2016
+performers:
+- name: Kris Verhelst
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '895', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/bc3906aa-bbfa-4888-8c36-832a42d71281
+  title: null
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d8d25c54-a521-4d7e-8fdf-36cba2c5736a
+  recordings: [bc3906aa-bbfa-4888-8c36-832a42d71281]

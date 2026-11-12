@@ -1,0 +1,28 @@
+id: marcin-swiatkiewicz-undated
+performers:
+- name: Marcin Świątkiewicz
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0a710a9c-78cb-4ff6-a5bb-dbcfbf832ab0
+  title: 'Cromatica: The Art of Moving Souls'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 895e1c65-39a8-43dd-a910-f2306806602b
+  recordings: [d3299df7-3431-445b-bafa-8a7d3c47b150]

@@ -1,0 +1,27 @@
+id: guido-agosti-1980
+performers:
+- name: Guido Agosti
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1980]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fbbac43e-b87d-4f95-8d8a-0f0d2598662a
+  title: Guido Agosti Plays
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 8c53ce8d-694a-447b-972a-b561a07f2712
+  recordings: [eaa28d39-6ac8-456d-8858-2edad0fc01c4]

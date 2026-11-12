@@ -1,0 +1,27 @@
+id: jorg-demus-undated-4
+performers:
+- name: Jörg Demus
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Palais Lobkowitz
+released: 2013
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3d802fb5-966e-48ab-8dd5-72416c49a9d7
+  title: Jörg Demus spielt Bach und Beethoven
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 0c2fc183-68d2-409f-a236-9cd3fcdaddeb
+  recordings: [9b80840d-0d1b-42ef-bbe7-76190ea2c271]

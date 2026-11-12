@@ -1,0 +1,28 @@
+id: tania-stavreva-undated
+performers:
+- name: Tania Stavreva
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '911', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/852419a2-d6c9-40c9-8371-b8041b5c89e3
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b356942d-3079-4651-8355-e17f10ab4347
+  recordings: [852419a2-d6c9-40c9-8371-b8041b5c89e3]

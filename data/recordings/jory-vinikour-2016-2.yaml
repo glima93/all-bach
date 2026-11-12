@@ -1,0 +1,28 @@
+id: jory-vinikour-2016-2
+performers:
+- name: Jory Vinikour
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '894', complete: true}
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b8ecd29-0336-4614-8f0f-29dd74e701f3
+  title: Harpsichord Works
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4739b925-9746-48e6-b70d-8aa3b2f03bcf
+  recordings: [892ec97e-6322-4b41-9559-813d4b4a235a]

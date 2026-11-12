@@ -1,0 +1,28 @@
+id: alan-feinberg-2014-2
+performers:
+- name: Alan Feinberg
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2014]
+  place: Sono Luminus Studios
+released: 2015
+original_label: null
+works:
+- {bwv: '949', complete: true}
+- {bwv: '951', complete: true}
+- {bwv: '953', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c0152817-fbd6-4629-819b-c37c55814b7e
+  title: Fugue State
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1fb79c72-dafa-410a-902d-29cb51433bf6
+  recordings: [af1ca778-b731-4417-ba39-d7ba693be401]

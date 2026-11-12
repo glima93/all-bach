@@ -1,0 +1,26 @@
+id: scott-ross-1988-4
+performers:
+- name: Scott Ross
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: Château d'Assas
+released: 2019
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59cacf21-07d7-4375-bf6e-9e729314cc6b
+  title: Keyboard Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b01dff1-286c-4a41-a56a-8be74fe27e70
+  recordings: [f015c416-2edd-4877-8a9f-fc81ca4ea0c7]

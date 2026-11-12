@@ -1,0 +1,29 @@
+id: magdalena-hoffmann-undated
+performers:
+- name: Magdalena Hoffmann
+  role: harp
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '917', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a7a5ff0d-c82f-449b-a30a-6fc6cf55dc12
+  title: Fantasia
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on harp.
+musicbrainz:
+  artist: ba89898a-6d60-4147-99a1-79295fef8702
+  recordings: [ae646a99-62f9-4f5d-98b4-242e27bab91c]

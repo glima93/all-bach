@@ -1,0 +1,28 @@
+id: andrew-lawrence-king-1999
+performers:
+- name: Andrew Lawrence‐King
+  role: harp
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1999]
+  place: St. Andrew's Church
+released: 1999
+original_label: null
+works:
+- {bwv: '903', complete: false, movements: [I. Fantasia]}
+- {bwv: '944', complete: false, movements: [I. Fantasia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ddde17b7-db5b-4bfe-bab7-9613cb34361b
+  title: 'Die Fantasie der Chromatik: The Secret of the Semitones'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on harp.
+musicbrainz:
+  artist: e9280629-d08b-4acf-b833-3ca753571755
+  recordings: [c43c6d0a-c17d-41b3-b6ff-b1162a65e186]

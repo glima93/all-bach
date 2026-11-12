@@ -1,0 +1,30 @@
+id: aapo-hakkinen-undated-2
+performers:
+- name: Aapo Häkkinen
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Sankta Katarina kyrka
+released: 2013
+original_label: null
+works:
+- {bwv: '896', complete: true}
+- {bwv: '906', complete: true}
+- {bwv: '959', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guest.
+musicbrainz:
+  artist: 00d99e36-e21a-41b7-b371-5638990c882b
+  recordings: [e2e6676f-55a1-4e56-96e2-be0929835bc3]

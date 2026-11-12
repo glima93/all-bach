@@ -1,0 +1,28 @@
+id: ewa-pobocka-undated-3
+performers:
+- name: Ewa Pobłocka
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/74db6482-ec21-460e-b1fe-db601f1d85ed
+  title: 'Best of Best: Classical Piano Music'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 40097290-8e6f-4ed2-8879-916e236a9b03
+  recordings: [b5a0dbe9-43f0-47b0-9404-6618b94e4071]

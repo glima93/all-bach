@@ -1,0 +1,27 @@
+id: irina-mejoueva-undated-6
+performers:
+- name: Irina Mejoueva
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: りゅーとぴあ
+released: 2012
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/124b5914-968b-4158-a532-6d4747e38279
+  title: Goldberg Variations (Live at Ryutopia, 2012)
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 20d7e82a-c880-4aa9-9366-179fc514c6bf
+  recordings: [e2fade17-dfc0-4c13-976f-514f017a2972]

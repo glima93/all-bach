@@ -1,0 +1,28 @@
+id: christiane-jaccottet-undated-4
+performers:
+- name: Christiane Jaccottet
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/34ffd832-88c9-405c-afd3-a2702804f274
+  title: Concertos Brandebourgeois 4-5-6
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9a99bc67-1c17-4197-9a57-80ae70681939
+  recordings: [5e03c337-8f1f-470f-9a0d-034a6e895dc7]

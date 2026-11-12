@@ -1,0 +1,29 @@
+id: teresa-moreno-undated
+performers:
+- name: Teresa Moreno
+  role: accordion
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '902', complete: false, movements: [II. Fughetta]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8e2200c9-85d6-46c5-96ac-b99410eaf738
+  title: 'Clásicos en Zaragoza: Alumnos del Conservatorio Profesional de Música'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on accordion.
+musicbrainz:
+  artist: bd5f9c87-dac7-4a64-bac6-966cc3a790e3
+  recordings: [0047f41a-7fba-4af6-95dd-44e3bdfd36a3]

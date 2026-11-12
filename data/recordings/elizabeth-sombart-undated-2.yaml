@@ -1,0 +1,29 @@
+id: elizabeth-sombart-undated-2
+performers:
+- name: Elizabeth Sombart
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '921', complete: true}
+- {bwv: '922', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/030cbf11-2ddb-485b-bc6e-f100ee1ba9ad
+  title: Musique Classique, Musique Française
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24f347be-9dac-4e12-ac9d-e0b8d93fb297
+  recordings: [8cfb43ee-a527-4552-9c8b-5c8a5dec3543]

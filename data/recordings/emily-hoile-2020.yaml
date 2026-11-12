@@ -1,0 +1,26 @@
+id: emily-hoile-2020
+performers:
+- name: Emily Hoile
+  role: harp
+instrument: other
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: [2020]
+  place: Immanuelskirche
+released: 2021
+original_label: null
+works:
+- {bwv: '911', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/404a80fc-f271-4af0-b787-f19405dcfc9d
+  title: Ballade
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e255be6-fd9e-475d-b51e-7e86d41f2a92
+  recordings: [59757306-98c3-470f-83d4-95fab62c88f3]

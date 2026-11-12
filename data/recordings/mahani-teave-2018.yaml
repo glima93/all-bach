@@ -1,0 +1,26 @@
+id: mahani-teave-2018
+performers:
+- name: Mahani Teave
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2018]
+  place: Illsley Ball Nordstrom Recital Hall
+released: 2021
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cbff35e5-ed29-4174-a424-ef6d26fd2c3b
+  title: Rapa Nui Odyssey
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dbbf3089-0223-4261-b514-75e6bc662132
+  recordings: [33913403-9032-447c-ae1b-8d43b0cd9b1e]

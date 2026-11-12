@@ -1,0 +1,27 @@
+id: bengt-tribukait-2001-2
+performers:
+- name: Bengt Tribukait
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2001]
+  place: Drottningholms slottskyrka
+released: 2002
+original_label: null
+works:
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/73c3424d-8584-4295-81b0-aa832bafdce3
+  title: 'Bach Cahman Tribukait: Bengt Tribukait plays the 1730 Cahman Organ at Drottningholm'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f3440e2-cf5f-4b8f-bc5d-940845cd5471
+  recordings: [1136ed90-b51a-4a8d-b084-358d24dcce98]

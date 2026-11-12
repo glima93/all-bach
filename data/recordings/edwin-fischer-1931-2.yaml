@@ -1,0 +1,27 @@
+id: edwin-fischer-1931-2
+performers:
+- name: Edwin Fischer
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1931]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/556183e1-eb23-4786-ba2d-d6eef90dc6d2
+  title: 'Great Pianists of the 20th Century, Volume 25: Edwin Fischer I'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29c75fb9-d75c-4186-8892-6752d4bbc0a2
+  recordings: [5d9e2f5a-00ab-4492-ac79-e4da2febf088]

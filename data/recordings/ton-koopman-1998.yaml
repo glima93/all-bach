@@ -1,0 +1,26 @@
+id: ton-koopman-1998
+performers:
+- name: Ton Koopman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: Sint Walburgiskerk
+released: 1998
+original_label: null
+works:
+- {bwv: '957', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/52f3322e-7cc5-3c76-b9d8-c02dd5eb8655
+  title: Organ Works, Volume 11
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [32e591d2-dbda-413d-b033-b691abec1257]

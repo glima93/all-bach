@@ -1,0 +1,26 @@
+id: artur-schnabel-1948
+performers:
+- name: Artur Schnabel
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1948]
+  place: Abbey Road Studios
+released: 2002
+original_label: null
+works:
+- {bwv: '903', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6132c63c-426f-40bd-9c30-b2624e743053
+  title: Schnabel, maestro espressivo, Vol. 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b3d28fa-caaf-46ed-a545-29558adf25ec
+  recordings: [cdc79351-2d27-46b3-af24-94ed1fe8747c]

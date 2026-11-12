@@ -1,0 +1,30 @@
+id: bach-jazz-undated-2
+performers:
+- name: Bach Jazz
+  role: ensemble
+instrument: unknown
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '922', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43f05656-6f89-4d6e-8034-ecf228de41ed
+  title: II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d47b364b-b09a-444c-a963-99d0bb1e0be8
+  recordings: [45aea6f9-3404-4afb-8321-8f395929d956]

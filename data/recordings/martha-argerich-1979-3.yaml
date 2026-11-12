@@ -1,0 +1,26 @@
+id: martha-argerich-1979-3
+performers:
+- name: Martha Argerich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1979]
+  place: Studio Lankwitz
+released: 1980
+original_label: null
+works:
+- {bwv: '911', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ca2c4879-b5d6-3846-9edd-3db7369e4cba
+  title: Toccata BWV 911 / Partita no. 2 / English Suite no. 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bb8b89e-5700-4d7a-aa0b-d48f8706831d
+  recordings: [3106aefa-4f4e-47a0-a747-e2df975184a2]

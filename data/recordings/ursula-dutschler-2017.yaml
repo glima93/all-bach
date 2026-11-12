@@ -1,0 +1,27 @@
+id: ursula-dutschler-2017
+performers:
+- name: Ursula Dütschler
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '961', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/6beb2bcd-9183-4715-a859-e19b96a7c42c
+  title: null
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32a17362-defe-47c9-a84b-616e52d43ddd
+  recordings: [6beb2bcd-9183-4715-a859-e19b96a7c42c]

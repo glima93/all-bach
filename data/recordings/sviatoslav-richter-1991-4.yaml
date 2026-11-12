@@ -1,0 +1,27 @@
+id: sviatoslav-richter-1991-4
+performers:
+- name: Sviatoslav Richter
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1991]
+  place: Reitstadel
+released: 1994
+original_label: null
+works:
+- {bwv: '913', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f71b55e2-db16-4393-b260-d75d0714b9e9
+  title: 'The Authorised Recordings: Bach'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 2014bfbb-c65d-45dc-9973-35bead3833fa
+  recordings: [942738be-9a96-477e-9360-af528977b1dd]

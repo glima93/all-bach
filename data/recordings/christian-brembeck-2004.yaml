@@ -1,0 +1,26 @@
+id: christian-brembeck-2004
+performers:
+- name: Christian Brembeck
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2004]
+  place: Werkstatt J.C. Neupert
+released: 2005
+original_label: null
+works:
+- {bwv: '912', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/371997d7-f1d5-410a-bf2a-c8cb45aa12fb
+  title: Der fantastische Styl
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4d0c149a-0988-46b6-aef2-3581ea33bfba
+  recordings: [835435bb-8f7d-4bcf-914a-2de1eac21297]

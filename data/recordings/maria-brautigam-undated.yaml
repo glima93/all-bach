@@ -1,0 +1,30 @@
+id: maria-brautigam-undated
+performers:
+- name: Maria Bräutigam
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '903', complete: true}
+- {bwv: '904', complete: true}
+- {bwv: '906', complete: false, movements: [I. Fantasia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/16645418-a5a3-4a5a-bf0d-b772b7a78ebb
+  title: Historische Meisterinstrumente
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c506b029-39c4-41b1-aba5-049dbbdcd84a
+  recordings: [cc71b07b-b022-4725-a819-b4a26ea17b64]

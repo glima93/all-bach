@@ -1,0 +1,16 @@
+bwv: "912"
+title: "Toccata in D major"
+key: "D major"
+collection: "Toccatas"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1707–1713"
+movements:
+  - "I. Presto - Allegro"
+  - "II. Adagio - Fugue"
+  - "III. Con discrezione - Fugue"
+notes: "An earlier version, BWV 912a, survives in the Möller manuscript (c. 1704–1707); the later version is found in the Andreas Bach Book. Its opening resembles that of the organ Prelude and Fugue in D major, BWV 532."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Toccatas_for_Keyboard_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/00d4276d-a706-309d-a624-4ba1a85d447c

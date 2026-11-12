@@ -1,0 +1,26 @@
+id: james-kibbie-2007
+performers:
+- name: James Kibbie
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007, 2009]
+  place: St. Cosmae et Damiani
+released: 2010
+original_label: null
+works:
+- {bwv: '957', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/78bff4f5-fa25-45b0-9529-ec4d2057efa1
+  title: Neumeister Chorales
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 437c5876-f406-45be-a3cc-e76d244ee497
+  recordings: [b5402acf-620d-430c-b943-bb12e09a4f96]

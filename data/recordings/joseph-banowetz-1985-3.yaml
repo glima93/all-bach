@@ -1,0 +1,27 @@
+id: joseph-banowetz-1985-3
+performers:
+- name: Joseph Banowetz
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: Tsuen Wan Town Hall
+released: 1988
+original_label: null
+works:
+- {bwv: '903', complete: true}
+- {bwv: '906', complete: false, movements: [I. Fantasia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8124404f-9c9d-4c7b-bc1d-295c6ee7474c
+  title: Keyboard Favourites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ab8d44ca-c20d-4f31-a55d-5dfba50a9271
+  recordings: [7a4cd485-37ad-498b-b643-2284675b2c2d]

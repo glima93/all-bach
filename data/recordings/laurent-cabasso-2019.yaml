@@ -1,0 +1,32 @@
+id: laurent-cabasso-2019
+performers:
+- name: Laurent Cabasso
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2019]
+  place: Studio Stephen Paulello
+released: 2021
+original_label: null
+works:
+- {bwv: '910', complete: true}
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+- {bwv: '913', complete: true}
+- {bwv: '914', complete: true}
+- {bwv: '915', complete: true}
+- {bwv: '916', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7e6b8557-abd0-4fc3-8f8d-0f558e988cac
+  title: Complete Toccatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5fbd2dc3-82f3-4997-a4fd-88f84bac21a8
+  recordings: [0526dd97-845c-4cb1-bfd9-ebe6c731dd84]

@@ -1,0 +1,30 @@
+id: edwin-fischer-1937
+performers:
+- name: Edwin Fischer
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1937]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '904', complete: true}
+- {bwv: '922', complete: true}
+- {bwv: '944', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/84850301-1364-4958-bb87-0a3e88cf9fcc
+  title: 'Edwin Fischer Plays Bach, Volume Two: The Well‐Tempered Clavier, Book II, BWV 870–893 / Fantasia and Fugue
+    in A minor, BWV 904 / Prelude and Fugue in E‐flat major “St. Anne”, BWV 552'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29c75fb9-d75c-4186-8892-6752d4bbc0a2
+  recordings: [a2226799-a49f-44fa-8ac2-a7e016fa0a82]

@@ -1,0 +1,44 @@
+id: michele-barchi-undated-2
+performers:
+- name: Michele Barchi
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '896', complete: true}
+- {bwv: '899', complete: true}
+- {bwv: '901', complete: true}
+- {bwv: '902', complete: true}
+- {bwv: '906', complete: true}
+- {bwv: '917', complete: true}
+- {bwv: '921', complete: true}
+- {bwv: '922', complete: true}
+- {bwv: '923', complete: true}
+- {bwv: '946', complete: true}
+- {bwv: '947', complete: true}
+- {bwv: '948', complete: true}
+- {bwv: '949', complete: true}
+- {bwv: '950', complete: true}
+- {bwv: '951', complete: true}
+- {bwv: '953', complete: true}
+- {bwv: '961', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ee9f91f-f11b-49da-baed-768b2c11e127
+  recordings: [83d8f768-7a70-4c8f-b8c9-9ab2c26f1521]

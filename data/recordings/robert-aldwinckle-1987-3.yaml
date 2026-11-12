@@ -1,0 +1,28 @@
+id: robert-aldwinckle-1987-3
+performers:
+- name: Robert Aldwinckle
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1987]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '913', complete: true}
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3cef3331-ebb2-45d5-8eb7-73bd3434d950
+  title: Bach Harpsichord Recital
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a4ad33e-7498-4d7b-b99c-af880214ead3
+  recordings: [0e143d97-00ae-4072-bef9-0285cfcacbc6]

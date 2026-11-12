@@ -1,0 +1,30 @@
+id: christophe-rousset-2009-2
+performers:
+- name: Christophe Rousset
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: Musée d'Art et d'Histoire
+released: 2010
+original_label: null
+works:
+- {bwv: '894', complete: true}
+- {bwv: '901', complete: true}
+- {bwv: '902', complete: true}
+- {bwv: '904', complete: true}
+- {bwv: '922', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43ef267f-dcb4-4414-af27-6d409d15034e
+  title: Bach Fantasy
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6784a34f-3d91-45a5-b7b3-be1eaa1096f1
+  recordings: [21ddd9ff-bb1f-487b-8edb-e7af21fc0bf5]

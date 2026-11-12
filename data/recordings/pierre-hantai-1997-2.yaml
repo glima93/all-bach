@@ -1,0 +1,30 @@
+id: pierre-hantai-1997-2
+performers:
+- name: Pierre Hantaï
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: Doopsgezinde kerk
+released: 1997
+original_label: null
+works:
+- {bwv: '911', complete: true}
+- {bwv: '912', complete: true}
+- {bwv: '913', complete: true}
+- {bwv: '914', complete: true}
+- {bwv: '915', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/113844bd-e834-46a7-8eb5-790860fd449f
+  title: Works for Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bf55610c-41d9-45bf-a0ae-d912f49071a0
+  recordings: [5813c4ca-dac3-43bb-a2fc-0a906c831925]

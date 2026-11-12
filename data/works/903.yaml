@@ -1,0 +1,15 @@
+bwv: "903"
+title: "Chromatic Fantasia and Fugue in D minor"
+key: "D minor"
+collection: "Fantasias, Preludes and Fugues for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Köthen, c. 1720; revised Leipzig, c. 1730"
+movements:
+  - "I. Fantasia"
+  - "II. Fugue"
+notes: "An improvisatory, harmonically adventurous fantasia followed by a three-voice chromatic fugue. An earlier version of the fantasia survives as BWV 903a; the main version is first documented in a copy dated 1730."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Chromatic_Fantasia_and_Fugue,_BWV_903"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/7031bd90-b425-421f-b41d-211a76e56359

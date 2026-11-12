@@ -1,0 +1,15 @@
+bwv: "915"
+title: "Toccata in G minor"
+key: "G minor"
+collection: "Toccatas"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1707–1709"
+movements:
+  - "I. Toccata"
+  - "II. Fugue"
+notes: "One of the seven manualiter toccatas BWV 910–916. The only surviving copy from Bach's circle was written by Johann Gottlieb Preller."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Toccatas_for_Keyboard_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/7404cd22-591c-3790-baa8-a0d16567b3ae
