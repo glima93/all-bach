@@ -118,6 +118,10 @@ EXCLUDE_BY_SNAPSHOT["toccatas"] = {
     "849c745c-5ac2-4fe6-803a-2c11cdcda4ab": "Noehren's 'Toccata in D minor' on Delos's Surround Spectacular is the organ Toccata and Fugue BWV 565 (from his Rieger organ album), mislinked to BWV 913",
     "061530f3-1371-44c3-ade7-eb6c7e4aa931": "Walter Kraft's organ 'Toccata in D minor' on the Awesome Classics sampler: a single track on a pop-classics sampler, almost certainly BWV 565 mislinked to BWV 913",
 }
+EXCLUDE_BY_SNAPSHOT["keyboard-preludes-fugues"] = {
+    "ab5981fc-e1b9-47ee-b1a0-dd88c2f151fb": "Bartelink's Beroemde orgelwerken (famous organ works): its only track here is the harpsichord Fantasia BWV 906, almost certainly the organ Fantasia and Fugue in C minor BWV 537 or 562 mislinked",
+    "66b6db7e-972a-48fb-8977-869447db34fa": "Krumbach's The Bach Family: Organ Works: an organ 'Fantasia and Fugue in A minor', almost certainly BWV 561 (attributed to Kittel) mislinked to the harpsichord work BWV 904",
+}
 EXCLUDE_BY_SNAPSHOT["flute-works"] = {
     "a14b8433-630f-454c-b727-92bfe3ab18e7": "Hooked on Classics 2 (Royal Philharmonic, Louis Clark): the medley track already filed for the English Suite No. 2 Bourrées, linked to the flute sonatas too",
     "1e0f94e6-f9ce-4ce2-93e4-b2f338737db4": "Young Person's Guide to the Classic 1: a compilation of other artists' classical recordings issued under Yngwie Malmsteen's name; he does not play the Bourrée",
