@@ -1,0 +1,28 @@
+id: stanislav-khristenko-undated
+performers:
+- name: Stanislav Khristenko
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '934', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/739ad04a-f0fe-4215-a887-0e3879da3ecb
+  title: 24 Preludes
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aee8f9e1-214e-49fb-9ab2-6d43fbd7eaaf
+  recordings: [0e9e1162-ba61-45cd-a56d-c452ebf011e9]

@@ -1,0 +1,33 @@
+id: christoph-eschenbach-undated-5
+performers:
+- name: Christoph Eschenbach
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '933', complete: true}
+- {bwv: '934', complete: true}
+- {bwv: '935', complete: true}
+- {bwv: '936', complete: true}
+- {bwv: '937', complete: true}
+- {bwv: '938', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/791e3263-6438-4fed-a833-612e17a2b6f2
+  title: Piano Lessons
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 67307b9a-5f5c-4611-8d41-d439d343fa84
+  recordings: [f51d60b1-9a95-45fb-8e25-1e14cd74568f]

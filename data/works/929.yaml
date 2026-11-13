@@ -1,0 +1,14 @@
+bwv: "929"
+title: "Little Prelude in G minor"
+key: "G minor"
+collection: "Little Preludes"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "early 1720s"
+movements:
+  - "Trio in G minor"
+notes: "Despite its catalogue title this is not a prelude but a trio Bach composed for a minuet in a partita by Gottfried Heinrich Stölzel, copied into the Klavierbüchlein für Wilhelm Friedemann Bach, begun in Köthen in 1720."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Twelve_Little_Preludes"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/67cb4182-1462-381f-a235-0d60b72e6504

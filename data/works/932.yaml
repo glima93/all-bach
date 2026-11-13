@@ -1,0 +1,14 @@
+bwv: "932"
+title: "Little Prelude in E minor"
+key: "E minor"
+collection: "Little Preludes"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "early 1720s"
+movements:
+  - "Prelude in E minor"
+notes: "A prelude from the Klavierbüchlein für Wilhelm Friedemann Bach, begun in Köthen in 1720. Like the other preludes in the notebook it is sometimes attributed to Wilhelm Friedemann."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Klavierb%C3%BCchlein_f%C3%BCr_Wilhelm_Friedemann_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/1c471f5c-5571-4c74-9c4a-ecf341776bf4

@@ -127,6 +127,9 @@ EXCLUDE_BY_SNAPSHOT["flute-works"] = {
     "1e0f94e6-f9ce-4ce2-93e4-b2f338737db4": "Young Person's Guide to the Classic 1: a compilation of other artists' classical recordings issued under Yngwie Malmsteen's name; he does not play the Bourrée",
     "45ddb272-aa23-4f3b-99d1-62820ab0044e": "RCM exam book disc: the piano accompaniment alone (Longworth), the track for practising with; the flute and piano performance is filed",
 }
+EXCLUDE_BY_SNAPSHOT["little-preludes"] = {
+    "54aff438-a805-4998-aa95-8483920b1b7c": "AAFTAC Symphonette's 1944 single 'Prelude in E major / Waltz': a band orchestration, almost certainly the Preludio of the violin Partita No. 3 BWV 1006 mislinked to BWV 937",
+}
 EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 
 # One performance that the snapshot splits into two rows (an undated track of a dated set, one set recorded
@@ -719,7 +722,7 @@ ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone?)?\b(?<!manfred sax)|sw
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
                             r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi|alperin|dellarole|allhoff|joachim k.hn|"
-                            r"glorvigen|horacio franco|mehmari", re.I)
+                            r"glorvigen|horacio franco|mehmari|symphonette", re.I)
 # In orchestral works only: names of groups that are not orchestras, so play the music arranged.
 ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
                                   r"trumpet ensemble|brass|\btrio\b", re.I)

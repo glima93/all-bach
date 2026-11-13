@@ -1,0 +1,26 @@
+id: hans-fagius-1989
+performers:
+- name: Hans Fagius
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989]
+  place: Kristine kyrka
+released: 1990
+original_label: null
+works:
+- {bwv: '943', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/245039ca-03ce-41bc-8fd2-0e664b261613
+  title: The Complete Organ Music, Volume 7
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1326ea97-4cae-428c-bbc2-f7aaf5354ec1
+  recordings: [7f43d3a8-7c3a-4cf5-8b6f-48ef41cc0547]

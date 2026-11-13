@@ -1,0 +1,26 @@
+id: andre-isoir-1979
+performers:
+- name: André Isoir
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979]
+  place: Église Saint Joseph
+released: 2003
+original_label: null
+works:
+- {bwv: '943', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/897563b4-b35e-4522-a73d-46c07a3a6bc4
+  title: Intégrale des Sonates en Trio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f06a4379-1bbf-41a2-b2aa-4818d67605d7
+  recordings: [94ef44c8-0568-4190-88c4-4cdc5d2b99b3]

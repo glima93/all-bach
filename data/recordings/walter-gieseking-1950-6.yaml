@@ -1,0 +1,35 @@
+id: walter-gieseking-1950-6
+performers:
+- name: Walter Gieseking
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1950]
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '924', complete: true}
+- {bwv: '925', complete: true}
+- {bwv: '927', complete: true}
+- {bwv: '928', complete: true}
+- {bwv: '933', complete: true}
+- {bwv: '935', complete: true}
+- {bwv: '936', complete: true}
+- {bwv: '937', complete: true}
+- {bwv: '938', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a8cc9f84-97ec-46bc-a4f3-a6fd086b9740
+  title: Complete Bach Recordings on Deutsche Grammophon
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62e0e456-bd4b-4edc-a47c-3537cdd53621
+  recordings: [20b93f4c-8f05-4eee-aedb-919f995e7a27]

@@ -1,0 +1,46 @@
+id: mahan-esfahani-undated-4
+performers:
+- name: Mahan Esfahani
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: St. John’s Church
+released: 2024
+original_label: null
+works:
+- {bwv: '924', complete: true}
+- {bwv: '925', complete: true}
+- {bwv: '926', complete: true}
+- {bwv: '927', complete: true}
+- {bwv: '928', complete: true}
+- {bwv: '929', complete: true}
+- {bwv: '930', complete: true}
+- {bwv: '931', complete: true}
+- {bwv: '932', complete: true}
+- {bwv: '933', complete: true}
+- {bwv: '934', complete: true}
+- {bwv: '935', complete: true}
+- {bwv: '936', complete: true}
+- {bwv: '937', complete: true}
+- {bwv: '938', complete: true}
+- {bwv: '939', complete: true}
+- {bwv: '940', complete: true}
+- {bwv: '941', complete: true}
+- {bwv: '942', complete: true}
+- {bwv: '943', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6045a50e-e838-4aca-a4c3-ce7e61fc5833
+  title: Preludes / Inventions / Sinfonias
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a2704dbd-4e05-4b89-917c-85c578fc1488
+  recordings: [c2ffc3fe-2d16-4d0b-a482-40586179b03b]

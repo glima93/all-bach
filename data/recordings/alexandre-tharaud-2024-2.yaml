@@ -1,0 +1,27 @@
+id: alexandre-tharaud-2024-2
+performers:
+- name: Alexandre Tharaud
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2024]
+  place: Grande Salle
+released: 2024
+original_label: null
+works:
+- {bwv: '924', complete: true}
+- {bwv: '926', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b558c939-6204-438e-ac2d-bd36b4eeaf46
+  title: Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 83b74911-aa21-4e31-ad1c-5eb505248f5a
+  recordings: [c2b1599c-e581-4afe-ac5d-482690224e91]

@@ -1,0 +1,14 @@
+bwv: "926"
+title: "Little Prelude in D minor"
+key: "D minor"
+collection: "Little Preludes"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Köthen, early 1720s"
+movements:
+  - "Prelude in D minor"
+notes: "A prelude from the Klavierbüchlein für Wilhelm Friedemann Bach, begun in Köthen in 1720, written for Wilhelm Friedemann's keyboard instruction."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Twelve_Little_Preludes"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/65902eb6-348b-3d68-8583-1cb5bf676fb6

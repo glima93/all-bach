@@ -1,0 +1,44 @@
+id: christiane-jaccottet-1990-9
+performers:
+- name: Christiane Jaccottet
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '924', complete: true}
+- {bwv: '925', complete: true}
+- {bwv: '926', complete: true}
+- {bwv: '927', complete: true}
+- {bwv: '928', complete: true}
+- {bwv: '929', complete: true}
+- {bwv: '930', complete: true}
+- {bwv: '931', complete: true}
+- {bwv: '932', complete: true}
+- {bwv: '933', complete: true}
+- {bwv: '934', complete: true}
+- {bwv: '935', complete: true}
+- {bwv: '936', complete: true}
+- {bwv: '937', complete: true}
+- {bwv: '938', complete: true}
+- {bwv: '939', complete: true}
+- {bwv: '940', complete: true}
+- {bwv: '941', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6690bc2-3420-4005-a10f-0637860e012c
+  title: 'Complete Works for Harpsichord, Vol. 12: Inventions Nos. 6–15 / Sinfonias Nos. 1–15 / Preludes'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85f89ec1-8f4e-4201-a8a2-80e6cbb9c9e2
+  recordings: [e002d754-deff-4d3f-a36d-be4f636ae800]

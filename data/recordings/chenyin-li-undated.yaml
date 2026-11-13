@@ -1,0 +1,28 @@
+id: chenyin-li-undated
+performers:
+- name: Chenyin Li
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '929', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8162f0ab-7864-4671-a024-0e07e9b37075
+  title: Pianist 140
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 59aaf92a-5988-48a3-a07f-8057c142c951
+  recordings: [ac0e5c70-27ad-4a3e-bc6a-c609cbcc73ce]

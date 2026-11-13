@@ -1,0 +1,40 @@
+id: benjamin-alard-undated-7
+performers:
+- name: Benjamin Alard
+  role: performer
+instrument: unknown
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '933', complete: true}
+- {bwv: '934', complete: true}
+- {bwv: '935', complete: true}
+- {bwv: '936', complete: true}
+- {bwv: '937', complete: true}
+- {bwv: '938', complete: true}
+- {bwv: '939', complete: true}
+- {bwv: '940', complete: true}
+- {bwv: '941', complete: true}
+- {bwv: '942', complete: true}
+- {bwv: '943', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/dc76fd85-83aa-4af8-917e-2c24806497ae
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [dc76fd85-83aa-4af8-917e-2c24806497ae]

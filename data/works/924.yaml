@@ -1,0 +1,14 @@
+bwv: "924"
+title: "Little Prelude in C major"
+key: "C major"
+collection: "Little Preludes"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Köthen, early 1720s"
+movements:
+  - "Prelude in C major"
+notes: "A Praeambulum from the Klavierbüchlein für Wilhelm Friedemann Bach, begun in Köthen in 1720. A variant version, BWV 924a, survives in Wilhelm Friedemann's own hand, probably from his composition lessons."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Twelve_Little_Preludes"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/9309e7da-a919-3b15-be58-7939a6bde82e
