@@ -137,7 +137,8 @@ class Collector:
         def get():
             q = f'"BWV {bwv}" AND arid:{BACH}'
             res = self.mb("work?query=" + requests.utils.quote(q) + "&limit=25")
-            pat = re.compile(rf"BWV\s*{bwv}(?![0-9a-z./])", re.I)
+            # A range ("BWV 972–987") names a set of works, not this one.
+            pat = re.compile(rf"BWV\s*{bwv}(?![0-9a-z./]|\s*[–-]\s*\d)", re.I)
             cands = []
             for w in res.get("works") or []:
                 m = pat.search(w["title"])
@@ -360,7 +361,8 @@ def dumps(x) -> str:
 def collect(col: dict, args) -> bool:
     c = Collector(col["id"], Path(args.state), args.deadline, not args.no_whole)
     try:
-        works = c.cached("tree", lambda: c.tree(col))
+        # The cached tree is keyed by the parent work, so setting mb_parent later takes effect.
+        works = c.cached("tree" + (":" + col["mb_parent"] if col.get("mb_parent") else ""), lambda: c.tree(col))
         mode = col.get("mode", "ensemble")
         grouped = mode in GROUPED_MODES
         whole = (lambda w: c.recordings(w["id"]) if w["has_parts"] else []) if c.whole else (lambda w: [])
@@ -398,6 +400,18 @@ def remote_collect_branches() -> set[str]:
     return {line.split("refs/heads/collect/")[1] for line in out.splitlines() if "refs/heads/collect/" in line}
 
 
+def stale_branch(col: dict) -> bool:
+    """True when collect/<id> was collected with another mb_parent than the plan now gives: the
+    collection is collected again and the branch overwritten (the workflow pushes with --force-with-lease)."""
+    try:
+        text = subprocess.run(["git", "show", f"origin/collect/{col['id']}:data/plan/collections.yaml"],
+                              capture_output=True, text=True, check=True, cwd=ROOT).stdout
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        return False
+    old = next((c for c in yaml.safe_load(text)["collections"] if c["id"] == col["id"]), {})
+    return old.get("mb_parent") != col.get("mb_parent")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--queued", action="store_true", help="collect every collection with status: queued")
@@ -413,7 +427,7 @@ def main() -> int:
     todo = [by_id[i] for i in args.collection]
     if args.queued:
         have = remote_collect_branches()
-        todo += [c for c in cols if c["status"] == "queued" and c["id"] not in have]
+        todo += [c for c in cols if c["status"] == "queued" and (c["id"] not in have or stale_branch(c))]
     if not todo:
         print("nothing to collect")
     done = []

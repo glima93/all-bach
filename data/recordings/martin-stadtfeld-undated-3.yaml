@@ -1,0 +1,40 @@
+id: martin-stadtfeld-undated-3
+performers:
+- name: Martin Stadtfeld
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '924', complete: true}
+- {bwv: '925', complete: true}
+- {bwv: '926', complete: true}
+- {bwv: '927', complete: true}
+- {bwv: '928', complete: true}
+- {bwv: '930', complete: true}
+- {bwv: '933', complete: true}
+- {bwv: '934', complete: true}
+- {bwv: '935', complete: true}
+- {bwv: '936', complete: true}
+- {bwv: '937', complete: true}
+- {bwv: '938', complete: true}
+- {bwv: '939', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e503d086-3cab-4b6f-a5be-844c67f28384
+  title: Kleine Stücke
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b58542fb-afcb-431d-a234-fb5bf7f93a09
+  recordings: [ed878cf5-2af9-4abc-b63f-204da7e751cd]

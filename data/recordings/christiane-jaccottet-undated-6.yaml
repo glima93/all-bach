@@ -1,0 +1,40 @@
+id: christiane-jaccottet-undated-6
+performers:
+- name: Christiane Jaccottet
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '924', complete: true}
+- {bwv: '925', complete: true}
+- {bwv: '926', complete: true}
+- {bwv: '927', complete: true}
+- {bwv: '928', complete: true}
+- {bwv: '930', complete: true}
+- {bwv: '931', complete: true}
+- {bwv: '939', complete: true}
+- {bwv: '940', complete: true}
+- {bwv: '941', complete: true}
+- {bwv: '942', complete: true}
+- {bwv: '943', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/990a3485-14c4-4d64-957c-96fad95a0ce5
+  title: Partita no. 5 / Suite Francaise no. 5 & 6 / 7 Petits Preludes
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85f89ec1-8f4e-4201-a8a2-80e6cbb9c9e2
+  recordings: [00150c8c-e3f4-4dd7-84ed-57dc874fb865]

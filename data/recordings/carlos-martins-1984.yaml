@@ -1,0 +1,33 @@
+id: carlos-martins-1984
+performers:
+- name: Carlos Martins
+  role: piano
+- name: João Carlos Martins
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1984]
+  place: Pomona College
+released: 1996
+original_label: null
+works:
+- {bwv: '933', complete: true}
+- {bwv: '934', complete: true}
+- {bwv: '935', complete: true}
+- {bwv: '936', complete: true}
+- {bwv: '937', complete: true}
+- {bwv: '938', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6cd92c34-0837-40b2-8697-9d6cb4e33018
+  title: 'The Complete Keyboard Works Of J.S. Bach On Concord Concerto, Volume 6: The Anna Magdalena Bach Notebook'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: afcb20a2-afcd-40f8-836d-d2571060daef
+  recordings: [50c92748-3f9b-4a0b-b215-8903ea7039ed]

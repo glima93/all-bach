@@ -1,0 +1,28 @@
+id: max-olding-undated
+performers:
+- name: Max Olding
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '927', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/83db553c-eb7f-4c84-b935-168a760a7bf9
+  title: AMEB Piano For Leisure Series 2 Grade 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 752aa3a2-c005-4144-b435-0963ee5d5aa6
+  recordings: [c3686243-a095-47c0-b137-cfd34f7920fc]

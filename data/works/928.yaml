@@ -1,0 +1,14 @@
+bwv: "928"
+title: "Little Prelude in F major"
+key: "F major"
+collection: "Little Preludes"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Köthen, early 1720s"
+movements:
+  - "Prelude in F major"
+notes: "A prelude from the Klavierbüchlein für Wilhelm Friedemann Bach, begun in Köthen in 1720, written for Wilhelm Friedemann's keyboard instruction."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Twelve_Little_Preludes"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/a42a9b22-805d-33b8-99ca-a5e2945a0f8a

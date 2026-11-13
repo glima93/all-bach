@@ -1,0 +1,27 @@
+id: livia-rev-1985
+performers:
+- name: Lívia Rév
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1985]
+  place: St Michael’s Church
+released: 1987
+original_label: null
+works:
+- {bwv: '930', complete: true}
+- {bwv: '937', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8d30387c-7342-4d41-9cc9-6627564ecbc4
+  title: For Children
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ae1d1f0d-d70f-4cec-8f78-d5557bad8c19
+  recordings: [8f473eb0-8e23-416d-bd31-af84b15c9632]

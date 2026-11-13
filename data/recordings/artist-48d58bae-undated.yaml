@@ -1,0 +1,28 @@
+id: artist-48d58bae-undated
+performers:
+- name: Ольга Харитонова
+  role: performer
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '942', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/39bd169d-430c-41eb-8d20-8c7c55f9b775
+  title: Piano - Series 3 - Preliminary, First Grade and Second Grade
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 48d58bae-ae3b-49fb-8b53-9d106433421e
+  recordings: [cacd41bc-14d4-443e-b339-6d18baf72972]

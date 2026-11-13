@@ -1,0 +1,14 @@
+bwv: "931"
+title: "Little Prelude in A minor"
+key: "A minor"
+collection: "Little Preludes"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "early 1720s"
+movements:
+  - "Prelude in A minor"
+notes: "A prelude from the Klavierbüchlein für Wilhelm Friedemann Bach, begun in Köthen in 1720. It is now thought to be a composition exercise by Wilhelm Friedemann himself, written down by his father."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Klavierb%C3%BCchlein_f%C3%BCr_Wilhelm_Friedemann_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/6af2b00e-ac22-3093-bf4e-f4275c91905a

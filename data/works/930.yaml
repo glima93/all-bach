@@ -1,0 +1,14 @@
+bwv: "930"
+title: "Little Prelude in G minor"
+key: "G minor"
+collection: "Little Preludes"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Köthen, early 1720s"
+movements:
+  - "Prelude in G minor"
+notes: "A Praeambulum from the Klavierbüchlein für Wilhelm Friedemann Bach, begun in Köthen in 1720, and one of only two pieces in the notebook with fingering in Bach's own hand."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Twelve_Little_Preludes"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/c4aba8de-7332-355c-bd75-ebb8b67fe75b

@@ -1,0 +1,428 @@
+{
+ "collection": "little-preludes",
+ "taken": "2026-11-12",
+ "recordings": 460,
+ "performances": 69,
+ "works": [
+  {
+   "bwv": "924",
+   "id": "9309e7da-a919-3b15-be58-7939a6bde82e",
+   "candidates": [
+    {
+     "id": "9309e7da-a919-3b15-be58-7939a6bde82e",
+     "title": "9 kleine Präludien: Präludium C-Dur, BWV 924"
+    },
+    {
+     "id": "a5b6ad42-33ae-4f93-ab98-59ddaa8978a2",
+     "title": "9 kleine Präludien: Präludium C-Dur, BWV 924"
+    }
+   ],
+   "ambiguous": false,
+   "title": "9 kleine Präludien: Präludium C-Dur, BWV 924",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "9309e7da-a919-3b15-be58-7939a6bde82e",
+     "title": "9 kleine Präludien: Präludium C-Dur, BWV 924"
+    }
+   ]
+  },
+  {
+   "bwv": "925",
+   "id": "9deecf21-8d3f-3bbd-8f36-6331c9fd6d35",
+   "candidates": [
+    {
+     "id": "9deecf21-8d3f-3bbd-8f36-6331c9fd6d35",
+     "title": "9 kleine Präludien: Präludium D-Dur, BWV 925"
+    }
+   ],
+   "ambiguous": false,
+   "title": "9 kleine Präludien: Präludium D-Dur, BWV 925",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "9deecf21-8d3f-3bbd-8f36-6331c9fd6d35",
+     "title": "9 kleine Präludien: Präludium D-Dur, BWV 925"
+    }
+   ]
+  },
+  {
+   "bwv": "926",
+   "id": "65902eb6-348b-3d68-8583-1cb5bf676fb6",
+   "candidates": [
+    {
+     "id": "65902eb6-348b-3d68-8583-1cb5bf676fb6",
+     "title": "9 kleine Präludien: Präludium d-Moll, BWV 926"
+    },
+    {
+     "id": "3f886559-1365-480b-8093-f18de7885096",
+     "title": "9 kleine Präludien: Präludium d-Moll, BWV 926"
+    }
+   ],
+   "ambiguous": false,
+   "title": "9 kleine Präludien: Präludium d-Moll, BWV 926",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "65902eb6-348b-3d68-8583-1cb5bf676fb6",
+     "title": "9 kleine Präludien: Präludium d-Moll, BWV 926"
+    }
+   ]
+  },
+  {
+   "bwv": "927",
+   "id": "1f1b3f87-0923-3d3d-b6c7-3ca09fb8a179",
+   "candidates": [
+    {
+     "id": "1f1b3f87-0923-3d3d-b6c7-3ca09fb8a179",
+     "title": "9 kleine Präludien: Präludium F-Dur, BWV 927"
+    }
+   ],
+   "ambiguous": false,
+   "title": "9 kleine Präludien: Präludium F-Dur, BWV 927",
+   "key": "F major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "1f1b3f87-0923-3d3d-b6c7-3ca09fb8a179",
+     "title": "9 kleine Präludien: Präludium F-Dur, BWV 927"
+    }
+   ]
+  },
+  {
+   "bwv": "928",
+   "id": "a42a9b22-805d-33b8-99ca-a5e2945a0f8a",
+   "candidates": [
+    {
+     "id": "a42a9b22-805d-33b8-99ca-a5e2945a0f8a",
+     "title": "9 kleine Präludien: Präludium F-Dur, BWV 928"
+    }
+   ],
+   "ambiguous": false,
+   "title": "9 kleine Präludien: Präludium F-Dur, BWV 928",
+   "key": "F major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "a42a9b22-805d-33b8-99ca-a5e2945a0f8a",
+     "title": "9 kleine Präludien: Präludium F-Dur, BWV 928"
+    }
+   ]
+  },
+  {
+   "bwv": "929",
+   "id": "67cb4182-1462-381f-a235-0d60b72e6504",
+   "candidates": [
+    {
+     "id": "67cb4182-1462-381f-a235-0d60b72e6504",
+     "title": "9 kleine Präludien: Präludium g-Moll, BWV 929"
+    }
+   ],
+   "ambiguous": false,
+   "title": "9 kleine Präludien: Präludium g-Moll, BWV 929",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "67cb4182-1462-381f-a235-0d60b72e6504",
+     "title": "9 kleine Präludien: Präludium g-Moll, BWV 929"
+    }
+   ]
+  },
+  {
+   "bwv": "930",
+   "id": "c4aba8de-7332-355c-bd75-ebb8b67fe75b",
+   "candidates": [
+    {
+     "id": "c4aba8de-7332-355c-bd75-ebb8b67fe75b",
+     "title": "9 kleine Präludien: Präludium g-Moll, BWV 930"
+    }
+   ],
+   "ambiguous": false,
+   "title": "9 kleine Präludien: Präludium g-Moll, BWV 930",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "c4aba8de-7332-355c-bd75-ebb8b67fe75b",
+     "title": "9 kleine Präludien: Präludium g-Moll, BWV 930"
+    }
+   ]
+  },
+  {
+   "bwv": "931",
+   "id": "6af2b00e-ac22-3093-bf4e-f4275c91905a",
+   "candidates": [
+    {
+     "id": "6af2b00e-ac22-3093-bf4e-f4275c91905a",
+     "title": "9 kleine Präludien: Präludium A-Moll, BWV 931"
+    }
+   ],
+   "ambiguous": false,
+   "title": "9 kleine Präludien: Präludium A-Moll, BWV 931",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "6af2b00e-ac22-3093-bf4e-f4275c91905a",
+     "title": "9 kleine Präludien: Präludium A-Moll, BWV 931"
+    }
+   ]
+  },
+  {
+   "bwv": "932",
+   "id": "1c471f5c-5571-4c74-9c4a-ecf341776bf4",
+   "candidates": [
+    {
+     "id": "1c471f5c-5571-4c74-9c4a-ecf341776bf4",
+     "title": "9 kleine Präludien: Präludium e-Moll, BWV 932"
+    }
+   ],
+   "ambiguous": false,
+   "title": "9 kleine Präludien: Präludium e-Moll, BWV 932",
+   "key": "E minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "1c471f5c-5571-4c74-9c4a-ecf341776bf4",
+     "title": "9 kleine Präludien: Präludium e-Moll, BWV 932"
+    }
+   ]
+  },
+  {
+   "bwv": "933",
+   "id": "6811b12f-e37f-31a1-81b3-5698cf5464ab",
+   "candidates": [
+    {
+     "id": "6811b12f-e37f-31a1-81b3-5698cf5464ab",
+     "title": "6 kleine Präludien: Präludium C-Dur, BWV 933"
+    }
+   ],
+   "ambiguous": false,
+   "title": "6 kleine Präludien: Präludium C-Dur, BWV 933",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "6811b12f-e37f-31a1-81b3-5698cf5464ab",
+     "title": "6 kleine Präludien: Präludium C-Dur, BWV 933"
+    }
+   ]
+  },
+  {
+   "bwv": "934",
+   "id": "e9fb0b29-e911-355a-b338-b72ac758f9ea",
+   "candidates": [
+    {
+     "id": "e9fb0b29-e911-355a-b338-b72ac758f9ea",
+     "title": "6 kleine Präludien: Präludium c-Moll, BWV 934"
+    },
+    {
+     "id": "5e4b5a9b-58e4-4780-802e-b27753c42d4a",
+     "title": "6 kleine Präludien: Präludium c-Moll, BWV 934"
+    }
+   ],
+   "ambiguous": false,
+   "title": "6 kleine Präludien: Präludium c-Moll, BWV 934",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "e9fb0b29-e911-355a-b338-b72ac758f9ea",
+     "title": "6 kleine Präludien: Präludium c-Moll, BWV 934"
+    }
+   ]
+  },
+  {
+   "bwv": "935",
+   "id": "efa95dca-e138-3fc4-b0fe-2c5551ee60ff",
+   "candidates": [
+    {
+     "id": "efa95dca-e138-3fc4-b0fe-2c5551ee60ff",
+     "title": "6 kleine Präludien: Präludium d-Moll, BWV 935"
+    }
+   ],
+   "ambiguous": false,
+   "title": "6 kleine Präludien: Präludium d-Moll, BWV 935",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "efa95dca-e138-3fc4-b0fe-2c5551ee60ff",
+     "title": "6 kleine Präludien: Präludium d-Moll, BWV 935"
+    }
+   ]
+  },
+  {
+   "bwv": "936",
+   "id": "f2704054-287f-3402-bc80-812667d9b012",
+   "candidates": [
+    {
+     "id": "f2704054-287f-3402-bc80-812667d9b012",
+     "title": "6 kleine Präludien: Präludium D-Dur, BWV 936"
+    },
+    {
+     "id": "3aeaeb76-495f-40eb-a6fc-8e1178271a4c",
+     "title": "6 kleine Präludien: Präludium D-Dur, BWV 936"
+    }
+   ],
+   "ambiguous": false,
+   "title": "6 kleine Präludien: Präludium D-Dur, BWV 936",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "f2704054-287f-3402-bc80-812667d9b012",
+     "title": "6 kleine Präludien: Präludium D-Dur, BWV 936"
+    }
+   ]
+  },
+  {
+   "bwv": "937",
+   "id": "671aeca6-05b4-3a40-823b-0d12b2a2a308",
+   "candidates": [
+    {
+     "id": "671aeca6-05b4-3a40-823b-0d12b2a2a308",
+     "title": "6 kleine Präludien: Präludium E-Dur, BWV 937"
+    }
+   ],
+   "ambiguous": false,
+   "title": "6 kleine Präludien: Präludium E-Dur, BWV 937",
+   "key": "E major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "671aeca6-05b4-3a40-823b-0d12b2a2a308",
+     "title": "6 kleine Präludien: Präludium E-Dur, BWV 937"
+    }
+   ]
+  },
+  {
+   "bwv": "938",
+   "id": "481decb3-7c35-3534-85ae-2a723ab35365",
+   "candidates": [
+    {
+     "id": "481decb3-7c35-3534-85ae-2a723ab35365",
+     "title": "6 kleine Präludien: Präludium e-Moll, BWV 938"
+    }
+   ],
+   "ambiguous": false,
+   "title": "6 kleine Präludien: Präludium e-Moll, BWV 938",
+   "key": "E minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "481decb3-7c35-3534-85ae-2a723ab35365",
+     "title": "6 kleine Präludien: Präludium e-Moll, BWV 938"
+    }
+   ]
+  },
+  {
+   "bwv": "939",
+   "id": "04d4389d-76f6-368a-b662-1e592e835c54",
+   "candidates": [
+    {
+     "id": "04d4389d-76f6-368a-b662-1e592e835c54",
+     "title": "Präludium C-Dur, BWV 939"
+    },
+    {
+     "id": "23ea4e10-4aea-436a-b2c4-e92309270bdc",
+     "title": "Präludium C-Dur, BWV 939"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium C-Dur, BWV 939",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "04d4389d-76f6-368a-b662-1e592e835c54",
+     "title": "Präludium C-Dur, BWV 939"
+    }
+   ]
+  },
+  {
+   "bwv": "940",
+   "id": "037c4a97-badd-38da-9be7-2e71e9030483",
+   "candidates": [
+    {
+     "id": "037c4a97-badd-38da-9be7-2e71e9030483",
+     "title": "Präludium d-Moll, BWV 940"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium d-Moll, BWV 940",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "037c4a97-badd-38da-9be7-2e71e9030483",
+     "title": "Präludium d-Moll, BWV 940"
+    }
+   ]
+  },
+  {
+   "bwv": "941",
+   "id": "fbbc4d42-3141-32f8-b7f2-86329ef88396",
+   "candidates": [
+    {
+     "id": "fbbc4d42-3141-32f8-b7f2-86329ef88396",
+     "title": "Präludium e-Moll, BWV 941"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium e-Moll, BWV 941",
+   "key": "E minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "fbbc4d42-3141-32f8-b7f2-86329ef88396",
+     "title": "Präludium e-Moll, BWV 941"
+    }
+   ]
+  },
+  {
+   "bwv": "942",
+   "id": "326d57a3-28b4-3894-91f4-c6d9e7cc9b2f",
+   "candidates": [
+    {
+     "id": "326d57a3-28b4-3894-91f4-c6d9e7cc9b2f",
+     "title": "Präludium a-Moll, BWV 942"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium a-Moll, BWV 942",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "326d57a3-28b4-3894-91f4-c6d9e7cc9b2f",
+     "title": "Präludium a-Moll, BWV 942"
+    }
+   ]
+  },
+  {
+   "bwv": "943",
+   "id": "bb655498-b181-3df0-b71b-9cfef8acf059",
+   "candidates": [
+    {
+     "id": "bb655498-b181-3df0-b71b-9cfef8acf059",
+     "title": "Präludium C-Dur, BWV 943"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium C-Dur, BWV 943",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "bb655498-b181-3df0-b71b-9cfef8acf059",
+     "title": "Präludium C-Dur, BWV 943"
+    }
+   ]
+  }
+ ]
+}

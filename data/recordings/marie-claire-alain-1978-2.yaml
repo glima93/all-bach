@@ -1,0 +1,26 @@
+id: marie-claire-alain-1978-2
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978, 1980]
+  place: Augustenborg Slotskirke
+released: 2007
+original_label: null
+works:
+- {bwv: '943', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4accbc06-8ee7-4422-9c2b-a95a2d729327
+  title: Complete Works for Organ
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [0a362468-a039-405d-b222-856031cd52ee]

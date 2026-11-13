@@ -1,0 +1,34 @@
+id: gustav-leonhardt-undated-9
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '925', complete: true}
+- {bwv: '927', complete: true}
+- {bwv: '929', complete: true}
+- {bwv: '937', complete: true}
+- {bwv: '939', complete: true}
+- {bwv: '940', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50e96c37-1df8-47ae-aee1-e3520e9970c0
+  title: Gustav Leonhardt Edition
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [4263a48f-afba-4d03-8276-7882d39e86f0]

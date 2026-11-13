@@ -1,0 +1,28 @@
+id: justin-taylor-undated-3
+performers:
+- name: Justin Taylor
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: b‐sharp
+released: 2018
+original_label: null
+works:
+- {bwv: '932', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 23e5e29a-4c96-4019-b8b2-85722f2d3bc5
+  recordings: [f6c30298-2d09-44eb-9bb8-4a37fac8767c]

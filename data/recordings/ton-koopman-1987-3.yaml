@@ -1,0 +1,32 @@
+id: ton-koopman-1987-3
+performers:
+- name: Ton Koopman
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1987]
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '933', complete: true}
+- {bwv: '934', complete: true}
+- {bwv: '935', complete: true}
+- {bwv: '936', complete: true}
+- {bwv: '937', complete: true}
+- {bwv: '938', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a73af36-8932-423f-b2c9-a8733880554c
+  title: Cembalowerke
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [3336a5d8-2fc1-4ef0-8585-2e557014ad44]

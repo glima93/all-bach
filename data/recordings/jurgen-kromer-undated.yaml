@@ -1,0 +1,28 @@
+id: jurgen-kromer-undated
+performers:
+- name: Jürgen Krömer
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '926', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2c86d28-0d84-4b82-82d4-6a2da116ba16
+  title: Bach für Kinder - Mit Gesang und Himmelsklang
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e858ffba-2d2f-46c9-b06d-6ff20d73f914
+  recordings: [33675149-69db-4abc-bf84-14cb0b4ded12]
