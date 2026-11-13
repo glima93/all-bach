@@ -400,6 +400,18 @@ def remote_collect_branches() -> set[str]:
     return {line.split("refs/heads/collect/")[1] for line in out.splitlines() if "refs/heads/collect/" in line}
 
 
+def stale_branch(col: dict) -> bool:
+    """True when collect/<id> was collected with another mb_parent than the plan now gives: the
+    collection is collected again and the branch overwritten (the workflow pushes with --force-with-lease)."""
+    try:
+        text = subprocess.run(["git", "show", f"origin/collect/{col['id']}:data/plan/collections.yaml"],
+                              capture_output=True, text=True, check=True, cwd=ROOT).stdout
+    except (subprocess.CalledProcessError, FileNotFoundError):
+        return False
+    old = next((c for c in yaml.safe_load(text)["collections"] if c["id"] == col["id"]), {})
+    return old.get("mb_parent") != col.get("mb_parent")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--queued", action="store_true", help="collect every collection with status: queued")
@@ -415,7 +427,7 @@ def main() -> int:
     todo = [by_id[i] for i in args.collection]
     if args.queued:
         have = remote_collect_branches()
-        todo += [c for c in cols if c["status"] == "queued" and c["id"] not in have]
+        todo += [c for c in cols if c["status"] == "queued" and (c["id"] not in have or stale_branch(c))]
     if not todo:
         print("nothing to collect")
     done = []
