@@ -59,7 +59,7 @@ collections:
 - {id: keyboard-transcriptions, title: "Concerto transcriptions for keyboard", chapter: Keyboard, bwv: ["972-987"], mode: keyboard, mb_parent: 22e6c3a2-e0c7-40e5-a272-d8e3b58a3272, wave: 1, run: 14, status: queued,
    note: "After Vivaldi, Marcello, Telemann and others"}
 - {id: little-preludes, title: "Little Preludes", chapter: Keyboard, bwv: ["924-943"], mode: keyboard, wave: 1, run: 14, status: imported}
-- {id: keyboard-sonatas-variations, title: "Sonatas, Variations and Capriccios", chapter: Keyboard, bwv: ["963-970", "989-994"], mode: keyboard, wave: 1, run: 15, status: queued,
+- {id: keyboard-sonatas-variations, title: "Sonatas, Variations and Capriccios", chapter: Keyboard, bwv: ["963-970", "989-994"], mode: keyboard, wave: 1, run: 15, status: collected,
    note: "Includes the Capriccio on the departure of a beloved brother (992) and the Aria variata (989)"}
 - {id: other-keyboard-suites, title: "Other suites and pieces for keyboard", chapter: Keyboard, bwv: ["818-824", "832-845"], mode: keyboard, wave: 1, run: 15, status: queued}
 - {id: organ-preludes-fugues, title: "Preludes and Fugues for organ", chapter: Organ, bwv: ["531-551"], mode: organ, wave: 1, run: 16, status: todo}

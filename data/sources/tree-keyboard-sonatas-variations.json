@@ -1,0 +1,464 @@
+{
+ "collection": "keyboard-sonatas-variations",
+ "taken": "2026-11-13",
+ "recordings": 770,
+ "performances": 118,
+ "works": [
+  {
+   "bwv": "963",
+   "id": "a0092d45-f36f-4b32-9937-d0bae7cb4c1d",
+   "candidates": [
+    {
+     "id": "a0092d45-f36f-4b32-9937-d0bae7cb4c1d",
+     "title": "Sonate D-Dur, BWV 963"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate D-Dur, BWV 963",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "4ccb0bcf-ae82-3181-9546-5e8ce96ff597",
+     "title": "Sonate D-Dur, BWV 963: I. (Ohne Bezeichnung)"
+    },
+    {
+     "id": "3ad3107a-1e88-3c07-b252-6621fb1caa0a",
+     "title": "Sonate D-Dur, BWV 963: II. (Ohne Bezeichnung)"
+    },
+    {
+     "id": "5d593ad5-b901-3920-a911-5c65efbd31a4",
+     "title": "Sonate D-Dur, BWV 963: III. (Ohne Bezeichnung)"
+    },
+    {
+     "id": "7d045bc7-d8ec-392d-9ecd-24d59e8204f0",
+     "title": "Sonate D-Dur, BWV 963: IV. Adagio"
+    },
+    {
+     "id": "75e5244b-c85e-3eb7-96e1-1eac170116a7",
+     "title": "Sonate D-Dur, BWV 963: V. Thema all'Imitatio Gallina Cuccu"
+    }
+   ]
+  },
+  {
+   "bwv": "964",
+   "id": "85638840-2960-4c21-b5bc-7f6c5f0f5dc2",
+   "candidates": [
+    {
+     "id": "85638840-2960-4c21-b5bc-7f6c5f0f5dc2",
+     "title": "Sonata in D minor, BWV 964"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonata in D minor, BWV 964",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "b15f6514-640c-3a9d-8ebb-efcf1f32d2c6",
+     "title": "Sonata in D minor, BWV 964: I. Adagio"
+    },
+    {
+     "id": "34ec8723-6ed2-3121-8954-ff694679eddd",
+     "title": "Sonata in D minor, BWV 964: II. Fuga. Allegro"
+    },
+    {
+     "id": "c3e66f64-df01-352f-94bf-32fe0a4a1781",
+     "title": "Sonata in D minor, BWV 964: III. Andante"
+    },
+    {
+     "id": "9b78f44b-ed14-3ec1-a8ac-bd987eac13cf",
+     "title": "Sonata in D minor, BWV 964: IV. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "965",
+   "id": "e09f290c-73f4-43bd-941e-0cda7857c908",
+   "candidates": [
+    {
+     "id": "e09f290c-73f4-43bd-941e-0cda7857c908",
+     "title": "Sonata a-Moll nach Johann Adam Reincken, BWV 965"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonata a-Moll nach Johann Adam Reincken, BWV 965",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "332ce668-da59-3acb-ab44-839930a28883",
+     "title": "Sonata a-Moll nach Johann Adam Reincken, BWV 965: I. Adagio"
+    },
+    {
+     "id": "4f87d3e9-17d2-36ad-91e4-d86d7dba973f",
+     "title": "Sonata a-Moll nach Johann Adam Reincken, BWV 965: II. Fugue"
+    },
+    {
+     "id": "b6128259-ac00-33f3-86a1-bc679d2c0b71",
+     "title": "Sonata a-Moll nach Johann Adam Reincken, BWV 965: III. Adagio - Presto"
+    },
+    {
+     "id": "96a47db8-8978-332e-8ea9-31e743fecf11",
+     "title": "Sonata a-Moll nach Johann Adam Reincken, BWV 965: IV. Allemande"
+    },
+    {
+     "id": "04c447c3-acc4-3b01-802d-cd2994788ed5",
+     "title": "Sonata a-Moll nach Johann Adam Reincken, BWV 965: V. Courante"
+    },
+    {
+     "id": "e6361d92-6fb3-31c8-a2c2-44f230fc9e96",
+     "title": "Sonata a-Moll nach Johann Adam Reincken, BWV 965: VI. Sarabande"
+    },
+    {
+     "id": "e05f974b-f678-38c1-b330-cf97e446f8b9",
+     "title": "Sonata a-Moll nach Johann Adam Reincken, BWV 965: VII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "966",
+   "id": "7e30d3d6-5ff5-42f3-8915-56fc8d6d08de",
+   "candidates": [
+    {
+     "id": "7e30d3d6-5ff5-42f3-8915-56fc8d6d08de",
+     "title": "Sonata in C major, BWV 966"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonata in C major, BWV 966",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0ab0db61-ab09-3335-9472-c789fc6e8c0e",
+     "title": "Sonata in C major, BWV 966: I. Praeludium"
+    },
+    {
+     "id": "5953f657-1aa1-3fd7-ade9-b8ccfc12aac3",
+     "title": "Sonata in C major, BWV 966: II. Fuga"
+    },
+    {
+     "id": "7c80e0c7-2d38-3a47-bdd9-8673802d0ef6",
+     "title": "Sonata in C major, BWV 966: III. Adagio"
+    },
+    {
+     "id": "054932b3-15c1-3709-bc11-2f2289ac231b",
+     "title": "Sonata in C major, BWV 966: IV. [Allegro]"
+    },
+    {
+     "id": "3b1a89d0-f6ec-3147-85af-0f9c16e20da2",
+     "title": "Sonata in C major, BWV 966: V. Allemande"
+    },
+    {
+     "id": "ccbd3243-b1b6-326c-8b47-a7e53cb210cb",
+     "title": "Sonata in C major, BWV 966: VI. Courante"
+    },
+    {
+     "id": "8a062bad-40ba-3305-aad3-fec6f784f78e",
+     "title": "Sonata in C major, BWV 966: VII. Sarabande"
+    },
+    {
+     "id": "a2a3ee89-e104-3c53-b36e-73a5f45f0af5",
+     "title": "Sonata in C major, BWV 966: VIII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "967",
+   "id": "097c8298-89c1-3aa7-84d8-e14e0b9deba2",
+   "candidates": [
+    {
+     "id": "097c8298-89c1-3aa7-84d8-e14e0b9deba2",
+     "title": "Sonate a-Moll, BWV 967"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sonate a-Moll, BWV 967",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "097c8298-89c1-3aa7-84d8-e14e0b9deba2",
+     "title": "Sonate a-Moll, BWV 967"
+    }
+   ]
+  },
+  {
+   "bwv": "969",
+   "id": "1dea19b0-a5b6-4a36-9840-c4175948b429",
+   "candidates": [
+    {
+     "id": "1dea19b0-a5b6-4a36-9840-c4175948b429",
+     "title": "Andante in G minor, BWV 969"
+    },
+    {
+     "id": "ce2e6fe5-e5d5-4c7b-a691-44e0008a2231",
+     "title": "Andante in G minor, BWV 969"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Andante in G minor, BWV 969",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "1dea19b0-a5b6-4a36-9840-c4175948b429",
+     "title": "Andante in G minor, BWV 969"
+    }
+   ]
+  },
+  {
+   "bwv": "989",
+   "id": "45234525-e7d6-342c-80d4-6b8b72e5c36c",
+   "candidates": [
+    {
+     "id": "45234525-e7d6-342c-80d4-6b8b72e5c36c",
+     "title": "Aria variata, BWV 989"
+    },
+    {
+     "id": "a87b17ea-034e-4acc-bda3-ce9f99b9740a",
+     "title": "Aria variata, BWV 989"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Aria variata, BWV 989",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "18f7dc5e-75f4-376f-b45f-a6f16fa9f6f0",
+     "title": "Aria variata, BWV 989: I. Thema"
+    },
+    {
+     "id": "108c22dc-79fd-3fc3-a619-d1753e9d3600",
+     "title": "Aria variata, BWV 989: II. Var. 1 (Largo)"
+    },
+    {
+     "id": "e2b69e8f-f9dd-31bd-9b52-b3dfc84b88df",
+     "title": "Aria variata, BWV 989: III. Var. 2"
+    },
+    {
+     "id": "933f2cd8-fd45-3f39-a6af-5366c5f5c347",
+     "title": "Aria variata, BWV 989: IV. Var. 3"
+    },
+    {
+     "id": "384702e8-5454-3710-af91-653c3c96e406",
+     "title": "Aria variata, BWV 989: V. Var. 4 (Allegro)"
+    },
+    {
+     "id": "3b7c46fc-5672-332d-ba14-3546d4d0af12",
+     "title": "Aria variata, BWV 989: VI. Var 5 (Un poco allegro)"
+    },
+    {
+     "id": "f642a282-ce74-3cbc-9915-fd10c0c54800",
+     "title": "Aria variata, BWV 989: VII. Var. 6 (Andante)"
+    },
+    {
+     "id": "2441cd2c-9ae0-3c9e-a9ba-8526c2e71a15",
+     "title": "Aria variata, BWV 989: VIII. Var. 7 (Un poco allegro)"
+    },
+    {
+     "id": "e92e0db8-fd25-3cb8-bb23-09a62858a462",
+     "title": "Aria variata, BWV 989: IX. Var. 8 (Allegro)"
+    },
+    {
+     "id": "db497e75-4c46-31ef-b855-2f36c9530320",
+     "title": "Aria variata, BWV 989: X. Var. 9"
+    },
+    {
+     "id": "3c427960-f18c-3155-afe2-e7c610506343",
+     "title": "Aria variata, BWV 989: XI. Var. 10"
+    }
+   ]
+  },
+  {
+   "bwv": "990",
+   "id": "4baa245f-4433-4fd8-941a-394b29045886",
+   "candidates": [
+    {
+     "id": "4baa245f-4433-4fd8-941a-394b29045886",
+     "title": "Sarabande con partite in C Major, BWV 990"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sarabande con partite in C Major, BWV 990",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "9f06adc3-264a-3c18-bd0c-d92f94a64f4a",
+     "title": "Sarabande h-Moll, BWV 990: I."
+    },
+    {
+     "id": "ac970e30-3b41-3315-bcbb-c13c88035769",
+     "title": "Sarabande h-Moll, BWV 990: II."
+    },
+    {
+     "id": "f46de910-b2d5-35c5-b052-c0a427caba78",
+     "title": "Sarabande h-Moll, BWV 990: III."
+    },
+    {
+     "id": "d3561ae3-2516-3862-a797-181ea5ec7271",
+     "title": "Sarabande h-Moll, BWV 990: IV."
+    },
+    {
+     "id": "010ec4e4-f8e1-359a-aca7-07929cca182d",
+     "title": "Sarabande h-Moll, BWV 990: V."
+    },
+    {
+     "id": "c772e13a-b6b6-311a-bda0-5e1d040bccc4",
+     "title": "Sarabande h-Moll, BWV 990: VI."
+    },
+    {
+     "id": "5f56ee37-d614-3bab-a819-052337a939cb",
+     "title": "Sarabande h-Moll, BWV 990: VII."
+    },
+    {
+     "id": "3e52e88b-fb44-31a9-8c98-c692cd11240a",
+     "title": "Sarabande h-Moll, BWV 990: VIII."
+    },
+    {
+     "id": "7cc45f25-8b88-3b78-8c92-3afe8af2c22b",
+     "title": "Sarabande h-Moll, BWV 990: IX."
+    },
+    {
+     "id": "33cf28b0-87d6-380a-b8cc-915f2a36d28e",
+     "title": "Sarabande h-Moll, BWV 990: X."
+    },
+    {
+     "id": "26073e42-4038-3a65-ab09-f1a2d356a400",
+     "title": "Sarabande h-Moll, BWV 990: XI."
+    },
+    {
+     "id": "ceb8d057-7aaf-34ee-af3e-6760f53524a5",
+     "title": "Sarabande h-Moll, BWV 990: XII."
+    },
+    {
+     "id": "e5d9816c-20a9-39e5-b295-1791212ccedc",
+     "title": "Sarabande h-Moll, BWV 990: XIII."
+    },
+    {
+     "id": "235f3ccd-ee2c-3243-8d11-8ed1241e64a9",
+     "title": "Sarabande h-Moll, BWV 990: XIV."
+    },
+    {
+     "id": "6efcc274-4aac-3288-a8d9-2401915425e6",
+     "title": "Sarabande h-Moll, BWV 990: XV."
+    },
+    {
+     "id": "5c11aedb-2696-3ab1-8eae-5ae5d669c4cf",
+     "title": "Sarabande h-Moll, BWV 990: XVI."
+    }
+   ]
+  },
+  {
+   "bwv": "991",
+   "id": "98c0d2c2-c077-4ce4-87f8-70df7059ed77",
+   "candidates": [
+    {
+     "id": "98c0d2c2-c077-4ce4-87f8-70df7059ed77",
+     "title": "Air with Variations in C minor, BWV 991"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Air with Variations in C minor, BWV 991",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "98c0d2c2-c077-4ce4-87f8-70df7059ed77",
+     "title": "Air with Variations in C minor, BWV 991"
+    }
+   ]
+  },
+  {
+   "bwv": "992",
+   "id": "e730f208-b54b-4b68-8265-54ca114c50be",
+   "candidates": [
+    {
+     "id": "e730f208-b54b-4b68-8265-54ca114c50be",
+     "title": "Capriccio sopra la lontananza del suo fratello dilettissimo, BWV 992"
+    },
+    {
+     "id": "7ff013fc-ee01-4c46-b6b0-d362a14fbe9e",
+     "title": "Capriccio sopra la lontananza del suo fratello dilettissimo, BWV 992, BV B 34"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Capriccio sopra la lontananza del suo fratello dilettissimo, BWV 992",
+   "key": "B-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "a347d0c4-1692-3ca3-ad98-70d7481ddb20",
+     "title": "Capriccio sopra la lontananza del suo fratello dilettissimo, BWV 992: I. Arioso - Adagio"
+    },
+    {
+     "id": "1cca11aa-3084-3081-927a-779798f17407",
+     "title": "Capriccio sopra la lontananza del suo fratello dilettissimo, BWV 992: II. (Andante)"
+    },
+    {
+     "id": "60a3ae17-e666-3035-a526-2d06674af366",
+     "title": "Capriccio sopra la lontananza del suo fratello dilettissimo, BWV 992: III. Adagiosissimo"
+    },
+    {
+     "id": "5ae51eab-7cc9-32b9-a709-3e3cc8302c6c",
+     "title": "Capriccio sopra la lontananza del suo fratello dilettissimo, BWV 992: IV. (Andante con Moto)"
+    },
+    {
+     "id": "6f00c6df-38ec-36b2-a7cf-dfdd6272c688",
+     "title": "Capriccio sopra la lontananza del suo fratello dilettissimo, BWV 992: V. Allegro poco. Aria de il Postiglione"
+    },
+    {
+     "id": "74b38a74-ac31-34f7-90ad-f9e31be92950",
+     "title": "Capriccio sopra la lontananza del suo fratello dilettissimo, BWV 992: VI. Fuga al imitatione di Posta"
+    }
+   ]
+  },
+  {
+   "bwv": "993",
+   "id": "a021ba1b-2ff2-3f6a-ae7d-7af9659b343c",
+   "candidates": [
+    {
+     "id": "a021ba1b-2ff2-3f6a-ae7d-7af9659b343c",
+     "title": "Capriccio in honorem Johann Christoph Bachii Ohrdufiensis E-Dur, BWV 993"
+    },
+    {
+     "id": "67464854-38a8-4e2c-8793-543945afedfc",
+     "title": "Capriccio in honorem Johann Christoph Bachii Ohrdufiensis E-Dur, BWV 993"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Capriccio in honorem Johann Christoph Bachii Ohrdufiensis E-Dur, BWV 993",
+   "key": "E major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "a021ba1b-2ff2-3f6a-ae7d-7af9659b343c",
+     "title": "Capriccio in honorem Johann Christoph Bachii Ohrdufiensis E-Dur, BWV 993"
+    }
+   ]
+  },
+  {
+   "bwv": "994",
+   "id": "d0d460cf-a1f7-3bb3-92f8-b3e57daec2e8",
+   "candidates": [
+    {
+     "id": "d0d460cf-a1f7-3bb3-92f8-b3e57daec2e8",
+     "title": "Application C-Dur, BWV 994"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Application C-Dur, BWV 994",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "d0d460cf-a1f7-3bb3-92f8-b3e57daec2e8",
+     "title": "Application C-Dur, BWV 994"
+    }
+   ]
+  }
+ ]
+}
