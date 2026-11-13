@@ -56,7 +56,7 @@ collections:
 - {id: toccatas, title: "Toccatas", chapter: Keyboard, bwv: ["910-916"], mode: keyboard, wave: 1, run: 13, status: imported}
 - {id: keyboard-preludes-fugues, title: "Fantasias, Preludes and Fugues for keyboard", chapter: Keyboard, bwv: ["894-909", "917-923", "944-962"], mode: keyboard, wave: 1, run: 13, status: imported,
    note: "Includes the Chromatic Fantasia and Fugue (903)"}
-- {id: keyboard-transcriptions, title: "Concerto transcriptions for keyboard", chapter: Keyboard, bwv: ["972-987"], mode: keyboard, mb_parent: 22e6c3a2-e0c7-40e5-a272-d8e3b58a3272, wave: 1, run: 14, status: queued,
+- {id: keyboard-transcriptions, title: "Concerto transcriptions for keyboard", chapter: Keyboard, bwv: ["972-987"], mode: keyboard, mb_parent: 22e6c3a2-e0c7-40e5-a272-d8e3b58a3272, wave: 1, run: 14, status: collected,
    note: "After Vivaldi, Marcello, Telemann and others"}
 - {id: little-preludes, title: "Little Preludes", chapter: Keyboard, bwv: ["924-943"], mode: keyboard, wave: 1, run: 14, status: imported}
 - {id: keyboard-sonatas-variations, title: "Sonatas, Variations and Capriccios", chapter: Keyboard, bwv: ["963-970", "989-994"], mode: keyboard, wave: 1, run: 15, status: queued,
