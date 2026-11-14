@@ -1,0 +1,32 @@
+id: olivier-baumont-1998-3
+performers:
+- name: Olivier Baumont
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '973', complete: true}
+- {bwv: '975', complete: true}
+- {bwv: '976', complete: true}
+- {bwv: '978', complete: true}
+- {bwv: '980', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52b921d9-43c3-4755-8787-c22c0d439a07
+  recordings: [c302dfd7-62fb-45de-bcd4-82ff810c395f]

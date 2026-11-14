@@ -1,0 +1,18 @@
+bwv: "963"
+title: "Sonata in D major"
+key: "D major"
+collection: "Sonatas, Variations and Capriccios"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: null
+movements:
+  - "I. (no tempo marking)"
+  - "II. (no tempo marking)"
+  - "III. (no tempo marking)"
+  - "IV. Adagio"
+  - "V. Thema all'imitatio gallina cuccu"
+notes: "An early keyboard sonata that survives in the manuscript collection P 804 of the Berlin State Library; its final movement imitates the calls of a hen and a cuckoo."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/a0092d45-f36f-4b32-9937-d0bae7cb4c1d

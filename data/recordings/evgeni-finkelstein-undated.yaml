@@ -1,0 +1,28 @@
+id: evgeni-finkelstein-undated
+performers:
+- name: Evgeni Finkelstein
+  role: classical guitar
+instrument: guitar
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Acoustic Music Records Studio
+released: 2004
+original_label: null
+works:
+- {bwv: '964', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e9f91bac-d49f-4e7d-90e0-c13924aa2fc1
+  title: Sonata
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d5be888e-b59e-49ba-8875-64a0d5054d04
+  recordings: [6854819c-1476-49e1-a4be-1d3ea77a4871]

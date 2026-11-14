@@ -1,0 +1,28 @@
+id: olga-martynova-undated
+performers:
+- name: Olga Martynova
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '965', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d3a05601-a226-4e52-af66-2d6af4156df2
+  title: The Great Transcriptions
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2eb45768-0f37-478d-9a14-3bf83e3759fa
+  recordings: [b7d025b0-5925-4157-a4c4-2fffae59e3b6]

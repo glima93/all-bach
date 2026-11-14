@@ -1,0 +1,26 @@
+id: rudolf-serkin-1973
+performers:
+- name: Rudolf Serkin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1973]
+  place: Royal Festival Hall
+released: 2006
+original_label: null
+works:
+- {bwv: '992', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/700c7d10-75f8-4994-b1bd-c2bdb843c7b1
+  title: 'Bach: Capriccio / Reger: Variations and Fugue / Beethoven: Piano Sonatas'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 005da96d-67fb-4723-ad78-b0571b6ce076
+  recordings: [f64c012a-1ff2-408c-bfee-2281287fe07d]

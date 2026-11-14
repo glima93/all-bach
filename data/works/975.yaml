@@ -1,0 +1,16 @@
+bwv: "975"
+title: "Concerto in G minor after Vivaldi"
+key: "G minor"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. [Allegro]"
+  - "II. Largo"
+  - "III. Giga"
+notes: "After Vivaldi's Violin Concerto in G minor, RV 316, a variant of which (RV 316a) was published as Op. 4 No. 6. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/6aca9710-721a-4c55-9a57-12641f8f9b54

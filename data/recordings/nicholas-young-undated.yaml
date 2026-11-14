@@ -1,0 +1,28 @@
+id: nicholas-young-undated
+performers:
+- name: Nicholas Young
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '965', complete: false, movements: [VII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a9b9f0b-2f30-411f-a037-f1b5460ab46a
+  title: 'Sonata in A minor, BWV 965: VII. Gigue'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27739493-b0c0-4de0-ab25-967f3bd42f1e
+  recordings: [1e99792c-854d-4b24-a850-0c97fe9ef7b6]

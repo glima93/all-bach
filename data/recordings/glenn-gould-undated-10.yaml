@@ -1,0 +1,28 @@
+id: glenn-gould-undated-10
+performers:
+- name: Glenn Gould
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '989', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/280ac95e-4934-4479-b491-8302256116cf
+  title: 'The Art of J.S. Bach: Ryuichi Sakamoto Selections'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7002bf88-1269-4965-a772-4ba1e7a91eaa
+  recordings: [32d64e96-48ac-4eca-8307-2c93bbaf3d6d]

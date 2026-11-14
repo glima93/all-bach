@@ -1,0 +1,41 @@
+id: huguette-dreyfus-1989
+performers:
+- name: Huguette Dreyfus
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: Église luthérienne Saint-Pierre
+released: 2018
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '973', complete: true}
+- {bwv: '974', complete: true}
+- {bwv: '975', complete: true}
+- {bwv: '976', complete: true}
+- {bwv: '977', complete: true}
+- {bwv: '978', complete: true}
+- {bwv: '979', complete: true}
+- {bwv: '980', complete: true}
+- {bwv: '981', complete: true}
+- {bwv: '982', complete: true}
+- {bwv: '983', complete: true}
+- {bwv: '984', complete: true}
+- {bwv: '985', complete: true}
+- {bwv: '986', complete: true}
+- {bwv: '987', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/83a470b4-7655-4dfb-a28e-4ff65cd6a742
+  title: 16 Harpsichord Transcriptions of Concerti by Various Composers, BWV 972-987
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a69af194-3fc4-44eb-92a0-402422470e42
+  recordings: [439cfaf0-707f-48ad-835e-7e988458fead]

@@ -1,0 +1,34 @@
+id: sophie-yates-2012
+performers:
+- name: Sophie Yates
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2012]
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '973', complete: true}
+- {bwv: '974', complete: true}
+- {bwv: '975', complete: true}
+- {bwv: '976', complete: true}
+- {bwv: '978', complete: true}
+- {bwv: '980', complete: true}
+- {bwv: '981', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a4ae807f-fe06-4bc3-b6db-18749e33d13c
+  title: The Transcriptions of Concertos by Vivaldi
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 64202f32-bff7-462c-9c9f-fe9adb2f7a78
+  recordings: [e4465eb4-be2e-4a48-8b66-73f1df6f51df]

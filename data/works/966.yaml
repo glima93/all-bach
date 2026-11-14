@@ -1,0 +1,21 @@
+bwv: "966"
+title: "Sonata in C major after Reincken"
+key: "C major"
+collection: "Sonatas, Variations and Capriccios"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "before 1717"
+movements:
+  - "I. Prelude"
+  - "II. Fugue"
+  - "III. Adagio"
+  - "IV. [Allegro]"
+  - "V. Allemande"
+  - "VI. Courante"
+  - "VII. Sarabande"
+  - "VIII. Gigue"
+notes: "Arrangement of the third sonata from Johann Adam Reincken's Hortus musicus (Hamburg, 1687), with the fugue newly worked out on Reincken's theme. The earliest source is a copy by Johann Gottfried Walther made before 1717."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/7e30d3d6-5ff5-42f3-8915-56fc8d6d08de

@@ -1,0 +1,28 @@
+id: cedric-tiberghien-undated
+performers:
+- name: Cédric Tiberghien
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '989', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/52000bb9-3ef6-4cde-969c-ed76becc2a36
+  title: Variation[s], Vol. 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 004cf556-547f-4d56-ae8c-7ed6a27a6c41
+  recordings: [6a5bca25-f041-4e43-a86d-319cb3095db0]

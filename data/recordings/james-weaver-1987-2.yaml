@@ -1,0 +1,26 @@
+id: james-weaver-1987-2
+performers:
+- name: James Weaver
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1987]
+  place: The National Museum of American History
+released: 1990
+original_label: null
+works:
+- {bwv: '974', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6efaff28-aecc-40b5-b66e-99e57a2ee2d3
+  title: Concerto in D Minor After Marcello, BWV 974 / Italian Concerto, BWV 971 / French Overture, BWV 831
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: feb989a7-d009-4d81-b873-abca73e3d045
+  recordings: [3e387631-448b-4c09-a27b-cb63168d5e31]

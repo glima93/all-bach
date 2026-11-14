@@ -1,0 +1,41 @@
+id: peter-watchorn-2000
+performers:
+- name: Peter Watchorn
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Futura Studios
+released: 2000
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '973', complete: true}
+- {bwv: '974', complete: true}
+- {bwv: '975', complete: true}
+- {bwv: '976', complete: true}
+- {bwv: '977', complete: true}
+- {bwv: '978', complete: true}
+- {bwv: '979', complete: true}
+- {bwv: '980', complete: true}
+- {bwv: '981', complete: true}
+- {bwv: '982', complete: true}
+- {bwv: '983', complete: true}
+- {bwv: '984', complete: true}
+- {bwv: '985', complete: true}
+- {bwv: '986', complete: true}
+- {bwv: '987', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ffd796a0-c257-4cdb-9eb6-bc4e42a2d838
+  title: 'Concerti: Bearbeitungen nach verschiedenen Meistern, BWV 972–987'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e30bbf33-011b-405b-bc89-e85e2154fb1d
+  recordings: [9bd8c7bc-d4d6-4f09-8ae8-55282d4c39ef]

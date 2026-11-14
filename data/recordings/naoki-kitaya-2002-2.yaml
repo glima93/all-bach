@@ -1,0 +1,27 @@
+id: naoki-kitaya-2002-2
+performers:
+- name: Naoki Kitaya
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2002]
+  place: Kirche Neumünster
+released: 2004
+original_label: null
+works:
+- {bwv: '973', complete: true}
+- {bwv: '977', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6863a1c2-1162-48ad-b4de-fad5afb85c1d
+  title: 8 concerti per clavicembalo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c9d7217a-469d-45a4-9ae8-6e749e12b7fb
+  recordings: [a78fd397-253a-479b-978c-642d13da6370]

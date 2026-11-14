@@ -1,0 +1,31 @@
+id: gerard-dekker-1983
+performers:
+- name: Gerard Dekker
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1983]
+  place: Sint-Antoniuskerk
+released: 1983
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '973', complete: true}
+- {bwv: '974', complete: true}
+- {bwv: '980', complete: true}
+- {bwv: '981', complete: true}
+- {bwv: '982', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/611ade13-4858-4d9a-8c38-120de054cf5e
+  title: Siebzehn Konzerte nach verschiedenen Meistern für Cembalo Solo - 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bd267bf1-6eec-45a5-9524-1ca0d31419fb
+  recordings: [44c956a9-9fd2-4b4a-9c99-70f1c97b5e58]

@@ -1,0 +1,28 @@
+id: rinaldo-alessandrini-2020
+performers:
+- name: Rinaldo Alessandrini
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: 'Pontificio Istituto di Musica Sacra: Sala Accademica'
+released: 2022
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '976', complete: true}
+- {bwv: '978', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3256541d-8db8-47af-8080-ea7bad504e9c
+  title: 'Vivaldi: 12 Concertos, op. 3 “L’estro armonico” / Bach: Keyboards Arrangements'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fe8e649-728d-4ae6-969c-25947ff9bb96
+  recordings: [2b789f72-9c17-4e75-984a-1938c729cfc6]

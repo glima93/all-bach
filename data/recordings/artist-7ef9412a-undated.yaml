@@ -1,0 +1,29 @@
+id: artist-7ef9412a-undated
+performers:
+- name: Дмитрий Маслеев
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '974', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9654774d-cc7b-485d-8aee-09d240ab3261
+  title: Dies Irae
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ef9412a-58ea-42e5-9be2-70b1d4c793a4
+  recordings: [d4207ebc-f158-48cf-99a0-0043ede7836e]

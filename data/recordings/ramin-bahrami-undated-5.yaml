@@ -1,0 +1,30 @@
+id: ramin-bahrami-undated-5
+performers:
+- name: Ramin Bahrami
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Chiesa della BV Maria Del Monte Carmelo al Colletto
+released: 2018
+original_label: null
+works:
+- {bwv: '963', complete: true}
+- {bwv: '964', complete: true}
+- {bwv: '967', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62dbb816-f984-4cb3-bd32-881ad08fa59a
+  recordings: [1da59d8f-8591-4016-98bf-0d50b20bd51c]

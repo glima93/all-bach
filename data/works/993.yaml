@@ -1,0 +1,14 @@
+bwv: "993"
+title: "Capriccio in Honour of Johann Christoph Bach"
+key: "E major"
+collection: "Sonatas, Variations and Capriccios"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1705"
+movements:
+  - "Capriccio in honorem Johann Christoph Bachii Ohrdrufiensis"
+notes: "Early capriccio dedicated to Bach's eldest brother Johann Christoph Bach of Ohrdruf; it includes a part for pedal and survives in the manuscript collection P 804 of the Berlin State Library."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/a021ba1b-2ff2-3f6a-ae7d-7af9659b343c

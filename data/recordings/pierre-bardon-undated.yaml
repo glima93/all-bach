@@ -1,0 +1,29 @@
+id: pierre-bardon-undated
+performers:
+- name: Pierre Bardon
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '975', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf9f441b-b4da-4bb8-a18b-197bf5cf2d7d
+  title: Concertos pour orgue et orchestre
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 656dfcaf-2f93-43a1-ae17-5a0f65428c11
+  recordings: [2dc1ffad-4bf9-45f3-bce6-a3271e035c6b]

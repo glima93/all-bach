@@ -1,0 +1,30 @@
+id: justin-taylor-2023-4
+performers:
+- name: Justin Taylor
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2023]
+  place: Château d'Assas
+released: 2023
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '973', complete: false, movements: [II. Largo]}
+- {bwv: '974', complete: true}
+- {bwv: '978', complete: true}
+- {bwv: '979', complete: false, movements: [IV. Andante]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b22ccfc5-b7e2-48ff-9fee-33f3d8c4d6e2
+  title: Bach & l’Italie
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 23e5e29a-4c96-4019-b8b2-85722f2d3bc5
+  recordings: [b18fdfba-0529-4eed-bcb2-c6b4d31efe34]

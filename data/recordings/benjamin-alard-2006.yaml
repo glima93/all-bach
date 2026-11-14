@@ -1,0 +1,27 @@
+id: benjamin-alard-2006
+performers:
+- name: Benjamin Alard
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '978', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d77fd6b9-ff11-44e0-96c6-6c8faf67a210
+  title: 'Benjamin Alard joue J.S. Bach: Transcriptions pour clavecin'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [4a1d03f7-88b0-4df9-afb9-e901e22767c7]

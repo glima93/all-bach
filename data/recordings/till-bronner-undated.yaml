@@ -1,0 +1,30 @@
+id: till-bronner-undated
+performers:
+- name: Till Brönner
+  role: brass
+- name: Dieter Ilg
+  role: bass
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Schloss Elmau
+released: 2016
+original_label: null
+works:
+- {bwv: '991', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fb54d6d5-ee58-4ced-b650-8d97cd69db1e
+  title: Nightfall
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on brass, bass.
+musicbrainz:
+  artist: f6705e91-319c-4ef2-879b-4f4e670e38ee
+  recordings: [44bc41cc-f72b-481d-a804-8d620d18be21]

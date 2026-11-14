@@ -1,0 +1,29 @@
+bwv: "990"
+title: "Sarabande con partite in C major"
+key: "C major"
+collection: "Sonatas, Variations and Capriccios"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: null
+movements:
+  - "I. Sarabande"
+  - "II. Partita 1"
+  - "III. Partita 2"
+  - "IV. Partita 3"
+  - "V. Partita 4"
+  - "VI. Partita 5"
+  - "VII. Partita 6"
+  - "VIII. Partita 7"
+  - "IX. Partita 8"
+  - "X. Partita 9"
+  - "XI. Partita 10"
+  - "XII. Partita 11"
+  - "XIII. Partita 12"
+  - "XIV. Partita 13"
+  - "XV. Partita 14"
+  - "XVI. Partita 15"
+notes: "A sarabande followed by fifteen variations (partite), loosely related to music from Jean-Baptiste Lully's opera Bellérophon (1679). Its attribution to Bach is doubtful, and it is published among the keyboard works of doubtful authenticity."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/4baa245f-4433-4fd8-941a-394b29045886

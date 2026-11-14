@@ -1,0 +1,28 @@
+id: ksenija-sidorova-undated-2
+performers:
+- name: Ksenija Sidorova
+  role: accordion
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Schloss Elmau
+released: 2020
+original_label: null
+works:
+- {bwv: '974', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/edb8c2e4-ef5a-45b0-b966-ac26157de51e
+  title: Piazzolla Reflections
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on accordion.
+musicbrainz:
+  artist: 3daef105-1d80-428f-a1de-a5ea5ff3fe10
+  recordings: [71675435-faa0-45a1-879a-83300ac1c0d7]

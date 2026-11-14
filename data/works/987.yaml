@@ -1,0 +1,16 @@
+bwv: "987"
+title: "Concerto in D minor after Prince Johann Ernst of Saxe-Weimar"
+key: "D minor"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. Grave – Presto – Grave – Presto – Grave"
+  - "II. Allegro – Adagio"
+  - "III. Vivace"
+notes: "After Prince Johann Ernst of Saxe-Weimar's Concerto Op. 1 No. 4. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/8a65c10f-ad5e-4702-8475-e782f945942a

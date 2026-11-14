@@ -1,0 +1,27 @@
+id: jean-guillou-undated-2
+performers:
+- name: Jean Guillou
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Lutherkirche
+released: 2018
+original_label: null
+works:
+- {bwv: '972', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65542956-ed7d-4ef3-b653-4a729c94ad8d
+  recordings: [20506d25-cb86-45c4-8173-7a198b53d7fe]

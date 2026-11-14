@@ -1,0 +1,29 @@
+id: sviatoslav-richter-undated-4
+performers:
+- name: Sviatoslav Richter
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '966', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fe71c3b9-7f32-4e36-a2de-5220929f0ede
+  title: French Ouverture, BWV 831 / Toccata, BWV 912 & Sonata, BWV 966 / Italian Concerto, BWV 971
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2014bfbb-c65d-45dc-9973-35bead3833fa
+  recordings: [542e7ad0-c262-409b-96d2-d8e9f94b4dba]

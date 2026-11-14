@@ -1,0 +1,28 @@
+id: vadim-chaimovich-undated
+performers:
+- name: Vadim Chaimovich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '974', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d1450a1f-7b7b-4bc4-a2c1-640c702f08d6
+  title: Rarities and Masterpieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b32f6793-8a95-426c-b203-38aedd34bdf6
+  recordings: [8fa47bb4-c8d3-4650-bcc0-d125352073d9]

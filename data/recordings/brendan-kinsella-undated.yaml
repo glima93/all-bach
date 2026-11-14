@@ -1,0 +1,28 @@
+id: brendan-kinsella-undated
+performers:
+- name: Brendan Kinsella
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '989', complete: false, movements: ['II. Variation 1: Largo', III. Variation 2, IV. Variation 3]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3e51196b-43b8-4826-bf30-02dbaf50f675
+  title: Aria Variata, BWV 989
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a8f719f6-e719-45f9-8e91-e8509faf1671
+  recordings: [d542bd7c-4326-460b-b5ac-fbc22d6cc545]

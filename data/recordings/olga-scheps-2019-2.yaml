@@ -1,0 +1,26 @@
+id: olga-scheps-2019-2
+performers:
+- name: Olga Scheps
+  role: grand piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2019]
+  place: Konzertsaal »Ackerscheune«
+released: 2019
+original_label: null
+works:
+- {bwv: '974', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0cf1baa0-f415-4812-b1d3-eed701958415
+  title: Melody
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 563783f7-f29c-42a1-8bc2-69a0e724b1d2
+  recordings: [08c77ecb-e41c-410c-836b-00ff05d3756a]

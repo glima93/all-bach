@@ -1,0 +1,27 @@
+id: rafael-puyana-1962
+performers:
+- name: Rafael Puyana
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1962, 1963]
+  place: Ballroom Studio A
+released: 1995
+original_label: null
+works:
+- {bwv: '974', complete: true}
+- {bwv: '986', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef1f66f3-fb8f-45e0-ab35-723d0bf89546
+  title: The Golden Age of Harpsichord Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8d7296c7-d11d-40c2-ab8b-3d1f8c010928
+  recordings: [1319eeae-6cce-4a03-84af-b93ec8baa1bf]

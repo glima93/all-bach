@@ -1,0 +1,29 @@
+id: olivier-baumont-undated-2
+performers:
+- name: Olivier Baumont
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '985', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3939b090-00e5-4577-9c4d-c6525b8df90c
+  title: Œuvres pour clavier
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52b921d9-43c3-4755-8787-c22c0d439a07
+  recordings: [a01dea96-d90d-4211-ac78-ad05babd5101]

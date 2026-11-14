@@ -1,0 +1,28 @@
+id: leonidas-melnikas-undated
+performers:
+- name: Leonidas Melnikas
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '974', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b080e461-fab7-4739-ac40-b99b85ebd67c
+  title: 'Classical Masterpieces: The Best of Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a940b881-5506-4be5-884c-3b24cbfc5cbc
+  recordings: [40cdc8bd-a831-436d-b1d9-f18b6898d2d9]

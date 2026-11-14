@@ -1,0 +1,27 @@
+id: friedrich-gulda-1959
+performers:
+- name: Friedrich Gulda
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1959]
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '992', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9ea6c8cf-d02b-4adf-8657-ef5c095fca7f
+  title: Two Solo Recitals 1959
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: e77e163b-e86d-4a06-a16e-8a06575c227f
+  recordings: [106fddf3-6820-41b3-b49f-ffc9bc4ac35a]

@@ -1,0 +1,16 @@
+bwv: "986"
+title: "Concerto in G major (model unidentified)"
+key: "G major"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Allegro"
+notes: "The concerto on which this transcription is based has not been identified. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/384aa7be-f902-4b60-978c-72ce5f5fded1

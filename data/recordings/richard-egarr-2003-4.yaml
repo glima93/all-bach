@@ -1,0 +1,26 @@
+id: richard-egarr-2003-4
+performers:
+- name: Richard Egarr
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Saint George’s, Bristol
+released: 2003
+original_label: null
+works:
+- {bwv: '965', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b2f49eb0-711a-4d64-a9ce-6cc78e9645a8
+  title: Per cembalo solo...
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6c1e04b-e1ab-4cc2-a42a-40729b88c6c4
+  recordings: [7f6d4e8e-7d7b-46d0-a457-12ecfacc4310]

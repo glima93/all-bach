@@ -1,0 +1,28 @@
+id: edoardo-bellotti-undated
+performers:
+- name: Edoardo Bellotti
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '975', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dd6602ab-6b34-40f1-be65-277a8b598c69
+  title: Trip
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62899435-b295-4920-9f9c-774e432e015d
+  recordings: [d09956b2-5151-4dc4-8180-b1be22a80d64]

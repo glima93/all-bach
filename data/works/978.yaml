@@ -1,0 +1,16 @@
+bwv: "978"
+title: "Concerto in F major after Vivaldi"
+key: "F major"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. Allegro"
+  - "II. Largo"
+  - "III. Allegro"
+notes: "After Vivaldi's Violin Concerto in G major, RV 310, Op. 3 No. 3 (L'estro armonico), transposed to F major. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/d7a7fd81-66a1-4cea-ae16-a00e1ee83336

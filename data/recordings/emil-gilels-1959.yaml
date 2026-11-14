@@ -1,0 +1,26 @@
+id: emil-gilels-1959
+performers:
+- name: Emil Gilels
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1959]
+  place: 'Broadcasting House: Concert Hall'
+released: 1999
+original_label: null
+works:
+- {bwv: '989', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/383ea999-935c-4ee4-8299-3b1ee9fdcba7
+  title: 'Schumann: Piano Sonata no. 1 / Scarlatti: 5 Keyboard Sonatas / Bach / Tchaikovsky / Prokofiev'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 88b4ad33-63ba-4923-947e-26a720631156
+  recordings: [65d33ea7-50eb-4c45-a377-81a9bfe38434]

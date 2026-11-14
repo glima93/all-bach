@@ -27,6 +27,8 @@ Each file here is a snapshot of what [MusicBrainz](https://musicbrainz.org) knew
 | `musicbrainz-toccatas.json` | Toccatas, BWV 910–916 | 11 Nov 2026 | none: works found by BWV number (`tree-toccatas.json`) | 15 | 480 | 153 |
 | `musicbrainz-keyboard-preludes-fugues.json` | Fantasias, Preludes and Fugues for keyboard, BWV 894–909, 917–923 and 944–962 | 11 Nov 2026 | none: works found by BWV number (`tree-keyboard-preludes-fugues.json`) | 55 | 680 | 222 |
 | `musicbrainz-little-preludes.json` | Little Preludes, BWV 924–943 | 12 Nov 2026 | none: works found by BWV number (`tree-little-preludes.json`) | 20 | 460 | 69 |
+| `musicbrainz-keyboard-transcriptions.json` | Concerto transcriptions for keyboard, BWV 972–987 | 13 Nov 2026 | `22e6c3a2-e0c7-40e5-a272-d8e3b58a3272` | 52 | 763 | 89 |
+| `musicbrainz-keyboard-sonatas-variations.json` | Sonatas, Variations and Capriccios, BWV 963–967, 969 and 989–994 (968 and 970 not found in MusicBrainz by the collector) | 13 Nov 2026 | none: works found by BWV number (`tree-keyboard-sonatas-variations.json`) | 62 | 770 | 118 |
 
 The first five snapshots were made with `scripts/musicbrainz-collect.js`, run in a browser tab on musicbrainz.org. From run 1 of the [catalogue plan](../../docs/catalogue-plan.md) on, they are made by `scripts/collect_musicbrainz.py`, a port of it, which the GitHub workflow `collect.yml` runs every night for each collection marked `queued` in `data/plan/collections.yaml`. It writes the snapshot and `tree-<id>.json`, the MusicBrainz works and movements it found for each BWV number (input to `scripts/work_stub.py`), to the branch `collect/<id>`.
 

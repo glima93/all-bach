@@ -1,0 +1,26 @@
+id: igor-kipnis-1966
+performers:
+- name: Igor Kipnis
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1966]
+  place: Wiener Musikverein
+released: 1993
+original_label: null
+works:
+- {bwv: '972', complete: false, movements: [III. Allegro assai]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef3ebe1c-70a5-489e-8a7f-7490f02d4c16
+  title: The Art of Ornamentation and Embellishment in the Renaissance and Baroque
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 54a49aee-7eb5-4676-afdb-0e6f3e974bc9
+  recordings: [b0504720-1837-4eb4-a308-f0e91330e384]

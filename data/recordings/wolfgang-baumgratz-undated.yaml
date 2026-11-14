@@ -1,0 +1,28 @@
+id: wolfgang-baumgratz-undated
+performers:
+- name: Wolfgang Baumgratz
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '985', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/351f2562-5777-436d-b635-a79bc59a79f8
+  title: Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f3c55a94-efaa-4f82-b817-ed3e52e12a81
+  recordings: [000a225f-8d02-4f6e-ac8a-a8d38e4c3087]

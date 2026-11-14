@@ -1,0 +1,32 @@
+id: christiane-wuyts-1988-3
+performers:
+- name: Christiane Wuyts
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: Digipro
+released: 1988
+original_label: null
+works:
+- {bwv: '963', complete: true}
+- {bwv: '965', complete: true}
+- {bwv: '966', complete: true}
+- {bwv: '967', complete: true}
+- {bwv: '989', complete: true}
+- {bwv: '992', complete: true}
+- {bwv: '993', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/805cc5b2-1d5e-467b-aa10-42db1e1e4575
+  title: Unveröffentliche Werke (1700-1710)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b8029c72-5a98-4735-bef7-d037d3c3fd25
+  recordings: [ef8cda8a-fe52-4948-94b0-a9fad1f288d0]

@@ -1,0 +1,31 @@
+id: wolfgang-basch-undated
+performers:
+- name: Wolfgang Basch
+  role: trumpet
+- name: Wolfgang Rübsam
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '992', complete: false, movements: ['V. Allegro poco: Aria di postiglione']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4673363a-d985-46f3-9b3d-b1eaf566f2f1
+  title: 'Classical Treasures: Classical Gems'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With trumpet.
+musicbrainz:
+  artist: 43fe1958-4649-4497-81bf-521614304758
+  recordings: [9634c965-9736-46b1-9e02-619c313f8300]

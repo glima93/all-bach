@@ -1,0 +1,26 @@
+id: mariam-batsashvili-2016
+performers:
+- name: Mariam Batsashvili
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2016]
+  place: Muziekgebouw Frits Philips
+released: 2016
+original_label: null
+works:
+- {bwv: '974', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8a179dd4-616f-4530-b6bd-83fd8357222f
+  title: 'Early transcriptions: Händel/Liszt, Marcello/Bach, Bach/Busoni, Mozart/Liszt'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 71e19fff-712d-4a59-b9f7-7efc4fc8c3f9
+  recordings: [208b0b49-84db-4f77-acad-69288c4456dc]

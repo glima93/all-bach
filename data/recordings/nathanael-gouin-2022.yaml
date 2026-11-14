@@ -1,0 +1,27 @@
+id: nathanael-gouin-2022
+performers:
+- name: Nathanaël Gouin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2022]
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '992', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2259c8b-26bb-470b-bd8a-d86148bbade5
+  title: Caprice
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6e0df017-8eb4-4fef-b48c-4b2713c6e59c
+  recordings: [464d6dec-46e8-42f6-b7d1-06026f0ececd]

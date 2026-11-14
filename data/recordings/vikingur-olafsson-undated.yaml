@@ -1,0 +1,29 @@
+id: vikingur-olafsson-undated
+performers:
+- name: Víkingur Ólafsson
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '972', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f6bded1b-ceea-4685-9756-0518ed5b911f
+  title: 'J.S. Bach: Keyboard Concerto No. 1 in D Major, BWV 972 (After Vivaldi, RV 230): II. Larghetto'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cea4a3b8-c26c-4b61-a243-cf72555e2c71
+  recordings: [5b1bdcb9-aeed-44e8-82bd-29d3b163b0fd]

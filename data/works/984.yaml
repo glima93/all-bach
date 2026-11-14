@@ -1,0 +1,16 @@
+bwv: "984"
+title: "Concerto in C major after Prince Johann Ernst of Saxe-Weimar"
+key: "C major"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Chaconne – Allegro assai"
+notes: "After a Violin Concerto in C major by Prince Johann Ernst of Saxe-Weimar, probably the same model as Bach's organ transcription BWV 595. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/284501be-3dd6-42b5-b2cb-504ff9f00166

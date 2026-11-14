@@ -1,0 +1,28 @@
+id: vincent-boucher-undated
+performers:
+- name: Vincent Boucher
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '978', complete: false, movements: [I. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2637da52-af5a-4f88-9ba4-be137c79ecb3
+  title: Splendore a Venezia
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5e27a1b5-9f7a-4335-bac6-5662b3708f57
+  recordings: [fa002b1c-6f42-44bf-a4d2-93d69c631bee]

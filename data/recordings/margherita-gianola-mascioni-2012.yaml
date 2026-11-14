@@ -1,0 +1,26 @@
+id: margherita-gianola-mascioni-2012
+performers:
+- name: Margherita Gianola Mascioni
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: Basilica di Santa Maria Gloriosa dei Frari
+released: 2013
+original_label: null
+works:
+- {bwv: '973', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e3213344-eda8-4cd6-83dc-916d1922ebc7
+  title: Concerto a due organi
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 20fa1856-5d3d-46cb-996e-85217dcb9288
+  recordings: [64c9013f-0fdb-41bd-96b1-1789fe2d544b]

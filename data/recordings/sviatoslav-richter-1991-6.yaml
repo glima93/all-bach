@@ -1,0 +1,32 @@
+id: sviatoslav-richter-1991-6
+performers:
+- name: Sviatoslav Richter
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1991]
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '963', complete: false, movements: [I. (no tempo marking), II. (no tempo marking), III. (no tempo marking),
+    IV. Adagio]}
+- {bwv: '964', complete: true}
+- {bwv: '966', complete: false, movements: [II. Fugue, III. Adagio, 'IV. [Allegro]', V. Allemande]}
+- {bwv: '992', complete: true}
+- {bwv: '993', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c0bd070-e74f-4bc0-a4ee-c6cc65e5c3e8
+  title: 'Un homme de concert, Volume 3: Tre Sonate / Concerto Italiano / Quattro Duetti / Capriccio'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2014bfbb-c65d-45dc-9973-35bead3833fa
+  recordings: [fd811345-746b-4932-b5a0-10963c51a486]

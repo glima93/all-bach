@@ -1,0 +1,26 @@
+id: olivier-vernet-1997-3
+performers:
+- name: Olivier Vernet
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: Basilica di San Simpliciano
+released: 2008
+original_label: null
+works:
+- {bwv: '989', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b06245df-a444-4474-8e5c-7871c2a11b05
+  title: 'Johann Sebastian Bach: Intégrale pour orgue'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 215d92b3-630f-46b3-bdc9-5995333efcbb
+  recordings: [3b089a76-bf85-49b3-b947-9236855713fe]

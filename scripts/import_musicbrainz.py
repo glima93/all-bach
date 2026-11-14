@@ -130,12 +130,20 @@ EXCLUDE_BY_SNAPSHOT["flute-works"] = {
 EXCLUDE_BY_SNAPSHOT["little-preludes"] = {
     "54aff438-a805-4998-aa95-8483920b1b7c": "AAFTAC Symphonette's 1944 single 'Prelude in E major / Waltz': a band orchestration, almost certainly the Preludio of the violin Partita No. 3 BWV 1006 mislinked to BWV 937",
 }
+EXCLUDE_BY_SNAPSHOT["keyboard-transcriptions"] = {
+    "3d6151db-d195-4bb4-ba63-0d35933ec29b": "Angelicum di Milano and Zedda, 'Concertos pour 4 violons & 4 clavecins': the orchestra plays, so this is Vivaldi's violin concerto Op. 3 No. 3 (RV 310), the model, not Bach's solo keyboard BWV 978",
+    "bfbe88be-c198-4d90-a2a0-7cc8256e0629": "Angelicum di Milano and Zedda, 'Concertos pour violons et clavecins': the same Vivaldi Op. 3 No. 3 (RV 310) for violin and strings, linked to BWV 978",
+}
 EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 
 # One performance that the snapshot splits into two rows (an undated track of a dated set, one set recorded
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "keyboard-transcriptions": {
+    "439bc15b-955f-4bff-aac7-c22197ac2b23": ("26670844-4789-44a8-9b4d-f07628a02eb8", "Hirsch's undated first movement of BWV 974 on Konzerte für Cembalo Solo, Vol. 1, with movements 2-3 from 1982"),
+    "23a82c64-d57a-4deb-8d17-694580cb4278": ("588a92ec-429e-46fd-9661-8a89ad04e5bd", "Ivo Janssen's BWV 973 on the sampler Aangenaam klassiek 2005, from his complete set of the concertos"),
+  },
   "lute-works": {
     "5aac3021-1492-4368-91ab-de19586dba7a": ("43a43ec3-99db-464b-b1fa-ad9b356a13e4", "Luca Pianca's BWV 999 and 1000 on Bach 2000, with his 1998 BWV 995"),
     "8bdfa221-eee4-44c4-8cd4-b2b327d0048d": ("1b5f6485-f696-497a-bec7-16b32079778c", "Barchi's lute-harpsichord tracks on the Bach 2000 sampler, from the same set"),
@@ -644,6 +652,24 @@ OVERRIDE_BY_SNAPSHOT = {
     "13cc7525-e781-4aa5-adf1-ff12437ff5c5": ({"instrument": "piano"}, "Igor Levit, pianist; no instrument credit"),
     "07793f91-ccc1-4e2e-90a6-3c54d0507d19": ({"instrument": "harpsichord"}, "Andrew Appel, harpsichordist; no instrument credit"),
     "795b3b64-8d94-4f4d-acd8-0c6c7834dea1": ({"instrument": "harpsichord"}, "Francesco Corti, harpsichordist; no instrument credit"),
+  },
+  "keyboard-transcriptions": {
+    "a707f18d-d130-41f0-8fe2-308e1214855f": ({"instrument": "harpsichord", "performance_practice": "historical"},
+        "Naoki Kitaya's 8 concerti per clavicembalo: the harpsichord leads, with a continuo of cello and theorbo added (an arrangement)"),
+    "20782c12-6e09-4e07-91e1-2d31c7b2d766": ({"instrument": "harpsichord", "performance_practice": "historical"},
+        "Naoki Kitaya's 8 concerti per clavicembalo: the harpsichord leads, with a continuo of cello, theorbo and plucked strings added"),
+    "2dc1ffad-4bf9-45f3-bce6-a3271e035c6b": ({"arrangement": True},
+        "Bardon with Kammerorchester Pro Arte München and Redel, 'Concertos pour orgue et orchestre': Bach's solo keyboard concertos scored for organ and orchestra"),
+    "9baa0084-51c3-45f8-b401-247adc48cde9": ({"arrangement": True, "performance_practice": "unknown"},
+        "Gabriela Montero's Bach and Beyond, 'improvisations on themes by J. S. Bach': her improvisation on the Adagio of BWV 974"),
+    "4ee7bfa9-a8be-4d00-82eb-04c400d7cef2": ({"performers": [{"name": "Sebastian Knebel", "role": "harpsichord"}]},
+        "solo harpsichord transcriptions: Sebastian Knebel plays; Ensemble Fürsten-Musik is only the release's artist credit"),
+    "52239131-6ec9-4a96-93cf-67df39b677b4": ({"instrument": "organ"}, "Olivier Vernet's Intégrale pour orgue; no instrument credit"),
+  },
+  "keyboard-sonatas-variations": {
+    "7d084a9a-59ef-4c3c-9b81-f09b51e8b67d": ({"instrument": "harpsichord"}, "Andrew Appel, harpsichordist; no instrument credit"),
+    "70193c85-d059-4fdd-a979-bb32845eca65": ({"instrument": "piano"}, "Lili Kraus, pianist; no instrument credit"),
+    "d347bc43-9237-4d23-86d7-5b91b16ea7f5": ({"instrument": "piano"}, "Maria Grinberg, pianist; no instrument credit"),
   },
 }
 

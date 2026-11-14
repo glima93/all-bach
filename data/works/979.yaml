@@ -1,0 +1,19 @@
+bwv: "979"
+title: "Concerto in B minor after Vivaldi"
+key: "B minor"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Allegro – Adagio"
+  - "IV. Andante"
+  - "V. Adagio"
+  - "VI. Allegro"
+notes: "After a Violin Concerto in D minor long attributed to Giuseppe Torelli (RV Anh. 10) and now assigned to Vivaldi as RV 813. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/2db83cee-236b-412c-82a3-179097359e1d
