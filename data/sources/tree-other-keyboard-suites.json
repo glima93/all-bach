@@ -1,0 +1,460 @@
+{
+ "collection": "other-keyboard-suites",
+ "taken": "2026-11-14",
+ "recordings": 306,
+ "performances": 48,
+ "works": [
+  {
+   "bwv": "818",
+   "id": "f3c8b189-4be8-42f9-9591-63e35f438f7f",
+   "candidates": [
+    {
+     "id": "f3c8b189-4be8-42f9-9591-63e35f438f7f",
+     "title": "Suite a-Moll, BWV 818"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Suite a-Moll, BWV 818",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "29fad2ac-fd27-3450-8e8a-cdcdbb214844",
+     "title": "Suite a-Moll, BWV 818: I. Allemande"
+    },
+    {
+     "id": "d2ce4b04-da22-39bf-b641-8c2c6c08b0b8",
+     "title": "Suite a-Moll, BWV 818: II. Courante"
+    },
+    {
+     "id": "e3ff87a7-be67-3fc3-9328-ea22740a3fe1",
+     "title": "Suite a-Moll, BWV 818: III. Sarabande simple"
+    },
+    {
+     "id": "02375ba3-3d94-3ca1-a1d0-c4ab6f55c7b4",
+     "title": "Suite a-Moll, BWV 818: IV. Sarabande double"
+    },
+    {
+     "id": "866ee2d6-3663-3bca-a1ea-71d95a7cef80",
+     "title": "Suite a-Moll, BWV 818: V. Gigue"
+    },
+    {
+     "id": "e3ff87a7-be67-3fc3-9328-ea22740a3fe1",
+     "title": "Suite a-Moll, BWV 818: III. Sarabande simple"
+    },
+    {
+     "id": "02375ba3-3d94-3ca1-a1d0-c4ab6f55c7b4",
+     "title": "Suite a-Moll, BWV 818: IV. Sarabande double"
+    }
+   ]
+  },
+  {
+   "bwv": "819",
+   "id": "1c2ca5e7-6471-423b-8e66-dfcad0cf3c56",
+   "candidates": [
+    {
+     "id": "1c2ca5e7-6471-423b-8e66-dfcad0cf3c56",
+     "title": "Suite Es-Dur, BWV 819"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Suite Es-Dur, BWV 819",
+   "key": "E-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "5f426779-9724-3438-8176-3fc46b5fec47",
+     "title": "Suite Es-Dur, BWV 819: I. Allemande"
+    },
+    {
+     "id": "8ce6b055-8a44-3a08-b2d5-4df3cafd32ec",
+     "title": "Suite Es-Dur, BWV 819: II. Courante"
+    },
+    {
+     "id": "6d6d4750-122e-3c88-aa76-e8d3c90fcddf",
+     "title": "Suite Es-Dur, BWV 819: III. Sarabande"
+    },
+    {
+     "id": "fdecdc23-e42f-3700-a4ba-6accc52d54eb",
+     "title": "Suite Es-Dur, BWV 819: IV. Bourrée"
+    },
+    {
+     "id": "9d382f8e-90dc-32ce-ab22-1645bb0e41dc",
+     "title": "Suite Es-Dur, BWV 819: V. Menuet I"
+    },
+    {
+     "id": "cede1cdb-2518-39ea-9441-71148126ced8",
+     "title": "Suite Es-Dur, BWV 819: VI. Menuet II (Trio)"
+    }
+   ]
+  },
+  {
+   "bwv": "820",
+   "id": "4967530d-d4d1-4ea8-b43b-36344129775e",
+   "candidates": [
+    {
+     "id": "4967530d-d4d1-4ea8-b43b-36344129775e",
+     "title": "Ouverture (Suite) F-Dur, BWV 820"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Ouverture (Suite) F-Dur, BWV 820",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "e086e6ef-7c19-3db3-bea0-40df6d704fcd",
+     "title": "Ouverture (Suite) F-Dur, BWV 820: I. Ouverture"
+    },
+    {
+     "id": "7aff333d-f96a-36fc-b95e-b6a0cfb7d029",
+     "title": "Ouverture (Suite) F-Dur, BWV 820: II. Entrée"
+    },
+    {
+     "id": "2cb32354-37ce-3a37-88fe-5d78fad94163",
+     "title": "Ouverture (Suite) F-Dur, BWV 820: III. Menuet"
+    },
+    {
+     "id": "6e1c5c8d-7865-380c-accf-920ec6bcb0a5",
+     "title": "Ouverture (Suite) F-Dur, BWV 820: IV. Trio"
+    },
+    {
+     "id": "4a7aa278-e7bd-3b42-96f3-9cfbeb6fd14f",
+     "title": "Ouverture (Suite) F-Dur, BWV 820: V. Bourrée"
+    },
+    {
+     "id": "cffd8059-3b1c-3bc7-865e-06d6638d7ec7",
+     "title": "Ouverture (Suite) F-Dur, BWV 820: VI. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "821",
+   "id": "2f595dfa-92fd-43f7-a886-ebd2b65bea1c",
+   "candidates": [
+    {
+     "id": "2f595dfa-92fd-43f7-a886-ebd2b65bea1c",
+     "title": "Suite B-Dur, BWV 821"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Suite B-Dur, BWV 821",
+   "key": "B-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "a16335a7-4cf0-3056-9ff8-fa193fbdbefa",
+     "title": "Suite B-Dur, BWV 821: I. (Präludium)"
+    },
+    {
+     "id": "d9f638cd-2067-38ea-8e02-c4f3f525eb4a",
+     "title": "Suite B-Dur, BWV 821: II. Allemande"
+    },
+    {
+     "id": "c148162e-17f3-3e2a-bd25-bf19ca518c2c",
+     "title": "Suite B-Dur, BWV 821: III. Courante"
+    },
+    {
+     "id": "4cabb40b-2c12-3719-810c-3f9cd3973f59",
+     "title": "Suite B-Dur, BWV 821: IV. Sarabande"
+    },
+    {
+     "id": "3a7c1852-7279-3a74-8843-2f2f373cf4ef",
+     "title": "Suite B-Dur, BWV 821: V. Echo"
+    }
+   ]
+  },
+  {
+   "bwv": "822",
+   "id": "59d5880c-c450-4c39-bfbd-5a770f8a24b2",
+   "candidates": [
+    {
+     "id": "59d5880c-c450-4c39-bfbd-5a770f8a24b2",
+     "title": "Suite in g-Moll, BWV 822"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Suite in g-Moll, BWV 822",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "48ef3f49-8438-368b-9b09-0b1ab281ac15",
+     "title": "Suite in g-Moll, BWV 822: I. Ouverture"
+    },
+    {
+     "id": "b5fc369e-332f-3fb5-a12c-f4afacbfcf7c",
+     "title": "Suite in g-Moll, BWV 822: II. Aria"
+    },
+    {
+     "id": "a27e3af0-864b-3aa0-8963-45f3f4945a47",
+     "title": "Suite in g-Moll, BWV 822: III. Gavotte en Rondeau"
+    },
+    {
+     "id": "40caacee-2cdf-327a-8474-e1b97f0d90a4",
+     "title": "Suite in g-Moll, BWV 822: IV. Bourrée"
+    },
+    {
+     "id": "2c92fe74-4400-339c-b670-1b95c33b7fcb",
+     "title": "Suite in g-Moll, BWV 822: V. Menuet I"
+    },
+    {
+     "id": "5fd40e49-8d53-3838-b8f6-5e12348c1a38",
+     "title": "Suite in g-Moll, BWV 822: VI. Menuet II"
+    },
+    {
+     "id": "797b678e-7a8c-351e-9a44-515d861866a0",
+     "title": "Suite in g-Moll, BWV 822: VII. Menuet III"
+    },
+    {
+     "id": "2d369366-7d46-39f8-b5f9-dd8e02fc912c",
+     "title": "Suite in g-Moll, BWV 822: VIII. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "823",
+   "id": "19695cfe-2737-48a4-905d-cdfd6f9040e6",
+   "candidates": [
+    {
+     "id": "19695cfe-2737-48a4-905d-cdfd6f9040e6",
+     "title": "Suite f-moll, BWV 823"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Suite f-moll, BWV 823",
+   "key": "F minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "b1aedede-fb50-495e-bed3-95dc884d6019",
+     "title": "Suite f-moll, BWV 823: I. Prelude"
+    },
+    {
+     "id": "b44ee0b0-cbfc-45ca-9f39-9f99c3e1d50a",
+     "title": "Suite f-moll, BWV 823: II. Sarabande en rondeau"
+    },
+    {
+     "id": "96140cfd-0d2f-4771-8c1f-1a5c61d41a87",
+     "title": "Suite f-moll, BWV 823: III. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "832",
+   "id": "c290609a-606a-4090-9702-9de9502e67bb",
+   "candidates": [
+    {
+     "id": "c290609a-606a-4090-9702-9de9502e67bb",
+     "title": "Suite A-Dur, BWV 832"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Suite A-Dur, BWV 832",
+   "key": "A major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "dd803349-d354-38e3-af8c-83ab37b7bd6c",
+     "title": "Suite A-Dur, BWV 832: I. Allemande"
+    },
+    {
+     "id": "659bfd29-9a6f-3d11-a094-7116fbfe46f7",
+     "title": "Suite A-Dur, BWV 832: II. Air pour les Trompettes"
+    },
+    {
+     "id": "a4dae65e-2053-3ea1-aba1-9fac6c2de83e",
+     "title": "Suite A-Dur, BWV 832: III. Sarabande"
+    },
+    {
+     "id": "37f99449-6407-3901-a96b-4b43c2f32611",
+     "title": "Suite A-Dur, BWV 832: IV. Bourrée"
+    },
+    {
+     "id": "2ee6e8df-df1b-3cd1-a76d-e94ca3c35a06",
+     "title": "Suite A-Dur, BWV 832: V. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "833",
+   "id": "f7d6c923-33bb-4b44-96fd-76b21086931b",
+   "candidates": [
+    {
+     "id": "f7d6c923-33bb-4b44-96fd-76b21086931b",
+     "title": "Präludium et parita del tuono terzo F-Dur, BWV 833"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium et parita del tuono terzo F-Dur, BWV 833",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "93b861be-a761-3849-bb80-30648277db6b",
+     "title": "Präludium et parita del tuono terzo F-Dur, BWV 833: I. Präludium (Andante)"
+    },
+    {
+     "id": "833fcf94-79b0-3f88-b878-ab63b5dda620",
+     "title": "Präludium et parita del tuono terzo F-Dur, BWV 833: II. Allemande"
+    },
+    {
+     "id": "ddb5815c-8027-38e8-8774-e4a2c0d2ba2d",
+     "title": "Präludium et parita del tuono terzo F-Dur, BWV 833: III. Courante"
+    },
+    {
+     "id": "bca5645b-e692-389f-88a5-dce471cc5740",
+     "title": "Präludium et parita del tuono terzo F-Dur, BWV 833: IV. Sarabande"
+    },
+    {
+     "id": "8bc1b1a2-ef76-3c1b-98cb-c4c62f1521d2",
+     "title": "Präludium et parita del tuono terzo F-Dur, BWV 833: V. Double (Allegro)"
+    },
+    {
+     "id": "450d7953-35c7-3c80-ba5a-fe21db62fd98",
+     "title": "Präludium et parita del tuono terzo F-Dur, BWV 833: VI. Air (Allegro)"
+    }
+   ]
+  },
+  {
+   "bwv": "834",
+   "id": "4bb54220-cdc4-461c-a1ef-283820a82ced",
+   "candidates": [
+    {
+     "id": "4bb54220-cdc4-461c-a1ef-283820a82ced",
+     "title": "Allemande in C minor, BWV 834"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Allemande in C minor, BWV 834",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "4bb54220-cdc4-461c-a1ef-283820a82ced",
+     "title": "Allemande in C minor, BWV 834"
+    }
+   ]
+  },
+  {
+   "bwv": "836",
+   "id": "81b70037-1670-4f2f-b8cc-2d68f7994358",
+   "candidates": [
+    {
+     "id": "81b70037-1670-4f2f-b8cc-2d68f7994358",
+     "title": "Allemande in G minor, BWV 836"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Allemande in G minor, BWV 836",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "81b70037-1670-4f2f-b8cc-2d68f7994358",
+     "title": "Allemande in G minor, BWV 836"
+    }
+   ]
+  },
+  {
+   "bwv": "837",
+   "id": "ef74f4e5-cc66-4a77-bfa3-319c3dd93702",
+   "candidates": [
+    {
+     "id": "ef74f4e5-cc66-4a77-bfa3-319c3dd93702",
+     "title": "Allemande in G minor, BWV 837"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Allemande in G minor, BWV 837",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "ef74f4e5-cc66-4a77-bfa3-319c3dd93702",
+     "title": "Allemande in G minor, BWV 837"
+    }
+   ]
+  },
+  {
+   "bwv": "838",
+   "id": "a6cbb893-dc5d-4990-b1dc-24dad4978576",
+   "candidates": [
+    {
+     "id": "a6cbb893-dc5d-4990-b1dc-24dad4978576",
+     "title": "Allemande and Courante in A major, BWV 838"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Allemande and Courante in A major, BWV 838",
+   "key": null,
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "a6cbb893-dc5d-4990-b1dc-24dad4978576",
+     "title": "Allemande and Courante in A major, BWV 838"
+    }
+   ]
+  },
+  {
+   "bwv": "839",
+   "id": "e6984065-b4d5-3caa-bbef-f07e13181bfa",
+   "candidates": [
+    {
+     "id": "e6984065-b4d5-3caa-bbef-f07e13181bfa",
+     "title": "Sarabande g-Moll, BWV 839"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sarabande g-Moll, BWV 839",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "e6984065-b4d5-3caa-bbef-f07e13181bfa",
+     "title": "Sarabande g-Moll, BWV 839"
+    }
+   ]
+  },
+  {
+   "bwv": "844",
+   "id": "e9cedffe-366c-46e7-a283-42cc64c5d5a0",
+   "candidates": [
+    {
+     "id": "e9cedffe-366c-46e7-a283-42cc64c5d5a0",
+     "title": "Scherzo in D minor, BWV 844"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Scherzo in D minor, BWV 844",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "e9cedffe-366c-46e7-a283-42cc64c5d5a0",
+     "title": "Scherzo in D minor, BWV 844"
+    }
+   ]
+  },
+  {
+   "bwv": "845",
+   "id": "bb6c929b-ef22-421f-8af9-0346ce81495f",
+   "candidates": [
+    {
+     "id": "bb6c929b-ef22-421f-8af9-0346ce81495f",
+     "title": "Gigue in F minor, BWV 845"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Gigue in F minor, BWV 845",
+   "key": "F minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "bb6c929b-ef22-421f-8af9-0346ce81495f",
+     "title": "Gigue in F minor, BWV 845"
+    }
+   ]
+  }
+ ]
+}
