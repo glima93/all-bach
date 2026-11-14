@@ -1,0 +1,27 @@
+id: charlotte-mattax-moersch-undated-2
+performers:
+- name: Charlotte Mattax Moersch
+  role: lautenwerck
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: 'Krannert Center for the Performing Arts: Foellinger Great Hall'
+released: 2024
+original_label: null
+works:
+- {bwv: '996', complete: true}
+- {bwv: '1000', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fddbf9ae-521a-4088-a2b9-559e5e26c80a
+  title: Bach and the Lautenwerk
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  recordings: [3a461582-07fa-4a7f-b9e2-6a86b0fb75ca]

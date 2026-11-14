@@ -1,0 +1,27 @@
+id: patricia-creighton-undated
+performers:
+- name: Patricia Creighton
+  role: flute
+instrument: flute
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '1013', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/788e05d7-6608-4811-9b26-696265c6f7e7
+  title: Wind Song
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  recordings: [9e86a659-4f09-487f-bcd7-fa8eb67e2a69]

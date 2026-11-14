@@ -1,0 +1,27 @@
+id: anastasia-rizikov-undated
+performers:
+- name: Anastasia Rizikov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '914', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/995921c9-a268-43c3-886d-9484a4a5bed7
+  title: V/V
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  recordings: [5ba758da-b9e1-471e-a9c0-5cc826d55da8]
