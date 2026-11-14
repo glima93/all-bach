@@ -1,0 +1,27 @@
+id: lucile-boulanger-2020
+performers:
+- name: Lucile Boulanger
+  role: bass viol
+instrument: viola-da-gamba
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [2020]
+  place: Abbaye de Noirlac
+released: 2022
+original_label: null
+works:
+- {bwv: '964', complete: false, movements: [I. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f551f4e0-847f-4d46-928c-001d4fbd4be6
+  title: Solo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 92572287-fca4-429c-b1aa-2ed936528f13
+  recordings: [1d695fb5-5859-4b6c-bfca-c36d8e4b49cc]

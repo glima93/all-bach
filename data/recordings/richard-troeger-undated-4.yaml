@@ -1,0 +1,28 @@
+id: richard-troeger-undated-4
+performers:
+- name: Richard Troeger
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '964', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a0d91266-e472-45ca-b59e-d9bb0bb9fc08
+  title: The Art of the Fugue / Violin Transcriptions / Fantasias
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b1513933-de51-45e3-8722-5746ceab4b9a
+  recordings: [e18fa894-3587-4996-a337-f495cc8ea07c]

@@ -1,0 +1,27 @@
+id: fabio-ciofini-2016
+performers:
+- name: Fabio Ciofini
+  role: harpsichord
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2016]
+  place: Teatro Cucinelli
+released: 2017
+original_label: null
+works:
+- {bwv: '973', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a8519ca8-3b71-4ce5-9a09-861915e34f82
+  title: Falsi d’autore
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With harpsichord.
+musicbrainz:
+  artist: 1b7087d0-d2ab-4050-9657-e909065b1b28
+  recordings: [065e0cd9-be06-492c-8d52-3a90c30f27f7]

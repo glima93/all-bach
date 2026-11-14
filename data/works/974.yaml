@@ -1,0 +1,16 @@
+bwv: "974"
+title: "Concerto in D minor after Alessandro Marcello"
+key: "D minor"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I."
+  - "II. Adagio"
+  - "III. Presto"
+notes: "After Alessandro Marcello's Oboe Concerto in D minor; the model was at times attributed to Vivaldi or to Benedetto Marcello. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/b1485673-7ea4-4049-ac78-b7dc347f616e

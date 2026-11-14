@@ -1,0 +1,16 @@
+bwv: "985"
+title: "Concerto in G minor after Telemann"
+key: "G minor"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Allegro"
+notes: "After Telemann's Violin Concerto in G minor, TWV 51:g1. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f9fa44e1-44e3-4ff3-bb08-a49ec1b23825

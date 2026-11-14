@@ -1,0 +1,16 @@
+bwv: "977"
+title: "Concerto in C major (model unidentified)"
+key: "C major"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Gigue – Presto"
+notes: "The concerto on which this transcription is based has not been identified. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/4c696829-6831-4b7b-80ee-dcbd004710e3

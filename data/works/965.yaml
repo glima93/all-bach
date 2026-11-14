@@ -1,0 +1,20 @@
+bwv: "965"
+title: "Sonata in A minor after Reincken"
+key: "A minor"
+collection: "Sonatas, Variations and Capriccios"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "before 1717"
+movements:
+  - "I. Adagio"
+  - "II. Fugue"
+  - "III. Adagio – Presto"
+  - "IV. Allemande"
+  - "V. Courante"
+  - "VI. Sarabande"
+  - "VII. Gigue"
+notes: "Arrangement of the first sonata from Johann Adam Reincken's Hortus musicus (Hamburg, 1687); the fugue and the fugal gigue are largely new compositions on Reincken's themes. The earliest source is a copy by Johann Gottfried Walther made before 1717."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e09f290c-73f4-43bd-941e-0cda7857c908

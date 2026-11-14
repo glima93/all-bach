@@ -1,0 +1,392 @@
+{
+ "collection": "keyboard-transcriptions",
+ "taken": "2026-11-13",
+ "recordings": 763,
+ "performances": 89,
+ "works": [
+  {
+   "bwv": "972",
+   "id": "3d0345d1-ac59-4d4a-8ded-0a223e7cb92f",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 1 in D major after Antonio Vivaldi, BWV 972",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0c7d82fc-33f5-31c2-b0a9-78949e45a0b1",
+     "title": "Concerto in D-Dur, BWV 972: I. Allegro"
+    },
+    {
+     "id": "31cfb5ba-9c8f-31fc-a5a8-8d3e7439cb61",
+     "title": "Concerto in D-Dur, BWV 972: II. Adagio"
+    },
+    {
+     "id": "8457884a-4621-32ea-b343-adae6be737ee",
+     "title": "Concerto in D-Dur, BWV 972: III. Allegro assai"
+    }
+   ]
+  },
+  {
+   "bwv": "973",
+   "id": "60797341-64e4-4da1-a924-b953bb7b6ac4",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 2 in G major after Antonio Vivaldi, BWV 973",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "def51aa7-610c-4cd2-ae61-cf2da2e7f988",
+     "title": "Concerto in G major, BWV 973: I. [Allegro assai]"
+    },
+    {
+     "id": "f62da2a7-704a-4e18-be58-e22f5a37abcc",
+     "title": "Concerto in G major, BWV 973: II. Largo"
+    },
+    {
+     "id": "d30bfc2e-3bde-4172-8df0-4644d228479e",
+     "title": "Concerto in G major, BWV 973: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "974",
+   "id": "b1485673-7ea4-4049-ac78-b7dc347f616e",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 3 in D minor after Alessandro Marcello, BWV 974",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "10774ea9-51de-33e7-b840-f36a9273f154",
+     "title": "Concerto in D minor after Alessandro Marcello, BWV 974: I."
+    },
+    {
+     "id": "25268189-5477-36b1-8b9d-31a699876172",
+     "title": "Concerto in D minor after Alessandro Marcello, BWV 974: II. Adagio"
+    },
+    {
+     "id": "dcdd8a90-293f-34ff-8b96-7934c68709b8",
+     "title": "Concerto in D minor after Alessandro Marcello, BWV 974: III. Presto"
+    }
+   ]
+  },
+  {
+   "bwv": "975",
+   "id": "6aca9710-721a-4c55-9a57-12641f8f9b54",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 4 in G minor after Antonio Vivaldi, BWV 975",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0a82b5b8-11cc-4dd8-91c8-cdf1a1205dda",
+     "title": "Concerto in G minor, BWV 975: I. [Allegro]"
+    },
+    {
+     "id": "a02aca09-47a1-4e21-9a56-85057653b4e6",
+     "title": "Concerto in G minor, BWV 975: II. Largo"
+    },
+    {
+     "id": "f617d6b4-ab8a-42a7-a1de-f917fc2d4b76",
+     "title": "Concerto in G minor, BWV 975: III. Giga"
+    }
+   ]
+  },
+  {
+   "bwv": "976",
+   "id": "4c86ea6b-368e-4e97-a84a-730bd54faa31",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 5 in C major after Antonio Vivaldi, BWV 976",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "4e475f1b-2830-435c-aa3c-1f0a21e1f315",
+     "title": "Concerto in C major, BWV 976: I. [Allegro]"
+    },
+    {
+     "id": "5aa8fbc8-d190-4f93-ada0-d1b6fa7998d7",
+     "title": "Concerto in C major, BWV 976: II. Largo"
+    },
+    {
+     "id": "ecd3704c-0b32-4bed-a9e2-bd96d8e224a5",
+     "title": "Concerto in C major, BWV 976: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "977",
+   "id": "4c696829-6831-4b7b-80ee-dcbd004710e3",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 6 in C major after an unknown German composer, BWV 977",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "07bb6d51-840a-4db0-9914-1c1414ecdd0c",
+     "title": "Keyboard Concerto no. 6 in C major, BWV 977 after unknown German composer: I. Allegro"
+    },
+    {
+     "id": "f877de85-2eab-4435-8a03-08f358d8a3fc",
+     "title": "Keyboard Concerto no. 6 in C major, BWV 977 after unknown German composer: II. Adagio"
+    },
+    {
+     "id": "1ba74492-effb-4910-9603-5656c320b082",
+     "title": "Keyboard Concerto no. 6 in C major, BWV 977 after unknown German composer: III. Gigue - Presto"
+    }
+   ]
+  },
+  {
+   "bwv": "978",
+   "id": "d7a7fd81-66a1-4cea-ae16-a00e1ee83336",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 7 in F major after Antonio Vivaldi, BWV 978",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "62f985d5-1d7b-4d27-a370-2f85090183a8",
+     "title": "Concerto in F major, BWV 978: I. Allegro"
+    },
+    {
+     "id": "56635227-da6b-4f64-a29c-f82ac4536d1a",
+     "title": "Concerto in F major, BWV 978: II. Largo"
+    },
+    {
+     "id": "f1b751fc-0131-4b39-8ebd-5737ecdd3224",
+     "title": "Concerto in F major, BWV 978: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "979",
+   "id": "2db83cee-236b-412c-82a3-179097359e1d",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 8 in B minor after Giuseppe Torelli, BWV 979",
+   "key": "B minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "7226180a-d9a7-44ff-991c-089a84b323d5",
+     "title": "Keyboard Concerto no. 8 in B minor, BWV 979 after Giuseppe Torelli: I. Allegro"
+    },
+    {
+     "id": "25265ce2-bbdf-4927-97a1-6dace1dbb9d0",
+     "title": "Keyboard Concerto no. 8 in B minor, BWV 979 after Giuseppe Torelli: II. Adagio"
+    },
+    {
+     "id": "c5163e1b-6c97-4077-8a05-31f1d7fb0642",
+     "title": "Keyboard Concerto no. 8 in B minor, BWV 979 after Giuseppe Torelli: III. Allegro - Adagio"
+    },
+    {
+     "id": "6b90c5f5-ded5-42c1-b379-3a79fe58bb55",
+     "title": "Keyboard Concerto no. 8 in B minor, BWV 979 after Giuseppe Torelli: IV. Andante"
+    },
+    {
+     "id": "43e4763f-2aad-42af-a3ec-c1cfbb783142",
+     "title": "Keyboard Concerto no. 8 in B minor, BWV 979 after Giuseppe Torelli: V. Adagio"
+    },
+    {
+     "id": "6d43729e-96cf-4017-9205-82563e3e8a8d",
+     "title": "Keyboard Concerto no. 8 in B minor, BWV 979 after Giuseppe Torelli: VI. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "980",
+   "id": "483166ed-3251-45c0-9b30-a63fbf12db33",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 9 in G major after Antonio Vivaldi, BWV 980",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "785d0744-1a7a-492b-bed7-c9d0e526070b",
+     "title": "Concerto in G major, BWV 980: I. [Allegro]"
+    },
+    {
+     "id": "cb84438c-c677-44a2-ab23-0d2c21fb6eb8",
+     "title": "Concerto in G major, BWV 980: II. Largo"
+    },
+    {
+     "id": "066bb1f2-34b9-4e20-bf0a-0e312cff405f",
+     "title": "Concerto in G major, BWV 980: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "981",
+   "id": "e494e8a5-a501-48d9-9bda-eae8ac4025c3",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 10 in C minor after Benedetto Marcello, BWV 981",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "d84aaaa2-268e-44b1-ba6d-1a028547dd6e",
+     "title": "Concerto in C minor, BWV 981: I. Adagio"
+    },
+    {
+     "id": "78abc8ff-b75c-4743-851b-ab0d9d32800c",
+     "title": "Concerto in C minor, BWV 981: II. Vivace"
+    },
+    {
+     "id": "ddd0b4ad-895f-47c9-a37f-7d3d4e0c6936",
+     "title": "Concerto in C minor, BWV 981: III. Adagio"
+    },
+    {
+     "id": "356d3df0-e0d2-4348-a2f1-c2b142bb59a0",
+     "title": "Concerto in C minor, BWV 981: IV. Prestissimo"
+    }
+   ]
+  },
+  {
+   "bwv": "982",
+   "id": "afe4127e-0477-4e1a-871e-60440ca5bd51",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 11 in B-flat major after Johann Ernst von Sachsen-Weimar, BWV 982",
+   "key": "B-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "858a7a45-8e42-425e-b00f-724bc69f1eb2",
+     "title": "Keyboard Concerto no. 11 in B-flat major, BWV 982 after Johann Ernst von Sachsen-Weimar: I. Allegro"
+    },
+    {
+     "id": "6a383889-5f0c-4dd6-91dc-2234a645019d",
+     "title": "Keyboard Concerto no. 11 in B-flat major, BWV 982 after Johann Ernst von Sachsen-Weimar: II. Adagio - Allegro"
+    },
+    {
+     "id": "aad2c2de-4948-4db9-b093-6e46e358c3af",
+     "title": "Keyboard Concerto no. 11 in B-flat major, BWV 982 after Johann Ernst von Sachsen-Weimar: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "983",
+   "id": "1a178863-3551-48ec-b72a-4581ec6e61c1",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 12 in G minor after an unknown German composer, BWV 983",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "da92219d-e891-4465-bebc-a29117d9e491",
+     "title": "Keyboard Concerto no. 12 in G minor, BWV 983 after unknown German composer: I. Allegro"
+    },
+    {
+     "id": "f581a86a-fa84-4494-b36a-53f3e5b29a00",
+     "title": "Keyboard Concerto no. 12 in G minor, BWV 983 after unknown German composer: II. Adagio"
+    },
+    {
+     "id": "16db1107-aead-4b35-b090-b605572c5be6",
+     "title": "Keyboard Concerto no. 12 in G minor, BWV 983 after unknown German composer: III. Gigue - Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "984",
+   "id": "284501be-3dd6-42b5-b2cb-504ff9f00166",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 13 in C major after Johann Ernst von Sachsen-Weimar, BWV 984",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0556ec28-3163-4e01-af9f-a6e758f48e6b",
+     "title": "Keyboard Concerto no. 13 in C major, BWV 984 after Johann Ernst von Sachsen-Weimar: I. Allegro"
+    },
+    {
+     "id": "61924529-f0e5-4e4e-8b4a-429911185b77",
+     "title": "Keyboard Concerto no. 13 in C major, BWV 984 after Johann Ernst von Sachsen-Weimar: II. Adagio"
+    },
+    {
+     "id": "1e142ae9-ea58-4b10-9b1a-60c92ebb39e3",
+     "title": "Keyboard Concerto no. 13 in C major, BWV 984 after Johann Ernst von Sachsen-Weimar: III. Chaconne - Allegro assai"
+    }
+   ]
+  },
+  {
+   "bwv": "985",
+   "id": "f9fa44e1-44e3-4ff3-bb08-a49ec1b23825",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 14 in G minor after Georg Philipp Telemann, BWV 985",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "90d47f0e-cb08-49e0-a7eb-f432640469ee",
+     "title": "Keyboard Concerto no. 14 in G minor, BWV 985 after Georg Philipp Telemann: I. Allegro"
+    },
+    {
+     "id": "2a0cee59-a1dd-4ebd-8ab6-ce44d0339446",
+     "title": "Keyboard Concerto no. 14 in G minor, BWV 985 after Georg Philipp Telemann: II. Adagio"
+    },
+    {
+     "id": "a4a87534-ecea-4862-bb7d-f09d3d94cc4f",
+     "title": "Keyboard Concerto no. 14 in G minor, BWV 985 after Georg Philipp Telemann: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "986",
+   "id": "384aa7be-f902-4b60-978c-72ce5f5fded1",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 15 in G major after an unknown German composer, BWV 986",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "2ba0b8af-4067-45be-bca3-fd6dae164ac5",
+     "title": "Keyboard Concerto no. 15 in G major, BWV 986 after unknown German composer: I. Allegro"
+    },
+    {
+     "id": "e672acf3-cd2d-48f0-a154-f40339eb1e33",
+     "title": "Keyboard Concerto no. 15 in G major, BWV 986 after unknown German composer: II. Adagio"
+    },
+    {
+     "id": "b6346031-51a4-453e-bbb8-6fc252bdefce",
+     "title": "Keyboard Concerto no. 15 in G major, BWV 986 after unknown German composer: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "987",
+   "id": "8a65c10f-ad5e-4702-8475-e782f945942a",
+   "candidates": [],
+   "ambiguous": false,
+   "title": "Keyboard Concerto no. 16 in D minor after Johann Ernst von Sachsen-Weimar, BWV 987",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "157be5df-aa24-40e7-8a4b-ef4a91d5e63f",
+     "title": "Keyboard Concerto no. 16 in D minor, BWV 987 after Johann Ernst von Sachsen-Weimar: I. Grave - Presto - Grave - Presto - Grave"
+    },
+    {
+     "id": "7304617c-332a-4d61-8bee-a738ee975e66",
+     "title": "Keyboard Concerto no. 16 in D minor, BWV 987 after Johann Ernst von Sachsen-Weimar: II. Allegro - Adagio"
+    },
+    {
+     "id": "242098e8-306a-40fa-bcea-239327404eae",
+     "title": "Keyboard Concerto no. 16 in D minor, BWV 987 after Johann Ernst von Sachsen-Weimar: III. Vivace"
+    }
+   ]
+  }
+ ]
+}

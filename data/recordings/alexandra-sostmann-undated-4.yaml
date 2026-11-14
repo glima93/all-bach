@@ -1,0 +1,28 @@
+id: alexandra-sostmann-undated-4
+performers:
+- name: Alexandra Sostmann
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '974', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d9c40242-3169-4282-8d72-fbe134b8f694
+  title: 'Grenzgänge: Frescobaldi to Pärt'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b72e7d87-0e06-48b9-947a-e3b0dbfbd5eb
+  recordings: [e41fe034-3c27-49e9-8268-aef76e70e0ca]

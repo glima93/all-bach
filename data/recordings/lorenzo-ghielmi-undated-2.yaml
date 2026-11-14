@@ -1,0 +1,28 @@
+id: lorenzo-ghielmi-undated-2
+performers:
+- name: Lorenzo Ghielmi
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Basilica di San Simpliciano
+released: 2002
+original_label: null
+works:
+- {bwv: '974', complete: true}
+- {bwv: '978', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/61a28a1a-c94c-4594-baa3-7bd44190da2f
+  title: Konzertbearbeitungen für Orgel
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 398f9067-ff97-4743-82f3-16dcb68c3654
+  recordings: [c3987473-4be1-4b3d-80b9-17fc4e7c23b4]

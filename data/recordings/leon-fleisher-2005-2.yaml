@@ -1,0 +1,26 @@
+id: leon-fleisher-2005-2
+performers:
+- name: Leon Fleisher
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2005]
+  place: The American Academy of Arts and Letters
+released: 2006
+original_label: null
+works:
+- {bwv: '992', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/435265fa-e441-4121-82e4-4a12368b6c9a
+  title: The Journey
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dc0d49cd-8afe-470f-936d-204ade81d537
+  recordings: [9347af80-628a-4c9b-9cb5-752b8de78c58]

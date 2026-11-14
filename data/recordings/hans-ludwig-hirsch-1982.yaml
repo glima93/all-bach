@@ -1,0 +1,29 @@
+id: hans-ludwig-hirsch-1982
+performers:
+- name: Hans Ludwig Hirsch
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1982]
+  place: Villa Parco Bolasco
+released: null
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '974', complete: true}
+- {bwv: '975', complete: true}
+- {bwv: '976', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc6b132b-d0a7-4d59-aa18-d79bde4bf44b
+  title: 'Konzerte für Cembalo Solo, Vol. 1: Nach werken von Antonio Vivaldi, Alessandro und Benedetto Marcello'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cd9f1a1d-757c-4c17-ba19-3793b2662a88
+  recordings: [26670844-4789-44a8-9b4d-f07628a02eb8, 439bc15b-955f-4bff-aac7-c22197ac2b23]

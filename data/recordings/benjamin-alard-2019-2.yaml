@@ -1,0 +1,34 @@
+id: benjamin-alard-2019-2
+performers:
+- name: Benjamin Alard
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019, 2020, 2023]
+  place: Auditorium Antonin Artaud
+released: 2021
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '973', complete: true}
+- {bwv: '974', complete: true}
+- {bwv: '975', complete: true}
+- {bwv: '976', complete: true}
+- {bwv: '978', complete: true}
+- {bwv: '979', complete: true}
+- {bwv: '980', complete: true}
+- {bwv: '984', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e6c7e9c2-3a81-4d14-ab25-7c10c491a949
+  title: The Complete Works for Keyboard 4 "Alla Veneziana"
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [1aed754e-8142-4514-9a89-59fb00295d73]

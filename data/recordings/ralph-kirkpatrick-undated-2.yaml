@@ -1,0 +1,27 @@
+id: ralph-kirkpatrick-undated-2
+performers:
+- name: Ralph Kirkpatrick
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Polydor Studios
+released: 2018
+original_label: null
+works:
+- {bwv: '994', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 957f3222-063c-4057-878d-b968f06b7623
+  recordings: [f59f7193-30c5-4277-97ea-98066604b1b7]

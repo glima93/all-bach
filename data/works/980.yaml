@@ -1,0 +1,16 @@
+bwv: "980"
+title: "Concerto in G major after Vivaldi"
+key: "G major"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. [Allegro]"
+  - "II. Largo"
+  - "III. Allegro"
+notes: "After Vivaldi's Violin Concerto in B-flat major, RV 383, a variant of which (RV 383a) was published as Op. 4 No. 1. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/483166ed-3251-45c0-9b30-a63fbf12db33

@@ -1,0 +1,26 @@
+id: aapo-hakkinen-2014-3
+performers:
+- name: Aapo Häkkinen
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Sankta Katarina kyrka
+released: 2015
+original_label: null
+works:
+- {bwv: '993', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/955e3f8a-7f99-48ce-988c-23ed9466aa52
+  title: Works for Hapsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 00d99e36-e21a-41b7-b371-5638990c882b
+  recordings: [9a831dbb-6e8c-41f7-a368-fa5298cf13dc]

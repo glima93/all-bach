@@ -1,0 +1,28 @@
+id: rinaldo-alessandrini-1999-3
+performers:
+- name: Rinaldo Alessandrini
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '989', complete: true}
+- {bwv: '992', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0cf4b5b3-6768-4e08-9d0d-ef9165b3f132
+  title: Bach / Vivaldi
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fe8e649-728d-4ae6-969c-25947ff9bb96
+  recordings: [1eefc0dd-7d7c-4aaa-9698-b76d0ee6561e]

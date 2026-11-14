@@ -1,0 +1,14 @@
+bwv: "994"
+title: "Applicatio in C major"
+key: "C major"
+collection: "Sonatas, Variations and Capriccios"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Köthen, 1720"
+movements:
+  - "Applicatio in C major"
+notes: "The first piece in the Klavierbüchlein für Wilhelm Friedemann Bach, begun in 1720; a short fingering exercise, one of only two surviving works with fingering in Bach's own hand."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Klavierb%C3%BCchlein_f%C3%BCr_Wilhelm_Friedemann_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/d0d460cf-a1f7-3bb3-92f8-b3e57daec2e8

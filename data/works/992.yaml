@@ -1,0 +1,19 @@
+bwv: "992"
+title: "Capriccio on the Departure of a Beloved Brother"
+key: "B-flat major"
+collection: "Sonatas, Variations and Capriccios"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1704–1707"
+movements:
+  - "I. Arioso: Adagio"
+  - "II. (Andante)"
+  - "III. Adagiosissimo"
+  - "IV. (Andante con moto)"
+  - "V. Allegro poco: Aria di postiglione"
+  - "VI. Fugue in imitation of the postilion's horn"
+notes: "Programmatic early work traditionally connected with the departure of Bach's brother Johann Jacob, who left to serve as an oboist in the Swedish army of Charles XII; each movement carries a descriptive heading."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Capriccio_on_the_departure_of_a_beloved_brother,_BWV_992"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e730f208-b54b-4b68-8265-54ca114c50be

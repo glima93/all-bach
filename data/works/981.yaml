@@ -1,0 +1,17 @@
+bwv: "981"
+title: "Concerto in C minor after Benedetto Marcello"
+key: "C minor"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. Adagio"
+  - "II. Vivace"
+  - "III. Adagio"
+  - "IV. Prestissimo"
+notes: "After Benedetto Marcello's Concerto Op. 1 No. 2. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e494e8a5-a501-48d9-9bda-eae8ac4025c3

@@ -1,0 +1,32 @@
+id: cyprien-katsaris-1994-3
+performers:
+- name: Cyprien Katsaris
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1994]
+  place: Friedrich-Ebert-Halle
+released: 1995
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '973', complete: true}
+- {bwv: '975', complete: true}
+- {bwv: '976', complete: true}
+- {bwv: '977', complete: true}
+- {bwv: '978', complete: true}
+- {bwv: '980', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4697790e-9a6d-413f-9c39-31d3c89f3078
+  title: Bach's Italian Journey, Volume 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6c8a4b55-d632-4d1d-91f6-03d7fb0a6979
+  recordings: [9c62d3cd-5112-4d24-aff0-12172f27e71d]

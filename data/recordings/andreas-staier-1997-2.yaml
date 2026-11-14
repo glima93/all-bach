@@ -1,0 +1,28 @@
+id: andreas-staier-1997-2
+performers:
+- name: Andreas Staier
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: Deutschlandfunk Kammermusiksaal
+released: 1997
+original_label: null
+works:
+- {bwv: '964', complete: true}
+- {bwv: '965', complete: true}
+- {bwv: '966', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/93a17b31-2a93-45f5-9ecc-47f14859881a
+  title: Sonate per il Cembalo BWV 964-966, 968 & 954
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 159f2f4b-2431-4045-adbd-a2d320c907ac
+  recordings: [a5f1ec7c-e373-412d-89e0-5cdf3cef2016]

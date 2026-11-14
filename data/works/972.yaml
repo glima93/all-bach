@@ -1,0 +1,16 @@
+bwv: "972"
+title: "Concerto in D major after Vivaldi"
+key: "D major"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Allegro assai"
+notes: "After Vivaldi's Violin Concerto in D major, RV 230, Op. 3 No. 9 (L'estro armonico). An earlier version of Bach's transcription survives as BWV 972a. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/3d0345d1-ac59-4d4a-8ded-0a223e7cb92f

@@ -1,0 +1,27 @@
+id: sebastian-knebel-2014
+performers:
+- name: Sebastian Knebel
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Orchesterprobensaal des MDR
+released: 2015
+original_label: null
+works:
+- {bwv: '982', complete: true}
+- {bwv: '987', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e7e74e3d-72ba-41cb-bb1f-01d584a2cc16
+  title: 'Johann Ernst: The Complete Violin Concertos / Bach: Harpsichord Transcriptions'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f4f49bfe-0c91-42e6-9d5c-f6f384cb1ac5
+  recordings: [4ee7bfa9-a8be-4d00-82eb-04c400d7cef2]

@@ -1,0 +1,26 @@
+id: asgeir-beinteinsson-1965
+performers:
+- name: Ásgeir Beinteinsson
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1965]
+  place: RÚV Stúdíó 1
+released: 2013
+original_label: null
+works:
+- {bwv: '974', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3518124d-5c30-412c-9cdf-72844831cf9a
+  title: Ásgeir Beinteinsson
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e7cb9bd-b8d4-42f9-a00c-d74ff644df76
+  recordings: [76a31ecb-24b4-420b-bc4d-0222af2bd4e6]

@@ -1,0 +1,26 @@
+id: glen-wilson-1990
+performers:
+- name: Glen Wilson
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Lutherse Kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '989', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9737d063-4ce8-44b0-9ab8-28e6ecbb44c0
+  recordings: [6611520a-6f76-44e1-a784-76f3582913f9]

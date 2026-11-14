@@ -1,0 +1,27 @@
+id: anna-gourari-2018
+performers:
+- name: Anna Gourari
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2018]
+  place: Reitstadel
+released: 2019
+original_label: null
+works:
+- {bwv: '974', complete: false, movements: [II. Adagio]}
+- {bwv: '975', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6716ec1d-b3d2-4fe5-8e13-389d31f2a583
+  title: Elusive Affinity
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45f13aa2-91eb-49b8-8d0b-22c828b025aa
+  recordings: [1690728d-bcf1-4c1f-90af-5babce3faef2]

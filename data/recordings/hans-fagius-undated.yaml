@@ -1,0 +1,28 @@
+id: hans-fagius-undated
+performers:
+- name: Hans Fagius
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '943', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/affbfedb-57c6-4f3a-a96e-4ffabcc338bd
+  title: 'Bach: Complete Organ Music'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  recordings: [b1caf24c-41b0-492c-9558-b757c9cda433]

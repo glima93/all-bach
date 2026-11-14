@@ -1,0 +1,30 @@
+id: hans-ludwig-hirsch-1983
+performers:
+- name: Hans Ludwig Hirsch
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1983]
+  place: Villa Foscari
+released: null
+original_label: null
+works:
+- {bwv: '972', complete: false, movements: [II. Adagio, III. Allegro assai]}
+- {bwv: '973', complete: false, movements: ['I. [Allegro assai]']}
+- {bwv: '978', complete: true}
+- {bwv: '980', complete: true}
+- {bwv: '981', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc6b132b-d0a7-4d59-aa18-d79bde4bf44b
+  title: 'Konzerte für Cembalo Solo, Vol. 1: Nach werken von Antonio Vivaldi, Alessandro und Benedetto Marcello'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cd9f1a1d-757c-4c17-ba19-3793b2662a88
+  recordings: [2914e243-eb81-401e-964d-d2eecd19b85b]

@@ -1,0 +1,29 @@
+id: jorg-halubek-undated-3
+performers:
+- name: Jörg Halubek
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '992', complete: true}
+- {bwv: '993', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/be07f21f-7685-40cf-8382-7fcc0e229f66
+  title: 50°50’03.5"N 10°56’46.1"E (Arnstadt, Brandis, Zschortau)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 415f6600-2290-4c6c-997b-acb5c3a53281
+  recordings: [544b79c7-3588-4cfa-bcd5-194a58ede58a]

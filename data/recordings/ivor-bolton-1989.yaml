@@ -1,0 +1,29 @@
+id: ivor-bolton-1989
+performers:
+- name: Ivor Bolton
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: All Saints’ Church
+released: 1990
+original_label: null
+works:
+- {bwv: '974', complete: true}
+- {bwv: '976', complete: true}
+- {bwv: '979', complete: true}
+- {bwv: '981', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0fe5173d-c51d-4680-86ac-fc790a5d8fc5
+  title: 8 Concerto Transcriptions
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 97ef4021-d1fd-45b7-b477-bb1452ac0f43
+  recordings: [df915428-5c1c-4da7-9cd9-f16d06356e9b]

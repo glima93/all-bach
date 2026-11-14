@@ -1,0 +1,24 @@
+bwv: "989"
+title: "Aria variata alla maniera italiana"
+key: "A minor"
+collection: "Sonatas, Variations and Capriccios"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1709"
+movements:
+  - "I. Aria"
+  - "II. Variation 1: Largo"
+  - "III. Variation 2"
+  - "IV. Variation 3"
+  - "V. Variation 4: Allegro"
+  - "VI. Variation 5: Un poco allegro"
+  - "VII. Variation 6: Andante"
+  - "VIII. Variation 7: Un poco allegro"
+  - "IX. Variation 8: Allegro"
+  - "X. Variation 9"
+  - "XI. Variation 10"
+notes: "An aria followed by ten variations in the Italian style, preserved as No. 36 of the Andreas Bach Book."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Aria_variata_alla_maniera_italiana,_BWV_989"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/45234525-e7d6-342c-80d4-6b8b72e5c36c

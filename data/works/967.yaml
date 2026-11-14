@@ -1,0 +1,14 @@
+bwv: "967"
+title: "Sonata in A minor"
+key: "A minor"
+collection: "Sonatas, Variations and Capriccios"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1704–1707"
+movements:
+  - "Sonata in A minor"
+notes: "A single-movement early work, apparently an arrangement of a movement from a chamber sonata by an unknown composer; it survives in the manuscript collection P 804 of the Berlin State Library."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/097c8298-89c1-3aa7-84d8-e14e0b9deba2

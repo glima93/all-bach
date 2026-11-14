@@ -1,0 +1,30 @@
+id: alexandre-tharaud-2004-2
+performers:
+- name: Alexandre Tharaud
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2004]
+  place: IRCAM
+released: 2004
+original_label: null
+works:
+- {bwv: '973', complete: true}
+- {bwv: '974', complete: true}
+- {bwv: '975', complete: true}
+- {bwv: '979', complete: false, movements: [IV. Andante]}
+- {bwv: '981', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4458291b-a1f5-4135-8467-a6fe5a385ac0
+  title: Concertos italiens
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 83b74911-aa21-4e31-ad1c-5eb505248f5a
+  recordings: [37db6f7f-0327-445a-96d0-c0b00b91e1c1]

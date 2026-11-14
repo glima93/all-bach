@@ -1,0 +1,26 @@
+id: francesco-corti-2019-2
+performers:
+- name: Francesco Corti
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: Sala Musicale Giardino
+released: 2020
+original_label: null
+works:
+- {bwv: '992', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/70c094a9-077b-448c-82cd-d354c5adde6c
+  title: Little Books
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7799a6f1-22c9-482c-b56a-37390254c4d1
+  recordings: [1fd301d6-70ce-447e-868f-17555bac13a5]

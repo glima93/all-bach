@@ -1,0 +1,26 @@
+id: james-rhodes-2009-2
+performers:
+- name: James Rhodes
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2009]
+  place: Roundhouse
+released: 2010
+original_label: null
+works:
+- {bwv: '974', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e900de6-18f0-4b5a-ba2c-e079443974b2
+  title: Now Would All Freudians Please Stand Aside
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: f5e8231e-7ff0-4049-9ac0-93c8a8d5d6f6
+  recordings: [a066c48f-d314-4921-a369-5bb9b57e678a]

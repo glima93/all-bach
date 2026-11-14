@@ -1,0 +1,26 @@
+id: pierre-hantai-1997-5
+performers:
+- name: Pierre Hantaï
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: Doopsgezinde kerk
+released: 1997
+original_label: null
+works:
+- {bwv: '964', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/28bcaf43-05ae-4fea-9820-16cdafc4cdd7
+  title: Toccatas, BWV 913-5 / Suite "aufs Lautenwerk" / Sonata, BWV 964
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bf55610c-41d9-45bf-a0ae-d912f49071a0
+  recordings: [2dba9be5-b68a-42c9-a7f3-36907d5df7e7]

@@ -1,0 +1,26 @@
+id: elliot-wuu-2024
+performers:
+- name: Elliot Wuu
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2024]
+  place: Sono Luminus Studios
+released: 2026
+original_label: null
+works:
+- {bwv: '992', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c170565a-ca4a-49e8-a1d4-507a5a816c6a
+  title: Onward
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e460dc7c-a217-44be-88e3-3b88671f5517
+  recordings: [c932726b-fa77-4bcc-b2f5-7472f06697b3]

@@ -1,0 +1,26 @@
+id: louise-acabo-2025
+performers:
+- name: Louise Acabo
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2025]
+  place: Christuskirche - Église protestante allemande à Paris
+released: 2026
+original_label: null
+works:
+- {bwv: '974', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2beede39-8925-47cc-bb06-b0963a481876
+  title: 48° North. Caldara, from Venice to Vienna
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 907029d4-77a2-4e08-9284-fca4fbad7b0d
+  recordings: [0390b1dc-2d7e-47fc-a6c3-1d44b9fedb73]

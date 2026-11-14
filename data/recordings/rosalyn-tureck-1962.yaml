@@ -1,0 +1,27 @@
+id: rosalyn-tureck-1962
+performers:
+- name: Rosalyn Tureck
+  role: performer
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1962]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '992', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0363c976-48d0-498b-a29a-6e09042d36ab
+  title: Historic Recordings 1952-1962
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e102c96-3536-4ff9-ac29-d189eed65dc9
+  recordings: [3b1b20e0-84f2-430d-b57c-edf396f9b100]

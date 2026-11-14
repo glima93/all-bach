@@ -1,0 +1,16 @@
+bwv: "983"
+title: "Concerto in G minor (model unidentified)"
+key: "G minor"
+collection: "Concerto transcriptions for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "Weimar, 1713–1714"
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Gigue – Allegro"
+notes: "The concerto on which this transcription is based has not been identified. Probably transcribed at Weimar between July 1713 and July 1714."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weimar_concerto_transcriptions_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/1a178863-3551-48ec-b72a-4581ec6e61c1

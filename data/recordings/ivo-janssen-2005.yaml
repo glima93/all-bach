@@ -1,0 +1,42 @@
+id: ivo-janssen-2005
+performers:
+- name: Ivo Janssen
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2005]
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '972', complete: true}
+- {bwv: '973', complete: true}
+- {bwv: '974', complete: true}
+- {bwv: '975', complete: true}
+- {bwv: '976', complete: true}
+- {bwv: '977', complete: true}
+- {bwv: '978', complete: true}
+- {bwv: '979', complete: true}
+- {bwv: '980', complete: true}
+- {bwv: '981', complete: true}
+- {bwv: '982', complete: true}
+- {bwv: '983', complete: true}
+- {bwv: '984', complete: true}
+- {bwv: '985', complete: true}
+- {bwv: '986', complete: true}
+- {bwv: '987', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5158c65a-adb7-40d3-9914-025a193c41a3
+  title: Transcripts of Concertos After Vivaldi and Others
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d0429033-db16-4cbb-985c-44c41a5c58df
+  recordings: [23a82c64-d57a-4deb-8d17-694580cb4278, 588a92ec-429e-46fd-9661-8a89ad04e5bd]

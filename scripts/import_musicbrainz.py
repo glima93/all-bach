@@ -130,12 +130,20 @@ EXCLUDE_BY_SNAPSHOT["flute-works"] = {
 EXCLUDE_BY_SNAPSHOT["little-preludes"] = {
     "54aff438-a805-4998-aa95-8483920b1b7c": "AAFTAC Symphonette's 1944 single 'Prelude in E major / Waltz': a band orchestration, almost certainly the Preludio of the violin Partita No. 3 BWV 1006 mislinked to BWV 937",
 }
+EXCLUDE_BY_SNAPSHOT["keyboard-transcriptions"] = {
+    "3d6151db-d195-4bb4-ba63-0d35933ec29b": "Angelicum di Milano and Zedda, 'Concertos pour 4 violons & 4 clavecins': the orchestra plays, so this is Vivaldi's violin concerto Op. 3 No. 3 (RV 310), the model, not Bach's solo keyboard BWV 978",
+    "bfbe88be-c198-4d90-a2a0-7cc8256e0629": "Angelicum di Milano and Zedda, 'Concertos pour violons et clavecins': the same Vivaldi Op. 3 No. 3 (RV 310) for violin and strings, linked to BWV 978",
+}
 EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 
 # One performance that the snapshot splits into two rows (an undated track of a dated set, one set recorded
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "keyboard-transcriptions": {
+    "439bc15b-955f-4bff-aac7-c22197ac2b23": ("26670844-4789-44a8-9b4d-f07628a02eb8", "Hirsch's undated first movement of BWV 974 on Konzerte für Cembalo Solo, Vol. 1, with movements 2-3 from 1982"),
+    "23a82c64-d57a-4deb-8d17-694580cb4278": ("588a92ec-429e-46fd-9661-8a89ad04e5bd", "Ivo Janssen's BWV 973 on the sampler Aangenaam klassiek 2005, from his complete set of the concertos"),
+  },
   "lute-works": {
     "5aac3021-1492-4368-91ab-de19586dba7a": ("43a43ec3-99db-464b-b1fa-ad9b356a13e4", "Luca Pianca's BWV 999 and 1000 on Bach 2000, with his 1998 BWV 995"),
     "8bdfa221-eee4-44c4-8cd4-b2b327d0048d": ("1b5f6485-f696-497a-bec7-16b32079778c", "Barchi's lute-harpsichord tracks on the Bach 2000 sampler, from the same set"),
@@ -645,6 +653,29 @@ OVERRIDE_BY_SNAPSHOT = {
     "07793f91-ccc1-4e2e-90a6-3c54d0507d19": ({"instrument": "harpsichord"}, "Andrew Appel, harpsichordist; no instrument credit"),
     "795b3b64-8d94-4f4d-acd8-0c6c7834dea1": ({"instrument": "harpsichord"}, "Francesco Corti, harpsichordist; no instrument credit"),
   },
+  "keyboard-transcriptions": {
+    "a707f18d-d130-41f0-8fe2-308e1214855f": ({"instrument": "harpsichord", "performance_practice": "historical"},
+        "Naoki Kitaya's 8 concerti per clavicembalo: the harpsichord leads, with a continuo of cello and theorbo added (an arrangement)"),
+    "20782c12-6e09-4e07-91e1-2d31c7b2d766": ({"instrument": "harpsichord", "performance_practice": "historical"},
+        "Naoki Kitaya's 8 concerti per clavicembalo: the harpsichord leads, with a continuo of cello, theorbo and plucked strings added"),
+    "2dc1ffad-4bf9-45f3-bce6-a3271e035c6b": ({"arrangement": True},
+        "Bardon with Kammerorchester Pro Arte München and Redel, 'Concertos pour orgue et orchestre': Bach's solo keyboard concertos scored for organ and orchestra"),
+    "9baa0084-51c3-45f8-b401-247adc48cde9": ({"arrangement": True, "performance_practice": "unknown"},
+        "Gabriela Montero's Bach and Beyond, 'improvisations on themes by J. S. Bach': her improvisation on the Adagio of BWV 974"),
+    "4ee7bfa9-a8be-4d00-82eb-04c400d7cef2": ({"performers": [{"name": "Sebastian Knebel", "role": "harpsichord"}]},
+        "solo harpsichord transcriptions: Sebastian Knebel plays; Ensemble Fürsten-Musik is only the release's artist credit"),
+    "52239131-6ec9-4a96-93cf-67df39b677b4": ({"instrument": "organ"}, "Olivier Vernet's Intégrale pour orgue; no instrument credit"),
+    "76f247ad-c861-4370-afdb-d125c4209cc1": ({"performers": [{"name": "Justin Taylor", "role": "harpsichord"}],
+        "instrument": "harpsichord", "performance_practice": "historical", "arrangement": False},
+        "Le Consort's Specchio veneziano: the Larghetto of BWV 972, listed as from the harpsichord concerto, is a solo for the group's harpsichordist, Justin Taylor"),
+  },
+  "keyboard-sonatas-variations": {
+    "7d084a9a-59ef-4c3c-9b81-f09b51e8b67d": ({"instrument": "harpsichord"}, "Andrew Appel, harpsichordist; no instrument credit"),
+    "70193c85-d059-4fdd-a979-bb32845eca65": ({"instrument": "piano"}, "Lili Kraus, pianist; no instrument credit"),
+    "d347bc43-9237-4d23-86d7-5b91b16ea7f5": ({"instrument": "piano"}, "Maria Grinberg, pianist; no instrument credit"),
+    "3b1b20e0-84f2-430d-b57c-edf396f9b100": ({"instrument": "piano"},
+        "Rosalyn Tureck's c. 1962 BWV 992 (Decca 'A Bach Recital', her first recording of it) is on the piano; no instrument credit"),
+  },
 }
 
 INSTRUMENTS = {
@@ -1141,7 +1172,7 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         "works": works_block(perf, bwvs, moves),
         "links": mb_links(perf),
         "status": "draft",
-        "musicbrainz": {"artist": perf["ids"][0], "recordings": Flow(sorted(perf["recIds"]))},
+        "musicbrainz": {**({"artist": perf["ids"][0]} if perf["ids"][0] else {}), "recordings": Flow(sorted(perf["recIds"]))},
         "help_wanted": [],
         "notes": "Live recording." if perf.get("live") else None,
     }
@@ -1246,7 +1277,8 @@ def merge(old: dict, new: dict) -> dict:
     urls = {l["url"] for l in old["links"]}
     out["links"] = list(old["links"]) + [l for l in new["links"] if l["url"] not in urls]
     mb = dict(old.get("musicbrainz") or {})
-    mb.setdefault("artist", new["musicbrainz"]["artist"])
+    if "artist" in new["musicbrainz"]:
+        mb.setdefault("artist", new["musicbrainz"]["artist"])
     mb["recordings"] = Flow(sorted(set(mb.get("recordings", [])) | set(new["musicbrainz"]["recordings"])))
     out["musicbrainz"] = mb
     answered = []
@@ -1344,6 +1376,11 @@ def main(snapshot: str) -> int:
     missing = [b for b in bwvs if b not in moves]
     if missing:
         raise SystemExit(f"Add work files for BWV {', '.join(missing)} before importing")
+    # A recording credited to Bach alone (no performer in the artist credit) whose relationships name exactly
+    # one player is that player's (Mattax Moersch's Bach and the Lautenwerk). The artist ID is not in the
+    # snapshot, so the file gets none.
+    rows = [{**c, "n": list(c["roles"]), "a": [None], "t": ["Person"]}
+            if not c["a"] and len(c.get("roles") or {}) == 1 else c for c in rows]
     if mode == "keyboard":
         rows = [keyboard_soloist(c, native) for c in rows]
     perfs = [expand(c, bwvs, moves) for c in rows if c["a"] and c["rep"] not in EXCLUDE and UNKNOWN_ARTIST not in c["a"]

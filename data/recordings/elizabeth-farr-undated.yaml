@@ -1,0 +1,39 @@
+id: elizabeth-farr-undated
+performers:
+- name: Elizabeth Farr
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '972', complete: false, movements: [III. Allegro assai]}
+- {bwv: '975', complete: true}
+- {bwv: '977', complete: true}
+- {bwv: '979', complete: true}
+- {bwv: '980', complete: true}
+- {bwv: '981', complete: true}
+- {bwv: '982', complete: true}
+- {bwv: '983', complete: true}
+- {bwv: '984', complete: true}
+- {bwv: '985', complete: true}
+- {bwv: '986', complete: true}
+- {bwv: '987', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c8ea8de-2608-405d-9e5f-54cf040e1b0e
+  title: Concertos for Solo Harpsichord (Complete)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 656b9283-efea-455f-bcf6-a25d1168a4a4
+  recordings: [3410ad90-86b2-40ad-b89c-8e1b67fad16e]

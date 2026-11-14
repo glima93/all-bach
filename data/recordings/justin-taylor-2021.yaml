@@ -1,0 +1,26 @@
+id: justin-taylor-2021
+performers:
+- name: Justin Taylor
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Galerie dorée de la banque de France
+released: 2021
+original_label: null
+works:
+- {bwv: '972', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2f20173-8e4d-4c9e-a9fb-d52df55d7783
+  title: Specchio veneziano
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: afe5377f-d508-4ce1-a3c0-e2a01b19815b
+  recordings: [76f247ad-c861-4370-afdb-d125c4209cc1]

@@ -1,0 +1,25 @@
+id: dietmar-schunicke-1986
+performers:
+- name: Dietmar Schünicke
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986]
+  place: Hauptkirche Sankt Michaelis
+released: 1987
+original_label: null
+works:
+- {bwv: '1041', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/377a4af5-c5d4-405b-905b-81e1f04df6d3
+  title: 25. Philips Weihnachts-Konzert in St. Michaelis, Hamburg am 12 Dezember 1986
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  recordings: [77da51c9-81a0-4f20-938e-dacf0fa070b6]

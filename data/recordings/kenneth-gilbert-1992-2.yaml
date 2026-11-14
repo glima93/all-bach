@@ -1,0 +1,27 @@
+id: kenneth-gilbert-1992-2
+performers:
+- name: Kenneth Gilbert
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1992]
+  place: Musée des beaux-arts de Chartres
+released: 1993
+original_label: null
+works:
+- {bwv: '989', complete: true}
+- {bwv: '992', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3b0b32a3-3208-4ffa-b613-c3edbb2f694a
+  title: Prelude & Fuge, Aria, Toccatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24dade80-0518-4ae7-b62e-cbd31489bb5d
+  recordings: [b8edc978-a275-49fd-807d-ac0dc24ac54b]

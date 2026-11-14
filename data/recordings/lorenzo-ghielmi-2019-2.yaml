@@ -1,0 +1,27 @@
+id: lorenzo-ghielmi-2019-2
+performers:
+- name: Lorenzo Ghielmi
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '964', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b9a5f590-6edf-4ee1-b3be-29c54e61deae
+  title: Sonatas for Violin and Basso Continuo
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 398f9067-ff97-4743-82f3-16dcb68c3654
+  recordings: [e379fee2-822e-4646-83fe-4e3fbdff3ecd]

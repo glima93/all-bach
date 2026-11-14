@@ -1,0 +1,27 @@
+id: tamara-stefanovich-undated
+performers:
+- name: Tamara Stefanovich
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Teldex Studio
+released: 2019
+original_label: null
+works:
+- {bwv: '989', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9953c0df-8aa2-498c-8485-5dbac693a2d5
+  title: Influences
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a0f04def-3ab3-4a73-a458-ef72c7cc942f
+  recordings: [4ea0d7b1-a8f1-4f22-9860-57135466db42]

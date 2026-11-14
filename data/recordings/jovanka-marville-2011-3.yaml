@@ -1,0 +1,27 @@
+id: jovanka-marville-2011-3
+performers:
+- name: Jovanka Marville
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '972', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a3482aff-9f2d-467b-bc39-8bcc9bb86783
+  title: Keyboard Works on Clavichord
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29e1d89e-37f9-4332-b40b-a5343a09dc24
+  recordings: [d12c85e0-a464-40c3-a9b8-1450ba5c5791]

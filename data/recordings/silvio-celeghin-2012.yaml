@@ -1,0 +1,26 @@
+id: silvio-celeghin-2012
+performers:
+- name: Silvio Celeghin
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: Basilica di Santa Maria Gloriosa dei Frari
+released: 2013
+original_label: null
+works:
+- {bwv: '976', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e3213344-eda8-4cd6-83dc-916d1922ebc7
+  title: Concerto a due organi
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93c468dd-7aa7-4083-9a1d-aa491399a223
+  recordings: [1cb0a8b4-5b5a-4c69-8990-3fac1a7341d4]

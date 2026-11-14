@@ -1,0 +1,28 @@
+id: gustav-leonhardt-1984-4
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '992', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ede575b4-593a-4017-9493-34c07b52ddf9
+  title: Suite BWV 996 / Toccata BWV 914 / Capriccio BWV 992 / Fantasia & Fugue BWV 904 / Prelude, Allegro, and
+    Fugue BWV 998
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [2b051a6c-9674-4269-892f-5c9db521de66]

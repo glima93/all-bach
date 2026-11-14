@@ -129,7 +129,10 @@ class Collector:
         out = []
         for p in w["parts"]:
             out += self.leaves(p["id"], depth + 1)
-        return out
+        # A movement linked twice as a part (BWV 818 lists its Sarabande simple and double twice) is one
+        # movement: keep its first place.
+        seen = set()
+        return [m for m in out if not (m["id"] in seen or seen.add(m["id"]))]
 
     def find(self, bwv: str) -> dict:
         """The MusicBrainz work for one BWV number: searched by title, arrangements and movements dropped,
@@ -401,15 +404,24 @@ def remote_collect_branches() -> set[str]:
 
 
 def stale_branch(col: dict) -> bool:
-    """True when collect/<id> was collected with another mb_parent than the plan now gives: the
-    collection is collected again and the branch overwritten (the workflow pushes with --force-with-lease)."""
+    """True when collect/<id> was collected with another mb_parent than the plan now gives, or its tree
+    lists a movement twice: the collection is collected again and the branch overwritten (the workflow
+    pushes with --force-with-lease)."""
     try:
         text = subprocess.run(["git", "show", f"origin/collect/{col['id']}:data/plan/collections.yaml"],
                               capture_output=True, text=True, check=True, cwd=ROOT).stdout
     except (subprocess.CalledProcessError, FileNotFoundError):
         return False
     old = next((c for c in yaml.safe_load(text)["collections"] if c["id"] == col["id"]), {})
-    return old.get("mb_parent") != col.get("mb_parent")
+    if old.get("mb_parent") != col.get("mb_parent"):
+        return True
+    # A tree with a movement listed twice was made before leaves() dropped repeats: collect again.
+    try:
+        tree = json.loads(subprocess.run(["git", "show", f"origin/collect/{col['id']}:data/sources/tree-{col['id']}.json"],
+                                         capture_output=True, text=True, check=True, cwd=ROOT).stdout)
+    except (subprocess.CalledProcessError, FileNotFoundError, ValueError):
+        return False
+    return any(len({m["id"] for m in w["movements"]}) < len(w["movements"]) for w in tree["works"])
 
 
 def main() -> int:

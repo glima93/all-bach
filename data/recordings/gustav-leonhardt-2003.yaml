@@ -1,0 +1,26 @@
+id: gustav-leonhardt-2003
+performers:
+- name: Gustav Leonhardt
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Chapelle de l'hôpital Notre-Dame de Bon Secours
+released: 2003
+original_label: null
+works:
+- {bwv: '989', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ae3b59ff-f179-48d1-9371-62efe58424fe
+  title: Bach / Bull / Byrd / Gibbons / Hassler / Pachelbel / Ritter / Strogers
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [c0c660ee-2386-4af9-8af9-ef8d39cf35d3]
