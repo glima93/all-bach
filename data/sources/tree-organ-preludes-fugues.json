@@ -1,0 +1,600 @@
+{
+ "collection": "organ-preludes-fugues",
+ "taken": "2026-11-14",
+ "recordings": 1557,
+ "performances": 358,
+ "works": [
+  {
+   "bwv": "531",
+   "id": "ee2cdbbf-ceec-345e-a98e-182194049e46",
+   "candidates": [
+    {
+     "id": "ee2cdbbf-ceec-345e-a98e-182194049e46",
+     "title": "Präludium und Fuge C-Dur, BWV 531"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge C-Dur, BWV 531",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "b9b24348-4f4b-3b16-9d98-94c61b699e7b",
+     "title": "Präludium und Fuge C-Dur, BWV 531: I. Präludium"
+    },
+    {
+     "id": "e5a8331e-deb2-3c33-b1c8-4cd2537c0640",
+     "title": "Präludium und Fuge C-Dur, BWV 531: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "532",
+   "id": "5f9c1b06-2107-48c6-880e-974125b35204",
+   "candidates": [
+    {
+     "id": "30c854e8-3bf6-47e8-8f3e-273cf80ba544",
+     "title": "Präludium und Fuge D-Dur, BWV 532, BV B 20"
+    },
+    {
+     "id": "5f9c1b06-2107-48c6-880e-974125b35204",
+     "title": "Präludium und Fuge D-Dur, BWV 532"
+    },
+    {
+     "id": "cb9272b1-303c-4d74-896f-c1e78f8c13dd",
+     "title": "Präludium und Fuge D-Dur, BWV 532, P. 158"
+    },
+    {
+     "id": "b66b0b0f-73de-4d9e-8aea-198284c49214",
+     "title": "Präludium und Fuge D-Dur, BWV 532"
+    },
+    {
+     "id": "3d602926-dabd-409a-8a8e-80dc49ed4ae1",
+     "title": "Präludium und Fuge D-Dur, BWV 532"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge D-Dur, BWV 532",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "6a29bf2f-1e1f-388c-bfb7-249a2a58e776",
+     "title": "Präludium und Fuge D-Dur, BWV 532: I. Präludium"
+    },
+    {
+     "id": "bcd105f4-479c-3a59-a2bd-5766da717d11",
+     "title": "Präludium und Fuge D-Dur, BWV 532: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "533",
+   "id": "d4423f4b-0550-3bd7-941c-164757e58f98",
+   "candidates": [
+    {
+     "id": "d4423f4b-0550-3bd7-941c-164757e58f98",
+     "title": "Präludium und Fuge für Orgel e-Moll, BWV 533"
+    },
+    {
+     "id": "0fb8f6ea-0bad-4c79-9db4-5606ff3c461b",
+     "title": "Präludium und Fuge e-Moll, BWV 533, BV B 26"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge für Orgel e-Moll, BWV 533",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "61f28536-2aeb-3e81-b32f-f4982f3d2234",
+     "title": "Präludium und Fuge für Orgel e-Moll, BWV 533: I. Präludium"
+    },
+    {
+     "id": "2e563668-e933-3747-a204-fb5f322dc4a7",
+     "title": "Präludium und Fuge für Orgel e-Moll, BWV 533: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "534",
+   "id": "373cb9e5-20cb-4985-aa67-7b22dd5eca32",
+   "candidates": [
+    {
+     "id": "373cb9e5-20cb-4985-aa67-7b22dd5eca32",
+     "title": "Präludium und Fuge in f-Moll, BWV 534"
+    },
+    {
+     "id": "adb5c896-bbde-487d-bb42-9711b7227023",
+     "title": "Prelude and Fugue in F minor, BWV 534"
+    },
+    {
+     "id": "a1e2991f-90ff-48d3-a2a3-04de64a56eed",
+     "title": "Präludium und Fuge in f-Moll, BWV 534"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge in f-Moll, BWV 534",
+   "key": "F minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "9a0b5206-9c27-39cf-bb73-9b1f24d624b7",
+     "title": "Präludium und Fuge in f-Moll, BWV 534: I. Präludium"
+    },
+    {
+     "id": "645abef3-531b-310d-8454-2826c74cdebb",
+     "title": "Präludium und Fuge in f-Moll, BWV 534: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "535",
+   "id": "239369ed-8583-3725-91c8-5d37f3239aff",
+   "candidates": [
+    {
+     "id": "239369ed-8583-3725-91c8-5d37f3239aff",
+     "title": "Präludium und Fuge g-Moll, BWV 535"
+    },
+    {
+     "id": "46cd59f4-d5d7-4b9b-bc7e-98731b2e234a",
+     "title": "Prelude in G minor, BWV 535"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge g-Moll, BWV 535",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "1ffcb44d-28cd-38fc-ae3c-9b745faa2d6a",
+     "title": "Präludium und Fuge g-Moll, BWV 535: I. Präludium"
+    },
+    {
+     "id": "d8580445-2306-3bb0-af15-52e058415634",
+     "title": "Präludium und Fuge g-Moll, BWV 535: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "536",
+   "id": "10af1b4a-1013-4f30-9dee-18b9da53845b",
+   "candidates": [
+    {
+     "id": "10af1b4a-1013-4f30-9dee-18b9da53845b",
+     "title": "Präludium und Fuge A-Dur, BWV 536"
+    },
+    {
+     "id": "74ae04ef-c714-4c9b-bd75-8ef43a14fb13",
+     "title": "Präludium und Fuge A-Dur, BWV 536"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge A-Dur, BWV 536",
+   "key": "A major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "5d9fcd7b-a7f6-3274-8047-a8235cdc706a",
+     "title": "Präludium und Fuge A-Dur, BWV 536: I. Präludium"
+    },
+    {
+     "id": "0b811974-2684-3d56-b343-a70dd170f7a2",
+     "title": "Präludium und Fuge A-Dur, BWV 536: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "537",
+   "id": "44ab8b8d-c1cf-4b3b-86b9-4b9efea16f80",
+   "candidates": [
+    {
+     "id": "44ab8b8d-c1cf-4b3b-86b9-4b9efea16f80",
+     "title": "Fantasie und Fuge C-moll, BWV 537"
+    },
+    {
+     "id": "54692e44-df85-4173-9460-2d32149c9821",
+     "title": "Fantasie und Fuge C-moll, BWV 537"
+    },
+    {
+     "id": "afb12328-f527-428c-9269-14a57dc136f7",
+     "title": "Fantasia and Fugue in C minor, op. 86, BWV 537"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie und Fuge C-moll, BWV 537",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "814334d7-97d7-3eca-827b-bee3f08a5cba",
+     "title": "Fantasie und Fuge C-moll, BWV 537: I. Fantasie"
+    },
+    {
+     "id": "1e061068-cae3-34b9-abf9-16af2d0dd61d",
+     "title": "Fantasie und Fuge C-moll, BWV 537: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "538",
+   "id": "809dbdcd-d7d1-4058-b33a-14deecac8a41",
+   "candidates": [
+    {
+     "id": "809dbdcd-d7d1-4058-b33a-14deecac8a41",
+     "title": "Toccata and Fugue in D minor \"Dorian\", BWV 538"
+    },
+    {
+     "id": "2ba800aa-93bd-4387-90e3-f79aab910c51",
+     "title": "Toccata and Fugue in D minor \"Dorian\", BWV 538"
+    },
+    {
+     "id": "96cb90c9-962c-4532-a7ae-56b97759cf39",
+     "title": "Toccata and Fugue in D minor \"Dorian\", BWV 538"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Toccata and Fugue in D minor \"Dorian\", BWV 538",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "8844fe4a-94d9-348c-a103-c37f76196cab",
+     "title": "Toccata and Fugue in D minor \"Dorian\", BWV 538: I. Toccata"
+    },
+    {
+     "id": "393101f6-47d7-3ec2-bd4d-6beb854fc79e",
+     "title": "Toccata and Fugue in D minor \"Dorian\", BWV 538: II. Fugue"
+    }
+   ]
+  },
+  {
+   "bwv": "539",
+   "id": "335bfe09-340f-4ca0-b4e5-23a667e645d4",
+   "candidates": [
+    {
+     "id": "335bfe09-340f-4ca0-b4e5-23a667e645d4",
+     "title": "Präludium und Fuge D-moll, BWV 539"
+    },
+    {
+     "id": "6b8287a2-9c11-4dbd-bef9-09a34ae0f0dc",
+     "title": "Präludium und Fuge D-moll, BWV 539"
+    },
+    {
+     "id": "99e5faef-9c85-412f-a42a-247cd922909e",
+     "title": "Präludium und Fuge D-moll, BWV 539"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge D-moll, BWV 539",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "e20c3ff2-2552-31d1-88ce-de3eeec2269d",
+     "title": "Präludium und Fuge D-moll, BWV 539: I. Präludium"
+    },
+    {
+     "id": "4a44cabb-0287-31c1-9e8b-81a6b84c6048",
+     "title": "Präludium und Fuge D-moll, BWV 539: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "540",
+   "id": "c844021e-1c1e-4ca6-9aac-9bf14c54b3f8",
+   "candidates": [
+    {
+     "id": "c844021e-1c1e-4ca6-9aac-9bf14c54b3f8",
+     "title": "Toccata und Fuge F-Dur, BWV 540"
+    },
+    {
+     "id": "d28019cc-51c8-46c8-b356-6582a82dcddb",
+     "title": "Toccata und Fuge F-Dur, BWV 540"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Toccata und Fuge F-Dur, BWV 540",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "efa0b5da-02f6-3567-b83f-9964685f3ad5",
+     "title": "Toccata und Fuge F-Dur, BWV 540: I. Toccata"
+    },
+    {
+     "id": "fd4f9a0c-c832-39b5-8c3e-64adccc6744d",
+     "title": "Toccata und Fuge F-Dur, BWV 540: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "541",
+   "id": "ccf2d167-87bf-4579-b293-1c0b636e9a39",
+   "candidates": [
+    {
+     "id": "ccf2d167-87bf-4579-b293-1c0b636e9a39",
+     "title": "Präludium und Fuge G-Dur, BWV 541"
+    },
+    {
+     "id": "e02bd999-ac4d-42b6-b738-adb097392286",
+     "title": "Präludium und Fuge G-Dur, BWV 541"
+    },
+    {
+     "id": "4471c68c-8018-469c-a9a3-749f4a42129e",
+     "title": "Präludium und Fuge G-Dur, BWV 541"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge G-Dur, BWV 541",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "c2d9710e-a0ac-3c7c-bfd8-d6a69c54c988",
+     "title": "Präludium und Fuge G-Dur, BWV 541: I. Präludium"
+    },
+    {
+     "id": "d57bfd4c-5e0d-3f47-8bcf-305cadb96b38",
+     "title": "Präludium und Fuge G-Dur, BWV 541: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "542",
+   "id": "9dc29ea6-7a6f-3cc5-aa37-560b04afb0d7",
+   "candidates": [
+    {
+     "id": "9dc29ea6-7a6f-3cc5-aa37-560b04afb0d7",
+     "title": "Fantasie (Praeludium) und Fuge g-Moll, BWV 542"
+    },
+    {
+     "id": "493fe464-4dad-4a9a-9f1d-922763e51cbd",
+     "title": "Fantasie und Fuge g-Moll, BWV 542"
+    },
+    {
+     "id": "ef0d2373-191b-4691-8bbc-69f8bb2b2fee",
+     "title": "Fantasy and Fugue in G minor, S. 463/2 (BWV 542)"
+    },
+    {
+     "id": "c4a835b6-cde0-4f78-b38c-69e6ad2b47b3",
+     "title": "Fantasy and Fugue in G minor, S. 463/1 (BWV 542)"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie (Praeludium) und Fuge g-Moll, BWV 542",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "176ed0ff-e2d5-3adb-ba67-444a225bfb63",
+     "title": "Fantasie (Praeludium) und Fuge g-Moll, BWV 542: I. Fantasie"
+    },
+    {
+     "id": "5688b06d-3b16-322a-811b-74a843935d21",
+     "title": "Fantasie (Praeludium) und Fuge g-Moll, BWV 542: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "544",
+   "id": "9076cd8a-9000-423a-bb85-57b3c54c1d2a",
+   "candidates": [
+    {
+     "id": "9076cd8a-9000-423a-bb85-57b3c54c1d2a",
+     "title": "Präludium und Fuge h-Moll, BWV 544"
+    },
+    {
+     "id": "52f5d501-114f-4a61-9a16-7ba37a1de00b",
+     "title": "Preludes and Fugues by J. S. Bach, S. 462: No. 6 in B minor, BWV 544"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge h-Moll, BWV 544",
+   "key": "B minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "acfd3c32-7ac6-31fd-baac-71ef3ba07e4e",
+     "title": "Präludium und Fuge h-Moll, BWV 544: I. Präludium"
+    },
+    {
+     "id": "70c296f2-c6c5-3d02-920d-b3ed6be3ac3b",
+     "title": "Präludium und Fuge h-Moll, BWV 544: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "545",
+   "id": "e5a5a65a-64b3-4138-94bc-af2f433f1f21",
+   "candidates": [
+    {
+     "id": "e5a5a65a-64b3-4138-94bc-af2f433f1f21",
+     "title": "Prelude and Fugue in C major, BWV 545"
+    },
+    {
+     "id": "6810eff1-650c-4772-ade7-7241860b7607",
+     "title": "Preludes and Fugues by J. S. Bach, S. 462: No. 2 in C major, BWV 545"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Prelude and Fugue in C major, BWV 545",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "b44b1e97-4a72-4e62-9076-52ee84ccb6d9",
+     "title": "Prelude and Fugue in C major, BWV 545: Prelude"
+    },
+    {
+     "id": "58877b26-ca90-4424-b5be-7925a8edc306",
+     "title": "Prelude and Fugue in C major, BWV 545: Fugue"
+    }
+   ]
+  },
+  {
+   "bwv": "546",
+   "id": "eeab722d-2d47-401f-b54f-f5744d8fee79",
+   "candidates": [
+    {
+     "id": "eeab722d-2d47-401f-b54f-f5744d8fee79",
+     "title": "Präludium und Fuge c-Moll, BWV 546"
+    },
+    {
+     "id": "0e0d32b2-bff6-472d-bcf1-d8593c6146e9",
+     "title": "Preludes and Fugues by J. S. Bach, S. 462: No. 3 in C minor, BWV 546"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge c-Moll, BWV 546",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "4c367f5f-b4e2-3fef-9d0a-83749fdc774b",
+     "title": "Präludium und Fuge c-Moll, BWV 546: I. Präludium"
+    },
+    {
+     "id": "f842d830-38af-3b40-b201-85b1228c64c4",
+     "title": "Präludium und Fuge c-Moll, BWV 546: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "547",
+   "id": "60986372-b1c9-4b71-8314-0935e61b2edd",
+   "candidates": [
+    {
+     "id": "60986372-b1c9-4b71-8314-0935e61b2edd",
+     "title": "Präludium und Fugue C-dur, BWV 547"
+    },
+    {
+     "id": "351be1b3-f338-4eea-8a89-d964996ff3bd",
+     "title": "Preludes and Fugues by J. S. Bach, S. 462: No. 4 in C major, BWV 547"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fugue C-dur, BWV 547",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0d5894bd-0144-34c3-863b-0a074a529954",
+     "title": "Präludium und Fugue C-dur, BWV 547: I. Präludium"
+    },
+    {
+     "id": "b2582f06-cfb3-3c7d-8e87-473993445049",
+     "title": "Präludium und Fugue C-dur, BWV 547: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "548",
+   "id": "086cdb32-3893-45ef-b930-398738ec26de",
+   "candidates": [
+    {
+     "id": "086cdb32-3893-45ef-b930-398738ec26de",
+     "title": "Präludium und Fuge e-Moll, BWV 548"
+    },
+    {
+     "id": "76b1f08c-05f0-402f-bdd3-64a71f3729fe",
+     "title": "Präludium und Fuge e-Moll, BWV 548"
+    },
+    {
+     "id": "3f3d56c4-a525-4ec7-be8d-ad319cd7eed7",
+     "title": "Präludium und Fuge e-Moll, BWV 548"
+    },
+    {
+     "id": "62b7693e-2c9a-470a-863d-3ddf4572f83c",
+     "title": "Preludes and Fugues by J. S. Bach, S. 462: No. 5 in E minor, BWV 548"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge e-Moll, BWV 548",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "39bf4012-ae50-3434-ac56-e0f7c3d6b747",
+     "title": "Präludium und Fuge e-Moll, BWV 548: I. Präludium"
+    },
+    {
+     "id": "4c422e12-2a3c-3fa6-b37b-efdae19e0c96",
+     "title": "Präludium und Fuge e-Moll, BWV 548: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "549",
+   "id": "6b09bbfd-a982-3b6f-b0e9-0b8b3f354085",
+   "candidates": [
+    {
+     "id": "6b09bbfd-a982-3b6f-b0e9-0b8b3f354085",
+     "title": "Präludium und Fuge c-Moll, BWV 549"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge c-Moll, BWV 549",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "af847b3f-2d8c-39ad-b26d-fbdea58f2c61",
+     "title": "Präludium und Fuge c-Moll, BWV 549: I. Präludium"
+    },
+    {
+     "id": "1c36e917-9825-3290-8097-f2f26facc4ba",
+     "title": "Präludium und Fuge c-Moll, BWV 549: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "550",
+   "id": "a2d2a8f4-dcfd-327b-be0f-4ff0a50a40dd",
+   "candidates": [
+    {
+     "id": "a2d2a8f4-dcfd-327b-be0f-4ff0a50a40dd",
+     "title": "Präludium und Fuge G-Dur, BWV 550"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge G-Dur, BWV 550",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "036f92ab-d271-367b-8ce8-d46ca5b1a26b",
+     "title": "Präludium und Fuge G-Dur, BWV 550: I. Präludium"
+    },
+    {
+     "id": "eee56139-3cf6-3353-b6a1-d7ea9c32e186",
+     "title": "Präludium und Fuge G-Dur, BWV 550: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "551",
+   "id": "f66b1f33-e024-3f49-b60f-3b4655d4deca",
+   "candidates": [
+    {
+     "id": "f66b1f33-e024-3f49-b60f-3b4655d4deca",
+     "title": "Praeludium und Fuge für Orgel a-Moll, BWV 551"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Praeludium und Fuge für Orgel a-Moll, BWV 551",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "14159980-fbeb-4a76-b613-46c0533296b2",
+     "title": "Praeludium und Fuge für Orgel a-Moll, BWV 551: I. Präludium"
+    },
+    {
+     "id": "a0dc0131-4309-42b1-b04d-c83d0de76ec4",
+     "title": "Praeludium und Fuge für Orgel a-Moll, BWV 551: II. Fuge"
+    }
+   ]
+  }
+ ]
+}

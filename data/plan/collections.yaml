@@ -62,7 +62,7 @@ collections:
 - {id: keyboard-sonatas-variations, title: "Sonatas, Variations and Capriccios", chapter: Keyboard, bwv: ["963-970", "989-994"], mode: keyboard, wave: 1, run: 15, status: imported,
    note: "Includes the Capriccio on the departure of a beloved brother (992) and the Aria variata (989)"}
 - {id: other-keyboard-suites, title: "Other suites and pieces for keyboard", chapter: Keyboard, bwv: ["818-824", "832-845"], mode: keyboard, wave: 1, run: 15, status: queued}
-- {id: organ-preludes-fugues, title: "Preludes and Fugues for organ", chapter: Organ, bwv: ["531-551"], mode: organ, wave: 1, run: 16, status: queued}
+- {id: organ-preludes-fugues, title: "Preludes and Fugues for organ", chapter: Organ, bwv: ["531-551"], mode: organ, wave: 1, run: 16, status: collected}
 - {id: organ-free-works, title: "Toccatas, Fantasias and other free works for organ", chapter: Organ, bwv: ["561-591", "1121"], mode: organ, wave: 1, run: 17, status: todo,
    note: "Toccata and Fugue in D minor (565), Passacaglia (582), Dorian Toccata (538), Pastorale (590). Piano transcriptions (Busoni) are separate MusicBrainz works"}
 - {id: organ-trio-sonatas, title: "Trio Sonatas for organ", chapter: Organ, bwv: ["525-530"], mode: organ, wave: 1, run: 18, status: todo}
