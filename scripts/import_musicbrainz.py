@@ -142,6 +142,10 @@ EXCLUDE_BY_SNAPSHOT["organ-preludes-fugues"] = {
     "ffa549c9-d5f5-4887-a247-8bc05c9f0d6e": "Ruzickova's Complete Keyboard Works hold the harpsichord Fantasia in C minor BWV 906, not the organ Fantasia BWV 537; she recorded no organ works",
     "4f67817b-253d-42cb-a3d3-99ed9543d3eb": "Isoir's 'Les quatres toccatas et fugues' (first released 1986, so not recorded in 1993): the Calliope recordings of 1975-79 filed as andre-isoir-1975",
     "65201d8c-e35a-4572-861a-774f0ad0abcc": "Isoir's The Organ Works: The Virtuoso, Vol. 3 (La Dolce Volta, 2024) reissues the Calliope cycle of 1975-79 filed as andre-isoir-1975",
+    "5fcec3d8-458c-40cf-a107-cc5cd18f0991": "Bertoncini's unaccompanied 'Prelude in D minor' on the jazz guitar album Bridges (AllMusic): almost certainly the lute Prelude BWV 999, which guitarists play in D minor, not the organ Prelude BWV 539",
+    "569859d7-45d9-4033-b191-aa4a15766ed0": "a 'Prelude in C major' credited to the conductor Heinz Rögner on piano, on the sampler Classic Piano: almost certainly the WTC Prelude BWV 846, not the organ Prelude BWV 547",
+    "35ed84df-561e-4dc7-983b-fc1f5ab8210e": "Jaccottet's harpsichord 'Prelude in C minor' on the sampler Classical Highlights Vol. 2: a harpsichord prelude (she recorded no organ works on harpsichord), not the organ Prelude BWV 546",
+    "3af13428-7be3-436c-9efa-cb471c23da42": "Souter's harpsichord 'Prelude in G major' on the Classic FM Presenters' Choice sampler: a harpsichord prelude, not the organ Prelude BWV 541",
     "235edb5e-bfce-4230-bec8-d4e855a1fe19": "Richter's Récital d'orgue (1964, Jaegersborg Kirke): the 1964 Jaegersborg recordings filed as karl-richter-1964 and karl-richter-1966-2 (BWV 548), reissued without a date",
 }
 EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
