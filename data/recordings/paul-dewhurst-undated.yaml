@@ -1,0 +1,28 @@
+id: paul-dewhurst-undated
+performers:
+- name: Paul Dewhurst
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/621e2b1c-fa34-4f90-b461-bb69e5b52e78
+  title: Colours of the Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 37f46f45-ae41-4928-9250-bff105bbdee5
+  recordings: [11201d92-0fe1-4235-bba5-6569df1bd65d]

@@ -134,12 +134,26 @@ EXCLUDE_BY_SNAPSHOT["keyboard-transcriptions"] = {
     "3d6151db-d195-4bb4-ba63-0d35933ec29b": "Angelicum di Milano and Zedda, 'Concertos pour 4 violons & 4 clavecins': the orchestra plays, so this is Vivaldi's violin concerto Op. 3 No. 3 (RV 310), the model, not Bach's solo keyboard BWV 978",
     "bfbe88be-c198-4d90-a2a0-7cc8256e0629": "Angelicum di Milano and Zedda, 'Concertos pour violons et clavecins': the same Vivaldi Op. 3 No. 3 (RV 310) for violin and strings, linked to BWV 978",
 }
+EXCLUDE_BY_SNAPSHOT["organ-preludes-fugues"] = {
+    "25e7f96e-406a-4c05-9443-42a5271e4e2e": "The Main Street Band and Orchestra's 'Toccata in D minor' (3:20) on a children's album (Mary Poppins and 19 other favourites): the famous BWV 565, mislinked to the Dorian Toccata BWV 538",
+    "b608d52f-02d0-4e21-9fd1-c62151545855": "Foden's Band's 'Toccata in D minor' (3:33) on Patrons' Choice III: the opening of BWV 565 for brass band; the Dorian Toccata BWV 538 runs 5-6 minutes",
+    "b35ea21a-fd89-42c9-b4d5-fb4a88312c43": "Steinbach's 'Toccata in D minor' on the sampler 100 Popular Classics: almost certainly BWV 565 mislinked to BWV 538",
+    "0097fbbb-0611-4e61-8bab-795db77e81ce": "Iturbi's Victor & HMV solo recordings hold only one Bach piece, the harpsichord Fantasia in C minor BWV 906, mislinked to the organ Fantasia BWV 537",
+    "ffa549c9-d5f5-4887-a247-8bc05c9f0d6e": "Ruzickova's Complete Keyboard Works hold the harpsichord Fantasia in C minor BWV 906, not the organ Fantasia BWV 537; she recorded no organ works",
+    "4f67817b-253d-42cb-a3d3-99ed9543d3eb": "Isoir's 'Les quatres toccatas et fugues' (first released 1986, so not recorded in 1993): the Calliope recordings of 1975-79 filed as andre-isoir-1975",
+    "65201d8c-e35a-4572-861a-774f0ad0abcc": "Isoir's The Organ Works: The Virtuoso, Vol. 3 (La Dolce Volta, 2024) reissues the Calliope cycle of 1975-79 filed as andre-isoir-1975",
+    "235edb5e-bfce-4230-bec8-d4e855a1fe19": "Richter's Récital d'orgue (1964, Jaegersborg Kirke): the 1964 Jaegersborg recordings filed as karl-richter-1964 and karl-richter-1966-2 (BWV 548), reissued without a date",
+}
 EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 
 # One performance that the snapshot splits into two rows (an undated track of a dated set, one set recorded
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "organ-preludes-fugues": {
+    "12b309d0-094a-4572-a99d-3d300463fc00": ("a557c02b-9279-4c29-93a9-7af4d2082c8e", "Christian Schmitt's BWV 542 at St. Cyriakus (2017) on the two Bach 333 boxes: one performance, the Fugue on one box only"),
+    "965a147e-07b9-47ba-b7d0-887fb1c8c8a2": ("db57958c-9c45-4a7e-a8e3-a8bebafd63cb", "Münchinger's arrangement of the Fugue of BWV 542 with the Stuttgart Chamber Orchestra, reissued on Bach for Barbecue"),
+  },
   "keyboard-transcriptions": {
     "439bc15b-955f-4bff-aac7-c22197ac2b23": ("26670844-4789-44a8-9b4d-f07628a02eb8", "Hirsch's undated first movement of BWV 974 on Konzerte für Cembalo Solo, Vol. 1, with movements 2-3 from 1982"),
     "23a82c64-d57a-4deb-8d17-694580cb4278": ("588a92ec-429e-46fd-9661-8a89ad04e5bd", "Ivo Janssen's BWV 973 on the sampler Aangenaam klassiek 2005, from his complete set of the concertos"),
@@ -294,6 +308,12 @@ NATIVE_EXTRA_BY_SNAPSHOT = {
 # Facts the snapshot gets wrong or leaves out for one row, per snapshot: representative recording ID ->
 # fields to set, with the reason. Fix upstream in MusicBrainz too, then remove the entry here.
 OVERRIDE_BY_SNAPSHOT = {
+  "organ-preludes-fugues": {
+    "9024ad53-fca2-4261-a47c-33d93bb994a2": ({"movements": ["536:0", "536:1", "538:0", "538:1"]},
+        "Alard's Complete Works for Keyboard 5 plays BWV 536a and 538 on pedal harpsichord; BWV 539 and 542 are not on it (its fantasia and fugue is BWV 904)"),
+    "3b2daca4-3748-46c8-8598-f9554da71c06": ({"years": [1966, 1967, 1968]},
+        "Richter died in 1981: the 1996 recording date is a reissue's"),
+  },
   "chamber-trio-sonatas": {
     "a53771bd-a72b-4e3c-91c7-7a86aae5a491": ({"arrangement": True, "performance_practice": "unknown"},
         "Kammertrio Linz-Wien, on an album of chamber music for guitar, recorder and baroque violin: guitar continuo"),
@@ -1133,7 +1153,8 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         others, roles = [], {k: v.lower() for k, v in perf["roles"].items()}
     else:
         instrument, others, roles = instrument_of(perf, native)
-        if mode == "organ" and instrument == "unknown" and len(perf["names"]) == 1:
+        if mode == "organ" and instrument == "unknown" and len(perf["names"]) == 1 \
+                and not (set(perf.get("types") or []) & GROUP_TYPES or GROUP_NAME.search(perf["names"][0])):
             instrument = "organ"  # a lone performer of an organ work, with no instrument credit
         if mode == "open":
             others = [i for i in others if ARRANGED.search(i)]
@@ -1224,6 +1245,19 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
         if melody:  # a cello or violin with the keyboard: a transcription led by the melody instrument
             rec["instrument"], rec["performance_practice"] = INSTRUMENTS[melody[0].lower()], "unknown"
             others = [i for i in others if i != melody[0]] + [i for i in perf["ins"] if INSTRUMENTS.get(i.lower()) == instrument]
+    elif mode == "organ":
+        # Organ works (plan note): an orchestra, band or other group with no organ credited plays an orchestration
+        # (Karajan's BWV 546, a brass band's Dorian Toccata); crossover names and release words as for keyboard.
+        release = " ".join(r["title"] for r in perf["releases"])
+        group_only = (bool(set(types) & GROUP_TYPES) or bool(roles_set := {v.lower() for v in perf["roles"].values()}) and
+                      bool(roles_set & {"conductor", "orchestra"}) or bool(GROUP_NAME.search(perf["names"][0]))) \
+            and instrument != "organ"
+        if group_only:
+            rec["instrument"], rec["performance_practice"], rec["arrangement"] = "ensemble", "unknown", True
+        # Only off the organ: an organist on a sampler is still the organ work ("suzuki" in the release words
+        # means the violin method, not Masaaki Suzuki's organ albums).
+        if instrument != "organ" and (ARRANGED_NAMES.search(" ".join(perf["names"])) or ARRANGED_RELEASES.search(release)):
+            rec["arrangement"] = True
     elif mode == "lute":
         names = " ".join(perf["names"])
         release = " ".join(r["title"] for r in perf["releases"])
@@ -1448,6 +1482,8 @@ def main(snapshot: str) -> int:
                 new["works"] = works_block({**perf, "mv": fix["movements"]}, bwvs, moves)
             if "released" in fix:
                 new["released"] = fix["released"]
+            if "years" in fix:
+                new["recorded"]["years"] = Flow(fix["years"])
             if "arrangement" in fix:
                 new["arrangement"] = fix["arrangement"]
                 if not fix["arrangement"]:

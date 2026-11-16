@@ -1,0 +1,26 @@
+id: john-green-1997
+performers:
+- name: John Green
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: Hexham Abbey
+released: null
+original_label: null
+works:
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/72dbc770-17ff-4abd-9b1a-7e7046790800
+  title: The Phelps Organ at Hexham Played by John Green
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b1ea00dc-0e6f-4b65-bca2-0952c4c0e217
+  recordings: [a8d8ce2a-b77a-4099-9f62-ad9c80af83ad]

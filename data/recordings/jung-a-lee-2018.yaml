@@ -1,0 +1,26 @@
+id: jung-a-lee-2018
+performers:
+- name: Jung-A Lee
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018]
+  place: Walt Disney Concert Hall
+released: 2018
+original_label: null
+works:
+- {bwv: '544', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eab8b215-8be3-4d67-ae12-896fbfbaf16d
+  title: Walt Disney Concert Hall Organ
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c3d2c730-bd2d-41d3-bdc7-d8af8749a08b
+  recordings: [f3bff959-d150-4dea-9986-3b98dcf14421]

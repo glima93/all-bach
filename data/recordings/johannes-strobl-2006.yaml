@@ -1,0 +1,26 @@
+id: johannes-strobl-2006
+performers:
+- name: Johannes Strobl
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2006]
+  place: Klosterkirche Muri
+released: 2008
+original_label: null
+works:
+- {bwv: '540', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3e2995d4-0f11-4fe4-a8f8-4680b3bcf7c6
+  title: Christ lag in Todesbanden
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b7e910f-ba8a-4431-a691-1c6b27610176
+  recordings: [d7cb5a50-cfdf-47c7-9a3a-57963e319586]

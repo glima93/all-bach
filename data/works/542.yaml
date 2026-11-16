@@ -1,0 +1,15 @@
+bwv: "542"
+title: "Fantasia and Fugue in G minor"
+key: "G minor"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: "probably Köthen, c. 1720"
+movements:
+  - "I. Fantasia"
+  - "II. Fugue"
+notes: "Known as the \"Great\" G minor to distinguish it from the \"Little\" Fugue in G minor, BWV 578. The fantasia and fugue were largely transmitted separately, and the fugue is often linked with Bach's visit to Hamburg in 1720."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Great_Fantasia_and_Fugue_in_G_minor,_BWV_542"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/9dc29ea6-7a6f-3cc5-aa37-560b04afb0d7

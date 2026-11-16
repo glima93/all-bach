@@ -1,0 +1,27 @@
+id: niklas-jahn-2023
+performers:
+- name: Niklas Jahn
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2023]
+  place: 武蔵野市民文化会館
+released: 2025
+original_label: null
+works:
+- {bwv: '539', complete: false, movements: [II. Fugue]}
+- {bwv: '540', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2e68717-0dfe-4ff6-81ce-61620ca5c467
+  title: Organ Recital
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e343fa2c-991d-440b-85ba-f0c0547da024
+  recordings: [44a69e29-ae91-47cc-8288-dc16ec56eb00]

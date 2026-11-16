@@ -1,0 +1,32 @@
+id: masaaki-suzuki-2014
+performers:
+- name: Masaaki Suzuki
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2014, 2016, 2018]
+  place: Martinikerk
+released: 2015
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '535', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '546', complete: true}
+- {bwv: '547', complete: true}
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3b6fba16-f6e9-4110-a0bf-5a1161b36a7c
+  title: Masaaki Suzuki plays Bach Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d41e5072-3a8e-4f1f-97ab-3b0820de74c1
+  recordings: [6ab24ee4-dec7-4716-bc6b-2bfe781a7c0a]

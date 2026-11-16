@@ -1,0 +1,29 @@
+id: norbert-petry-1995
+performers:
+- name: Norbert Pétry
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Église Saint Nicolas de Sarreguemines
+released: 1995
+original_label: null
+works:
+- {bwv: '536', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '550', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee7ccfbf-9bb6-4a56-97d9-9244528321c3
+  title: 'J. S. Bach: Six chorals Schübler etc.'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aea662e3-b7af-4670-8612-a6e4275bc9a9
+  recordings: [8a4fbd55-eeb2-4d89-ad54-611210e35df5]

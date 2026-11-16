@@ -1,0 +1,30 @@
+id: daniel-hyde-undated-2
+performers:
+- name: Daniel Hyde
+  role: organ
+- name: David Woodcock
+  role: conductor
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '541', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30d79018-d2fd-411f-aefb-6ebd45702a28
+  title: Christmas at Oakham
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6e1236eb-5b4a-49e9-8e82-cb35243ebd8f
+  recordings: [0f9c015a-387c-49ef-b390-f91630c4483d]

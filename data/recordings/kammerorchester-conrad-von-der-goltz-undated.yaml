@@ -1,0 +1,31 @@
+id: kammerorchester-conrad-von-der-goltz-undated
+performers:
+- name: Kammerorchester Conrad von der Goltz
+  role: orchestra
+- name: Conrad von der Goltz
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '546', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55fc12d3-bcfb-48c7-a69f-f2c77db37070
+  title: 1000 Meisterwerke der klassischen Musik
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 36b3d112-2a7d-4273-a4ce-dd0d354183f7
+  recordings: [9a68a2a9-afde-4a99-8723-77d01c071f76]

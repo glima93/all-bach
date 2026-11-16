@@ -1,0 +1,29 @@
+id: albert-schweitzer-1936
+performers:
+- name: Albert Schweitzer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1936]
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '546', complete: true}
+- {bwv: '547', complete: true}
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d5dc4bf-e5c3-4fdf-b555-2a74bd0c37b4
+  title: Albert Schweitzer Plays Bach, Volume 2
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df4906d0-2a9e-461e-b6b5-1bcca3731483
+  recordings: [8f68955d-1b81-4a7f-a6c0-f7b9d39d247a]

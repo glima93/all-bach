@@ -1,0 +1,28 @@
+id: ulfert-smidt-undated
+performers:
+- name: Ulfert Smidt
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/659769e5-7ef9-43a0-b123-63ea8e6f7909
+  title: Konzertante Musik für Oboe & Orgel
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8158b422-1140-453a-a84d-450ed84fb514
+  recordings: [7ebd5252-4524-4a00-a4ea-31be81900e3a]

@@ -1,0 +1,15 @@
+bwv: "540"
+title: "Toccata and Fugue in F major"
+key: "F major"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: "probably Weimar, c. 1712–1717"
+movements:
+  - "I. Toccata"
+  - "II. Fugue"
+notes: "The toccata is built on long canonic passages over pedal points and includes two extended pedal solos; the toccata and fugue may originally have been separate pieces."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Toccata_and_Fugue_in_F_major,_BWV_540"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/c844021e-1c1e-4ca6-9aac-9bf14c54b3f8

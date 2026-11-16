@@ -1,0 +1,27 @@
+id: matti-hannula-undated
+performers:
+- name: Matti Hannula
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Tampereen tuomiokirkko
+released: 2008
+original_label: null
+works:
+- {bwv: '540', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fd382f8e-5af8-43d0-b559-ecff894ed634
+  title: Matti Hannula soittaa Tampereen tuomiokirkon urkuja
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4570a330-e366-4ede-8755-bec24d9e6c25
+  recordings: [aa9e5988-7a7e-4a20-9233-f02cb0066154]

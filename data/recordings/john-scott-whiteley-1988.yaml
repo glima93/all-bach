@@ -1,0 +1,28 @@
+id: john-scott-whiteley-1988
+performers:
+- name: John Scott Whiteley
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: Grote Kerk
+released: 1989
+original_label: null
+works:
+- {bwv: '534', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dc0b7828-21c4-4f76-ac60-fc7d6afb0f6f
+  title: 'Great European Organs, No. 12: John Scott Whiteley Plays the Müller Organ of St. Bavo’s Church, Haarlem'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: de85795d-981a-4949-ae6e-860c3ff9a8cf
+  recordings: [dc4614a6-7c68-45d4-8e3b-cedba6e1afe2]

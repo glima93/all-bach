@@ -1,0 +1,26 @@
+id: werner-jacob-1975
+performers:
+- name: Werner Jacob
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1975]
+  place: Marienkirche
+released: 1987
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0ca4c8f-99c0-440e-a20b-a1091f439dc7
+  title: Berühmte Orgelstücke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eccbbaac-b8cf-4023-b633-6a9343991b00
+  recordings: [e1c8c727-2162-4def-83df-7a7d6874e402]

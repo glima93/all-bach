@@ -1,0 +1,26 @@
+id: pauliina-hyry-2017
+performers:
+- name: Pauliina Hyry
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Kotkan kirkko
+released: 2017
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f5696a34-9260-478a-8dce-f6ea34a267f4
+  title: Vater Unser
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b4de657e-b7d7-4810-925f-ef0e77c2927c
+  recordings: [171aec12-b040-474f-bd3a-fc9dce341627]

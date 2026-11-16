@@ -1,0 +1,30 @@
+id: michael-murray-1985
+performers:
+- name: Michael Murray
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985, 1988]
+  place: St. Andreas-Kirche
+released: 1986
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '535', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '546', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8603ce98-1106-4f22-bf19-75676d22d1fd
+  title: Bach In Hildesheim
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45d5818f-8ae4-47d9-9f1d-6c0e2fd99a3c
+  recordings: [4a5c6694-abf8-4a06-94db-3d6a070c986e]

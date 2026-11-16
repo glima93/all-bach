@@ -1,0 +1,27 @@
+id: michael-radulescu-2017
+performers:
+- name: Michael Radulescu
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Église des Jésuites
+released: 2019
+original_label: null
+works:
+- {bwv: '544', complete: true}
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3b76b110-848a-4ad5-aacf-79d4510bcc0f
+  title: Bach / Bruhns / Buxtehude / de Grigny / Vivaldi
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6e86c28e-114d-4f42-85ca-91cfe5cc9f55
+  recordings: [2777a0ec-ade3-46f5-9e26-0fc9e04b506b]

@@ -1,0 +1,35 @@
+id: helmut-walcha-1962-2
+performers:
+- name: Helmut Walcha
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: Grote Sint Laurenskerk
+released: 1967
+original_label: null
+works:
+- {bwv: '534', complete: true}
+- {bwv: '536', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '542', complete: true}
+- {bwv: '544', complete: true}
+- {bwv: '546', complete: true}
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e6374f8-420b-353b-8c42-dbb249bfac1c
+  title: Das Orgelwerk
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f4c1fd6-75c8-4c40-8fcf-0b5496c01bf2
+  recordings: [41fa93b4-8680-4b0c-ad40-cae68528a6f5]

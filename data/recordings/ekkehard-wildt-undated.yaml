@@ -1,0 +1,28 @@
+id: ekkehard-wildt-undated
+performers:
+- name: Ekkehard Wildt
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a461ed2c-639e-4191-9f26-08619f774735
+  title: Orgel Literatur Kanon
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 77f8c2b0-dbd5-4a6c-a175-e3b10ca83b55
+  recordings: [3e43a360-61cd-45f6-9031-292b33b705da]

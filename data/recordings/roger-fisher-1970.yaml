@@ -1,0 +1,26 @@
+id: roger-fisher-1970
+performers:
+- name: Roger Fisher
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: Chester Cathedral
+released: 2011
+original_label: null
+works:
+- {bwv: '535', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c44dd7f-f1bb-45e0-9065-ad61ddd4afd8
+  title: Great Cathedral Organs
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d1e06a30-5a40-4caf-9dbe-c56da0d8dc69
+  recordings: [747e5ed2-18ee-4fec-9f19-8e31c744ec5b]

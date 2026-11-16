@@ -1,0 +1,26 @@
+id: brian-heald-2009
+performers:
+- name: Brian Heald
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: Wesley Church Centre
+released: 2009
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aa0a3bd5-ed4e-46d6-955d-f048b9f238f5
+  title: Organ Classics at Wesley
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c9192b70-bcd8-4cc8-b915-1221aa9474fc
+  recordings: [1d7a508b-4ab9-46a7-85fe-b1cfb89f579b]

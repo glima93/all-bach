@@ -1,0 +1,28 @@
+id: daniel-bishop-undated
+performers:
+- name: Daniel Bishop
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '537', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5993acc2-bd3f-4723-a316-91e17025adc3
+  title: Choral Evensong from Liverpool Cathedral
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c5d6cdc-48c4-43b2-b1f1-62e3a886f653
+  recordings: [280b63df-780f-4126-9a37-a28f4641bc44]

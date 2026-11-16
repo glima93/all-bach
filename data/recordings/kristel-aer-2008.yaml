@@ -1,0 +1,27 @@
+id: kristel-aer-2008
+performers:
+- name: Kristel Aer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b4396969-93a9-4e2f-93b7-e10d1e9e1ce7
+  title: Kadrina kiriku orel
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3dcb4d57-8543-4d79-b030-39d1979c2058
+  recordings: [169b0639-ce48-4545-bf8c-f77882285cd6]

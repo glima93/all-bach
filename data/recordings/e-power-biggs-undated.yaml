@@ -1,0 +1,37 @@
+id: e-power-biggs-undated
+performers:
+- name: E. Power Biggs
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Busch–Reisinger Museum
+released: 1971
+original_label: null
+works:
+- {bwv: '532', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '542', complete: false, movements: [I. Fantasia]}
+- {bwv: '546', complete: true}
+- {bwv: '547', complete: true}
+- {bwv: '549', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/46bd8310-1c7d-463a-8a1c-0ad1646bf05c
+  title: The Great Preludes & Fugues, Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8be84470-71d4-42e7-8283-6d568b64abc7
+  recordings: [d85dba09-191a-45eb-b632-76adfbc629be]

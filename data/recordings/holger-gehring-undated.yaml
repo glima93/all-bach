@@ -1,0 +1,27 @@
+id: holger-gehring-undated
+performers:
+- name: Holger Gehring
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Kreuzkirche
+released: 2006
+original_label: null
+works:
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6688f74f-1e34-4894-9d10-2ca0fb33dfbd
+  title: 'Orgelmusik aus Dresden II: Renaissance und Barock'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b53236d8-456e-4014-8657-411dff3dc998
+  recordings: [11f816dd-070b-4d98-84b5-3215a0b69193]

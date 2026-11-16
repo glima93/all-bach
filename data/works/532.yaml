@@ -1,0 +1,15 @@
+bwv: "532"
+title: "Prelude and Fugue in D major"
+key: "D major"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: "probably Weimar, c. 1708–1712"
+movements:
+  - "I. Prelude"
+  - "II. Fugue"
+notes: "An earlier version of the fugue survives as BWV 532a."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_D_major,_BWV_532"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/5f9c1b06-2107-48c6-880e-974125b35204

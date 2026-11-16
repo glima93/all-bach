@@ -1,0 +1,32 @@
+id: gerhard-weinberger-1999-2
+performers:
+- name: Gerhard Weinberger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999, 2002, 2003, 2004]
+  place: Die Evangelisch-Lutherische Friedenskirche zu Ponitz
+released: 2003
+original_label: null
+works:
+- {bwv: '534', complete: true}
+- {bwv: '536', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '542', complete: false, movements: [II. Fugue]}
+- {bwv: '546', complete: false, movements: [II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7c8a3822-8e80-441a-8a26-c695fb543494
+  title: Complete Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e26bf27-1a85-4570-8fb0-ab101310bc14
+  recordings: [5ef6f838-b6dd-4c53-aa1b-99e3bb8239a9]

@@ -1,0 +1,28 @@
+id: rudolf-innig-undated
+performers:
+- name: Rudolf Innig
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '535', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/38bf1472-df87-4fb5-8459-58ed5bdcde01
+  title: 'Stereoplay Edition E CD 54: Klangwelten'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1d46f302-d136-455b-95dd-dac754a1bf4f
+  recordings: [a42d4911-375b-42bf-b8f6-49122360705f]

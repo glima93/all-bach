@@ -1,0 +1,28 @@
+id: lucas-pohle-undated
+performers:
+- name: Lucas Pohle
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/126d0d18-0ffd-4eb8-8778-f5e98e5eac70
+  title: Concerti per l’Organo
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a3d3afe0-ac51-46d3-a225-3bb8ac7f0be0
+  recordings: [a06f75fb-f0e3-4aef-a42b-f22624438722]

@@ -1,0 +1,29 @@
+id: walther-r-schuster-undated
+performers:
+- name: Walther R. Schuster
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '546', complete: true}
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/51381eaf-c8bd-4c0a-8ca4-32bd4de77229
+  title: Die größte Kirchenorgel der Welt im Dom zu Passau
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f4332257-73df-4e95-b2fc-4992568e000e
+  recordings: [56790e76-891a-4f32-9d6f-952b638ee5a9]

@@ -1,0 +1,28 @@
+id: jaroslava-potmesilova-undated
+performers:
+- name: Jaroslava Potměšilová
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1981
+original_label: null
+works:
+- {bwv: '538', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0757860d-4b9f-4ce5-9b27-c633183c7cf0
+  title: Toccate e fughe
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: be7c60e9-fabc-4ab6-a4a3-ea9c4440b56e
+  recordings: [fa23a81e-00f9-4d88-93f2-fb18c6c4c5f6]

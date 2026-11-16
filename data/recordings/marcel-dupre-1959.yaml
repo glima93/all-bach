@@ -1,0 +1,27 @@
+id: marcel-dupre-1959
+performers:
+- name: Marcel Dupré
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959]
+  place: Église Saint-Sulpice de Paris
+released: 2015
+original_label: null
+works:
+- {bwv: '532', complete: true}
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/98cca711-a635-43d2-ba84-0550e193ef4c
+  title: The Mercury Living Presence Recordings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e7f566af-3a66-48e3-9825-07e72812e475
+  recordings: [f6c8740b-f644-46d4-81a8-90c7b3705c67]

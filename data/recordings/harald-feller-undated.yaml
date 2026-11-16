@@ -1,0 +1,27 @@
+id: harald-feller-undated
+performers:
+- name: Harald Feller
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Dom St. Stephan
+released: 1989
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ff192ac5-7989-4dcb-841a-5d2f290c5ac6
+  title: Die Orgel im Dom zu Passau
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f8e1c8b-a90e-460e-bcfd-a8656e5a3bc2
+  recordings: [747de6f6-ba77-4962-9c56-726d4cc4ec59]

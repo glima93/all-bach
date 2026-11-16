@@ -1,0 +1,41 @@
+id: simon-preston-1996
+performers:
+- name: Simon Preston
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996, 1997, 1999]
+  place: St John’s, Smith Square
+released: 1996
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '534', complete: true}
+- {bwv: '535', complete: true}
+- {bwv: '536', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '544', complete: true}
+- {bwv: '546', complete: true}
+- {bwv: '547', complete: true}
+- {bwv: '548', complete: true}
+- {bwv: '549', complete: true}
+- {bwv: '550', complete: true}
+- {bwv: '551', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f830f4a-4329-4078-bd6b-4768cd2dffb8
+  title: 'Masterworks: The Original Jackets Collection'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32c98fc8-e7de-4c43-af5b-2f0a7a0dd4c7
+  recordings: [6246f50c-3116-4b98-8893-c1e72aa18d0c]

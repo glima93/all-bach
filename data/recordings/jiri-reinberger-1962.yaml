@@ -1,0 +1,28 @@
+id: jiri-reinberger-1962
+performers:
+- name: Jiří Reinberger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: Michaelis Kirche
+released: 1981
+original_label: null
+works:
+- {bwv: '546', complete: true}
+- {bwv: '548', complete: true}
+- {bwv: '549', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1951d729-026b-4d12-952b-5b8ffd0f3300
+  title: Preludi e fughe
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e418ef07-4933-465a-8bb1-e88394d8eacc
+  recordings: [6277e7f0-a494-4c63-bd0f-9173bf1dbe6c]

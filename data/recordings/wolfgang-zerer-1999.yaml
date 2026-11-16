@@ -1,0 +1,26 @@
+id: wolfgang-zerer-1999
+performers:
+- name: Wolfgang Zerer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Petruskerk
+released: 2004
+original_label: null
+works:
+- {bwv: '533', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/213ddade-18e4-46dc-92ba-49ecef07b431
+  title: 'Orgelwerke: Einflüsse durch Böhm & Buxtehude'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ec03230f-7a06-432d-9db8-0bb94e72083c
+  recordings: [6a5764a0-2691-4964-b6cf-3de87867fddf]

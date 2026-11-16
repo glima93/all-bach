@@ -1,0 +1,27 @@
+id: simon-bell-undated
+performers:
+- name: Simon Bell
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Southwell Minster
+released: 2007
+original_label: null
+works:
+- {bwv: '537', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/111f33c7-37c7-4092-87b4-1a8990220ef3
+  title: 350 Years of Organ Masterworks
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93ac96b3-d47c-403e-a7dc-7912465bb6a1
+  recordings: [67c71a60-0577-4f63-bcb0-f69e0c484a8a]

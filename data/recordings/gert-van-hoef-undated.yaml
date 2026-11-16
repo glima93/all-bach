@@ -1,0 +1,29 @@
+id: gert-van-hoef-undated
+performers:
+- name: Gert van Hoef
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '540', complete: false, movements: [I. Toccata]}
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f2da5c8-46ed-4729-8c67-f403f7aa1ff2
+  title: Première
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22e28c4f-5112-4363-9081-ee8ddea669c0
+  recordings: [6c7caa41-e193-446b-aa9f-f38ed0c8e738]

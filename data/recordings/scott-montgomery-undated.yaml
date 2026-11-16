@@ -1,0 +1,28 @@
+id: scott-montgomery-undated
+performers:
+- name: Scott Montgomery
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3783545c-414a-4125-82df-b99560d15a57
+  title: Water and Light
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e0c2ac28-3dc8-4710-8437-a3cad3cfbabb
+  recordings: [c7cc8e57-4a2c-406f-95b5-863bd9ab4f95]

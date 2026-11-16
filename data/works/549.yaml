@@ -1,0 +1,15 @@
+bwv: "549"
+title: "Prelude and Fugue in C minor"
+key: "C minor"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: "c. 1702–1707 (early work)"
+movements:
+  - "I. Prelude"
+  - "II. Fugue"
+notes: "An early work; an earlier version in D minor, BWV 549a, survives in the Möller Manuscript."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/6b09bbfd-a982-3b6f-b0e9-0b8b3f354085

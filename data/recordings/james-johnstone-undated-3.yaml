@@ -1,0 +1,28 @@
+id: james-johnstone-undated-3
+performers:
+- name: James Johnstone
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '544', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1d11b39-f942-4a38-b70b-8b9e8f2e4cd1
+  title: 'Les Diapason d''or : Janvier 2018'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 139c3bd2-d6c2-4603-bb49-55d71df4c658
+  recordings: [4823f7ca-f2f7-4bdd-9a46-64ebc379f112]

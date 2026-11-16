@@ -1,0 +1,27 @@
+id: hans-gunther-wauer-undated
+performers:
+- name: Hans-Günther Wauer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Merseburger Dom
+released: null
+original_label: null
+works:
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c901d384-52e9-4b40-b9f6-0d230821444e
+  title: Historic Organs of the German Democratic Republic
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 44f1c8f3-6484-4007-bf8d-6b8731c16a67
+  recordings: [c5828db0-156c-4d6e-acf1-ce1c21bfe39d]

@@ -1,0 +1,15 @@
+bwv: "538"
+title: "Toccata and Fugue in D minor (\"Dorian\")"
+key: "D minor"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: "Weimar, c. 1712–1717"
+movements:
+  - "I. Toccata"
+  - "II. Fugue"
+notes: "The nickname \"Dorian\" comes from its notation without a key signature, in the manner of the old Dorian mode; it distinguishes the work from the Toccata and Fugue in D minor, BWV 565."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Toccata_and_Fugue_in_D_minor,_BWV_538"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/809dbdcd-d7d1-4058-b33a-14deecac8a41

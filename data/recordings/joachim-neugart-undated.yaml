@@ -1,0 +1,28 @@
+id: joachim-neugart-undated
+performers:
+- name: Joachim Neugart
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e3e2e32-2ac1-47cc-a629-1696f43f0436
+  title: Die Göckel-Orgeln zu Freiburg, Hördt und Wyhl
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f70e677-2a33-4efc-8922-7aac1f96dee5
+  recordings: [2d584233-755f-4b3f-a68c-faac2979f538]

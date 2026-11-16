@@ -1,0 +1,27 @@
+id: bjorn-steinar-solbergsson-1996
+performers:
+- name: Björn Steinar Sólbergsson
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/64f5324a-6f85-4fe1-8d9a-13f61204fa11
+  title: Björn Steinar Sólbergsson leikur á orgel Akureyrarkirkju
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4bd943c5-4efb-4010-bcee-bc26a08cf109
+  recordings: [c6f8a881-b82f-4617-b67f-45ab75901b5e]

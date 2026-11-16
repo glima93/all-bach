@@ -1,0 +1,26 @@
+id: matthias-eisenberg-1984
+performers:
+- name: Matthias Eisenberg
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Schlosskirche zu Altenburg
+released: 1988
+original_label: null
+works:
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/09c25637-127b-4324-9986-4274366f8e91
+  title: 'Orgelwerke: BWV 565 · 542 · 547 · 572 · 541 · 548'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 903b235a-9118-4dae-82d2-dcaf721f4314
+  recordings: [3f14f27e-ad56-48f6-a3bc-d8a61b801c6f]

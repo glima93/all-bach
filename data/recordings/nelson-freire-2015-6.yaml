@@ -1,0 +1,27 @@
+id: nelson-freire-2015-6
+performers:
+- name: Nelson Freire
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: [2015]
+  place: Friedrich-Ebert-Halle
+released: 2016
+original_label: null
+works:
+- {bwv: '535', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f6ff78e5-88e1-4524-a418-a37c700800bd
+  title: Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8550716b-02e3-442d-bd6e-cd5d9e8a42d3
+  recordings: [3d51a624-1afb-4ddb-a520-6aea702f7f66]

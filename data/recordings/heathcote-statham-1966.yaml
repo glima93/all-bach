@@ -1,0 +1,26 @@
+id: heathcote-statham-1966
+performers:
+- name: Heathcote Statham
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966]
+  place: Norwich Cathedral
+released: 2011
+original_label: null
+works:
+- {bwv: '538', complete: false, movements: [II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c44dd7f-f1bb-45e0-9065-ad61ddd4afd8
+  title: Great Cathedral Organs
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a5b5d9a1-e225-4c85-a9a6-7d44b5c508ea
+  recordings: [02811514-0971-4f1b-a59f-0ff21132dbf2]

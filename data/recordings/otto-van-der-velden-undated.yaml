@@ -1,0 +1,30 @@
+id: otto-van-der-velden-undated
+performers:
+- name: Otto van der Velden
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '532', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '540', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/357d2ef2-455b-3d6f-99a9-efc33240c8fc
+  title: Les Triomphes de la musique classique
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0cd32423-cc76-44fe-a214-e3ccb65a097f
+  recordings: [0abd3e55-26c6-47f2-b481-c8d29cfd9d51]

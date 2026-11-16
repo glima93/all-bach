@@ -1,0 +1,29 @@
+id: scott-ross-undated-4
+performers:
+- name: Scott Ross
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '535', complete: true}
+- {bwv: '538', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59cacf21-07d7-4375-bf6e-9e729314cc6b
+  title: Keyboard Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b01dff1-286c-4a41-a56a-8be74fe27e70
+  recordings: [b621b420-2fe6-4c08-a0c4-af727ae3326e]

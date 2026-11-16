@@ -1,0 +1,28 @@
+id: christoph-bossert-undated
+performers:
+- name: Christoph Bossert
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Église Saint-Thomas
+released: 1991
+original_label: null
+works:
+- {bwv: '540', complete: true}
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0cf0dd53-b34c-4975-9dbb-9b388cde63b3
+  title: 'Orgelwerke: Meisterwerke Zum Kennenlernen'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4514713e-db3b-4474-8a87-fc231726c19a
+  recordings: [3180beb6-6dca-4be8-aef0-f6795fc48448]

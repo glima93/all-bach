@@ -1,0 +1,26 @@
+id: ted-alan-worth-1965
+performers:
+- name: Ted Alan Worth
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1965]
+  place: The Southern Baptist Theological Seminary
+released: 2005
+original_label: null
+works:
+- {bwv: '540', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb10ae05-e5ae-460e-bb32-380e9b63da7f
+  title: 'The Legacy Series, Vol. V: Ted Alan Worth (The Disc)'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d8b29edd-5960-4ed8-9535-cb1fce882b4b
+  recordings: [5d83e670-4fef-4780-b520-e93106e8cef9]

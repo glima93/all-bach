@@ -1,0 +1,31 @@
+id: stuttgarter-kammerorchester-undated-2
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '542', complete: false, movements: [II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2d92b856-e2b1-4864-a261-58f5a04b8a76
+  title: Pachelbel Canon
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [965a147e-07b9-47ba-b7d0-887fb1c8c8a2, db57958c-9c45-4a7e-a8e3-a8bebafd63cb]

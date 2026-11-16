@@ -1,0 +1,27 @@
+id: jozef-sluys-1993
+performers:
+- name: Jozef Sluys
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: Freiberger Dom St. Marien
+released: 1994
+original_label: null
+works:
+- {bwv: '546', complete: true}
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eaf065eb-c04b-4cc9-9b0e-12e6f2fe7517
+  title: Johann Sebastian Bach auf den Orgeln seiner Heimat Vol. 2-3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93232645-6e25-4c65-a182-0990d0d2507d
+  recordings: [8bd49c8b-e885-4958-8845-7578aad78c73]

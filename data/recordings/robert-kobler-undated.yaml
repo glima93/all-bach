@@ -1,0 +1,34 @@
+id: robert-kobler-undated
+performers:
+- name: Robert Köbler
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Dorfkirche von Großhartmannsdorf
+released: 1989
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '546', complete: false, movements: [II. Fugue]}
+- {bwv: '548', complete: true}
+- {bwv: '550', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fccb1159-0c24-4e71-b63e-e02e98888d92
+  title: Orgelwerke auf Silbermann-Orgeln
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a608131-c6b1-42bc-9115-a9873b3046db
+  recordings: [18b672e4-2cab-4f5c-bac4-d214e0ccfd38]

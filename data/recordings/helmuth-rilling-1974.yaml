@@ -1,0 +1,27 @@
+id: helmuth-rilling-1974
+performers:
+- name: Helmuth Rilling
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974]
+  place: Gedächtniskirche Stuttgart
+released: 1983
+original_label: null
+works:
+- {bwv: '542', complete: true}
+- {bwv: '544', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb1a675c-30d3-450f-a2fe-c08044e22cf6
+  title: Die Orgelmeisterwerke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0c1f3d1a-96ce-4d1e-87e2-9b273e083ce5
+  recordings: [a344a5ac-6e8e-4934-82a9-7930c0abb3ee]

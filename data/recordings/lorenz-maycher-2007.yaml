@@ -1,0 +1,26 @@
+id: lorenz-maycher-2007
+performers:
+- name: Lorenz Maycher
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: First Trinity Presbyterian Church
+released: 2007
+original_label: null
+works:
+- {bwv: '547', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf687dfb-d668-4db1-87e0-dde8e1373c64
+  title: The Aeolian-Skinner Legacy, Volume V
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0eec290e-1311-4243-bdba-84918df97089
+  recordings: [755d17bf-e8c0-4b1f-8e73-fac3eac8689c]

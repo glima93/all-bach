@@ -1,0 +1,30 @@
+id: odile-pierre-undated
+performers:
+- name: Odile Pierre
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Église de la Madeleine
+released: 1976
+original_label: null
+works:
+- {bwv: '538', complete: false, movements: [I. Toccata]}
+- {bwv: '540', complete: false, movements: [I. Toccata]}
+- {bwv: '541', complete: true}
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f5c2f4ff-3c09-4d58-b7ff-4a2d41020de9
+  title: La célébration du mariage - disque 2
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 87f5b5f8-79de-4fa3-823e-7dbb9ed91023
+  recordings: [30abc4b4-8792-4b00-8a6b-e5ed0d8bcd10]

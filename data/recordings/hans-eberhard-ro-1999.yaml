@@ -1,0 +1,26 @@
+id: hans-eberhard-ro-1999
+performers:
+- name: Hans-Eberhard Roß
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: St. Martin
+released: 1999
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f439a5eb-b710-4475-9502-3e1b76b8bc20
+  title: Mon orgue c'est mon orchestre
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 842ee8a6-7010-4702-a39b-c9c8f2f7491b
+  recordings: [5240414b-0937-4c83-bac1-89bf8bd357bd]

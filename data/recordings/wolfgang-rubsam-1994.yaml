@@ -1,0 +1,32 @@
+id: wolfgang-rubsam-1994
+performers:
+- name: Wolfgang Rübsam
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994, 1995]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '534', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '551', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/987d88cb-e8eb-45b9-b32c-f8af97bc7f7e
+  title: Das Orgelbüchlein (The Little Organ Book), Volume I
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [712338df-7d7c-4182-9a32-a1963f8db2ce]

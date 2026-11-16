@@ -1,0 +1,28 @@
+id: jrgen-ernst-hansen-undated
+performers:
+- name: Jørgen Ernst Hansen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '537', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5722b4b4-97b9-45a6-bba4-a5e52699bdde
+  title: The Organ Concert at Holmens Church
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 311fca50-c5e1-48c9-bf26-c4074159fdeb
+  recordings: [3d137085-bbda-4f24-80cb-cc4c0c4426d2]

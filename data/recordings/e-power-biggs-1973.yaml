@@ -1,0 +1,27 @@
+id: e-power-biggs-1973
+performers:
+- name: E. Power Biggs
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973]
+  place: Freiburger Münster
+released: 1974
+original_label: null
+works:
+- {bwv: '538', complete: true}
+- {bwv: '540', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3829b085-0b6d-4969-972f-5dfea22ef192
+  title: A Quadraphonic Spectacular The Four Antiphonal Organs Of The Cathedral Of Freiburg Played Simultaneously
+    By E. Power Biggs ”Great” Toccatas And Fugues
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  recordings: [3a99bda7-13f9-4355-bedc-6fefcbb4b9a7]

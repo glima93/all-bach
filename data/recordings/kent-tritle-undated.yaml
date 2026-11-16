@@ -1,0 +1,27 @@
+id: kent-tritle-undated
+performers:
+- name: Kent Tritle
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Church of St. Ignatius Loyola
+released: 1994
+original_label: null
+works:
+- {bwv: '542', complete: false, movements: [II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/42d5d0b5-af65-43fd-b075-5abcfd34b67c
+  title: St. Ignatius Loyola, New York City
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bd434516-42f5-4642-8c33-4d0e2657ce23
+  recordings: [5988c95a-2f6c-4286-ac1b-ee52a2b9591c]

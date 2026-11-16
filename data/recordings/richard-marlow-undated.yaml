@@ -1,0 +1,28 @@
+id: richard-marlow-undated
+performers:
+- name: Richard Marlow
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Trinity College Chapel
+released: 1999
+original_label: null
+works:
+- {bwv: '538', complete: true}
+- {bwv: '540', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/79d331a9-3e4c-41ac-9e0e-f59872395b60
+  title: The Five Organ Toccatas and Fugues
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bea2ffa0-0aac-42d0-9934-0abba52cb316
+  recordings: [94effd78-37c8-4cea-9224-ed68573c6174]

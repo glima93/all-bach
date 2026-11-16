@@ -1,0 +1,29 @@
+id: the-team-of-pianists-undated
+performers:
+- name: The Team of Pianists
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '540', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4fbd9d27-69d4-4c85-a8c9-3a69e2d917d5
+  title: 'Teamwork: Works for Piano 4 Hands and 6 Hands'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 654233e8-f530-4fc0-8d8f-32673a2b9f09
+  recordings: [7d1affb5-fc14-48db-872d-5bdd50b78e2f]

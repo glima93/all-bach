@@ -1,0 +1,28 @@
+id: alan-spedding-undated
+performers:
+- name: Alan Spedding
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '536', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/883c2f7d-f545-441a-941d-6eb18c4fbdfe
+  title: Organ Music from Beverley Minster
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 87d70bed-26d8-4714-8e59-a0d19c0d0c5c
+  recordings: [f902f148-c446-4131-88ff-532d27ad842b]

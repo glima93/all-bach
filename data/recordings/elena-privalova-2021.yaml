@@ -1,0 +1,27 @@
+id: elena-privalova-2021
+performers:
+- name: Elena Privalova
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: Rīgas Doms
+released: 2021
+original_label: null
+works:
+- {bwv: '538', complete: true}
+- {bwv: '540', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7857425-eb52-458c-9ea9-e3bf01ef9b5b
+  title: Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 760dc6dd-14a8-4105-bf9b-58864f9f9edf
+  recordings: [882a84b3-aa8c-4712-bede-ba85f602bf62]

@@ -1,0 +1,27 @@
+id: bernard-winsemius-undated
+performers:
+- name: Bernard Winsemius
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Waalse Kerk
+released: null
+original_label: null
+works:
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/402d6760-76e8-4bae-88b1-08c5d14958c0
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 88f40339-296f-4351-8249-abbc73d63f49
+  recordings: [402d6760-76e8-4bae-88b1-08c5d14958c0]

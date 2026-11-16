@@ -1,0 +1,33 @@
+id: douglas-major-undated
+performers:
+- name: Douglas Major
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Washington Cathedral
+released: 1984
+original_label: null
+works:
+- {bwv: '532', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '540', complete: false, movements: [I. Toccata]}
+- {bwv: '541', complete: true}
+- {bwv: '544', complete: true}
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7b9270a7-0a2e-4a34-b90d-682b7828fb02
+  title: Bach in the Cathedral
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0a78fbd-b65f-4109-afa5-c4c8b0bd74e9
+  recordings: [4adf921c-e1b9-4208-a537-c702d1ead34e]

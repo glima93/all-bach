@@ -1,0 +1,26 @@
+id: daniel-chorzempa-1970
+performers:
+- name: Daniel Chorzempa
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: Grote Kerk - Breda
+released: 1990
+original_label: null
+works:
+- {bwv: '532', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/38d9ca72-6774-45f9-bc19-98a229314912
+  title: Bach-Liszt Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 40a960d0-5074-4954-bd19-00bb0b73a9ec
+  recordings: [a21534ef-0e8a-4a09-ab7d-368f9577be37]
