@@ -1,0 +1,26 @@
+id: matthias-havinga-2016
+performers:
+- name: Matthias Havinga
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Grote Kerk
+released: null
+original_label: null
+works:
+- {bwv: '550', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/124a3699-ba58-4da1-be60-055e17e1d0a6
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2b9504a9-76bf-4274-8c24-88c7246b768b
+  recordings: [124a3699-ba58-4da1-be60-055e17e1d0a6]

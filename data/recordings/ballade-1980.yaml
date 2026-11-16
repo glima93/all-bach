@@ -1,0 +1,27 @@
+id: ballade-1980
+performers:
+- name: Ballade
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1980]
+  place: Rosenborg Studio
+released: 1980
+original_label: null
+works:
+- {bwv: '539', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/61f613fb-461b-4089-b383-92c1d296682a
+  title: Ekstranummer!
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dbe3a7c4-d717-4889-9482-1270c315b5e2
+  recordings: [77fa368b-8d25-4564-afdf-54d72a246278]

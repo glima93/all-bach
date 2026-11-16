@@ -1,0 +1,26 @@
+id: wayne-marshall-1998
+performers:
+- name: Wayne Marshall
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: St. Mary's Church
+released: 1998
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e331893f-a5ff-4713-8c13-11ce193f7208
+  title: 'BBC Music, Volume 6, Number 11: Fantasias and Fugues'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c28c5a2-f820-4d5c-a349-bccd2a3bda31
+  recordings: [25d60263-3a84-4ce4-a75c-9b9e375aab98]

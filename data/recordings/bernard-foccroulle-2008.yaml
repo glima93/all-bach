@@ -1,0 +1,27 @@
+id: bernard-foccroulle-2008
+performers:
+- name: Bernard Foccroulle
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: Martinikerk
+released: null
+original_label: null
+works:
+- {bwv: '538', complete: true}
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/df25133e-4c21-43bf-88e4-6e0cac26dfc9
+  title: Toccaten & Fantasien für Orgel
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38e9fcc8-c04e-46a1-babf-8606719eb2f9
+  recordings: [9987e61f-812e-4d52-ba95-7933283774c1]

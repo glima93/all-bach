@@ -1,0 +1,29 @@
+id: agnes-luchterhandt-undated
+performers:
+- name: Agnes Luchterhandt
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '538', complete: false, movements: [I. Toccata]}
+- {bwv: '540', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/35c48779-f37b-47e0-9719-50c80f67552a
+  title: Arp-Schnitger-Orgel Norden Vol. 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f6025691-8b8c-4297-a0d9-57361f4955c5
+  recordings: [fb331be0-af51-49a9-9c02-831a30054e6f]

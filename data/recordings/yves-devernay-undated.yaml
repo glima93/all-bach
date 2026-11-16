@@ -1,0 +1,28 @@
+id: yves-devernay-undated
+performers:
+- name: Yves Devernay
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1980
+original_label: null
+works:
+- {bwv: '532', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f14eadb8-9de8-4bde-83a0-3a2cf1401496
+  title: Yves Devernay au grand Orgue de l'église Saint Christophe de Tourcoing
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 96491b38-e3e1-4605-83e6-122ffc47d570
+  recordings: [5abfd6f6-322a-415e-a43f-01bd21a9895a]

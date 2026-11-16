@@ -1,0 +1,47 @@
+id: wolfgang-rubsam-undated-5
+performers:
+- name: Wolfgang Rübsam
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1977
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '532', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '534', complete: true}
+- {bwv: '535', complete: true}
+- {bwv: '536', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '542', complete: true}
+- {bwv: '544', complete: true}
+- {bwv: '546', complete: true}
+- {bwv: '547', complete: true}
+- {bwv: '548', complete: true}
+- {bwv: '549', complete: true}
+- {bwv: '550', complete: true}
+- {bwv: '551', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15f1eef5-0b95-429b-889d-d28668c8e492
+  title: Das Orgelwerk
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [c7f204c4-5dad-4c57-aeb8-03a88a03a8ff]

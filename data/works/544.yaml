@@ -1,0 +1,15 @@
+bwv: "544"
+title: "Prelude and Fugue in B minor"
+key: "B minor"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: "Leipzig, c. 1727–1731"
+movements:
+  - "I. Prelude"
+  - "II. Fugue"
+notes: "Survives in an autograph fair copy."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_B_minor,_BWV_544"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/9076cd8a-9000-423a-bb85-57b3c54c1d2a

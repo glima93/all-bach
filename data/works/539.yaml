@@ -1,0 +1,15 @@
+bwv: "539"
+title: "Prelude and Fugue in D minor"
+key: "D minor"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: "probably Leipzig, after 1720"
+movements:
+  - "I. Prelude"
+  - "II. Fugue"
+notes: "The fugue is an organ arrangement of the fugue from the Violin Sonata No. 1 in G minor, BWV 1001, hence the occasional nickname \"Fiddle\" fugue; whether Bach himself made the arrangement is uncertain."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/335bfe09-340f-4ca0-b4e5-23a667e645d4

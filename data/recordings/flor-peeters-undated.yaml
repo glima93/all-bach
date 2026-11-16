@@ -1,0 +1,28 @@
+id: flor-peeters-undated
+performers:
+- name: Flor Peeters
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1981
+original_label: null
+works:
+- {bwv: '544', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/22697dcf-55e5-4dd5-86ed-612bbcc7ff5f
+  title: Musiche Per Organo
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 35250cad-6c65-4abe-9990-95cbc9b28242
+  recordings: [a2b174d3-b560-4724-926e-6e18ef2ccdde]

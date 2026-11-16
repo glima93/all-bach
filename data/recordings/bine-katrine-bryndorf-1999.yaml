@@ -1,0 +1,30 @@
+id: bine-katrine-bryndorf-1999
+performers:
+- name: Bine Katrine Bryndorf
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Sct. Mariæ Kirke
+released: 1999
+original_label: null
+works:
+- {bwv: '537', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '546', complete: true}
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/03c1fdfe-f15d-4847-909d-0afced877436
+  title: Weimar, Köthen & Leipzig
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d2ab32a8-bff4-4a57-b4eb-1e263f1101ce
+  recordings: [52e84b64-a737-4520-8d21-fdd0758bbf6a]

@@ -366,6 +366,11 @@ def collect(col: dict, args) -> bool:
     try:
         # The cached tree is keyed by the parent work, so setting mb_parent later takes effect.
         works = c.cached("tree" + (":" + col["mb_parent"] if col.get("mb_parent") else ""), lambda: c.tree(col))
+        # A tree cached before leaves() dropped repeated movements still lists them (other-keyboard-suites was
+        # collected again on 16 Nov 2026 from such a cache, with BWV 818's Sarabandes twice): drop them here too.
+        for w in works:
+            seen = set()
+            w["movements"] = [m for m in w["movements"] if not (m["id"] in seen or seen.add(m["id"]))]
         mode = col.get("mode", "ensemble")
         grouped = mode in GROUPED_MODES
         whole = (lambda w: c.recordings(w["id"]) if w["has_parts"] else []) if c.whole else (lambda w: [])

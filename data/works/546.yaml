@@ -1,0 +1,15 @@
+bwv: "546"
+title: "Prelude and Fugue in C minor"
+key: "C minor"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: "probably Leipzig, c. 1723–1730; fugue possibly earlier"
+movements:
+  - "I. Prelude"
+  - "II. Fugue"
+notes: "The fugue may predate the prelude and have been paired with it later."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_C_minor,_BWV_546"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/eeab722d-2d47-401f-b54f-f5744d8fee79

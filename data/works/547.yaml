@@ -1,0 +1,15 @@
+bwv: "547"
+title: "Prelude and Fugue in C major"
+key: "C major"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: "probably Leipzig, after 1723"
+movements:
+  - "I. Prelude"
+  - "II. Fugue"
+notes: "The prelude is in 9/8 time, giving the work its occasional nickname \"9/8\"; in the fugue the pedal enters only near the end, with the subject in augmentation."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/60986372-b1c9-4b71-8314-0935e61b2edd

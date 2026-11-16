@@ -1,0 +1,26 @@
+id: lois-gurney-2005
+performers:
+- name: Lois Gurney
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2005]
+  place: Edythe Bates Old Recital Hall
+released: null
+original_label: null
+works:
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/6167992c-839e-4a03-a997-d19bf5ca031a
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 93222005-a3d2-4063-bb7b-4ad6151da020
+  recordings: [6167992c-839e-4a03-a997-d19bf5ca031a]

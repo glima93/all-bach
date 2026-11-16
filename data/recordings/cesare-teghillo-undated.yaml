@@ -1,0 +1,28 @@
+id: cesare-teghillo-undated
+performers:
+- name: Cesare Teghillo
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8891d8b0-0e21-4ef9-90f8-a174b28b96d0
+  title: 'L’organo in Europa: L’epoca di Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 557617e6-1f09-4eaa-83b3-da61d26b3b34
+  recordings: [39f53175-7696-4d2e-a038-518e38a6d3e8]

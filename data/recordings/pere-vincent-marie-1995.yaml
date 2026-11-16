@@ -1,0 +1,26 @@
+id: pere-vincent-marie-1995
+performers:
+- name: Père Vincent-Marie
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995, 1996]
+  place: Abbaye Notre-Dame d'Ourscamp
+released: 2014
+original_label: null
+works:
+- {bwv: '532', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5fa76c13-bca3-41af-bae7-e072e0087b74
+  title: L. Marchand / J.-S. Bach / O. Messiaen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 53dc6e0c-4191-4374-8424-522c96f8700c
+  recordings: [849dbabf-380b-4438-b1c1-c20bb93ab538]

@@ -1,0 +1,31 @@
+id: andrea-marcon-1999
+performers:
+- name: Andrea Marcon
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999, 2000]
+  place: Klosterkirche Muri
+released: 1999
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '535', complete: true}
+- {bwv: '536', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '549', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/046558db-24b8-4beb-a5a8-4785c5257f92
+  title: 'Organ Works: Ohrdruf, Lüneburg & Arnstadt'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 273b9d8c-816f-4cef-9e77-887361d2051f
+  recordings: [00548f73-5c61-4e0f-b1f3-ad12674512cb]

@@ -1,0 +1,33 @@
+id: cameron-carpenter-undated-2
+performers:
+- name: Cameron Carpenter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '532', complete: true}
+- {bwv: '540', complete: false, movements: [I. Toccata]}
+- {bwv: '541', complete: true}
+- {bwv: '544', complete: true}
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d1fec89-aeb9-4507-b716-934a7ef31d39
+  title: Cameron Live!
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9905b522-bb88-43e4-9ed0-1b6bdc732664
+  recordings: [ae4dfb75-d772-4a2c-8b81-21f0d9ba015c]

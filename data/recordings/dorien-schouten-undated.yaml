@@ -1,0 +1,28 @@
+id: dorien-schouten-undated
+performers:
+- name: Dorien Schouten
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '533', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/92a820c8-750d-407b-90cb-88d36401bfd1
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f7d1dbf5-7005-408f-8bdf-e22340ffd6df
+  recordings: [92a820c8-750d-407b-90cb-88d36401bfd1]

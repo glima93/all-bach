@@ -1,0 +1,27 @@
+id: david-hill-undated
+performers:
+- name: David Hill
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Winchester Cathedral
+released: 2001
+original_label: null
+works:
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e46c57a8-93b1-40fa-9e4a-7d9d4e1824a3
+  title: Winchester Cathedral Organ Spectacular
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 71f104fa-6de1-4bf6-8c2c-19f076522840
+  recordings: [4d72d308-ef96-42ba-8ac9-3b3498dc06ba]

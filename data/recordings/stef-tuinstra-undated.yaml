@@ -1,0 +1,27 @@
+id: stef-tuinstra-undated
+performers:
+- name: Stef Tuinstra
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Akerk
+released: 1990
+original_label: null
+works:
+- {bwv: '539', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5d51b92d-7d54-4e74-9524-5f55521d7559
+  title: Het Schnitger-Orgel In de Der Aa-Kerk Te Groningen
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e129d18e-e39d-4ca5-9528-d0d2fb6f89a6
+  recordings: [6e014ccf-3198-41b9-b2ff-5df0ba25ec44]

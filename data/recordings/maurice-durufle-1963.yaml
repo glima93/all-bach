@@ -1,0 +1,33 @@
+id: maurice-durufle-1963
+performers:
+- name: Maurice Duruflé
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1963, 1965]
+  place: Cathédrale Saint-Gervais-et-Saint-Protais de Soissons
+released: 1996
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '534', complete: true}
+- {bwv: '536', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '544', complete: true}
+- {bwv: '546', complete: true}
+- {bwv: '549', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3043db36-6bd2-44ed-a392-3d2c29cfb39d
+  title: Préludes, Toccatas, Fantaisies & Fugues pour orgue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 833c8d5e-9524-41a6-bf58-95bb1b1b29e5
+  recordings: [2d2f3e0b-de0b-4972-bfa8-e3e97d810b53]

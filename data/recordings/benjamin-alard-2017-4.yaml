@@ -1,0 +1,32 @@
+id: benjamin-alard-2017-4
+performers:
+- name: Benjamin Alard
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017, 2019]
+  place: Église Sainte-Aurélie
+released: 2018
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '535', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '542', complete: false, movements: [II. Fugue]}
+- {bwv: '546', complete: false, movements: [II. Fugue]}
+- {bwv: '551', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a57538fc-ad76-46df-a855-f0f1c55ab1ab
+  title: 'The Complete Work for Keyboard 1: The Young Heir'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f777ee2-77ea-44be-854f-d3b2cfaf4eda
+  recordings: [296dad5f-f73f-4ad3-b3ca-9ccfa9bd6004]

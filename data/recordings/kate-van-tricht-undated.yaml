@@ -1,0 +1,29 @@
+id: kate-van-tricht-undated
+performers:
+- name: Käte van Tricht
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef55bde1-00fa-444b-bb7f-60091ab29c03
+  title: Hommage – Käte van Tricht
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 671e90bc-7105-48a5-bc0a-fe8ffdf5fafa
+  recordings: [fde289aa-9806-4316-adc2-6fbfb0b707ff]

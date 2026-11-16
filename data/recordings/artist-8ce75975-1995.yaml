@@ -1,0 +1,26 @@
+id: artist-8ce75975-1995
+performers:
+- name: Даниил Процюк
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Marktkirche Unser Lieben Frauen
+released: null
+original_label: null
+works:
+- {bwv: '539', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/af790601-c2d5-49d8-bbbd-250c97ca253d
+  title: Произведения для органа
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 8ce75975-6712-4517-8ceb-b2ad15f842ca
+  recordings: [16e991f3-67e2-428c-9ed8-60df688619e8]

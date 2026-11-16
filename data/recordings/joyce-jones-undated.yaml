@@ -1,0 +1,27 @@
+id: joyce-jones-undated
+performers:
+- name: Joyce Jones
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: West Point Cadet Chapel
+released: 1990
+original_label: null
+works:
+- {bwv: '532', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2994255b-d190-4a36-92f2-3ccf3a5c2484
+  title: Joyce Jones at the Organ of the Cadet Chapel, United States Military Academy, West Point, New York
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 37ede3e6-e3d7-4c6d-9c74-eb2d43386e26
+  recordings: [b60d3fab-464f-4385-b293-be0ec3bbe9e2]

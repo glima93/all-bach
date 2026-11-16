@@ -1,0 +1,31 @@
+id: leo-van-doeselaar-undated-5
+performers:
+- name: Leo van Doeselaar
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Waalse Kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '535', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '542', complete: true}
+- {bwv: '546', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/80284ba1-1836-4111-be64-278faf004661
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 92cf381b-ec74-442f-92c5-73ec60ecd44a
+  recordings: [80284ba1-1836-4111-be64-278faf004661]

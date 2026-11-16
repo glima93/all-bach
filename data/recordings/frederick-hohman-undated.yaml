@@ -1,0 +1,27 @@
+id: frederick-hohman-undated
+performers:
+- name: Frederick Hohman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Cathedral of St. John the Divine
+released: 2019
+original_label: null
+works:
+- {bwv: '548', complete: false, movements: [II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6e035d23-2e94-43de-bb4c-02b7d020ddc8
+  title: Frederick Hohman's Great Organ Gala
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 08f913b4-0816-4f51-9f7f-45d1b119ac30
+  recordings: [86ffadba-b603-4a8e-919d-a6c47e6fca38]

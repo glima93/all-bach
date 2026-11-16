@@ -1,0 +1,27 @@
+id: kare-nordstoga-2000
+performers:
+- name: Kåre Nordstoga
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: Oslo domkirke
+released: 2000
+original_label: null
+works:
+- {bwv: '538', complete: true}
+- {bwv: '540', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fff9f444-398e-4efd-9e32-5ca3c144f22a
+  title: Toccata & Fuga
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 782254a4-e888-4e85-8e8f-0d1bfb61edf8
+  recordings: [c7f0c8de-9dab-4377-b909-afd269aa3447]

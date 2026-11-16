@@ -1,0 +1,28 @@
+id: david-higgs-1993
+performers:
+- name: David Higgs
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '540', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8757d3e1-4c95-4526-a2e7-1e15a45caaf8
+  title: 'Inaugural Recital: David Higgs premieres the CB Fisk opus 100, organ of the Meyerson Symphony Center,
+    Dallas'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5b20bf5f-706e-4bea-bc62-431d2e1e0d1b
+  recordings: [e388e95d-6d9e-4866-8bde-2aad3f23132e]

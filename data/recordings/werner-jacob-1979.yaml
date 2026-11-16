@@ -1,0 +1,31 @@
+id: werner-jacob-1979
+performers:
+- name: Werner Jacob
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979, 1980, 1983]
+  place: Die Evangelisch-Lutherische Friedenskirche zu Ponitz
+released: 2000
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '534', complete: true}
+- {bwv: '544', complete: true}
+- {bwv: '549', complete: true}
+- {bwv: '551', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/da441518-36c2-455c-b398-c241272a33e7
+  title: The Organ Works = Das Orgelwerk = L’Œuvre Intégrale Pour Orgue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eccbbaac-b8cf-4023-b633-6a9343991b00
+  recordings: [1cb13519-0c1a-411d-a0bd-050e000c1581]

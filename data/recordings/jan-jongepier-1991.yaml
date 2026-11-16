@@ -1,0 +1,26 @@
+id: jan-jongepier-1991
+performers:
+- name: Jan Jongepier
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: Grote of Jacobijnerkerk
+released: null
+original_label: null
+works:
+- {bwv: '535', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f5783dd-6fcc-4556-9b32-b38f1010c074
+  title: Famous Dutch Organs
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9be891e2-ac49-472c-ad39-515dc8622999
+  recordings: [c5594582-b5ec-49c6-b583-cbfc8ed8601a]

@@ -1,0 +1,28 @@
+id: montserrat-torrent-undated
+performers:
+- name: Montserrat Torrent
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '534', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c3ed997a-5e82-43e0-8f15-b957afc7377e
+  title: Organ Recital
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f85be4f-4981-45a0-bbf0-aeeda47f901b
+  recordings: [f0dc2f57-10b8-4956-8190-7f0757f10b06]

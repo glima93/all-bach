@@ -1,0 +1,28 @@
+id: jacques-van-oortmerssen-undated
+performers:
+- name: Jacques van Oortmerssen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '532', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac8d95fb-91fc-48bd-a5cb-17c18c0e7a33
+  title: Glory of Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ac6bbfcd-5175-4be9-bd77-f62da44b9979
+  recordings: [817e3fee-94f4-4320-96de-d1f65cd77a39]

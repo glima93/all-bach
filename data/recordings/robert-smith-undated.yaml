@@ -1,0 +1,28 @@
+id: robert-smith-undated
+performers:
+- name: Robert Smith
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '546', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/12dc2bf0-eff1-4862-83e6-4b92d43d05f5
+  title: The Franz Liszt Memorial Organ in Weimar
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d08516f8-80fc-4eb3-a52a-dffe691fe8c8
+  recordings: [0b432160-ba99-44d0-afc4-20f9527d7f46]

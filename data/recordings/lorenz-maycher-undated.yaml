@@ -1,0 +1,29 @@
+id: lorenz-maycher-undated
+performers:
+- name: Lorenz Maycher
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '539', complete: false, movements: [II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1ef20b10-f3fd-4093-907d-b029334fd7fd
+  title: The Aeolian-Skinner Legacy, Volume 1
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0eec290e-1311-4243-bdba-84918df97089
+  recordings: [505e2b9e-7613-4109-8959-0dfb2594e700]

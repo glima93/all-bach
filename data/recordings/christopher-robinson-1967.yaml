@@ -1,0 +1,26 @@
+id: christopher-robinson-1967
+performers:
+- name: Christopher Robinson
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1967]
+  place: Worcester Cathedral
+released: 2011
+original_label: null
+works:
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c44dd7f-f1bb-45e0-9065-ad61ddd4afd8
+  title: Great Cathedral Organs
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fa18eda1-23bd-433b-8a44-42a514ef6302
+  recordings: [7f1debe5-6033-4b67-8881-567cd83d8274]

@@ -1,0 +1,28 @@
+id: adalbert-meier-undated
+performers:
+- name: Adalbert Meier
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d5156e50-5b4c-4e9c-b3ef-250746865d42
+  title: 'Bruckner: Symphony No. 5, Organ music from the Basilika'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d19844ac-7926-4061-b998-7dc42418a966
+  recordings: [7a1af291-b423-400c-aae9-cd4ac9da9f20]

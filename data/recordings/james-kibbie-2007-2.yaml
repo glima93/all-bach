@@ -1,0 +1,44 @@
+id: james-kibbie-2007-2
+performers:
+- name: James Kibbie
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007, 2008, 2009, 2010]
+  place: Katholische Hofkirche
+released: 2010
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '532', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '534', complete: true}
+- {bwv: '535', complete: true}
+- {bwv: '536', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '542', complete: true}
+- {bwv: '544', complete: true}
+- {bwv: '546', complete: true}
+- {bwv: '547', complete: true}
+- {bwv: '548', complete: true}
+- {bwv: '549', complete: true}
+- {bwv: '550', complete: true}
+- {bwv: '551', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/78688a9e-0211-4d8c-b746-ec8edb51374e
+  title: Preludes and Fugues
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 437c5876-f406-45be-a3cc-e76d244ee497
+  recordings: [f606e9db-a777-4c07-8085-6c94c0178d56]

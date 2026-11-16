@@ -1,0 +1,32 @@
+id: ewald-kooiman-2008-3
+performers:
+- name: Ewald Kooiman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: Église Protestante Saint Laurent
+released: 2012
+original_label: null
+works:
+- {bwv: '533', complete: true}
+- {bwv: '535', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '546', complete: true}
+- {bwv: '547', complete: true}
+- {bwv: '551', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2a7c5f2b-a5cd-454c-82f8-c3efcc09b8f0
+  title: Complete Organ Works played on Silbermann organs Vol. 6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c83a81e1-2544-4662-9726-00615372c8c4
+  recordings: [873d847f-5e3a-4b6a-b6b9-91b76c01e211]

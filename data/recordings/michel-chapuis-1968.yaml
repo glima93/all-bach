@@ -1,0 +1,39 @@
+id: michel-chapuis-1968
+performers:
+- name: Michel Chapuis
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1968]
+  place: Academiehuis
+released: 1968
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '532', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '535', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '544', complete: true}
+- {bwv: '546', complete: true}
+- {bwv: '547', complete: true}
+- {bwv: '548', complete: true}
+- {bwv: '549', complete: true}
+- {bwv: '550', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/db052eac-0d0d-4bf4-9f48-b67368880bd3
+  title: L'œuvre d'orgue 7
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: adb29a70-1a5a-40dc-b92d-8acfd3c481f6
+  recordings: [b572e8fc-b8cf-453b-9f97-765c545cd6f3]

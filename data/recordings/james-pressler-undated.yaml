@@ -1,0 +1,31 @@
+id: james-pressler-undated
+performers:
+- name: James Pressler
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '535', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '546', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/2a3363f4-a0d2-43a6-b766-be7bdea04a4b
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7b765a05-27e0-45b0-954e-8eafa3a2ecb7
+  recordings: [2a3363f4-a0d2-43a6-b766-be7bdea04a4b]

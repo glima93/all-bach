@@ -1,0 +1,28 @@
+id: harry-grodberg-undated
+performers:
+- name: Harry Grodberg
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '538', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/473f3b32-8079-481a-b168-cf2d88691923
+  title: Toccatas for Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ae5038c-e39c-4dec-bbda-9789884d2273
+  recordings: [5e65dcf8-bd64-4e8a-843d-898beab4d62d]

@@ -1,0 +1,27 @@
+id: rune-engso-undated
+performers:
+- name: Rune Engsö
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Gammalkils kyrka
+released: 1996
+original_label: null
+works:
+- {bwv: '538', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3025aaaf-3bb6-492a-8116-74108a658ee0
+  title: Gamla svenska orglar
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aab845d2-795c-4890-a15d-95160a060e4f
+  recordings: [abc51558-3e1d-4aad-8fad-06e7a188655d]

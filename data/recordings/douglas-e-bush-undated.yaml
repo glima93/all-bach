@@ -1,0 +1,28 @@
+id: douglas-e-bush-undated
+performers:
+- name: Douglas E. Bush
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '546', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f5b52ad7-a42f-4e04-b95b-95c4de36cdc7
+  title: Rejoice at the Sound of the Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a7ed5cd0-9caa-410d-8a7d-4b5276459e81
+  recordings: [09541db2-feb0-43c2-8308-c93219212784]

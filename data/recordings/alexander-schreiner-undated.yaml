@@ -1,0 +1,29 @@
+id: alexander-schreiner-undated
+performers:
+- name: Alexander Schreiner
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1955
+original_label: null
+works:
+- {bwv: '540', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/67f77fc9-3920-42f1-867d-fc158c9ce41d
+  title: Toccata en fa majeur / Concerto pour 2 trompettes en ut / Sonate en fa dièse, op. 78, « À Thérèse » / Symphonie
+    n° 26 en mi bémol (K. 184) / Fantaisie‐impromptu, op. 66 / Carnaval romain, Ouverture
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7b8ade93-566d-4220-8127-c5936ff02618
+  recordings: [4641ecca-3c1b-4a58-bc1a-4bd98db38318]

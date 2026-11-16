@@ -1,0 +1,26 @@
+id: felix-hell-2000
+performers:
+- name: Felix Hell
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: Cathedral Basilica of the Sacred Heart
+released: 2002
+original_label: null
+works:
+- {bwv: '532', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/28354266-0506-4119-b8ed-1b12b53bfcdd
+  title: Orgelgiganten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 69f2341a-5a31-455f-a408-b75b4c54e8fb
+  recordings: [0816354e-fd1a-4aff-938c-42e0d83fb36a]

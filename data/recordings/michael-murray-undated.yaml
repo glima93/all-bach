@@ -1,0 +1,38 @@
+id: michael-murray-undated
+performers:
+- name: Michael Murray
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '531', complete: false, movements: [I. Prelude]}
+- {bwv: '532', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '540', complete: false, movements: [I. Toccata]}
+- {bwv: '542', complete: true}
+- {bwv: '544', complete: true}
+- {bwv: '546', complete: false, movements: [I. Prelude]}
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f3ee228e-f541-4c54-a120-f6cff27d12ee
+  title: Bach Organ Blaster
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45d5818f-8ae4-47d9-9f1d-6c0e2fd99a3c
+  recordings: [2e0e5cb0-8525-4854-9b68-2a91e6edf3d4]

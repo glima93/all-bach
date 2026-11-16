@@ -1,0 +1,29 @@
+id: gergely-boganyi-undated
+performers:
+- name: Gergely Bogányi
+  role: grand piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Supersize Recording
+released: 2022
+original_label: null
+works:
+- {bwv: '538', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cbece292-21f9-4c69-9499-f88ae67fc565
+  title: Fantasy and Fugue in G minor / Toccata und Fuge in D minor / Praeludium und Fuge A major / Italienisches
+    Konzert
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ab7196-e0ce-40b4-af1d-ac608b1bc272
+  recordings: [89bcaa47-e2f9-466a-b85b-69aefbfa1cd8]

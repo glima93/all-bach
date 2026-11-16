@@ -1,0 +1,30 @@
+id: wolfgang-rubsam-1977
+performers:
+- name: Wolfgang Rübsam
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: Stadtkirche St. Nikolaus
+released: 1988
+original_label: null
+works:
+- {bwv: '535', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '542', complete: true}
+- {bwv: '549', complete: true}
+- {bwv: '550', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4310391d-95ae-44d2-9d11-e68ad4229d96
+  title: Toccata & Fugue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [50b75ea9-7e0b-4ad9-afa1-93dde5bc3f8e]

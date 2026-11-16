@@ -1,0 +1,26 @@
+id: marc-f-cheban-2000
+performers:
+- name: Marc F. Cheban
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: 'Masonic Temple: Corinthian Hall'
+released: null
+original_label: null
+works:
+- {bwv: '539', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f2148d9-8321-4b34-9814-194d6d0ab618
+  title: Organ Music From Corinthian Hall
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 08bb7381-a362-4a61-912e-36a798e4b2ca
+  recordings: [48af96fe-d798-41b4-8997-ca8e2be74255]

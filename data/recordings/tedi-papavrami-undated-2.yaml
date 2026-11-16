@@ -1,0 +1,29 @@
+id: tedi-papavrami-undated-2
+performers:
+- name: Tedi Papavrami
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c040fdbc-adc0-4745-bc78-02556c654ee5
+  title: Sonata for Solo Violin / Fantaisie & Fugue / Suite
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 68fbb1a9-d898-46d5-be5e-145276309a63
+  recordings: [f70d3757-57fe-4ee5-921d-02c6a13cd103]

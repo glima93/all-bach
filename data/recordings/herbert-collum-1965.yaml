@@ -1,0 +1,26 @@
+id: herbert-collum-1965
+performers:
+- name: Herbert Collum
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1965]
+  place: Dorfkirche Reinhardtsgrimma
+released: 1989
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d261584e-c7e6-406c-bfca-69b745b85aa2
+  title: Bach auf Silbermannorgeln, Vol I
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bfb020c9-6abe-411e-b1f5-fb0c9d878d6c
+  recordings: [2f41e521-0000-4312-8387-373237819f01]

@@ -1,0 +1,26 @@
+id: herbert-tachezi-1984
+performers:
+- name: Herbert Tachezi
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Katholische Hofkirche
+released: 1985
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bda43f84-ea0c-4252-bf7c-dbc2e7714f85
+  title: 'Toccata & Fugue: Greatest Organ Works: Silbermann Organ Dresden'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 398f807e-450e-48a4-9962-04eb5be35ff3
+  recordings: [ca43475c-dffa-4560-8e5a-4b74f0131494]

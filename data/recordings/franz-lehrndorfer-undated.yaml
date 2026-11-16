@@ -1,0 +1,28 @@
+id: franz-lehrndorfer-undated
+performers:
+- name: Franz Lehrndorfer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/93c38d57-dd11-4060-a7de-b6d1be1eaf2a
+  title: The Best of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a9433d62-e8f4-4cd8-b292-ab25538d0af1
+  recordings: [077414ee-415b-4e70-b25e-847d38c66094]

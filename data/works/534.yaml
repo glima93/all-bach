@@ -1,0 +1,15 @@
+bwv: "534"
+title: "Prelude and Fugue in F minor"
+key: "F minor"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: null
+movements:
+  - "I. Prelude"
+  - "II. Fugue"
+notes: "Its authenticity is doubtful: the work survives only in late copies, and some scholars attribute it to one of Bach's pupils."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/373cb9e5-20cb-4985-aa67-7b22dd5eca32

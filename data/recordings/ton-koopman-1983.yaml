@@ -1,0 +1,30 @@
+id: ton-koopman-1983
+performers:
+- name: Ton Koopman
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1983, 1986, 1987]
+  place: Grote Kerk
+released: 1984
+original_label: null
+works:
+- {bwv: '538', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '542', complete: true}
+- {bwv: '546', complete: true}
+- {bwv: '549', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b10d1103-f946-4301-8bd0-74d9b3a46404
+  title: Works for Organ / Works for Harpsichord
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [c9fc96f7-884c-41e5-80c3-d84ec452608a]

@@ -1,0 +1,15 @@
+bwv: "545"
+title: "Prelude and Fugue in C major"
+key: "C major"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: "Weimar, c. 1708–1717; revised in Leipzig"
+movements:
+  - "Prelude"
+  - "Fugue"
+notes: "Related versions include an earlier one, BWV 545a, and BWV 545b in B-flat major with an inserted trio."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e5a5a65a-64b3-4138-94bc-af2f433f1f21

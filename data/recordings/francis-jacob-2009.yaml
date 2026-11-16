@@ -1,0 +1,27 @@
+id: francis-jacob-2009
+performers:
+- name: Francis Jacob
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/24962ecd-e032-4a91-86d0-f75328a8932d
+  title: Magnificat
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3815c66d-3168-4346-ae34-c540177d9604
+  recordings: [14fc84de-462c-409a-a811-cae404f3ebfd]

@@ -1,0 +1,40 @@
+id: lionel-rogg-1961
+performers:
+- name: Lionel Rogg
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961, 1962, 1964]
+  place: Grossmünster
+released: 1962
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '532', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '534', complete: true}
+- {bwv: '535', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '542', complete: true}
+- {bwv: '547', complete: true}
+- {bwv: '548', complete: true}
+- {bwv: '549', complete: true}
+- {bwv: '550', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c656f91f-4fc3-41f8-8533-52a1200cfe91
+  title: Intégrale De L'Œuvre D'Orgue 18
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 90e17964-b04a-4c37-b952-3c9dfc16c430
+  recordings: [707187f5-9bb3-4e9f-adc8-51e04554eabf]

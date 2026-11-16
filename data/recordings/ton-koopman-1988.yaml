@@ -1,0 +1,31 @@
+id: ton-koopman-1988
+performers:
+- name: Ton Koopman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988, 1989, 1990]
+  place: Grote Kerk
+released: 1988
+original_label: null
+works:
+- {bwv: '532', complete: true}
+- {bwv: '533', complete: true}
+- {bwv: '538', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '547', complete: true}
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/01bb4e19-e6fb-4a65-9a41-3b318e6ba8dd
+  title: Orgelwerke III
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [98d14470-f845-4115-9de5-3207ee46caf4]

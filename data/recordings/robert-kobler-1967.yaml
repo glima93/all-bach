@@ -1,0 +1,27 @@
+id: robert-kobler-1967
+performers:
+- name: Robert Köbler
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1967]
+  place: Die Evangelisch-Lutherische Friedenskirche zu Ponitz
+released: 1989
+original_label: null
+works:
+- {bwv: '540', complete: true}
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f4c01a7-3e9e-44ee-a232-016d67c0e389
+  title: Bach auf Silbermannorgeln, Vol III
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a608131-c6b1-42bc-9115-a9873b3046db
+  recordings: [8317fa72-dc62-4c72-bc46-d2f342bb8ac9]

@@ -1,0 +1,33 @@
+id: peter-kofler-undated-3
+performers:
+- name: Peter Kofler
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '536', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '548', complete: true}
+- {bwv: '550', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d3ee8dda-5a66-4321-b689-7ee85ae25af8
+  title: 'Opus Bach: Orgelwerke, Organ Works Vol. 1'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2e63723-7bbc-4383-9880-14f036ac19eb
+  recordings: [8db9cc44-c0b6-4a9a-877a-a79d34abbf53]

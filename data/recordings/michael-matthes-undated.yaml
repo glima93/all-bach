@@ -1,0 +1,33 @@
+id: michael-matthes-undated
+performers:
+- name: Michaël Matthes
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Église Saint-Luc de Lys-Lez-Lannoy
+released: 1999
+original_label: null
+works:
+- {bwv: '535', complete: true}
+- {bwv: '540', complete: true}
+- {bwv: '541', complete: true}
+- {bwv: '542', complete: true}
+- {bwv: '544', complete: true}
+- {bwv: '547', complete: true}
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a0de3d63-8d7a-43ee-ad58-7445d94e1db9
+  title: Bach in extenso
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4e305c28-bc58-485c-946e-84c06f31dee5
+  recordings: [b725e18a-d8bc-4ab3-98dc-0ef6f6055ee3]

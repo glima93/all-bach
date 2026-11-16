@@ -1,0 +1,28 @@
+id: brian-sharp-undated
+performers:
+- name: Brian Sharp
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '540', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9589fe07-83e9-46fe-8768-25a87c5e0011
+  title: Sharp’s Assortment
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2719014e-2e4a-462e-87da-ccb6a4c8f711
+  recordings: [8318c0a4-b6c5-4d3b-aa12-a975353ec8e9]

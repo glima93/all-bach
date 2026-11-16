@@ -1,0 +1,26 @@
+id: hans-otto-1961
+performers:
+- name: Hans Otto
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: Dorfkirche von Großhartmannsdorf
+released: 1989
+original_label: null
+works:
+- {bwv: '538', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d261584e-c7e6-406c-bfca-69b745b85aa2
+  title: Bach auf Silbermannorgeln, Vol I
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 74fe52bd-2c4a-4e25-99d8-ec64b1178c04
+  recordings: [ad64f27b-9762-4308-a446-0e27c44dd0f2]

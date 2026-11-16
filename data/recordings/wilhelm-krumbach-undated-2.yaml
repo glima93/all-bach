@@ -1,0 +1,28 @@
+id: wilhelm-krumbach-undated-2
+performers:
+- name: Wilhelm Krumbach
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Schloßkirche zu Lahm im Itzgrund
+released: 1993
+original_label: null
+works:
+- {bwv: '542', complete: true}
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee3d1e83-c2e5-4bd5-8605-95d7d6d77435
+  title: 'The Bach Family: Organ Works'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b8bd1b7d-7396-4b71-a755-9828d49c2c87
+  recordings: [d2d63096-88df-440d-b83a-70923837cc59]

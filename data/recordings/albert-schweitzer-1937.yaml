@@ -1,0 +1,27 @@
+id: albert-schweitzer-1937
+performers:
+- name: Albert Schweitzer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1937]
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '548', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4811ce5a-3057-4a6a-9125-78259bcaa2b8
+  title: Werke für Orgel
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df4906d0-2a9e-461e-b6b5-1bcca3731483
+  recordings: [45860754-36c0-4816-a5d0-ffd0659d88c0]

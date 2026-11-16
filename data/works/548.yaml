@@ -1,0 +1,15 @@
+bwv: "548"
+title: "Prelude and Fugue in E minor"
+key: "E minor"
+collection: "Preludes and Fugues for organ"
+genre: organ
+scoring: "organ"
+composed: "Leipzig, c. 1727–1731"
+movements:
+  - "I. Prelude"
+  - "II. Fugue"
+notes: "Nicknamed \"Wedge\" after the fugue subject's gradually widening chromatic intervals. The partly autograph manuscript was completed by Bach's pupil Johann Peter Kellner."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_E_minor,_BWV_548"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/086cdb32-3893-45ef-b930-398738ec26de

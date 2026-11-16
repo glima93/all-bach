@@ -1,0 +1,26 @@
+id: harold-fabrikant-1996
+performers:
+- name: Harold Fabrikant
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: 'Adelaide Festival Centre: Festival Theatre'
+released: 1996
+original_label: null
+works:
+- {bwv: '537', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4e0d57f8-fa3a-498f-812c-837519fd2458
+  title: Pipe Organs of Adelaide, Volume 5
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 460b1dba-970d-4a3c-8ab0-11f3176d4d4c
+  recordings: [753d44b4-ccce-4990-8337-54fb5503227c]

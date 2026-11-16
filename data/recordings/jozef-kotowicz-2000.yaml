@@ -1,0 +1,27 @@
+id: jozef-kotowicz-2000
+performers:
+- name: Józef Kotowicz
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/76e4d5a4-5367-4cfc-8529-67d7e51a906d
+  title: Organy Bazyliki Katedralnej w Białymstoku
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e13ac08b-795e-4592-b579-ba6707068393
+  recordings: [de4cb361-ef56-4369-865e-70156a917a34]

@@ -1,0 +1,27 @@
+id: marilyn-f-sexton-mason-undated
+performers:
+- name: Marilyn F. Sexton Mason
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Church of the Ascension
+released: 2003
+original_label: null
+works:
+- {bwv: '546', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/76a70dcd-35b2-4bfb-9985-8b15607e0715
+  title: 'Marilyn F. Sexton Mason, Organist: Live in Recital'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eafa0aa2-5508-4d07-a008-389d4710ba3f
+  recordings: [ae759c2f-d0af-4cf5-9034-74c2d5cfb4c5]

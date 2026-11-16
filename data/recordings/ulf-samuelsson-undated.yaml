@@ -1,0 +1,28 @@
+id: ulf-samuelsson-undated
+performers:
+- name: Ulf Samuelsson
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Ålems kyrka
+released: 2000
+original_label: null
+works:
+- {bwv: '532', complete: true}
+- {bwv: '541', complete: false, movements: [I. Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3d26db15-f4b9-4112-8660-b0d66d0df30d
+  title: Bach i Ålem
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9b57e219-72b6-46bd-acc0-4847204c79b2
+  recordings: [1ee296c2-0c42-4976-90cd-ee9c7007a26d]

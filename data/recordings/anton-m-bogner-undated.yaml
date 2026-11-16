@@ -1,0 +1,28 @@
+id: anton-m-bogner-undated
+performers:
+- name: Anton M. Bogner
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '541', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b2cc2fc7-8867-4fec-951b-8b00d1560522
+  title: Orgelkonzert
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9ad9832d-7382-4452-bb09-d85aa4d083e3
+  recordings: [3c8142a3-8f0e-400e-b8f9-1ee29b295116]

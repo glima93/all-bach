@@ -1,0 +1,36 @@
+id: lionel-rogg-1975
+performers:
+- name: Lionel Rogg
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1975, 1976]
+  place: Reformierte Kirche Netstal
+released: 1987
+original_label: null
+works:
+- {bwv: '531', complete: true}
+- {bwv: '532', complete: true}
+- {bwv: '535', complete: true}
+- {bwv: '536', complete: true}
+- {bwv: '537', complete: true}
+- {bwv: '539', complete: true}
+- {bwv: '542', complete: false, movements: [II. Fugue]}
+- {bwv: '545', complete: false, movements: [Prelude]}
+- {bwv: '549', complete: true}
+- {bwv: '550', complete: true}
+- {bwv: '551', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fd7fa187-b815-4e9a-a99f-904b70d51935
+  title: Preludes, Fantasias and Fugues for Organ
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 90e17964-b04a-4c37-b952-3c9dfc16c430
+  recordings: [4d248ae4-4873-4037-8dcf-ceab469136c8]

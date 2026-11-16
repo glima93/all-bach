@@ -1,0 +1,27 @@
+id: friedrich-froschle-undated
+performers:
+- name: Friedrich Fröschle
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Ulmer Münster
+released: 1994
+original_label: null
+works:
+- {bwv: '536', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6749a3a4-da5d-4c2e-946d-5e592da1d594
+  title: Die große Orgel im Ulmer Münster
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f6d544a9-7d97-4ade-ac8f-bbe8be4a8c9b
+  recordings: [cacfacd7-2cb1-4aaa-aa2d-5e0bf00621fd]

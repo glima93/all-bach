@@ -1,0 +1,28 @@
+id: carsten-lenz-undated
+performers:
+- name: Carsten Lenz
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '547', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f4c2fc7-8dd9-4cc9-99ee-f3d0ca53c06d
+  title: Die Hardt-Orgel in St. Peter Hadamar-Niederzeuzheim
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 738695fc-a537-4d23-a89e-34148b5227d4
+  recordings: [beb5586d-11ea-471a-a840-6b90a9c4332d]

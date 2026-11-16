@@ -1,0 +1,28 @@
+id: vincent-genvrin-undated
+performers:
+- name: Vincent Genvrin
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '536', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/25bf2d33-fddb-4929-9737-4a5239c5e505
+  title: 'Bach à Weimar: Œuvres d''orgues dans leur version originale'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8cb35fa1-b05a-4b49-8368-babb70de920e
+  recordings: [2b8305e8-a505-4e1a-8486-cc9f23af20a3]

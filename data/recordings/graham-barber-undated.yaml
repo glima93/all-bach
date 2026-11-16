@@ -1,0 +1,28 @@
+id: graham-barber-undated
+performers:
+- name: Graham Barber
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St Peter Mancroft
+released: 2018
+original_label: null
+works:
+- {bwv: '531', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39bdd1d7-7cde-46a8-8131-f16fb1a12c87
+  recordings: [dfb59dd0-52c2-4e8f-b907-92638b3d36a5]

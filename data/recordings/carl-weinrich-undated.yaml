@@ -1,0 +1,28 @@
+id: carl-weinrich-undated
+performers:
+- name: Carl Weinrich
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1962
+original_label: null
+works:
+- {bwv: '538', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e8ef266-610a-4ab9-8c26-c51fbdcac04b
+  title: Organ Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dac8b832-925c-407c-9213-005d5a0a932d
+  recordings: [b9f1727c-f7e3-49a6-9ef2-6423b71bcf15]

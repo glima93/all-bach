@@ -1,0 +1,28 @@
+id: mari-ohki-undated
+performers:
+- name: Mari Ohki
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '542', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f728ba4a-5d07-4136-b27f-5e3636953eab
+  title: Erinnerung
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 245d7ff9-f191-4bdf-a2ca-b268a0e378c3
+  recordings: [770662bf-ae8b-4037-b62d-f3acc374831d]
