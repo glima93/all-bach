@@ -1,0 +1,804 @@
+{
+ "collection": "organ-free-works",
+ "taken": "2026-11-16",
+ "recordings": 1642,
+ "performances": 496,
+ "works": [
+  {
+   "bwv": "561",
+   "id": "cc7cd00e-4397-35fd-8e4d-ebdcd65878ce",
+   "candidates": [
+    {
+     "id": "cc7cd00e-4397-35fd-8e4d-ebdcd65878ce",
+     "title": "Fantasia and Fugue in A minor, BWV 561"
+    },
+    {
+     "id": "6d85534e-6aeb-4b44-ab05-02c4604d91ad",
+     "title": "Fantasia and Fugue in A minor, BWV 561"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasia and Fugue in A minor, BWV 561",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0439a243-be74-455f-a633-77fe710c5e59",
+     "title": "Fantasia and Fugue in A minor, BWV 561: I. Fantasia"
+    },
+    {
+     "id": "34009b79-c3ae-4515-8aca-0dedf3c8b381",
+     "title": "Fantasia and Fugue in A minor, BWV 561: II. Fugue"
+    }
+   ]
+  },
+  {
+   "bwv": "562",
+   "id": "ad2a3e74-9183-4eac-824d-71652c872941",
+   "candidates": [
+    {
+     "id": "3350498f-4fed-4613-b0d8-26340565371d",
+     "title": "Fantasia and Fugue, BWV 562"
+    },
+    {
+     "id": "ad2a3e74-9183-4eac-824d-71652c872941",
+     "title": "Fantasie und Fuge c-Moll, BWV 562"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie und Fuge c-Moll, BWV 562",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0ef697a1-c1ca-3f6b-94fc-7319ca473f63",
+     "title": "Fantasie und Fuge c-Moll, BWV 562: I. Fantasie"
+    },
+    {
+     "id": "8b5321cc-7c25-3ea4-b25e-a87154a93115",
+     "title": "Fantasie und Fuge c-Moll, BWV 562: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "563",
+   "id": "176c9e4a-67fa-3fb1-8d8d-dc39e7b3c627",
+   "candidates": [
+    {
+     "id": "176c9e4a-67fa-3fb1-8d8d-dc39e7b3c627",
+     "title": "Fantasia con imitazione h-Moll, BWV 563"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasia con imitazione h-Moll, BWV 563",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "b332ec05-83dd-4a84-ba87-0b449a0216e2",
+     "title": "Fantasia con imitazione h-Moll, BWV 563: I. Fantasia"
+    },
+    {
+     "id": "80ea32b7-cd57-41c4-86b2-ed995692f51c",
+     "title": "Fantasia con imitazione h-Moll, BWV 563: II. Imitatio"
+    }
+   ]
+  },
+  {
+   "bwv": "564",
+   "id": "f8d2e6ed-38f6-4eb4-85d8-290aedaf11dd",
+   "candidates": [
+    {
+     "id": "f8d2e6ed-38f6-4eb4-85d8-290aedaf11dd",
+     "title": "Toccata, Adagio, and Fugue in C major, BWV 564"
+    },
+    {
+     "id": "0776f6c5-3533-4731-b3e2-149f43c1c0b2",
+     "title": "Toccata, Adagio and Fugue in C major, BWV 564, BV B 29 no. 1"
+    },
+    {
+     "id": "bb8ca622-cdfe-41ac-a512-3c66084f497a",
+     "title": "Toccata, Adagio, and Fugue in C major, BWV 564"
+    },
+    {
+     "id": "9ece1b18-2c90-43d6-aa80-2f7fcc79139e",
+     "title": "Adagio from the Toccata, Adagio, and Fugue in C major, BWV 564"
+    },
+    {
+     "id": "91b0e0ec-33cf-4bc7-b43e-cea129cd8b56",
+     "title": "Toccata, Adagio, and Fugue in C major, BWV 564"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Toccata, Adagio, and Fugue in C major, BWV 564",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "ef7fbbb2-2eda-3366-915d-6137cb190fb6",
+     "title": "Toccata, Adagio, and Fugue in C major, BWV 564: I. Toccata"
+    },
+    {
+     "id": "1c8997be-bcba-35e1-a518-8ba6fc05e3ec",
+     "title": "Toccata, Adagio, and Fugue in C major, BWV 564: II. Adagio"
+    },
+    {
+     "id": "ae9c3110-f1e6-3397-8793-45a22c36b632",
+     "title": "Toccata, Adagio, and Fugue in C major, BWV 564: III. Fugue"
+    }
+   ]
+  },
+  {
+   "bwv": "565",
+   "id": "c4f0bd0a-342e-3071-ac3b-7e5e7f17f924",
+   "candidates": [
+    {
+     "id": "c4f0bd0a-342e-3071-ac3b-7e5e7f17f924",
+     "title": "Toccata und Fuge d-Moll, BWV 565"
+    },
+    {
+     "id": "914403ca-3e07-35bd-a0a5-4bbe8cd93a39",
+     "title": "Toccata und Fugue d-Moll, BWV 565, BV B 29 no. 2"
+    },
+    {
+     "id": "e81e14ea-1f87-493f-859a-d8d86087de89",
+     "title": "Toccata und Fuge d-Moll, BWV 565"
+    },
+    {
+     "id": "81499538-cfe3-4aa5-8722-185e3a310596",
+     "title": "Toccata and Fugue in D minor, BWV 565"
+    },
+    {
+     "id": "c7f66ffa-e5df-4c4f-87a9-6363ec13c550",
+     "title": "Toccata und Fuge d-Moll, BWV 565"
+    },
+    {
+     "id": "ebf54606-a86b-4b9a-8630-7d8e94b3608f",
+     "title": "Toccata und Fuge d-Moll, BWV 565"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Toccata und Fuge d-Moll, BWV 565",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "00403271-8c3f-3d25-a115-10dd42c5274c",
+     "title": "Toccata und Fuge d-Moll, BWV 565: I. Toccata"
+    },
+    {
+     "id": "fbb58ca3-6936-3de5-bba0-b0cacd66aa7e",
+     "title": "Toccata und Fuge d-Moll, BWV 565: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "566",
+   "id": "93be5609-c36b-3b26-ba99-d01ec84f0b81",
+   "candidates": [
+    {
+     "id": "93be5609-c36b-3b26-ba99-d01ec84f0b81",
+     "title": "Präludium (Toccata) und Fuge für Orgel E-Dur, BWV 566"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium (Toccata) und Fuge für Orgel E-Dur, BWV 566",
+   "key": "E major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "bc3c3b6a-9260-463b-9806-a9c2ded119e6",
+     "title": "Praeludium et Fuga in E, BWV 566: I. Praeludium"
+    },
+    {
+     "id": "a61ac0bb-6c9c-4367-8482-53edfae67031",
+     "title": "Praeludium et Fuga in E, BWV 566: II. Fuga"
+    }
+   ]
+  },
+  {
+   "bwv": "567",
+   "id": "a55b2864-aa4f-36ed-9016-0bc68692c4d1",
+   "candidates": [
+    {
+     "id": "a55b2864-aa4f-36ed-9016-0bc68692c4d1",
+     "title": "Prelude in C major, BWV 567"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Prelude in C major, BWV 567",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "a55b2864-aa4f-36ed-9016-0bc68692c4d1",
+     "title": "Prelude in C major, BWV 567"
+    }
+   ]
+  },
+  {
+   "bwv": "568",
+   "id": "11a61f1d-5e9f-3656-b1d8-b8a845097e4c",
+   "candidates": [
+    {
+     "id": "11a61f1d-5e9f-3656-b1d8-b8a845097e4c",
+     "title": "Präludium G-Dur, BWV 568"
+    },
+    {
+     "id": "155ab33a-9e1d-4371-b8e2-3bda321c1a35",
+     "title": "Präludium G-Dur, BWV 568"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium G-Dur, BWV 568",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "11a61f1d-5e9f-3656-b1d8-b8a845097e4c",
+     "title": "Präludium G-Dur, BWV 568"
+    }
+   ]
+  },
+  {
+   "bwv": "569",
+   "id": "0aebee53-4224-3678-8869-c4425aadd320",
+   "candidates": [
+    {
+     "id": "0aebee53-4224-3678-8869-c4425aadd320",
+     "title": "Präludium a-Moll, BWV 569"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium a-Moll, BWV 569",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "0aebee53-4224-3678-8869-c4425aadd320",
+     "title": "Präludium a-Moll, BWV 569"
+    }
+   ]
+  },
+  {
+   "bwv": "570",
+   "id": "0fb5991d-2724-30e6-8dee-4834ad070e5a",
+   "candidates": [
+    {
+     "id": "0fb5991d-2724-30e6-8dee-4834ad070e5a",
+     "title": "Fantasie C-Dur, BWV 570"
+    },
+    {
+     "id": "6900b12a-75c9-4d84-b137-56fcfb3589aa",
+     "title": "Fantasie C-Dur, BWV 570"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie C-Dur, BWV 570",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "0fb5991d-2724-30e6-8dee-4834ad070e5a",
+     "title": "Fantasie C-Dur, BWV 570"
+    }
+   ]
+  },
+  {
+   "bwv": "571",
+   "id": "c3f5b274-3977-3d9c-92d9-86030ea22e70",
+   "candidates": [
+    {
+     "id": "c3f5b274-3977-3d9c-92d9-86030ea22e70",
+     "title": "Fantasie G-Dur, BWV 571"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie G-Dur, BWV 571",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "3ec40c58-bed8-3337-8b6a-b2428dbe2a6a",
+     "title": "Fantasie G-Dur, BWV 571: I. Allegro"
+    },
+    {
+     "id": "10e315af-d223-3b3a-9ce1-b5fdbee04d63",
+     "title": "Fantasie G-Dur, BWV 571: II. Adagio"
+    },
+    {
+     "id": "bcaa745e-0336-3038-90c8-afed671cc972",
+     "title": "Fantasie G-Dur, BWV 571: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "572",
+   "id": "cc815d5b-7980-33d6-a11e-6c657700315a",
+   "candidates": [
+    {
+     "id": "cc815d5b-7980-33d6-a11e-6c657700315a",
+     "title": "Fantasia G-Dur, BWV 572 “Pièce d’Orgue”"
+    },
+    {
+     "id": "0da262f8-da2e-40b0-8763-7e8ab7cbae49",
+     "title": "Fantasia G-Dur, BWV 572 “Pièce d’Orgue”"
+    },
+    {
+     "id": "9f3afdf1-ec9a-4394-896f-87c8758be3a3",
+     "title": "Fantasia G-Dur, BWV 572 “Pièce d’Orgue”"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasia G-Dur, BWV 572 “Pièce d’Orgue”",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "8b30aa23-9158-44f1-b422-ef240d0c9fd9",
+     "title": "Fantasia G-Dur, BWV 572: I. Trés vitement"
+    },
+    {
+     "id": "8855a4e8-4fde-423d-bdda-7397ec16020b",
+     "title": "Fantasia G-Dur, BWV 572: II. Gravement"
+    },
+    {
+     "id": "3367317f-86f5-4ce1-ba10-dd804ad0cd0e",
+     "title": "Fantasia G-Dur, BWV 572: III. Lentement"
+    }
+   ]
+  },
+  {
+   "bwv": "573",
+   "id": "1c852232-bf94-3e48-8660-1274f2ac45d3",
+   "candidates": [
+    {
+     "id": "1c852232-bf94-3e48-8660-1274f2ac45d3",
+     "title": "Fantasie C-dur, BWV 573"
+    },
+    {
+     "id": "454036fd-6d97-41dc-b5ce-9ed20da8a8d7",
+     "title": "Fantasia in C major, BWV 573"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie C-dur, BWV 573",
+   "key": null,
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "1c852232-bf94-3e48-8660-1274f2ac45d3",
+     "title": "Fantasie C-dur, BWV 573"
+    }
+   ]
+  },
+  {
+   "bwv": "574",
+   "id": "43b6b701-af76-3367-b2f1-79c70772a6fd",
+   "candidates": [
+    {
+     "id": "43b6b701-af76-3367-b2f1-79c70772a6fd",
+     "title": "Fuge c-Moll (über ein Thema von Giovanni Legrenzi), BWV 574"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge c-Moll (über ein Thema von Giovanni Legrenzi), BWV 574",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "43b6b701-af76-3367-b2f1-79c70772a6fd",
+     "title": "Fuge c-Moll (über ein Thema von Giovanni Legrenzi), BWV 574"
+    }
+   ]
+  },
+  {
+   "bwv": "575",
+   "id": "55c8064f-96d2-30f2-810c-442267bddb84",
+   "candidates": [
+    {
+     "id": "55c8064f-96d2-30f2-810c-442267bddb84",
+     "title": "Fuge für Orgel c-Moll, BWV 575"
+    },
+    {
+     "id": "43c75037-0c26-4dc3-a7dd-54189f840eb2",
+     "title": "Fuge c-Moll, BWV 575"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge für Orgel c-Moll, BWV 575",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "55c8064f-96d2-30f2-810c-442267bddb84",
+     "title": "Fuge für Orgel c-Moll, BWV 575"
+    }
+   ]
+  },
+  {
+   "bwv": "576",
+   "id": "1899e05a-4fbf-3d8c-a891-09b3fdc053ad",
+   "candidates": [
+    {
+     "id": "1899e05a-4fbf-3d8c-a891-09b3fdc053ad",
+     "title": "Fugue in G major, BWV 576"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fugue in G major, BWV 576",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "1899e05a-4fbf-3d8c-a891-09b3fdc053ad",
+     "title": "Fugue in G major, BWV 576"
+    }
+   ]
+  },
+  {
+   "bwv": "577",
+   "id": "49062c31-fa5a-3c43-a50e-3fb1c0f60d3b",
+   "candidates": [
+    {
+     "id": "49062c31-fa5a-3c43-a50e-3fb1c0f60d3b",
+     "title": "Fuge G-Dur, BWV 577"
+    },
+    {
+     "id": "5c979f2c-2f36-4797-adac-465cd810b5f7",
+     "title": "Fuge G-Dur, BWV 577"
+    },
+    {
+     "id": "bbf04b72-376f-469d-9fc7-4db76e1a81c5",
+     "title": "Fugue à la gigue in G major, BWV 577"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge G-Dur, BWV 577",
+   "key": null,
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "49062c31-fa5a-3c43-a50e-3fb1c0f60d3b",
+     "title": "Fuge G-Dur, BWV 577"
+    }
+   ]
+  },
+  {
+   "bwv": "578",
+   "id": "76424861-98b3-3064-a3b5-fd8f5bc698ac",
+   "candidates": [
+    {
+     "id": "76424861-98b3-3064-a3b5-fd8f5bc698ac",
+     "title": "Fugue in G minor, BWV 578"
+    },
+    {
+     "id": "081c9bc8-cce0-496a-aa6a-002589d027c3",
+     "title": "Fugue in G minor, BWV 578"
+    },
+    {
+     "id": "ad55d818-949f-4dba-85dd-24850361cdb7",
+     "title": "Fugue in G minor, BWV 578"
+    },
+    {
+     "id": "fe95b089-8958-4b92-a349-c131eed88e6d",
+     "title": "Fugue in G minor, BWV 578 (\"Little\")"
+    },
+    {
+     "id": "2a746430-430a-4333-b56b-9ab16b7c0246",
+     "title": "Fugue in G minor, BWV 578"
+    },
+    {
+     "id": "58f564c5-43c4-48c0-ae62-48c699536501",
+     "title": "Fugue in G minor, BWV 578"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fugue in G minor, BWV 578",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "76424861-98b3-3064-a3b5-fd8f5bc698ac",
+     "title": "Fugue in G minor, BWV 578"
+    }
+   ]
+  },
+  {
+   "bwv": "579",
+   "id": "f14dd91e-27fa-3317-8ddd-decdfc2b1d68",
+   "candidates": [
+    {
+     "id": "f14dd91e-27fa-3317-8ddd-decdfc2b1d68",
+     "title": "Fuge h-Moll, BWV 579"
+    },
+    {
+     "id": "a8fcc964-5ce9-4779-aaa3-5c4bbaa2f470",
+     "title": "Fuge h-Moll, BWV 579"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fuge h-Moll, BWV 579",
+   "key": "B minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "f14dd91e-27fa-3317-8ddd-decdfc2b1d68",
+     "title": "Fuge h-Moll, BWV 579"
+    }
+   ]
+  },
+  {
+   "bwv": "580",
+   "id": "adef42ae-89c9-36bb-bccd-002c87b26b14",
+   "candidates": [
+    {
+     "id": "adef42ae-89c9-36bb-bccd-002c87b26b14",
+     "title": "Fugue in D major, BWV 580"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fugue in D major, BWV 580",
+   "key": null,
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "adef42ae-89c9-36bb-bccd-002c87b26b14",
+     "title": "Fugue in D major, BWV 580"
+    }
+   ]
+  },
+  {
+   "bwv": "581",
+   "id": "d9886b5b-901b-3fc4-9ddf-9f299808480a",
+   "candidates": [
+    {
+     "id": "d9886b5b-901b-3fc4-9ddf-9f299808480a",
+     "title": "Fugue in G major, BWV 581"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fugue in G major, BWV 581",
+   "key": null,
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "d9886b5b-901b-3fc4-9ddf-9f299808480a",
+     "title": "Fugue in G major, BWV 581"
+    }
+   ]
+  },
+  {
+   "bwv": "582",
+   "id": "f8a50fdd-6da0-398f-9f88-206c84a73bbd",
+   "candidates": [
+    {
+     "id": "f8a50fdd-6da0-398f-9f88-206c84a73bbd",
+     "title": "Passacaglia and Fugue in C minor, BWV 582"
+    },
+    {
+     "id": "1cdd4100-b5dc-4bcd-bae2-3930f03e1afc",
+     "title": "Passacaglia and Fugue in C minor, BWV 582"
+    },
+    {
+     "id": "824d75b1-f3f0-4541-975a-e48463afc414",
+     "title": "Passacaglia in C minor, BWV 582"
+    },
+    {
+     "id": "4529e2c4-cf50-4375-a6a7-118d7dda1761",
+     "title": "Passacaglia and Fugue in C minor, BWV 582"
+    },
+    {
+     "id": "5424e075-e0fb-4eb3-bc76-6e2e0dec3c61",
+     "title": "Passacaglia and Fugue in C minor, BWV 582, P. 159"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Passacaglia and Fugue in C minor, BWV 582",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "b5363967-a0a0-32c8-a5e1-886759e7a798",
+     "title": "Passacaglia and Fugue in C minor, BWV 582: I. Passacaglia"
+    },
+    {
+     "id": "6e394f6f-d69a-3548-a2c8-d8fa27dd4b65",
+     "title": "Passacaglia and Fugue in C minor, BWV 582: II. Fugue"
+    }
+   ]
+  },
+  {
+   "bwv": "583",
+   "id": "a72a9402-e11e-3aad-b12b-316a003a4962",
+   "candidates": [
+    {
+     "id": "a72a9402-e11e-3aad-b12b-316a003a4962",
+     "title": "Trio d-Moll, BWV 583"
+    },
+    {
+     "id": "f2ad695c-fd31-494e-a88a-8e7e2dba1b6c",
+     "title": "Trio d-Moll, BWV 583"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Trio d-Moll, BWV 583",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "a72a9402-e11e-3aad-b12b-316a003a4962",
+     "title": "Trio d-Moll, BWV 583"
+    }
+   ]
+  },
+  {
+   "bwv": "585",
+   "id": "7412817f-1b2c-39f6-b442-85d56d04548d",
+   "candidates": [
+    {
+     "id": "7412817f-1b2c-39f6-b442-85d56d04548d",
+     "title": "Trio c-Moll nach Johann Friedrich Fasch, BWV 585"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Trio c-Moll nach Johann Friedrich Fasch, BWV 585",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "dbd8a1cb-3b78-355b-8860-73ab626e062a",
+     "title": "Trio c-Moll nach Johann Friedrich Fasch, BWV 585: I. Adagio"
+    },
+    {
+     "id": "e9dbefc9-909d-3901-a67f-c7f7aaaaf04b",
+     "title": "Trio c-Moll nach Johann Friedrich Fasch, BWV 585: II. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "586",
+   "id": "7bd631d1-ca06-3cdc-8ead-ee1a3004165c",
+   "candidates": [
+    {
+     "id": "7bd631d1-ca06-3cdc-8ead-ee1a3004165c",
+     "title": "Trio G-Dur nach Georg Philipp Telemann, BWV 586"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Trio G-Dur nach Georg Philipp Telemann, BWV 586",
+   "key": null,
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "7bd631d1-ca06-3cdc-8ead-ee1a3004165c",
+     "title": "Trio G-Dur nach Georg Philipp Telemann, BWV 586"
+    }
+   ]
+  },
+  {
+   "bwv": "588",
+   "id": "2f7b1809-2a77-380e-adac-7aec41dc9683",
+   "candidates": [
+    {
+     "id": "2f7b1809-2a77-380e-adac-7aec41dc9683",
+     "title": "Canzona, BWV 588"
+    },
+    {
+     "id": "686a71a2-71b5-4500-84c7-fed12b32d957",
+     "title": "Canzona, BWV 588"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Canzona, BWV 588",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "2f7b1809-2a77-380e-adac-7aec41dc9683",
+     "title": "Canzona, BWV 588"
+    }
+   ]
+  },
+  {
+   "bwv": "589",
+   "id": "dfe22015-cd8a-3f79-9849-69d2da43d2b7",
+   "candidates": [
+    {
+     "id": "dfe22015-cd8a-3f79-9849-69d2da43d2b7",
+     "title": "Allabreve in D major, BWV 589"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Allabreve in D major, BWV 589",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "dfe22015-cd8a-3f79-9849-69d2da43d2b7",
+     "title": "Allabreve in D major, BWV 589"
+    }
+   ]
+  },
+  {
+   "bwv": "590",
+   "id": "81e645a4-706c-30de-9798-1eaecfa12344",
+   "candidates": [
+    {
+     "id": "81e645a4-706c-30de-9798-1eaecfa12344",
+     "title": "Pastorale F-Dur / Pastorella F-Dur, BWV 590"
+    },
+    {
+     "id": "0befaa30-a8c7-46ce-9a46-76cd020b3687",
+     "title": "Pastorale F-Dur, BWV 590"
+    },
+    {
+     "id": "fd2f5e34-bd89-302f-80ab-14fbfb044a5c",
+     "title": "Pastorale in C minor, BWV 590"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Pastorale F-Dur / Pastorella F-Dur, BWV 590",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "b98da622-6253-34c9-98bc-c9b8c8208ca6",
+     "title": "Pastorale F-Dur / Pastorella F-Dur, BWV 590: I. (Pastorella)"
+    },
+    {
+     "id": "e8fbd7b3-99b2-3a05-8fcb-f2fc85d4cd9a",
+     "title": "Pastorale F-Dur / Pastorella F-Dur, BWV 590: II. (a tempo giusto)"
+    },
+    {
+     "id": "cd8cedad-1d70-3c9b-94a7-9e11aecc2b37",
+     "title": "Pastorale F-Dur / Pastorella F-Dur, BWV 590: III. (Adagio)"
+    },
+    {
+     "id": "7762e102-8eaf-386d-9dfa-06fcd4ffdfbb",
+     "title": "Pastorale F-Dur / Pastorella F-Dur, BWV 590: IV. (Allegro)"
+    }
+   ]
+  },
+  {
+   "bwv": "591",
+   "id": "2024e00a-904b-35a8-9e0d-8acbe24ee057",
+   "candidates": [
+    {
+     "id": "2024e00a-904b-35a8-9e0d-8acbe24ee057",
+     "title": "Kleines harmonisches Labyrinth, BWV 591"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kleines harmonisches Labyrinth, BWV 591",
+   "key": null,
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "2024e00a-904b-35a8-9e0d-8acbe24ee057",
+     "title": "Kleines harmonisches Labyrinth, BWV 591"
+    }
+   ]
+  },
+  {
+   "bwv": "1121",
+   "id": "2844c4b8-d453-37ad-8257-30449a98bd5a",
+   "candidates": [
+    {
+     "id": "2844c4b8-d453-37ad-8257-30449a98bd5a",
+     "title": "Fantasie c-Moll, BWV 1121"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fantasie c-Moll, BWV 1121",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "2844c4b8-d453-37ad-8257-30449a98bd5a",
+     "title": "Fantasie c-Moll, BWV 1121"
+    }
+   ]
+  }
+ ]
+}
