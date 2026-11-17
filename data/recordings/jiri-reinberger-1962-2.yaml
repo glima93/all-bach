@@ -1,0 +1,26 @@
+id: jiri-reinberger-1962-2
+performers:
+- name: Jiří Reinberger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: Michaelis Kirche
+released: 1988
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/adace448-4665-44af-acaa-f68796a1320d
+  title: Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e418ef07-4933-465a-8bb1-e88394d8eacc
+  recordings: [d93f8995-1181-4f8e-9ba5-c5a773fc4740]

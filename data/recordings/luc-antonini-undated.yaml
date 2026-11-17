@@ -1,0 +1,28 @@
+id: luc-antonini-undated
+performers:
+- name: Luc Antonini
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '564', complete: false, movements: [II. Adagio, III. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d257648b-302e-41fe-8aba-bbf38cd0b5ba
+  title: Danke 1994 Klassik
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ec6cdda-5adb-40da-a8e4-c09ea99d4b8d
+  recordings: [facdc088-4efa-43c2-8b2b-06b453fa4969]

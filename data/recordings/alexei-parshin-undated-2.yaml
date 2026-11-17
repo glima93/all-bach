@@ -1,0 +1,27 @@
+id: alexei-parshin-undated-2
+performers:
+- name: Alexei Parshin
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: 'Московская Государственная Консерватория им. П. И. Чайковского: большой зал'
+released: 2000
+original_label: null
+works:
+- {bwv: '564', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1db95f40-c59e-4dc0-abcc-baf7cf1c3107
+  title: Great Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7cef8fd7-5694-4a27-a17f-7bb88aa75b82
+  recordings: [2c91ae5e-6533-440e-ab41-635c3f7f554f]

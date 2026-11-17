@@ -1,0 +1,28 @@
+id: raymond-daveluy-undated
+performers:
+- name: Raymond Daveluy
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Église Immaculée-Conception
+released: 2014
+original_label: null
+works:
+- {bwv: '564', complete: false, movements: [I. Toccata]}
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/16491c15-daa5-49f2-8ed8-c3e2ee4df830
+  title: Organ Great Classics
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bfc8347e-ddef-4a12-9bb6-b87a5326204e
+  recordings: [69c602f8-4051-4f7a-9cba-af17579be11e]

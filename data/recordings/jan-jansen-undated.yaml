@@ -1,0 +1,28 @@
+id: jan-jansen-undated
+performers:
+- name: Jan Jansen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aba41388-b569-4134-982c-0a23b582dbb4
+  title: The Best of Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9e2a9e48-b782-493f-954a-2e4c2036f2f3
+  recordings: [f2355442-dc07-4a86-9ce8-28ea3273d43b]

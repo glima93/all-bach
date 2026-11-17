@@ -1,0 +1,29 @@
+id: anton-bogner-undated
+performers:
+- name: Anton Bogner
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/19e263ef-9c48-44ed-adbf-304cbc7f4cf8
+  title: Classic Reference
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9ad9832d-7382-4452-bb09-d85aa4d083e3
+  recordings: [9fccf489-eb2c-4499-8800-68940ef33df6]

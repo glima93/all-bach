@@ -1,0 +1,28 @@
+id: siegfried-hildenbrand-undated-2
+performers:
+- name: Siegfried Hildenbrand
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4788f9dd-a46f-44b5-9d2e-af8f80da5f20
+  title: Passacaglia & Fuge / Triosonaten
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d3d4000a-2b5c-4ae1-bd41-8bf26ba31e74
+  recordings: [a2a07f70-eceb-40a3-82f9-8c92fc604feb]

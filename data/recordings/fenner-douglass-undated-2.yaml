@@ -1,0 +1,28 @@
+id: fenner-douglass-undated-2
+performers:
+- name: Fenner Douglass
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c69e913b-9dc2-490e-886f-c0b4aeb5ecdf
+  title: Toccata in D minor and Other Favorites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f22bbc55-499a-4c6e-8d61-ed0e4a67c191
+  recordings: [c74d6d77-9260-4b27-a937-c44db92993ae]

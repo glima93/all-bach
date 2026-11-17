@@ -1,0 +1,15 @@
+bwv: "566"
+title: "Prelude (Toccata) and Fugue in E major"
+key: "E major"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: "probably Arnstadt, c. 1703–1707"
+movements:
+  - "I. Praeludium"
+  - "II. Fuga"
+notes: "Also transmitted in a version in C major. Despite its usual title, it is a multi-sectional work in the north German style, with two fugues."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Prelude_(Toccata)_and_Fugue_in_E_major,_BWV_566"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/93be5609-c36b-3b26-ba99-d01ec84f0b81

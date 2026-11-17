@@ -1,0 +1,28 @@
+id: jean-pierre-lecaudey-undated
+performers:
+- name: Jean‐Pierre Lecaudey
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/84f1272d-1956-4f8f-b11a-a3dc6f082034
+  title: Toutes les couleurs de l'orgue
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0e93f74-c305-4279-9ae1-c33c84dc4d37
+  recordings: [e92484da-3aba-491e-90f9-82b082f89cc1]

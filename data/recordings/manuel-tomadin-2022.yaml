@@ -1,0 +1,26 @@
+id: manuel-tomadin-2022
+performers:
+- name: Manuel Tomadin
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2022]
+  place: Petruskerk
+released: 2023
+original_label: null
+works:
+- {bwv: '564', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c1c83ea-810f-49fa-b16c-87069fb11ad9
+  title: From Venice to Leipzig
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3771afa1-8ef7-463b-a43a-d953eb67bb85
+  recordings: [c042c5db-7734-4a85-bb3c-980736c66519]

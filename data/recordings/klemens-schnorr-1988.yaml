@@ -1,0 +1,26 @@
+id: klemens-schnorr-1988
+performers:
+- name: Klemens Schnorr
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: Hochschule für Musik und Theater München
+released: 1988
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/abb848f5-2614-4f9f-a71e-1d4c7908e1de
+  title: Organ Masterpieces
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 88d2b9a0-d5a0-420d-8f47-b9d7d52c4868
+  recordings: [cad9e7af-1597-4eeb-b309-844db3ea7ed5]

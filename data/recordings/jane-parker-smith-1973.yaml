@@ -1,0 +1,26 @@
+id: jane-parker-smith-1973
+performers:
+- name: Jane Parker‐Smith
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973]
+  place: Westminster Cathedral
+released: 1973
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5863eaed-a04c-41b4-ade7-9d8896e77508
+  title: Favourite Organ Masterpieces
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29ecdebd-70ae-4992-a7b9-44f80d283002
+  recordings: [0385c310-8c69-4ce2-8d46-953dbe77e4a5]

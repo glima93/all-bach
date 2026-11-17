@@ -1,0 +1,28 @@
+id: marie-madeleine-durufle-1963-2
+performers:
+- name: Marie-Madeleine Duruflé
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1963, 1965]
+  place: Cathédrale Saint-Gervais-et-Saint-Protais de Soissons
+released: 1996
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '566', complete: true}
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3043db36-6bd2-44ed-a392-3d2c29cfb39d
+  title: Préludes, Toccatas, Fantaisies & Fugues pour orgue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b7743f7-b848-4ca5-8ad0-6c9c499fc1ef
+  recordings: [2b6e26ec-6a7d-47f8-ad34-b0d52b72d9e6]

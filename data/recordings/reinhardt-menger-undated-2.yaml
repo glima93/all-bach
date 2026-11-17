@@ -1,0 +1,30 @@
+id: reinhardt-menger-undated-2
+performers:
+- name: Reinhardt Menger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '561', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/126e08cd-dc35-48bb-8790-f20769eb8225
+  title: Die Contius-Orgel in Abbenrode
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 44e87f0a-e9b2-4485-aa4c-38b0a11412c3
+  recordings: [2b19ef58-c748-417c-a978-374f267745ce]

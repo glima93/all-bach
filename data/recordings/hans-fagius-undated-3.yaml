@@ -1,0 +1,37 @@
+id: hans-fagius-undated-3
+performers:
+- name: Hans Fagius
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Uppsala Missionskyrka
+released: 1987
+original_label: null
+works:
+- {bwv: '563', complete: true}
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '576', complete: true}
+- {bwv: '580', complete: true}
+- {bwv: '582', complete: true}
+- {bwv: '586', complete: true}
+- {bwv: '590', complete: true}
+- {bwv: '1121', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/af878b37-db5d-4878-9985-e7e39cda0f8f
+  title: 'The Complete Organ Music, Volume 4: Preludes and Fugues / Toccata in C / Trio Sonata in C / Concerto in
+    A / Partita: O Gott, du frommer Gott / Chorales from the Kirnberger Collection'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1326ea97-4cae-428c-bbc2-f7aaf5354ec1
+  recordings: [8590dcc2-8891-44ed-a32e-36a9aa0799e2]

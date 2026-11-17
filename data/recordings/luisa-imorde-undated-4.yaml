@@ -1,0 +1,29 @@
+id: luisa-imorde-undated-4
+performers:
+- name: Luisa Imorde
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7eb237bc-bb95-4505-991c-7e2ecba1c5fc
+  title: Moon Rainbow
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3fe4c25e-6479-4228-9fd5-96617b8f65fe
+  recordings: [a697ef33-22f9-4c4f-a9f0-e34d79afae95]

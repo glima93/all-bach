@@ -1,0 +1,15 @@
+bwv: "563"
+title: "Fantasia con imitazione in B minor"
+key: "B minor"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: "early, c. 1704"
+movements:
+  - "I. Fantasia"
+  - "II. Imitatio"
+notes: "An early piece in two sections, a fantasia followed by an imitative \"Imitatio\"; its authenticity has been questioned."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_organ_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/176c9e4a-67fa-3fb1-8d8d-dc39e7b3c627

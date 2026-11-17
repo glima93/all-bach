@@ -1,0 +1,19 @@
+bwv: "820"
+title: "Overture in F major"
+key: "F major"
+collection: "Other suites and pieces for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1705–1713"
+movements:
+  - "I. Ouverture"
+  - "II. Entrée"
+  - "III. Menuet"
+  - "IV. Trio"
+  - "V. Bourrée"
+  - "VI. Gigue"
+notes: "An early overture-suite in the French style from Bach's Arnstadt or early Weimar years."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/4967530d-d4d1-4ea8-b43b-36344129775e

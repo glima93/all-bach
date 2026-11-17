@@ -1,0 +1,29 @@
+id: ekseption-undated
+performers:
+- name: Ekseption
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1973
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e3fa69c7-89b5-4304-b689-68c494fd28fc
+  title: Trinity
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32228f9b-0b0f-4033-95e2-6c3b95e7b2f9
+  recordings: [fd19b565-6074-481e-b7ad-f4ffacfb39ac]

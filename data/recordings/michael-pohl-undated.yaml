@@ -1,0 +1,27 @@
+id: michael-pohl-undated
+performers:
+- name: Michael Pohl
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Berliner Dom
+released: 1993
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/21be2ba4-1de7-4fd5-b15a-bb1583432656
+  title: Die große Sauer-Orgel im Berliner Dom
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bd6a46ab-7159-4e12-8ea6-472b2ca00120
+  recordings: [3e2fdb11-30b1-46dc-9f7c-6ae19b1ea975]

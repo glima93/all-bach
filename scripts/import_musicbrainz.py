@@ -148,15 +148,36 @@ EXCLUDE_BY_SNAPSHOT["organ-preludes-fugues"] = {
     "3af13428-7be3-436c-9efa-cb471c23da42": "Souter's harpsichord 'Prelude in G major' on the Classic FM Presenters' Choice sampler: a harpsichord prelude, not the organ Prelude BWV 541",
     "235edb5e-bfce-4230-bec8-d4e855a1fe19": "Richter's Récital d'orgue (1964, Jaegersborg Kirke): the 1964 Jaegersborg recordings filed as karl-richter-1964 and karl-richter-1966-2 (BWV 548), reissued without a date",
 }
+EXCLUDE_BY_SNAPSHOT["organ-free-works"] = {
+    "18da0209-5e97-459b-a08f-ea6ed7232698": "Fagius's Complete Organ Music box (BIS, 1989; no artist credited on the row) reissues the volumes filed as hans-fagius-1985-2, hans-fagius-1988 and hans-fagius-undated-4",
+    "2ce37099-21f8-4c5e-80cd-bda91c785481": "the Hamburger Kammerorchester and Stehli are the compilation's credit on Geniusz Muzyki Organowej (they play its BWV 1041 and 1068); the organist of its BWV 565 is not named",
+    "e229361a-1244-448e-9a11-16cadbea9ad9": "Yann Walcker's L'Alphabet des grands musiciens: a narrated children's book CD (Walcker is the author, Pierre Hatet the narrator); no identifiable performance of BWV 565",
+    "fd2ccac3-0e46-434e-9448-cf5ff360d602": "Isoir's 'Les quatres toccatas et fugues' (first released 1986, so not recorded in 1993): the Calliope recordings filed as andre-isoir-1975-2",
+    "07848141-b2ac-4b18-84bf-b669abe1ec81": "Wasilewski's track on Frederic 3 is the Air from BWV 1068, already filed as micha-wasilewski-undated; MusicBrainz also links it to the Toccata BWV 565",
+}
 EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 
 # One performance that the snapshot splits into two rows (an undated track of a dated set, one set recorded
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "other-keyboard-suites": {
+    "79d41758-2e1d-4fc7-8288-95e3db3d443a": ("c1592a3a-9f38-4d15-9a64-eb463cc91bd4", "Justin Taylor's Bach 333 harpsichord recordings (b-sharp, 2018): the undated row on the complete edition holds the same sessions"),
+  },
   "organ-preludes-fugues": {
     "12b309d0-094a-4572-a99d-3d300463fc00": ("a557c02b-9279-4c29-93a9-7af4d2082c8e", "Christian Schmitt's BWV 542 at St. Cyriakus (2017) on the two Bach 333 boxes: one performance, the Fugue on one box only"),
     "965a147e-07b9-47ba-b7d0-887fb1c8c8a2": ("db57958c-9c45-4a7e-a8e3-a8bebafd63cb", "Münchinger's arrangement of the Fugue of BWV 542 with the Stuttgart Chamber Orchestra, reissued on Bach for Barbecue"),
+  },
+  "organ-free-works": {
+    "ff076c9e-8982-4423-8dd4-166fdc306052": ("fcb2cde7-d364-4302-9df5-f4511b4910a4", "Isoir's The Organ Works: The Virtuoso, Vol. 3 (La Dolce Volta, 2024) reissues the same three toccatas and fugues (564, 565, 583) as Les 4 Toccatas et Fugues (Aurich, 1975-76)"),
+    "430469ce-d337-4f94-bcc4-3143c99c36ec": ("9a6f444d-68a2-4c7f-9c09-7f9e2cd047e1", "Collum's Silbermann recordings at Reinhardtsgrimma: Orgelwerke auf Silbermann-Orgeln and Bach auf Silbermannorgeln Vol. II, both first released 1989, hold the same 1965 sessions"),
+    "6afe300f-8990-49da-84e1-1bf8a964bad8": ("656b6311-3a28-4f1d-93e5-beacd62293f2", "Vernet's Intégrale at Notre-Dame-Saint-Vincent: the undated row holds the other half of the same BWV 565 and two pieces of the same sessions (1995-97)"),
+    "11c80020-0c06-4910-940b-81715a4d48d9": ("535ccfda-0bb8-4876-8fa3-5fc5b8d2f4d4", "van den Broek's Passacaglia at the Grote Kerk Zwolle (Academiehuis), 1991: the album named after the church holds the same recording"),
+    "c60135d2-2f4b-46ee-bc8d-c09231f8ced9": ("d0946ce3-c147-41fd-9c34-c908594627f4", "Hurford's The Organ Works, Vol 1 (1990) reissues his Decca cycle of 1974-86"),
+    "9d796524-257c-4d87-9aca-738514d7a130": ("6dec01f1-5500-40ef-acbd-afa66ea5f7d3", "Rübsam's Das Orgelwerk (Philips, 1977): the undated row and the 1976-77 row are the same Philips cycle"),
+    "99e6b4a0-c422-4c1c-97bb-c6de7e867807": ("6ba4fe52-890a-4c0c-9783-5d991330d62e", "Kraft's Signature Classics (1988) is a selection from his Vox Organ Music cycle (1961-67)"),
+    "c58fc197-715e-471f-952b-1c82eaf8693b": ("ffad11dc-2b8b-4cc9-92e1-1704c07d39c1", "Chorzempa's BWV 565 at the Bovenkerk on the sampler Clásicos Divertidos: his Philips recording of 1982"),
+    "f0066f9f-e2d2-45a5-ba24-0dbea8aff401": ("6f6185f5-82e7-4df7-822d-7a42173c4e0f", "Koopman's Canzona BWV 588 and Pastorale BWV 590 on Geistliche Lieder (Michaëlskerk, 2023): one organ session; Klaus Mertens sings only the songs"),
   },
   "keyboard-transcriptions": {
     "439bc15b-955f-4bff-aac7-c22197ac2b23": ("26670844-4789-44a8-9b4d-f07628a02eb8", "Hirsch's undated first movement of BWV 974 on Konzerte für Cembalo Solo, Vol. 1, with movements 2-3 from 1982"),
@@ -312,11 +333,47 @@ NATIVE_EXTRA_BY_SNAPSHOT = {
 # Facts the snapshot gets wrong or leaves out for one row, per snapshot: representative recording ID ->
 # fields to set, with the reason. Fix upstream in MusicBrainz too, then remove the entry here.
 OVERRIDE_BY_SNAPSHOT = {
+  "other-keyboard-suites": {
+    "faac2257-8540-43cf-a0a1-97bc7d1b2cf8": ({"instrument": "piano"}, "Lili Kraus, pianist; no instrument credit"),
+    "d348e6bd-aad5-409d-ac9f-4730582fd1f3": ({"instrument": "piano"}, "Rosalyn Tureck's historic recordings 1952-1962: on the piano; no instrument credit"),
+    "21a0d730-e2a8-45a9-a55a-d79448a7452c": ({"arrangement": False, "movements": ["822:4", "822:5", "822:6"]},
+        "Suzuki Piano School Vol. 4: the three Menuets of BWV 822 on piano, the original text; MusicBrainz links the whole suite"),
+    "aca9129e-32ea-470d-9afa-f9449b93e11b": ({"arrangement": False}, "Suzuki Piano School recording: the original text on piano, not an arrangement"),
+    "4f2f3fe1-e26e-49fa-9e66-0fdac3e9b847": ({"arrangement": False}, "Suzuki Piano School recording: the original text on piano, not an arrangement"),
+    "0fd4fdb4-5370-4574-8812-5a7f04fa93ce": ({"performers": [{"name": "Takako Nishizaki", "role": "violin"}, {"name": "Terence Dennis", "role": "piano"}]},
+        "the violin leads (Nishizaki, credited in Japanese); Dennis accompanies"),
+  },
   "organ-preludes-fugues": {
     "9024ad53-fca2-4261-a47c-33d93bb994a2": ({"movements": ["536:0", "536:1", "538:0", "538:1"]},
         "Alard's Complete Works for Keyboard 5 plays BWV 536a and 538 on pedal harpsichord; BWV 539 and 542 are not on it (its fantasia and fugue is BWV 904)"),
     "3b2daca4-3748-46c8-8598-f9554da71c06": ({"years": [1966, 1967, 1968]},
         "Richter died in 1981: the 1996 recording date is a reissue's"),
+  },
+  "organ-free-works": {
+    "a7739c9a-54f7-44ae-ae33-ebf991fbb82a": ({"instrument": "violin", "arrangement": True}, "Ayasa is a crossover violinist: her BWV 565 on Too Fast Sword is a violin arrangement"),
+    "131a0625-b0c6-4c06-a594-77e6dabc0f2d": ({"arrangement": False}, "BWV 1121 is a manualiter Clavier fantasia from the Andreas Bach Book: on harpsichord it is not an arrangement"),
+    "83e86580-dd0a-4a8f-b0f3-d9f2b89419eb": ({"arrangement": False}, "BWV 1121 is a manualiter Clavier fantasia from the Andreas Bach Book: on the lute-harpsichord it is not an arrangement"),
+    "22e8576b-1f0d-46ed-8611-4d7e93c7b0d6": ({"instrument": "piano", "arrangement": True},
+        "Awadagin Pratt plays his own piano arrangement of the Passacaglia BWV 582 on Transformations (his discography); no instrument credit"),
+    "052698c5-7f02-4112-ab00-8c66c0deacdb": ({"performers": [{"name": "Mischa Maisky", "role": "cello"}, {"name": "Daria Hovora", "role": "piano"}], "instrument": "cello"},
+        "the Adagio of BWV 564 arranged for cello and piano, led by Maisky"),
+    "aaf7add1-96ae-45f5-aa6e-c3ea17e191a6": ({"years": []},
+        "Newman's set on Classic Gold was first released in 1976: the 1994 recording date is a reissue's"),
+    "6f6185f5-82e7-4df7-822d-7a42173c4e0f": ({"performers": [{"name": "Ton Koopman", "role": "organ"}]},
+        "Koopman's organ solos on Geistliche Lieder; Klaus Mertens, joined in from the BWV 588 row, sings only the songs"),
+    "077c568a-375a-4c01-adc6-6d1714326845": ({"instrument": "organ", "arrangement": False},
+        "Alard's Complete Works for Keyboard 1 (The Young Heir) plays the organ works on the Silbermann organ of Sainte-Aurélie, "
+        "Strasbourg (the place credited); the harpsichord credit is the album's"),
+    "755cb791-fa3c-437b-ab74-41f4f86388c9": ({"performers": [{"name": "Ton Koopman", "role": "organ"}]},
+        "the Pastorale BWV 590 on Early Music Log is Koopman's organ solo (Maria Saal, 2003); the orchestra, choir and singers belong to the cantatas on the album"),
+    "a8c1dc95-8181-49cb-8a52-871198e43599": ({"performers": [{"name": "John Anson", "role": "organ"}]},
+        "the Fantasia BWV 570 on the Fishponds evensong is the organ voluntary, played by John Anson"),
+    "deef9f6b-b68a-46ff-9344-c767e271b564": ({"performers": [{"name": "Mstislav Rostropovich", "role": "cello"},
+                                                             {"name": "Vladimir Yampolsky", "role": "piano"}], "instrument": "cello"},
+        "the Adagio of BWV 564 arranged for cello and piano: Rostropovich plays the cello, Yampolsky (credited in Cyrillic) the piano"),
+    "f2ef9ba8-7106-4e58-b4e4-93a8cfa47999": ({"performers": [{"name": "Heiki Mätlik", "role": "classical guitar"},
+                                                             {"name": "Andres Uibo", "role": "organ"}], "instrument": "guitar"},
+        "the Adagio of BWV 564 arranged for guitar and organ, led by the guitarist"),
   },
   "chamber-trio-sonatas": {
     "a53771bd-a72b-4e3c-91c7-7a86aae5a491": ({"arrangement": True, "performance_practice": "unknown"},
@@ -777,7 +834,7 @@ ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone?)?\b(?<!manfred sax)|sw
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
                             r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi|alperin|dellarole|allhoff|joachim k.hn|"
-                            r"glorvigen|horacio franco|mehmari|symphonette", re.I)
+                            r"glorvigen|horacio franco|mehmari|symphonette|ayasa|vomitron|\bdj\b|myleene klass|richard souther", re.I)
 # In orchestral works only: names of groups that are not orchestras, so play the music arranged.
 ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
                                   r"trumpet ensemble|brass|\btrio\b", re.I)
@@ -802,7 +859,7 @@ GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|solois
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
                                r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki|dangerous liaisons|פסקול|motion picture|movies go baroque|bach minimaliste|"
-                               r"concertos? for recorder|bachbusters|production music|bedtime|majors for minors|f.r inl.rning|classical background|サウンドトラック", re.I)
+                               r"concertos? for recorder|bachbusters|remix|l.alphabet des grands musiciens|production music|bedtime|majors for minors|f.r inl.rning|classical background|サウンドトラック", re.I)
 
 # Open-score works (mode "open", the Art of Fugue): keyboards, strings, viols and orchestra are native (plan note);
 # winds, brass, saxophones, recorders, guitars and crossover groups play it arranged. Credits, then group names.
@@ -1158,8 +1215,12 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
     else:
         instrument, others, roles = instrument_of(perf, native)
         if mode == "organ" and instrument == "unknown" and len(perf["names"]) == 1 \
-                and not (set(perf.get("types") or []) & GROUP_TYPES or GROUP_NAME.search(perf["names"][0])):
-            instrument = "organ"  # a lone performer of an organ work, with no instrument credit
+                and not (set(perf.get("types") or []) & GROUP_TYPES or GROUP_NAME.search(perf["names"][0])) \
+                and not (ARRANGED_NAMES.search(perf["names"][0])
+                         or ARRANGED_RELEASES.search(" ".join(r["title"] for r in perf["releases"]))):
+            # A lone performer of an organ work, with no instrument credit, is an organist, unless the name or the
+            # release is a crossover one (Loussier, Bachbusters, a remix album): that stays "unknown", arranged.
+            instrument = "organ"
         if mode == "open":
             others = [i for i in others if ARRANGED.search(i)]
             played = {INSTRUMENTS.get(i.lower()) for i in perf["ins"]} & native

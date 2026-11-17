@@ -1,0 +1,27 @@
+id: mogens-mlskov-undated-2
+performers:
+- name: Mogens Mølskov
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St. Nicolai
+released: null
+original_label: null
+works:
+- {bwv: '588', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0127074e-bf07-4d05-925e-6a880939308a
+  title: Orgelmusik i Sct. Nicolai kirke Aabenraa
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 175a02c9-5e79-4560-8188-24bad9d7be6d
+  recordings: [e4851f94-dc09-4982-9d5e-0f0a981d08f4]

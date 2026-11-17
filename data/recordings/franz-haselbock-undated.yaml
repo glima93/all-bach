@@ -1,0 +1,28 @@
+id: franz-haselbock-undated
+performers:
+- name: Franz Haselböck
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a131246-eb64-45c1-b654-b84f158916b2
+  title: 'The Masterpiece Collection: Classics'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 040a32fc-fc80-4479-b600-254c9dfc2e20
+  recordings: [d05a7a42-0f3f-4f93-a956-704ff27defec]

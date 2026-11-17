@@ -1,0 +1,28 @@
+id: gert-oost-undated
+performers:
+- name: Gert Oost
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4caac007-5659-48fe-bb3c-9d250bd54598
+  title: Io vivat!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0913b143-c035-423c-8e34-a944b02bdc61
+  recordings: [7d14a9a5-5bb9-4466-bab4-1c30e909cf9f]

@@ -1,0 +1,28 @@
+id: jean-paul-imbert-undated
+performers:
+- name: Jean-Paul Imbert
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/67128561-fde9-4e2e-9d4c-58bd76fb7dc5
+  title: 'Passacaglia: Organ Music From the 17th to the 21th Century'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cfa82203-1eef-49c7-820c-d4f68e5bea13
+  recordings: [292c2256-64b6-4a1c-a752-eef70b5b6eb0]

@@ -1,0 +1,14 @@
+bwv: "579"
+title: "Fugue in B minor on a theme by Corelli"
+key: "B minor"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: "early, c. 1703–1707"
+movements:
+  - "Fuge h-Moll"
+notes: "Based on a subject from Arcangelo Corelli's Trio Sonata Op. 3 No. 4."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_organ_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f14dd91e-27fa-3317-8ddd-decdfc2b1d68

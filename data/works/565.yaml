@@ -1,0 +1,15 @@
+bwv: "565"
+title: "Toccata and Fugue in D minor"
+key: "D minor"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: "uncertain; possibly Arnstadt, c. 1704"
+movements:
+  - "I. Toccata"
+  - "II. Fuge"
+notes: "Bach's best-known organ work, but no autograph survives (the earliest source is a copy by Johannes Ringk) and its authorship has been questioned by Peter Williams and others; most scholars still accept it as Bach's."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Toccata_and_Fugue_in_D_minor,_BWV_565"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/c4f0bd0a-342e-3071-ac3b-7e5e7f17f924

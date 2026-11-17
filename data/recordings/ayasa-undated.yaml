@@ -1,0 +1,29 @@
+id: ayasa-undated
+performers:
+- name: Ayasa
+  role: violin
+instrument: violin
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c229dc7a-55b7-4366-bb24-510df748d282
+  title: Too Fast Sword
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 81244c5a-fa61-4664-a44c-389c9e3a2c5c
+  recordings: [a7739c9a-54f7-44ae-ae33-ebf991fbb82a]

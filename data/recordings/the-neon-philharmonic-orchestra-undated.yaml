@@ -1,0 +1,29 @@
+id: the-neon-philharmonic-orchestra-undated
+performers:
+- name: The Neon Philharmonic Orchestra
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d05d15e-3cb1-4547-befe-21493a2f2e28
+  title: Switched On Classics, Volume Four
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8e727c43-6a3a-46d5-9bf5-6deede82f66f
+  recordings: [7249bbc2-22b6-4e9d-a6be-41e2bfb91a93]

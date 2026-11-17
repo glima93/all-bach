@@ -1,0 +1,30 @@
+id: christoph-schoener-undated-2
+performers:
+- name: Christoph Schoener
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '566', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fb918760-f913-4480-b329-b2d709a0f202
+  title: The Organ Toccatas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b280819a-1390-4dff-85f7-112e1627f1a9
+  recordings: [1e938b6f-6014-4daf-a304-3857a1eabc20]

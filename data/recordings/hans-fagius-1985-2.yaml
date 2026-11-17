@@ -1,0 +1,41 @@
+id: hans-fagius-1985-2
+performers:
+- name: Hans Fagius
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985, 1986, 1987]
+  place: Lövstabruks kyrka
+released: 1986
+original_label: null
+works:
+- {bwv: '561', complete: true}
+- {bwv: '563', complete: true}
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '567', complete: true}
+- {bwv: '569', complete: true}
+- {bwv: '570', complete: true}
+- {bwv: '571', complete: true}
+- {bwv: '576', complete: true}
+- {bwv: '582', complete: true}
+- {bwv: '585', complete: true}
+- {bwv: '586', complete: true}
+- {bwv: '588', complete: true}
+- {bwv: '589', complete: true}
+- {bwv: '590', complete: true}
+- {bwv: '591', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e23d4fa-b3ad-4a24-9a8b-e2b0ad103394
+  title: The Complete Organ Music, Volume 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1326ea97-4cae-428c-bbc2-f7aaf5354ec1
+  recordings: [5bd4e24b-b828-4a61-94c4-ca8a364b6871]

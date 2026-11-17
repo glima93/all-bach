@@ -1,0 +1,30 @@
+id: leo-van-doeselaar-undated-6
+performers:
+- name: Leo van Doeselaar
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Martinikerk
+released: null
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '579', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/b4b5d0cc-dd71-492e-8b25-f8d806288133
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 92cf381b-ec74-442f-92c5-73ec60ecd44a
+  recordings: [b4b5d0cc-dd71-492e-8b25-f8d806288133]

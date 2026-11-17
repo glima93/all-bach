@@ -1,0 +1,19 @@
+bwv: "819"
+title: "Suite in E-flat major"
+key: "E-flat major"
+collection: "Other suites and pieces for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "before 1726"
+movements:
+  - "I. Allemande"
+  - "II. Courante"
+  - "III. Sarabande"
+  - "IV. Bourrée"
+  - "V. Menuet I"
+  - "VI. Menuet II (Trio)"
+notes: "The early version of the suite; a later version, BWV 819a, transmits a revised Allemande."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/1c2ca5e7-6471-423b-8e66-dfcad0cf3c56

@@ -1,0 +1,31 @@
+id: artist-8a350ab9-undated-2
+performers:
+- name: Дмитрий Рузанов
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '562', complete: false, movements: [I. Fantasie]}
+- {bwv: '565', complete: true}
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b9bc1ada-5e22-4fd3-8c50-ff0994e5675a
+  title: Легенды органной музыки
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8a350ab9-e5d9-4397-b09f-4f4b1ad607f3
+  recordings: [487f18fb-5136-499b-83f4-0582a0bd79a2]

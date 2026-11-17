@@ -1,0 +1,26 @@
+id: allan-wicks-1968
+performers:
+- name: Allan Wicks
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1968]
+  place: Canterbury Cathedral
+released: 2011
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c44dd7f-f1bb-45e0-9065-ad61ddd4afd8
+  title: Great Cathedral Organs
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fd86d38-dd32-4950-a148-9268dab2d787
+  recordings: [ca13035c-9242-4b63-a394-098234354886]

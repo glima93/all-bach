@@ -1,0 +1,28 @@
+id: ferdinand-klinda-undated
+performers:
+- name: Ferdinand Klinda
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/57ca8c7f-c7d3-4051-a0ef-ebed4d3a5c66
+  title: 'De la música antigua al barroco: Bach y Haendel'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ef408b57-55f6-4f27-af75-052f033f63e6
+  recordings: [7ae9ec4a-35ab-4496-8db8-430ef345f8e2]

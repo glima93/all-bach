@@ -1,0 +1,29 @@
+id: bernhard-romer-undated-2
+performers:
+- name: Bernhard Römer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7362715f-b142-4f33-b92c-9f08f1a7ffd3
+  title: Orgelwerke
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e9ddf39-8843-43b6-8f6e-1ce8191464cb
+  recordings: [83662c41-5f13-46fc-af71-678d37a3b46c]

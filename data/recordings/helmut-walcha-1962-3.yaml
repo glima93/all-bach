@@ -1,0 +1,29 @@
+id: helmut-walcha-1962-3
+performers:
+- name: Helmut Walcha
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: Grote Sint Laurenskerk
+released: 1975
+original_label: null
+works:
+- {bwv: '562', complete: false, movements: [I. Fantasie]}
+- {bwv: '565', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9490fd12-2451-4a96-9ce8-006eeb210bc5
+  title: 'Helmut Walcha spielt Bach: Toccata und Fuge d-moll: Dorische Toccata und Fuge u.a.'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f4c1fd6-75c8-4c40-8fcf-0b5496c01bf2
+  recordings: [5cbfbc0f-1832-4232-8df8-286575664ceb]

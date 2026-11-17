@@ -1,0 +1,27 @@
+id: jozef-sluys-undated-2
+performers:
+- name: Jozef Sluys
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Die Evangelisch-Lutherische Friedenskirche zu Ponitz
+released: null
+original_label: null
+works:
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/03c93d88-7c2b-4969-8047-203202ad8acd
+  title: Die Silbermann-Orgel in Ponitz
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93232645-6e25-4c65-a182-0990d0d2507d
+  recordings: [33a7a97c-53cb-44bb-98cf-56b2e46398dc]

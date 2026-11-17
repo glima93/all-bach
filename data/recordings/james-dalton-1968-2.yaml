@@ -1,0 +1,27 @@
+id: james-dalton-1968-2
+performers:
+- name: James Dalton
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1968]
+  place: null
+released: 1981
+original_label: null
+works:
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/329b6356-38bf-435b-a223-f58b4b9a1f2e
+  title: Rīgas Doma Lielās Ērģeles
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 58acbf75-1cea-45ba-8b68-437c87a30ac8
+  recordings: [60f52892-5a85-475c-8472-e974f9256d17]

@@ -1,0 +1,27 @@
+id: mary-prat-molinier-undated
+performers:
+- name: Mary Prat-Molinier
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Cathédrale Sainte-Cécile
+released: null
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0b7c479b-802d-4a32-b0a3-1102336496fa
+  title: L'orgue Christophe Moucherel de la Cathédrale d'Albi
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cee294fd-731a-4609-a766-7598ba1f57da
+  recordings: [7dd0708d-9ead-4b83-aaaa-ae7f519d77fa]

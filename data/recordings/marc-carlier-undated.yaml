@@ -1,0 +1,28 @@
+id: marc-carlier-undated
+performers:
+- name: Marc Carlier
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '577', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/205d6cc8-04d3-49c1-a078-3bb4efa5f478
+  title: Orgues en fête à Douai
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e598c82b-c0da-41a3-a78b-cc50ff4e2dfc
+  recordings: [fb0fc17a-3045-4fdf-b4b4-c1587fde051a]

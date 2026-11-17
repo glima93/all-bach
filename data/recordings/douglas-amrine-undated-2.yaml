@@ -1,0 +1,29 @@
+id: douglas-amrine-undated-2
+performers:
+- name: Douglas Amrine
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/74bb2242-9355-477f-bce3-f179d1630a08
+  title: 'Pro Cembalo Pleno: Music for the Pedal Harpsichord'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0a2a2fb7-596d-4f78-9496-52c3c7f0898a
+  recordings: [f18d691a-cd95-45e8-9b83-291e28268e9d]

@@ -1,0 +1,19 @@
+bwv: "833"
+title: "Prelude and Partita in F major"
+key: "F major"
+collection: "Other suites and pieces for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "before 1707"
+movements:
+  - "I. Prelude (Andante)"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Sarabande"
+  - "V. Double (Allegro)"
+  - "VI. Air (Allegro)"
+notes: "Headed \"Praeludium et Partita del tuono terzo\", this early work is preserved in the Möller Manuscript, compiled by Johann Christoph Bach."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f7d6c923-33bb-4b44-96fd-76b21086931b

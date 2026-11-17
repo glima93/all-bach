@@ -1,0 +1,28 @@
+id: jos-van-der-kooy-undated
+performers:
+- name: Jos van der Kooy
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/43547a51-8f81-4951-8699-104dd3e5cc61
+  title: Brilliant Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7768328f-2c5e-4b87-b44c-5195507f734c
+  recordings: [c4299bf4-64d6-4a61-a60b-b3664cd20a2b]

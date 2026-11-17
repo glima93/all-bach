@@ -1,0 +1,28 @@
+id: peter-bohm-undated
+performers:
+- name: Peter Böhm
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc70f41b-2fb9-4da9-a529-953220189805
+  title: Toccata and Fugue / Air On A G String / Italian Concerto / Violin Concerto
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 87384d6d-4a5d-4e97-9106-ddef03ad20fe
+  recordings: [7675f918-7d33-461d-9b0d-aa9ca2ea3d9a]

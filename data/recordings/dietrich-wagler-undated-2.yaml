@@ -1,0 +1,27 @@
+id: dietrich-wagler-undated-2
+performers:
+- name: Dietrich Wagler
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Freiberger Dom St. Marien
+released: 1990
+original_label: null
+works:
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/02b8bca9-aa8f-4200-93f3-748197f6c17c
+  title: 'Great European Organs, No. 24: Dietrich Wagler Plays the Silbermann Organ of Freiberg Dom'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 42898848-da69-4f85-a059-6e6b5473f992
+  recordings: [ee35731d-479d-4404-b751-7d75ac7b6fbf]

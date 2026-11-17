@@ -1,0 +1,18 @@
+bwv: "818"
+title: "Suite in A minor"
+key: "A minor"
+collection: "Other suites and pieces for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: "c. 1720–1722"
+movements:
+  - "I. Allemande"
+  - "II. Courante"
+  - "III. Sarabande simple"
+  - "IV. Sarabande double"
+  - "V. Gigue"
+notes: "The early version of the suite; a later revised version is catalogued as BWV 818a."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f3c8b189-4be8-42f9-9591-63e35f438f7f

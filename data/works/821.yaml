@@ -1,0 +1,18 @@
+bwv: "821"
+title: "Suite in B-flat major"
+key: "B-flat major"
+collection: "Other suites and pieces for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: null
+movements:
+  - "I. (Prelude)"
+  - "II. Allemande"
+  - "III. Courante"
+  - "IV. Sarabande"
+  - "V. Echo"
+notes: "Of doubtful authenticity."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/2f595dfa-92fd-43f7-a886-ebd2b65bea1c

@@ -1,0 +1,28 @@
+id: thomas-rothert-undated
+performers:
+- name: Thomas Rothert
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a461ed2c-639e-4191-9f26-08619f774735
+  title: Orgel Literatur Kanon
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6cb35010-608a-408f-913f-76eb3cc14a6a
+  recordings: [e7f2754d-7eb6-4fbe-8ce6-4aeef4880785]

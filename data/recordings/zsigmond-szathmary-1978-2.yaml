@@ -1,0 +1,28 @@
+id: zsigmond-szathmary-1978-2
+performers:
+- name: Zsigmond Szathmáry
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978]
+  place: Academiehuis
+released: 1991
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '578', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fde9d07b-134e-4918-b879-6ce3e0786be6
+  title: Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f28bde36-59fd-4162-952e-0d2b6016927e
+  recordings: [c4f7e4b6-ccb9-4cba-96f4-47f907c240c4]

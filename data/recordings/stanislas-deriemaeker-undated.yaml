@@ -1,0 +1,28 @@
+id: stanislas-deriemaeker-undated
+performers:
+- name: Stanislas Deriemaeker
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bfcb50e3-fb49-42ac-ac7b-d2e385661ddf
+  title: La Libre Belgique. Un esprit s'ouvre à tout
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 43f96aee-673f-488e-b93e-f35c0bde1ae9
+  recordings: [4f56c331-bef6-4795-a760-a5fcb1dee7b7]

@@ -1,0 +1,37 @@
+id: ewald-kooiman-2008-4
+performers:
+- name: Ewald Kooiman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: Abbatiale Saint-Maurice d'Ebersmunster
+released: 2012
+original_label: null
+works:
+- {bwv: '562', complete: false, movements: [I. Fantasie]}
+- {bwv: '563', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '569', complete: true}
+- {bwv: '570', complete: true}
+- {bwv: '571', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '579', complete: true}
+- {bwv: '588', complete: true}
+- {bwv: '589', complete: true}
+- {bwv: '590', complete: true}
+- {bwv: '1121', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fe8df7b7-9f5b-43d9-8fb3-a29f6d5129df
+  title: Complete Organ Works played on Silbermann organs Vol. 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c83a81e1-2544-4662-9726-00615372c8c4
+  recordings: [8e3a0b07-763d-4458-93f4-89a078f08ebe]

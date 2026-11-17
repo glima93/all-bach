@@ -1,0 +1,27 @@
+id: david-bendix-nielsen-undated
+performers:
+- name: David Bendix Nielsen
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Garnisonskirken
+released: 2022
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/607d064f-c931-4129-98c3-3ef327c19081
+  title: Bach & Pärt
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95726a8d-ba27-4544-86b9-5f5931cfa4b3
+  recordings: [e7f34764-6da1-4df2-807d-6764defb80c6]

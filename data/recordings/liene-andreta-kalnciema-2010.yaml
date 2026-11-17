@@ -1,0 +1,26 @@
+id: liene-andreta-kalnciema-2010
+performers:
+- name: Liene Andreta Kalnciema
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: Rīgas Doms
+released: 2010
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b3c5f153-f31f-4148-9814-76557b2cb86b
+  title: Concerto Piccolo
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 641d3b4a-2895-4cb7-a2f1-be18cb433e59
+  recordings: [8435d66e-faee-485f-9734-66549fdae0ab]

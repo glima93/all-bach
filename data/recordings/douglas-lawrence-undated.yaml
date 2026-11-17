@@ -1,0 +1,27 @@
+id: douglas-lawrence-undated
+performers:
+- name: Douglas Lawrence
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St Patrick's Cathedral, Melbourne
+released: null
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0b4a113c-5820-4871-9277-93511b5c0fa5
+  title: Festival of Organ Masterpieces, Vol. 1
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6b5999d2-aecc-40a7-87d2-7ee83cb46083
+  recordings: [078dd413-aaf3-483c-a484-d7fef9d8bb1e]

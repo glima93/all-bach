@@ -1,0 +1,29 @@
+id: claire-huangci-undated-2
+performers:
+- name: Claire Huangci
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d61c011d-cd68-4382-acab-fe1833f5961f
+  title: Toccatas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b4424d6-46ae-42bc-ae9c-db01b0a33106
+  recordings: [c03d60f6-d8fd-480d-ae39-7e5c9a007a45]

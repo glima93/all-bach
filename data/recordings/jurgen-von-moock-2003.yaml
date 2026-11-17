@@ -1,0 +1,26 @@
+id: jurgen-von-moock-2003
+performers:
+- name: Jürgen von Moock
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2003]
+  place: Basilika St. Gereon
+released: 2003
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/279a6236-8f51-41c9-b301-97ba1aa9c950
+  title: lichtblicke – klangräume
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8ea617e2-6e82-4cd5-acd0-839d12889b81
+  recordings: [9cf77d43-cbd4-4704-8ee9-0145c6a807bc]

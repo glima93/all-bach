@@ -1,0 +1,16 @@
+bwv: "572"
+title: "Fantasia in G major (Pièce d'Orgue)"
+key: "G major"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: "probably Weimar, c. 1708–1712; revised by 1722"
+movements:
+  - "I. Trés vitement"
+  - "II. Gravement"
+  - "III. Lentement"
+notes: "The contemporary copies call it \"Pièce d'Orgue\"; its three sections have French tempo headings."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Fantasia_in_G_major,_BWV_572"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/cc815d5b-7980-33d6-a11e-6c657700315a

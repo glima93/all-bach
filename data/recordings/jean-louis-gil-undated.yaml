@@ -1,0 +1,27 @@
+id: jean-louis-gil-undated
+performers:
+- name: Jean-Louis Gil
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Église Notre-Dame-des-Blancs-Manteaux
+released: 1992
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b650387e-b998-43b3-908d-3b47a558d3da
+  title: Grandes toccatas pour orgue
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e6d0959b-3da9-4bff-a7e0-f3711d249f32
+  recordings: [2f5a7a93-afa4-433d-99b3-f03e3f111152]

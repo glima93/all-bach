@@ -1,0 +1,28 @@
+id: samuel-john-swartz-undated
+performers:
+- name: Samuel John Swartz
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/278afe21-a4a0-465f-ac20-9be96773140f
+  title: Dynamic Organ Music Series, Volume I, Samuel John Swartz On Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cf2ac2a5-3135-44bd-bf10-9bb3ce10c4fd
+  recordings: [2e1443a8-07ad-427f-9acd-8788ac6bf3d1]

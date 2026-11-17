@@ -1,0 +1,28 @@
+id: paul-isom-undated
+performers:
+- name: Paul Isom
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33d07e29-5446-45bf-b11b-80b59ca1d1ff
+  title: English Masterpieces on Johannus Opus 20
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed25fe7e-6c9b-42c5-9d34-4d27e5649944
+  recordings: [5eec03f6-f16f-4898-b93a-ef3314bbd12d]

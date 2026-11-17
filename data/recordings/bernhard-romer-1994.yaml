@@ -1,0 +1,26 @@
+id: bernhard-romer-1994
+performers:
+- name: Bernhard Römer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: St. Andreas-Kirche
+released: 1995
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/63c890d0-2d5e-4c8f-98c4-39d8a8a5f288
+  title: 'Orgelfaszinationen: Festliche Orgelmusik'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e9ddf39-8843-43b6-8f6e-1ce8191464cb
+  recordings: [10e8108a-c512-42b1-af46-1eaa13443298]

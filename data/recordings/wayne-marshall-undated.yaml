@@ -1,0 +1,28 @@
+id: wayne-marshall-undated
+performers:
+- name: Wayne Marshall
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/63e7bd92-e3f8-4750-8bdc-adfb15037922
+  title: Organ Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c28c5a2-f820-4d5c-a349-bccd2a3bda31
+  recordings: [7391bdc4-67db-4878-a1c0-8f435a2e994d]

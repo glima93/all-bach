@@ -1,0 +1,29 @@
+id: alexander-koschel-undated
+performers:
+- name: Alexander Koschel
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b5a0d36-1816-4c3c-88cb-5b4427a8eafa
+  title: Lob Der Orgel - Orgelmusik Aus 6 Jahrhunderten (Alexander Koschel An Der Historischen Gottfried-Silbermann-Orgel
+    Der St. Petri-Kirche Zu Freiberg In Sachsen)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 213fe913-d223-4fba-8b1e-e9e7ac496017
+  recordings: [9a599f75-fb54-462f-ae0f-2b36546bdd93]

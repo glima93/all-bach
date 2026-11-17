@@ -1,0 +1,28 @@
+id: heinz-jacob-spelmanns-undated
+performers:
+- name: Heinz-Jacob Spelmanns
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/25bc8343-e775-4553-9915-5f9b3ca5994a
+  title: Musica Variata
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bbc6287e-fd79-45fc-a303-54efbeadb6ee
+  recordings: [f3205dab-6a31-4188-8cc4-104aa1025ce4]

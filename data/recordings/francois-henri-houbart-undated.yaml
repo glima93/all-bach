@@ -1,0 +1,28 @@
+id: francois-henri-houbart-undated
+performers:
+- name: François-Henri Houbart
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '566', complete: false, movements: [II. Fuga]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/46cc2f3d-facf-49af-904c-9c5f150fc47b
+  title: 6 Sonates en Trio & Passacaille et Fugue
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 996071ac-3751-4789-a58c-84b06e748f3f
+  recordings: [af54f4a0-0c85-45cc-9abe-0aeaff714203]

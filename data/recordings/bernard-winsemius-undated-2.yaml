@@ -1,0 +1,27 @@
+id: bernard-winsemius-undated-2
+performers:
+- name: Bernard Winsemius
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Akerk
+released: 1990
+original_label: null
+works:
+- {bwv: '569', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5d51b92d-7d54-4e74-9524-5f55521d7559
+  title: Het Schnitger-Orgel In de Der Aa-Kerk Te Groningen
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 88f40339-296f-4351-8249-abbc73d63f49
+  recordings: [4c59987f-63d6-48af-8897-fd5c53de287d]

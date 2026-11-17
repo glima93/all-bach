@@ -1,0 +1,29 @@
+id: disney-studio-orchestra-1982
+performers:
+- name: Disney Studio Orchestra
+  role: orchestra
+- name: Irwin Kostal
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1982]
+  place: CBS Studio Center, Studio One
+released: 1987
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4af9c967-144c-4bf3-88d6-87a868712124
+  title: Walt Disney’s Fantasia
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2d99c887-a584-4889-b3c1-f8637d7bdc25
+  recordings: [c6a883e2-283a-4395-b6f1-322c15ce6c76]

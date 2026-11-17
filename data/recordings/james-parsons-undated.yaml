@@ -1,0 +1,28 @@
+id: james-parsons-undated
+performers:
+- name: James Parsons
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Oundle School Chapel
+released: 1996
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '577', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ed1e5c59-0226-45f5-8fb1-a1baba38579c
+  title: Organ in Splendour and Majesty
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0e888d40-58f6-42ed-bf43-05cf441e7b14
+  recordings: [e9af14d8-3f72-41c8-b618-63d46748b1e8]

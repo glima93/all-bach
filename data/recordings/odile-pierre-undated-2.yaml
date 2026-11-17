@@ -1,0 +1,30 @@
+id: odile-pierre-undated-2
+performers:
+- name: Odile Pierre
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '562', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b29b73b-4924-427a-ae46-223ead3cfba9
+  title: L'Orgue Historique de Carnac
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 87f5b5f8-79de-4fa3-823e-7dbb9ed91023
+  recordings: [ec65e741-b743-40f3-86c1-74b7a06bddfa]

@@ -1,0 +1,29 @@
+id: rachel-laurin-undated
+performers:
+- name: Rachel Laurin
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '577', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6a2b7cbb-0d80-449c-b5a5-c0502babc12a
+  title: The Power of the Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4d394427-096d-4fd6-b368-6acdc54f623f
+  recordings: [043f0731-cd03-4e0f-b731-d8949ecf6153]

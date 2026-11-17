@@ -1,0 +1,17 @@
+bwv: "590"
+title: "Pastorale in F major"
+key: "F major"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: null
+movements:
+  - "I. (Pastorella)"
+  - "II. (a tempo giusto)"
+  - "III. (Adagio)"
+  - "IV. (Allegro)"
+notes: "Also called Pastorella. Only the first of its four movements uses the pedal, and that movement may be incomplete."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_organ_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/81e645a4-706c-30de-9798-1eaecfa12344

@@ -1,0 +1,28 @@
+id: constanze-hochwartner-undated
+performers:
+- name: Constanze Hochwartner
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/61c9799d-d213-48f5-889e-0fee4abfd112
+  title: NANI, Vol. 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f91a8b91-cc2a-4f2c-a406-e0f252ee4c1c
+  recordings: [689b88b6-f2f2-4c14-8f8c-b1ac6b187237]

@@ -1,0 +1,27 @@
+id: william-mcvicker-undated
+performers:
+- name: William McVicker
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St Barnabas Church
+released: 1997
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f392a95-5589-44ff-b30e-2f19a6e62f9b
+  title: Great Organ Classics
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e69dbc51-9593-4d3b-a277-6ddb408f4fc4
+  recordings: [44cf8552-44e8-41e0-b65e-c98797926e6c]

@@ -1,0 +1,28 @@
+id: roman-krasnovsky-undated-2
+performers:
+- name: Roman Krasnovsky
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/09b2ecf6-91b6-49d9-a093-ac65c68f75f5
+  title: Orgelsonate in c-moll
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a5621369-0163-420e-8285-ef2383a97917
+  recordings: [f2a7207b-038b-45f2-a747-cc22f10264a6]

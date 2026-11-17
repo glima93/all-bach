@@ -1,0 +1,26 @@
+id: anelko-klobucar-1974
+performers:
+- name: Anđelko Klobučar
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974]
+  place: Zagrebačka katedrala
+released: 1975
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ce82b87e-a479-40fe-a68f-8fdbc39b5035
+  title: Orgulje
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 48616e4f-6264-4ed2-b6fc-8bb84e1c4fa2
+  recordings: [6b0e748a-946c-4a17-a292-d0e412169701]

@@ -1,0 +1,26 @@
+id: olivier-vernet-2012
+performers:
+- name: Olivier Vernet
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: Cathédrale Notre-Dame-Immaculée de Monaco
+released: 2012
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb81fcab-eccc-49c5-b3e2-6b19a419d431
+  title: Les Grandes Orgues de la Cathédrale de Monaco
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 215d92b3-630f-46b3-bdc9-5995333efcbb
+  recordings: [eb957396-362c-4f23-ad50-6a85f39361c1]

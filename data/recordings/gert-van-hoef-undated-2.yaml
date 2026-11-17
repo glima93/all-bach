@@ -1,0 +1,27 @@
+id: gert-van-hoef-undated-2
+performers:
+- name: Gert van Hoef
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Augustijnenkerk
+released: 2016
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0304070-3dcf-4308-850a-7a20a5fb64cc
+  title: Augustijnenkerk Dordrecht
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22e28c4f-5112-4363-9081-ee8ddea669c0
+  recordings: [f44971b3-9985-4c33-bd00-695349dc385c]

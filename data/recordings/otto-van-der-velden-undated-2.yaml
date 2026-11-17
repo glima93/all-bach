@@ -1,0 +1,30 @@
+id: otto-van-der-velden-undated-2
+performers:
+- name: Otto van der Velden
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '576', complete: true}
+- {bwv: '582', complete: false, movements: [I. Passacaglia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/357d2ef2-455b-3d6f-99a9-efc33240c8fc
+  title: Les Triomphes de la musique classique
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0cd32423-cc76-44fe-a214-e3ccb65a097f
+  recordings: [9b2ccd36-1b3e-4cfa-ba3a-e07494d457ad]

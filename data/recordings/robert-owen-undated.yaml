@@ -1,0 +1,27 @@
+id: robert-owen-undated
+performers:
+- name: Robert Owen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Christ Church
+released: 1963
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3bf9dd6d-a2cb-4b8a-8946-63c6aefa4e2f
+  title: The Power of the Organ
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 061c0eac-57ad-4445-a0f1-8c211df3e9c6
+  recordings: [31d62294-f620-4d27-b1b0-0025e1ee3b81]

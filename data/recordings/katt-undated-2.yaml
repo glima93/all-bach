@@ -1,0 +1,28 @@
+id: katt-undated-2
+performers:
+- name: Katt
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4ce72871-9057-43b9-bb51-336da6f3a29a
+  title: Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b46f54d8-9c1f-4f02-9656-bead611503a5
+  recordings: [a5d9005b-ec8d-4a8b-aa65-93c574226610]

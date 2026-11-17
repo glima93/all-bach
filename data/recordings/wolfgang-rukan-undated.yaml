@@ -1,0 +1,28 @@
+id: wolfgang-rukan-undated
+performers:
+- name: Wolfgang Rukan
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc34f1c4-cda0-4045-898e-77eaa961175f
+  title: Horror Hits
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f424030e-25e8-441f-9ee4-511b0d1316da
+  recordings: [ab3511cb-6293-4a71-8900-86a0d1e44d9b]

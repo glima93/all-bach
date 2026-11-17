@@ -1,0 +1,26 @@
+id: john-porter-1983
+performers:
+- name: John Porter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1983]
+  place: St George’s Chapel
+released: null
+original_label: null
+works:
+- {bwv: '577', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee35b142-8b78-4974-b782-efb1319d6d39
+  title: Priory LP Archive Series, Vol. 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8f2e5867-f277-4878-ab02-7609e1d5dc44
+  recordings: [97d1c532-fc2c-4652-a304-1a84d1e60a47]

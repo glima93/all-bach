@@ -1,0 +1,27 @@
+id: martin-neary-undated
+performers:
+- name: Martin Neary
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Winchester Cathedral
+released: 1982
+original_label: null
+works:
+- {bwv: '562', complete: false, movements: [I. Fantasie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b26e3c70-a1c2-4fe6-a822-fe2a03cad658
+  title: Evensong for Ash Wednesday
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 03f5142a-1ee9-4a36-8894-7c7ef1234582
+  recordings: [0d52972a-2556-4f17-8f65-91d62b9c01fb]

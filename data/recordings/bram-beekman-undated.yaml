@@ -1,0 +1,29 @@
+id: bram-beekman-undated
+performers:
+- name: Bram Beekman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '577', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4dcfb000-6557-4cb9-b0f8-132b0c9234f9
+  title: Super Audio CD Sampler
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5e7822c4-22bb-49b5-9f43-9c8ac977d6db
+  recordings: [68208244-a02f-408b-9cfa-8f9dc3382aac]

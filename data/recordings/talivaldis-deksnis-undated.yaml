@@ -1,0 +1,28 @@
+id: talivaldis-deksnis-undated
+performers:
+- name: Tālivaldis Deksnis
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/91211bfd-6200-4695-a66a-862671e57b49
+  title: The Organ of the Riga Dom
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c8444992-606c-4992-9374-e05113810291
+  recordings: [cb656f13-fcbb-41c2-8682-5335b2d0f98c]

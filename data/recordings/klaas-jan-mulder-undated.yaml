@@ -1,0 +1,27 @@
+id: klaas-jan-mulder-undated
+performers:
+- name: Klaas Jan Mulder
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Grote Kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/63a24882-d43a-401c-9701-a091189cc9f5
+  title: Grote kerk Hasselt-Dordrecht
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 615e7755-e4ec-45e9-a257-dae8fe70118d
+  recordings: [c0034681-9150-4a4c-a8f0-3184127d46b1]

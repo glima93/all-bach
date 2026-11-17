@@ -1,0 +1,27 @@
+id: pawe-kuchnicki-undated
+performers:
+- name: Paweł Kuchnicki
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Bazylika archikatedralna Wniebowzięcia Najświętszej Maryi Panny i św. Andrzeja
+released: 2020
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f09922c3-561b-4f2f-b1a2-115a3ceb8c84
+  title: Organy Archikatedry Fromborskiej
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e4d57695-5d9e-41fc-a304-1cbe09c67c45
+  recordings: [36a8f370-62b8-4c70-9afd-b1578fa2b7f9]

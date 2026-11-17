@@ -1,0 +1,26 @@
+id: dorien-schouten-2015
+performers:
+- name: Dorien Schouten
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: Bovenkerk
+released: null
+original_label: null
+works:
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/d474c4a0-e0f2-4dc0-ab12-21a70d796738
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f7d1dbf5-7005-408f-8bdf-e22340ffd6df
+  recordings: [d474c4a0-e0f2-4dc0-ab12-21a70d796738]

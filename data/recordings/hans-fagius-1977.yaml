@@ -1,0 +1,26 @@
+id: hans-fagius-1977
+performers:
+- name: Hans Fagius
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: Härnösands domkyrka
+released: 1994
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7eece594-c603-4e76-837b-95667b82886f
+  title: The Organ of Harnosand Cathedral, Sweden
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1326ea97-4cae-428c-bbc2-f7aaf5354ec1
+  recordings: [cdb79fc0-2489-4d12-a61a-eb651a6c03d9]

@@ -1,0 +1,29 @@
+id: nicholas-danby-undated-2
+performers:
+- name: Nicholas Danby
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Dom zu Lübeck
+released: 1968
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6dde64a-f478-4c53-bcdd-b9e110ae7d0d
+  title: Toccata & Fugue In D Minor / Organ Favorites
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c89b83ac-7e47-4456-b3b1-e8f3b6b123bd
+  recordings: [8e02455f-21d6-4b08-8650-aff641b3c7c4]

@@ -1,0 +1,27 @@
+id: arthur-eger-1966-2
+performers:
+- name: Arthur Eger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966]
+  place: Freiberger Dom St. Marien
+released: 1997
+original_label: null
+works:
+- {bwv: '583', complete: true}
+- {bwv: '586', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5fbb8f7a-ad3a-4fba-8997-477422df70d7
+  title: Das Orgelwerk auf Silbermann-Orgeln Vol. I
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7f3fab48-8b29-4ecb-bf96-5f887f5f0476
+  recordings: [344bac60-479c-4c87-8ec0-9f560946deb4]

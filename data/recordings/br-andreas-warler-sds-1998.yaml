@@ -1,0 +1,26 @@
+id: br-andreas-warler-sds-1998
+performers:
+- name: Br. Andreas Warler SDS
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: Basilika Steinfeld
+released: 1998
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5c524083-8f32-4442-a509-43ff363cc9f6
+  title: Die König‐Orgel in der Basilika Steinfeld
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e20bec3-e951-46f3-acc9-21c1b19f110c
+  recordings: [fddc3846-3dc7-4fa7-9b97-b10acb8e610a]

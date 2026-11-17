@@ -1,0 +1,29 @@
+id: ivan-ronda-undated
+performers:
+- name: Ivan Ronda
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/290aaeed-6c48-443e-9afc-2ceeda21cea6
+  title: At Arlesheim
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bf17c1ee-6820-4afd-a8fc-c6465755ffcf
+  recordings: [d4947f09-088c-4ca5-a267-3466885d492b]

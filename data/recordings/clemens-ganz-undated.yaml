@@ -1,0 +1,28 @@
+id: clemens-ganz-undated
+performers:
+- name: Clemens Ganz
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e34a628-6a31-44e5-83c2-99df1b359ac7
+  title: Musik am Hohen Dom zu Köln
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 50589539-714a-45d0-a36e-595fa1665e2b
+  recordings: [e3660128-c16f-4917-8b52-537fe811c8c1]

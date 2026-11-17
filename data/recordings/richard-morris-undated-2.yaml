@@ -1,0 +1,28 @@
+id: richard-morris-undated-2
+performers:
+- name: Richard Morris
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1979
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/109f0660-a4a4-46fd-b662-c9b2f4b20c53
+  title: Sonic Fireworks, Volume 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b9fd4ab-18bf-44db-86fb-050eb90ced03
+  recordings: [7e34609c-1e66-4654-b3fb-3b018e7f4901]

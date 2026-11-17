@@ -1,0 +1,29 @@
+id: felix-hell-undated-2
+performers:
+- name: Felix Hell
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8eb3ab7f-8f97-4c7f-abac-f27880dabac4
+  title: 'Organ Fantasies : Masterworks by Bach, Liszt & Reger'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 69f2341a-5a31-455f-a408-b75b4c54e8fb
+  recordings: [e14fda5a-9e11-4723-8def-96943adc981e]

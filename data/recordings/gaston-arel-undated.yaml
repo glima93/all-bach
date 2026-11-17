@@ -1,0 +1,27 @@
+id: gaston-arel-undated
+performers:
+- name: Gaston Arel
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Église Immaculée-Conception
+released: 2017
+original_label: null
+works:
+- {bwv: '564', complete: false, movements: [II. Adagio, III. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/16491c15-daa5-49f2-8ed8-c3e2ee4df830
+  title: Organ Great Classics
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0be0bbd2-15b0-44ad-b1dd-e294e40c4094
+  recordings: [4d524ef8-0c7e-4747-832f-ed4eff80a416]

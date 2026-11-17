@@ -1,0 +1,28 @@
+id: lollies-2004
+performers:
+- name: Lollies
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2004]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17d6900a-2b62-493c-a226-b0d2e5e30389
+  title: Lollies Live
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 32595cad-5dd1-41cc-9ba5-70cc595b776c
+  recordings: [7c711958-b64c-4460-8843-27df7a6ab4e9]

@@ -1,0 +1,27 @@
+id: wim-van-beek-1987
+performers:
+- name: Wim Van Beek
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1987]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f5783dd-6fcc-4556-9b32-b38f1010c074
+  title: Famous Dutch Organs
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9478b306-d220-44eb-a940-4fb0de14a227
+  recordings: [8cd65968-1cc5-48db-90b8-253fb1c0cbb4]

@@ -1,0 +1,30 @@
+id: anthony-newman-1985-3
+performers:
+- name: Anthony Newman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985, 1986]
+  place: 'Performing Arts Center: Recital Hall'
+released: 1993
+original_label: null
+works:
+- {bwv: '564', complete: false, movements: [III. Fugue]}
+- {bwv: '565', complete: true}
+- {bwv: '577', complete: true}
+- {bwv: '578', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d558e39-1b6b-42cd-975e-cf4f977691a8
+  title: 'Bach: Favorite Organ Works'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ea4c412-b5db-499a-ad58-8251d91526ca
+  recordings: [e74aa573-4ae6-4f84-a53a-8560c5ebec02]

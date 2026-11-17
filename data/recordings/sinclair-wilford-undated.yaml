@@ -1,0 +1,28 @@
+id: sinclair-wilford-undated
+performers:
+- name: Sinclair Wilford
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92744e0b-74dc-49e7-bed8-b53cb64d9479
+  title: Bach Family Notebook
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 48b0e330-d908-4ef0-83af-7e5b31d2de3f
+  recordings: [41ea4193-0d9a-4810-9dbf-42e86c192403]

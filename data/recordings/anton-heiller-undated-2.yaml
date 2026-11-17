@@ -1,0 +1,30 @@
+id: anton-heiller-undated-2
+performers:
+- name: Anton Heiller
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1965
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/172dc3ab-8fc5-4107-9d15-a21f2d360b0b
+  title: Bach Organ Recital
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24c5ffc2-8eac-4aec-b574-89dc1aba22b4
+  recordings: [a79f8509-ecb7-45b7-92c2-c4f22d2046f0]

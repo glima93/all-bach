@@ -1,0 +1,28 @@
+id: rafael-puyana-undated-2
+performers:
+- name: Rafael Puyana
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Ballroom Studio A
+released: 1998
+original_label: null
+works:
+- {bwv: '562', complete: false, movements: [I. Fantasie]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aa58a78e-c36d-4b01-a385-f20ae2022f8c
+  title: Puyana Plays Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8d7296c7-d11d-40c2-ab8b-3d1f8c010928
+  recordings: [8061cd47-3f75-44f9-adab-31d23d849e05]

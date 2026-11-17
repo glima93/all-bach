@@ -1,0 +1,28 @@
+id: wilhelm-krumbach-undated-3
+performers:
+- name: Wilhelm Krumbach
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9c36bb55-854b-4d36-8bd5-2fbd9a6e2595
+  title: Classic Creepies
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b8bd1b7d-7396-4b71-a755-9828d49c2c87
+  recordings: [673a4f7c-5b76-452e-9810-7b0f2854a5e7]

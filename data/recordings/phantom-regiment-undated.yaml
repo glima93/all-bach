@@ -1,0 +1,29 @@
+id: phantom-regiment-undated
+performers:
+- name: Phantom Regiment
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/64503498-3fb8-43e0-897e-ca14d0d8258f
+  title: Phantom Regiment Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a9f68c1b-4aed-4f0d-ac88-1613bedde58c
+  recordings: [a5247a1a-0c42-4528-a6a3-a283d469f10b]

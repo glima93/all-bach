@@ -1,0 +1,27 @@
+id: jan-jongepier-undated
+performers:
+- name: Jan Jongepier
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Holy Name Cathedral
+released: null
+original_label: null
+works:
+- {bwv: '564', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f82dd80-0318-485f-a573-33426b91494a
+  title: 'Flentrop Organ: Cathedral of the Holy Name Chicago'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9be891e2-ac49-472c-ad39-515dc8622999
+  recordings: [3f9b843c-d027-4a28-9ab3-10af20be3dd2]

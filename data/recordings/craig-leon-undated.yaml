@@ -1,0 +1,29 @@
+id: craig-leon-undated
+performers:
+- name: Craig Leon
+  role: moog
+instrument: other
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/591749d3-e43d-41d4-be34-b59e5490d1df
+  title: AUDIOphile Pearls, Volume 13
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on Moog.
+musicbrainz:
+  artist: 08953c9a-26ff-4dcb-8a72-0b8c265966cb
+  recordings: [53bb829e-b5c6-461e-95a4-183a9f07797a]

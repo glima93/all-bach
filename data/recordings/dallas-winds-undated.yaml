@@ -1,0 +1,30 @@
+id: dallas-winds-undated
+performers:
+- name: Dallas Winds
+  role: orchestra
+- name: Frederick Fennell
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Morton H. Meyerson Symphony Center
+released: 1991
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c499f92-0500-4aa0-bc3c-e1b84f6111b6
+  title: Fennell Favorites!
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95bcb963-7267-444b-9d39-691e51e268ab
+  recordings: [44826835-71ab-46d4-901d-df89787e7049]

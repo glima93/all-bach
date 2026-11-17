@@ -1,0 +1,26 @@
+id: ales-barta-2001
+performers:
+- name: Aleš Bárta
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2001]
+  place: Dvořákova síň Rudolfina
+released: 2001
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/edd835a0-2d34-48d9-8788-db4e49c15e34
+  title: 'Toccata and Fugue: ORGAN SURROUND ILLUSION'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bffe18c6-e8e1-41d7-ba0d-7926ba8ea080
+  recordings: [e3e6714d-114d-4ff2-88e6-a2ff93de4d0f]

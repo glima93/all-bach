@@ -1,0 +1,26 @@
+id: mario-videla-1999-3
+performers:
+- name: Mario Videla
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Schlosskapelle, Schloss Solitude
+released: 2000
+original_label: null
+works:
+- {bwv: '573', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a49fb065-4c8a-4177-886a-3ce8b8e957f4
+  title: Clavier‐Büchlein für Anna Magdalena Bach, 1722
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 37f5a1f2-9a38-4b99-9755-d7bceddd27c9
+  recordings: [a44ceca8-1918-4d8d-abf4-300d43a62fa1]

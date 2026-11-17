@@ -1,0 +1,30 @@
+id: hans-andre-stamm-undated
+performers:
+- name: Hans-André Stamm
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '582', complete: true}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/693697a9-fe38-4fe4-b831-f332051ee5e1
+  title: Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fcba9b66-da9a-4c51-99bf-67c732add368
+  recordings: [c75a9427-e341-4923-b9c5-47d8aec04f86]

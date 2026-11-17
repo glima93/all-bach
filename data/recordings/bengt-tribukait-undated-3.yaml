@@ -1,0 +1,29 @@
+id: bengt-tribukait-undated-3
+performers:
+- name: Bengt Tribukait
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c71758c4-10c7-4d8b-ad21-e14b3c6ac697
+  title: Bach
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f3440e2-cf5f-4b8f-bc5d-940845cd5471
+  recordings: [587e6453-bf3f-4399-b54b-8c218c17b56f]

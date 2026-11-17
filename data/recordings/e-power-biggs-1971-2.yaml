@@ -1,0 +1,28 @@
+id: e-power-biggs-1971-2
+performers:
+- name: E. Power Biggs
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1971, 1973]
+  place: Busch–Reisinger Museum
+released: 1974
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb997fb6-273b-4e40-9309-ee6b52b1b2f8
+  title: The 4 Great Toccatas & Fugues
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8be84470-71d4-42e7-8283-6d568b64abc7
+  recordings: [e0ca986f-4046-4e2d-823d-1d9805a66fad]

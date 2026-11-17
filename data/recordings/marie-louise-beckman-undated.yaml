@@ -1,0 +1,27 @@
+id: marie-louise-beckman-undated
+performers:
+- name: Marie-Louise Beckman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Nässja kyrka
+released: 2015
+original_label: null
+works:
+- {bwv: '590', complete: false, movements: [I. (Pastorella), II. (a tempo giusto)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1d65830-9d03-4a12-bb12-5ba298d3a6c7
+  title: Pastoral
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8462fcf5-7bcf-45d9-9b41-0c48b5a62dce
+  recordings: [9d634189-7830-4331-8d04-efd610054305]

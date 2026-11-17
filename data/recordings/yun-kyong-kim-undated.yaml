@@ -1,0 +1,27 @@
+id: yun-kyong-kim-undated
+performers:
+- name: Yun Kyong Kim
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Christ Episcopal Church
+released: 2005
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0bd9331e-1e9c-4f41-a5d7-d54ca1fd0244
+  title: Pops and Pipes
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e87a7e18-5725-40d8-8957-0126318559b4
+  recordings: [7dc84262-a58d-4f21-81ae-30b2214a797d]

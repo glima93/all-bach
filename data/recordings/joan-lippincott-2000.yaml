@@ -1,0 +1,27 @@
+id: joan-lippincott-2000
+performers:
+- name: Joan Lippincott
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb946d2f-ed81-4537-a004-e37a4fd43e6c
+  title: 'Joan Lippincott & Friends: A Centennial Celebration'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 12bd2a10-c2f1-4096-ae06-2e2118550444
+  recordings: [86251034-b242-475b-b73f-1bea5b574b4e]

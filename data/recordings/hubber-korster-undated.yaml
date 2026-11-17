@@ -1,0 +1,28 @@
+id: hubber-korster-undated
+performers:
+- name: Hubber Korster
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/06140d77-952b-4591-b776-ba95ff56335a
+  title: Jóias da música, Volume 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c94c9667-26b8-4db0-8322-04aa723e2143
+  recordings: [8da90223-11da-4dd7-87f6-371d04e8369b]

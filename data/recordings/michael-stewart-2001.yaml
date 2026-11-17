@@ -1,0 +1,27 @@
+id: michael-stewart-2001
+performers:
+- name: Michael Stewart
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2001]
+  place: Christchurch Cathedral
+released: 2001
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b5391c79-3644-408b-91e2-f8affd27fbb4
+  title: Puíssant
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e654b3b0-e8e0-4242-bdf9-c8a6a905a9a4
+  recordings: [705008c8-bf11-445c-9c67-74e626060902]

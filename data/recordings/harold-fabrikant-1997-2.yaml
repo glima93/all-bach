@@ -1,0 +1,27 @@
+id: harold-fabrikant-1997-2
+performers:
+- name: Harold Fabrikant
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '585', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c729d574-4fa5-4df4-bd20-552f1ec3fd57
+  title: Pipe Organs of Adelaide, Volume 7
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 460b1dba-970d-4a3c-8ab0-11f3176d4d4c
+  recordings: [3d6cb503-accb-4ab0-b971-c1c6c09ae306]

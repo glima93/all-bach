@@ -1,0 +1,27 @@
+id: tom-hazleton-undated
+performers:
+- name: Tom Hazleton
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Riverside Church
+released: 2001
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f71944fb-3208-4c0e-9594-d9a0a20550ab
+  title: Virgil Fox Memorial Concert
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: da98e6c1-35ae-42ac-825a-9d6e303b1ae0
+  recordings: [0a32abc9-b898-4676-9a95-e276f6522c86]

@@ -1,0 +1,28 @@
+id: martin-lucker-1998-3
+performers:
+- name: Martin Lücker
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998, 1999]
+  place: Katharinenkirche Frankfurt
+released: 1999
+original_label: null
+works:
+- {bwv: '562', complete: true}
+- {bwv: '564', complete: true}
+- {bwv: '579', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/67e74e61-3cc8-48d1-a51e-b7d1d64faf63
+  title: 'Orgelwerke: Leipziger Spätwerke'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c23aa4c0-8e07-4d6c-85d8-809d4e523a60
+  recordings: [7473aa3b-652b-447f-a743-813164782cdb]

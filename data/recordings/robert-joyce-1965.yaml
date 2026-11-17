@@ -1,0 +1,26 @@
+id: robert-joyce-1965
+performers:
+- name: Robert Joyce
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1965]
+  place: Llandaff Cathedral
+released: 2011
+original_label: null
+works:
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c44dd7f-f1bb-45e0-9065-ad61ddd4afd8
+  title: Great Cathedral Organs
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ff5d4bf-18e6-441a-96ed-9f4ec595635d
+  recordings: [3376505c-5b04-438a-b9c0-5352444082f5]

@@ -1,0 +1,16 @@
+bwv: "571"
+title: "Fantasia (Concerto) in G major"
+key: "G major"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: null
+movements:
+  - "I. Allegro"
+  - "II. Adagio"
+  - "III. Allegro"
+notes: "A three-movement piece also known as a concerto; its attribution to Bach is doubtful."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_organ_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/c3f5b274-3977-3d9c-92d9-86030ea22e70

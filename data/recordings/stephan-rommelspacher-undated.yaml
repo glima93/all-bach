@@ -1,0 +1,27 @@
+id: stephan-rommelspacher-undated
+performers:
+- name: Stephan Rommelspacher
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Benediktinerkirche
+released: 2011
+original_label: null
+works:
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1896c842-589e-4876-9e54-411e97b1258e
+  title: Die rekonstruierte Johann-Andreas-Silbermann-Orgel in der Benediktinerkirche Villingen
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b2245af0-7143-485f-a9e9-f929330cb5f7
+  recordings: [d6e741a3-a720-4077-a59d-ff95d7cf66e3]

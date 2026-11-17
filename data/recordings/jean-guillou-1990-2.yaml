@@ -1,0 +1,34 @@
+id: jean-guillou-1990-2
+performers:
+- name: Jean Guillou
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: Tonhalle
+released: 1991
+original_label: null
+works:
+- {bwv: '562', complete: false, movements: [I. Fantasie]}
+- {bwv: '565', complete: true}
+- {bwv: '566', complete: true}
+- {bwv: '568', complete: true}
+- {bwv: '569', complete: true}
+- {bwv: '570', complete: true}
+- {bwv: '574', complete: true}
+- {bwv: '589', complete: true}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fcc6a94e-1dd1-47f4-8a96-e9ac35887c6f
+  title: The Organ Works of J.S. Bach, Volume 4
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65542956-ed7d-4ef3-b653-4a729c94ad8d
+  recordings: [a8113f9a-9ce2-4ce5-8c01-8cc33d4266ac]

@@ -1,0 +1,26 @@
+id: holm-vogel-1979
+performers:
+- name: Holm Vogel
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979, 1980]
+  place: Paul-Gerhardt-Kirche
+released: 1984
+original_label: null
+works:
+- {bwv: '583', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e9cb2590-e112-4920-8d0f-5e3608de9116
+  title: Triosonaten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8ec6b525-2c21-47aa-83e0-f69b269625a0
+  recordings: [fe3154f5-d971-42a8-bb57-a99e57ee91f8]
