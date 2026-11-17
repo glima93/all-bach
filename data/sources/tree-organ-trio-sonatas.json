@@ -1,0 +1,196 @@
+{
+ "collection": "organ-trio-sonatas",
+ "taken": "2026-11-17",
+ "recordings": 1099,
+ "performances": 137,
+ "works": [
+  {
+   "bwv": "525",
+   "id": "995aed75-a376-41a7-99aa-25f30b9cf4c8",
+   "candidates": [
+    {
+     "id": "995aed75-a376-41a7-99aa-25f30b9cf4c8",
+     "title": "Triosonate für Orgel Nr. 1 Es-Dur, BWV 525"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Triosonate für Orgel Nr. 1 Es-Dur, BWV 525",
+   "key": "E-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0117d4e7-a538-32ad-b5ce-61e80f502f0a",
+     "title": "Triosonate für Orgel Nr. 1 Es-Dur, BWV 525: I. (Allegro)"
+    },
+    {
+     "id": "cfe312f5-73db-3ec8-aa59-9b078822bf48",
+     "title": "Triosonate für Orgel Nr. 1 Es-Dur, BWV 525: II. Adagio"
+    },
+    {
+     "id": "c8aeadfb-6b93-3bd5-9d7e-7d0aacac318d",
+     "title": "Triosonate für Orgel Nr. 1 Es-Dur, BWV 525: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "526",
+   "id": "32b45443-2be1-4559-a95f-7eeb670f07ca",
+   "candidates": [
+    {
+     "id": "32b45443-2be1-4559-a95f-7eeb670f07ca",
+     "title": "Triosonate für Orgel Nr. 2 c-Moll, BWV 526"
+    },
+    {
+     "id": "85c99a50-7d1a-4f0b-b649-1d6ca2dc30ca",
+     "title": "Triosonate für Orgel Nr. 2 c-Moll, BWV 526"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Triosonate für Orgel Nr. 2 c-Moll, BWV 526",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "f32296cf-f11f-3a65-9194-7eae10c76e37",
+     "title": "Triosonate für Orgel Nr. 2 c-Moll, BWV 526: I. Vivace"
+    },
+    {
+     "id": "c9b46d42-200e-3abc-a427-2a36fdd47a43",
+     "title": "Triosonate für Orgel Nr. 2 c-Moll, BWV 526: II. Largo"
+    },
+    {
+     "id": "3933bbae-6138-3d30-8c76-67ce5fd0b614",
+     "title": "Triosonate für Orgel Nr. 2 c-Moll, BWV 526: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "527",
+   "id": "84763678-3bf0-42af-99b4-63b322ed4ba9",
+   "candidates": [
+    {
+     "id": "84763678-3bf0-42af-99b4-63b322ed4ba9",
+     "title": "Triosonate für Orgel Nr. 3 d-Moll, BWV 527"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Triosonate für Orgel Nr. 3 d-Moll, BWV 527",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "67e17204-21a9-3b55-93b6-071dad6807b7",
+     "title": "Triosonate für Orgel Nr. 3 d-Moll, BWV 527: I. Andante"
+    },
+    {
+     "id": "7e866959-f7dd-3b8c-8c4d-4363d4e0eb12",
+     "title": "Triosonate für Orgel Nr. 3 d-Moll, BWV 527: II. Adagio e dolce"
+    },
+    {
+     "id": "1fb6b6f4-f78a-39d4-b3a8-f0ae2c89f546",
+     "title": "Triosonate für Orgel Nr. 3 d-Moll, BWV 527: III. Vivace"
+    }
+   ]
+  },
+  {
+   "bwv": "528",
+   "id": "8b31b7df-a181-4b48-b810-5838fd5b12f2",
+   "candidates": [
+    {
+     "id": "8b31b7df-a181-4b48-b810-5838fd5b12f2",
+     "title": "Triosonate für Orgel Nr. 4 e-Moll, BWV 528"
+    },
+    {
+     "id": "18c3cbe3-f992-402f-925b-0e60798b1f51",
+     "title": "Triosonate für Orgel Nr. 4 e-Moll, BWV 528"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Triosonate für Orgel Nr. 4 e-Moll, BWV 528",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "6a76506a-d9b7-308c-86f2-dd168814ee30",
+     "title": "Triosonate für Orgel Nr. 4 e-Moll, BWV 528: I. Adagio - Vivace"
+    },
+    {
+     "id": "46260291-a00d-3012-872c-03e4044e1639",
+     "title": "Triosonate für Orgel Nr. 4 e-Moll, BWV 528: II. Andante"
+    },
+    {
+     "id": "89787fb5-d167-3177-a1a0-7bb61f4c5ffb",
+     "title": "Triosonate für Orgel Nr. 4 e-Moll, BWV 528: III. Un poc' allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "529",
+   "id": "2bdf42aa-805b-4485-91e9-b23bceaf17ae",
+   "candidates": [
+    {
+     "id": "2bdf42aa-805b-4485-91e9-b23bceaf17ae",
+     "title": "Triosonate für Orgel Nr. 5 C-Dur, BWV 529"
+    },
+    {
+     "id": "3e128108-09ec-499e-b630-6f03a5f599dc",
+     "title": "Largo aus Triosonate für Orgel Nr. 5 C-Dur, BWV 529"
+    },
+    {
+     "id": "b2ed3753-d60c-429e-8763-6ca279966103",
+     "title": "Trio Sonata in C major, BWV 529"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Triosonate für Orgel Nr. 5 C-Dur, BWV 529",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "8f612179-d6b0-3bc0-a2aa-924997e99ebd",
+     "title": "Triosonate für Orgel Nr. 5 C-Dur, BWV 529: I. Allegro"
+    },
+    {
+     "id": "fb0b95d4-1894-3e5c-8d1f-f73a2b4641d0",
+     "title": "Triosonate für Orgel Nr. 5 C-Dur, BWV 529: II. Largo"
+    },
+    {
+     "id": "7b854859-18ca-3fca-97bc-9e6cdd302d59",
+     "title": "Triosonate für Orgel Nr. 5 C-Dur, BWV 529: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "530",
+   "id": "e691f110-e63e-4a45-8994-ee3a850c7079",
+   "candidates": [
+    {
+     "id": "e691f110-e63e-4a45-8994-ee3a850c7079",
+     "title": "Triosonate für Orgel Nr. 6 G-Dur, BWV 530"
+    },
+    {
+     "id": "5a840860-0af0-4373-b72f-0cc097c68423",
+     "title": "Triosonate für Orgel Nr. 6 G-Dur, BWV 530"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Triosonate für Orgel Nr. 6 G-Dur, BWV 530",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "56ebc71f-b028-3507-b5c3-b0cc8fa22e65",
+     "title": "Triosonate für Orgel Nr. 6 G-Dur, BWV 530: I. Vivace"
+    },
+    {
+     "id": "58caeec9-53b8-3f44-b42d-6a7265f39ef8",
+     "title": "Triosonate für Orgel Nr. 6 G-Dur, BWV 530: II. Lente"
+    },
+    {
+     "id": "edd8512f-0976-3877-ac6a-5137f34c5f59",
+     "title": "Triosonate für Orgel Nr. 6 G-Dur, BWV 530: III. Allegro"
+    }
+   ]
+  }
+ ]
+}
