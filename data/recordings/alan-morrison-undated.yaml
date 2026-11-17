@@ -1,0 +1,27 @@
+id: alan-morrison-undated
+performers:
+- name: Alan Morrison
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Cathedral Basilica of the Sacred Heart
+released: null
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6b799b61-c26a-4151-8491-0be6c1d9a2b3
+  title: Cathedral Basilica of the Sacred Heart
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7cb0a9fe-73ea-440c-974d-a53cdf5c4b9f
+  recordings: [9b3723f8-7497-4965-a9d0-db0ead43423b]

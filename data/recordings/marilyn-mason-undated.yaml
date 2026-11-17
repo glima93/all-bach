@@ -1,0 +1,28 @@
+id: marilyn-mason-undated
+performers:
+- name: Marilyn Mason
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Basilica of the National Shrine of the Immaculate Conception
+released: 1972
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb3cce14-e978-4ad8-90f6-a7f5bb46c8f2
+  title: The Great Organ of the National Shrine of the Immaculate Conception, Washington, DC
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3974ae22-87c3-44ca-87cd-e22bd17e37c6
+  recordings: [00f68f6d-15a7-45cb-9eca-b7e31a37f3d4]

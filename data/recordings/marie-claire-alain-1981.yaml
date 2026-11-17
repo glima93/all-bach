@@ -1,0 +1,30 @@
+id: marie-claire-alain-1981
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1981]
+  place: Sankt Nicolai Kirke
+released: 1993
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '566', complete: true}
+- {bwv: '578', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/167e0a07-22a9-40c0-a519-f962d86ed14e
+  title: Toccata & Fugue en Ré mineur / Chorals Schübler / Passacaglia & Fugue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [c323f2ff-3874-4a0e-af32-396115a51708]

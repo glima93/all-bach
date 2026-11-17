@@ -1,0 +1,28 @@
+id: ales-barta-1989
+performers:
+- name: Aleš Bárta
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989]
+  place: Dvořákova síň Rudolfina
+released: 1991
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85a2fe63-9cd1-41db-bae5-f0e6ceb68a83
+  title: Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bffe18c6-e8e1-41d7-ba0d-7926ba8ea080
+  recordings: [069a4ff9-8de6-410f-b6b0-cf039d5c7f73]

@@ -1,0 +1,28 @@
+id: karl-richter-1969-6
+performers:
+- name: Karl Richter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1969]
+  place: ベートーヴェンホール
+released: 2006
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '582', complete: false, movements: [I. Passacaglia]}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4a6cfd95-e515-4814-bb9c-fb5008b1fcbd
+  title: Goldberg Variationen / Orgelwerke (1969 Tokyo Live)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: e01ebec7-98c5-450a-bf67-5650f8b4eff0
+  recordings: [76cb8622-5ebc-437b-9ed2-b40dbea3cbb9]

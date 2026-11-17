@@ -1,0 +1,27 @@
+id: heinz-balli-1986-2
+performers:
+- name: Heinz Balli
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986]
+  place: Klosterkirche Muri
+released: 1987
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dfed7665-43d0-45e3-9137-2ff06141c63e
+  title: The Masterpieces for Organ
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f4da3a3-27b5-4f15-93b9-323d61a383c6
+  recordings: [ade32506-e5a8-473f-b813-12eb39ea8758]

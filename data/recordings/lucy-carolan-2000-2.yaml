@@ -1,0 +1,27 @@
+id: lucy-carolan-2000-2
+performers:
+- name: Lucy Carolan
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [2000]
+  place: St Paul’s Girls’ School
+released: 2003
+original_label: null
+works:
+- {bwv: '561', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/22d6f526-dbe3-4ea1-b9c7-c5ef3892d803
+  title: Italian Concerto, BWV 971 / French Overture, BWV 831
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f3e9058e-70a9-4310-87c1-2bace16dc68c
+  recordings: [fbf970e5-57b5-441d-a855-f6062590da86]

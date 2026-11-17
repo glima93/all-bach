@@ -1,0 +1,26 @@
+id: douglas-guest-1964
+performers:
+- name: Douglas Guest
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1964]
+  place: Westminster Abbey
+released: 2011
+original_label: null
+works:
+- {bwv: '564', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c44dd7f-f1bb-45e0-9065-ad61ddd4afd8
+  title: Great Cathedral Organs
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95368380-b2be-4140-890a-eb7911dce5a1
+  recordings: [53097c11-dc71-40f8-a8e7-904250d1a2ff]

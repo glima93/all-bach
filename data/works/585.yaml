@@ -1,0 +1,15 @@
+bwv: "585"
+title: "Trio in C minor after Johann Friedrich Fasch"
+key: "C minor"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: "probably Leipzig, c. 1727"
+movements:
+  - "I. Adagio"
+  - "II. Allegro"
+notes: "An organ arrangement of a trio sonata by Johann Friedrich Fasch; Bach's role as arranger is uncertain."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_organ_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/7412817f-1b2c-39f6-b442-85d56d04548d

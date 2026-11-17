@@ -1,0 +1,29 @@
+id: johann-aratore-undated-2
+performers:
+- name: Johann Aratore
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fa92f0c1-46de-4b7d-a9a3-8e4e8140cfb1
+  title: Famous Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 834c8cd4-70f2-4e30-9bcd-05a6adb585a2
+  recordings: [1bbb7b3d-4eb7-4f41-b4ea-4337aade66eb]

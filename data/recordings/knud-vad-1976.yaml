@@ -1,0 +1,26 @@
+id: knud-vad-1976
+performers:
+- name: Knud Vad
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: Sorø Klosterkirke
+released: null
+original_label: null
+works:
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b5491ed0-25fb-40a9-9b04-c0b134affaad
+  title: Organ Concert
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5829afec-9133-46c9-89fc-de5b14180f71
+  recordings: [2be11cbf-e172-4633-bc56-460de0c69ba9]

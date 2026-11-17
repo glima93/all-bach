@@ -1,0 +1,28 @@
+id: marina-zagorski-undated
+performers:
+- name: Marina Zagorski
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '564', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9c02d10-bc11-45f0-9d09-2718ffe98882
+  title: 1. Internationaler August Gottfried Ritter Orgelwettbewerb
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fec137fb-5a89-4857-bcec-1f49baa8114f
+  recordings: [55436b36-968c-4d37-b437-d8ab59462451]

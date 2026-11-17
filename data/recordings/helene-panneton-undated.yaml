@@ -1,0 +1,28 @@
+id: helene-panneton-undated
+performers:
+- name: Hélène Panneton
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b536de0-bdb0-49f3-9e0a-6e62ff77daac
+  title: 'Fantasia: German Organ Fantasias of the 17th and 18th Centuries'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b44d1ce7-a1b2-4c8e-9425-b4ece0bca414
+  recordings: [0f6755bb-f227-4b32-867e-cf73306e5546]

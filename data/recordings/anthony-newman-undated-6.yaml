@@ -1,0 +1,31 @@
+id: anthony-newman-undated-6
+performers:
+- name: Anthony Newman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/87e3af03-3121-4a6e-a03b-8a3b1752f9e4
+  title: 'Classic Gold: The Ultimate Organ Collection'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ea4c412-b5db-499a-ad58-8251d91526ca
+  recordings: [aaf7add1-96ae-45f5-aa6e-c3ea17e191a6]

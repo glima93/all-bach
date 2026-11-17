@@ -1,0 +1,30 @@
+id: justin-taylor-2018-6
+performers:
+- name: Justin Taylor
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: b‐sharp
+released: 2018
+original_label: null
+works:
+- {bwv: '818', complete: false, movements: [III. Sarabande simple, IV. Sarabande double]}
+- {bwv: '822', complete: false, movements: [I. Ouverture, II. Aria, III. Gavotte en Rondeau, IV. Bourrée]}
+- {bwv: '833', complete: true}
+- {bwv: '837', complete: true}
+- {bwv: '839', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f913890f-066d-4ad7-a80e-b46a6a3b6f71
+  title: BACH 333 Harpsichord Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 23e5e29a-4c96-4019-b8b2-85722f2d3bc5
+  recordings: [c1592a3a-9f38-4d15-9a64-eb463cc91bd4]

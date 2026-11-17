@@ -1,0 +1,28 @@
+id: richard-gowers-undated
+performers:
+- name: Richard Gowers
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6828884-e2c3-4f21-8310-20e662fb5a0f
+  title: The King of Instruments
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cd955822-a1be-4ee9-91ae-e61b98ae3286
+  recordings: [a65f3a49-7e8c-4746-9740-b317603035cf]

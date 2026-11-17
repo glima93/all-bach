@@ -1,0 +1,31 @@
+id: royal-philharmonic-orchestra-undated-5
+performers:
+- name: Royal Philharmonic Orchestra
+  role: orchestra
+- name: Louis Clark
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1981
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/458d2955-347e-4200-9eab-226334392203
+  title: Hooked on Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 299597ae-3a20-4bf1-973e-03704af69f6b
+  recordings: [43bd680e-02a7-4f56-ae31-02ead2e165bc]

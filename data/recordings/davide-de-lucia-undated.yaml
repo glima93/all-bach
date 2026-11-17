@@ -1,0 +1,28 @@
+id: davide-de-lucia-undated
+performers:
+- name: Davide De Lucia
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '564', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/677dff67-b097-456e-bd6a-2614f05bbf20
+  title: Orgelwerke - Davide De Lucia - Organo Zanin dell'Arcipretale di Rauscedo
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 023991e7-f38a-42e4-8804-80fa2bc398a0
+  recordings: [82a9fec2-80b6-4bc1-b854-c4b64a78e4a2]

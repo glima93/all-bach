@@ -1,0 +1,27 @@
+id: david-fray-2024-3
+performers:
+- name: David Fray
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: [2024]
+  place: Maison de la Culture de Grenoble
+released: 2025
+original_label: null
+works:
+- {bwv: '590', complete: false, movements: [III. (Adagio)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d4cf4bd6-0f54-4581-b468-746fc0644bdc
+  title: Baroque Encores
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2955be8c-03e6-48e6-b902-e034e307406c
+  recordings: [3c1fa15f-2384-4eef-a84a-86f789faf716]

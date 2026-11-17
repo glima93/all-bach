@@ -1,0 +1,28 @@
+id: christiaan-teeuwsen-undated
+performers:
+- name: Christiaan Teeuwsen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Sint Walburgiskerk
+released: null
+original_label: null
+works:
+- {bwv: '566', complete: true}
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e278c0ba-f398-4227-806b-263ebe8ffe57
+  title: Bach meets Buxtehude, Bader Organ, St. Walburgiskerk Zutphen
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 276102ac-030d-4315-9de0-7191caa3c562
+  recordings: [4f4e50d6-3ab3-43dd-85aa-6c7b6ea760a3]

@@ -1,0 +1,30 @@
+id: simon-preston-1988-2
+performers:
+- name: Simon Preston
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988, 1991]
+  place: Kreuzbergkirche
+released: 1989
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '582', complete: true}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ffb6aa4f-ec04-4105-bdd9-87f6db7f83b8
+  title: Toccata & Fugue, BWV 565
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32c98fc8-e7de-4c43-af5b-2f0a7a0dd4c7
+  recordings: [12ca521b-6247-403c-a576-eacb3263bcd4]

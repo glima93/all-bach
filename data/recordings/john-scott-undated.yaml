@@ -1,0 +1,28 @@
+id: john-scott-undated
+performers:
+- name: John Scott
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0ea6c0fc-b171-4588-9995-073a76f595fa
+  title: Favorite Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c99fddad-1c5d-4db0-b3ed-6c0833e3318a
+  recordings: [75458068-ad2f-455e-b295-0ed66ea7b02b]

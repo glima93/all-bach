@@ -1,0 +1,27 @@
+id: piet-van-egmond-undated
+performers:
+- name: Piet van Egmond
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Grote Kerk
+released: 1988
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cb3162dd-4295-4c9b-9942-c55a9c0e217e
+  title: Gouden orgelklanken
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45b1e281-cdfb-4a8b-a920-b6233053553a
+  recordings: [12843275-6e71-438e-ac88-959c98b1a90b]

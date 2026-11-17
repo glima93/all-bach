@@ -1,0 +1,27 @@
+id: jurgen-wolf-undated
+performers:
+- name: Jürgen Wolf
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Nikolaikirche
+released: 1996
+original_label: null
+works:
+- {bwv: '564', complete: false, movements: [I. Toccata, II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17cf4461-c242-4697-b499-01a2e51ccab2
+  title: Jürgen Wolf spielt an der Ladegast-Sauer-Orgel in der St. Nikolaikirche zu Leipzig
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4978c4b8-f4d6-4c3e-900b-98e16e15d273
+  recordings: [db22cfc6-711a-445f-b18e-38585301eb0c]

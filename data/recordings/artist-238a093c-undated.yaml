@@ -1,0 +1,32 @@
+id: artist-238a093c-undated
+performers:
+- name: 東京佼成ウインドオーケストラ
+  role: orchestra
+- name: Frederick Fennell
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [II. Fuge]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/86e059db-7394-444c-b3c2-d6086ba12c19
+  title: Toccata and Fugue
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 238a093c-3bbf-4a49-9ae1-7202452de7d7
+  recordings: [c6228556-4a85-4da1-a78a-d9931f3f912b]

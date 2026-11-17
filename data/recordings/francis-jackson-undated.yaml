@@ -1,0 +1,28 @@
+id: francis-jackson-undated
+performers:
+- name: Francis Jackson
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '577', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/56e314b2-8192-460c-871e-ee8a4093c6a6
+  title: The Organ at Castle Howard
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4cc1cb70-a4ea-4366-98d8-c5d7ce160797
+  recordings: [3601114e-d10c-424e-b5df-99c2f7c95519]

@@ -1,0 +1,29 @@
+id: queenz-of-piano-undated
+performers:
+- name: Queenz of Piano
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e17ad590-3b99-4a0f-9217-cc018e9e92c7
+  title: Thunderstruck / Toccata in D Minor
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2639ac66-b49a-45c6-bb08-c1ac811dbe3f
+  recordings: [9a8236ba-b455-4bb2-90e9-7a67e948f920]

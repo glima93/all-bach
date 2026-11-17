@@ -1,0 +1,28 @@
+id: susanne-kujala-undated-3
+performers:
+- name: Susanne Kujala
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '564', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fdd19140-55af-4a4e-8462-c1951ccc17e9
+  title: Bach on Porthan Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e211c2d2-b939-42c1-b05d-ef1ad4ad23da
+  recordings: [5a9de0d2-85db-49ee-989e-910da9edf347]

@@ -1,0 +1,28 @@
+id: michael-dudman-undated
+performers:
+- name: Michael Dudman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Christ Church Cathedral
+released: 2005
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '582', complete: false, movements: [II. Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d7599b25-3e4b-4d0b-ad47-55de1e87dd2d
+  title: Michael Dudman Plays works by Bach, Wills, Vierne and others
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c1315303-6f80-47f4-be82-cc8eb3ec349b
+  recordings: [079b10c0-dbd1-4116-b7d0-f538faf79ea3]

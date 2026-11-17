@@ -1,0 +1,27 @@
+id: karen-crosby-undated
+performers:
+- name: Karen Crosby
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St. Peter's Episcopal Church
+released: 2005
+original_label: null
+works:
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c8d007f8-591c-401a-84b9-fce92d7e8eac
+  title: The Great and Historic Pipe Organs of Cape Cod
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ca348c3-7888-4087-8b78-798f0df6699d
+  recordings: [9d536d41-9bd1-4029-8256-69313c9ecd5f]

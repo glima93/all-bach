@@ -1,0 +1,29 @@
+id: charl-du-plessis-trio-undated
+performers:
+- name: Charl du Plessis Trio
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [II. Fuge]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d714d71a-bcb1-49a1-bcd2-a408128a253f
+  title: 香港高級視聽展：原音精選2022
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With double bass.
+musicbrainz:
+  artist: adce22e6-d358-4088-b3f0-0347abe438c4
+  recordings: [b7d36a9a-12f6-48f8-8d1d-367df1ad22e4]

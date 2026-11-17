@@ -1,0 +1,27 @@
+id: konstantin-reymaier-undated
+performers:
+- name: Konstantin Reymaier
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St. Stephen's Cathedral
+released: 2020
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d6c0a6f8-6a9e-4033-a77c-88348240753f
+  title: The New Organ at St. Stephen’s Cathedral, Vienna
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 786a6fbf-3bf2-4b81-aa9c-8292c2ea2322
+  recordings: [03a674d9-05d6-4b61-92d9-4c6931b9f60e]

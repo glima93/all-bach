@@ -1,0 +1,26 @@
+id: jorg-strodthoff-2012
+performers:
+- name: Jörg Strodthoff
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: Ev. Auenkirche Berlin-Wilmersdorf
+released: 2013
+original_label: null
+works:
+- {bwv: '568', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/414f4372-b643-42a7-abb3-badfc90d55d7
+  title: Morgenlicht - Kirchenlieder & Choräle
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f7741464-838b-4eea-ad89-fabed18ba78f
+  recordings: [331a348e-2988-4448-967a-36ee8f8ab6ba]

@@ -1,0 +1,28 @@
+id: dieter-van-handenhoven-undated
+performers:
+- name: Dieter Van Handenhoven
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/439e81f2-8025-4ae0-8032-e189ab84878c
+  title: waas.org
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6e8ddc6a-1991-4295-8e9e-11bbdcb6759e
+  recordings: [c85f8fc7-58c3-4e9c-824c-b4f92dcc9a5a]

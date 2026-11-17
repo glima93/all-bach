@@ -1,0 +1,28 @@
+id: thomas-friese-undated
+performers:
+- name: Thomas Friese
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9025ffc5-c6b1-4cdc-bfe5-cd007efe0507
+  title: Die schlafende Königin
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1bceafd9-b5e0-45eb-8b6b-29e31eecb265
+  recordings: [b8164f51-7219-4214-a9e1-6502fd9b67d6]

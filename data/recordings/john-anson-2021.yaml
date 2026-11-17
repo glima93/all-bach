@@ -1,0 +1,27 @@
+id: john-anson-2021
+performers:
+- name: John Anson
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '570', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7de60b2e-d060-4c09-8725-f05886727763
+  title: All Saints Choral Evensong 2021
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 29feeffc-cc18-475b-a09b-612a06757141
+  recordings: [a8c1dc95-8181-49cb-8a52-871198e43599]

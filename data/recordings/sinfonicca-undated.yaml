@@ -1,0 +1,29 @@
+id: sinfonicca-undated
+performers:
+- name: Sinfönicca
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6cab679e-0fb1-456e-9516-31c813772e9c
+  title: Hall of the Mountain King
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e3fcb971-9ca7-4050-a0c1-de161f1caadc
+  recordings: [f6431c00-706d-45da-8f3f-541a02396fea]

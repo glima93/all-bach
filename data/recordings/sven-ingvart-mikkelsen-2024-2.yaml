@@ -1,0 +1,26 @@
+id: sven-ingvart-mikkelsen-2024-2
+performers:
+- name: Sven-Ingvart Mikkelsen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2024]
+  place: Det Kongelige Danske Musikkonservatorium
+released: 2024
+original_label: null
+works:
+- {bwv: '572', complete: false, movements: [I. Trés vitement]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4195ac11-f72d-4615-9050-264b797fbbfa
+  title: Stairway To Bach (Rock Classics with a hint of Bach)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d5f427eb-4009-4ba5-b412-ad165fa1aeb3
+  recordings: [b0254037-c972-49b3-8916-b410c1943aa7]

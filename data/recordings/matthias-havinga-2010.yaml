@@ -1,0 +1,26 @@
+id: matthias-havinga-2010
+performers:
+- name: Matthias Havinga
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: Kotkan kirkko
+released: 2012
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/89673b49-da04-48f8-af8d-41b7ce6b0640
+  title: Passacaglia
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2b9504a9-76bf-4274-8c24-88c7246b768b
+  recordings: [8cc16d03-7d9a-4642-b0f8-bb82ddc7670e]

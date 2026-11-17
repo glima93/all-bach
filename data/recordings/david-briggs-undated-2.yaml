@@ -1,0 +1,30 @@
+id: david-briggs-undated-2
+performers:
+- name: David Briggs
+  role: organ
+- name: Wayne Marshall
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ada51cfb-ace1-4601-af80-5ec647edfd68
+  title: two of a kind
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49b65db4-fe20-4a97-9073-55d33e65ac98
+  recordings: [ea281071-2b31-4dc2-bd0a-1f02f36ca9fa]

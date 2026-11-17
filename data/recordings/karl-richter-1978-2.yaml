@@ -1,0 +1,28 @@
+id: karl-richter-1978-2
+performers:
+- name: Karl Richter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978, 1979]
+  place: Freiberger Dom St. Marien
+released: 1989
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f85ad3ce-e35d-442c-81d7-faef85508e63
+  title: Dorische Toccata & Fuge Passacaglia
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e01ebec7-98c5-450a-bf67-5650f8b4eff0
+  recordings: [5518585c-d8ab-4ac3-bb87-64fd1320a1a1]

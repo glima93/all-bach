@@ -1,0 +1,29 @@
+id: douglas-major-undated-2
+performers:
+- name: Douglas Major
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Washington Cathedral
+released: 1993
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '582', complete: true}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3ec464ad-b653-47cc-80db-2a874b27285a
+  title: The Great Organ of Washington National Cathedral
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0a78fbd-b65f-4109-afa5-c4c8b0bd74e9
+  recordings: [ad05e814-3269-4e2a-8f0f-603b3369adb3]

@@ -1,0 +1,31 @@
+id: e-power-biggs-1960
+performers:
+- name: E. Power Biggs
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960, 1961, 1964]
+  place: Busch–Reisinger Museum
+released: 1973
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '577', complete: true}
+- {bwv: '578', complete: true}
+- {bwv: '582', complete: true}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8888989c-8abe-44c1-95e5-fa66113acd4e
+  title: Great Organ Favorites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8be84470-71d4-42e7-8283-6d568b64abc7
+  recordings: [1fbc096d-4438-4633-b7b6-599b982261d2]

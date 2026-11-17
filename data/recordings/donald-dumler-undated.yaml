@@ -1,0 +1,27 @@
+id: donald-dumler-undated
+performers:
+- name: Donald Dumler
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Saint Patrick's Cathedral
+released: 1996
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c6e51573-a2c5-4541-b2cc-3bdaaa43acfb
+  title: The Great Organ of Saint Patrick's Cathedral, New York City
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b81969f4-8f06-42bc-b31a-ad16b8a82610
+  recordings: [bb33d541-f37e-45bf-af31-42e1325d24fb]

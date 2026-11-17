@@ -1,0 +1,31 @@
+id: fernando-germani-undated-2
+performers:
+- name: Fernando Germani
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '561', complete: true}
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2942202-be2f-4d6a-932d-7edc40e3a069
+  title: Organ Recital
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dd5f8608-7ca2-4f9c-9ce8-d679fd3f829a
+  recordings: [43a39c64-2e39-472a-b221-58d695f8b1ee]

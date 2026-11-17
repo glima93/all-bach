@@ -1,0 +1,26 @@
+id: hannes-kastner-1960
+performers:
+- name: Hannes Kästner
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: St. Georgenkirche
+released: 1989
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f4c01a7-3e9e-44ee-a232-016d67c0e389
+  title: Bach auf Silbermannorgeln, Vol III
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c7566c3c-6a47-43d1-95c6-55cb9edea379
+  recordings: [7822ee1c-02c2-4e8e-a5fd-6470e01bd893]

@@ -1,0 +1,29 @@
+id: artist-2f48859c-undated
+performers:
+- name: Сергей Дижур
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/84e9c5b8-2560-4919-be65-0340f342fac2
+  title: The Greatest Hits
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2f48859c-7491-4c28-8298-4284be931e43
+  recordings: [6b0ab159-7eed-4f54-a4c4-1ccef26c1c5a]

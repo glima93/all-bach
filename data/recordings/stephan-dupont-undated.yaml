@@ -1,0 +1,29 @@
+id: stephan-dupont-undated
+performers:
+- name: Stéphan Dupont
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0ae7169c-07c8-4f6f-948d-8b307afb6331
+  title: Petite fugue en sol mineur, Grande toccata et fugue en ré mineur / Grande toccata et fugue en ré mineur
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a1d380f1-7181-4d46-ad06-735121b3ed95
+  recordings: [3122726b-5464-4331-98e4-6903dad22962]

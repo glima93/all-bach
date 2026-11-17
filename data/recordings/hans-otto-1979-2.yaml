@@ -1,0 +1,28 @@
+id: hans-otto-1979-2
+performers:
+- name: Hans Otto
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979]
+  place: Freiberger Dom St. Marien
+released: 2005
+original_label: null
+works:
+- {bwv: '570', complete: true}
+- {bwv: '583', complete: true}
+- {bwv: '585', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/900f34d4-4ab3-49fd-ae74-cca35ad9a95f
+  title: Simply Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 74fe52bd-2c4a-4e25-99d8-ec64b1178c04
+  recordings: [c04ca3bc-fb97-4806-b0b6-9343e2c67c8e]

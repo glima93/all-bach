@@ -1,0 +1,27 @@
+id: vladimir-horowitz-1965
+performers:
+- name: Vladimir Horowitz
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: [1965]
+  place: Carnegie Hall
+released: 2013
+original_label: null
+works:
+- {bwv: '564', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9bba1b0d-7c02-4094-98c2-6e11428f4dfc
+  title: Live at Carnegie Hall
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 81269a28-c616-4e87-8942-a6f8e59b68e4
+  recordings: [14c97518-0ff6-4e60-96b8-649e55eb6293]

@@ -1,0 +1,30 @@
+id: il-novecento-undated
+performers:
+- name: Il Novecento
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '566', complete: false, movements: [II. Fuga]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b527b036-45c4-4ffd-97ac-2cb6dcc1078d
+  title: Night of the Proms 2004
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 4548ed77-fc4c-457e-aefd-1dd2aa8b20c0
+  recordings: [7b33b787-21ba-466e-8589-943514a00aaa]

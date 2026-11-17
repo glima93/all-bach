@@ -1,0 +1,29 @@
+id: university-of-florida-clarinet-ensemble-undated
+performers:
+- name: University of Florida Clarinet Ensemble
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9b02a54d-f49d-4d30-baec-f195e9fd4cb5
+  title: Wind in the Reeds
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cee039be-9591-4678-a9b3-1a885fdd583d
+  recordings: [24f36fcf-6045-4f69-af8e-01239d2b4c57]

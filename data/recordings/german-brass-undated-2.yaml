@@ -1,0 +1,29 @@
+id: german-brass-undated-2
+performers:
+- name: German Brass
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf4c507e-0b85-4b44-b926-99b828a51916
+  title: 'Essentials: Best of German Brass'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6e0558a0-c9cc-4dd6-9cfa-f32b24d35f9c
+  recordings: [885a42c5-6395-4266-804a-9cd532b86e8f]

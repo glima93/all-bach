@@ -1,0 +1,29 @@
+id: almasy-laszlo-attila-undated
+performers:
+- name: Almásy László Attila
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/65a94f65-ea87-4e8b-b780-0bf823a1f2dd
+  title: Évszázadok orgonamuzsikája
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fcc65988-5d2d-4a3f-9d0d-b489013ac091
+  recordings: [f3bdea1b-3da8-40d1-b8e8-f10b5b30514b]

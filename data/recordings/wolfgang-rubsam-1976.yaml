@@ -1,0 +1,32 @@
+id: wolfgang-rubsam-1976
+performers:
+- name: Wolfgang Rübsam
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976, 1977]
+  place: Stadtkirche St. Nikolaus
+released: 1988
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '579', complete: true}
+- {bwv: '582', complete: true}
+- {bwv: '589', complete: true}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15f1eef5-0b95-429b-889d-d28668c8e492
+  title: Das Orgelwerk
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [6dec01f1-5500-40ef-acbd-afa66ea5f7d3]

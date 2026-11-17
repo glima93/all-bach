@@ -1,0 +1,28 @@
+id: miklos-teleki-undated
+performers:
+- name: Miklós Teleki
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '590', complete: false, movements: [III. (Adagio)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6d916c68-68e1-4a1f-93b3-a9e594ae8ab1
+  title: The Favourite
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e340760-4529-4b2b-aab0-8710a98de2df
+  recordings: [23b5263d-1bd6-4b07-b254-c50d7d52e599]

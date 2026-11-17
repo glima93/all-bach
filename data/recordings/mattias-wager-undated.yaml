@@ -1,0 +1,28 @@
+id: mattias-wager-undated
+performers:
+- name: Mattias Wager
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5767b43d-a67f-4951-a957-ed6ecec9b2ae
+  title: The Best of... Audiophile Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 784a7001-53b3-48bd-91da-a88e75aa562e
+  recordings: [444bd1c6-903b-4aa7-97f5-f3f5cfcf0cea]

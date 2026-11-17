@@ -1,0 +1,29 @@
+id: marauders-undated
+performers:
+- name: Marauders
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [II. Fuge]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fac90645-2cf1-47f9-9c5e-354edf1de874
+  title: 1988 DCI World Championships
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 03936222-6d06-4337-b50d-802ef4f247b5
+  recordings: [83f09347-5a62-40d1-81f2-01936c1d29b6]

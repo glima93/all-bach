@@ -1,0 +1,30 @@
+id: gabor-lehotka-undated-2
+performers:
+- name: Gábor Lehotka
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '561', complete: true}
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/023108bd-d292-42a4-a201-50b3bde00df5
+  title: 'Great Organ Works: Toccata & Fugue / Preludes and Fugues / Organ Chorales'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9d33a345-06da-45fb-9cbf-3bb0412562e7
+  recordings: [62dc772c-ecbf-47c4-a4fc-dbede31ff1ca]

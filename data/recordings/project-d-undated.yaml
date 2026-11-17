@@ -1,0 +1,29 @@
+id: project-d-undated
+performers:
+- name: Project D
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c36d063c-177c-44c6-9204-f119113f1afe
+  title: Synthesizer - the ultimate sound experience
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ba60246-6e40-4b70-aabc-73f331ba97df
+  recordings: [77e53c82-7957-4f0d-8191-5f778409bc10]

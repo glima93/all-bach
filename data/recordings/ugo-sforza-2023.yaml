@@ -1,0 +1,26 @@
+id: ugo-sforza-2023
+performers:
+- name: Ugo Sforza
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2023]
+  place: Abbazia di Vallombrosa
+released: null
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/249002ea-1680-4aa9-94f7-ccae73c1f69f
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b7b0a865-ce27-4be1-836e-493eb407bd23
+  recordings: [249002ea-1680-4aa9-94f7-ccae73c1f69f]

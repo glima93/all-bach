@@ -1,0 +1,28 @@
+id: matthias-eisenberg-undated-2
+performers:
+- name: Matthias Eisenberg
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '590', complete: false, movements: [II. (a tempo giusto), III. (Adagio)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/385b2495-53a5-489f-93e8-55bc89bfd37b
+  title: Klingendes Porzellan
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 903b235a-9118-4dae-82d2-dcaf721f4314
+  recordings: [5f8589a1-f767-4de4-9b09-497e9c4fc55c]

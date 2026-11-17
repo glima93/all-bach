@@ -1,0 +1,27 @@
+id: carol-williams-undated
+performers:
+- name: Carol Williams
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Winchester Cathedral
+released: 1994
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/40d4ac1a-fc89-49d9-b7a6-abf2e7736995
+  title: 'Classic Power: Popular Organ Music From Winchester Cathedral'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a528132b-958d-4527-9960-deebdd62bf29
+  recordings: [9f60c23c-8088-4d48-9799-bde5e8050809]

@@ -1,0 +1,30 @@
+id: james-welch-undated
+performers:
+- name: James Welch
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '578', complete: true}
+- {bwv: '580', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/796708a3-ee72-468e-abdb-ab796571eeba
+  title: Magnum Opus, Volume 1
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c48241b8-a48f-4e55-901c-60156e720c01
+  recordings: [8fb1cbcb-b916-4151-bb34-724bc7f29dc0]

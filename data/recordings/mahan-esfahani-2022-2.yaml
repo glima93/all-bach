@@ -1,0 +1,29 @@
+id: mahan-esfahani-2022-2
+performers:
+- name: Mahan Esfahani
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2022]
+  place: St. John’s Church
+released: 2023
+original_label: null
+works:
+- {bwv: '818', complete: true}
+- {bwv: '819', complete: true}
+- {bwv: '822', complete: false, movements: [I. Ouverture, II. Aria, III. Gavotte en Rondeau, IV. Bourrée, V. Menuet
+      I, VI. Menuet II, VIII. Gigue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a763965c-0be9-429a-9f39-3674b6c0a226
+  title: The French Suites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a2704dbd-4e05-4b89-917c-85c578fc1488
+  recordings: [a5e37427-ee20-4ee7-8b61-05105b3bd66b]

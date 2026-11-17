@@ -1,0 +1,29 @@
+id: daniel-chorzempa-1982
+performers:
+- name: Daniel Chorzempa
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1982, 1983, 1985]
+  place: Bovenkerk
+released: 1982
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '566', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '579', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a885c2d5-5a49-4ffb-a64e-d7c08f442df9
+  title: Toccata & Fugue In D Minor / Prelude & Fugue In E Flat / Prelude, Largo & Fugue in C
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 40a960d0-5074-4954-bd19-00bb0b73a9ec
+  recordings: [ffad11dc-2b8b-4cc9-92e1-1704c07d39c1]

@@ -1,0 +1,27 @@
+id: marie-claire-alain-1994
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8957cd1b-e87f-407d-811c-0a65c2f1393c
+  title: Klara Top 100
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [3643c4e9-460a-49ac-9fce-2bca23350aa4]

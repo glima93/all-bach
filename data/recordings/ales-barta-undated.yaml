@@ -1,0 +1,29 @@
+id: ales-barta-undated
+performers:
+- name: Aleš Bárta
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/22abd473-12b1-420f-a66b-54bff5a5216f
+  title: 'Accuphase: Special Sound Selection 2 (for Superior Equipment)'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bffe18c6-e8e1-41d7-ba0d-7926ba8ea080
+  recordings: [b5906cfd-9bcf-4e11-a8f7-46b4da55c8a4]

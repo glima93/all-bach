@@ -1,0 +1,30 @@
+id: ramin-bahrami-undated-6
+performers:
+- name: Ramin Bahrami
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: Potton Hall
+released: 2018
+original_label: null
+works:
+- {bwv: '820', complete: true}
+- {bwv: '823', complete: true}
+- {bwv: '832', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62dbb816-f984-4cb3-bd32-881ad08fa59a
+  recordings: [d74d8c0c-cd30-4b07-b01e-349af304746e]

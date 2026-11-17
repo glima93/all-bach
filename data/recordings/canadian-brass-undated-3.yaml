@@ -1,0 +1,30 @@
+id: canadian-brass-undated-3
+performers:
+- name: Canadian Brass
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '564', complete: false, movements: [II. Adagio]}
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c94c1da8-fca8-4d3c-9282-dad922e6764c
+  title: Amazing Brass
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17e574e0-402a-4fe0-b513-4184c23f8873
+  recordings: [975baaaa-d368-4ea1-8705-a03a3579680e]

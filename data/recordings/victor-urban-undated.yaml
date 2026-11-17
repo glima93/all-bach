@@ -1,0 +1,27 @@
+id: victor-urban-undated
+performers:
+- name: Víctor Urbán
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Auditorio Nacional
+released: 2003
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c9b4c993-6ae9-4fe6-9b66-410428f6b6f0
+  title: OMAN - Órgano Monumental del Auditorio Nacional
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f84c1e96-e2e2-4741-99f3-c8f00dabc08f
+  recordings: [58022f9d-c5ad-4d06-b9cc-853ef7e8fa99]

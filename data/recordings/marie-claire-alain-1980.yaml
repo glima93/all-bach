@@ -1,0 +1,26 @@
+id: marie-claire-alain-1980
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980]
+  place: Cathédrale Sainte-Croix d'Orléans
+released: 1994
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f4eb8f2a-c49b-4783-81c7-e5914f04b275
+  title: Les Grandes Toccatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [22235175-0d86-4b90-bca0-0b3c30f38376]

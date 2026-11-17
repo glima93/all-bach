@@ -1,0 +1,29 @@
+id: blitzkrieg-undated
+performers:
+- name: Blitzkrieg
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/066fc5f3-4e1f-4cca-b982-13d9c180f8ee
+  title: 'A Time of Changes: Phase 1'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1e81aaaa-7775-400e-8bc5-026671cb8681
+  recordings: [c0d98c60-4862-4122-b2fc-8d704e388c2b]

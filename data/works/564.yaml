@@ -1,0 +1,16 @@
+bwv: "564"
+title: "Toccata, Adagio and Fugue in C major"
+key: "C major"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: "probably Weimar, c. 1710–1717"
+movements:
+  - "I. Toccata"
+  - "II. Adagio"
+  - "III. Fugue"
+notes: null
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Toccata,_Adagio_and_Fugue_in_C_major,_BWV_564"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f8d2e6ed-38f6-4eb4-85d8-290aedaf11dd

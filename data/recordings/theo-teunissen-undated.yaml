@@ -1,0 +1,27 @@
+id: theo-teunissen-undated
+performers:
+- name: Theo Teunissen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Jakobikerk
+released: 1999
+original_label: null
+works:
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d4e67be-5771-400a-84e7-b64b574b0451
+  title: Het Historische Orgel in Nederland
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad95462a-7e2d-4105-831f-57a0bb7436ed
+  recordings: [6ceb29f5-02d5-45b9-869d-8054a0316b95]

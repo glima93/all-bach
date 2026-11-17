@@ -1,0 +1,27 @@
+id: david-hill-undated-2
+performers:
+- name: David Hill
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Westminster Cathedral
+released: 1986
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/81be6bb1-fca4-4b43-b48b-9401f6f8acbb
+  title: Organ Spectacular
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 71f104fa-6de1-4bf6-8c2c-19f076522840
+  recordings: [a3e8eb01-270a-4345-9dc6-9f88fc8a1bb1]

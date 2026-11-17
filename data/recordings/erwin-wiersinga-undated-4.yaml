@@ -1,0 +1,27 @@
+id: erwin-wiersinga-undated-4
+performers:
+- name: Erwin Wiersinga
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Stiftskirche St. Georg
+released: null
+original_label: null
+works:
+- {bwv: '575', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/ac6a43dd-4eab-45bd-94b5-948e978b0ec8
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e4621c97-e70d-441c-9365-6619365bab5c
+  recordings: [ac6a43dd-4eab-45bd-94b5-948e978b0ec8]

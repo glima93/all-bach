@@ -1,0 +1,28 @@
+id: sir-andrew-davis-undated
+performers:
+- name: Sir Andrew Davis
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1983
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a4abdf04-c4fa-4fc8-878f-0daeb9fe2aac
+  title: Andrew Davis plays the organ at Roy Thomson Hall
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2630df0b-56ab-445c-a25f-dbaae15458f3
+  recordings: [1fe2a6d4-9977-4960-b593-643067ad6bae]

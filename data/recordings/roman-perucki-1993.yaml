@@ -1,0 +1,27 @@
+id: roman-perucki-1993
+performers:
+- name: Roman Perucki
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c125b7df-4f2c-4ac8-a252-995c15cf00c1
+  title: Organy Katedry w Oliwie
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0d6d06c6-6b0e-4111-abec-17bef8edeed8
+  recordings: [4692b35c-2848-4a82-9a7e-8474c57d3fd7]

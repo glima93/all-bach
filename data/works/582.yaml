@@ -1,0 +1,15 @@
+bwv: "582"
+title: "Passacaglia and Fugue in C minor"
+key: "C minor"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: "probably Arnstadt or Weimar, c. 1706–1713"
+movements:
+  - "I. Passacaglia"
+  - "II. Fugue"
+notes: "The first half of the ostinato theme, which also serves as the fugue subject, is probably taken from a trio by André Raison. The autograph is lost."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Passacaglia_and_Fugue_in_C_minor"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f8a50fdd-6da0-398f-9f88-206c84a73bbd

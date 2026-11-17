@@ -1,0 +1,27 @@
+id: timothy-smith-undated
+performers:
+- name: Timothy Smith
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Riverside Church
+released: 2001
+original_label: null
+works:
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f71944fb-3208-4c0e-9594-d9a0a20550ab
+  title: Virgil Fox Memorial Concert
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 14c9f24b-6869-4259-a6c9-12e3e44323a6
+  recordings: [33d92af5-ffbd-4766-ada1-5d07392a96f3]

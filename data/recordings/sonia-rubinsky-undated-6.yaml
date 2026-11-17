@@ -1,0 +1,28 @@
+id: sonia-rubinsky-undated-6
+performers:
+- name: Sonia Rubinsky
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '823', complete: false, movements: [II. Sarabande en rondeau]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/73891bea-9932-4e05-ae1b-969ed88addea
+  title: Magna Sequentia II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b848405a-26e7-4d25-b532-5c09d1ad7d58
+  recordings: [1ca93521-f80a-4cd7-a09d-5d45f076bd7d]

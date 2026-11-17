@@ -1,0 +1,38 @@
+id: werner-jacob-undated-2
+performers:
+- name: Werner Jacob
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '568', complete: true}
+- {bwv: '569', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '578', complete: true}
+- {bwv: '579', complete: true}
+- {bwv: '582', complete: true}
+- {bwv: '586', complete: true}
+- {bwv: '588', complete: true}
+- {bwv: '589', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/da441518-36c2-455c-b398-c241272a33e7
+  title: The Organ Works = Das Orgelwerk = L’Œuvre Intégrale Pour Orgue
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eccbbaac-b8cf-4023-b633-6a9343991b00
+  recordings: [476642a9-24ea-49ba-9b23-cbf3c42ae125]

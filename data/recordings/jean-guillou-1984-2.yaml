@@ -1,0 +1,29 @@
+id: jean-guillou-1984-2
+performers:
+- name: Jean Guillou
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984, 1987]
+  place: Grote Kerk - Breda
+released: 1990
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '566', complete: true}
+- {bwv: '579', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c6c2c2d5-740b-4e6c-997c-6f7f884dd765
+  title: Grandes Toccatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65542956-ed7d-4ef3-b653-4a729c94ad8d
+  recordings: [4be63b5b-b61e-4916-a95f-c4e16c64d063]

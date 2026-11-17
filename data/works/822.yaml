@@ -1,0 +1,21 @@
+bwv: "822"
+title: "Suite in G minor"
+key: "G minor"
+collection: "Other suites and pieces for keyboard"
+genre: keyboard
+scoring: "keyboard (harpsichord)"
+composed: null
+movements:
+  - "I. Ouverture"
+  - "II. Aria"
+  - "III. Gavotte en Rondeau"
+  - "IV. Bourrée"
+  - "V. Menuet I"
+  - "VI. Menuet II"
+  - "VII. Menuet III"
+  - "VIII. Gigue"
+notes: "An overture-suite of uncertain authenticity, probably a keyboard arrangement of an orchestral work by an unknown composer."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_keyboard_and_lute_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/59d5880c-c450-4c39-bfbd-5a770f8a24b2

@@ -1,0 +1,29 @@
+id: andrzej-biako-undated
+performers:
+- name: Andrzej Białko
+  role: organ
+- name: Michał Białko
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Kościół św. Katarzyny w Wolbromiu
+released: null
+original_label: null
+works:
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fb189730-4111-4d7e-bc1d-bd24a97b6ee0
+  title: Organ Recital
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 157008fa-1304-4893-a9c2-9e98dfde27f3
+  recordings: [875a4b8f-78b5-4a17-bb70-bf72673d3630]

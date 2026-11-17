@@ -1,0 +1,34 @@
+id: simon-preston-undated
+performers:
+- name: Simon Preston
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St John’s, Smith Square
+released: 1996
+original_label: null
+works:
+- {bwv: '561', complete: true}
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: false, movements: [I. Toccata]}
+- {bwv: '568', complete: true}
+- {bwv: '577', complete: true}
+- {bwv: '578', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32c98fc8-e7de-4c43-af5b-2f0a7a0dd4c7
+  recordings: [2d409b29-9052-4418-972d-e9dc603b4f82]

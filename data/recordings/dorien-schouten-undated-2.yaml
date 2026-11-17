@@ -1,0 +1,29 @@
+id: dorien-schouten-undated-2
+performers:
+- name: Dorien Schouten
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Bovenkerk
+released: null
+original_label: null
+works:
+- {bwv: '583', complete: true}
+- {bwv: '588', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/02a63aa0-5d1d-497e-8bca-9497819f4671
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f7d1dbf5-7005-408f-8bdf-e22340ffd6df
+  recordings: [02a63aa0-5d1d-497e-8bca-9497819f4671]

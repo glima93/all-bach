@@ -1,0 +1,26 @@
+id: michael-schonheit-1989
+performers:
+- name: Michael Schönheit
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989, 1990]
+  place: Gewandhaus
+released: 1990
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d8d82174-2a8d-4031-9235-4f88563988bd
+  title: Die Orgel des Gewandhauses zu Leipzig
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 371dcdca-ff26-42f2-9695-9b018bc8562c
+  recordings: [6845c29e-9cc6-4d64-8156-243cbc8d9077]

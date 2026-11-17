@@ -1,0 +1,26 @@
+id: herrick-bunney-1965
+performers:
+- name: Herrick Bunney
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1965]
+  place: St Giles' Cathedral
+released: 2011
+original_label: null
+works:
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2c44dd7f-f1bb-45e0-9065-ad61ddd4afd8
+  title: Great Cathedral Organs
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9b40c0b8-d88c-4a01-84a3-d516433e052c
+  recordings: [d2d02bd0-0ab6-4869-87a7-8ecc8fcd8791]

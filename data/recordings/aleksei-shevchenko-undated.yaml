@@ -1,0 +1,27 @@
+id: aleksei-shevchenko-undated
+performers:
+- name: Aleksei Shevchenko
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: 'Moscow Conservatory: The Small Hall'
+released: 2023
+original_label: null
+works:
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a0b4f3d-cafa-4905-a909-dbc3521cc94c
+  title: Interreflections
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6d39b1b9-5513-4475-8584-525e14531ddc
+  recordings: [f9051589-7512-4407-9aab-8585d066a7d4]

@@ -1,0 +1,27 @@
+id: gustav-leonhardt-1972-2
+performers:
+- name: Gustav Leonhardt
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972, 1973]
+  place: Waalse Kerk
+released: 1997
+original_label: null
+works:
+- {bwv: '562', complete: false, movements: [I. Fantasie]}
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e4fe3a5f-338e-42d5-bf3f-cba61bc51fac
+  title: Great Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [533f9ba3-fb72-492e-99b2-ff8128c7c073]

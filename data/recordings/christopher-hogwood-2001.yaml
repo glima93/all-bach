@@ -1,0 +1,27 @@
+id: christopher-hogwood-2001
+performers:
+- name: Christopher Hogwood
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '836', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a5aa040-bed8-4954-b258-4d5e0a0bb49c
+  title: 'The Secret Bach: Works for Clavichord'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 00db6f13-4ec4-4ff9-ab10-07340b511e97
+  recordings: [8303bcc1-57fd-4a04-aa86-e122514efdde]

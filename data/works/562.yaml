@@ -1,0 +1,15 @@
+bwv: "562"
+title: "Fantasia and Fugue in C minor"
+key: "C minor"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: "fantasia probably Weimar; fugue Leipzig, c. 1745"
+movements:
+  - "I. Fantasie"
+  - "II. Fuge"
+notes: "The fugue survives only as an unfinished fragment in Bach's autograph, breaking off after 27 bars."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Fantasia_and_Fugue_in_C_minor,_BWV_562"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/ad2a3e74-9183-4eac-824d-71652c872941

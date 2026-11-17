@@ -1,0 +1,28 @@
+id: balys-vaitkus-undated
+performers:
+- name: Balys Vaitkus
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2ddfa6d-2a5c-476e-8624-4196607c3037
+  title: 'Drei berühmte Orgeln: Tallinn / Riga / Vilnius'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f6b3fef-f813-4525-a9ea-84a2d51e0918
+  recordings: [e7a0fb0c-90e4-4355-9130-1ede4c6e61c4]

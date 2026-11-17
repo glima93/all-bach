@@ -1,0 +1,29 @@
+id: the-world-symphony-orchestra-undated
+performers:
+- name: The World Symphony Orchestra
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1971
+original_label: null
+works:
+- {bwv: '578', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/00501cd7-515e-4912-8a19-9659af3b479c
+  title: World Symphony Orchestra
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df098e0f-db4b-4d87-ba1a-33bdfd58aab3
+  recordings: [481cbdc0-deba-4fb7-ab1e-d6aa8cfabe44]

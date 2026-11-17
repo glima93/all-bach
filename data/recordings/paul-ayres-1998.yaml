@@ -1,0 +1,26 @@
+id: paul-ayres-1998
+performers:
+- name: Paul Ayres
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: St Peter's Church
+released: 1998
+original_label: null
+works:
+- {bwv: '582', complete: false, movements: [I. Passacaglia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/22717710-fad3-4d49-9926-ce4a2631ccc7
+  title: Passacaglia
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 765cc15d-2f48-4f0c-99ed-787fce22f9cd
+  recordings: [a7995da9-7a62-47a0-aa2b-fe14be35d8a7]

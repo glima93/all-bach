@@ -1,0 +1,14 @@
+bwv: "570"
+title: "Fantasia in C major"
+key: "C major"
+collection: "Toccatas, Fantasias and other free works for organ"
+genre: organ
+scoring: "organ"
+composed: "early, before c. 1707"
+movements:
+  - "Fantasie C-Dur"
+notes: "An early manualiter piece, one of Bach's earliest surviving keyboard works."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/List_of_organ_compositions_by_Johann_Sebastian_Bach"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/0fb5991d-2724-30e6-8dee-4834ad070e5a

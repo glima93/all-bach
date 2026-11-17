@@ -1,0 +1,28 @@
+id: martin-souter-undated
+performers:
+- name: Martin Souter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dbce8a2d-f87f-4b93-ae02-220fc01eaa07
+  title: 'Solstice: Music of the Stones'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9796e8fd-9f4d-4ef1-ac06-30bd4a830bfe
+  recordings: [87d09cec-c80f-4d86-b19e-3af1a8cd2dd5]

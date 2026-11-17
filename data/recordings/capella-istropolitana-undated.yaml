@@ -1,0 +1,30 @@
+id: capella-istropolitana-undated
+performers:
+- name: Capella Istropolitana
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e15c1a53-c41a-4519-a0be-968ff845a18c
+  title: Clásicos de Siempre
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e7119b5-a3a0-4d78-b8c8-55778f8b618c
+  recordings: [7fdde1a2-9610-46f9-ba4d-c70ba5455bf0]

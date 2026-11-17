@@ -1,0 +1,28 @@
+id: harold-britton-undated
+performers:
+- name: Harold Britton
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d6b9391-0978-42c3-ad0e-9fa54dd5da84
+  title: Organ Showcase
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6b2ce6d0-e377-4fb1-bfeb-ac3fe5dc9003
+  recordings: [0cd972fa-1572-415e-9e98-b3df4eaf4c13]

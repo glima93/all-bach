@@ -1,0 +1,27 @@
+id: kolbein-haga-1997
+performers:
+- name: Kolbein Haga
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: Stadtkirche St. Petri
+released: 2000
+original_label: null
+works:
+- {bwv: '566', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd766f21-7fb9-4d6c-a0f2-f9e0ea886a5b
+  title: Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fbbeb41d-1691-4553-8ab8-9ef5d276d725
+  recordings: [140e69af-1608-4eec-9821-27fc2a86201e]

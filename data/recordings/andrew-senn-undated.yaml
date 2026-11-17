@@ -1,0 +1,29 @@
+id: andrew-senn-undated
+performers:
+- name: Andrew Senn
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a5a2d80-2af9-4d01-b592-f7f73a131633
+  title: Faszination Skinner-Orgel
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 395a7c2b-0e38-4604-b435-2264b3d8cf1f
+  recordings: [b80e921b-09ab-47b4-ac67-f23afc81f84c]

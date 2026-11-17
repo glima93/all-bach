@@ -1,0 +1,28 @@
+id: michael-austin-undated
+performers:
+- name: Michael Austin
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Birmingham Town Hall
+released: 1972
+original_label: null
+works:
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/08e77293-856d-4153-a19d-cb50cfbd9b60
+  title: Organ Classics
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dc963ba2-7bcd-494f-aa8a-bd1cfc5eb220
+  recordings: [ff821379-aff2-45e5-8d3f-17816410648c]

@@ -1,0 +1,53 @@
+id: peter-hurford-1974-4
+performers:
+- name: Peter Hurford
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974, 1979, 1980, 1986]
+  place: Church of Our Lady of Sorrows
+released: 1984
+original_label: null
+works:
+- {bwv: '561', complete: true}
+- {bwv: '562', complete: false, movements: [I. Fantasie]}
+- {bwv: '563', complete: true}
+- {bwv: '564', complete: true}
+- {bwv: '565', complete: true}
+- {bwv: '566', complete: true}
+- {bwv: '567', complete: true}
+- {bwv: '568', complete: true}
+- {bwv: '569', complete: true}
+- {bwv: '570', complete: true}
+- {bwv: '571', complete: true}
+- {bwv: '572', complete: true}
+- {bwv: '574', complete: true}
+- {bwv: '575', complete: true}
+- {bwv: '576', complete: true}
+- {bwv: '577', complete: true}
+- {bwv: '578', complete: true}
+- {bwv: '579', complete: true}
+- {bwv: '580', complete: true}
+- {bwv: '581', complete: true}
+- {bwv: '582', complete: true}
+- {bwv: '583', complete: true}
+- {bwv: '585', complete: true}
+- {bwv: '586', complete: true}
+- {bwv: '588', complete: true}
+- {bwv: '589', complete: true}
+- {bwv: '590', complete: true}
+- {bwv: '591', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d98b2479-0526-4e4b-8446-e5a91b885c4f
+  title: The Organ Works, Volume 1 (Peter Hurford)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7475712c-efb2-4498-99fc-163a33d7d975
+  recordings: [d0946ce3-c147-41fd-9c34-c908594627f4]

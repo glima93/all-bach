@@ -1,0 +1,28 @@
+id: marie-claire-alain-1970-2
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: Collégiale de Saint-Donat
+released: 1984
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '578', complete: true}
+- {bwv: '582', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a74cebb0-ab72-4ae3-a6f9-5bac020750b7
+  title: Toccata et Fugue / Passacaglia / Fugue / Concerto / Fantaisie & Fugue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [63d6ab65-7d28-497d-9818-8b4857be88c4]

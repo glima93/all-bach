@@ -1,0 +1,29 @@
+id: les-trilles-du-diable-2016
+performers:
+- name: Les Trilles du Diable
+  role: ensemble
+- name: Nemanja Radulović
+  role: violin
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2016]
+  place: Église Notre‐Dame du Liban
+released: 2016
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/282c5622-09e3-4cb8-a73b-bf79d973dcf1
+  title: Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 86a7aba4-a3ce-4a43-98b1-95cbb29a2644
+  recordings: [51691bdd-bdc2-4e85-b980-4562b0420b79]

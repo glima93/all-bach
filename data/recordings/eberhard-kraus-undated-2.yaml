@@ -1,0 +1,29 @@
+id: eberhard-kraus-undated-2
+performers:
+- name: Eberhard Kraus
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '565', complete: true}
+- {bwv: '590', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e52b9c8-e492-4f75-a300-fe921b738c6b
+  title: 50 Shades of Classical
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6df918ea-d407-432c-b91f-6a7fa46b79f4
+  recordings: [4d34c55e-1c13-41b0-8faa-7be4917b6de2]

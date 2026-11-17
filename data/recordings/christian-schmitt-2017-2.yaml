@@ -1,0 +1,26 @@
+id: christian-schmitt-2017-2
+performers:
+- name: Christian Schmitt
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Stadtkirche St. Petri
+released: 2018
+original_label: null
+works:
+- {bwv: '573', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b60e8cd7-4556-4c18-ab72-bbff405a2c51
+  title: BACH 333 Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2f3b6b70-db1f-4742-a9da-dc101870e043
+  recordings: [16ea9e22-4abe-472c-9614-6e95a17e96c6]

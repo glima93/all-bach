@@ -1,0 +1,27 @@
+id: marcel-dupre-1959-2
+performers:
+- name: Marcel Dupré
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959]
+  place: Église Saint-Sulpice de Paris
+released: 1960
+original_label: null
+works:
+- {bwv: '562', complete: false, movements: [I. Fantasie]}
+- {bwv: '572', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/89fd031f-0de8-477b-a6af-385ca2386e0e
+  title: 'Dupré at Saint-Sulpice, Vol. 4: Bach'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e7f566af-3a66-48e3-9825-07e72812e475
+  recordings: [525e7a22-3de4-4d4f-973e-c2d1100c1bc4]

@@ -1,0 +1,29 @@
+id: legend-undated
+performers:
+- name: Legend
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aeb44bdc-2d7b-46cd-a6c0-77dcd140d20c
+  title: Playing With Fire
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording. Played on drums (drum set), keyboard, bass.
+musicbrainz:
+  artist: df77d8f6-301d-4839-a37d-6768c517acf5
+  recordings: [f9188a25-cd2c-4690-9c78-14ab919487ef]

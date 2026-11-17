@@ -1,0 +1,28 @@
+id: helga-schauerte-maubouet-undated
+performers:
+- name: Helga Schauerte-Maubouet
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '565', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/11f907d1-911c-47be-9df5-f47a89057b6c
+  title: CD Test N° 3
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 47a918a5-0039-49d4-bd06-70520b637405
+  recordings: [9d1684c3-daae-446c-a119-86714b87ce4d]
