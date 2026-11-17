@@ -1,0 +1,92 @@
+{
+ "collection": "organ-concertos",
+ "taken": "2026-11-17",
+ "recordings": 235,
+ "performances": 78,
+ "works": [
+  {
+   "bwv": "593",
+   "id": "fef499c9-ea19-4163-a1f9-9db2fcc7f470",
+   "candidates": [
+    {
+     "id": "fef499c9-ea19-4163-a1f9-9db2fcc7f470",
+     "title": "Concerto a-Moll (nach A. Vivaldi, op. 3 Nr. 8), BWV 593"
+    },
+    {
+     "id": "42bf2238-a307-4ac7-b726-4b66eeafe9b2",
+     "title": "Concerto a-Moll (nach A. Vivaldi, op. 3 Nr. 8), BWV 593"
+    },
+    {
+     "id": "51ca59d6-cc39-4e20-bbc3-ff6cc3699fd9",
+     "title": "Concerto in a-Moll nach Antonio Vivaldi, op. 3 no. 8, BWV 593"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto a-Moll (nach A. Vivaldi, op. 3 Nr. 8), BWV 593",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "85c2185b-b25b-32fc-9e33-86da41e4b03c",
+     "title": "Concerto a-Moll (nach A. Vivaldi, op. 3 Nr. 8), BWV 593: I. (Allegro)"
+    },
+    {
+     "id": "4156ecc5-b886-359f-9b5b-1d30f1173823",
+     "title": "Concerto a-Moll (nach A. Vivaldi, op. 3 Nr. 8), BWV 593: II. Adagio senza pedale à due Clav."
+    },
+    {
+     "id": "59e366d1-8385-35d6-ac35-f7510ccd831f",
+     "title": "Concerto a-Moll (nach A. Vivaldi, op. 3 Nr. 8), BWV 593: III. Allegro"
+    }
+   ]
+  },
+  {
+   "bwv": "597",
+   "id": "700d19e9-3e30-3f8e-b2f1-71c37721066b",
+   "candidates": [
+    {
+     "id": "700d19e9-3e30-3f8e-b2f1-71c37721066b",
+     "title": "Concerto no. 6 in E-flat major, BWV 597"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Concerto no. 6 in E-flat major, BWV 597",
+   "key": "E-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "ef1ff5c9-03d5-41e9-865d-fcdb76a3dce0",
+     "title": "Concerto no. 6 in E-flat major, BWV 597: I. Allegro"
+    },
+    {
+     "id": "12bebe99-54e5-4174-a3d0-4e46fd332fec",
+     "title": "Concerto no. 6 in E-flat major, BWV 597: II. Gigue"
+    }
+   ]
+  },
+  {
+   "bwv": "598",
+   "id": "9f184323-25c4-3163-855f-464d3faf4c8b",
+   "candidates": [
+    {
+     "id": "9f184323-25c4-3163-855f-464d3faf4c8b",
+     "title": "Pedal-Exercitium, BWV 598"
+    },
+    {
+     "id": "cc12cb61-0862-4c9a-b493-28ba29b0068f",
+     "title": "Pedal-Exercitium, BWV 598"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Pedal-Exercitium, BWV 598",
+   "key": null,
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "9f184323-25c4-3163-855f-464d3faf4c8b",
+     "title": "Pedal-Exercitium, BWV 598"
+    }
+   ]
+  }
+ ]
+}
