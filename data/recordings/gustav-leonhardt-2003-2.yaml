@@ -4,8 +4,7 @@ performers:
   role: harpsichord
 instrument: harpsichord
 performance_practice: historical
-arrangement: true
-arranger: null
+arrangement: false
 recorded:
   years: [2003]
   place: Chapelle de l'hôpital Notre-Dame de Bon Secours

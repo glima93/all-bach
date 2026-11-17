@@ -4,8 +4,7 @@ performers:
   role: lautenwerck
 instrument: harpsichord
 performance_practice: historical
-arrangement: true
-arranger: null
+arrangement: false
 recorded:
   years: [1998]
   place: Kirche zu St. Fides und Markus

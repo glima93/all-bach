@@ -149,6 +149,8 @@ EXCLUDE_BY_SNAPSHOT["organ-preludes-fugues"] = {
     "235edb5e-bfce-4230-bec8-d4e855a1fe19": "Richter's Récital d'orgue (1964, Jaegersborg Kirke): the 1964 Jaegersborg recordings filed as karl-richter-1964 and karl-richter-1966-2 (BWV 548), reissued without a date",
 }
 EXCLUDE_BY_SNAPSHOT["organ-free-works"] = {
+    "18da0209-5e97-459b-a08f-ea6ed7232698": "Fagius's Complete Organ Music box (BIS, 1989; no artist credited on the row) reissues the volumes filed as hans-fagius-1985-2, hans-fagius-1988 and hans-fagius-undated-4",
+    "2ce37099-21f8-4c5e-80cd-bda91c785481": "the Hamburger Kammerorchester and Stehli are the compilation's credit on Geniusz Muzyki Organowej (they play its BWV 1041 and 1068); the organist of its BWV 565 is not named",
     "e229361a-1244-448e-9a11-16cadbea9ad9": "Yann Walcker's L'Alphabet des grands musiciens: a narrated children's book CD (Walcker is the author, Pierre Hatet the narrator); no identifiable performance of BWV 565",
     "fd2ccac3-0e46-434e-9448-cf5ff360d602": "Isoir's 'Les quatres toccatas et fugues' (first released 1986, so not recorded in 1993): the Calliope recordings filed as andre-isoir-1975-2",
     "07848141-b2ac-4b18-84bf-b669abe1ec81": "Wasilewski's track on Frederic 3 is the Air from BWV 1068, already filed as micha-wasilewski-undated; MusicBrainz also links it to the Toccata BWV 565",
@@ -159,11 +161,22 @@ EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "other-keyboard-suites": {
+    "79d41758-2e1d-4fc7-8288-95e3db3d443a": ("c1592a3a-9f38-4d15-9a64-eb463cc91bd4", "Justin Taylor's Bach 333 harpsichord recordings (b-sharp, 2018): the undated row on the complete edition holds the same sessions"),
+  },
   "organ-preludes-fugues": {
     "12b309d0-094a-4572-a99d-3d300463fc00": ("a557c02b-9279-4c29-93a9-7af4d2082c8e", "Christian Schmitt's BWV 542 at St. Cyriakus (2017) on the two Bach 333 boxes: one performance, the Fugue on one box only"),
     "965a147e-07b9-47ba-b7d0-887fb1c8c8a2": ("db57958c-9c45-4a7e-a8e3-a8bebafd63cb", "Münchinger's arrangement of the Fugue of BWV 542 with the Stuttgart Chamber Orchestra, reissued on Bach for Barbecue"),
   },
   "organ-free-works": {
+    "ff076c9e-8982-4423-8dd4-166fdc306052": ("fcb2cde7-d364-4302-9df5-f4511b4910a4", "Isoir's The Organ Works: The Virtuoso, Vol. 3 (La Dolce Volta, 2024) reissues the same three toccatas and fugues (564, 565, 583) as Les 4 Toccatas et Fugues (Aurich, 1975-76)"),
+    "430469ce-d337-4f94-bcc4-3143c99c36ec": ("9a6f444d-68a2-4c7f-9c09-7f9e2cd047e1", "Collum's Silbermann recordings at Reinhardtsgrimma: Orgelwerke auf Silbermann-Orgeln and Bach auf Silbermannorgeln Vol. II, both first released 1989, hold the same 1965 sessions"),
+    "6afe300f-8990-49da-84e1-1bf8a964bad8": ("656b6311-3a28-4f1d-93e5-beacd62293f2", "Vernet's Intégrale at Notre-Dame-Saint-Vincent: the undated row holds the other half of the same BWV 565 and two pieces of the same sessions (1995-97)"),
+    "11c80020-0c06-4910-940b-81715a4d48d9": ("535ccfda-0bb8-4876-8fa3-5fc5b8d2f4d4", "van den Broek's Passacaglia at the Grote Kerk Zwolle (Academiehuis), 1991: the album named after the church holds the same recording"),
+    "c60135d2-2f4b-46ee-bc8d-c09231f8ced9": ("d0946ce3-c147-41fd-9c34-c908594627f4", "Hurford's The Organ Works, Vol 1 (1990) reissues his Decca cycle of 1974-86"),
+    "9d796524-257c-4d87-9aca-738514d7a130": ("6dec01f1-5500-40ef-acbd-afa66ea5f7d3", "Rübsam's Das Orgelwerk (Philips, 1977): the undated row and the 1976-77 row are the same Philips cycle"),
+    "99e6b4a0-c422-4c1c-97bb-c6de7e867807": ("6ba4fe52-890a-4c0c-9783-5d991330d62e", "Kraft's Signature Classics (1988) is a selection from his Vox Organ Music cycle (1961-67)"),
+    "c58fc197-715e-471f-952b-1c82eaf8693b": ("ffad11dc-2b8b-4cc9-92e1-1704c07d39c1", "Chorzempa's BWV 565 at the Bovenkerk on the sampler Clásicos Divertidos: his Philips recording of 1982"),
     "f0066f9f-e2d2-45a5-ba24-0dbea8aff401": ("6f6185f5-82e7-4df7-822d-7a42173c4e0f", "Koopman's Canzona BWV 588 and Pastorale BWV 590 on Geistliche Lieder (Michaëlskerk, 2023): one organ session; Klaus Mertens sings only the songs"),
   },
   "keyboard-transcriptions": {
@@ -323,7 +336,8 @@ OVERRIDE_BY_SNAPSHOT = {
   "other-keyboard-suites": {
     "faac2257-8540-43cf-a0a1-97bc7d1b2cf8": ({"instrument": "piano"}, "Lili Kraus, pianist; no instrument credit"),
     "d348e6bd-aad5-409d-ac9f-4730582fd1f3": ({"instrument": "piano"}, "Rosalyn Tureck's historic recordings 1952-1962: on the piano; no instrument credit"),
-    "21a0d730-e2a8-45a9-a55a-d79448a7452c": ({"arrangement": False}, "Suzuki Piano School recording: the original text on piano, not an arrangement"),
+    "21a0d730-e2a8-45a9-a55a-d79448a7452c": ({"arrangement": False, "movements": ["822:4", "822:5", "822:6"]},
+        "Suzuki Piano School Vol. 4: the three Menuets of BWV 822 on piano, the original text; MusicBrainz links the whole suite"),
     "aca9129e-32ea-470d-9afa-f9449b93e11b": ({"arrangement": False}, "Suzuki Piano School recording: the original text on piano, not an arrangement"),
     "4f2f3fe1-e26e-49fa-9e66-0fdac3e9b847": ({"arrangement": False}, "Suzuki Piano School recording: the original text on piano, not an arrangement"),
     "0fd4fdb4-5370-4574-8812-5a7f04fa93ce": ({"performers": [{"name": "Takako Nishizaki", "role": "violin"}, {"name": "Terence Dennis", "role": "piano"}]},
@@ -336,6 +350,9 @@ OVERRIDE_BY_SNAPSHOT = {
         "Richter died in 1981: the 1996 recording date is a reissue's"),
   },
   "organ-free-works": {
+    "a7739c9a-54f7-44ae-ae33-ebf991fbb82a": ({"instrument": "violin", "arrangement": True}, "Ayasa is a crossover violinist: her BWV 565 on Too Fast Sword is a violin arrangement"),
+    "131a0625-b0c6-4c06-a594-77e6dabc0f2d": ({"arrangement": False}, "BWV 1121 is a manualiter Clavier fantasia from the Andreas Bach Book: on harpsichord it is not an arrangement"),
+    "83e86580-dd0a-4a8f-b0f3-d9f2b89419eb": ({"arrangement": False}, "BWV 1121 is a manualiter Clavier fantasia from the Andreas Bach Book: on the lute-harpsichord it is not an arrangement"),
     "22e8576b-1f0d-46ed-8611-4d7e93c7b0d6": ({"instrument": "piano", "arrangement": True},
         "Awadagin Pratt plays his own piano arrangement of the Passacaglia BWV 582 on Transformations (his discography); no instrument credit"),
     "052698c5-7f02-4112-ab00-8c66c0deacdb": ({"performers": [{"name": "Mischa Maisky", "role": "cello"}, {"name": "Daria Hovora", "role": "piano"}], "instrument": "cello"},

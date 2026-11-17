@@ -12,6 +12,7 @@ released: 1989
 original_label: null
 works:
 - {bwv: '565', complete: true}
+- {bwv: '590', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -23,4 +24,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: bfb020c9-6abe-411e-b1f5-fb0c9d878d6c
-  recordings: [9a6f444d-68a2-4c7f-9c09-7f9e2cd047e1]
+  recordings: [430469ce-d337-4f94-bcc4-3143c99c36ec, 9a6f444d-68a2-4c7f-9c09-7f9e2cd047e1]

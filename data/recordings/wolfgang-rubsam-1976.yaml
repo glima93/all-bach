@@ -8,16 +8,37 @@ arrangement: false
 recorded:
   years: [1976, 1977]
   place: Stadtkirche St. Nikolaus
-released: 1988
+released: 1977
 original_label: null
 works:
+- {bwv: '561', complete: true}
+- {bwv: '562', complete: true}
+- {bwv: '563', complete: true}
 - {bwv: '564', complete: true}
 - {bwv: '565', complete: true}
+- {bwv: '566', complete: true}
+- {bwv: '567', complete: true}
+- {bwv: '568', complete: true}
+- {bwv: '569', complete: true}
+- {bwv: '570', complete: true}
+- {bwv: '571', complete: true}
 - {bwv: '572', complete: true}
+- {bwv: '574', complete: true}
+- {bwv: '576', complete: true}
+- {bwv: '577', complete: true}
+- {bwv: '578', complete: true}
 - {bwv: '579', complete: true}
+- {bwv: '580', complete: true}
+- {bwv: '581', complete: true}
 - {bwv: '582', complete: true}
+- {bwv: '583', complete: true}
+- {bwv: '585', complete: true}
+- {bwv: '586', complete: true}
+- {bwv: '588', complete: true}
 - {bwv: '589', complete: true}
 - {bwv: '590', complete: true}
+- {bwv: '591', complete: true}
+- {bwv: '1121', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -29,4 +50,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 100b939f-8b65-4e57-9568-854f7ab44027
-  recordings: [6dec01f1-5500-40ef-acbd-afa66ea5f7d3]
+  recordings: [6dec01f1-5500-40ef-acbd-afa66ea5f7d3, 9d796524-257c-4d87-9aca-738514d7a130]

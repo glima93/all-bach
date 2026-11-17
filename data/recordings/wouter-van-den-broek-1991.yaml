@@ -11,7 +11,7 @@ recorded:
 released: null
 original_label: null
 works:
-- {bwv: '582', complete: false, movements: [I. Passacaglia]}
+- {bwv: '582', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -23,4 +23,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 615f0a71-9f27-4bea-993f-c742cd362914
-  recordings: [535ccfda-0bb8-4876-8fa3-5fc5b8d2f4d4]
+  recordings: [11c80020-0c06-4910-940b-81715a4d48d9, 535ccfda-0bb8-4876-8fa3-5fc5b8d2f4d4]

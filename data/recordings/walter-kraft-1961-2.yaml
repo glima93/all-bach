@@ -11,7 +11,7 @@ recorded:
 released: 1988
 original_label: null
 works:
-- {bwv: '562', complete: false, movements: [I. Fantasie]}
+- {bwv: '562', complete: true}
 - {bwv: '563', complete: true}
 - {bwv: '564', complete: true}
 - {bwv: '565', complete: true}
@@ -40,4 +40,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: a254810e-ff5a-4ddb-8c32-a076fbcb3236
-  recordings: [6ba4fe52-890a-4c0c-9783-5d991330d62e]
+  recordings: [6ba4fe52-890a-4c0c-9783-5d991330d62e, 99e6b4a0-c422-4c1c-97bb-c6de7e867807]

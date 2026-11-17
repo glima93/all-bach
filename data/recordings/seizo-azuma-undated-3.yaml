@@ -11,7 +11,7 @@ recorded:
 released: 2008
 original_label: null
 works:
-- {bwv: '822', complete: true}
+- {bwv: '822', complete: false, movements: [V. Menuet I, VI. Menuet II, VII. Menuet III]}
 links:
 - platform: musicbrainz
   kind: release

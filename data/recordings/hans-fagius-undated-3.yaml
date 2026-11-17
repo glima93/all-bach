@@ -1,49 +1,37 @@
 id: hans-fagius-undated-3
 performers:
 - name: Hans Fagius
-  role: pipe organ
+  role: organ
 instrument: organ
 performance_practice: unknown
 arrangement: false
 recorded:
   years: []
-  place: null
-released: 1989
+  place: Uppsala Missionskyrka
+released: 1987
 original_label: null
 works:
-- {bwv: '561', complete: true}
-- {bwv: '562', complete: false, movements: [I. Fantasie]}
 - {bwv: '563', complete: true}
 - {bwv: '564', complete: true}
 - {bwv: '565', complete: true}
-- {bwv: '566', complete: true}
-- {bwv: '568', complete: true}
-- {bwv: '569', complete: true}
-- {bwv: '570', complete: true}
-- {bwv: '571', complete: true}
-- {bwv: '572', complete: true}
-- {bwv: '574', complete: true}
-- {bwv: '575', complete: true}
 - {bwv: '576', complete: true}
-- {bwv: '578', complete: true}
-- {bwv: '579', complete: true}
 - {bwv: '580', complete: true}
 - {bwv: '582', complete: true}
-- {bwv: '583', complete: true}
-- {bwv: '585', complete: true}
 - {bwv: '586', complete: true}
 - {bwv: '590', complete: true}
+- {bwv: '1121', complete: true}
 links:
 - platform: musicbrainz
   kind: release
-  url: https://musicbrainz.org/release/affbfedb-57c6-4f3a-a96e-4ffabcc338bd
-  title: Complete Organ Music
+  url: https://musicbrainz.org/release/af878b37-db5d-4878-9985-e7e39cda0f8f
+  title: 'The Complete Organ Music, Volume 4: Preludes and Fugues / Toccata in C / Trio Sonata in C / Concerto in
+    A / Partita: O Gott, du frommer Gott / Chorales from the Kirnberger Collection'
 status: draft
 help_wanted:
 - Recording year
 - Check whether this is the same performance as another entry by this performer
-- Recording place
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:
-  recordings: [18da0209-5e97-459b-a08f-ea6ed7232698]
+  artist: 1326ea97-4cae-428c-bbc2-f7aaf5354ec1
+  recordings: [8590dcc2-8891-44ed-a32e-36a9aa0799e2]

@@ -12,7 +12,7 @@ released: 1984
 original_label: null
 works:
 - {bwv: '561', complete: true}
-- {bwv: '562', complete: false, movements: [I. Fantasie]}
+- {bwv: '562', complete: true}
 - {bwv: '563', complete: true}
 - {bwv: '564', complete: true}
 - {bwv: '565', complete: true}
@@ -50,4 +50,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 7475712c-efb2-4498-99fc-163a33d7d975
-  recordings: [d0946ce3-c147-41fd-9c34-c908594627f4]
+  recordings: [c60135d2-2f4b-46ee-bc8d-c09231f8ced9, d0946ce3-c147-41fd-9c34-c908594627f4]

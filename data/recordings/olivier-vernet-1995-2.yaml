@@ -14,16 +14,18 @@ works:
 - {bwv: '562', complete: true}
 - {bwv: '563', complete: true}
 - {bwv: '564', complete: true}
-- {bwv: '565', complete: false, movements: [I. Toccata]}
+- {bwv: '565', complete: true}
 - {bwv: '566', complete: true}
 - {bwv: '568', complete: true}
 - {bwv: '569', complete: true}
 - {bwv: '570', complete: true}
 - {bwv: '572', complete: true}
 - {bwv: '574', complete: true}
+- {bwv: '575', complete: true}
 - {bwv: '577', complete: true}
 - {bwv: '578', complete: true}
 - {bwv: '579', complete: true}
+- {bwv: '582', complete: true}
 - {bwv: '586', complete: true}
 - {bwv: '588', complete: true}
 - {bwv: '589', complete: true}
@@ -39,4 +41,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 215d92b3-630f-46b3-bdc9-5995333efcbb
-  recordings: [656b6311-3a28-4f1d-93e5-beacd62293f2]
+  recordings: [656b6311-3a28-4f1d-93e5-beacd62293f2, 6afe300f-8990-49da-84e1-1bf8a964bad8]
