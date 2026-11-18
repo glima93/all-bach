@@ -1,0 +1,31 @@
+id: ton-koopman-1982-3
+performers:
+- name: Ton Koopman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1982]
+  place: Waalse Kerk
+released: 1983
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1c49d7cc-cc0e-4a1f-bd8d-64efe21e43c0
+  title: Orgelwerke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [b0cc9491-8a61-44c9-a8ef-070504f479de]

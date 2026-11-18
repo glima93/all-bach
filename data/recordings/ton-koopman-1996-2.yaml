@@ -1,0 +1,28 @@
+id: ton-koopman-1996-2
+performers:
+- name: Ton Koopman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996, 1999]
+  place: Waalse Kerk
+released: 1998
+original_label: null
+works:
+- {bwv: '593', complete: true}
+- {bwv: '597', complete: true}
+- {bwv: '598', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/822ce31d-e8b0-421a-b972-5dda4107bb5e
+  title: Organ Works, Volume 7
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [da553eca-2d05-41b4-bc7d-67faa40ba264]

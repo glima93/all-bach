@@ -1,0 +1,16 @@
+bwv: "525"
+title: "Trio Sonata No. 1 in E-flat major"
+key: "E-flat major"
+collection: "Trio Sonatas for organ"
+genre: organ
+scoring: "organ (two manuals and pedal)"
+composed: "Leipzig, c. 1727–1730"
+movements:
+  - "I. (Allegro)"
+  - "II. Adagio"
+  - "III. Allegro"
+notes: "Part of the six trio sonatas Bach gathered in a Leipzig autograph, according to Forkel for his eldest son Wilhelm Friedemann."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Organ_Sonatas_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/995aed75-a376-41a7-99aa-25f30b9cf4c8

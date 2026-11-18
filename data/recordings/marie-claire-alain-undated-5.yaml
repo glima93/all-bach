@@ -1,0 +1,33 @@
+id: marie-claire-alain-undated-5
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Akerk
+released: 1994
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/94a254f1-440d-4bc3-9914-e305cb894131
+  title: L'Œuvre pour orgue
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [4305701e-8166-4d16-ba5f-a619c5de92cc]

@@ -1,0 +1,29 @@
+id: hans-otto-undated-3
+performers:
+- name: Hans Otto
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Dorfkirche Fraureuth
+released: 2007
+original_label: null
+works:
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '529', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fccb1159-0c24-4e71-b63e-e02e98888d92
+  title: Orgelwerke auf Silbermann-Orgeln
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 74fe52bd-2c4a-4e25-99d8-ec64b1178c04
+  recordings: [e41e76a9-0234-4ba3-a562-74c91ed605d1]

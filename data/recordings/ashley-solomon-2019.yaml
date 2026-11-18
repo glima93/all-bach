@@ -1,0 +1,29 @@
+id: ashley-solomon-2019
+performers:
+- name: Ashley Solomon
+  role: traverso
+- name: Julian Perkins
+  role: harpsichord
+instrument: traverso
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [2019]
+  place: Koepelkerk, Renswoude
+released: 2020
+original_label: null
+works:
+- {bwv: '525', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ceb1463e-ead2-4378-9546-0f6973447cfd
+  title: The Spohr Collection
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With flute.
+musicbrainz:
+  artist: 2a3fd841-e75f-441b-a9da-c69b91d93167
+  recordings: [8dcc39b9-2ebc-40e4-a653-466901412246]

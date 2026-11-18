@@ -1,0 +1,27 @@
+id: odile-jutten-undated
+performers:
+- name: Odile Jutten
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Cathédrale Notre-Dame d'Évreux
+released: 2008
+original_label: null
+works:
+- {bwv: '529', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d790709-3030-42a9-ae67-41be4e389b5f
+  title: Naissance d'un Grand Orgue, Vol. 1
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b79ef3bc-7301-42c8-9ee5-47fd47395a46
+  recordings: [77dc9659-896c-4751-8554-ec98dd42f9b5]

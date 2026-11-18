@@ -1,0 +1,29 @@
+id: wolfgang-rubsam-1977-3
+performers:
+- name: Wolfgang Rübsam
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '593', complete: true}
+- {bwv: '597', complete: true}
+- {bwv: '598', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/15f1eef5-0b95-429b-889d-d28668c8e492
+  title: Das Orgelwerk
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [203e7253-165a-4bd3-9b8b-2f831e2bca9c, 8a2c43c2-647c-4dc5-b10e-9679d3ba13f4]

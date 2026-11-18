@@ -1,0 +1,26 @@
+id: virgil-fox-1958-2
+performers:
+- name: Virgil Fox
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958]
+  place: Riverside Church
+released: 1993
+original_label: null
+works:
+- {bwv: '530', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6ed913c2-4326-496d-bd21-3fbc5c911e6f
+  title: Encores
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0005682c-3083-415e-ae4c-debd7be3e47e
+  recordings: [be1720d9-ac9d-47fb-bed4-e99ac6fe11c6]

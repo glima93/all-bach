@@ -1,0 +1,26 @@
+id: marie-claire-alain-1993-2
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: Église Notre-Dame-des-Blancs-Manteaux
+released: 1993
+original_label: null
+works:
+- {bwv: '593', complete: false, movements: [I. (Allegro)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/93e6a80c-28b0-49aa-be4f-ced63542d8e6
+  title: Les bis pour Orgue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [30ffff79-d131-4d13-a946-8b48d60b1d3c]

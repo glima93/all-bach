@@ -1,0 +1,27 @@
+id: andre-isoir-1988-4
+performers:
+- name: André Isoir
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988, 1991]
+  place: Église Saint-Cyprien
+released: 1988
+original_label: null
+works:
+- {bwv: '593', complete: true}
+- {bwv: '598', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f91a85e1-54ca-4abf-9df6-0dcaad4f0cfc
+  title: 'L''oeuvre pour orgue intégrale vol. 7: Les cinq concertos'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f06a4379-1bbf-41a2-b2aa-4818d67605d7
+  recordings: [2c26fc00-5fe6-441b-94ac-cf424336bd24]

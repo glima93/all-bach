@@ -1,0 +1,27 @@
+id: holland-baroque-2021
+performers:
+- name: Holland Baroque
+  role: orchestra
+instrument: ensemble
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [2021]
+  place: Waalse Kerk
+released: 2023
+original_label: null
+works:
+- {bwv: '526', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/01591272-7922-4b35-810c-a10785c35327
+  title: Bachs Königin
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5a4cb021-1a69-407f-9c8f-1af4eaa15225
+  recordings: [5f1e9966-31da-4d54-9306-65956292ddc8]

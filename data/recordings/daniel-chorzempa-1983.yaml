@@ -1,0 +1,26 @@
+id: daniel-chorzempa-1983
+performers:
+- name: Daniel Chorzempa
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1983]
+  place: Domkirche Arlesheim
+released: 1984
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4bb96ed7-c5fd-4cc0-8818-98d7c660c968
+  title: 3 Concerti After Vivaldi
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 40a960d0-5074-4954-bd19-00bb0b73a9ec
+  recordings: [3d82b851-4767-4f10-b954-15c3fc2c48bd]

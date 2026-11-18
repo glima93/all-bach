@@ -1,0 +1,26 @@
+id: br-andreas-warler-sds-1993
+performers:
+- name: Br. Andreas Warler SDS
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: Basilika Steinfeld
+released: 1994
+original_label: null
+works:
+- {bwv: '529', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b4c6c4ab-735a-40eb-b573-57ec043e462e
+  title: 'Orgelkonzert: Basilika Steinfeld'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e20bec3-e951-46f3-acc9-21c1b19f110c
+  recordings: [267bad88-2d1d-41c0-8f3d-8d71a3be3b4e]

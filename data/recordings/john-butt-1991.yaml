@@ -1,0 +1,31 @@
+id: john-butt-1991
+performers:
+- name: John Butt
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: Alfred Hertz Memorial Concert Hall
+released: 1992
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7bcd86b6-8089-433e-b35a-4694b7b1f6e4
+  title: Trio Sonatas, BWV 525 - 530
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad5780b2-5140-4143-a81d-5c76c4849b74
+  recordings: [29867b86-08c7-447a-8c6d-5afe32d83e25]

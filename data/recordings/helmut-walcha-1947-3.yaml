@@ -1,0 +1,31 @@
+id: helmut-walcha-1947-3
+performers:
+- name: Helmut Walcha
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1947, 1950, 1952]
+  place: St. Jakobi
+released: 2003
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d4b115aa-75cc-4a41-a4c5-1a64cf38a3d7
+  title: 'Organ Works: The 1947–52 Recordings'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f4c1fd6-75c8-4c40-8fcf-0b5496c01bf2
+  recordings: [e8980778-b456-4b82-a8a2-1b04852cefe7]

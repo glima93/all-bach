@@ -1,0 +1,28 @@
+id: tibor-barta-undated
+performers:
+- name: Tibor Barta
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a8f1512c-7566-41f2-bd24-38a53959eb54
+  title: Concertos for Organ, BWV 592–595
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9d032e22-abc6-410b-922e-7a32240870ed
+  recordings: [8f95f6db-2c8e-4dca-b958-68f018395314]

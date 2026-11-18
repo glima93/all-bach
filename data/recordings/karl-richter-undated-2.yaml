@@ -1,0 +1,29 @@
+id: karl-richter-undated-2
+performers:
+- name: Karl Richter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Ludgerikirche
+released: 1990
+original_label: null
+works:
+- {bwv: '527', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4788f9dd-a46f-44b5-9d2e-af8f80da5f20
+  title: Passacaglia & Fuge / Triosonaten
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e01ebec7-98c5-450a-bf67-5650f8b4eff0
+  recordings: [b2c7dee9-2bb3-4a9a-9bbc-f302a98e9aa7]

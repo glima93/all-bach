@@ -1,0 +1,31 @@
+id: marie-claire-alain-1984
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Pfarrkirche St. Hilarius Naefels
+released: 1992
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b9e744f2-0fdc-4dda-aee6-e4c945223e66
+  title: Les Plus Belles Pages de l'Orgue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [71fe1203-75f3-4994-ab47-b630d9e037ea]

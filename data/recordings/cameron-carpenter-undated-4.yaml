@@ -1,0 +1,29 @@
+id: cameron-carpenter-undated-4
+performers:
+- name: Cameron Carpenter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/699d33c2-df73-4ed4-be20-63c57dfc5926
+  title: If You Could Read My Mind
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9905b522-bb88-43e4-9ed0-1b6bdc732664
+  recordings: [c33840b6-3909-463e-b243-198c3a45643e]

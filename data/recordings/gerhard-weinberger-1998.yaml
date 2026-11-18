@@ -1,0 +1,29 @@
+id: gerhard-weinberger-1998
+performers:
+- name: Gerhard Weinberger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998, 1999]
+  place: Schlosskirche zu Altenburg
+released: 2008
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7c8a3822-8e80-441a-8a26-c695fb543494
+  title: Complete Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e26bf27-1a85-4570-8fb0-ab101310bc14
+  recordings: [1e499919-bb90-4ffa-ae37-f08dbc42dc36]

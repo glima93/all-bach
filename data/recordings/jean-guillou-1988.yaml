@@ -1,0 +1,26 @@
+id: jean-guillou-1988
+performers:
+- name: Jean Guillou
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: Tonhalle
+released: 1991
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/23beff27-4777-4395-9330-b8cd1b34f893
+  title: Vivaldi for Organ
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65542956-ed7d-4ef3-b653-4a729c94ad8d
+  recordings: [c39b416e-7dec-44bd-a09d-a1149f887915]

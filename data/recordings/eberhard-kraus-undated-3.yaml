@@ -1,0 +1,28 @@
+id: eberhard-kraus-undated-3
+performers:
+- name: Eberhard Kraus
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c386be4-d565-497d-bd2a-e37b8d543323
+  title: Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6df918ea-d407-432c-b91f-6a7fa46b79f4
+  recordings: [6dce9fe0-f4dc-4ae9-836e-e1d04625f177]

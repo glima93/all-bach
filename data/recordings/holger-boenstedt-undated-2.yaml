@@ -1,0 +1,28 @@
+id: holger-boenstedt-undated-2
+performers:
+- name: Holger Boenstedt
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '529', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a461ed2c-639e-4191-9f26-08619f774735
+  title: Orgel Literatur Kanon
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3982d271-9d77-4b5b-8a0d-1be01a1a238b
+  recordings: [4fbdc33f-f283-423e-935d-a35be24f87af]

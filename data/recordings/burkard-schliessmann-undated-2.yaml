@@ -1,0 +1,28 @@
+id: burkard-schliessmann-undated-2
+performers:
+- name: Burkard Schliessmann
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '529', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1def885c-914c-488d-a49b-26f19ea5d0e5
+  title: Burkard Schliessmann at the Rodgers Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 172ad430-1235-4903-86cd-87fdcd251eb0
+  recordings: [a6f86e29-f432-4ee6-a999-fd3ed22b8374]

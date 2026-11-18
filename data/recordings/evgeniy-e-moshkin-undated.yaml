@@ -1,0 +1,28 @@
+id: evgeniy-e-moshkin-undated
+performers:
+- name: Evgeniy E. Moshkin
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '526', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/9bc50515-9e2c-46f6-9a74-29f62d346e07
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1d5092ad-3838-4bef-bbc2-09c58e10ca67
+  recordings: [9bc50515-9e2c-46f6-9a74-29f62d346e07]

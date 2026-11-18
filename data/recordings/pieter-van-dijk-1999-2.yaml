@@ -1,0 +1,26 @@
+id: pieter-van-dijk-1999-2
+performers:
+- name: Pieter van Dijk
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Grote Sint Laurenskerk
+released: 2004
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5d6102b4-a016-4ec2-9ccb-27d0eb68ff78
+  title: 'Orgelwerke: Transkriptionen: Concert & Trios von Vivaldi, Johann Ernst, Telemann, Fasch, Couperin'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4f9c23d4-a07f-4156-857a-ef4395a5a2cb
+  recordings: [4aaac8d4-5cfd-4203-96c3-938f6920f9ec]

@@ -1,0 +1,16 @@
+bwv: "593"
+title: "Concerto in A minor (after Vivaldi, Op. 3 No. 8)"
+key: "A minor"
+collection: "Concerto transcriptions for organ"
+genre: organ
+scoring: "organ (two manuals and pedal)"
+composed: "Weimar, c. 1713–1714"
+movements:
+  - "I. (Allegro)"
+  - "II. Adagio senza pedale à due clavier"
+  - "III. Allegro"
+notes: "A transcription of Vivaldi's Concerto for two violins in A minor, Op. 3 No. 8 (RV 522), from L'estro armonico, made during Bach's years at the Weimar court."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Organ_concerto_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/fef499c9-ea19-4163-a1f9-9db2fcc7f470

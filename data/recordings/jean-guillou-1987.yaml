@@ -1,0 +1,27 @@
+id: jean-guillou-1987
+performers:
+- name: Jean Guillou
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1987, 1990]
+  place: Église Notre-Dame-des-Neiges d'Alpe d'Huez
+released: 1990
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0bdea174-3086-458d-bcc2-92a59105213d
+  title: The Organ Works of J.S. Bach, Volume 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65542956-ed7d-4ef3-b653-4a729c94ad8d
+  recordings: [9f331ec8-b79d-45f5-ba1f-2f1412c73820]

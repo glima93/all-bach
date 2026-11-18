@@ -1,0 +1,16 @@
+bwv: "530"
+title: "Trio Sonata No. 6 in G major"
+key: "G major"
+collection: "Trio Sonatas for organ"
+genre: organ
+scoring: "organ (two manuals and pedal)"
+composed: "Leipzig, c. 1727–1730"
+movements:
+  - "I. Vivace"
+  - "II. Lente"
+  - "III. Allegro"
+notes: "Part of the six trio sonatas Bach gathered in a Leipzig autograph, according to Forkel for his eldest son Wilhelm Friedemann. All three movements appear to have been composed specially for the collection."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Organ_Sonatas_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e691f110-e63e-4a45-8994-ee3a850c7079

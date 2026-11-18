@@ -1,0 +1,32 @@
+id: konstantin-volostnov-undated-3
+performers:
+- name: Konstantin Volostnov
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Евангелическо-Лютеранская Церковь Святой Марии
+released: 2017
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: false, movements: [I. Adagio – Vivace, III. Un poc' allegro]}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fca389fc-73c3-415a-80cc-8b03fb38202e
+  title: Organ Concertos, Sonatas and Toccatas
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 177ca446-015b-485a-b3e0-9ffc53686842
+  recordings: [1f47f5d7-e8fa-481d-bd99-909895b54c0e]

@@ -1,0 +1,29 @@
+id: philharmonischen-staatsorchesters-hamburg-1991
+performers:
+- name: Philharmonischen Staatsorchesters Hamburg
+  role: orchestra
+- name: Jens Weigelt
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1991]
+  place: Hauptkirche St. Jacobi
+released: 1991
+original_label: null
+works:
+- {bwv: '525', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5cefb884-07c3-4d69-9c97-21de42167f78
+  title: 30 Jahre Weihnachtskonzert
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cbfc7f8c-eb3d-44d5-b1f7-0fb032993ae4
+  recordings: [6cc65c96-d086-429f-bd50-7615b23fe28f]

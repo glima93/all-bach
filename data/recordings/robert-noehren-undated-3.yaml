@@ -1,0 +1,28 @@
+id: robert-noehren-undated-3
+performers:
+- name: Robert Noehren
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '529', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/83827405-32bb-48d3-9f29-84e643ddcf3e
+  title: Baroque! Baroque!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: de7a315c-2442-4906-ba7b-a1e5124802bc
+  recordings: [362ea548-71ce-4784-a02d-e9c3f5886740]

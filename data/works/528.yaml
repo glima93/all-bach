@@ -1,0 +1,16 @@
+bwv: "528"
+title: "Trio Sonata No. 4 in E minor"
+key: "E minor"
+collection: "Trio Sonatas for organ"
+genre: organ
+scoring: "organ (two manuals and pedal)"
+composed: "Leipzig, c. 1727–1730"
+movements:
+  - "I. Adagio – Vivace"
+  - "II. Andante"
+  - "III. Un poc' allegro"
+notes: "Part of the six trio sonatas Bach gathered in a Leipzig autograph, according to Forkel for his eldest son Wilhelm Friedemann. The first movement transcribes the sinfonia opening Part II of the cantata Die Himmel erzählen die Ehre Gottes, BWV 76, originally for oboe d'amore and viola da gamba."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Organ_Sonatas_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/8b31b7df-a181-4b48-b810-5838fd5b12f2

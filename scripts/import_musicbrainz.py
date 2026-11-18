@@ -155,12 +155,27 @@ EXCLUDE_BY_SNAPSHOT["organ-free-works"] = {
     "fd2ccac3-0e46-434e-9448-cf5ff360d602": "Isoir's 'Les quatres toccatas et fugues' (first released 1986, so not recorded in 1993): the Calliope recordings filed as andre-isoir-1975-2",
     "07848141-b2ac-4b18-84bf-b669abe1ec81": "Wasilewski's track on Frederic 3 is the Air from BWV 1068, already filed as micha-wasilewski-undated; MusicBrainz also links it to the Toccata BWV 565",
 }
+EXCLUDE_BY_SNAPSHOT["organ-trio-sonatas"] = {
+    "3979d320-3898-4a78-b7c9-7aad3f2b42ad": "the 'Sonate C-Dur (Allegro)' on the audite Amorbach festival concert (1991) is the Sinfonia of Cantata BWV 31 for three trumpets, timpani and organ, not BWV 529 (audite track list)",
+}
+EXCLUDE_BY_SNAPSHOT["organ-concertos"] = {
+    "be931ac6-fbb8-4230-82c7-c9973534b4f5": "Kapell's Bach on the Marston set Broadcast and Concert Performances 1944-1952 is the NBC broadcast of 20 May 1950 of the Concerto for four keyboards BWV 1065 (with Tureck, List and Battista), not BWV 593",
+    "5f12890b-768d-428d-a564-d7ff3953c85d": "Fagius's Complete Organ Music box (BIS, 2005; no artist credited on the row) reissues the Bach Edition volume filed as hans-fagius-1986 (as in run 17)",
+    "8571ad6f-b89b-4a67-a953-b8452c3de251": "Capella Istropolitana and Kopelman on The Best of Vivaldi: Vivaldi's own Concerto RV 522 (Op. 3 No. 8), the model of BWV 593, not Bach's organ transcription",
+}
 EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 
 # One performance that the snapshot splits into two rows (an undated track of a dated set, one set recorded
 # over more than three years), per snapshot: representative recording ID of the row to fold in -> that of
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
+  "organ-trio-sonatas": {
+    "c85a1e12-575b-4a88-ae55-97ebe9462b86": ("90193479-2170-4176-ac9e-1b265634d68e", "Werner Jacob's Erato box The Organ Works: the undated BWV 525-527, 529 and 530 and the 1983 BWV 528 are one set on the same release"),
+    "28e2b842-0aa5-4146-9b0d-a25d79ad9014": ("0d74a445-b3c9-4423-bb06-d3a16608e723", "Faust and the Akademie für Alte Musik Berlin (Teldex, harmonia mundi 2019): BWV 527 and 529 arranged on one album, split only by line-up"),
+  },
+  "organ-concertos": {
+    "203e7253-165a-4bd3-9b8b-2f831e2bca9c": ("8a2c43c2-647c-4dc5-b10e-9679d3ba13f4", "Rübsam's Das Orgelwerk (Philips): the undated BWV 597 and 598 tracks belong to the 1977 cycle on the same release"),
+  },
   "other-keyboard-suites": {
     "79d41758-2e1d-4fc7-8288-95e3db3d443a": ("c1592a3a-9f38-4d15-9a64-eb463cc91bd4", "Justin Taylor's Bach 333 harpsichord recordings (b-sharp, 2018): the undated row on the complete edition holds the same sessions"),
   },
@@ -333,6 +348,41 @@ NATIVE_EXTRA_BY_SNAPSHOT = {
 # Facts the snapshot gets wrong or leaves out for one row, per snapshot: representative recording ID ->
 # fields to set, with the reason. Fix upstream in MusicBrainz too, then remove the entry here.
 OVERRIDE_BY_SNAPSHOT = {
+  "organ-trio-sonatas": {
+    "0d74a445-b3c9-4423-bb06-d3a16608e723": ({"performers": [{"name": "Akademie für Alte Musik Berlin", "role": "ensemble"}, {"name": "Isabelle Faust", "role": "violin"}, {"name": "Xenia Löffler", "role": "oboe"}, {"name": "Bernhard Forck", "role": "violin"}, {"name": "Raphael Alpermann", "role": "harpsichord"}, {"name": "Jan Freiheit", "role": "cello"}], "performance_practice": "historical"},
+        "Faust's album with the Akademie für Alte Musik Berlin, a period group: the roles in MusicBrainz name the players; the ensemble played no harpsichord"),
+    "88a1b18d-13ec-4547-ad01-1504d50a45a4": ({"performers": [{"name": "Víkingur Ólafsson", "role": "piano"}, {"name": "Halla Oddný Magnúsdóttir", "role": "piano"}], "instrument": "piano", "performance_practice": "modern"},
+        "Kurtág's piano duet transcription of BWV 525/i on Ólafsson's From Afar (DG), played on an upright piano"),
+    "a24451df-a9ad-4b2a-8b9e-6d2097388ef1": ({"performers": [{"name": "Jan Van Hoecke", "role": "recorder"}, {"name": "Jovanka Marville", "role": "harpsichord"}], "instrument": "recorder", "performance_practice": "historical"},
+        "the sonatas arranged for recorder and harpsichord; Marville is credited only as performer"),
+    "8dcc39b9-2ebc-40e4-a653-466901412246": ({"performers": [{"name": "Ashley Solomon", "role": "traverso"}, {"name": "Julian Perkins", "role": "harpsichord"}], "instrument": "traverso", "performance_practice": "historical"},
+        "The Spohr Collection is Solomon's album on historical flutes (as ashley-solomon-1998); Perkins accompanies"),
+    "0ffeb428-50eb-4197-b9ff-417233f8a790": ({"performers": [{"name": "Heiko ter Schegget", "role": "recorder"}, {"name": "Zvi Meniker", "role": "harpsichord"}], "instrument": "recorder"},
+        "Bach on Recorder: the recorder leads (as zvi-meniker-undated)"),
+    "29461f44-013c-4c0d-9e22-887feb7ae847": ({"performers": [{"name": "Julien Martin", "role": "recorder"}, {"name": "Olivier Fortin", "role": "harpsichord"}], "instrument": "recorder"},
+        "Bach Transcriptions: the recorder leads (as olivier-fortin-2021-2 and julien-martin-2021)"),
+    "f97b8ca5-ffe1-47cc-b57e-090d75504270": ({"instrument": "violin"},
+        "the Largo of BWV 529 arranged for violin and organ; the violin leads (as nadja-zwiener-2022)"),
+    "5f1e9966-31da-4d54-9306-65956292ddc8": ({"performance_practice": "historical"},
+        "Holland Baroque is a period-instrument group; organ mode does not run the PERIOD_ENSEMBLE check"),
+    "628a91bb-d352-4b5f-9625-d22ecd408832": ({"performance_practice": "historical"},
+        "La Cetra Barockorchester Basel is a period-instrument group; organ mode does not run the PERIOD_ENSEMBLE check"),
+    "a00aef0e-d217-4f09-bb4f-4d1f8ce0fab6": ({"performance_practice": "historical"},
+        "Le Petit Concert Baroque is a period-instrument group; organ mode does not run the PERIOD_ENSEMBLE check"),
+    "d5bb76d6-bacf-4fb5-9b8b-d2c82c7c28bd": ({"performance_practice": "historical"},
+        "Amarillis is a period-instrument group"),
+    "19c00df0-5431-44b0-a7fb-a19a2d42bb5b": ({"movements": ["529:1"]},
+        "the release's 'Prelude, Largo and Fugue in C' is BWV 545 with the Largo of BWV 529 between; only the Largo belongs here"),
+    "abd4f964-cf51-478d-8ef8-2c5f1b60b3ee": ({"performers": [{"name": "Virgil Fox", "role": "organ"}], "instrument": "organ", "arrangement": False},
+        "Virgil Fox's Heavy Organ concert (Winterland Ballroom) is played on his touring Rodgers organ; the harp credit is a MusicBrainz error"),
+    "7ee5f007-6b15-46b6-b0d8-ac65a507e9e1": ({"performers": [{"name": "Marion Verbruggen", "role": "recorder"}, {"name": "Mitzi Meyerson", "role": "harpsichord"}],
+                                             "instrument": "recorder", "performance_practice": "historical", "arrangement": True},
+        "the organ trio sonatas arranged for recorder and harpsichord (the album adds the flute sonata BWV 1031); no roles in MusicBrainz"),
+  },
+  "organ-concertos": {
+    "f8067360-7052-424f-ac36-c4a35c16977c": ({"arrangement": True},
+        "Bardon with the Kammerorchester Pro Arte München under Redel, on Concertos pour orgue et orchestre: BWV 593 with orchestra, not Bach's solo organ transcription"),
+  },
   "other-keyboard-suites": {
     "faac2257-8540-43cf-a0a1-97bc7d1b2cf8": ({"instrument": "piano"}, "Lili Kraus, pianist; no instrument credit"),
     "d348e6bd-aad5-409d-ac9f-4730582fd1f3": ({"instrument": "piano"}, "Rosalyn Tureck's historic recordings 1952-1962: on the piano; no instrument credit"),

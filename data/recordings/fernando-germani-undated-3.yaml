@@ -1,0 +1,28 @@
+id: fernando-germani-undated-3
+performers:
+- name: Fernando Germani
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/740974d8-420c-413d-9751-694c5fe05f4e
+  title: Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dd5f8608-7ca2-4f9c-9ce8-d679fd3f829a
+  recordings: [bf052cd7-7a54-4034-9742-09edf5e7dba6]

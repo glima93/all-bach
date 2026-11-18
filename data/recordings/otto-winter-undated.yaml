@@ -1,0 +1,28 @@
+id: otto-winter-undated
+performers:
+- name: Otto Winter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '528', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55fc12d3-bcfb-48c7-a69f-f2c77db37070
+  title: 1000 Meisterwerke der klassischen Musik
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45ff6707-e20a-4c29-b8c6-93af8886d77b
+  recordings: [3104b3ec-8a4f-4245-904c-d2f5b48e48f4]

@@ -1,0 +1,26 @@
+id: ewald-kooiman-2008-5
+performers:
+- name: Ewald Kooiman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: Abbaye Saint-Étienne de Marmoutier
+released: 2012
+original_label: null
+works:
+- {bwv: '529', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/01a32f62-95c3-411e-b6c1-4027e999434f
+  title: Complete Organ Works played on Silbermann organs Vol. 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c83a81e1-2544-4662-9726-00615372c8c4
+  recordings: [f92e3382-176d-4e92-8e41-111ada0eaf1e]

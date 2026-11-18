@@ -1,0 +1,39 @@
+id: akademie-fur-alte-musik-berlin-undated-5
+performers:
+- name: Akademie für Alte Musik Berlin
+  role: ensemble
+- name: Isabelle Faust
+  role: violin
+- name: Xenia Löffler
+  role: oboe
+- name: Bernhard Forck
+  role: violin
+- name: Raphael Alpermann
+  role: harpsichord
+- name: Jan Freiheit
+  role: cello
+instrument: ensemble
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Teldex Studio
+released: 2019
+original_label: null
+works:
+- {bwv: '527', complete: true}
+- {bwv: '529', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f5f69c4-6c72-427e-9d04-f99ce6c2a009
+  title: Violin Concertos / Sinfonias / Overture / Sonatas
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad1b876d-1f4a-4126-8965-7e35076b9962
+  recordings: [0d74a445-b3c9-4423-bb06-d3a16608e723, 28e2b842-0aa5-4146-9b0d-a25d79ad9014]
