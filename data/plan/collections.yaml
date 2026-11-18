@@ -66,7 +66,7 @@ collections:
 - {id: organ-free-works, title: "Toccatas, Fantasias and other free works for organ", chapter: Organ, bwv: ["561-591", "1121"], mode: organ, wave: 1, run: 17, status: imported,
    note: "Toccata and Fugue in D minor (565), Passacaglia (582), Dorian Toccata (538), Pastorale (590). Piano transcriptions (Busoni) are separate MusicBrainz works"}
 - {id: organ-trio-sonatas, title: "Trio Sonatas for organ", chapter: Organ, bwv: ["525-530"], mode: organ, wave: 1, run: 18, status: collected}
-- {id: organ-concertos, title: "Concerto transcriptions for organ", chapter: Organ, bwv: ["592-598"], mode: organ, wave: 1, run: 18, status: queued,
+- {id: organ-concertos, title: "Concerto transcriptions for organ", chapter: Organ, bwv: ["592-598"], mode: organ, wave: 1, run: 18, status: collected,
    note: "597 doubtful; 598 is a pedal exercise"}
 - {id: orgelbuchlein, title: "Orgelbüchlein", chapter: Organ, bwv: ["599-644"], mode: organ, wave: 1, run: 19, status: todo}
 - {id: schubler, title: "Schübler Chorales", chapter: Organ, bwv: ["645-650"], mode: organ, wave: 1, run: 20, status: todo}
