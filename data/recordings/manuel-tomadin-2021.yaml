@@ -1,0 +1,31 @@
+id: manuel-tomadin-2021
+performers:
+- name: Manuel Tomadin
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: Grote Kerk, Vollenhove
+released: 2023
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/03e59ac5-8bdc-40aa-ac77-0f32fff15636
+  title: Trio Sonatas, BWV 525–530
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3771afa1-8ef7-463b-a43a-d953eb67bb85
+  recordings: [17f28b11-9e3f-42ab-8a97-a0e361d0c79c]

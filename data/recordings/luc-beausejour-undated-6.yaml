@@ -1,0 +1,29 @@
+id: luc-beausejour-undated-6
+performers:
+- name: Luc Beauséjour
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '529', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/62fd3302-e434-4d26-87ed-ef4036dc960c
+  title: Famous Works on Pedal Harpsichord
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dd7c23ca-0b08-4d55-a333-b6538fcb074c
+  recordings: [78faaec2-67ed-4281-85ad-f51709f3bbb2]

@@ -1,0 +1,26 @@
+id: juan-de-la-rubia-2012
+performers:
+- name: Juan de la Rubia
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2012]
+  place: Església de l'Assumpció de l'Alcora
+released: 2014
+original_label: null
+works:
+- {bwv: '527', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e1a50ba0-e7dc-4462-9e85-a3e9b2a58afa
+  title: 'A German Soul: Devotional Music from 17th-century Hamburg'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 410723f7-0190-4603-8232-d3ebcf9630ec
+  recordings: [7527d302-c8bf-4c0d-ac8a-e71e7233adb3]

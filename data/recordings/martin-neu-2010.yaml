@@ -1,0 +1,26 @@
+id: martin-neu-2010
+performers:
+- name: Martin Neu
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: Pfarrkirche St. Franziskus
+released: 2011
+original_label: null
+works:
+- {bwv: '529', complete: false, movements: [I. Allegro, III. Allegro]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d523a666-0c5a-4806-af84-f510759d3463
+  title: Bach and the South German Tradition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a227e68f-f83e-46c0-bade-1d22662ca937
+  recordings: [30ee49c4-7972-4864-a85d-a0e8940908f8]

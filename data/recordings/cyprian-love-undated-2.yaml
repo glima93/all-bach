@@ -1,0 +1,27 @@
+id: cyprian-love-undated-2
+performers:
+- name: Cyprian Love
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Glenstal Abbey
+released: 2006
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/304d7c9e-2cc5-4ab5-b02c-78fb347c922c
+  title: 'Musica Jubilans: Sounds of Glenstal'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2c3e3fbd-73e7-4b69-83b0-992334ebe064
+  recordings: [b4628b84-252a-4ca9-91a2-436aab686645]

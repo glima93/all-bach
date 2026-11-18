@@ -1,0 +1,29 @@
+id: jan-van-hoecke-2015
+performers:
+- name: Jan Van Hoecke
+  role: recorder
+- name: Jovanka Marville
+  role: harpsichord
+instrument: recorder
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [2015]
+  place: Concertgebouw
+released: 2016
+original_label: null
+works:
+- {bwv: '527', complete: false, movements: [III. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/783926b5-96c2-4231-ad5c-7387abcfe0d2
+  title: Sonatas, BWV 525, 527-530
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on tenor recorder.
+musicbrainz:
+  artist: 02b635be-6ca3-4b02-89fc-c01fe4248d2d
+  recordings: [a24451df-a9ad-4b2a-8b9e-6d2097388ef1]

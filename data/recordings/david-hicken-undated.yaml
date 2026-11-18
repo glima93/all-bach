@@ -1,0 +1,28 @@
+id: david-hicken-undated
+performers:
+- name: David Hicken
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9c0cb404-c60e-4ed0-b79b-e4d69ba628b8
+  title: Symphony Gothique
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 397c4170-0af2-494f-8126-d37050faec76
+  recordings: [e995b06e-32ca-4d8b-989e-afc0ec9f54c0]

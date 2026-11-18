@@ -1,0 +1,16 @@
+bwv: "526"
+title: "Trio Sonata No. 2 in C minor"
+key: "C minor"
+collection: "Trio Sonatas for organ"
+genre: organ
+scoring: "organ (two manuals and pedal)"
+composed: "Leipzig, c. 1727–1730"
+movements:
+  - "I. Vivace"
+  - "II. Largo"
+  - "III. Allegro"
+notes: "Part of the six trio sonatas Bach gathered in a Leipzig autograph, according to Forkel for his eldest son Wilhelm Friedemann. Mozart arranged its second and third movements for string trio (K. 404a)."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Organ_Sonatas_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/32b45443-2be1-4559-a95f-7eeb670f07ca

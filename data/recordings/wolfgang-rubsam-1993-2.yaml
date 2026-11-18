@@ -1,0 +1,27 @@
+id: wolfgang-rubsam-1993-2
+performers:
+- name: Wolfgang Rübsam
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: St. Mark's Episcopal Cathedral
+released: 1994
+original_label: null
+works:
+- {bwv: '593', complete: true}
+- {bwv: '597', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fde58c94-ce97-4acd-81eb-b64fd70853fc
+  title: Organ Transcriptions
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [671e442f-aa6e-4011-94e5-c59175971930]

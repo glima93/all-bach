@@ -1,0 +1,26 @@
+id: ton-koopman-1987-5
+performers:
+- name: Ton Koopman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1987]
+  place: Basilika St. Martin
+released: 1988
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4bdd3749-c52d-4118-b815-b9ba064f8eea
+  title: Orgelwerke II
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [98f192e8-9f0e-42e8-a121-6d62c664a9b6]

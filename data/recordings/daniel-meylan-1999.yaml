@@ -1,0 +1,27 @@
+id: daniel-meylan-1999
+performers:
+- name: Daniel Meylan
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b61ad02c-fc7f-4d2e-b6e7-56fb18c00b33
+  title: Orgues du Jura Franco-Suisse Volume 1
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: efa8a03d-5a15-4162-b161-630bb758eb9c
+  recordings: [4ef7086a-3da0-48b5-9221-220264cb198b]

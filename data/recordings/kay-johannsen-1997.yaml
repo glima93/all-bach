@@ -1,0 +1,31 @@
+id: kay-johannsen-1997
+performers:
+- name: Kay Johannsen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: Stadtkirche
+released: 1998
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0290423-169e-4260-8d07-65b01b768d32
+  title: 'Organ Works: Six Sonatas, BWV 525-530'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5d34c349-035b-4fc5-ac10-dfdbe58c7875
+  recordings: [57aa2ac4-7aa1-4f03-ab8e-035b2ee3be5b]

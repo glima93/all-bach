@@ -1,0 +1,28 @@
+id: james-orford-undated
+performers:
+- name: James Orford
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82270722-f9ee-4f35-abd9-79f8000207b2
+  title: L’estro armonico
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cce8f6d9-bd7c-4ab8-93e9-489daf96b84f
+  recordings: [0c2038e0-cb05-4346-8147-7d755504422b]

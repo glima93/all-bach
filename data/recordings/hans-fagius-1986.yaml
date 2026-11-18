@@ -1,0 +1,28 @@
+id: hans-fagius-1986
+performers:
+- name: Hans Fagius
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986, 1989]
+  place: Uppsala Missionskyrka
+released: 1987
+original_label: null
+works:
+- {bwv: '593', complete: true}
+- {bwv: '597', complete: true}
+- {bwv: '598', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/47770623-36b8-346d-a30e-7e15b8095abe
+  title: 'Bach Edition, Volume 6: Organ Works/Orgelwerke, Volume I'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1326ea97-4cae-428c-bbc2-f7aaf5354ec1
+  recordings: [fd63ca67-729b-4fde-9f42-a7fe3ea60b5b]

@@ -1,0 +1,26 @@
+id: michel-chapuis-1970
+performers:
+- name: Michel Chapuis
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: St. Bendt's Church
+released: 1971
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/df3a7cec-afd5-44a3-a23a-0f780b2fd5b5
+  title: L'œuvre d'orgue 19
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: adb29a70-1a5a-40dc-b92d-8acfd3c481f6
+  recordings: [eb528ace-4bf8-4f74-a69e-c3b909d9774d]

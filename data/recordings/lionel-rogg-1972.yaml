@@ -1,0 +1,26 @@
+id: lionel-rogg-1972
+performers:
+- name: Lionel Rogg
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972]
+  place: St. Nicolai
+released: 1973
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8750f1c0-0982-44b5-b569-715322ba05ff
+  title: '''Vivaldi'' Organ Concertos'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 90e17964-b04a-4c37-b952-3c9dfc16c430
+  recordings: [496eacbb-f4e3-498d-838c-278ea8ad4571]

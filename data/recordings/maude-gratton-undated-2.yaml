@@ -1,0 +1,28 @@
+id: maude-gratton-undated-2
+performers:
+- name: Maude Gratton
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Église réformée du Bouclier
+released: 2023
+original_label: null
+works:
+- {bwv: '526', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ecbf8864-2acf-42ba-a1df-ee0db08ca1a6
+  title: 'Trinitatis: Bach Cantatas'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e7872236-992c-4b8e-a55c-7d7f349c20fb
+  recordings: [34feebe7-89b3-4784-9845-4400bc98da93]

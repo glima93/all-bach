@@ -1,0 +1,27 @@
+id: lionel-rogg-1962
+performers:
+- name: Lionel Rogg
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: Grossmünster
+released: null
+original_label: null
+works:
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/df0d364e-4c61-4e88-be72-ae6e0604a50c
+  title: Intégrale de l'œuvre d'orgue 6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 90e17964-b04a-4c37-b952-3c9dfc16c430
+  recordings: [96846692-be48-47c6-802a-df15fb54ccca]

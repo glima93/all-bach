@@ -1,0 +1,28 @@
+id: reitze-smits-undated-3
+performers:
+- name: Reitze Smits
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/e0bc372d-4571-4426-836f-841750b33c8f
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 59760d42-459c-4080-829b-bddec1fe3828
+  recordings: [e0bc372d-4571-4426-836f-841750b33c8f]

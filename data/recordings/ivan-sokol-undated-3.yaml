@@ -1,0 +1,28 @@
+id: ivan-sokol-undated-3
+performers:
+- name: Ivan Sokol
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '598', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a04dde1-a78e-495a-982e-ab7bdea45347
+  title: Bach Famous Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5cb3c0ee-f473-45d2-ad07-21b076af2464
+  recordings: [c530507c-247f-40f4-9ea2-c86041a30553]

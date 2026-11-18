@@ -1,0 +1,28 @@
+id: peter-hurford-1974-6
+performers:
+- name: Peter Hurford
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974, 1977, 1986]
+  place: School Hall, Eton College
+released: 1990
+original_label: null
+works:
+- {bwv: '593', complete: true}
+- {bwv: '597', complete: true}
+- {bwv: '598', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85f62cd5-8ebc-457f-8338-298b3561d6db
+  title: The Organ Works, Vol 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7475712c-efb2-4498-99fc-163a33d7d975
+  recordings: [778dde06-f970-46b7-824d-2594cb3abe48]

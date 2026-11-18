@@ -1,0 +1,27 @@
+id: lorenzo-ghielmi-undated-4
+performers:
+- name: Lorenzo Ghielmi
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Santuario Santa Maria dei Miracoli
+released: 2002
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3256541d-8db8-47af-8080-ea7bad504e9c
+  title: 'Vivaldi: 12 Concertos, op. 3 “L’estro armonico” / Bach: Keyboards Arrangements'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 398f9067-ff97-4743-82f3-16dcb68c3654
+  recordings: [15dca194-0180-4a83-9fb0-db9a3a47f259]

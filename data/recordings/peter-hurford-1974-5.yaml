@@ -1,0 +1,31 @@
+id: peter-hurford-1974-5
+performers:
+- name: Peter Hurford
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974, 1986]
+  place: New College Chapel
+released: 1995
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/745a035e-8e70-44a2-a5b0-212234c38ec1
+  title: The Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7475712c-efb2-4498-99fc-163a33d7d975
+  recordings: [cea33865-356e-43c8-b14e-b6805e50d5c5]

@@ -1,0 +1,31 @@
+id: heiko-ter-schegget-undated
+performers:
+- name: Heiko ter Schegget
+  role: recorder
+- name: Zvi Meniker
+  role: harpsichord
+instrument: recorder
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '529', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33f7eade-a637-4543-bed3-4d19207e1612
+  title: Bach on Recorder
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With recorder.
+musicbrainz:
+  artist: 77b66818-b3c5-486a-af22-2723f2d1cbad
+  recordings: [0ffeb428-50eb-4197-b9ff-417233f8a790]

@@ -1,0 +1,31 @@
+id: david-goode-2015-3
+performers:
+- name: David Goode
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015, 2016]
+  place: Trinity College Chapel
+released: 2015
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d954c226-f77b-4d8d-84d6-e2e410cee96b
+  title: The Complete Organ Works, Vol. 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 57b04643-6432-4dda-993a-8bcf623dde09
+  recordings: [17b88fb9-1f9b-4308-82e2-9f6a7fee234f]

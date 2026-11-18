@@ -1,0 +1,27 @@
+id: werner-jacob-1982
+performers:
+- name: Werner Jacob
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1982]
+  place: Église Saint-Thomas
+released: 1990
+original_label: null
+works:
+- {bwv: '593', complete: true}
+- {bwv: '598', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d7c5209-794f-4ae4-bff2-fc3225c8bbb1
+  title: Berühmte Orgelwerke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: eccbbaac-b8cf-4023-b633-6a9343991b00
+  recordings: [023b9f09-586a-45f6-a3d6-5f7a0e49e434, 1c3a29ee-5958-4a83-bdc8-0d5a20fa5975]

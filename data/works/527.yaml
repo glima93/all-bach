@@ -1,0 +1,16 @@
+bwv: "527"
+title: "Trio Sonata No. 3 in D minor"
+key: "D minor"
+collection: "Trio Sonatas for organ"
+genre: organ
+scoring: "organ (two manuals and pedal)"
+composed: "Leipzig, c. 1727–1730"
+movements:
+  - "I. Andante"
+  - "II. Adagio e dolce"
+  - "III. Vivace"
+notes: "Part of the six trio sonatas Bach gathered in a Leipzig autograph, according to Forkel for his eldest son Wilhelm Friedemann. The slow movement reworks a lost instrumental trio that Bach later also used in the Triple Concerto BWV 1044."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Organ_Sonatas_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/84763678-3bf0-42af-99b4-63b322ed4ba9

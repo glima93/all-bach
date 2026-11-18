@@ -1,0 +1,27 @@
+id: karl-richter-1973
+performers:
+- name: Karl Richter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973]
+  place: Domkirche Arlesheim
+released: 1990
+original_label: null
+works:
+- {bwv: '593', complete: true}
+- {bwv: '597', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/969e01b0-2b0e-4fc7-926f-716986dd6e1b
+  title: Die Orgelkonzerte
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e01ebec7-98c5-450a-bf67-5650f8b4eff0
+  recordings: [646340ac-1aa6-4a2f-9594-fc90ac2ee157]

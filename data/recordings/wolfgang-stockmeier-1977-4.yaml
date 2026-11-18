@@ -1,0 +1,28 @@
+id: wolfgang-stockmeier-1977-4
+performers:
+- name: Wolfgang Stockmeier
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977, 1981]
+  place: St. Johann
+released: 2004
+original_label: null
+works:
+- {bwv: '593', complete: true}
+- {bwv: '597', complete: true}
+- {bwv: '598', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/542ca3db-b1dd-4bfc-9694-1e3601e95306
+  title: Das Orgelwerk
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7d03eee6-60c1-4c32-bb5c-2c62e2b4f0d7
+  recordings: [ab709f63-7012-4363-a88d-900c997cbcd9]

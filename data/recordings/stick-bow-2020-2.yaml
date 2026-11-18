@@ -1,0 +1,31 @@
+id: stick-bow-2020-2
+performers:
+- name: Stick&Bow
+  role: ensemble
+- name: Luc Beauséjour
+  role: harpsichord
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2020]
+  place: Église Saint-Mathieu-de-Beloeil
+released: 2021
+original_label: null
+works:
+- {bwv: '525', complete: false, movements: [II. Adagio, III. Allegro]}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6725e246-6d87-4336-859b-9d0cd3fc2e7f
+  title: Trio Sonatas, BWV 525–527
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 30c18029-318d-468b-8d4d-32a48e2257ca
+  recordings: [fb7c1cd2-1454-4540-a2b1-3f5213c5f1ef]

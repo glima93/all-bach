@@ -1,0 +1,32 @@
+id: martin-neu-2021
+performers:
+- name: Martin Neu
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021, 2022]
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/51516e05-4300-423c-8f99-021fa5f7d4e9
+  title: Trio Sonatas for Organ, BWV 525–530
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a227e68f-f83e-46c0-bade-1d22662ca937
+  recordings: [c5260994-b937-4ccf-9856-ce48bf538854]

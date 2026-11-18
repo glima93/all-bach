@@ -1,0 +1,26 @@
+id: ton-koopman-1996
+performers:
+- name: Ton Koopman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Waalse Kerk
+released: 1998
+original_label: null
+works:
+- {bwv: '529', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/822ce31d-e8b0-421a-b972-5dda4107bb5e
+  title: Organ Works, Volume 7
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [efab537f-a15e-44f6-9d1e-f45681e85ee9]

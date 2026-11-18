@@ -1,0 +1,16 @@
+bwv: "529"
+title: "Trio Sonata No. 5 in C major"
+key: "C major"
+collection: "Trio Sonatas for organ"
+genre: organ
+scoring: "organ (two manuals and pedal)"
+composed: "Leipzig, c. 1727–1730"
+movements:
+  - "I. Allegro"
+  - "II. Largo"
+  - "III. Allegro"
+notes: "Part of the six trio sonatas Bach gathered in a Leipzig autograph, according to Forkel for his eldest son Wilhelm Friedemann. The slow movement exists in an earlier organ version, once paired with the Prelude and Fugue in C major, BWV 545."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Organ_Sonatas_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/2bdf42aa-805b-4485-91e9-b23bceaf17ae

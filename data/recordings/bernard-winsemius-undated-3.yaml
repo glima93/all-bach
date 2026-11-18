@@ -1,0 +1,28 @@
+id: bernard-winsemius-undated-3
+performers:
+- name: Bernard Winsemius
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Waalse Kerk
+released: 1990
+original_label: null
+works:
+- {bwv: '526', complete: true}
+- {bwv: '528', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/580899f1-7586-44e4-8c14-d22dfc50b903
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 88f40339-296f-4351-8249-abbc73d63f49
+  recordings: [580899f1-7586-44e4-8c14-d22dfc50b903]

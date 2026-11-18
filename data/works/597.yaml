@@ -1,0 +1,15 @@
+bwv: "597"
+title: "Concerto in E-flat major"
+key: "E-flat major"
+collection: "Concerto transcriptions for organ"
+genre: organ
+scoring: "organ (manuals and pedal)"
+composed: null
+movements:
+  - "I. Allegro"
+  - "II. Gigue"
+notes: "Of doubtful authenticity: unlike the other organ concertos it has no known model, and it is now generally considered spurious, probably a trio sonata by a composer of a later generation."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Organ_concerto_(Bach)"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/700d19e9-3e30-3f8e-b2f1-71c37721066b

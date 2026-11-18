@@ -1,0 +1,31 @@
+id: walter-kraft-1961-3
+performers:
+- name: Walter Kraft
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961, 1967]
+  place: St Nicolai Kirche
+released: 2006
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6f9c02bb-2baa-41a1-be21-e5c946ab1df9
+  title: Complete Organ Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a254810e-ff5a-4ddb-8c32-a076fbcb3236
+  recordings: [64528fa7-9251-4749-bd85-f24102505d4b]

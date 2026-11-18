@@ -1,0 +1,31 @@
+id: vikingur-olafsson-undated-2
+performers:
+- name: Víkingur Ólafsson
+  role: piano
+- name: Halla Oddný Magnúsdóttir
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '525', complete: false, movements: [I. (Allegro)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eec7918e-31d1-4966-b842-13c13818b4f8
+  title: From Afar
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on upright piano.
+musicbrainz:
+  artist: 9ccfef6d-9091-4c94-9a05-f7caa6c5ee13
+  recordings: [88a1b18d-13ec-4547-ad01-1504d50a45a4]

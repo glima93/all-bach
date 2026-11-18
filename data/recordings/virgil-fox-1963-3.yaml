@@ -1,0 +1,27 @@
+id: virgil-fox-1963-3
+performers:
+- name: Virgil Fox
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1963]
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e11aee91-45a0-4fa0-b044-d821c14b5c4b
+  title: 'The Legacy Series, Vol. IV: Virgil Fox, Organ: Command Performances'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0005682c-3083-415e-ae4c-debd7be3e47e
+  recordings: [5da844ca-e0c7-400c-afa9-14f962709632]

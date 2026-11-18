@@ -1,0 +1,27 @@
+id: piet-kee-1995-2
+performers:
+- name: Piet Kee
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Martinikerk
+released: null
+original_label: null
+works:
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: false, movements: [II. Largo]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30974cd8-d517-4661-af55-d49db607af57
+  title: Piet Kee Plays Bach, Volume 4
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2c711060-9423-4832-9d9f-3a66baa2e97b
+  recordings: [f64e67a8-9fbf-43c2-95b3-0a807d2a5a3a]

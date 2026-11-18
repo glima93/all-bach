@@ -1,0 +1,31 @@
+id: la-cetra-barockorchester-basel-undated-4
+performers:
+- name: La Cetra Barockorchester Basel
+  role: orchestra
+- name: Maurice Steger
+  role: recorder
+instrument: ensemble
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '527', complete: false, movements: [II. Adagio e dolce]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2456f348-86a9-4305-97fb-57d2b8cabe12
+  title: A Tribute to Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0f8a79ba-8a22-4704-8f91-540a0dfe465c
+  recordings: [628a91bb-d352-4b5f-9625-d22ecd408832]

@@ -1,0 +1,28 @@
+id: gillian-weir-undated-2
+performers:
+- name: Gillian Weir
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '525', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/534dac32-60b4-43d8-8e18-b64f3e90c697
+  title: 'King of Instruments: The Art of Gillian Weir, Vol. 1'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1d2705ee-d826-4442-be29-5f02e6888431
+  recordings: [524b37cb-07db-4dbe-b910-d874a06a4eb7]

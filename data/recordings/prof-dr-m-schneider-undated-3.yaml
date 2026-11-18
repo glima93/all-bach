@@ -1,0 +1,28 @@
+id: prof-dr-m-schneider-undated-3
+performers:
+- name: Prof. Dr. M. Schneider
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '530', complete: false, movements: [I. Vivace]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82ae7e43-3c92-488b-b2d7-08ac550f081b
+  title: Die Welt der Orgel
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 66a462e9-ac48-4be7-9877-68ab099915ee
+  recordings: [a5d57e52-115c-4376-a7c4-c525d16304ca]

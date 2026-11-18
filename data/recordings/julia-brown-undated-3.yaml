@@ -1,0 +1,28 @@
+id: julia-brown-undated-3
+performers:
+- name: Julia Brown
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '593', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a632f68c-6f36-4ce2-819f-974bdb7fd6cf
+  title: Organ Favourites
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: baae9d3e-123b-4912-b346-6487a79e5c23
+  recordings: [23c8727a-d7a8-40c6-8f73-82ff44cf044a]

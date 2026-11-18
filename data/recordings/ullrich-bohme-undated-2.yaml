@@ -1,0 +1,27 @@
+id: ullrich-bohme-undated-2
+performers:
+- name: Ullrich Böhme
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Thomaskirche
+released: null
+original_label: null
+works:
+- {bwv: '529', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf9c55dc-80aa-483e-9315-a44651c80dd7
+  title: Orgelwerke (Thomaskirche Leipzig)
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 182bf1c3-f5cd-4374-8f4c-67258fa04681
+  recordings: [50a49f1f-23d7-4000-8fbf-ba6bc74e82b9]

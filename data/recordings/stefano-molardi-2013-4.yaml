@@ -1,0 +1,31 @@
+id: stefano-molardi-2013-4
+performers:
+- name: Stefano Molardi
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2013]
+  place: Stadtkirche „Zur Gotteshilfe“
+released: 2014
+original_label: null
+works:
+- {bwv: '525', complete: true}
+- {bwv: '526', complete: true}
+- {bwv: '527', complete: true}
+- {bwv: '528', complete: true}
+- {bwv: '529', complete: true}
+- {bwv: '530', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/14d333d5-e931-4d17-80f6-7ce8bfdaef5c
+  title: Complete Organ Music, Vol. 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 911b08e9-752e-4cc4-b24e-72ebe39e36f1
+  recordings: [b92ba41d-2e47-4b27-b0fd-38fc6a3b9c19]

@@ -1,0 +1,27 @@
+id: johannes-ernst-kohler-undated-2
+performers:
+- name: Johannes-Ernst Köhler
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Dorfkirche Fraureuth
+released: 2007
+original_label: null
+works:
+- {bwv: '525', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fccb1159-0c24-4e71-b63e-e02e98888d92
+  title: Orgelwerke auf Silbermann-Orgeln
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f6d6485c-41e4-4807-866d-1d708b6ecf4c
+  recordings: [7a564a4d-250c-4667-ba73-609df4278379]
