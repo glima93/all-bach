@@ -156,6 +156,7 @@ EXCLUDE_BY_SNAPSHOT["organ-free-works"] = {
     "07848141-b2ac-4b18-84bf-b669abe1ec81": "Wasilewski's track on Frederic 3 is the Air from BWV 1068, already filed as micha-wasilewski-undated; MusicBrainz also links it to the Toccata BWV 565",
 }
 EXCLUDE_BY_SNAPSHOT["organ-trio-sonatas"] = {
+    "6cc65c96-d086-429f-bd50-7615b23fe28f": "the Philharmonisches Staatsorchester Hamburg and its conductor are the album's credit on 30 Jahre Weihnachtskonzert (St. Jacobi); the organist of its BWV 525 is not named (as the Hamburger Kammerorchester in run 17)",
     "3979d320-3898-4a78-b7c9-7aad3f2b42ad": "the 'Sonate C-Dur (Allegro)' on the audite Amorbach festival concert (1991) is the Sinfonia of Cantata BWV 31 for three trumpets, timpani and organ, not BWV 529 (audite track list)",
 }
 EXCLUDE_BY_SNAPSHOT["organ-concertos"] = {
@@ -170,10 +171,14 @@ EXCLUDE: dict[str, str] = {}  # the current snapshot's entries, set in main()
 # the row it belongs to, with the reason.
 JOIN_BY_SNAPSHOT = {
   "organ-trio-sonatas": {
+    "4305701e-8166-4d16-ba5f-a619c5de92cc": ("71fe1203-75f3-4994-ab47-b630d9e037ea", "Alain's third Erato cycle (L'Œuvre pour orgue box): its trio sonatas are the Näfels recordings of 1984 (Erato, 1986); the Akerk credit on the box row is the cycle's, not these tracks'"),
+    "b4505bcd-8bf3-4d16-a950-f6fc1dc86812": ("e8859a72-98fd-4c1a-ac9c-b808cd5888e6", "Koopman's Bach: The Essentials (Warner, 2001) compiles his Teldec recordings; the trio sonatas are the 1995 Organ Works set"),
+    "6b6d9be7-d8fc-4fcf-a515-4f0ac7f55bda": ("6dbd3d1c-404a-4c3d-bc5e-54205629ab7f", "Newman recorded the trio sonatas on organ for Columbia (1968-70); the 1969 LP's BWV 529 is part of the set reissued on Works for Pedal Harpsichord and Organ"),
     "c85a1e12-575b-4a88-ae55-97ebe9462b86": ("90193479-2170-4176-ac9e-1b265634d68e", "Werner Jacob's Erato box The Organ Works: the undated BWV 525-527, 529 and 530 and the 1983 BWV 528 are one set on the same release"),
     "28e2b842-0aa5-4146-9b0d-a25d79ad9014": ("0d74a445-b3c9-4423-bb06-d3a16608e723", "Faust and the Akademie für Alte Musik Berlin (Teldex, harmonia mundi 2019): BWV 527 and 529 arranged on one album, split only by line-up"),
   },
   "organ-concertos": {
+    "1c3a29ee-5958-4a83-bdc8-0d5a20fa5975": ("023b9f09-586a-45f6-a3d6-5f7a0e49e434", "Werner Jacob's Erato complete organ works: the undated BWV 593 and 598 on the box are the cycle's 1982 Strasbourg recordings, as the trio sonatas on the same box"),
     "203e7253-165a-4bd3-9b8b-2f831e2bca9c": ("8a2c43c2-647c-4dc5-b10e-9679d3ba13f4", "Rübsam's Das Orgelwerk (Philips): the undated BWV 597 and 598 tracks belong to the 1977 cycle on the same release"),
   },
   "other-keyboard-suites": {
@@ -349,6 +354,12 @@ NATIVE_EXTRA_BY_SNAPSHOT = {
 # fields to set, with the reason. Fix upstream in MusicBrainz too, then remove the entry here.
 OVERRIDE_BY_SNAPSHOT = {
   "organ-trio-sonatas": {
+    "6dbd3d1c-404a-4c3d-bc5e-54205629ab7f": ({"performers": [{"name": "Anthony Newman", "role": "organ"}]},
+        "Newman's Columbia trio sonatas (1968-70) are on the organ (bach-cantatas.com discography); the row credits him only as 'solo'"),
+    "71fe1203-75f3-4994-ab47-b630d9e037ea": ({"place": "Pfarrkirche St. Hilarius Naefels"},
+        "the box row joined in credits the Akerk, Groningen, a venue of the cycle's other volumes; the trio sonatas were recorded at Näfels"),
+    "3104b3ec-8a4f-4245-904c-d2f5b48e48f4": ({"performers": [{"name": "Miklós Spányi", "role": "organ"}]},
+        "'Otto Winter' on the budget box 1000 Meisterwerke is a label pseudonym; MusicBrainz's role credit names Miklós Spányi on the organ"),
     "0d74a445-b3c9-4423-bb06-d3a16608e723": ({"performers": [{"name": "Akademie für Alte Musik Berlin", "role": "ensemble"}, {"name": "Isabelle Faust", "role": "violin"}, {"name": "Xenia Löffler", "role": "oboe"}, {"name": "Bernhard Forck", "role": "violin"}, {"name": "Raphael Alpermann", "role": "harpsichord"}, {"name": "Jan Freiheit", "role": "cello"}], "performance_practice": "historical"},
         "Faust's album with the Akademie für Alte Musik Berlin, a period group: the roles in MusicBrainz name the players; the ensemble played no harpsichord"),
     "88a1b18d-13ec-4547-ad01-1504d50a45a4": ({"performers": [{"name": "Víkingur Ólafsson", "role": "piano"}, {"name": "Halla Oddný Magnúsdóttir", "role": "piano"}], "instrument": "piano", "performance_practice": "modern"},
@@ -1597,6 +1608,8 @@ def main(snapshot: str) -> int:
                 new["works"] = works_block({**perf, "mv": fix["movements"]}, bwvs, moves)
             if "released" in fix:
                 new["released"] = fix["released"]
+            if "place" in fix:
+                new["recorded"]["place"] = fix["place"]
             if "years" in fix:
                 new["recorded"]["years"] = Flow(fix["years"])
             if "arrangement" in fix:

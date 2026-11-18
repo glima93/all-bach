@@ -7,8 +7,8 @@ performance_practice: unknown
 arrangement: false
 recorded:
   years: []
-  place: null
-released: 2005
+  place: Trinity Lutheran Church
+released: 1969
 original_label: null
 works:
 - {bwv: '525', complete: true}
@@ -26,8 +26,7 @@ status: draft
 help_wanted:
 - Recording year
 - Check whether this is the same performance as another entry by this performer
-- Recording place
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:
-  recordings: [6dbd3d1c-404a-4c3d-bc5e-54205629ab7f]
+  recordings: [6b6d9be7-d8fc-4fcf-a515-4f0ac7f55bda, 6dbd3d1c-404a-4c3d-bc5e-54205629ab7f]
