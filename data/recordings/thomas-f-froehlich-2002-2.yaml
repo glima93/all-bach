@@ -1,0 +1,28 @@
+id: thomas-f-froehlich-2002-2
+performers:
+- name: Thomas F. Froehlich
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002, 2003]
+  place: First Presbyterian Church of Dallas
+released: 2003
+original_label: null
+works:
+- {bwv: '632', complete: true}
+- {bwv: '636', complete: true}
+- {bwv: '642', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2eea5b52-929c-41c6-bb66-96e085a7adb0
+  title: Fanfare! The Organs at First Presbyterian Church - Dallas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: da5849bb-553a-4a98-95bf-0710a5715b07
+  recordings: [a3ef7591-29a9-424d-8dd3-37b381d370a5]

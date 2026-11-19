@@ -1,0 +1,26 @@
+id: pere-vincent-marie-2002-3
+performers:
+- name: Père Vincent-Marie
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002, 2003]
+  place: Abbaye Notre-Dame d'Ourscamp
+released: 2004
+original_label: null
+works:
+- {bwv: '641', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bece55b3-ba3a-4113-98d4-950b54d6fcce
+  title: 'Les Orgues de l''Abbaye d''Ourscamp: J.F. Dandrieu, J.S. Bach , M. Dupré'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 53dc6e0c-4191-4374-8424-522c96f8700c
+  recordings: [c8443c1d-a841-4bb8-a774-8cf6dc0c857c]

@@ -1,0 +1,31 @@
+id: pierre-cochereau-undated-3
+performers:
+- name: Pierre Cochereau
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Cathédrale Notre-Dame de Paris
+released: 1959
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '602', complete: true}
+- {bwv: '605', complete: true}
+- {bwv: '610', complete: true}
+- {bwv: '614', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0c67db2d-2dc8-40b5-a0a2-a74a2b2e6ba0
+  title: Noël à Notre-Dame
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d1860493-9903-4dba-8689-9a70587fe231
+  recordings: [2bf61aff-a117-4142-8ed0-7c388aecffce]

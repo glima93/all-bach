@@ -1,0 +1,26 @@
+id: george-guest-1966
+performers:
+- name: George Guest
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966]
+  place: St John’s College Chapel
+released: 1967
+original_label: null
+works:
+- {bwv: '630', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/deb230b1-6662-440e-85f0-8e0113af7742
+  title: Evensong for Ascensiontide
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8e80b519-7d12-4b67-b874-81fe061facc4
+  recordings: [ae3978d4-d979-4005-a024-d6dcbabc4a32]

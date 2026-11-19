@@ -1,0 +1,27 @@
+id: elizabeth-bussac-1994
+performers:
+- name: Elizabeth Bussac
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: Abteikirche St. Jakobus der Ältere
+released: 1994
+original_label: null
+works:
+- {bwv: '603', complete: true}
+- {bwv: '608', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a4dcaa20-7f7e-440d-a8ca-cfb9efe9c390
+  title: Geistliche Musik aus der Abtei Marienmünster
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 299af63e-771c-4067-a700-0991e1875642
+  recordings: [b2ae8546-eaab-4d16-94c4-8ec794a6bc68]

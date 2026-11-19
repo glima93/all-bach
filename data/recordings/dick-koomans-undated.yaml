@@ -1,0 +1,27 @@
+id: dick-koomans-undated
+performers:
+- name: Dick Koomans
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Grote Kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '610', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d4e67be-5771-400a-84e7-b64b574b0451
+  title: Het Historische Orgel in Nederland
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d513d910-e076-4983-9f20-5171355fd6d6
+  recordings: [aaa6b686-0c0b-44c9-80d2-e5edda966d8c]

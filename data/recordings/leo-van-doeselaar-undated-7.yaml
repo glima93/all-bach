@@ -1,0 +1,30 @@
+id: leo-van-doeselaar-undated-7
+performers:
+- name: Leo van Doeselaar
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Grote Sint Laurenskerk
+released: 1999
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '617', complete: true}
+- {bwv: '637', complete: true}
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d4e67be-5771-400a-84e7-b64b574b0451
+  title: Het Historische Orgel in Nederland
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 92cf381b-ec74-442f-92c5-73ec60ecd44a
+  recordings: [5c80bec8-2823-434b-9e39-c8de585045e1]

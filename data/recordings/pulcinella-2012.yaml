@@ -1,0 +1,29 @@
+id: pulcinella-2012
+performers:
+- name: Pulcinella
+  role: orchestra
+- name: Ophélie Gaillard
+  role: violoncello piccolo
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2012]
+  place: Hôtel de l’Industrie
+released: 2012
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a5d4251a-7950-465c-9555-fdddf9685a33
+  title: Bach Arias
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b47800cd-8e9b-4476-959b-a62c12588672
+  recordings: [58607c70-0129-4098-b87a-30f9ebbe6201]

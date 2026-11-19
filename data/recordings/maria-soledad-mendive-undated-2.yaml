@@ -1,0 +1,28 @@
+id: maria-soledad-mendive-undated-2
+performers:
+- name: María Soledad Mendive
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Torreciudad
+released: 1997
+original_label: null
+works:
+- {bwv: '601', complete: true}
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d39b6d53-bef2-4cf9-b2d8-76738d03ec24
+  title: El gran órgano de Torreciudad
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 96547724-3054-424c-be4b-5fa5eb3d1e02
+  recordings: [4b198675-799e-48a7-b731-99502dcac33c]

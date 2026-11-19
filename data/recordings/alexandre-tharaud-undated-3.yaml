@@ -1,0 +1,29 @@
+id: alexandre-tharaud-undated-3
+performers:
+- name: Alexandre Tharaud
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d083bc1-bc01-43b5-be1d-b7698eb34352
+  title: Amour
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 83b74911-aa21-4e31-ad1c-5eb505248f5a
+  recordings: [a0ad583b-7310-4cbd-b688-af74bb894b2e]

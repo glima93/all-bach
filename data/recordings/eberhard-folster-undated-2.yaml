@@ -1,0 +1,29 @@
+id: eberhard-folster-undated-2
+performers:
+- name: Eberhard Fölster
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1971
+original_label: null
+works:
+- {bwv: '606', complete: true}
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/48090179-7729-42e4-aab0-f10002c038f1
+  title: Récital d'orgue
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4e8a8bef-d090-47ad-975d-d0f3ef94b2fe
+  recordings: [1139d211-69c3-42ca-8c7f-11426c78d86e]

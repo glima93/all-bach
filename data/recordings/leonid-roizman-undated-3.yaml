@@ -1,0 +1,35 @@
+id: leonid-roizman-undated-3
+performers:
+- name: Leonid Roizman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '601', complete: true}
+- {bwv: '610', complete: true}
+- {bwv: '614', complete: true}
+- {bwv: '629', complete: true}
+- {bwv: '631', complete: true}
+- {bwv: '633', complete: true}
+- {bwv: '639', complete: true}
+- {bwv: '641', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d49673f9-eb93-42e8-8d46-b4d8650843d2
+  title: Works for Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39cfcebe-ff0b-4fee-913c-f28f90146f17
+  recordings: [21fcf971-30f8-41d3-953c-f6e0d120aa46]

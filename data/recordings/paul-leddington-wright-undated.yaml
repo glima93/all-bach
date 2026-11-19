@@ -1,0 +1,28 @@
+id: paul-leddington-wright-undated
+performers:
+- name: Paul Leddington Wright
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '608', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f229f824-5706-4e7e-bc01-f20e434533ff
+  title: Carols from Coventry
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 44aa4187-e838-4f7f-a82d-4f019e761ee2
+  recordings: [5cb35d6c-4ddb-4173-b12f-e69b72c55f44]

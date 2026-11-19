@@ -1,0 +1,28 @@
+id: wim-van-beek-undated
+performers:
+- name: Wim Van Beek
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Martinikerk
+released: null
+original_label: null
+works:
+- {bwv: '615', complete: true}
+- {bwv: '633', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2ce1e0a0-c123-4cef-835a-76b8fa8e38fa
+  title: Nederlandse Orgelpracht
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9478b306-d220-44eb-a940-4fb0de14a227
+  recordings: [3182b4c8-6ffd-4132-afae-3f0d1876e2cc]

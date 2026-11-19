@@ -1,0 +1,42 @@
+id: gerhard-gnann-1998
+performers:
+- name: Gerhard Gnann
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998, 1999]
+  place: Église Saint-Jean-Baptiste de Saessolsheim
+released: 2000
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '605', complete: true}
+- {bwv: '609', complete: true}
+- {bwv: '610', complete: true}
+- {bwv: '614', complete: true}
+- {bwv: '616', complete: true}
+- {bwv: '618', complete: true}
+- {bwv: '622', complete: true}
+- {bwv: '624', complete: true}
+- {bwv: '626', complete: true}
+- {bwv: '627', complete: true}
+- {bwv: '628', complete: true}
+- {bwv: '635', complete: true}
+- {bwv: '636', complete: true}
+- {bwv: '639', complete: true}
+- {bwv: '641', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/000a4136-9a98-43ae-b681-230cd7a399fa
+  title: 'A Book of Chorale‐Settings: Patience & Serenity / Jesus Hymns'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c46ec6-5958-49c4-b301-ca59f11b5f53
+  recordings: [3f2575a3-a5b6-4fd5-8900-adf4292dbcb9, 68f15867-c8a2-4c29-8241-0b8656f0c011, aa34565d-a42d-4dd5-a07f-31329922b710,
+    b32c1ee4-3473-490a-a6ff-be9b45c3ac33, cd3ee2a7-bd68-4f8b-8aef-ba25c17f4131]

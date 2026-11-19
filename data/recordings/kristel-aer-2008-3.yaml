@@ -1,0 +1,28 @@
+id: kristel-aer-2008-3
+performers:
+- name: Kristel Aer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '622', complete: true}
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bcdf91a2-e7b3-4644-8d04-b7529721216e
+  title: Juuru Mihkli kiriku orel
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3dcb4d57-8543-4d79-b030-39d1979c2058
+  recordings: [443916d9-383f-4108-80dd-ad69693f2455]

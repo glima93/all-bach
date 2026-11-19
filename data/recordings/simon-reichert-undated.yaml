@@ -1,0 +1,27 @@
+id: simon-reichert-undated
+performers:
+- name: Simon Reichert
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Stiftskirche
+released: 2018
+original_label: null
+works:
+- {bwv: '641', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c3395c02-3487-4f92-90c4-804f4c17e686
+  title: Ascendo Ad Patrem Meum (Organ Works Of Renaissance And Baroque)
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49140736-b449-415d-b62b-523f66fd5a86
+  recordings: [55e7a8a7-b97e-49ef-8824-3b9815783a14]

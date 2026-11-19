@@ -1,0 +1,27 @@
+id: bart-jacobs-2016
+performers:
+- name: Bart Jacobs
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Grote Kerk
+released: null
+original_label: null
+works:
+- {bwv: '607', complete: true}
+- {bwv: '629', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/218dde10-62c0-4f2c-8e41-756b257f63fb
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a4484f39-bd41-45e2-b213-33d6d278be46
+  recordings: [218dde10-62c0-4f2c-8e41-756b257f63fb]

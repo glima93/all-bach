@@ -1,0 +1,69 @@
+id: olivier-vernet-1997-5
+performers:
+- name: Olivier Vernet
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: Basilica di San Simpliciano
+released: 2008
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '601', complete: true}
+- {bwv: '602', complete: true}
+- {bwv: '603', complete: true}
+- {bwv: '604', complete: true}
+- {bwv: '605', complete: true}
+- {bwv: '606', complete: true}
+- {bwv: '607', complete: true}
+- {bwv: '608', complete: true}
+- {bwv: '609', complete: true}
+- {bwv: '611', complete: true}
+- {bwv: '612', complete: true}
+- {bwv: '613', complete: true}
+- {bwv: '614', complete: true}
+- {bwv: '615', complete: true}
+- {bwv: '616', complete: true}
+- {bwv: '617', complete: true}
+- {bwv: '618', complete: true}
+- {bwv: '619', complete: true}
+- {bwv: '620', complete: true}
+- {bwv: '621', complete: true}
+- {bwv: '622', complete: true}
+- {bwv: '623', complete: true}
+- {bwv: '624', complete: true}
+- {bwv: '625', complete: true}
+- {bwv: '626', complete: true}
+- {bwv: '627', complete: true}
+- {bwv: '628', complete: true}
+- {bwv: '629', complete: true}
+- {bwv: '630', complete: true}
+- {bwv: '631', complete: true}
+- {bwv: '632', complete: true}
+- {bwv: '633', complete: true}
+- {bwv: '634', complete: true}
+- {bwv: '635', complete: true}
+- {bwv: '636', complete: true}
+- {bwv: '637', complete: true}
+- {bwv: '638', complete: true}
+- {bwv: '639', complete: true}
+- {bwv: '640', complete: true}
+- {bwv: '641', complete: true}
+- {bwv: '642', complete: true}
+- {bwv: '643', complete: true}
+- {bwv: '644', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b06245df-a444-4474-8e5c-7871c2a11b05
+  title: 'Johann Sebastian Bach: Intégrale pour orgue'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 215d92b3-630f-46b3-bdc9-5995333efcbb
+  recordings: [096d4840-7c2b-4a73-ba85-7e0e3eb288cf]

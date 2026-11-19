@@ -1,0 +1,28 @@
+id: georges-cziffra-1968
+performers:
+- name: Georges Cziffra
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: [1968]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '629', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7514ba82-7388-4991-903b-06395168091f
+  title: 'Cziffra Edition, Vol. 6 : “Bis” & Inédits'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 88f4b33d-1351-4ea4-bb7b-0498628cc026
+  recordings: [06dc4c37-b5ab-41b1-b0ab-7edad5db6bee]

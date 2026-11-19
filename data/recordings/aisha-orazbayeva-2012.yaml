@@ -1,0 +1,34 @@
+id: aisha-orazbayeva-2012
+performers:
+- name: Aisha Orazbayeva
+  role: violin
+- name: Lucy Railton
+  role: cello
+- name: Fred Thomas
+  role: piano
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2012, 2018]
+  place: University of Huddersfield
+released: 2021
+original_label: null
+works:
+- {bwv: '601', complete: true}
+- {bwv: '618', complete: true}
+- {bwv: '619', complete: true}
+- {bwv: '633', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fa7aab21-4fd5-477f-aa18-ddcb5ef4c356
+  title: Three or One
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52af32d0-1a15-4666-aeb4-19e6fd79a825
+  recordings: [a5bb6ed4-b424-4f0b-a556-e3fdbdff0ae7]

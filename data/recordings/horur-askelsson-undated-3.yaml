@@ -1,0 +1,27 @@
+id: horur-askelsson-undated-3
+performers:
+- name: Hörður Áskelsson
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Hallgrímskirkja
+released: 2014
+original_label: null
+works:
+- {bwv: '622', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8fda9909-ce81-4380-af65-4502fbb320fb
+  title: Hörður Áskelsson plays the Klais Organ in Hallgrímskirkja
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 438d0de1-8203-46e5-87c7-3b2212104831
+  recordings: [1f802e16-6eb5-49ef-94db-402b082a4f11]

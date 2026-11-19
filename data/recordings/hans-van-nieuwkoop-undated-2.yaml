@@ -1,0 +1,27 @@
+id: hans-van-nieuwkoop-undated-2
+performers:
+- name: Hans van Nieuwkoop
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Grote Kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '613', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d4e67be-5771-400a-84e7-b64b574b0451
+  title: Het Historische Orgel in Nederland
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1cffa1db-680b-492c-80c2-264fd1682dfc
+  recordings: [5a2337ce-431c-44fa-a208-972eda087d52]

@@ -1,0 +1,29 @@
+id: eastman-brass-undated
+performers:
+- name: Eastman Brass
+  role: ensemble
+- name: James Johnson
+  role: organ
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: Abbey Chapel, Mount Holyoke College
+released: 1993
+original_label: null
+works:
+- {bwv: '625', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1c930d4d-2f95-4c16-aba3-02804ad829da
+  title: A Thousand Pearls
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fb24075-9484-497d-80f4-0831200897ad
+  recordings: [fef3af39-eb1d-4a78-99bf-b08ebab0cbc9]

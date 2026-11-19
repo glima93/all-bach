@@ -1,0 +1,29 @@
+id: calmus-ensemble-leipzig-undated
+performers:
+- name: Calmus Ensemble Leipzig
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '642', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c3ca5e7-a7ee-48a3-b316-4b1528da3732
+  title: Bach for Five
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b75a3d00-c21c-48d6-a73a-fdd1b3474e06
+  recordings: [ad129981-9c2f-4469-b0cd-1ece25875b66]

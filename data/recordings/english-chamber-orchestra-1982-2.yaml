@@ -1,0 +1,29 @@
+id: english-chamber-orchestra-1982-2
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Raymond Leppard
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1982]
+  place: CBS Studios
+released: 1982
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/edc17272-8624-46e7-9381-62b020e277ea
+  title: Alla Barocca
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [4da5f043-2db1-4179-859b-3c15d191cbac]

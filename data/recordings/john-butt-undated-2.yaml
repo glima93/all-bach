@@ -1,0 +1,32 @@
+id: john-butt-undated-2
+performers:
+- name: John Butt
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Greyfriars Kirk
+released: 2015
+original_label: null
+works:
+- {bwv: '603', complete: true}
+- {bwv: '605', complete: true}
+- {bwv: '606', complete: true}
+- {bwv: '607', complete: true}
+- {bwv: '608', complete: true}
+- {bwv: '614', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3268de65-a0e5-4b33-88b2-d6ce972b4b56
+  title: Magnificat / Christmas Cantata
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad5780b2-5140-4143-a81d-5c76c4849b74
+  recordings: [18d4d9ea-0cdd-46de-a458-6b12bd8b3b2c]

@@ -1,0 +1,28 @@
+id: philip-ledger-undated
+performers:
+- name: Philip Ledger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1982
+original_label: null
+works:
+- {bwv: '641', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3dfdbc75-c0d1-4495-809f-4257c1f68fda
+  title: Organ Voluntaries from King's College
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 01dc8e0c-e85b-412d-9770-66ddaae1fd18
+  recordings: [600a1a41-e230-4323-8f53-b4fab67b7b4c]

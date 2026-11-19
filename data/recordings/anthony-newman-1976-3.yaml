@@ -1,0 +1,30 @@
+id: anthony-newman-1976-3
+performers:
+- name: Anthony Newman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: null
+released: 1977
+original_label: null
+works:
+- {bwv: '605', complete: true}
+- {bwv: '614', complete: true}
+- {bwv: '619', complete: true}
+- {bwv: '621', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c6fb6856-8697-44d4-b768-4ff636192115
+  title: The 24 Organ Preludes and Fugues, Volume 2
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ea4c412-b5db-499a-ad58-8251d91526ca
+  recordings: [88991bfd-022e-4651-84de-049040537d67]

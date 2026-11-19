@@ -1,0 +1,29 @@
+id: the-royal-wind-music-undated
+performers:
+- name: The Royal Wind Music
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '622', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/25b0beda-4862-4b5b-80d6-00da162ebdad
+  title: The Flute-Heaven of the Gods
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 41462104-8446-47a8-b5ca-62a8aa15cf7b
+  recordings: [104b1c3c-6ac4-428a-845a-b77a171b3dd7]

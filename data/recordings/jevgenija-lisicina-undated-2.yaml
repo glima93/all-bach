@@ -1,0 +1,45 @@
+id: jevgenija-lisicina-undated-2
+performers:
+- name: Jevgēņija Ļisicina
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '601', complete: true}
+- {bwv: '602', complete: true}
+- {bwv: '603', complete: true}
+- {bwv: '604', complete: true}
+- {bwv: '605', complete: true}
+- {bwv: '606', complete: true}
+- {bwv: '607', complete: true}
+- {bwv: '608', complete: true}
+- {bwv: '609', complete: true}
+- {bwv: '610', complete: true}
+- {bwv: '611', complete: true}
+- {bwv: '612', complete: true}
+- {bwv: '613', complete: true}
+- {bwv: '614', complete: true}
+- {bwv: '615', complete: true}
+- {bwv: '616', complete: true}
+- {bwv: '617', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/66adee04-0c7c-4ca3-880c-fa9150a70c64
+  title: Svētvakars
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3d71dacc-6942-4bf6-a4c6-45c4392c0a5c
+  recordings: [b6036f35-91c9-44c4-96c2-844b1c8e45d8]

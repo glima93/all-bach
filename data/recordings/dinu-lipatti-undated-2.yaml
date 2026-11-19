@@ -1,0 +1,28 @@
+id: dinu-lipatti-undated-2
+performers:
+- name: Dinu Lipatti
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Studio 2, Radio Geneva
+released: 1986
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e56ab893-6c20-4e54-a9eb-3c8cc5d4e50a
+  title: 'Bach: Partita no. 1, BWV. 825, etc. /Mozart: Sonata no. 8, KV. 310 / D. Scarlatti: 2 Sonatas'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dff7bf31-661a-4c7e-962b-4b75eea6fdeb
+  recordings: [c150e1d1-162e-4802-a0c5-773d5f072854, fee5d41b-faf0-4ea4-89f0-848ff4b43188]

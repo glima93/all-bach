@@ -1,0 +1,27 @@
+id: masaaki-suzuki-2011
+performers:
+- name: Masaaki Suzuki
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2011]
+  place: 神戸松蔭女子学院大学チャペル
+released: 2012
+original_label: null
+works:
+- {bwv: '639', complete: true}
+- {bwv: '641', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fb40ef39-ee38-4063-b9d0-c73d7b63f3aa
+  title: Bach for Japan
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d41e5072-3a8e-4f1f-97ab-3b0820de74c1
+  recordings: [9d600361-5e9b-4bb6-a1a5-04d43c72bac3]

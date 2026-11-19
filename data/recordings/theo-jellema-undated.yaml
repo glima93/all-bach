@@ -1,0 +1,29 @@
+id: theo-jellema-undated
+performers:
+- name: Theo Jellema
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '615', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/d1d42e2f-53b9-4c3c-8ea9-d05bc998c078
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 336f7c9d-31ef-4146-a425-7df5121028f5
+  recordings: [d1d42e2f-53b9-4c3c-8ea9-d05bc998c078]

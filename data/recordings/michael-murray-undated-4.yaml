@@ -1,0 +1,34 @@
+id: michael-murray-undated-4
+performers:
+- name: Michael Murray
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Louise M. Davies Symphony Hall
+released: 1983
+original_label: null
+works:
+- {bwv: '604', complete: true}
+- {bwv: '605', complete: true}
+- {bwv: '615', complete: true}
+- {bwv: '622', complete: true}
+- {bwv: '625', complete: true}
+- {bwv: '639', complete: true}
+- {bwv: '643', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/75ec5302-9b7f-40a7-bca0-a5e853e07083
+  title: The Ruffatti Organ in Davies Symphony Hall
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45d5818f-8ae4-47d9-9f1d-6c0e2fd99a3c
+  recordings: [6c1bb644-3288-4443-ab67-80b63cc4fde6]

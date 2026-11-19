@@ -1,0 +1,27 @@
+id: roger-judd-undated
+performers:
+- name: Roger Judd
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St George’s Chapel
+released: 1998
+original_label: null
+works:
+- {bwv: '607', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fc6598c9-b322-44d5-9ce2-c2228795a14d
+  title: Organ music for Christmas
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b721797-2678-4453-a5b5-20bed2e60022
+  recordings: [a34a70b0-bf82-4d3d-9b3a-79115c624c3d]

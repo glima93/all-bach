@@ -1,0 +1,29 @@
+id: jacques-kauffmann-undated
+performers:
+- name: Jacques Kauffmann
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Couvent de l'Annonciation
+released: 1997
+original_label: null
+works:
+- {bwv: '601', complete: true}
+- {bwv: '606', complete: true}
+- {bwv: '617', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ed30ee1d-72b3-4429-848a-d8c08a94814b
+  title: 21 Noëls pour orgue
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c2a69ef-e0a7-4797-bd2f-8b32519f7503
+  recordings: [80f81047-e133-405c-8f68-fd6bbc1ab612]

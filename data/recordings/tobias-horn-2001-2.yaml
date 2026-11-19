@@ -1,0 +1,27 @@
+id: tobias-horn-2001-2
+performers:
+- name: Tobias Horn
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2001]
+  place: Kirche St. Josef
+released: 2001
+original_label: null
+works:
+- {bwv: '616', complete: true}
+- {bwv: '617', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/49ed2440-aea6-4fbc-be22-57d491ef586b
+  title: Tobias Horn an der Collon-Orgel in St. Josef Kempen-Kamperlings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 68365654-938d-4732-be89-df45d690b5f2
+  recordings: [c5362dbc-36c7-47c8-828e-4e0adcf4c1d4]

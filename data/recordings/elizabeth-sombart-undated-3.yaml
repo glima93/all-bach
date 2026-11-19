@@ -1,0 +1,29 @@
+id: elizabeth-sombart-undated-3
+performers:
+- name: Elizabeth Sombart
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17a705a5-601d-48fd-a8c2-416887974a85
+  title: Simplement piano
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24f347be-9dac-4e12-ac9d-e0b8d93fb297
+  recordings: [96705e19-020c-48fe-b2f9-5fd96cccaf82]

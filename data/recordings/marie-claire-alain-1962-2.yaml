@@ -1,0 +1,26 @@
+id: marie-claire-alain-1962-2
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: Varde Kirke
+released: 1980
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e87b5375-e509-4a59-bd5b-6606ebe0bef2
+  title: Orgelkonzerte von Händel & Haydn / Orgelwerke von Pachelbel & J. S. Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [0af876b2-03c4-4ac4-8a38-2e4b350361bb]

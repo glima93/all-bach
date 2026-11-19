@@ -1,0 +1,29 @@
+id: francois-rene-duchable-undated-2
+performers:
+- name: François‐René Duchâble
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8045e88-9c32-43f5-bffd-b1476d12577d
+  title: 'Beethoven: Sonates "Pathétique" / "Clair de Lune" / Scarlatti / Bach / Mozart'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f3d4a518-5c59-4ea6-a831-e5371504edf3
+  recordings: [60c7da00-ea63-4f6d-839e-c1e9f503adff]

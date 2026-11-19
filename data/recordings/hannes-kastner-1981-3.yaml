@@ -1,0 +1,26 @@
+id: hannes-kastner-1981-3
+performers:
+- name: Hannes Kästner
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1981]
+  place: Thomaskirche
+released: 1984
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c0b960f8-71a0-4d87-85c8-710548d0a972
+  title: 'Die Schukeorgel der Thomaskirche zu Leipzig: Hannes Kästner spielt Bach'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c7566c3c-6a47-43d1-95c6-55cb9edea379
+  recordings: [ef5fc6fb-297f-4f6c-ae0b-4c5df39cf05f]

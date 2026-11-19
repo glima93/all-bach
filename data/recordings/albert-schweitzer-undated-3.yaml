@@ -1,0 +1,34 @@
+id: albert-schweitzer-undated-3
+performers:
+- name: Albert Schweitzer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Pfarrkirche Gunsbach
+released: 1993
+original_label: null
+works:
+- {bwv: '604', complete: true}
+- {bwv: '611', complete: true}
+- {bwv: '616', complete: true}
+- {bwv: '622', complete: true}
+- {bwv: '629', complete: true}
+- {bwv: '639', complete: true}
+- {bwv: '643', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/64aa03d7-1711-437a-ab77-f088a68f9e22
+  title: Chorale Preludes
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df4906d0-2a9e-461e-b6b5-1bcca3731483
+  recordings: [a3f524c5-083b-4f86-8a35-a7b3456de132]
