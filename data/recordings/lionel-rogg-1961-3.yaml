@@ -8,7 +8,7 @@ arrangement: false
 recorded:
   years: [1961, 1962, 1964]
   place: Grossmünster
-released: null
+released: 1976
 original_label: null
 works:
 - {bwv: '600', complete: true}
@@ -33,7 +33,29 @@ works:
 - {bwv: '619', complete: true}
 - {bwv: '620', complete: true}
 - {bwv: '621', complete: true}
+- {bwv: '622', complete: true}
+- {bwv: '623', complete: true}
+- {bwv: '624', complete: true}
+- {bwv: '625', complete: true}
 - {bwv: '626', complete: true}
+- {bwv: '627', complete: true}
+- {bwv: '628', complete: true}
+- {bwv: '629', complete: true}
+- {bwv: '630', complete: true}
+- {bwv: '631', complete: true}
+- {bwv: '632', complete: true}
+- {bwv: '633', complete: true}
+- {bwv: '634', complete: true}
+- {bwv: '635', complete: true}
+- {bwv: '636', complete: true}
+- {bwv: '637', complete: true}
+- {bwv: '638', complete: true}
+- {bwv: '639', complete: true}
+- {bwv: '640', complete: true}
+- {bwv: '641', complete: true}
+- {bwv: '642', complete: true}
+- {bwv: '643', complete: true}
+- {bwv: '644', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -45,4 +67,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 90e17964-b04a-4c37-b952-3c9dfc16c430
-  recordings: [cc90b3ba-d4fd-42cb-b03f-f11e6808ee2a]
+  recordings: [926dde9a-78dd-4ee0-aa23-3bddaac1f5e5, cc90b3ba-d4fd-42cb-b03f-f11e6808ee2a]
