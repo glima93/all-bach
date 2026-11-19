@@ -1,0 +1,31 @@
+id: hamburg-soloists-undated
+performers:
+- name: Hamburg Soloists
+  role: orchestra
+- name: Emil Klein
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '622', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f8258900-a2aa-409d-ac4e-f6b9c8d4ad59
+  recordings: [3a2fc84c-92f7-4dea-8c22-6b9d69d8f17d]

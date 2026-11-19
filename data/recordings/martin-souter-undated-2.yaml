@@ -1,0 +1,28 @@
+id: martin-souter-undated-2
+performers:
+- name: Martin Souter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '608', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/baf3955e-bb97-4f34-97dd-a24dcad9df5f
+  title: A Family Christmas Box
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9796e8fd-9f4d-4ef1-ac06-30bd4a830bfe
+  recordings: [6a0f43af-0228-4d28-a77a-b8e9a5e217ee]

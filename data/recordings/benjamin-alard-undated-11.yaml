@@ -1,0 +1,77 @@
+id: benjamin-alard-undated-11
+performers:
+- name: Benjamin Alard
+  role: organ
+- name: Chœur d'enfants de la Maîtrise de Notre-Dame de Paris
+  role: choir
+- name: Émilie Fleury
+  role: conductor
+- name: Ensemble Vocal Bergamasque
+  role: choir
+- name: Marine Fribourg
+  role: conductor
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Temple du Foyer de l'Âme
+released: 2022
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '601', complete: true}
+- {bwv: '602', complete: true}
+- {bwv: '603', complete: true}
+- {bwv: '604', complete: true}
+- {bwv: '605', complete: true}
+- {bwv: '606', complete: true}
+- {bwv: '607', complete: true}
+- {bwv: '608', complete: true}
+- {bwv: '609', complete: true}
+- {bwv: '610', complete: true}
+- {bwv: '611', complete: true}
+- {bwv: '612', complete: true}
+- {bwv: '613', complete: true}
+- {bwv: '614', complete: true}
+- {bwv: '615', complete: true}
+- {bwv: '616', complete: true}
+- {bwv: '617', complete: true}
+- {bwv: '618', complete: true}
+- {bwv: '619', complete: true}
+- {bwv: '620', complete: true}
+- {bwv: '621', complete: true}
+- {bwv: '622', complete: true}
+- {bwv: '623', complete: true}
+- {bwv: '624', complete: true}
+- {bwv: '625', complete: true}
+- {bwv: '626', complete: true}
+- {bwv: '627', complete: true}
+- {bwv: '629', complete: true}
+- {bwv: '630', complete: true}
+- {bwv: '631', complete: true}
+- {bwv: '632', complete: true}
+- {bwv: '633', complete: true}
+- {bwv: '635', complete: true}
+- {bwv: '636', complete: true}
+- {bwv: '637', complete: true}
+- {bwv: '638', complete: true}
+- {bwv: '639', complete: true}
+- {bwv: '640', complete: true}
+- {bwv: '641', complete: true}
+- {bwv: '642', complete: true}
+- {bwv: '643', complete: true}
+- {bwv: '644', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b867d03-fe50-42f6-a222-b36014649b24
+  title: 'The Complete Works for Keyboard 7: Orgelbüchlein'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d6ff33cf-56b0-4cd0-ac2a-e777d2c34b81
+  recordings: [6f75a07d-0ba4-41f5-a344-1497d5b6053b, cf619d80-ebf0-48be-a537-9b81d103f440]

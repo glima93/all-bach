@@ -1,0 +1,38 @@
+id: piet-kee-1988-2
+performers:
+- name: Piet Kee
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: Kathedrale basiliek Sint Bavo
+released: 1989
+original_label: null
+works:
+- {bwv: '614', complete: true}
+- {bwv: '618', complete: true}
+- {bwv: '623', complete: true}
+- {bwv: '624', complete: true}
+- {bwv: '625', complete: true}
+- {bwv: '626', complete: true}
+- {bwv: '633', complete: true}
+- {bwv: '636', complete: true}
+- {bwv: '637', complete: true}
+- {bwv: '639', complete: true}
+- {bwv: '640', complete: true}
+- {bwv: '641', complete: true}
+- {bwv: '642', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/341d34a9-3840-4930-aee8-6183278e2326
+  title: Piet Kee Plays Bach, Volume 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2c711060-9423-4832-9d9f-3a66baa2e97b
+  recordings: [ead653b9-e5d4-4978-bddb-13f0481c5ef3]

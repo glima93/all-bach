@@ -1,0 +1,26 @@
+id: gustav-leonhardt-1972-3
+performers:
+- name: Gustav Leonhardt
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972, 1973]
+  place: Waalse Kerk
+released: 1997
+original_label: null
+works:
+- {bwv: '618', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e4fe3a5f-338e-42d5-bf3f-cba61bc51fac
+  title: Great Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b0750a-7318-4075-9470-43b82d454ea0
+  recordings: [39d93273-fe2d-4d26-af8d-968bc9873e3e]

@@ -1,0 +1,30 @@
+id: egon-petri-undated-2
+performers:
+- name: Egon Petri
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '615', complete: true}
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c36207b5-c35e-4e35-8682-ef1c554e3d3b
+  title: The Liszt Legacy
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ee93120f-9727-41c6-9034-bbb0dc68ea70
+  recordings: [1269296f-652f-4f5e-aaf0-85e5cf361986]

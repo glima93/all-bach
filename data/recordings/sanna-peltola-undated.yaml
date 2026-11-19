@@ -1,0 +1,27 @@
+id: sanna-peltola-undated
+performers:
+- name: Sanna Peltola
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Rovaniemen kirkko
+released: 2001
+original_label: null
+works:
+- {bwv: '642', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0c339f2-3f08-4a5a-8388-37332437f2dd
+  title: 'Lyseonpuiston toivotut: Lyseonpuiston lukiolaisten musiikkia'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ff5a06f5-bb61-4ed4-8da1-43d52dc8a61c
+  recordings: [652420d4-73e1-4724-af97-8aa9df922eae]

@@ -1,0 +1,29 @@
+id: william-watkins-undated
+performers:
+- name: William Watkins
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '622', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/489e7292-0fdb-492e-8d04-f9e9231d0c67
+  title: The Aeolian-Skinner Legacy, Volume III
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2c50b1d3-3cdb-4260-bdd3-201a1f165a4d
+  recordings: [ff188e1a-a9bf-4ba5-92a8-141a82deec06]

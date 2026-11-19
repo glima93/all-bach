@@ -1,0 +1,39 @@
+id: jan-kalfus-1997
+performers:
+- name: Jan Kalfus
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: St. Claire Church
+released: 1997
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '607', complete: true}
+- {bwv: '608', complete: true}
+- {bwv: '610', complete: true}
+- {bwv: '621', complete: true}
+- {bwv: '623', complete: true}
+- {bwv: '626', complete: true}
+- {bwv: '628', complete: true}
+- {bwv: '635', complete: true}
+- {bwv: '636', complete: true}
+- {bwv: '637', complete: true}
+- {bwv: '642', complete: true}
+- {bwv: '643', complete: true}
+- {bwv: '644', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3646e2b1-553b-4378-bd80-dfc573fe5473
+  title: Jesus bleibet meine Freude
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2edeb2b1-3b9a-4104-9062-4deb8acaec5d
+  recordings: [8f409a85-c364-4d00-b720-089394911020, f9730f61-bc46-48d4-ac24-bc547ec97ff4]

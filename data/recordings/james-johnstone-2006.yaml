@@ -1,0 +1,26 @@
+id: james-johnstone-2006
+performers:
+- name: James Johnstone
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2006]
+  place: Stadtkirche St. Wenzel
+released: 2007
+original_label: null
+works:
+- {bwv: '622', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb81ee9a-9c49-478c-bb2f-675aa79aaef1
+  title: 'Motetten: Meines Herzens Weide'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 139c3bd2-d6c2-4603-bb49-55d71df4c658
+  recordings: [43ed4eca-a319-4036-aea2-b11fd7138c23]

@@ -1,0 +1,27 @@
+id: marcel-joseph-godard-2006
+performers:
+- name: Marcel-Joseph Godard
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2006]
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '605', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7ed81c5b-28a9-4487-9a12-c0727db0e9cd
+  title: Petit Livre d'Orgue - Dix petites tapisseries - Improvisations
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d4d66c0d-4c6e-405b-9987-8dd46ebc5a2e
+  recordings: [d514d384-2c89-498f-9c4c-f846ddc541c5]

@@ -1,0 +1,26 @@
+id: ton-koopman-1986-7
+performers:
+- name: Ton Koopman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986]
+  place: Waalse Kerk
+released: 1986
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e98d4119-852b-4042-a41e-5a67d4497d9b
+  title: Great Organ Works Vols. 1 & 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [25ec49f0-ce4a-40c6-bfa6-e3ea215b43f2]

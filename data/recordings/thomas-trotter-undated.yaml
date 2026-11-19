@@ -1,0 +1,28 @@
+id: thomas-trotter-undated
+performers:
+- name: Thomas Trotter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '630', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/86cea9d1-294c-4684-88cb-06a707135d13
+  title: Choral Evensong for Ascension Day
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8e11cfd2-1d63-4054-9c24-cfe0acfa1747
+  recordings: [3158ef64-155c-46ec-a518-6f48ecbd6818]

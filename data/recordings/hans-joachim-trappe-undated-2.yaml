@@ -1,0 +1,28 @@
+id: hans-joachim-trappe-undated-2
+performers:
+- name: Hans-Joachim Trappe
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Hauptkirche St. Jacobi
+released: 2005
+original_label: null
+works:
+- {bwv: '605', complete: true}
+- {bwv: '609', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e7e850b6-8c8a-40ab-af03-ac2f6ec59606
+  title: Musik für Orgel und Trompete
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 27b2ba87-8b41-48cc-a732-a3507e034ad9
+  recordings: [2f786881-cf7b-4f47-899a-ff84eb37e000]

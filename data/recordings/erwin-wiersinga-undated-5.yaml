@@ -1,0 +1,28 @@
+id: erwin-wiersinga-undated-5
+performers:
+- name: Erwin Wiersinga
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Hervormde Kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '609', complete: true}
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d4e67be-5771-400a-84e7-b64b574b0451
+  title: Het Historische Orgel in Nederland
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e4621c97-e70d-441c-9365-6619365bab5c
+  recordings: [d363c861-78a7-482c-a493-97c9bc298291]

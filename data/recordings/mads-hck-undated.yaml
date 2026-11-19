@@ -1,0 +1,28 @@
+id: mads-hck-undated
+performers:
+- name: Mads Høck
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5f7c7b34-3946-4700-a0e5-7839290898f0
+  title: Nymphomaniac (Original Soundtrack)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ada2b002-681c-4a6a-8d02-16702fac729d
+  recordings: [793a576e-bdb0-4cbf-9414-ac52bd62a863]

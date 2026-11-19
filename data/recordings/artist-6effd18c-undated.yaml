@@ -1,0 +1,29 @@
+id: artist-6effd18c-undated
+performers:
+- name: Эндре Ковач
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '622', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/70fab579-1a17-410b-82ac-06406566c1a1
+  title: 'Великие композиторы 24: Органная музыка. Токкаты'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6effd18c-a514-4699-bc52-cbe984503c3c
+  recordings: [2d479f95-bb58-4be3-8dbc-994806edee04]

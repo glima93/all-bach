@@ -1,0 +1,29 @@
+id: karl-andreas-kolly-undated
+performers:
+- name: Karl‐Andreas Kolly
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '633', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/613b3ed8-0a81-4dc3-867f-40121569e407
+  title: Chaconne - Klavier Werken von J.S. Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dd933397-31eb-4b4e-b2bd-22da408cd7e1
+  recordings: [dc1e07ba-1fc4-470f-8d1e-4d421c791975]

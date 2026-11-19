@@ -1,0 +1,28 @@
+id: milko-bizjak-undated-3
+performers:
+- name: Milko Bizjak
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '601', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55456185-2552-4fb9-b1be-86505eeadd35
+  title: Organ Concert Tour 1991
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ddf8e135-ccb4-43c5-bdd2-86f19e6039ea
+  recordings: [c317fa52-9bed-4ad6-a841-0aed4f767ef3]

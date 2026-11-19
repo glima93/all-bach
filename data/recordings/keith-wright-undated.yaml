@@ -1,0 +1,27 @@
+id: keith-wright-undated
+performers:
+- name: Keith Wright
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Durham Cathedral
+released: 1999
+original_label: null
+works:
+- {bwv: '606', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59aec7cc-f7fc-45c6-a4a2-d04242722ccf
+  title: 'Christmas Joy: Volume Two'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e87892a4-d45a-4ec2-b47b-c354ddb5f256
+  recordings: [9483615f-f5db-4104-be2c-1466d42a016d]

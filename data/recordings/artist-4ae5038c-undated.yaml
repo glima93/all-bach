@@ -1,0 +1,30 @@
+id: artist-4ae5038c-undated
+performers:
+- name: Гарри Гродберг
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1977
+original_label: null
+works:
+- {bwv: '633', complete: true}
+- {bwv: '642', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/31c7d725-1a98-4489-8797-5a60bd1fea63
+  title: J.S. Bach - Choral Preludes
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ae5038c-e39c-4dec-bbda-9789884d2273
+  recordings: [0c9b5344-0c69-446c-bf15-8dd9f30bf6b3]

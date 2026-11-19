@@ -1,0 +1,29 @@
+id: quartetto-italiano-di-viole-da-gamba-undated
+performers:
+- name: Quartetto Italiano di Viole da Gamba
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Villa Medici-Giulini
+released: 2001
+original_label: null
+works:
+- {bwv: '617', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9302ce2-c122-47c1-83e3-c43cde7a6a75
+  title: 'Villa Medici: Nata per la musica'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Played on treble viol, bass viol, tenor viol.
+musicbrainz:
+  artist: 8f739d7a-1fb5-4a80-82a4-34a6976f579b
+  recordings: [d635c7e8-a99b-4cb6-ac5e-1cbc5fcecd4a]

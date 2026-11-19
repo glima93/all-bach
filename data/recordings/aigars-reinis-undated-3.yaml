@@ -1,0 +1,27 @@
+id: aigars-reinis-undated-3
+performers:
+- name: Aigars Reinis
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Rīgas Doms
+released: 2019
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/06b83d73-d95e-4bfa-a97d-5aad9886d34b
+  title: The Organ of the Riga Cathedral
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9057c454-37c1-43d0-b628-d8dff04cc8ea
+  recordings: [47cdf54a-40c2-492f-bcdb-9785eba032f9]

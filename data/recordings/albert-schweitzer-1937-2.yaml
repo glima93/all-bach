@@ -1,0 +1,26 @@
+id: albert-schweitzer-1937-2
+performers:
+- name: Albert Schweitzer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1937]
+  place: Église Sainte-Aurélie
+released: 2003
+original_label: null
+works:
+- {bwv: '611', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d844254-99f3-456c-801b-468df2a3b88a
+  title: Orgel Werke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df4906d0-2a9e-461e-b6b5-1bcca3731483
+  recordings: [81b8c016-3c4d-4235-925a-6733ee319cb1]

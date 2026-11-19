@@ -1,0 +1,14 @@
+bwv: "635"
+title: "Dies sind die heil'gen zehn Gebot"
+key: "C major"
+collection: "Orgelbüchlein"
+genre: organ
+scoring: "organ (manuals and pedal)"
+composed: "Weimar, c. 1708–1717"
+movements:
+  - "Dies sind die heil'gen zehn Gebot"
+notes: "Catechism prelude on Luther's Ten Commandments hymn (\"These are the holy Ten Commandments\"), with a motif imitated between the lower voices."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Orgelb%C3%BCchlein"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/7bd2ef84-f82c-35bc-adf2-d5ca6822a84c

@@ -1,0 +1,26 @@
+id: theo-jellema-2015
+performers:
+- name: Theo Jellema
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: Stiftskirche St. Georg
+released: null
+original_label: null
+works:
+- {bwv: '612', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/37866d8b-95ab-4760-980f-989cb73656d5
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 336f7c9d-31ef-4146-a425-7df5121028f5
+  recordings: [37866d8b-95ab-4760-980f-989cb73656d5]

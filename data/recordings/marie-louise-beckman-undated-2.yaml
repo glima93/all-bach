@@ -1,0 +1,28 @@
+id: marie-louise-beckman-undated-2
+performers:
+- name: Marie-Louise Beckman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Vadstena klosterkyrka
+released: 2015
+original_label: null
+works:
+- {bwv: '639', complete: true}
+- {bwv: '642', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1d65830-9d03-4a12-bb12-5ba298d3a6c7
+  title: Pastoral
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8462fcf5-7bcf-45d9-9b41-0c48b5a62dce
+  recordings: [fc94d7cb-805b-4fe1-a90f-6eac0b06f848]

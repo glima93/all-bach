@@ -1,0 +1,48 @@
+id: bernhard-klapprott-2010-4
+performers:
+- name: Bernhard Klapprott
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: Domkirche Arlesheim
+released: 2012
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '601', complete: true}
+- {bwv: '602', complete: true}
+- {bwv: '603', complete: true}
+- {bwv: '604', complete: true}
+- {bwv: '605', complete: true}
+- {bwv: '606', complete: true}
+- {bwv: '607', complete: true}
+- {bwv: '608', complete: true}
+- {bwv: '609', complete: true}
+- {bwv: '610', complete: true}
+- {bwv: '611', complete: true}
+- {bwv: '612', complete: true}
+- {bwv: '635', complete: true}
+- {bwv: '636', complete: true}
+- {bwv: '637', complete: true}
+- {bwv: '638', complete: true}
+- {bwv: '639', complete: true}
+- {bwv: '640', complete: true}
+- {bwv: '641', complete: true}
+- {bwv: '642', complete: true}
+- {bwv: '643', complete: true}
+- {bwv: '644', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0bc2d90-ff1c-458a-a848-4f723650e0b6
+  title: Complete Organ Works played on Silbermann organs Vol. 18
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 173a1e09-a221-4391-bee6-004390af884e
+  recordings: [3f2b670f-cba3-4f19-bcc0-546309857eba]

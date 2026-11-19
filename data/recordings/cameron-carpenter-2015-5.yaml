@@ -1,0 +1,26 @@
+id: cameron-carpenter-2015-5
+performers:
+- name: Cameron Carpenter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: Jesus‐Christus‐Kirche
+released: 2016
+original_label: null
+works:
+- {bwv: '622', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c4e9a96f-bb28-4eeb-babe-fed1db9ae7d3
+  title: All you need is Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9905b522-bb88-43e4-9ed0-1b6bdc732664
+  recordings: [90333c6b-3eda-49f5-be93-3d435f7293c5]

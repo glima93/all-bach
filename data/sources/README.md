@@ -34,6 +34,7 @@ Each file here is a snapshot of what [MusicBrainz](https://musicbrainz.org) knew
 | `musicbrainz-organ-free-works.json` | Toccatas, Fantasias and other free works for organ, BWV 561–583, 585, 586, 588–591 and 1121 (584 and 587 not found in MusicBrainz by the collector) | 16 Nov 2026 | none: works found by BWV number (`tree-organ-free-works.json`) | 46 | 1,642 | 496 |
 | `musicbrainz-organ-trio-sonatas.json` | Trio Sonatas for organ, BWV 525–530 | 17 Nov 2026 | none: works found by BWV number (`tree-organ-trio-sonatas.json`) | 18 | 1,099 | 137 |
 | `musicbrainz-organ-concertos.json` | Concerto transcriptions for organ, BWV 593, 597 and 598 (592 and 594–596 not found in MusicBrainz by the collector) | 17 Nov 2026 | none: works found by BWV number (`tree-organ-concertos.json`) | 6 | 235 | 78 |
+| `musicbrainz-orgelbuchlein.json` | Orgelbüchlein, BWV 600–644 (599 not found in MusicBrainz by the collector) | 18 Nov 2026 | none: works found by BWV number (`tree-orgelbuchlein.json`) | 47 | 2,363 | 244 |
 
 The first five snapshots were made with `scripts/musicbrainz-collect.js`, run in a browser tab on musicbrainz.org. From run 1 of the [catalogue plan](../../docs/catalogue-plan.md) on, they are made by `scripts/collect_musicbrainz.py`, a port of it, which the GitHub workflow `collect.yml` runs every night for each collection marked `queued` in `data/plan/collections.yaml`. It writes the snapshot and `tree-<id>.json`, the MusicBrainz works and movements it found for each BWV number (input to `scripts/work_stub.py`), to the branch `collect/<id>`.
 

@@ -1,0 +1,28 @@
+id: hans-helmut-tillmanns-undated
+performers:
+- name: Hans Helmut Tillmanns
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '625', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5848dcd8-e35b-4e0a-902c-ddb5bc6a840f
+  title: 'Listen: Third Brief Edition'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: daf3e4b1-919f-48f7-93f7-88f2c865e5bd
+  recordings: [9c216982-f934-4af5-9e64-27cb595fea9a]

@@ -1,0 +1,26 @@
+id: virgil-fox-1963-4
+performers:
+- name: Virgil Fox
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1963]
+  place: Riverside Church
+released: 2005
+original_label: null
+works:
+- {bwv: '643', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e11aee91-45a0-4fa0-b044-d821c14b5c4b
+  title: 'The Legacy Series, Vol. IV: Virgil Fox, Organ: Command Performances'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0005682c-3083-415e-ae4c-debd7be3e47e
+  recordings: [fffc77c4-20b2-4da0-8188-34865b447ae4]

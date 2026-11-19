@@ -1,0 +1,31 @@
+id: michigan-state-university-symphonic-band-undated
+performers:
+- name: Michigan State University Symphonic Band
+  role: orchestra
+- name: Keith Brion, conductor
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '622', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4c5bbda7-a153-47f9-9687-778d6075ecbe
+  title: To the Fore! Percy Grainger’s Great Symphonic Band Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7f5a1347-c1b8-4d26-99c7-b35ac875a948
+  recordings: [a0c40fdc-0d36-4469-9125-11593f6d63b2]

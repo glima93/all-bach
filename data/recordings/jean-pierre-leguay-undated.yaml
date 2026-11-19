@@ -1,0 +1,29 @@
+id: jean-pierre-leguay-undated
+performers:
+- name: Jean-Pierre Leguay
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1972
+original_label: null
+works:
+- {bwv: '609', complete: true}
+- {bwv: '615', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de872f1b-0dd1-44cc-bbcc-23d72af11a2b
+  title: Messes des Paroisses avant Vatican II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 835e046a-d6b8-403f-9253-dfd64ed08777
+  recordings: [0639cfc2-0684-4719-b2ef-274fab976220]

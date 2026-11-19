@@ -1,0 +1,28 @@
+id: vladimir-horowitz-undated
+performers:
+- name: Vladimir Horowitz
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: CBS 30th Street Studio
+released: 1992
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d25bb201-6e54-4208-8038-01becaf9c528
+  title: Discovered Treasures
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 81269a28-c616-4e87-8942-a6f8e59b68e4
+  recordings: [d6a8f662-512b-4efc-8ac2-65751a4c4dbd]

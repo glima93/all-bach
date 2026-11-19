@@ -1,0 +1,27 @@
+id: robert-noehren-undated-4
+performers:
+- name: Robert Noehren
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Pacific Union College Church
+released: 1985
+original_label: null
+works:
+- {bwv: '625', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2a8b0ad7-6f01-47fd-95e8-daf6242f17cc
+  title: Great Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: de7a315c-2442-4906-ba7b-a1e5124802bc
+  recordings: [7c3a5efc-ebb5-4e13-8cce-02f77bf0ae38]

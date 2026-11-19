@@ -1,0 +1,29 @@
+id: heaven-pierce-her-undated
+performers:
+- name: Heaven Pierce Her
+  role: unknown
+instrument: unknown
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/565ba5cd-5c4d-42ba-9a15-92833074dc84
+  title: ULTRAKILL - ACT I - INFINITE HYPERDEATH
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Instrument (MusicBrainz has no instrument credit)
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 811d893d-90be-41bd-a70c-9387042e07a9
+  recordings: [1893c3bd-d9f1-41b6-82f6-378426e7764a]

@@ -820,6 +820,64 @@ OVERRIDE_BY_SNAPSHOT = {
   },
 }
 
+# Run 19 (the Orgelbüchlein): many rows are hymn or carol albums whose choir is the track's credit.
+EXCLUDE_BY_SNAPSHOT["orgelbuchlein"] = {
+    "b63aa333-6f60-40af-9d1d-f5ed4d418eb1": "the King's College choir sings the hymns on Best Hymns 100 (1967); the chorale melodies, not Bach's organ preludes BWV 601, 603 and 610",
+    "a24d59ef-0b24-464f-92f6-b05c830d7967": "the Washington National Cathedral girl choristers sing 'In thee is gladness' from the hymnal supplement Wonder, Love, and Praise; the hymn, not the organ prelude BWV 615",
+    "37a4b3a8-b92b-449f-b0c6-b7a40221b8d0": "Capella Fidicinia and the Rostocker Motettenchor's Christmas Music: a sung setting of 'Vom Himmel hoch', not the organ prelude BWV 606",
+    "28c4cd7c-8e30-4452-9790-7db23dab899e": "the Pueri Cantores children's choir sings 'Vom Himmel hoch' on a Christmas carol album (Stille Nacht); the hymn, not the organ prelude BWV 606",
+    "e7ed29c8-9f7d-4836-bf9f-cd8d510aca24": "Rilling's Figuralchor on a magazine sampler (Classic CD 83) sings a chorale on 'Das alte Jahr vergangen ist'; no organist, so not the organ prelude BWV 614",
+    "e904583b-fda4-4645-83d6-f42ff41a8c82": "the monks and choristers of Buckfast Abbey sing the carol 'Der Tag, der ist so freudenreich'; the hymn, not the organ prelude BWV 605",
+    "31707f2c-fae8-4535-9bba-aa72f5d2de2b": "the Ukulele Orchestra of Great Britain's Christmas album Never Mind the Reindeer plays the carol 'Vom Himmel hoch', not the organ prelude BWV 606 (as the sung carol albums above)",
+    "ab8a2f7b-0a55-4eab-b7ee-3c89a5cba107": "'Download Format Test Album' is a MusicBrainz test release with no date or label; no identifiable performance of BWV 607",
+    "2a5cc624-043f-4280-b47b-89c4adfc1a2d": "the Dunedin Consort and Butt are the album's credit on the St John Passion liturgical reconstruction (Linn, 2013); the organist of its chorale preludes BWV 618, 620 and 621 is not named (as the Hamburger Kammerorchester in run 17)",
+}
+JOIN_BY_SNAPSHOT["orgelbuchlein"] = {
+    "cd3ee2a7-bd68-4f8b-8aef-ba25c17f4131": ("b32c1ee4-3473-490a-a6ff-be9b45c3ac33", "Rilling's A Book of Chorale-Settings (Hänssler, 2000): the organ preludes on every volume are Gerhard Gnann's, recorded 1998-99; the Bach-Collegium, the Gächinger Kantorei and Rilling are the albums' credits for the sung chorales"),
+    "3f2575a3-a5b6-4fd5-8900-adf4292dbcb9": ("b32c1ee4-3473-490a-a6ff-be9b45c3ac33", "Rilling's A Book of Chorale-Settings: Gnann's organ preludes (the role credit names him); the Bach-Collegium credit is the album's"),
+    "68f15867-c8a2-4c29-8241-0b8656f0c011": ("b32c1ee4-3473-490a-a6ff-be9b45c3ac33", "Rilling's A Book of Chorale-Settings: Gnann's organ preludes; the Bach-Collegium credit is the album's"),
+    "aa34565d-a42d-4dd5-a07f-31329922b710": ("b32c1ee4-3473-490a-a6ff-be9b45c3ac33", "Rilling's A Book of Chorale-Settings: Gnann's organ preludes; the Gächinger Kantorei credit is the album's"),
+    "8f409a85-c364-4d00-b720-089394911020": ("f9730f61-bc46-48d4-ac24-bc547ec97ff4", "Jesus bleibet meine Freude (1997): Kalfus's organ preludes, the Bambini di Praga credit is the album's for its sung pieces"),
+    "ec9c2ab5-13e3-4992-a16a-a009a91a272e": ("911c5513-6a3c-4f14-bebb-fb29738f49f5", "the Thomaner Christvesper (1995): Böhme plays the organ preludes; the choir and Biller are the album's credit"),
+    "f770fe5d-f0c5-49c4-88d8-45dbb8fa59c1": ("16199060-f508-404e-b1e5-a84b45808f1b", "BBC Music's A Bach Christmas (2005, Eton College School Hall): the role credit names David Goode on the organ; the Rodolfus Choir sings the disc's chorales"),
+    "fee5d41b-faf0-4ea4-89f0-848ff4b43188": ("c150e1d1-162e-4802-a0c5-773d5f072854", "The Piano Masters reissues Lipatti's only recording of Busoni's BWV 639 (Radio Geneva studio); the Domenico Scarlatti artist credit is the compilation's"),
+    "6f75a07d-0ba4-41f5-a344-1497d5b6053b": ("cf619d80-ebf0-48be-a537-9b81d103f440", "Alard's Complete Works for Keyboard 7 (Harmonia Mundi, 2022): one Orgelbüchlein, with the chorales sung by two choirs; the collector split it by choir"),
+    "926dde9a-78dd-4ee0-aa23-3bddaac1f5e5": ("cc90b3ba-d4fd-42cb-b03f-f11e6808ee2a", "Rogg's first Bach cycle at the Grossmünster (1961-64): volume 4 (1976 issue, BWV 622-644) and volume 16 (BWV 600-621) are the two halves of one Orgelbüchlein, sharing only BWV 626"),
+    "3f4da245-89e8-44b9-b22b-afb63a5c91b0": ("b8f30f32-0ccc-4745-be11-234523c448e9", "the other half of Werner Jacob's Orgelbüchlein on the same EMI Organ Works release (da441518): the two rows share three preludes and together make all 45"),
+    "fc1f1c61-def5-47dd-b909-17471793b18e": ("b8f30f32-0ccc-4745-be11-234523c448e9", "Werner Jacob's BWV 619 (Ponitz, 1979; a row with no artist credit) belongs to his Orgelbüchlein in the EMI Organ Works cycle"),
+    "56b73e3f-d7a6-424b-8030-5498640c9337": ("b537d16b-68b9-4d78-b8bb-508dd06ba279", "Fagius's Complete Organ Music box (BIS, 1993) reissues his BIS Orgelbüchlein, recorded at Mariefred in 1986 (as his boxes in runs 17 and 18)"),
+}
+OVERRIDE_BY_SNAPSHOT["orgelbuchlein"] = {
+    "b32c1ee4-3473-490a-a6ff-be9b45c3ac33": ({"performers": [{"name": "Gerhard Gnann", "role": "organ"}], "place": "Église Saint-Jean-Baptiste de Saessolsheim"},
+        "the A Book of Chorale-Settings rows joined in add their albums' choir, orchestra and conductor credits and venues (Jesuitenkirche, Stadthalle Sindelfingen); the preludes are Gnann's alone, at Saessolsheim"),
+    "f9730f61-bc46-48d4-ac24-bc547ec97ff4": ({"performers": [{"name": "Jan Kalfus", "role": "organ"}]}, "organ solo; the Bambini di Praga row joined in adds the album's choir"),
+    "911c5513-6a3c-4f14-bebb-fb29738f49f5": ({"performers": [{"name": "Ullrich Böhme", "role": "organ"}]}, "organ solo; the Thomanerchor row joined in adds the album's choir and conductor"),
+    "16199060-f508-404e-b1e5-a84b45808f1b": ({"performers": [{"name": "David Goode", "role": "organ"}]}, "organ solo; the Rodolfus Choir row joined in adds the disc's choir"),
+    "c150e1d1-162e-4802-a0c5-773d5f072854": ({"performers": [{"name": "Dinu Lipatti", "role": "piano"}]}, "Lipatti alone; Domenico Scarlatti is a composer credit on the compilation row joined in"),
+    "cf619d80-ebf0-48be-a537-9b81d103f440": ({"performers": [{"name": "Benjamin Alard", "role": "organ"},
+                                                             {"name": "Chœur d'enfants de la Maîtrise de Notre-Dame de Paris", "role": "choir"}, {"name": "Émilie Fleury", "role": "conductor"},
+                                                             {"name": "Ensemble Vocal Bergamasque", "role": "choir"}, {"name": "Marine Fribourg", "role": "conductor"}]},
+        "Alard plays the preludes; the choirs sing the chorales between them"),
+    "3ac95dfd-db51-4ae2-8488-d8dd576d11fb": ({"performers": [{"name": "Kevin Bowyer", "role": "organ"}, {"name": "Det Fynske Kammerkor", "role": "choir"}, {"name": "Alice Joensen", "role": "conductor"}]},
+        "Das Orgelbüchlein (1995): Bowyer plays the preludes, the choir sings the chorales"),
+    "f164dd85-7d80-4c9e-9cd6-ac2fb6d9b5e2": ({"performers": [{"name": "George Herbert", "role": "organ"}]},
+        "Advent Live, Volume 3: the organ voluntaries are played by George Herbert (the role credit); the choir is the album's credit"),
+    "3f2b91ab-c6af-466e-963e-d8a5c03bb339": ({"performers": [{"name": "Henry Fairs", "role": "organ"}]},
+        "Carols from St Chad's: the organ voluntary is played by Henry Fairs; the choir and its conductor are the album's credit"),
+    "fef3af39-eb1d-4a78-99bf-b08ebab0cbc9": ({"instrument": "ensemble", "arrangement": True},
+        "Eastman Brass with James Johnson (organ) on A Thousand Pearls: BWV 625 arranged for brass and organ"),
+    "0ca120b0-5a1c-4c31-a61e-a0546ddcc7f2": ({"instrument": "other", "arrangement": True},
+        "Isao Tomita's Kosmos (1977) is a synthesizer album: BWV 639 arranged for synthesizers"),
+    "1893c3bd-d9f1-41b6-82f6-378426e7764a": ({"instrument": "unknown", "arrangement": True},
+        "Heaven Pierce Her's ULTRAKILL soundtrack (2026) is electronic video-game music using BWV 639"),
+    "4e27f504-1495-4d40-ba6e-38b9e71a2025": ({"arrangement": True},
+        "Le Chemin de la Croix: BWV 641 with Odile Samoël's voice over Père Vincent-Marie's organ (as odile-samoel-2015 in run 17)"),
+    "e5b72e6d-7ef5-4a10-b8d1-599738569e52": ({"instrument": "voices-and-instruments", "arrangement": True},
+        "Van Mechelen's Erbarme dich (A Nocte Temporis): BWV 601 for tenor, flute, cello and organ"),
+    "60d5aee7-0eda-47f7-8e6d-dc9adb0682fe": ({"instrument": "ensemble", "arrangement": True},
+        "Soli Deo Gloria (2020): BWV 617 with the Ricercar Consort and Foccroulle's organ; Foccroulle's organ solo on the album is filed separately"),
+}
+
 INSTRUMENTS = {
     "cello": "cello", "violoncello": "cello",
     "baroque cello": "baroque-cello", "baroque violoncello": "baroque-cello",
@@ -1553,7 +1611,7 @@ def main(snapshot: str) -> int:
             a, b = by_rep[into], by_rep.pop(extra)
             # Players heard only on the folded-in row (a cellist added for the continuo sonatas) join the set.
             for i, (name, aid) in enumerate(zip(b["names"], b["ids"])):
-                if aid not in a["ids"]:
+                if aid not in a["ids"] and (aid is not None or name not in a["names"]):  # a row with no artist id repeats the lead
                     a["names"], a["ids"] = a["names"] + [name], a["ids"] + [aid]
                     if len(a["types"]) == len(a["ids"]) - 1 and i < len(b["types"]):
                         a["types"] = a["types"] + [b["types"][i]]

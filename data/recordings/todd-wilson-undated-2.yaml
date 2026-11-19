@@ -1,0 +1,28 @@
+id: todd-wilson-undated-2
+performers:
+- name: Todd Wilson
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '608', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/21e21c95-d8ff-463d-8afa-4ac271ecb658
+  title: A Joyous Celebration!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdd82690-0b77-4d7b-958c-f0f53bd087cc
+  recordings: [742a19fa-82b8-49d8-920f-4acdf2d13d0a]

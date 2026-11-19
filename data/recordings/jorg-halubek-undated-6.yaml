@@ -1,0 +1,68 @@
+id: jorg-halubek-undated-6
+performers:
+- name: Jörg Halubek
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St. Johanniskirche
+released: 2021
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '601', complete: true}
+- {bwv: '602', complete: true}
+- {bwv: '603', complete: true}
+- {bwv: '604', complete: true}
+- {bwv: '605', complete: true}
+- {bwv: '606', complete: true}
+- {bwv: '607', complete: true}
+- {bwv: '608', complete: true}
+- {bwv: '609', complete: true}
+- {bwv: '610', complete: true}
+- {bwv: '611', complete: true}
+- {bwv: '612', complete: true}
+- {bwv: '613', complete: true}
+- {bwv: '614', complete: true}
+- {bwv: '615', complete: true}
+- {bwv: '616', complete: true}
+- {bwv: '618', complete: true}
+- {bwv: '619', complete: true}
+- {bwv: '620', complete: true}
+- {bwv: '621', complete: true}
+- {bwv: '622', complete: true}
+- {bwv: '623', complete: true}
+- {bwv: '624', complete: true}
+- {bwv: '626', complete: true}
+- {bwv: '627', complete: true}
+- {bwv: '628', complete: true}
+- {bwv: '629', complete: true}
+- {bwv: '630', complete: true}
+- {bwv: '631', complete: true}
+- {bwv: '632', complete: true}
+- {bwv: '633', complete: true}
+- {bwv: '635', complete: true}
+- {bwv: '636', complete: true}
+- {bwv: '637', complete: true}
+- {bwv: '638', complete: true}
+- {bwv: '639', complete: true}
+- {bwv: '640', complete: true}
+- {bwv: '641', complete: true}
+- {bwv: '642', complete: true}
+- {bwv: '643', complete: true}
+- {bwv: '644', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/747c6776-4737-4abe-b09a-affdb97b3a89
+  title: 53°14′52.7″N 10°24′47.8″E (Lüneburg, Altenbruch)
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 415f6600-2290-4c6c-997b-acb5c3a53281
+  recordings: [d42382a8-e42b-4346-9ffa-e48e4ffcc966]

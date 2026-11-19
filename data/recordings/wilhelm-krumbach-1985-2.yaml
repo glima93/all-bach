@@ -1,0 +1,27 @@
+id: wilhelm-krumbach-1985-2
+performers:
+- name: Wilhelm Krumbach
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985]
+  place: Abbaye Saint-Étienne de Marmoutier
+released: 1995
+original_label: null
+works:
+- {bwv: '601', complete: true}
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/53888c82-d6f4-4718-b0e8-e1031bdf2995
+  title: 'Chorale Preludes, Vol. 2: Neumeister-Collection / Rinck-Collection'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b8bd1b7d-7396-4b71-a755-9828d49c2c87
+  recordings: [e80adb6e-b582-4a51-a6bb-0a9ef96140c4]

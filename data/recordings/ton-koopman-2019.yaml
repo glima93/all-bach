@@ -1,0 +1,26 @@
+id: ton-koopman-2019
+performers:
+- name: Ton Koopman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2019]
+  place: Chapelle royale du château de Versailles
+released: 2019
+original_label: null
+works:
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f487079e-9846-4b01-9311-b32961d72e44
+  title: Grandes Orgues 1710, Chapelle royale Versailles
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [010e799e-20be-4515-b963-f98d94885891]

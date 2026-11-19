@@ -1,0 +1,29 @@
+id: johannes-zimmerl-undated-2
+performers:
+- name: Johannes Zimmerl
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '625', complete: true}
+- {bwv: '626', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/604290f1-97c6-4269-aa9a-539cb753d5c3
+  title: Henke-Orgel 1752 Stift Herzogenburg
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bb54a904-b05c-40a9-adc6-3ff4df30e2fc
+  recordings: [97d0e21f-9230-49fb-9654-957acb15450e]

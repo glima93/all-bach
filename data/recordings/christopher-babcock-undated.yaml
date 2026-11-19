@@ -1,0 +1,28 @@
+id: christopher-babcock-undated
+performers:
+- name: Christopher Babcock
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: First Parish Unitarian-Universalist Church
+released: 2005
+original_label: null
+works:
+- {bwv: '604', complete: true}
+- {bwv: '642', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c8d007f8-591c-401a-84b9-fce92d7e8eac
+  title: The Great and Historic Pipe Organs of Cape Cod
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d642f3eb-ace7-4ef9-8e6c-679bd60d7de0
+  recordings: [626bca41-6d23-4ac1-be8b-69938ecb8419]

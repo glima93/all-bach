@@ -1,0 +1,27 @@
+id: michael-gailit-undated
+performers:
+- name: Michael Gailit
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Augustinerkirche
+released: 1993
+original_label: null
+works:
+- {bwv: '615', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e58fc3e7-0452-40c0-820b-ddd342bebe1d
+  title: Orgelmusik in St. Augustin Wien, Vol. 1
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b365a998-a239-498f-a281-911966dedc6b
+  recordings: [ab66fde6-578c-4e8c-bdba-8edda5f92375]

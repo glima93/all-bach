@@ -1,0 +1,33 @@
+id: anthony-newman-undated-9
+performers:
+- name: Anthony Newman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Trinity Lutheran Church
+released: 1969
+original_label: null
+works:
+- {bwv: '604', complete: true}
+- {bwv: '609', complete: true}
+- {bwv: '610', complete: true}
+- {bwv: '619', complete: true}
+- {bwv: '626', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8ae7bb2c-3431-4215-86ce-8927198bb21c
+  title: Prelude & Fugue in A minor / Toccata & Fugue in F major / Trio Sonata No. 5 in C major / Prelude & Fugue
+    in E minor
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2ea4c412-b5db-499a-ad58-8251d91526ca
+  recordings: [1b8153f4-0d5a-4384-806f-a78e3796ae24]

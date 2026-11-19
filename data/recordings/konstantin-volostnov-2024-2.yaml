@@ -1,0 +1,27 @@
+id: konstantin-volostnov-2024-2
+performers:
+- name: Konstantin Volostnov
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2024]
+  place: Հայաստանի կոմպոզիտորների միության համերգասրահ
+released: 2025
+original_label: null
+works:
+- {bwv: '622', complete: true}
+- {bwv: '639', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/29c33a15-6f76-458e-a058-693534d213c1
+  title: Bach, Liszt, Reger, Kushnaryov, Shahrimanyan
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 177ca446-015b-485a-b3e0-9ffc53686842
+  recordings: [af4d116e-fa07-497c-8939-fe15e55d1d28]

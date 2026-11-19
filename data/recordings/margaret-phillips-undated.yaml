@@ -1,0 +1,29 @@
+id: margaret-phillips-undated
+performers:
+- name: Margaret Phillips
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '606', complete: true}
+- {bwv: '608', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ea778241-6505-4a9e-9c8e-fcd86e903a94
+  title: Silent Night / Away in a Manger
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 02775d1f-9ca1-4ddc-b50c-df2a9ba8cfab
+  recordings: [96724cc9-7c06-4c99-ab0b-2cae8427b296]

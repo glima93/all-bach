@@ -1,0 +1,28 @@
+id: john-propitius-undated
+performers:
+- name: John Propitius
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '622', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6021704b-0a04-4495-9c69-ce1f63714795
+  title: John Propitius bespeelt het orgel van de Bovenkerk te Kampen
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 46360412-ab2b-495c-8fc6-29a4affb1189
+  recordings: [62650502-a106-4c88-a8e2-5100e60670dd]

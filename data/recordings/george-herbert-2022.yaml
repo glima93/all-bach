@@ -1,0 +1,27 @@
+id: george-herbert-2022
+performers:
+- name: George Herbert
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2022]
+  place: St John’s College Chapel
+released: 2023
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '601', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0250690f-8f24-4b11-bb48-fe8f60feee1b
+  title: Advent Live, Volume 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 993c0cbf-7708-40fb-b7c2-1d6a2e4b8790
+  recordings: [f164dd85-7d80-4c9e-9cd6-ac2fb6d9b5e2]

@@ -1,0 +1,29 @@
+id: tord-gustavsen-trio-undated
+performers:
+- name: Tord Gustavsen Trio
+  role: ensemble
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '625', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a34c1400-3cf2-40a3-834d-9d5ed1037565
+  title: Seeing
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 02811c5c-3cfc-4354-a116-8a254581ef6e
+  recordings: [6eaf1c52-10f1-4d64-a83a-4b28fe84ca70]

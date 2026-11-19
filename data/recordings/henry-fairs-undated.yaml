@@ -1,0 +1,28 @@
+id: henry-fairs-undated
+performers:
+- name: Henry Fairs
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '608', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e2568732-451e-4577-bb3e-9c498d69d5be
+  title: Carols From St Chad's
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cea4e8bd-a667-433f-aa3a-bed0e2692cb5
+  recordings: [3f2b91ab-c6af-466e-963e-d8a5c03bb339]

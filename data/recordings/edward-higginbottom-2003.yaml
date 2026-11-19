@@ -1,0 +1,27 @@
+id: edward-higginbottom-2003
+performers:
+- name: Edward Higginbottom
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2003]
+  place: New College Chapel
+released: 2003
+original_label: null
+works:
+- {bwv: '608', complete: true}
+- {bwv: '611', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6fdec699-1efb-470a-9298-7c39174f6271
+  title: Carols of Christmas Morning
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b1328691-32c4-4ba6-bc96-b126d579b491
+  recordings: [3e0d4915-be64-46dd-806f-ac2fdb2c9842]

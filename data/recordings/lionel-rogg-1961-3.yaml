@@ -1,0 +1,70 @@
+id: lionel-rogg-1961-3
+performers:
+- name: Lionel Rogg
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961, 1962, 1964]
+  place: Grossmünster
+released: 1976
+original_label: null
+works:
+- {bwv: '600', complete: true}
+- {bwv: '601', complete: true}
+- {bwv: '602', complete: true}
+- {bwv: '603', complete: true}
+- {bwv: '604', complete: true}
+- {bwv: '605', complete: true}
+- {bwv: '606', complete: true}
+- {bwv: '607', complete: true}
+- {bwv: '608', complete: true}
+- {bwv: '609', complete: true}
+- {bwv: '610', complete: true}
+- {bwv: '611', complete: true}
+- {bwv: '612', complete: true}
+- {bwv: '613', complete: true}
+- {bwv: '614', complete: true}
+- {bwv: '615', complete: true}
+- {bwv: '616', complete: true}
+- {bwv: '617', complete: true}
+- {bwv: '618', complete: true}
+- {bwv: '619', complete: true}
+- {bwv: '620', complete: true}
+- {bwv: '621', complete: true}
+- {bwv: '622', complete: true}
+- {bwv: '623', complete: true}
+- {bwv: '624', complete: true}
+- {bwv: '625', complete: true}
+- {bwv: '626', complete: true}
+- {bwv: '627', complete: true}
+- {bwv: '628', complete: true}
+- {bwv: '629', complete: true}
+- {bwv: '630', complete: true}
+- {bwv: '631', complete: true}
+- {bwv: '632', complete: true}
+- {bwv: '633', complete: true}
+- {bwv: '634', complete: true}
+- {bwv: '635', complete: true}
+- {bwv: '636', complete: true}
+- {bwv: '637', complete: true}
+- {bwv: '638', complete: true}
+- {bwv: '639', complete: true}
+- {bwv: '640', complete: true}
+- {bwv: '641', complete: true}
+- {bwv: '642', complete: true}
+- {bwv: '643', complete: true}
+- {bwv: '644', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b34b29dd-4f13-4292-b378-13f3713d155e
+  title: Intégrale De L'Œuvre D'Orgue 16
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 90e17964-b04a-4c37-b952-3c9dfc16c430
+  recordings: [926dde9a-78dd-4ee0-aa23-3bddaac1f5e5, cc90b3ba-d4fd-42cb-b03f-f11e6808ee2a]
