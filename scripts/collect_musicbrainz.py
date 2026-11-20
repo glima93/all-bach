@@ -37,6 +37,9 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 BACH = "24f1766e-9635-4d58-a4d4-9413f9f98a4c"
 API = "https://musicbrainz.org/ws/2/"
+# Version 2 (20 Nov 2026): single-movement works also take the recordings of the other MusicBrainz works with
+# the same BWV number (duplicates), and a work that is a part of a set counts when nothing else is found.
+COLLECTOR_VERSION = 2
 UA = "AllBach/0.2 ( https://github.com/glima93/all-bach )"
 GROUPS = ["Orchestra", "Group", "Choir"]
 # Modes whose performances are grouped by the orchestra, ensemble or choir when one is credited.
@@ -136,7 +139,14 @@ class Collector:
 
     def find(self, bwv: str) -> dict:
         """The MusicBrainz work for one BWV number: searched by title, arrangements and movements dropped,
-        the candidate with the most movements kept. Every candidate is recorded for review."""
+        the candidate with the most movements kept. Every candidate is recorded for review.
+
+        MusicBrainz often has the same single-movement work twice or more (BWV 654 and 659 have four and six
+        entries), and the best-scored search result is not always the one recordings are linked to. When the
+        kept work has no parts, the other candidates with no parts are returned as `also`, and their
+        recordings count as recordings of this work. A work that is part of a larger work (not just of a
+        collection) is used only when nothing else is found; the exact "BWV <n>" title match keeps
+        movements of other works out."""
         def get():
             q = f'"BWV {bwv}" AND arid:{BACH}'
             res = self.mb("work?query=" + requests.utils.quote(q) + "&limit=25")
@@ -150,14 +160,18 @@ class Collector:
                 cands.append({"id": w["id"], "title": w["title"], "score": w.get("score", 0)})
             return cands[:6]
         cands = self.cached("search:" + bwv, get)
-        kept = []
+        kept, parts_of = [], []
         for c in cands:
             w = self.work(c["id"])
-            if w["arrangement_of"] or w["part_of"] or re.search(r"\barr\b|arrang|transcri|bearb", w["disambiguation"], re.I):
+            if w["arrangement_of"] or re.search(r"\barr\b|arrang|transcri|bearb", w["disambiguation"], re.I):
                 continue
-            kept.append((len(w["parts"]), c["score"], c["id"]))
+            (parts_of if w["part_of"] else kept).append((len(w["parts"]), c["score"], c["id"]))
         kept.sort(key=lambda k: (-k[0], -k[1]))
-        return {"bwv": bwv, "id": kept[0][2] if kept else None,
+        parts_of.sort(key=lambda k: (-k[0], -k[1]))
+        pool = kept or parts_of
+        main = pool[0] if pool else None
+        also = [k[2] for k in kept + parts_of if main and main[0] == 0 and k[0] == 0 and k[2] != main[2]]
+        return {"bwv": bwv, "id": main[2] if main else None, "also": also,
                 "candidates": [{"id": c["id"], "title": c["title"]} for c in cands],
                 "ambiguous": len(kept) > 1 and kept[0][:2] == kept[1][:2]}
 
@@ -168,7 +182,7 @@ class Collector:
             parent = self.work(col["mb_parent"])
             for p in parent["parts"]:
                 m = re.search(r"BWV\s*(\d+[a-z]?)", p["title"])
-                out.append({"bwv": m.group(1) if m else p["title"], "id": p["id"], "candidates": [], "ambiguous": False})
+                out.append({"bwv": m.group(1) if m else p["title"], "id": p["id"], "also": [], "candidates": [], "ambiguous": False})
         else:
             for spec in col["bwv"]:
                 lo, _, hi = spec.partition("-")
@@ -179,8 +193,11 @@ class Collector:
             if not f["id"]:
                 continue
             w = self.work(f["id"])
+            moves = self.leaves(f["id"])
+            if not w["parts"] and f.get("also"):
+                moves = [{**moves[0], "also": f["also"]}]
             works.append({**f, "title": w["title"], "key": w["key"], "has_parts": bool(w["parts"]),
-                          "movements": self.leaves(f["id"])})
+                          "movements": moves})
         return works
 
     # ── collecting the recordings ───────────────────────────────────────────────────────
@@ -261,8 +278,9 @@ def group(works: list[dict], recs_by_leaf, whole_recs, grouped: bool) -> list[di
 
     for wi, w in enumerate(works):
         for pi, mvt in enumerate(w["movements"]):
-            for row in recs_by_leaf(mvt["id"]):
-                add(row, wi, [pi])
+            for mid in [mvt["id"], *mvt.get("also", [])]:
+                for row in recs_by_leaf(mid):
+                    add(row, wi, [pi])
         for row in whole_recs(w):
             add(row, wi, range(len(w["movements"])))
 
@@ -365,7 +383,7 @@ def collect(col: dict, args) -> bool:
     c = Collector(col["id"], Path(args.state), args.deadline, not args.no_whole)
     try:
         # The cached tree is keyed by the parent work, so setting mb_parent later takes effect.
-        works = c.cached("tree" + (":" + col["mb_parent"] if col.get("mb_parent") else ""), lambda: c.tree(col))
+        works = c.cached(f"tree-v{COLLECTOR_VERSION}" + (":" + col["mb_parent"] if col.get("mb_parent") else ""), lambda: c.tree(col))
         # A tree cached before leaves() dropped repeated movements still lists them (other-keyboard-suites was
         # collected again on 16 Nov 2026 from such a cache, with BWV 818's Sarabandes twice): drop them here too.
         for w in works:
@@ -391,8 +409,9 @@ def collect(col: dict, args) -> bool:
             ',\n"mode": ' + json.dumps(mode) + ',\n"rows": [\n' +
             ",\n".join(dumps(r) for r in rows(perfs, c.detail)) + "\n]\n}\n")
     (out / f"musicbrainz-{col['id']}.json").write_text(snap, encoding="utf-8")
-    n_rec = len({r[0] for w in works for m in w["movements"] for r in c.recordings(m["id"])})
-    tree = {"collection": col["id"], "taken": time.strftime("%Y-%m-%d"), "recordings": n_rec,
+    n_rec = len({r[0] for w in works for m in w["movements"] for mid in [m["id"], *m.get("also", [])]
+                 for r in c.recordings(mid)})
+    tree = {"collection": col["id"], "collector": COLLECTOR_VERSION, "taken": time.strftime("%Y-%m-%d"), "recordings": n_rec,
             "performances": len(perfs), "works": works}
     (out / f"tree-{col['id']}.json").write_text(json.dumps(tree, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"{col['id']}: done, {n_rec} recordings in {len(perfs)} performances", flush=True)
@@ -409,8 +428,8 @@ def remote_collect_branches() -> set[str]:
 
 
 def stale_branch(col: dict) -> bool:
-    """True when collect/<id> was collected with another mb_parent than the plan now gives, or its tree
-    lists a movement twice: the collection is collected again and the branch overwritten (the workflow
+    """True when collect/<id> was collected with another mb_parent than the plan now gives, by an older
+    collector version, or its tree lists a movement twice: the collection is collected again and the branch overwritten (the workflow
     pushes with --force-with-lease)."""
     try:
         text = subprocess.run(["git", "show", f"origin/collect/{col['id']}:data/plan/collections.yaml"],
@@ -426,6 +445,8 @@ def stale_branch(col: dict) -> bool:
                                          capture_output=True, text=True, check=True, cwd=ROOT).stdout)
     except (subprocess.CalledProcessError, FileNotFoundError, ValueError):
         return False
+    if tree.get("collector", 1) < COLLECTOR_VERSION:
+        return True
     return any(len({m["id"] for m in w["movements"]}) < len(w["movements"]) for w in tree["works"])
 
 
