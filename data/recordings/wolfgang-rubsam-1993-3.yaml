@@ -11,12 +11,14 @@ recorded:
 released: 1994
 original_label: null
 works:
+- {bwv: '659', complete: true}
 - {bwv: '661', complete: true}
 - {bwv: '662', complete: true}
 - {bwv: '663', complete: true}
 - {bwv: '665', complete: true}
 - {bwv: '666', complete: true}
 - {bwv: '667', complete: true}
+- {bwv: '668', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -29,4 +31,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 100b939f-8b65-4e57-9568-854f7ab44027
-  recordings: [bad82aaa-dc57-4104-bc57-99405e684e8b]
+  recordings: [cea06274-d70a-44c9-9eab-0a49efd047d1]

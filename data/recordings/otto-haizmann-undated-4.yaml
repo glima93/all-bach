@@ -11,6 +11,7 @@ recorded:
 released: null
 original_label: null
 works:
+- {bwv: '654', complete: true}
 - {bwv: '657', complete: true}
 links:
 - platform: musicbrainz
@@ -25,4 +26,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 0933f1eb-b95b-44e9-bcc1-5b8c30913396
-  recordings: [83d604ed-d267-4a6c-b351-de59c5a4e014]
+  recordings: [bf6bf276-76c7-4c90-8c11-6eed4095ab4a]

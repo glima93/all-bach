@@ -1,0 +1,28 @@
+id: mark-steinbach-undated-2
+performers:
+- name: Mark Steinbach
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f542276e-5cd8-4ae4-a9fd-494ad787dcfc
+  title: Glass-Bach Dresden
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 354095f4-21b8-497e-8b27-0adac34effde
+  recordings: [4114d00d-1e70-4601-aa7b-84e8987d1370]

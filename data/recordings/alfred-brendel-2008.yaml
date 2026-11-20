@@ -1,0 +1,27 @@
+id: alfred-brendel-2008
+performers:
+- name: Alfred Brendel
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: [2008]
+  place: Großer Sendesaal
+released: 2009
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d83469d-21de-4ae5-ae3f-ef39a29dccf3
+  title: The Farewell Concerts
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 4a37c64f-4151-4c4b-ab69-a58450f9967e
+  recordings: [a42337d9-aae1-4689-911f-af4536658c9d]

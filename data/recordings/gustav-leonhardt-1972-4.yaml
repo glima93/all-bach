@@ -14,6 +14,7 @@ works:
 - {bwv: '663', complete: true}
 - {bwv: '665', complete: true}
 - {bwv: '666', complete: true}
+- {bwv: '668', complete: true}
 links:
 - platform: musicbrainz
   kind: release

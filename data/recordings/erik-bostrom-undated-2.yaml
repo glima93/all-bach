@@ -1,0 +1,27 @@
+id: erik-bostrom-undated-2
+performers:
+- name: Erik Boström
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Oscarskyrkan
+released: 2014
+original_label: null
+works:
+- {bwv: '654', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0c2f747f-16c8-4727-bb90-f2afaede8172
+  title: Organ Music
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fb54a685-f228-4c5b-8793-5dc562ba0bb3
+  recordings: [a3008aa6-f7fa-4b67-86b7-0b766b0ca1d7]

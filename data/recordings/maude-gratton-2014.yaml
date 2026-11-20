@@ -12,7 +12,9 @@ released: 2016
 original_label: null
 works:
 - {bwv: '656', complete: true}
+- {bwv: '659', complete: true}
 - {bwv: '665', complete: true}
+- {bwv: '668', complete: true}
 links:
 - platform: musicbrainz
   kind: release

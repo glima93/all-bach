@@ -12,6 +12,7 @@ released: 1992
 original_label: null
 works:
 - {bwv: '653', complete: true}
+- {bwv: '654', complete: true}
 - {bwv: '656', complete: true}
 - {bwv: '665', complete: true}
 links:

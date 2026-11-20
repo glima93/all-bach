@@ -11,6 +11,7 @@ recorded:
 released: 2002
 original_label: null
 works:
+- {bwv: '659', complete: true}
 - {bwv: '663', complete: true}
 links:
 - platform: musicbrainz
@@ -23,4 +24,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 85710ea9-c8b1-410a-a4ad-57d071e1fff9
-  recordings: [c79fb0a8-8aa9-4679-a42c-01af52c09b51]
+  recordings: [777e28e9-0656-4083-a698-3ce1c612b816]

@@ -12,6 +12,7 @@ released: 2010
 original_label: null
 works:
 - {bwv: '655', complete: true}
+- {bwv: '659', complete: true}
 - {bwv: '661', complete: true}
 - {bwv: '667', complete: true}
 links:

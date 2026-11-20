@@ -1,0 +1,29 @@
+id: d-ssonanti-undated-4
+performers:
+- name: D!ssonanti
+  role: orchestra
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/77e3a93d-aea3-4b79-94de-f688fdcc5679
+  title: Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: db0a2657-c41f-443c-8b1e-8131dcced58c
+  recordings: [916de19b-34ea-4fc5-bc65-b7b8c8a44366]

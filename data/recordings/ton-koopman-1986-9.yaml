@@ -1,4 +1,4 @@
-id: ton-koopman-1987-6
+id: ton-koopman-1986-9
 performers:
 - name: Ton Koopman
   role: organ
@@ -6,24 +6,27 @@ instrument: organ
 performance_practice: unknown
 arrangement: false
 recorded:
-  years: [1987, 1989, 1990]
-  place: Basilika St. Martin
-released: 1988
+  years: [1986, 1987, 1989, 1990]
+  place: Waalse Kerk
+released: 1986
 original_label: null
 works:
 - {bwv: '653', complete: true}
+- {bwv: '654', complete: true}
 - {bwv: '655', complete: true}
 - {bwv: '656', complete: true}
+- {bwv: '659', complete: true}
 - {bwv: '662', complete: true}
 links:
 - platform: musicbrainz
   kind: release
-  url: https://musicbrainz.org/release/4bdd3749-c52d-4118-b815-b9ba064f8eea
-  title: Orgelwerke II
+  url: https://musicbrainz.org/release/61d97d53-2f77-480c-b3e8-b4bd4a42a99a
+  title: Präludium und Fuge BWV 552 / Partite BWV 767 / Fantasie und Fuge BWV 542 / Toccata und Fuge d-moll BWV
+    565
 status: draft
 help_wanted:
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:
   artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
-  recordings: [c8c1aeda-6630-4e7a-91bf-dff45a33c66a]
+  recordings: [7ad113ac-adf6-4c89-aa28-00e98ababb72]

@@ -1,0 +1,28 @@
+id: wilhelm-kempff-1964
+performers:
+- name: Wilhelm Kempff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: [1964]
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b9a20d6d-b979-49a7-98fd-20a9ab820d65
+  title: Wilhelm Kempff Edition
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 095311b3-786f-4905-af19-03ae6b242a57
+  recordings: [0c02c81c-ea45-41dc-99a3-855b0c6149a9]

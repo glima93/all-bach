@@ -8,20 +8,23 @@ arrangement: false
 recorded:
   years: [1974, 1986]
   place: All Souls Church, Unitarian
-released: 1995
+released: 1994
 original_label: null
 works:
 - {bwv: '652', complete: true}
+- {bwv: '654', complete: true}
 - {bwv: '655', complete: true}
 - {bwv: '656', complete: true}
 - {bwv: '657', complete: true}
 - {bwv: '658', complete: true}
+- {bwv: '659', complete: true}
 - {bwv: '661', complete: true}
 - {bwv: '662', complete: true}
 - {bwv: '663', complete: true}
 - {bwv: '665', complete: true}
 - {bwv: '666', complete: true}
 - {bwv: '667', complete: true}
+- {bwv: '668', complete: true}
 links:
 - platform: musicbrainz
   kind: release

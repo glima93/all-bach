@@ -11,6 +11,7 @@ recorded:
 released: 2000
 original_label: null
 works:
+- {bwv: '654', complete: true}
 - {bwv: '655', complete: true}
 links:
 - platform: musicbrainz
@@ -23,4 +24,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 3815c66d-3168-4346-ae34-c540177d9604
-  recordings: [1bef2240-cb95-4c4a-a0d3-35c536dfcd31]
+  recordings: [9466113c-e644-4b43-958f-273aa4edbff9]

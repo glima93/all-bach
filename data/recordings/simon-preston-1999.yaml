@@ -1,7 +1,7 @@
 id: simon-preston-1999
 performers:
 - name: Simon Preston
-  role: pipe organ
+  role: organ
 instrument: organ
 performance_practice: unknown
 arrangement: false
@@ -11,12 +11,20 @@ recorded:
 released: 2000
 original_label: null
 works:
-- {bwv: '645', complete: true}
-- {bwv: '646', complete: true}
-- {bwv: '647', complete: true}
-- {bwv: '648', complete: true}
-- {bwv: '649', complete: true}
-- {bwv: '650', complete: true}
+- {bwv: '652', complete: true}
+- {bwv: '653', complete: true}
+- {bwv: '654', complete: true}
+- {bwv: '655', complete: true}
+- {bwv: '656', complete: true}
+- {bwv: '657', complete: true}
+- {bwv: '658', complete: true}
+- {bwv: '659', complete: true}
+- {bwv: '661', complete: true}
+- {bwv: '662', complete: true}
+- {bwv: '663', complete: true}
+- {bwv: '665', complete: true}
+- {bwv: '666', complete: true}
+- {bwv: '667', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -28,4 +36,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 32c98fc8-e7de-4c43-af5b-2f0a7a0dd4c7
-  recordings: [4f3fe94d-736d-4afc-a435-f2dc2c7de9ae]
+  recordings: [06505974-aa28-4ccf-8f62-091089c6cc64]

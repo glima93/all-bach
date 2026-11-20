@@ -1,0 +1,26 @@
+id: felipe-dominguez-2021
+performers:
+- name: Felipe Dominguez
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2021]
+  place: Sono Luminus Studios
+released: 2022
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c9cc39a-f180-48d7-ba58-b35b7a13721a
+  title: A Baroque Christmas at Sono Luminus
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1a036af0-f524-4748-b4ff-8fa507b54481
+  recordings: [958f378d-8326-4cc3-8f53-646fa14d17cf]

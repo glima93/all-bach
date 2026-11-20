@@ -1,0 +1,31 @@
+id: loris-barrucand-undated-3
+performers:
+- name: Loris Barrucand
+  role: harpsichord
+- name: Geoffroy Clément
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fc97b553-42db-4ebb-8693-108f115d163e
+  title: Bach sous les tilleuls
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ae46a47f-18e2-4666-b269-9c9781d47d50
+  recordings: [f0da0f2e-6b2c-4f0b-8200-bb82960b673d]

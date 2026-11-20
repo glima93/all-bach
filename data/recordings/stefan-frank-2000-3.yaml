@@ -1,0 +1,26 @@
+id: stefan-frank-2000-3
+performers:
+- name: Stefan Frank
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: Basilika SS. Ulrich and Afra
+released: 2001
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b280b0d-c95b-49b3-a281-b01a002bc6ea
+  title: Guillou / Reubke / Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9ed911ff-fd51-458b-8a7d-08dc6255e72b
+  recordings: [d1e44b33-a9c3-42f6-852c-1db4b87afd5b]

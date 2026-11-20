@@ -1,0 +1,27 @@
+id: cuarteto-casals-2022-2
+performers:
+- name: Cuarteto Casals
+  role: string quartet
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2022]
+  place: Castell de Cardona
+released: 2023
+original_label: null
+works:
+- {bwv: '668', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/96324b3b-cd13-4ed3-99cf-ad2bb9b5d30c
+  title: The Art of Fugue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b295bafb-5f03-442d-b33d-7ed9147be9b5
+  recordings: [f8961f07-5484-44fa-8350-42173691fbe1]

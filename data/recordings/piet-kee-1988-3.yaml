@@ -6,11 +6,12 @@ instrument: organ
 performance_practice: unknown
 arrangement: false
 recorded:
-  years: [1988]
+  years: [1988, 1991]
   place: Kathedrale basiliek Sint Bavo
 released: 1989
 original_label: null
 works:
+- {bwv: '659', complete: true}
 - {bwv: '663', complete: true}
 links:
 - platform: musicbrainz

@@ -13,6 +13,7 @@ original_label: null
 works:
 - {bwv: '653', complete: true}
 - {bwv: '655', complete: true}
+- {bwv: '659', complete: true}
 links:
 - platform: musicbrainz
   kind: release

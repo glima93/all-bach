@@ -11,6 +11,7 @@ recorded:
 released: 2009
 original_label: null
 works:
+- {bwv: '659', complete: true}
 - {bwv: '662', complete: true}
 links:
 - platform: musicbrainz
@@ -25,4 +26,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: dbe226ab-9dc1-4596-9e7f-9a22fc35fd22
-  recordings: [ea5ce884-5849-4d59-b973-fec3b4107e35]
+  recordings: [2be4920e-b1e0-43af-82b7-c573e1f66c1a]

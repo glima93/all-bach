@@ -1,0 +1,30 @@
+id: thompson-brass-ensemble-undated
+performers:
+- name: Thompson Brass Ensemble
+  role: ensemble
+- name: Barbara Bruns
+  role: organ
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '654', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1b77afa7-fe6b-4148-9160-0823d0aba871
+  title: Music for Brass & Organ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2244013b-c4a2-4be2-ae55-c4c4ee202600
+  recordings: [5937d1df-33ad-4d32-9d95-11abbe07c561]

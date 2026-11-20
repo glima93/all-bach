@@ -11,8 +11,10 @@ recorded:
 released: 2019
 original_label: null
 works:
+- {bwv: '654', complete: true}
 - {bwv: '657', complete: true}
 - {bwv: '658', complete: true}
+- {bwv: '659', complete: true}
 - {bwv: '661', complete: true}
 links:
 - platform: musicbrainz
@@ -27,4 +29,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: c2e63723-7bbc-4383-9880-14f036ac19eb
-  recordings: [941f6449-b113-4a4a-9a80-1d3197a1fb7a]
+  recordings: [d86c9640-cf28-42cb-960d-ad190e26f189]

@@ -12,6 +12,7 @@ released: 2007
 original_label: null
 works:
 - {bwv: '658', complete: true}
+- {bwv: '659', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -20,6 +21,7 @@ links:
 status: draft
 help_wanted:
 - Recording year
+- Check whether this is the same performance as another entry by this performer
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:

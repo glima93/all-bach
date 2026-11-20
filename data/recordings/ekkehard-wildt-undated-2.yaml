@@ -1,0 +1,28 @@
+id: ekkehard-wildt-undated-2
+performers:
+- name: Ekkehard Wildt
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/586e941f-09b3-4665-9b7e-12b20271fa30
+  title: 'Nun komm, der Heiden Heiland: Bläser- und Orgelmusik der Advents- und Weihnachtszeit'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 77f8c2b0-dbd5-4a6c-a175-e3b10ca83b55
+  recordings: [2825a9ff-d0b3-44be-b355-d1512602994e]

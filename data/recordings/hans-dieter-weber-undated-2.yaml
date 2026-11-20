@@ -1,0 +1,28 @@
+id: hans-dieter-weber-undated-2
+performers:
+- name: Hans-Dieter Weber
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0001145-f60a-4fff-84c9-e682707c1351
+  title: 100 Must‐Have Christmas Fireplace Moods
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 69103b9b-4782-4db9-bc4d-86fd1e7a3740
+  recordings: [013b4ce2-0393-42ed-a984-fc987282fd9d]

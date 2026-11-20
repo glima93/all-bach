@@ -1,0 +1,27 @@
+id: johannes-geffert-undated
+performers:
+- name: Johannes Geffert
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Kreuzkirche
+released: 1996
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4baad829-c4c9-4c31-b95e-3094e7960f6b
+  title: Weihnachtliche Orgelmusik aus der Kreuzkirche Bonn
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1dcc5824-d708-4ebe-adbc-43f54d28f97a
+  recordings: [58266042-a500-419e-992e-77e92ef2e8c8]

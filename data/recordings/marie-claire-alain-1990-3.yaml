@@ -1,4 +1,4 @@
-id: marie-claire-alain-1981-2
+id: marie-claire-alain-1990-3
 performers:
 - name: Marie‐Claire Alain
   role: organ
@@ -6,22 +6,21 @@ instrument: organ
 performance_practice: unknown
 arrangement: false
 recorded:
-  years: [1981]
-  place: Collégiale de Saint-Donat
-released: 1984
+  years: [1990]
+  place: Grote Sint Laurenskerk
+released: 2003
 original_label: null
 works:
-- {bwv: '645', complete: true}
-- {bwv: '650', complete: true}
+- {bwv: '659', complete: true}
 links:
 - platform: musicbrainz
   kind: release
-  url: https://musicbrainz.org/release/0da837c9-9c95-4e31-b58f-66bb7b6b87b9
-  title: Chorals pour Orgue
+  url: https://musicbrainz.org/release/9d1b46d9-6b3b-46d3-88fc-b6cac1811f74
+  title: Organ Masterpieces, Volume 1
 status: draft
 help_wanted:
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:
   artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
-  recordings: [902ae6db-65ab-49aa-9739-3e4c9ab2ac97]
+  recordings: [17b1a86f-a7a0-4c76-bc96-256885ef44ef]

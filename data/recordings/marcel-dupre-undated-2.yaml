@@ -12,6 +12,7 @@ released: 2015
 original_label: null
 works:
 - {bwv: '662', complete: true}
+- {bwv: '668', complete: true}
 links:
 - platform: musicbrainz
   kind: release
