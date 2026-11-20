@@ -70,8 +70,8 @@ collections:
    note: "597 doubtful; 598 is a pedal exercise"}
 - {id: orgelbuchlein, title: "Orgelbüchlein", chapter: Organ, bwv: ["599-644"], mode: organ, wave: 1, run: 19, status: imported}
 - {id: schubler, title: "Schübler Chorales", chapter: Organ, bwv: ["645-650"], mode: organ, wave: 1, run: 20, status: imported}
-- {id: great-eighteen, title: "Great Eighteen Chorale Preludes", chapter: Organ, bwv: ["651-668"], mode: organ, wave: 1, run: 20, status: queued}
-- {id: clavier-ubung-iii, title: "Clavier-Übung III", chapter: Organ, bwv: ["552", "669-689", "802-805"], mode: organ, wave: 1, run: 21, status: todo,
+- {id: great-eighteen, title: "Great Eighteen Chorale Preludes", chapter: Organ, bwv: ["651-668"], mode: organ, wave: 1, run: 20, status: imported}
+- {id: clavier-ubung-iii, title: "Clavier-Übung III", chapter: Organ, bwv: ["552", "669-689", "802-805"], mode: organ, wave: 1, run: 21, status: queued,
    note: "The St Anne Prelude and Fugue (552) frames the set; the four Duets (802–805) are manuals-only and often played on harpsichord or piano (native)"}
 
 # ── Wave 2: vocal works (needs the vocal importer mode) ───────────────────────────────────
