@@ -1,0 +1,28 @@
+id: hans-christoph-becker-foss-undated
+performers:
+- name: Hans-Christoph Becker-Foss
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '662', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/109f7577-9661-4290-a873-21218afe5a5d
+  title: 'So klingt Weihnachten: Festliche Klassik'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c4f61295-b1d0-45c5-bbfc-fb265af5b3ba
+  recordings: [0db49316-2489-4f34-96dc-3c800e140a71]

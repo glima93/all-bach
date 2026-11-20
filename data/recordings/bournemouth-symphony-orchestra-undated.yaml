@@ -1,0 +1,31 @@
+id: bournemouth-symphony-orchestra-undated
+performers:
+- name: Bournemouth Symphony Orchestra
+  role: orchestra
+- name: José Serebrier
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3a427559-92eb-4d39-8339-e8d3f3e00d5f
+  title: Bach Transcriptions
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b507bc1-d715-4c52-94c1-9d6140bccbe2
+  recordings: [f9ed5cfc-bd3e-4405-af31-8410cf559eaf]

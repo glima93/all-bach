@@ -1,0 +1,28 @@
+id: eberhard-kraus-undated-5
+performers:
+- name: Eberhard Kraus
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e87b69c6-9353-4ece-a97a-c1f9cdbe7f7c
+  title: The Most Relaxing Christmas Album in the Universe
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6df918ea-d407-432c-b91f-6a7fa46b79f4
+  recordings: [73407e43-0b9d-4716-8884-93e68026dd5d]

@@ -1,0 +1,39 @@
+id: michel-chapuis-1966-3
+performers:
+- name: Michel Chapuis
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966, 1969]
+  place: Vor Frelsers Kirke
+released: 1988
+original_label: null
+works:
+- {bwv: '652', complete: true}
+- {bwv: '653', complete: true}
+- {bwv: '654', complete: true}
+- {bwv: '655', complete: true}
+- {bwv: '656', complete: true}
+- {bwv: '657', complete: true}
+- {bwv: '658', complete: true}
+- {bwv: '659', complete: true}
+- {bwv: '661', complete: true}
+- {bwv: '662', complete: true}
+- {bwv: '663', complete: true}
+- {bwv: '665', complete: true}
+- {bwv: '666', complete: true}
+- {bwv: '667', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/90819b00-26e9-4ad4-834b-94fa3a3513ce
+  title: L'oeuvre d'orgue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: adb29a70-1a5a-40dc-b92d-8acfd3c481f6
+  recordings: [83ebbc36-6755-4216-b7e5-b03d94c93ea7]

@@ -1,0 +1,28 @@
+id: ann-helena-schluter-undated
+performers:
+- name: Ann-Helena Schlüter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Parroquia Santo Ángel Custodio
+released: 2018
+original_label: null
+works:
+- {bwv: '646', complete: true}
+- {bwv: '648', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/df253ca6-aefa-4e66-b9a6-ee4d458f93cc
+  title: Bach zwischen Lübeck und Paris
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: abde6c22-58ad-45df-a23f-71bd263c1154
+  recordings: [ac37539f-6b42-426c-80c0-629a59d8408c]

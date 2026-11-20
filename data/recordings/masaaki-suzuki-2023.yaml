@@ -1,0 +1,31 @@
+id: masaaki-suzuki-2023
+performers:
+- name: Masaaki Suzuki
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2023]
+  place: Martinikerk
+released: 2025
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/93ac2757-fdf7-4136-ac86-c4630e852247
+  title: Masaaki Suzuki Plays Bach Organ Works, Vol. 7
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d41e5072-3a8e-4f1f-97ab-3b0820de74c1
+  recordings: [c3464c7d-6183-4545-bf15-9c8ad9b5a42d]

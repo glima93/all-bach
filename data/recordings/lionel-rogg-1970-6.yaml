@@ -1,0 +1,40 @@
+id: lionel-rogg-1970-6
+performers:
+- name: Lionel Rogg
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: Domkirche Arlesheim
+released: 1987
+original_label: null
+works:
+- {bwv: '652', complete: true}
+- {bwv: '653', complete: true}
+- {bwv: '654', complete: true}
+- {bwv: '655', complete: true}
+- {bwv: '656', complete: true}
+- {bwv: '657', complete: true}
+- {bwv: '658', complete: true}
+- {bwv: '659', complete: true}
+- {bwv: '661', complete: true}
+- {bwv: '662', complete: true}
+- {bwv: '663', complete: true}
+- {bwv: '665', complete: true}
+- {bwv: '666', complete: true}
+- {bwv: '667', complete: true}
+- {bwv: '668', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bee1f76c-c5d7-4578-818f-3f2c92259f26
+  title: L'Œuvre d'orgue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 90e17964-b04a-4c37-b952-3c9dfc16c430
+  recordings: [32f6eab9-7e30-414c-8a3b-374b58ac2d90]

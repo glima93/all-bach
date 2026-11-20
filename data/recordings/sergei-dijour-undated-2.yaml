@@ -1,0 +1,28 @@
+id: sergei-dijour-undated-2
+performers:
+- name: Sergei Dijour
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '668', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/087ec1b3-b79a-4830-b305-7e668e2f2258
+  title: The Art Of Fugue, BWV 1080
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2f48859c-7491-4c28-8298-4284be931e43
+  recordings: [30db7593-6a21-44f7-b205-86b07dfbeebd]

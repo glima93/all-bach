@@ -1,0 +1,29 @@
+id: orchester-der-wiener-staatsoper-1965-2
+performers:
+- name: Orchester der Wiener Staatsoper
+  role: orchestra
+- name: Hermann Scherchen
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1965]
+  place: 'Konzerthaus: Mozart‐Saal'
+released: 1997
+original_label: null
+works:
+- {bwv: '668', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c0ad3efd-4bef-48e0-8c00-04947725fba4
+  title: Die Kunst der Fuge
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 60cc7738-673d-45e3-8cdb-5412e09cb1c5
+  recordings: [dab31d1c-82eb-4db3-9952-e1a717efbec7]

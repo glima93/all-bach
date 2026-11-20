@@ -1,0 +1,29 @@
+id: martin-ford-undated
+performers:
+- name: Martin Ford
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '659', complete: true}
+- {bwv: '662', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1b5755c1-5c5c-4f3a-a5a5-923759257a84
+  title: Carols by Candlelight
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dbe226ab-9dc1-4596-9e7f-9a22fc35fd22
+  recordings: [2be4920e-b1e0-43af-82b7-c573e1f66c1a]

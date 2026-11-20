@@ -1,0 +1,34 @@
+id: marie-claire-alain-undated-5
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/46a8bb4c-5ba9-49b6-b35f-6ae5f0c0cfa9
+  title: Cathedrale
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [c8fcf150-7ccc-484a-bb72-9f2023a467ec]

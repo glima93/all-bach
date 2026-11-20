@@ -1,0 +1,28 @@
+id: wolfgang-zerer-undated-4
+performers:
+- name: Wolfgang Zerer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '656', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/913fee5d-45f1-477e-b6ac-41b3bd4c214f
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ec03230f-7a06-432d-9db8-0bb94e72083c
+  recordings: [913fee5d-45f1-477e-b6ac-41b3bd4c214f]

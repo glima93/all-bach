@@ -1,0 +1,28 @@
+id: odile-pierre-undated-4
+performers:
+- name: Odile Pierre
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e02a29c0-51ed-4723-bdec-1a0dae6c9462
+  title: Auch, aux Orgues de la Basilique Sainte-Marie
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 87f5b5f8-79de-4fa3-823e-7dbb9ed91023
+  recordings: [d977c56d-01e0-4050-b550-2df90cfcad52]

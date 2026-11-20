@@ -1,0 +1,27 @@
+id: karl-richter-1966-3
+performers:
+- name: Karl Richter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966]
+  place: Jægersborg Kirke
+released: 1988
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/515be73a-2ed9-4e62-982c-9a2792a34090
+  title: 'Toccata und Fuge: Festliche Orgelklänge'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e01ebec7-98c5-450a-bf67-5650f8b4eff0
+  recordings: [d46897ff-c0bd-4fd8-8181-615aecde8a61]

@@ -1,0 +1,28 @@
+id: karol-golebiowski-undated-3
+performers:
+- name: Karol Golebiowski
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2d876192-a8e6-4391-984e-86f3e2f40cd9
+  title: 'Au cœur du classique 32: Bach - Oeuvres pour Orgue'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ae39792-7545-4c78-8eca-46b4b6f33ad3
+  recordings: [1eba3f13-3ae6-4a56-b83c-5cc3fd5a75dc]

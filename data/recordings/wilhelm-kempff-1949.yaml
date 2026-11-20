@@ -1,0 +1,27 @@
+id: wilhelm-kempff-1949
+performers:
+- name: Wilhelm Kempff
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: [1949]
+  place: Decca Studios
+released: 2022
+original_label: null
+works:
+- {bwv: '645', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cecd5bd8-8ada-4e10-9028-2279de5ae243
+  title: The Decca Legacy
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 095311b3-786f-4905-af19-03ae6b242a57
+  recordings: [03b6871f-9ebe-4099-a8d8-859b188b3b11]

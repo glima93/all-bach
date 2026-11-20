@@ -1,0 +1,27 @@
+id: adrian-partington-undated
+performers:
+- name: Adrian Partington
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: King’s College Chapel
+released: 1987
+original_label: null
+works:
+- {bwv: '661', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9011e82-dd36-440d-8a56-26fb73951b3f
+  title: Procession With Carols on Advent Sunday
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 379e6e65-0ee5-4dfa-b05a-f319cf9d6f83
+  recordings: [5bbd6b19-c273-4e28-bcdd-cf8f9ddaca46]

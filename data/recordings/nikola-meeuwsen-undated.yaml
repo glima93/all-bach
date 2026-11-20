@@ -1,0 +1,29 @@
+id: nikola-meeuwsen-undated
+performers:
+- name: Nikola Meeuwsen
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1f1fbc63-b2ca-4154-9c80-2961a6b9d045
+  title: Avrotros klassiek presenteert
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 41d9dc7d-ea4b-4422-a224-04cd6912bbd6
+  recordings: [57961930-7259-4f71-838b-0a1a24f3e360]

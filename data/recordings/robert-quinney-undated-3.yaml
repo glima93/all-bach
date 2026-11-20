@@ -1,0 +1,28 @@
+id: robert-quinney-undated-3
+performers:
+- name: Robert Quinney
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Trinity College Chapel
+released: 2013
+original_label: null
+works:
+- {bwv: '662', complete: true}
+- {bwv: '663', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b4945cb6-7352-482a-9683-d55fb3cea33b
+  title: J. S. Bach Organ Works Vol. II
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7260023b-4f02-435f-a42a-14edcfa7a285
+  recordings: [dea9856a-42b6-40a2-9654-30406fdabd2c]

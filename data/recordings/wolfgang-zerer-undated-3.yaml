@@ -1,0 +1,28 @@
+id: wolfgang-zerer-undated-3
+performers:
+- name: Wolfgang Zerer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Hauptkirche Sankt Katharinen
+released: null
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/21d3dae9-10cd-4c92-9c90-5b8b287cc835
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ec03230f-7a06-432d-9db8-0bb94e72083c
+  recordings: [21d3dae9-10cd-4c92-9c90-5b8b287cc835]

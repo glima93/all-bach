@@ -1,0 +1,28 @@
+id: virgil-fox-undated-6
+performers:
+- name: Virgil Fox
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '645', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1eec994d-ce6d-49ef-9cb5-870c20ae3f4c
+  title: Golden Sounds From the Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0005682c-3083-415e-ae4c-debd7be3e47e
+  recordings: [3edd1274-da90-4ba8-a61b-896d93cd2efa]

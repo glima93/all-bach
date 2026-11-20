@@ -1,0 +1,32 @@
+id: ludwig-guttler-undated
+performers:
+- name: Ludwig Güttler
+  role: trumpet
+- name: Christoph Kircheis
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1979
+original_label: null
+works:
+- {bwv: '645', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f452bf2c-a6fa-44c0-84c5-a23cc700257d
+  title: Musik für Trompete und Orgel aus dem Magdeburger Dom
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With trumpet.
+musicbrainz:
+  artist: 6217e9fd-3029-499b-b574-0c4aaaf17ee8
+  recordings: [968e49d6-973d-4f6d-ae8e-f3fb98f26182]

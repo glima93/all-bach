@@ -1,0 +1,29 @@
+id: capricornus-consort-basel-2021-2
+performers:
+- name: Capricornus Consort Basel
+  role: ensemble
+- name: Péter Barczi
+  role: violin
+instrument: ensemble
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [2021]
+  place: Heilig-Kreuz-Kirche
+released: 2022
+original_label: null
+works:
+- {bwv: '655', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2843b7aa-1e3d-4d9a-8096-14b0c7518502
+  title: Ich bin vergnügt… Kantaten, BWV 51·82·84
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: af883649-c8f6-4628-99cb-730338f5b662
+  recordings: [213efd35-6785-477d-a64b-fd7542550508]

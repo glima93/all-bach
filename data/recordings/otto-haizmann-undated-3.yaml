@@ -1,0 +1,28 @@
+id: otto-haizmann-undated-3
+performers:
+- name: Otto Haizmann
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '645', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/769f9a19-aece-424f-a165-335a175d1437
+  title: Fukuno Itami - Der Schmerz des verlorenen Glücks
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0933f1eb-b95b-44e9-bcc1-5b8c30913396
+  recordings: [54bd0105-6044-4937-b04f-bd78d23365af]

@@ -878,6 +878,56 @@ OVERRIDE_BY_SNAPSHOT["orgelbuchlein"] = {
         "Soli Deo Gloria (2020): BWV 617 with the Ricercar Consort and Foccroulle's organ; Foccroulle's organ solo on the album is filed separately"),
 }
 
+# Run 20 (the Schübler Chorales and the Great Eighteen).
+EXCLUDE_BY_SNAPSHOT["schubler"] = {
+    "d5975ca9-2563-4a0a-8b31-a8d091d7f000": "the 25th Philips Christmas concert at St. Michaelis, Hamburg (1986): only the conductor Schünicke is credited, no organist; 'Wachet auf' there is almost certainly sung, not the organ chorale BWV 645 (as Rilling's Figuralchor in run 19)",
+}
+JOIN_BY_SNAPSHOT["schubler"] = {
+    "4f3fe94d-736d-4afc-a435-f2dc2c7de9ae": ("da25e624-c100-4647-8f38-dde6990b933b", "Preston's DG The Organ Works box (2000) reissues his DG Schübler disc of 1991-92; he recorded the set once for DG, so the box row's 1999 date and Trinity College venue belong to other works on the same disc"),
+    "902ae6db-65ab-49aa-9739-3e4c9ab2ac97": ("e091986a-2205-4777-900e-e45ba0b92b9e", "Alain's Chorals pour Orgue (Erato, first released 1984, Saint-Donat) takes BWV 645 and 650 from her second Erato cycle at Saint-Donat (1978-80), released the same year"),
+    "637b3510-e01c-4eb0-92b3-74632665f704": ("70b19da4-fb7d-4207-a17a-9752f8588724", "Preston's Organ Favourites (Westminster Abbey, first issued 1990, undated) reissues BWV 645 and 650 from his Westminster Abbey Schübler set of 1964 (The World of the Organ)"),
+    "121be56a-5dc1-4e6b-9baa-082b2ed90557": ("148ac4a4-d17c-4f08-9434-0c32ab44afcf", "Szathmáry's Organ Works (fde9d07b, 1991): the undated BWV 648-650 are the other half of the Schübler set recorded at the Academiehuis in 1978 on the same release"),
+    "2afe2785-dfd4-4928-b82e-6466433c1e0e": ("4b324b5f-9e38-404f-befa-88d018d3c300", "Fagius's Complete Organ Music box (BIS, 2005; no artist credited on the row) reissues his Volume 1 Schübler Chorales, Kristine kyrka 1983 (as his boxes in runs 17-19)"),
+}
+EXCLUDE_BY_SNAPSHOT["great-eighteen"] = {
+    "429a9529-4505-4f96-95b8-3e9feeb8737d": "Weinberger's Organ Works Vol. 3: Orgelbüchlein Part 1 (cpo) opens with BWV 599 'Nun komm, der Heiden Heiland', linked to BWV 659 by mistake; his BWV 659 is in his 1998-99 Leipzig set",
+    "75c7243b-28c8-4f88-90ed-64b3d6e746b2": "Calmus Ensemble's Luther Collage is an a cappella album of Luther hymn settings: 'Nun komm, der Heiden Heiland' sung, not the organ prelude BWV 659",
+    "d643e9f7-bb3c-4e84-b26b-55e5b4c06864": "Hinübergehen (1993) is Joachim-Ernst Berendt's anthology of late works; Berendt, the jazz writer who compiled it, is credited as the artist of BWV 668, and the organist is not named",
+    "94926faf-ad4f-4f6d-9f68-8a183cffea14": "Gardiner's Pilgrimage volume 9 (Thomaskirche, 2000): the choir and orchestra sing the chorale 'Vor deinen Thron' (BWV 327), not the organ prelude BWV 668; no organist is credited",
+    "6e50b8ef-e7b4-45c1-ba62-30cff8c12ca3": "a church choir's Christmas Eve service sings the hymn 'Nun komm, der Heiden Heiland' ('Savior of the nations, come'); the hymn, not the organ prelude BWV 659 (as the carol albums in run 19)",
+}
+JOIN_BY_SNAPSHOT["great-eighteen"] = {
+    "fed43360-cf2f-42c9-ac4f-16956e8b48d4": ("aedfa1bd-e85e-4ad9-8f3e-068f47eeb672", "Rübsam's Das Orgelwerk (Philips, 15f1eef5): the undated Leipzig chorales and the 1977 BWV 654 and 659 are one set from his 1977 cycle on the same release (as in run 18)"),
+    "39feef2d-11e6-4c21-ac8d-e0a5eaeefd76": ("ccb0b082-c707-451c-aa9e-9b896cd89afa", "Hans Otto's Orgelwerke auf Silbermann-Orgeln (undated, Freiberg Cathedral): BWV 667 from his Freiberg Silbermann cycle of 1970, whose Vol. III holds the other Leipzig chorales"),
+    "9140a809-bb55-4100-b5b3-81a5b0fd17fd": ("8f439374-eda5-42af-af6c-8da1d833788e", "Fagius's Complete Organ Music box (BIS, 2005; no artist credited on the row) reissues his Volume 1 Leipzig chorales, Kristine kyrka 1983 (as his boxes in runs 17-19)"),
+}
+OVERRIDE_BY_SNAPSHOT["schubler"] = {
+    "da25e624-c100-4647-8f38-dde6990b933b": ({"years": [1991], "place": None},
+        "the DG box row joined in adds a 1999 date and Trinity College Chapel that belong to other works on the box"),
+    "1387da2f-4c1b-49f4-bf35-0ba995ff31ba": ({"performers": [{"name": "George Herbert", "role": "organ"}]},
+        "Advent Live, Volume 3: the organ voluntary is played by George Herbert (the role credit); the choir and Nethsingha are the album's credit (as in run 19)"),
+    "b4a34bdb-6a47-4eea-9cd4-e517f95b51f1": ({"instrument": "voices-and-instruments", "arrangement": True},
+        "Tragicomedia's Notenbüchlein für Anna Magdalena Bach: 'Wachet auf' with John Potter (tenor), harp and lute, not the organ chorale"),
+}
+OVERRIDE_BY_SNAPSHOT["great-eighteen"] = {
+    "2a589232-1268-47a6-be05-635b197e2ebd": ({"movements": ["654:0"]},
+        "Schoenberg's two chorale-prelude orchestrations (1922) are BWV 654 and the Orgelbüchlein 'Komm, Gott Schöpfer' BWV 631, not BWV 667"),
+    "10fec515-d38e-4ea3-a91d-b87c38260106": ({"movements": ["654:0"]},
+        "Schoenberg's orchestrations of 1922: BWV 654 and BWV 631, not BWV 667 (as 2a589232)"),
+    "f16e3081-4988-401a-bb5c-b10605f8cde4": ({"performers": [{"name": "George Herbert", "role": "organ"}]},
+        "Advent Live, Volume 3: the organ voluntary is played by George Herbert (the role credit); the choir and Nethsingha are the album's credit"),
+    "73407e43-0b9d-4716-8884-93e68026dd5d": ({"performers": [{"name": "Eberhard Kraus", "role": "organ"}], "instrument": "organ", "arrangement": False},
+        "Eberhard Kraus, the Regensburg organist: his organ recording of BWV 659 reissued on a Christmas compilation, with no instrument credit"),
+    "5937d1df-33ad-4d32-9d95-11abbe07c561": ({"instrument": "ensemble", "arrangement": True},
+        "Music for Brass & Organ: BWV 654 arranged for the Thompson Brass Ensemble with Barbara Bruns at the organ"),
+    "213efd35-6785-477d-a64b-fd7542550508": ({"performers": [{"name": "Capricornus Consort Basel", "role": "ensemble"}, {"name": "Péter Barczi", "role": "violin"}], "performance_practice": "historical"},
+        "Ich bin vergnügt (cantatas 51, 82, 84): BWV 655 played as an instrumental trio by the period group, whose director Barczi plays the violin (as cc391779 in an earlier run)"),
+    "a4860a08-d895-4f93-aafa-4b8e19cc3435": ({"performers": [{"name": "Masaaki Suzuki", "role": "organ"}], "instrument": "organ", "arrangement": False},
+        "Masaaki Suzuki Plays Bach Organ Works, Vol. 6 (Martinikerk, Groningen, 2023): the row has no instrument credit, but the series is organ solo (Vol. 7 is credited on organ)"),
+    "6adb4cf9-9e0b-4840-bb25-4c53e4138787": ({"performers": [{"name": "Gerhard Gnann", "role": "organ"}], "place": "Église Saint-Jean-Baptiste de Saessolsheim"},
+        "Rilling's A Book of Chorale-Settings: the organ preludes are Gnann's, at Saessolsheim; the Gächinger Kantorei, Rilling and Sindelfingen belong to the sung chorales (as in run 19)"),
+}
+
 INSTRUMENTS = {
     "cello": "cello", "violoncello": "cello",
     "baroque cello": "baroque-cello", "baroque violoncello": "baroque-cello",

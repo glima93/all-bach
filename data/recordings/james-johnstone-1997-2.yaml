@@ -1,0 +1,26 @@
+id: james-johnstone-1997-2
+performers:
+- name: James Johnstone
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: Ev.-Luth. Kirche - St. Michaelis
+released: 1998
+original_label: null
+works:
+- {bwv: '654', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/883f175f-6dbb-4cc4-8a25-55108b4a02d0
+  title: Epiphany Mass
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 139c3bd2-d6c2-4603-bb49-55d71df4c658
+  recordings: [8c550932-feab-43b8-8c27-52b773b6a73d]

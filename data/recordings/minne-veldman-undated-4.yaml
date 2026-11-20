@@ -1,0 +1,27 @@
+id: minne-veldman-undated-4
+performers:
+- name: Minne Veldman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Grote Kerk, Vollenhove
+released: 2013
+original_label: null
+works:
+- {bwv: '658', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bfc59c05-b80c-4e82-835f-2b5b55ad6e4b
+  title: Johann Sebastian Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 41f78ff4-ad71-42cd-a2e2-b0f6e893550a
+  recordings: [5b93077b-5450-47d6-afbc-dd96fa56aee3]

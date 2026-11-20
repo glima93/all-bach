@@ -1,0 +1,32 @@
+id: ludwig-guttler-undated-2
+performers:
+- name: Ludwig Güttler
+  role: trumpet
+- name: Friedrich Kircheis
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cfa0fc24-bfff-4300-9de0-ef7ca7802d91
+  title: Classical Christmas
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With trumpet.
+musicbrainz:
+  artist: 6217e9fd-3029-499b-b574-0c4aaaf17ee8
+  recordings: [c783e511-d5f4-4835-97c7-45f6bc7a56ab]

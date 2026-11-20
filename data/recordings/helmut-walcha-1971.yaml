@@ -1,0 +1,31 @@
+id: helmut-walcha-1971
+performers:
+- name: Helmut Walcha
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1971]
+  place: Église protestante Saint-Pierre-le-Jeune
+released: 1984
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e6374f8-420b-353b-8c42-dbb249bfac1c
+  title: Das Orgelwerk
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f4c1fd6-75c8-4c40-8fcf-0b5496c01bf2
+  recordings: [a8fefd35-e430-402f-aaa7-e3c55d9cdbc0]

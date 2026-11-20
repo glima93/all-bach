@@ -1,0 +1,31 @@
+id: hans-fagius-1983
+performers:
+- name: Hans Fagius
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1983]
+  place: Kristine kyrka
+released: 1986
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/301df4b3-f940-47e7-ad30-0098377126b1
+  title: 'The Complete Organ Music, Volume 1: 18 Choräle / Schübler-Choräle'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1326ea97-4cae-428c-bbc2-f7aaf5354ec1
+  recordings: [2afe2785-dfd4-4928-b82e-6466433c1e0e, 4b324b5f-9e38-404f-befa-88d018d3c300]

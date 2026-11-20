@@ -1,0 +1,27 @@
+id: lionel-rogg-1975-4
+performers:
+- name: Lionel Rogg
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1975]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6fbd1c00-4ab4-4aed-a608-a86eb3404d98
+  title: Baroque Bach, Volume 3, Instrumental Works
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 90e17964-b04a-4c37-b952-3c9dfc16c430
+  recordings: [acff0fa3-a789-4134-be49-feb8a0ad2068]

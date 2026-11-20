@@ -1,0 +1,28 @@
+id: paul-stubbings-undated-2
+performers:
+- name: Paul Stubbings
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St Martin-in-the-Fields
+released: 1995
+original_label: null
+works:
+- {bwv: '662', complete: true}
+- {bwv: '663', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/873a3082-fae4-4905-903d-e943649f4431
+  title: Paul Stubbings plays the organ of St Martin in the Fields
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c6438ec-32b8-4af9-b4db-d501d007f47d
+  recordings: [feea585b-e55f-464e-99b4-8b4c97b1ada2]

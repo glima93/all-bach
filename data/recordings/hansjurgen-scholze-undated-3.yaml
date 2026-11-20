@@ -1,0 +1,29 @@
+id: hansjurgen-scholze-undated-3
+performers:
+- name: Hansjürgen Scholze
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Katholische Hofkirche
+released: 1986
+original_label: null
+works:
+- {bwv: '654', complete: true}
+- {bwv: '657', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30406d68-896e-4d1c-9535-48245ade0b23
+  title: Die Silbermann-Orgel der Hofkirche zu Dresden
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: edba43f7-1593-4eee-af85-4fd2e24b4415
+  recordings: [eadea331-37a2-4cc8-9d7b-a3a7d155513e]

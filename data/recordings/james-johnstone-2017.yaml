@@ -1,0 +1,31 @@
+id: james-johnstone-2017
+performers:
+- name: James Johnstone
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Stiftskirche St. Georg
+released: 2020
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8a1419f9-c551-4ab7-b0bd-2a2362f47dff
+  title: Leipzig Chorales / Schübler Chorales / Canonic Variations
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 139c3bd2-d6c2-4603-bb49-55d71df4c658
+  recordings: [f4caa29c-b182-4a13-8d54-177125259872]

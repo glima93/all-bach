@@ -1,0 +1,31 @@
+id: wolfgang-stockmeier-1977-6
+performers:
+- name: Wolfgang Stockmeier
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977, 1981]
+  place: St. Jodokus
+released: 2004
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/542ca3db-b1dd-4bfc-9694-1e3601e95306
+  title: Das Orgelwerk
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7d03eee6-60c1-4c32-bb5c-2c62e2b4f0d7
+  recordings: [e44506e5-9290-4399-9bda-a0abcdefd902]

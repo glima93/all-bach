@@ -1,0 +1,28 @@
+id: winfried-berger-2004-2
+performers:
+- name: Winfried Berger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2004]
+  place: St. Martini Kirche
+released: 2004
+original_label: null
+works:
+- {bwv: '655', complete: true}
+- {bwv: '659', complete: true}
+- {bwv: '668', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b5491dd2-3612-4d53-94d3-4be9e53c7779
+  title: Die Kern-Orgel in St. Martini zu Stadthagen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a1d4530b-5fdb-4983-b39e-dc8a7ccf1d30
+  recordings: [5f77c353-e083-4325-bdd8-5e2a1047ea90]

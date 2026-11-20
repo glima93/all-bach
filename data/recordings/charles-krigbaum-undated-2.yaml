@@ -1,0 +1,28 @@
+id: charles-krigbaum-undated-2
+performers:
+- name: Charles Krigbaum
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '668', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9377ff64-5ba7-4d14-b2e7-a6c13fc708c2
+  title: The Art of The Fugue by J.S. Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed496976-33d9-4bd6-86dd-b5dcc3d2af06
+  recordings: [eb588e4d-a420-49e8-902b-a860f35cc7b7]

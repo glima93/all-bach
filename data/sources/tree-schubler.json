@@ -1,0 +1,196 @@
+{
+ "collection": "schubler",
+ "taken": "2026-11-19",
+ "recordings": 500,
+ "performances": 154,
+ "works": [
+  {
+   "bwv": "645",
+   "id": "d729ebbf-c2d5-3193-a698-96ef50541fa6",
+   "candidates": [
+    {
+     "id": "1ff73ba6-2b40-486e-8fb5-946e195a63d2",
+     "title": "Morning Song, BWV 645"
+    },
+    {
+     "id": "d729ebbf-c2d5-3193-a698-96ef50541fa6",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Wachet auf, ruft uns die Stimme, BWV 645"
+    },
+    {
+     "id": "7d21d541-3819-4238-9289-c49c8fb3ae02",
+     "title": "Wachet auf, ruft uns die Stimme, BWV 645"
+    },
+    {
+     "id": "4d11e286-273a-3a80-b8a6-386272c3bbbc",
+     "title": "Wachet auf, ruft uns die Stimme, BWV 645, BV B 27/2"
+    },
+    {
+     "id": "755935b0-059e-49e1-aea5-64c306f37f64",
+     "title": "Wachet auf, ruft uns die Stimme, BWV 645"
+    },
+    {
+     "id": "a8049b49-205b-402f-8b77-9e30ffcd9e45",
+     "title": "Chorale “Wachet auf, ruft uns die Stimme”, BWV 645"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Wachet auf, ruft uns die Stimme, BWV 645",
+   "key": "E-flat major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "d729ebbf-c2d5-3193-a698-96ef50541fa6",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Wachet auf, ruft uns die Stimme, BWV 645"
+    }
+   ]
+  },
+  {
+   "bwv": "646",
+   "id": "7779c59f-79ef-3835-b58f-d8e4d4fb2f1c",
+   "candidates": [
+    {
+     "id": "7779c59f-79ef-3835-b58f-d8e4d4fb2f1c",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Wo soll ich fliehen hin, BWV 646"
+    },
+    {
+     "id": "4b0475e9-5363-43d0-9bdf-8a05fd0b79ce",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Wo soll ich fliehen hin, BWV 646"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Wo soll ich fliehen hin, BWV 646",
+   "key": "E minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "7779c59f-79ef-3835-b58f-d8e4d4fb2f1c",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Wo soll ich fliehen hin, BWV 646"
+    }
+   ]
+  },
+  {
+   "bwv": "647",
+   "id": "c2e1c8da-7cad-3330-a178-36c25068847f",
+   "candidates": [
+    {
+     "id": "c2e1c8da-7cad-3330-a178-36c25068847f",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Wer nur den lieben Gott läßt walten, BWV 647"
+    },
+    {
+     "id": "14878b40-4cc4-4d01-9234-37b0daaa7ee2",
+     "title": "Wer nur den lieben Gott lässt walten, BWV 647"
+    },
+    {
+     "id": "75bd9859-f9db-409e-94b4-2164fb430397",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Wer nur den lieben Gott läßt walten, BWV 647"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Wer nur den lieben Gott läßt walten, BWV 647",
+   "key": "C minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "c2e1c8da-7cad-3330-a178-36c25068847f",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Wer nur den lieben Gott läßt walten, BWV 647"
+    }
+   ]
+  },
+  {
+   "bwv": "648",
+   "id": "2c5ee0ec-3cb1-3cfc-9e8e-56016501d188",
+   "candidates": [
+    {
+     "id": "2c5ee0ec-3cb1-3cfc-9e8e-56016501d188",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Meine Seele erhebet den Herren, BWV 648"
+    },
+    {
+     "id": "6257e243-fb78-48ae-86cb-9e9d8642f31b",
+     "title": "Meine Seele erhebet den Herren, BWV 648"
+    },
+    {
+     "id": "3642fe74-dc2e-4d0d-a84a-b2742fbc9514",
+     "title": "3 Corali, P. 167: Meine Seele erhebet den Herren, BWV 648"
+    },
+    {
+     "id": "5b8338e2-040e-4cfd-a80a-66da54c68878",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Meine Seele erhebet den Herren, BWV 648"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Meine Seele erhebet den Herren, BWV 648",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "2c5ee0ec-3cb1-3cfc-9e8e-56016501d188",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Meine Seele erhebet den Herren, BWV 648"
+    }
+   ]
+  },
+  {
+   "bwv": "649",
+   "id": "8b855aae-e69c-3adc-b99f-a836324c444f",
+   "candidates": [
+    {
+     "id": "8b855aae-e69c-3adc-b99f-a836324c444f",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Ach bleib' bei uns, Herr Jesu Christ, BWV 649"
+    },
+    {
+     "id": "6a573671-551b-490a-93a6-cb7d3a7eb1db",
+     "title": "Ach bleib’ bei uns, Herr Jesu Christ, BWV 649"
+    },
+    {
+     "id": "33d0ba9f-5667-4582-865d-3cec39678575",
+     "title": "Ach bleib’ bei uns, Herr Jesu Christ, BWV 649"
+    },
+    {
+     "id": "78b43d59-1dd5-477e-8711-32c1fb8944b1",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Ach bleib' bei uns, Herr Jesu Christ, BWV 649"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Ach bleib' bei uns, Herr Jesu Christ, BWV 649",
+   "key": "B-flat major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "8b855aae-e69c-3adc-b99f-a836324c444f",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Ach bleib' bei uns, Herr Jesu Christ, BWV 649"
+    }
+   ]
+  },
+  {
+   "bwv": "650",
+   "id": "af40506e-68d1-3099-b7f5-ab28e79516ed",
+   "candidates": [
+    {
+     "id": "af40506e-68d1-3099-b7f5-ab28e79516ed",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Kommst du nun, Jesus vom Himmel herunter, BWV 650"
+    },
+    {
+     "id": "15018d10-9d54-4935-b08e-6806f3fd2924",
+     "title": "Kommst du nun, Jesu, vom Himmel herunter, BWV 650"
+    },
+    {
+     "id": "7355dc32-6435-44c5-8803-145e9207c42f",
+     "title": "Kommst du nun, Jesu, vom Himmel herunter, BWV 650"
+    },
+    {
+     "id": "325faba8-c37b-48dd-9a08-9f54acc43e30",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Kommst du nun, Jesus vom Himmel herunter, BWV 650"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Kommst du nun, Jesus vom Himmel herunter, BWV 650",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "af40506e-68d1-3099-b7f5-ab28e79516ed",
+     "title": "Sechs Choräle von Verschiedener Art (Schübler-Choräle): Kommst du nun, Jesus vom Himmel herunter, BWV 650"
+    }
+   ]
+  }
+ ]
+}

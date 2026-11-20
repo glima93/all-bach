@@ -1,0 +1,28 @@
+id: leslie-pearson-undated-2
+performers:
+- name: Leslie Pearson
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '645', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6854ad01-cb30-40b5-bbdb-9d1c9ac095b6
+  title: Great Organ Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7a8bbb23-f9c0-4498-9902-19c651da2967
+  recordings: [58ffc436-20f2-483a-af6d-6fd282864994]

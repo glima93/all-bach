@@ -1,0 +1,28 @@
+id: simone-stella-undated-3
+performers:
+- name: Simone Stella
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/10bb784b-0476-40e6-a3e3-4a0678434a61
+  title: Toccata and Fugue & Other Works
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 61207688-1097-40f1-8106-ac401df1ea7e
+  recordings: [a7eb0d42-156c-4cb6-a796-1138057a3817]

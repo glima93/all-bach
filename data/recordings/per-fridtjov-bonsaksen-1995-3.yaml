@@ -1,0 +1,30 @@
+id: per-fridtjov-bonsaksen-1995-3
+performers:
+- name: Per Fridtjov Bonsaksen
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Nidarosdomen
+released: 1995
+original_label: null
+works:
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2282ed60-7988-4e96-a801-b363f300943e
+  title: Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17da95ea-0b4e-4426-bf95-7f7444c2d9af
+  recordings: [c55674f0-7ef8-45a5-ac31-5e9df4a115b6]

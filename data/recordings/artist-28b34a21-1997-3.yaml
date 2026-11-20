@@ -1,0 +1,26 @@
+id: artist-28b34a21-1997-3
+performers:
+- name: James OʼDonnell
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: Ev.-Luth. Kirche - St. Michaelis
+released: 1998
+original_label: null
+works:
+- {bwv: '657', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/883f175f-6dbb-4cc4-8a25-55108b4a02d0
+  title: Epiphany Mass
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 28b34a21-bafe-453a-9978-62e531d3c07f
+  recordings: [801ed6e8-c32f-4ba1-b0b9-28a1947c0bee]

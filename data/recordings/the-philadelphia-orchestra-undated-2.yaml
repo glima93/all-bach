@@ -1,0 +1,31 @@
+id: the-philadelphia-orchestra-undated-2
+performers:
+- name: The Philadelphia Orchestra
+  role: orchestra
+- name: Leopold Stokowski
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Victor’s Church Studio
+released: 1994
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/970da15b-977d-4b97-8b55-414839824e37
+  title: 'Transcriptions: Toccata and Fugue in D minor / Passacaglia and Fugue / Chaconne from Violin Partita no.
+    2 / Ein feste Burg (Historical Recordings 1927-1939)'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ff3fcff7-6c85-49d6-b954-ed7011a44e5a
+  recordings: [9406f561-df78-42a4-adaa-cf4ae91a7ef1]

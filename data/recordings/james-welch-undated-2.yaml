@@ -1,0 +1,27 @@
+id: james-welch-undated-2
+performers:
+- name: James Welch
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: All Saints' Episcopal Church
+released: 2014
+original_label: null
+works:
+- {bwv: '659', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/af23b410-2bf1-4aab-af74-0e560696eafa
+  title: Recital
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c48241b8-a48f-4e55-901c-60156e720c01
+  recordings: [fdd00f63-fe08-454c-a10e-525a44171103]

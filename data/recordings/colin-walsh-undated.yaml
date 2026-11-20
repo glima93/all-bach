@@ -1,0 +1,27 @@
+id: colin-walsh-undated
+performers:
+- name: Colin Walsh
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Lincoln Cathedral
+released: 1994
+original_label: null
+works:
+- {bwv: '645', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b660bb1a-1968-4cd4-a4cd-5cb90e1b307a
+  title: 'All Time Great Organ Music (Classic FM Essential Music Collection #12)'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e2e5c2d8-75ef-4d35-9c68-e5b8f53dc997
+  recordings: [f96f1f0b-caad-4271-9a8e-691e2cd3fd4e]

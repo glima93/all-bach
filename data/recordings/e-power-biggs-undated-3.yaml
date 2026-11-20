@@ -1,0 +1,27 @@
+id: e-power-biggs-undated-3
+performers:
+- name: E. Power Biggs
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Busch–Reisinger Museum
+released: 1975
+original_label: null
+works:
+- {bwv: '654', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3cb87ffc-91d0-43dd-838f-bff427dc3bad
+  title: Bach Organ Favorites
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8be84470-71d4-42e7-8283-6d568b64abc7
+  recordings: [f474c520-1547-4169-8dd6-9fb351180dec]
