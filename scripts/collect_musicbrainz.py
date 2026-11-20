@@ -43,7 +43,8 @@ API = "https://musicbrainz.org/ws/2/"
 # Version 3: the tree also says which search candidates were skipped as arrangements.
 # Version 4: only an arrangement of a Bach work (a "BWV" title) disqualifies a candidate; chorale preludes are
 # linked in MusicBrainz as arrangements of their hymn tunes.
-COLLECTOR_VERSION = 4
+# Version 5: skipped candidates name the works they arrange.
+COLLECTOR_VERSION = 5
 UA = "AllBach/0.2 ( https://github.com/glima93/all-bach )"
 GROUPS = ["Orchestra", "Group", "Choir"]
 # Modes whose performances are grouped by the orchestra, ensemble or choir when one is credited.
@@ -174,7 +175,8 @@ class Collector:
             arranged = [a for a in w["arrangement_of"]
                         if re.search(r"\bBWV\b", t := self.work(a)["title"], re.I) and not own.search(t)]
             if arranged or re.search(r"\barr\b|arrang|transcri|bearb", w["disambiguation"], re.I):
-                skipped[c["id"]] = "arrangement"
+                skipped[c["id"]] = "arrangement of " + "; ".join(self.work(a)["title"] for a in arranged) if arranged \
+                    else "arrangement: " + w["disambiguation"]
                 continue
             (parts_of if w["part_of"] else kept).append((len(w["parts"]), c["score"], c["id"]))
         kept.sort(key=lambda k: (-k[0], -k[1]))
