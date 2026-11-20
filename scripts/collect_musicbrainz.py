@@ -44,7 +44,9 @@ API = "https://musicbrainz.org/ws/2/"
 # Version 4: only an arrangement of a Bach work (a "BWV" title) disqualifies a candidate; chorale preludes are
 # linked in MusicBrainz as arrangements of their hymn tunes.
 # Version 5: skipped candidates name the works they arrange.
-COLLECTOR_VERSION = 5
+# Version 6: "Choralbearbeitung" is not an arrangement; numbered BWV³ versions (BWV 659.2) are found, the
+# latest kept.
+COLLECTOR_VERSION = 6
 UA = "AllBach/0.2 ( https://github.com/glima93/all-bach )"
 GROUPS = ["Orchestra", "Group", "Choir"]
 # Modes whose performances are grouped by the orchestra, ensemble or choir when one is credited.
@@ -165,20 +167,53 @@ class Collector:
                 cands.append({"id": w["id"], "title": w["title"], "score": w.get("score", 0)})
             return cands[:6]
         cands = self.cached("search:" + bwv, get)
+
+        # The new BWV numbering (BWV³) splits versions as <n>.1, <n>.2 …: MusicBrainz files the Leipzig
+        # version of BWV 659 as "BWV 659.2", which the phrase search for "BWV 659" does not find.
+        dec = re.compile(rf"BWV\s*{bwv}\.(\d+)(?![0-9])", re.I)
+
+        def get_dec():
+            q = " OR ".join(f'"BWV {bwv}.{i}"' for i in (1, 2, 3))
+            res = self.mb("work?query=" + requests.utils.quote(f"({q}) AND arid:{BACH}") + "&limit=25")
+            return [{"id": w["id"], "title": w["title"], "score": w.get("score", 0)} for w in res.get("works") or []
+                    if (m := dec.search(w["title"])) and ":" not in w["title"][m.end():]][:6]
+        cands = cands + [c for c in self.cached("search-dec:" + bwv, get_dec) if c["id"] not in {x["id"] for x in cands}]
+
         kept, parts_of, skipped = [], [], {}
         # Only an arrangement of a Bach work disqualifies a candidate. Chorale preludes are linked in
         # MusicBrainz as arrangements of their hymn tunes (Crüger's "Schmücke dich"), and Bach's revisions as
-        # arrangements of his earlier versions (BWV 654 of 654a); both are still this work.
+        # arrangements of his earlier versions (BWV 654 of 654a); both are still this work. An arrangement of a
+        # numbered version (Busoni's of "BWV 659.2") is an arrangement, but the version it names is a candidate.
+        # "Choralbearbeitung" (chorale setting) in a disambiguation is not an arrangement.
         own = re.compile(rf"BWV\s*{bwv}[a-z](?![0-9a-z])", re.I)
-        for c in cands:
+        n0 = len(cands)
+        for c in cands[:n0]:
             w = self.work(c["id"])
             arranged = [a for a in w["arrangement_of"]
                         if re.search(r"\bBWV\b", t := self.work(a)["title"], re.I) and not own.search(t)]
-            if arranged or re.search(r"\barr\b|arrang|transcri|bearb", w["disambiguation"], re.I):
+            # An arrangement of a numbered version of this work points to that version: a candidate too.
+            for a in w["arrangement_of"]:
+                t = self.work(a)["title"]
+                if (m := dec.search(t)) and ":" not in t[m.end():] and a not in {x["id"] for x in cands}:
+                    cands.append({"id": a, "title": t, "score": 0})
+            if arranged or re.search(r"\barr\b|arrang|transcri|\bbearb", w["disambiguation"], re.I):
                 skipped[c["id"]] = "arrangement of " + "; ".join(self.work(a)["title"] for a in arranged) if arranged \
                     else "arrangement: " + w["disambiguation"]
                 continue
             (parts_of if w["part_of"] else kept).append((len(w["parts"]), c["score"], c["id"]))
+        for c in cands[n0:]:  # versions added from arrangement links
+            w = self.work(c["id"])
+            (parts_of if w["part_of"] else kept).append((len(w["parts"]), c["score"], c["id"]))
+        # Of the numbered versions, only the latest (BWV² <n>, the Leipzig version) is this work.
+        versions = {k[2]: int(dec.search(next(c["title"] for c in cands if c["id"] == k[2])).group(1))
+                    for k in kept + parts_of if dec.search(next(c["title"] for c in cands if c["id"] == k[2]))}
+        if versions:
+            top = max(versions.values())
+            for c_id, v in versions.items():
+                if v < top:
+                    skipped[c_id] = f"earlier version ({bwv}.{v})"
+            kept = [k for k in kept if k[2] not in skipped]
+            parts_of = [k for k in parts_of if k[2] not in skipped]
         kept.sort(key=lambda k: (-k[0], -k[1]))
         parts_of.sort(key=lambda k: (-k[0], -k[1]))
         pool = kept or parts_of
