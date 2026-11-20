@@ -1,0 +1,683 @@
+{
+ "collection": "clavier-ubung-iii",
+ "collector": 6,
+ "taken": "2026-11-20",
+ "recordings": 1453,
+ "performances": 214,
+ "works": [
+  {
+   "bwv": "552",
+   "id": "75d73f1d-2351-39cf-a027-dbfd56c23ce7",
+   "also": [],
+   "skipped": {
+    "c4bcc1b8-43de-4cc0-b761-44471d7f316a": "arrangement of Präludium und Fuge Es-Dur, BWV 552",
+    "cfd6f736-b48e-4d0c-a8c7-c22bd89ce983": "arrangement of Präludium und Fuge Es-Dur, BWV 552",
+    "e855010a-92fd-4380-9d58-7ae5158b21c5": "arrangement of Präludium und Fuge Es-Dur, BWV 552",
+    "37459ca0-3879-4914-9f01-86d6819d5ed8": "arrangement of Präludium und Fuge Es-Dur, BWV 552"
+   },
+   "candidates": [
+    {
+     "id": "75d73f1d-2351-39cf-a027-dbfd56c23ce7",
+     "title": "Präludium und Fuge Es-Dur, BWV 552"
+    },
+    {
+     "id": "d24f67ee-ce92-3b43-86d2-3118d2972d99",
+     "title": "Prelude and Fugue in E-flat major, BWV 552"
+    },
+    {
+     "id": "c4bcc1b8-43de-4cc0-b761-44471d7f316a",
+     "title": "Präludium und Fuge Es-Dur, BWV 552, BV B 22"
+    },
+    {
+     "id": "cfd6f736-b48e-4d0c-a8c7-c22bd89ce983",
+     "title": "Präludium und Fuge Es-Dur, BWV 552"
+    },
+    {
+     "id": "e855010a-92fd-4380-9d58-7ae5158b21c5",
+     "title": "Präludium und Fuge Es-Dur, BWV 552"
+    },
+    {
+     "id": "37459ca0-3879-4914-9f01-86d6819d5ed8",
+     "title": "Präludium und Fuge Es-Dur, BWV 552"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Präludium und Fuge Es-Dur, BWV 552",
+   "key": "E-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "61eb1d10-9e42-3013-ba1a-c6555ad1657e",
+     "title": "Präludium und Fuge Es-Dur, BWV 552: I. Präludium"
+    },
+    {
+     "id": "6ebb66f5-657d-37a1-984f-7a81f58f13be",
+     "title": "Präludium und Fuge Es-Dur, BWV 552: II. Fuge"
+    }
+   ]
+  },
+  {
+   "bwv": "669",
+   "id": "1ff65284-cf41-3d0b-95c2-68d2b2e4e508",
+   "also": [],
+   "skipped": {
+    "8acc4ac6-cfcc-46b9-a948-0175520511cd": "arrangement of Choralbearbeitung, BWV 669 “Kyrie, Gott Vater in Ewigkeit”"
+   },
+   "candidates": [
+    {
+     "id": "1ff65284-cf41-3d0b-95c2-68d2b2e4e508",
+     "title": "Choralbearbeitung, BWV 669 “Kyrie, Gott Vater in Ewigkeit”"
+    },
+    {
+     "id": "8acc4ac6-cfcc-46b9-a948-0175520511cd",
+     "title": "Choralbearbeitung, BWV 669 “Kyrie, Gott Vater in Ewigkeit”"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 669 “Kyrie, Gott Vater in Ewigkeit”",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "1ff65284-cf41-3d0b-95c2-68d2b2e4e508",
+     "title": "Choralbearbeitung, BWV 669 “Kyrie, Gott Vater in Ewigkeit”"
+    }
+   ]
+  },
+  {
+   "bwv": "670",
+   "id": "f3d67aea-e3b0-38a6-9e68-9adeaf5aecb8",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "f3d67aea-e3b0-38a6-9e68-9adeaf5aecb8",
+     "title": "Choralbearbeitung, BWV 670 \"Christe, aller Welt Trost\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 670 \"Christe, aller Welt Trost\"",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "f3d67aea-e3b0-38a6-9e68-9adeaf5aecb8",
+     "title": "Choralbearbeitung, BWV 670 \"Christe, aller Welt Trost\""
+    }
+   ]
+  },
+  {
+   "bwv": "671",
+   "id": "8359a3c8-a4dd-3127-8229-ad86699a79d6",
+   "also": [],
+   "skipped": {
+    "4827b256-c602-472a-9d12-6e892abce493": "arrangement of Choralbearbeitung, BWV 671 \"Kyrie, Gott heiliger Geist\""
+   },
+   "candidates": [
+    {
+     "id": "8359a3c8-a4dd-3127-8229-ad86699a79d6",
+     "title": "Choralbearbeitung, BWV 671 \"Kyrie, Gott heiliger Geist\""
+    },
+    {
+     "id": "4827b256-c602-472a-9d12-6e892abce493",
+     "title": "Choralbearbeitung, BWV 671 \"Kyrie, Gott heiliger Geist\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 671 \"Kyrie, Gott heiliger Geist\"",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "8359a3c8-a4dd-3127-8229-ad86699a79d6",
+     "title": "Choralbearbeitung, BWV 671 \"Kyrie, Gott heiliger Geist\""
+    }
+   ]
+  },
+  {
+   "bwv": "672",
+   "id": "b2737ad4-c9bf-332b-9079-b60885cee2ba",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "b2737ad4-c9bf-332b-9079-b60885cee2ba",
+     "title": "Choralbearbeitung, BWV 672 \"Kyrie, Gott Vater in Ewigkeit\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 672 \"Kyrie, Gott Vater in Ewigkeit\"",
+   "key": "E major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "b2737ad4-c9bf-332b-9079-b60885cee2ba",
+     "title": "Choralbearbeitung, BWV 672 \"Kyrie, Gott Vater in Ewigkeit\""
+    }
+   ]
+  },
+  {
+   "bwv": "673",
+   "id": "6971f17e-cd7e-3632-82b7-2156b46a3f3e",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "6971f17e-cd7e-3632-82b7-2156b46a3f3e",
+     "title": "Choralbearbeitung, BWV 673 \"Christe, aller Welt Trost\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 673 \"Christe, aller Welt Trost\"",
+   "key": "E major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "6971f17e-cd7e-3632-82b7-2156b46a3f3e",
+     "title": "Choralbearbeitung, BWV 673 \"Christe, aller Welt Trost\""
+    }
+   ]
+  },
+  {
+   "bwv": "674",
+   "id": "2cb1d13f-ffd6-32a7-9019-0e98ce4fb54f",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "2cb1d13f-ffd6-32a7-9019-0e98ce4fb54f",
+     "title": "Choralbearbeitung, BWV 674 \"Kyrie, Gott heiliger Geist\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 674 \"Kyrie, Gott heiliger Geist\"",
+   "key": "E major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "2cb1d13f-ffd6-32a7-9019-0e98ce4fb54f",
+     "title": "Choralbearbeitung, BWV 674 \"Kyrie, Gott heiliger Geist\""
+    }
+   ]
+  },
+  {
+   "bwv": "675",
+   "id": "53d427c9-fb04-3b01-b162-3c426c6856d6",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "53d427c9-fb04-3b01-b162-3c426c6856d6",
+     "title": "Choralbearbeitung, BWV 675 \"Allein Gott in der Höh sei Ehr\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 675 \"Allein Gott in der Höh sei Ehr\"",
+   "key": "F major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "53d427c9-fb04-3b01-b162-3c426c6856d6",
+     "title": "Choralbearbeitung, BWV 675 \"Allein Gott in der Höh sei Ehr\""
+    }
+   ]
+  },
+  {
+   "bwv": "676",
+   "id": "db4646a3-b52f-3bd9-a8e2-74e13d44012e",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "db4646a3-b52f-3bd9-a8e2-74e13d44012e",
+     "title": "Choralbearbeitung, BWV 676 \"Allein Gott in der Höh sei Ehr\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 676 \"Allein Gott in der Höh sei Ehr\"",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "db4646a3-b52f-3bd9-a8e2-74e13d44012e",
+     "title": "Choralbearbeitung, BWV 676 \"Allein Gott in der Höh sei Ehr\""
+    }
+   ]
+  },
+  {
+   "bwv": "678",
+   "id": "45e78329-2267-303f-ae76-e2fd66082991",
+   "also": [],
+   "skipped": {
+    "ff757fd8-98b3-4faa-9672-8d0e5adfcab8": "arrangement of Choralbearbeitung, BWV 678 \"Dies sind die heil'gen zehn Gebot'\"",
+    "44e8d9d5-449c-43fc-aeab-f3678bbb4047": "arrangement: Recorder consort arrangements"
+   },
+   "candidates": [
+    {
+     "id": "45e78329-2267-303f-ae76-e2fd66082991",
+     "title": "Choralbearbeitung, BWV 678 \"Dies sind die heil'gen zehn Gebot'\""
+    },
+    {
+     "id": "ff757fd8-98b3-4faa-9672-8d0e5adfcab8",
+     "title": "Choralbearbeitung, BWV 678 \"Dies sind die heil'gen zehn Gebot'\""
+    },
+    {
+     "id": "44e8d9d5-449c-43fc-aeab-f3678bbb4047",
+     "title": "Dies Sind Die Heilgen Zehn Gebot, BWV 678 (Arr. Pour Flutes)"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 678 \"Dies sind die heil'gen zehn Gebot'\"",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "45e78329-2267-303f-ae76-e2fd66082991",
+     "title": "Choralbearbeitung, BWV 678 \"Dies sind die heil'gen zehn Gebot'\""
+    }
+   ]
+  },
+  {
+   "bwv": "679",
+   "id": "6cbf7ca4-ce5f-32ab-8556-b6d3f2360a43",
+   "also": [],
+   "skipped": {
+    "78c70b7b-a7fe-4a8e-beb9-5a3c44563e93": "arrangement of Choralbearbeitung, BWV 679 \"Dies sind die heil'gen zehn Gebot'\""
+   },
+   "candidates": [
+    {
+     "id": "6cbf7ca4-ce5f-32ab-8556-b6d3f2360a43",
+     "title": "Choralbearbeitung, BWV 679 \"Dies sind die heil'gen zehn Gebot'\""
+    },
+    {
+     "id": "78c70b7b-a7fe-4a8e-beb9-5a3c44563e93",
+     "title": "Choralbearbeitung, BWV 679 \"Dies sind die heil'gen zehn Gebot'\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 679 \"Dies sind die heil'gen zehn Gebot'\"",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "6cbf7ca4-ce5f-32ab-8556-b6d3f2360a43",
+     "title": "Choralbearbeitung, BWV 679 \"Dies sind die heil'gen zehn Gebot'\""
+    }
+   ]
+  },
+  {
+   "bwv": "680",
+   "id": "822f967e-8a90-3d3b-8258-5e5c34526442",
+   "also": [
+    "d6073738-9d07-4a5f-b6d2-74a496254f86",
+    "1ac5601b-f669-433b-b6e1-02796255ca61"
+   ],
+   "skipped": {
+    "f9e34d84-d77b-4138-abef-f965da0fe06d": "arrangement of Choralbearbeitung, BWV 680 \"Wir glauben all' an einen Gott\""
+   },
+   "candidates": [
+    {
+     "id": "822f967e-8a90-3d3b-8258-5e5c34526442",
+     "title": "Choralbearbeitung, BWV 680 \"Wir glauben all' an einen Gott\""
+    },
+    {
+     "id": "d6073738-9d07-4a5f-b6d2-74a496254f86",
+     "title": "Wir glauben all’ an einen Gott, BWV 680 \"Giant Fugue\""
+    },
+    {
+     "id": "f9e34d84-d77b-4138-abef-f965da0fe06d",
+     "title": "Choralbearbeitung, BWV 680 \"Wir glauben all' an einen Gott\""
+    },
+    {
+     "id": "1ac5601b-f669-433b-b6e1-02796255ca61",
+     "title": "Wir glauben all’ an einen Gott, BWV 680 “Giant Fugue”"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 680 \"Wir glauben all' an einen Gott\"",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "822f967e-8a90-3d3b-8258-5e5c34526442",
+     "title": "Choralbearbeitung, BWV 680 \"Wir glauben all' an einen Gott\"",
+     "also": [
+      "d6073738-9d07-4a5f-b6d2-74a496254f86",
+      "1ac5601b-f669-433b-b6e1-02796255ca61"
+     ]
+    }
+   ]
+  },
+  {
+   "bwv": "681",
+   "id": "d4b7e3a9-f6f6-311b-af1b-53ef4272d88c",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "d4b7e3a9-f6f6-311b-af1b-53ef4272d88c",
+     "title": "Choralbearbeitung, BWV 681 \"Wir glauben all' an einen Gott\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 681 \"Wir glauben all' an einen Gott\"",
+   "key": "E major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "d4b7e3a9-f6f6-311b-af1b-53ef4272d88c",
+     "title": "Choralbearbeitung, BWV 681 \"Wir glauben all' an einen Gott\""
+    }
+   ]
+  },
+  {
+   "bwv": "682",
+   "id": "5d4b61d5-2b61-3302-934f-08d95b1b7020",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "5d4b61d5-2b61-3302-934f-08d95b1b7020",
+     "title": "Choralbearbeitung, BWV 682 \"Vater unser im Himmelreich\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 682 \"Vater unser im Himmelreich\"",
+   "key": "E major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "5d4b61d5-2b61-3302-934f-08d95b1b7020",
+     "title": "Choralbearbeitung, BWV 682 \"Vater unser im Himmelreich\""
+    }
+   ]
+  },
+  {
+   "bwv": "683",
+   "id": "83838429-a6cf-3598-9a30-9a2212b06c05",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "83838429-a6cf-3598-9a30-9a2212b06c05",
+     "title": "Choralbearbeitung, BWV 683 \"Vater unser im Himmelreich\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 683 \"Vater unser im Himmelreich\"",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "83838429-a6cf-3598-9a30-9a2212b06c05",
+     "title": "Choralbearbeitung, BWV 683 \"Vater unser im Himmelreich\""
+    }
+   ]
+  },
+  {
+   "bwv": "684",
+   "id": "cbf2680a-1935-3d5f-93ae-b37b7d1dc282",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "cbf2680a-1935-3d5f-93ae-b37b7d1dc282",
+     "title": "Choralbearbeitung, BWV 684 \"Christ, unser Herr, zum Jordan kam\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 684 \"Christ, unser Herr, zum Jordan kam\"",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "cbf2680a-1935-3d5f-93ae-b37b7d1dc282",
+     "title": "Choralbearbeitung, BWV 684 \"Christ, unser Herr, zum Jordan kam\""
+    }
+   ]
+  },
+  {
+   "bwv": "685",
+   "id": "a1b59971-5057-38a8-b9e0-1edbb319b603",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "a1b59971-5057-38a8-b9e0-1edbb319b603",
+     "title": "Choralbearbeitung, BWV 685 \"Christ, unser Herr, zum Jordan kam\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 685 \"Christ, unser Herr, zum Jordan kam\"",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "a1b59971-5057-38a8-b9e0-1edbb319b603",
+     "title": "Choralbearbeitung, BWV 685 \"Christ, unser Herr, zum Jordan kam\""
+    }
+   ]
+  },
+  {
+   "bwv": "686",
+   "id": "a11b562a-a72b-3322-986e-f23103daacdd",
+   "also": [
+    "90bfa4ed-faed-4162-8696-69fa23bae4c0"
+   ],
+   "skipped": {
+    "8dbce42f-42a6-402f-afac-8fad2527531f": "arrangement of Aus tiefer Not schrei ich zu dir, BWV 686"
+   },
+   "candidates": [
+    {
+     "id": "a11b562a-a72b-3322-986e-f23103daacdd",
+     "title": "Aus tiefer Not schrei ich zu dir, BWV 686"
+    },
+    {
+     "id": "8dbce42f-42a6-402f-afac-8fad2527531f",
+     "title": "Aus tiefer Not schrei ich zu dir, BWV 686"
+    },
+    {
+     "id": "90bfa4ed-faed-4162-8696-69fa23bae4c0",
+     "title": "Aus tiefer Not schrei ich zu dir, BWV 686"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Aus tiefer Not schrei ich zu dir, BWV 686",
+   "key": "E major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "a11b562a-a72b-3322-986e-f23103daacdd",
+     "title": "Aus tiefer Not schrei ich zu dir, BWV 686",
+     "also": [
+      "90bfa4ed-faed-4162-8696-69fa23bae4c0"
+     ]
+    }
+   ]
+  },
+  {
+   "bwv": "687",
+   "id": "a4b6b169-f665-35d9-923d-645c5d77100e",
+   "also": [],
+   "skipped": {
+    "b72706b0-4694-4fb2-8086-bc08d7ec0609": "arrangement of Aus tiefer Not schrei ich zu dir, BWV 687"
+   },
+   "candidates": [
+    {
+     "id": "a4b6b169-f665-35d9-923d-645c5d77100e",
+     "title": "Aus tiefer Not schrei ich zu dir, BWV 687"
+    },
+    {
+     "id": "b72706b0-4694-4fb2-8086-bc08d7ec0609",
+     "title": "Aus tiefer Not schrei ich zu dir, BWV 687"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Aus tiefer Not schrei ich zu dir, BWV 687",
+   "key": "F-sharp major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "a4b6b169-f665-35d9-923d-645c5d77100e",
+     "title": "Aus tiefer Not schrei ich zu dir, BWV 687"
+    }
+   ]
+  },
+  {
+   "bwv": "688",
+   "id": "eb0fcd0d-c3ba-38e2-bae9-2adb6b2cb1bb",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "eb0fcd0d-c3ba-38e2-bae9-2adb6b2cb1bb",
+     "title": "Choralbearbeitung, BWV 688 \"Jesus Christus unser Heiland\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Choralbearbeitung, BWV 688 \"Jesus Christus unser Heiland\"",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "eb0fcd0d-c3ba-38e2-bae9-2adb6b2cb1bb",
+     "title": "Choralbearbeitung, BWV 688 \"Jesus Christus unser Heiland\""
+    }
+   ]
+  },
+  {
+   "bwv": "689",
+   "id": "fc30db88-bf77-3f5a-8cc1-184f2d6f2e1f",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "fc30db88-bf77-3f5a-8cc1-184f2d6f2e1f",
+     "title": "Jesus Christus, unser Heiland (Fuga super), BWV 689"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Jesus Christus, unser Heiland (Fuga super), BWV 689",
+   "key": "F major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "fc30db88-bf77-3f5a-8cc1-184f2d6f2e1f",
+     "title": "Jesus Christus, unser Heiland (Fuga super), BWV 689"
+    }
+   ]
+  },
+  {
+   "bwv": "802",
+   "id": "d42ad3cc-dceb-3a4c-a0d1-c96e4a5751bc",
+   "also": [],
+   "skipped": {
+    "15fab0f7-7bef-427a-bacf-acfbeaf4aa86": "arrangement of Duetto Nr. 1 e-Moll, BWV 802"
+   },
+   "candidates": [
+    {
+     "id": "d42ad3cc-dceb-3a4c-a0d1-c96e4a5751bc",
+     "title": "Duetto Nr. 1 e-Moll, BWV 802"
+    },
+    {
+     "id": "15fab0f7-7bef-427a-bacf-acfbeaf4aa86",
+     "title": "Duetto Nr. 1 e-Moll, BWV 802"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Duetto Nr. 1 e-Moll, BWV 802",
+   "key": "E minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "d42ad3cc-dceb-3a4c-a0d1-c96e4a5751bc",
+     "title": "Duetto Nr. 1 e-Moll, BWV 802"
+    }
+   ]
+  },
+  {
+   "bwv": "803",
+   "id": "08d8a451-e76c-3daf-b43b-c90c2dccace5",
+   "also": [],
+   "skipped": {
+    "c334ceb1-3d6d-4b65-93cb-2ff65b9ac848": "arrangement of Duetto Nr. 2 F-Dur, BWV 803"
+   },
+   "candidates": [
+    {
+     "id": "08d8a451-e76c-3daf-b43b-c90c2dccace5",
+     "title": "Duetto Nr. 2 F-Dur, BWV 803"
+    },
+    {
+     "id": "c334ceb1-3d6d-4b65-93cb-2ff65b9ac848",
+     "title": "Duetto Nr. 2 F-Dur, BWV 803"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Duetto Nr. 2 F-Dur, BWV 803",
+   "key": "F major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "08d8a451-e76c-3daf-b43b-c90c2dccace5",
+     "title": "Duetto Nr. 2 F-Dur, BWV 803"
+    }
+   ]
+  },
+  {
+   "bwv": "804",
+   "id": "b7026c7f-57f4-3778-a9fc-ec265bd5b611",
+   "also": [],
+   "skipped": {
+    "dda74b11-ad36-4c13-92ec-d8fe14bc3407": "arrangement of Duetto Nr. 3 G-dur, BWV 804"
+   },
+   "candidates": [
+    {
+     "id": "b7026c7f-57f4-3778-a9fc-ec265bd5b611",
+     "title": "Duetto Nr. 3 G-dur, BWV 804"
+    },
+    {
+     "id": "dda74b11-ad36-4c13-92ec-d8fe14bc3407",
+     "title": "Duetto Nr. 3 G-dur, BWV 804"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Duetto Nr. 3 G-dur, BWV 804",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "b7026c7f-57f4-3778-a9fc-ec265bd5b611",
+     "title": "Duetto Nr. 3 G-dur, BWV 804"
+    }
+   ]
+  },
+  {
+   "bwv": "805",
+   "id": "7e3d3738-3cd8-36ee-a7fa-6d81bcd31798",
+   "also": [],
+   "skipped": {
+    "48ef4a5f-47f7-4946-b9a7-e4bffc2cfa58": "arrangement of Duetto Nr. 4 a-Moll, BWV 805"
+   },
+   "candidates": [
+    {
+     "id": "7e3d3738-3cd8-36ee-a7fa-6d81bcd31798",
+     "title": "Duetto Nr. 4 a-Moll, BWV 805"
+    },
+    {
+     "id": "48ef4a5f-47f7-4946-b9a7-e4bffc2cfa58",
+     "title": "Duetto Nr. 4 a-Moll, BWV 805"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Duetto Nr. 4 a-Moll, BWV 805",
+   "key": "A minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "7e3d3738-3cd8-36ee-a7fa-6d81bcd31798",
+     "title": "Duetto Nr. 4 a-Moll, BWV 805"
+    }
+   ]
+  }
+ ]
+}
