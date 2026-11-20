@@ -38,8 +38,10 @@ ROOT = Path(__file__).resolve().parent.parent
 BACH = "24f1766e-9635-4d58-a4d4-9413f9f98a4c"
 API = "https://musicbrainz.org/ws/2/"
 # Version 2 (20 Nov 2026): single-movement works also take the recordings of the other MusicBrainz works with
-# the same BWV number (duplicates), and a work that is a part of a set counts when nothing else is found.
-COLLECTOR_VERSION = 2
+# the same BWV number (duplicates), a work that is a part of a set counts when nothing else is found, and
+# Bach's revision of his own earlier version (BWV 654 "arrangement of" 654a) is not an arrangement.
+# Version 3: the tree also says which search candidates were skipped as arrangements.
+COLLECTOR_VERSION = 3
 UA = "AllBach/0.2 ( https://github.com/glima93/all-bach )"
 GROUPS = ["Orchestra", "Group", "Choir"]
 # Modes whose performances are grouped by the orchestra, ensemble or choir when one is credited.
@@ -160,10 +162,15 @@ class Collector:
                 cands.append({"id": w["id"], "title": w["title"], "score": w.get("score", 0)})
             return cands[:6]
         cands = self.cached("search:" + bwv, get)
-        kept, parts_of = [], []
+        kept, parts_of, skipped = [], [], {}
+        # Bach's own revision of an earlier version (the Great Eighteen: BWV 654 of 654a) is linked in
+        # MusicBrainz as an arrangement of it; that is still this work.
+        own = re.compile(rf"BWV\s*{bwv}[a-z](?![0-9a-z])", re.I)
         for c in cands:
             w = self.work(c["id"])
-            if w["arrangement_of"] or re.search(r"\barr\b|arrang|transcri|bearb", w["disambiguation"], re.I):
+            arranged = [a for a in w["arrangement_of"] if not own.search(self.work(a)["title"])]
+            if arranged or re.search(r"\barr\b|arrang|transcri|bearb", w["disambiguation"], re.I):
+                skipped[c["id"]] = "arrangement"
                 continue
             (parts_of if w["part_of"] else kept).append((len(w["parts"]), c["score"], c["id"]))
         kept.sort(key=lambda k: (-k[0], -k[1]))
@@ -171,7 +178,7 @@ class Collector:
         pool = kept or parts_of
         main = pool[0] if pool else None
         also = [k[2] for k in kept + parts_of if main and main[0] == 0 and k[0] == 0 and k[2] != main[2]]
-        return {"bwv": bwv, "id": main[2] if main else None, "also": also,
+        return {"bwv": bwv, "id": main[2] if main else None, "also": also, "skipped": skipped,
                 "candidates": [{"id": c["id"], "title": c["title"]} for c in cands],
                 "ambiguous": len(kept) > 1 and kept[0][:2] == kept[1][:2]}
 
