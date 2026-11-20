@@ -41,7 +41,9 @@ API = "https://musicbrainz.org/ws/2/"
 # the same BWV number (duplicates), a work that is a part of a set counts when nothing else is found, and
 # Bach's revision of his own earlier version (BWV 654 "arrangement of" 654a) is not an arrangement.
 # Version 3: the tree also says which search candidates were skipped as arrangements.
-COLLECTOR_VERSION = 3
+# Version 4: only an arrangement of a Bach work (a "BWV" title) disqualifies a candidate; chorale preludes are
+# linked in MusicBrainz as arrangements of their hymn tunes.
+COLLECTOR_VERSION = 4
 UA = "AllBach/0.2 ( https://github.com/glima93/all-bach )"
 GROUPS = ["Orchestra", "Group", "Choir"]
 # Modes whose performances are grouped by the orchestra, ensemble or choir when one is credited.
@@ -163,12 +165,14 @@ class Collector:
             return cands[:6]
         cands = self.cached("search:" + bwv, get)
         kept, parts_of, skipped = [], [], {}
-        # Bach's own revision of an earlier version (the Great Eighteen: BWV 654 of 654a) is linked in
-        # MusicBrainz as an arrangement of it; that is still this work.
+        # Only an arrangement of a Bach work disqualifies a candidate. Chorale preludes are linked in
+        # MusicBrainz as arrangements of their hymn tunes (Crüger's "Schmücke dich"), and Bach's revisions as
+        # arrangements of his earlier versions (BWV 654 of 654a); both are still this work.
         own = re.compile(rf"BWV\s*{bwv}[a-z](?![0-9a-z])", re.I)
         for c in cands:
             w = self.work(c["id"])
-            arranged = [a for a in w["arrangement_of"] if not own.search(self.work(a)["title"])]
+            arranged = [a for a in w["arrangement_of"]
+                        if re.search(r"\bBWV\b", t := self.work(a)["title"], re.I) and not own.search(t)]
             if arranged or re.search(r"\barr\b|arrang|transcri|bearb", w["disambiguation"], re.I):
                 skipped[c["id"]] = "arrangement"
                 continue
