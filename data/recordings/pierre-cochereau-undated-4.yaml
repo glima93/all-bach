@@ -1,0 +1,27 @@
+id: pierre-cochereau-undated-4
+performers:
+- name: Pierre Cochereau
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Cathédrale Notre-Dame de Paris
+released: 1961
+original_label: null
+works:
+- {bwv: '656', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eaab3dda-77e2-46c2-a906-4d75a7f76901
+  title: Récital d'orgue à Notre-Dame de Paris
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d1860493-9903-4dba-8689-9a70587fe231
+  recordings: [6d286988-36d7-40cb-9f4b-2739f5a0791a]

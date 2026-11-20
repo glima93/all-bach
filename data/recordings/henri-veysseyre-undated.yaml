@@ -1,0 +1,28 @@
+id: henri-veysseyre-undated
+performers:
+- name: Henri Veysseyre
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1979
+original_label: null
+works:
+- {bwv: '662', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fd9e92f4-7416-43ca-8750-08213b805d06
+  title: Vitrail
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 712b4831-2ad3-413f-9bdb-9407aec1cf5e
+  recordings: [107ce174-6e52-495e-9d62-0612b7aac43e]

@@ -1,0 +1,27 @@
+id: richard-morris-undated-3
+performers:
+- name: Richard Morris
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Second Baptist Church
+released: 1989
+original_label: null
+works:
+- {bwv: '663', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/61fb2f29-c172-4981-940f-d2d4ee03395e
+  title: Organ Masterpieces from France and Germany
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b9fd4ab-18bf-44db-86fb-050eb90ced03
+  recordings: [6f50c6c4-6da1-4875-b1c3-b2b97666c383]

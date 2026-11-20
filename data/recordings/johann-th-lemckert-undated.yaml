@@ -1,0 +1,32 @@
+id: johann-th-lemckert-undated
+performers:
+- name: Johann Th. Lemckert
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Grote of Sint-Laurenskerk
+released: 1990
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0ed3355-0e13-42bc-9c07-9bf6a8dadda4
+  title: Johann Th. Lemckert aan de 3 orgels van de Grote of St. Laurenskerk, Rotterdam
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2f96863b-efa3-477f-b46f-8b07eece543e
+  recordings: [e7716292-3226-4da8-9a01-3496f0f3fc2b]

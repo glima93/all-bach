@@ -1,0 +1,33 @@
+id: douglas-cleveland-undated
+performers:
+- name: Douglas Cleveland
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/291751df-a958-4e8f-8f00-9bdd0b297e69
+  title: Cleveland in Columbus
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 57499b69-77aa-41aa-85c7-32c46ba3123f
+  recordings: [75a19d69-bf83-4e5a-b6e5-f6860bffc08b]

@@ -1,0 +1,14 @@
+bwv: "648"
+title: "Meine Seele erhebet den Herren"
+key: "D minor"
+collection: "Schübler Chorales"
+genre: organ
+scoring: "organ (two manuals and pedal)"
+composed: "Leipzig, published c. 1747–1748 (arrangements of cantata movements)"
+movements:
+  - "Meine Seele erhebet den Herren"
+notes: "Setting of the Magnificat tone (\"My soul doth magnify the Lord\") arranged from the alto–tenor duet of Cantata BWV 10 (movement 5)."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Sch%C3%BCbler_Chorales"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/2c5ee0ec-3cb1-3cfc-9e8e-56016501d188

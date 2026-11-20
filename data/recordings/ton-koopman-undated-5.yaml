@@ -1,0 +1,29 @@
+id: ton-koopman-undated-5
+performers:
+- name: Ton Koopman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '645', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0c6f44c7-35a8-4195-a58b-fffa5b130abd
+  title: 'Organ Spectacular: Famous Organ Works By Bach'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 448da1b1-43a3-4239-b2c1-f7e46463439e
+  recordings: [2fe3ab52-cf73-4f22-a6f0-6f74ebc0f182]

@@ -1,0 +1,26 @@
+id: martin-neu-2008-3
+performers:
+- name: Martin Neu
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: Pfarrkirche St. Otto
+released: 2010
+original_label: null
+works:
+- {bwv: '655', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6098b635-8563-4c6d-afbd-d879721f54e0
+  title: Bach and the North German Tradition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a227e68f-f83e-46c0-bade-1d22662ca937
+  recordings: [f23496bf-11f7-467e-9c47-1a094bd8a942]

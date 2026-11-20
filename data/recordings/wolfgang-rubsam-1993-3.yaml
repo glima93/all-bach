@@ -1,0 +1,32 @@
+id: wolfgang-rubsam-1993-3
+performers:
+- name: Wolfgang Rübsam
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: College of the Holy Cross
+released: 1994
+original_label: null
+works:
+- {bwv: '661', complete: true}
+- {bwv: '662', complete: true}
+- {bwv: '663', complete: true}
+- {bwv: '665', complete: true}
+- {bwv: '666', complete: true}
+- {bwv: '667', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/baeebcde-f19b-474f-8302-ca90c010605d
+  title: 'Organ Chorales from the Leipzig Manuscript, Vol. 2: BWV 659–667 / Canonic Variations, BWV 769 / Choral
+    Vor deinem Thron tret ich, BWV 668'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [bad82aaa-dc57-4104-bc57-99405e684e8b]

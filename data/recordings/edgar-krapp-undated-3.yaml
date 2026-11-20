@@ -1,0 +1,27 @@
+id: edgar-krapp-undated-3
+performers:
+- name: Edgar Krapp
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Dom St. Stephan
+released: null
+original_label: null
+works:
+- {bwv: '657', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f894c6c4-4dc8-4d8f-b165-b7ebb11c1ee9
+  title: Dom zu Passau
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f63aba16-d74d-49bc-883e-85f982b3016b
+  recordings: [57eefbf3-f0d9-4cde-97b2-f69098d9c378]

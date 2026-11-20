@@ -1,0 +1,31 @@
+id: arthur-eger-1966-3
+performers:
+- name: Arthur Eger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966]
+  place: Freiberger Dom St. Marien
+released: 1989
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1881d344-5637-4fbd-b5ce-df7f5ddaf085
+  title: Bach auf Silbermannorgeln, Vol II
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7f3fab48-8b29-4ecb-bf96-5f887f5f0476
+  recordings: [d3161f0a-95cc-442f-9d08-a14f3fcd796f]

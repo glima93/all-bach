@@ -1,0 +1,31 @@
+id: christopher-herrick-1995
+performers:
+- name: Christopher Herrick
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Jesuitenkirche
+released: 1996
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/212c1643-3630-49cc-a378-88985320bb6d
+  title: Wachet auf! The Schübler, Leipzig and Kirnberger Chorales
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2201c61a-cdd5-454e-9ccd-52c25e382afc
+  recordings: [ad14c9d0-38ec-48aa-abc2-4f13eb347057]

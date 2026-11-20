@@ -1,0 +1,30 @@
+id: franz-lehrndorfer-undated-4
+performers:
+- name: Franz Lehrndorfer
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cacf3188-af65-4a29-95e3-fd4afbef5342
+  title: 'Klenoty Klasické Hudby: Johann Sebastian Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a9433d62-e8f4-4cd8-b292-ab25538d0af1
+  recordings: [058a3df7-362c-4164-ab99-89044715c07e]

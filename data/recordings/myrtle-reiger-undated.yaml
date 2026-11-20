@@ -1,0 +1,33 @@
+id: myrtle-reiger-undated
+performers:
+- name: Myrtle Reiger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1978
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a4e0bd38-ff66-4702-8b6f-c745340fabbb
+  title: 'Mark Levinson, Volume 1: ORGAN & CHOIR'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f865cec1-791b-4ef6-a6a0-9adf01c1ae18
+  recordings: [2e46db14-50e6-4293-a6f3-757dea3c430f]

@@ -1,0 +1,26 @@
+id: karl-richter-1979
+performers:
+- name: Karl Richter
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979]
+  place: 東京カテドラル聖マリア大聖堂
+released: 2014
+original_label: null
+works:
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8870fb99-542e-424a-9c50-3d55344b9caf
+  title: Orgelwerke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e01ebec7-98c5-450a-bf67-5650f8b4eff0
+  recordings: [1121de75-ada6-49d2-8e1a-3d34c81abde5]

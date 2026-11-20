@@ -1,0 +1,30 @@
+id: jurgis-grinkiavichius-undated-2
+performers:
+- name: Jurgis Grinkiavichius
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b080e461-fab7-4739-ac40-b99b85ebd67c
+  title: 'Classical Masterpieces: The Best of Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e36c8e3d-3d4c-4b70-a003-07acf3a8db7f
+  recordings: [7ab59659-3ffd-4419-bd3f-2447d7364354]

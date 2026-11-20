@@ -1,0 +1,28 @@
+id: julia-brown-undated-4
+performers:
+- name: Julia Brown
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '645', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/da6d7a31-9885-4589-aa9b-f3203a42cdc7
+  title: Adagio
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: baae9d3e-123b-4912-b346-6487a79e5c23
+  recordings: [4e4410d8-ed4f-46a0-8628-1c0b8e5de67b]

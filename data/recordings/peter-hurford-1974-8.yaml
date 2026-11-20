@@ -1,0 +1,31 @@
+id: peter-hurford-1974-8
+performers:
+- name: Peter Hurford
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974, 1986]
+  place: Church of Our Lady of Sorrows
+released: 1988
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1c96544c-fdc5-4077-846d-bba107a5f608
+  title: Famous Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7475712c-efb2-4498-99fc-163a33d7d975
+  recordings: [e02c4ddf-2a8f-48d2-8975-4dd45790c501]

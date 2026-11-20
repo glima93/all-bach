@@ -1,0 +1,31 @@
+id: michel-chapuis-1970-2
+performers:
+- name: Michel Chapuis
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: St. Bendt's Church
+released: 1988
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/90819b00-26e9-4ad4-834b-94fa3a3513ce
+  title: L'oeuvre d'orgue
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: adb29a70-1a5a-40dc-b92d-8acfd3c481f6
+  recordings: [918ac3a8-17a4-4af9-bfba-0679a2ad0962]

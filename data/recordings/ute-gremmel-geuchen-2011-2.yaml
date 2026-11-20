@@ -1,0 +1,26 @@
+id: ute-gremmel-geuchen-2011-2
+performers:
+- name: Ute Gremmel-Geuchen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2011]
+  place: Benediktinerkirche
+released: 2012
+original_label: null
+works:
+- {bwv: '667', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/baa5ca88-95d6-455b-9553-b7b1c4036a29
+  title: Complete Organ Works played on Silbermann organs Vol. 13
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 14620af3-d24c-492d-bd05-ba4aae4cab69
+  recordings: [f1124a76-abbd-4a5a-926f-bf02ec715f3e]

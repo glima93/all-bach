@@ -1,0 +1,29 @@
+id: hansjurgen-scholze-undated-3
+performers:
+- name: Hansjürgen Scholze
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '657', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ecbbeb32-0efb-4d33-80c6-949fbedb9c36
+  title: Orgeln in Dresden
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: edba43f7-1593-4eee-af85-4fd2e24b4415
+  recordings: [88b91204-393a-4c07-b7e1-8d3c3759dd31]

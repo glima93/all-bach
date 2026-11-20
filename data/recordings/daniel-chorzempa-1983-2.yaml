@@ -1,0 +1,31 @@
+id: daniel-chorzempa-1983-2
+performers:
+- name: Daniel Chorzempa
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1983]
+  place: Domkirche Arlesheim
+released: 1989
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c92697b6-4d68-4a6e-9a1c-711210000c3c
+  title: Hightech Orgel
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 40a960d0-5074-4954-bd19-00bb0b73a9ec
+  recordings: [36026b43-94fc-4053-a5b3-4a12e34fad94]

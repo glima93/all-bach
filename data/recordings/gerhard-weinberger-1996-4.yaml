@@ -1,0 +1,26 @@
+id: gerhard-weinberger-1996-4
+performers:
+- name: Gerhard Weinberger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Dorfkirche Haina
+released: 1999
+original_label: null
+works:
+- {bwv: '646', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/602fea75-6946-4790-a76d-df6b65d6074d
+  title: 'Organ Works Vol. 4: Orgelbüchlein Part 2'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e26bf27-1a85-4570-8fb0-ab101310bc14
+  recordings: [4ffc21cf-83ad-460e-b0d7-4a0f3826f541]

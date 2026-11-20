@@ -1,0 +1,28 @@
+id: w-dudley-oakes-undated
+performers:
+- name: W. Dudley Oakes
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '661', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ead43a55-da04-465e-be59-6faa49fede69
+  title: 'The Dedicatory Recital: Letourneau Organ, Opus 93 at The Abbey of Gethsemani'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9ad41a74-6cb6-46aa-a228-0fb99ca5d8a3
+  recordings: [7027d68e-61bf-4e5f-ac21-863345ddb4ee]

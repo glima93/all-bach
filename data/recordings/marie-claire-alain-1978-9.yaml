@@ -1,0 +1,30 @@
+id: marie-claire-alain-1978-9
+performers:
+- name: Marie‐Claire Alain
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978, 1980]
+  place: Collégiale de Saint-Donat
+released: 1984
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4accbc06-8ee7-4422-9c2b-a95a2d729327
+  title: Complete Works for Organ
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17246659-e5fc-4a1e-b29c-10f8a3f6bdfb
+  recordings: [e091986a-2205-4777-900e-e45ba0b92b9e]

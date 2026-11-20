@@ -1,0 +1,28 @@
+id: eckhard-manz-undated
+performers:
+- name: Eckhard Manz
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '667', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4c84e571-9aa5-4dec-97bd-e6b910c028af
+  title: 'Best Of Klassik 2022: Die grosse Gala der Opus Klassik-Preisträger'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 39fdead2-afea-4c15-b65c-ee452b06c1dd
+  recordings: [240344cc-33fc-4d06-ac28-e92a0b474546]

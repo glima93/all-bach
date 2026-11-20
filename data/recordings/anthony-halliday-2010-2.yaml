@@ -1,0 +1,26 @@
+id: anthony-halliday-2010-2
+performers:
+- name: Anthony Halliday
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: German Lutheran Trinity Church
+released: null
+original_label: null
+works:
+- {bwv: '645', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f75509e2-92a0-45a7-b9b8-7fb020ca2db8
+  title: Lobe den Herren
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 653a3aea-74c6-406a-958c-cecd519357c0
+  recordings: [c1e15735-cb93-4270-a403-28bad3edc6e1]

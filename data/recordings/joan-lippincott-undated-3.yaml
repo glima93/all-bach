@@ -1,0 +1,36 @@
+id: joan-lippincott-undated-3
+performers:
+- name: Joan Lippincott
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Duke University Chapel
+released: 1998
+original_label: null
+works:
+- {bwv: '653', complete: true}
+- {bwv: '655', complete: true}
+- {bwv: '656', complete: true}
+- {bwv: '657', complete: true}
+- {bwv: '658', complete: true}
+- {bwv: '661', complete: true}
+- {bwv: '662', complete: true}
+- {bwv: '663', complete: true}
+- {bwv: '665', complete: true}
+- {bwv: '667', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/87b9cbfa-7c3f-43c0-a580-1b3a0c7328ad
+  title: The Leipzig Chorales of J. S. Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 12bd2a10-c2f1-4096-ae06-2e2118550444
+  recordings: [e2b3d460-9b20-4291-af59-e5a15d103c07]

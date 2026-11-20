@@ -1,0 +1,27 @@
+id: johan-van-dommele-undated-3
+performers:
+- name: Johan van Dommele
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Sint-Eusebiuskerk
+released: null
+original_label: null
+works:
+- {bwv: '645', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c9cd3ae4-5fd7-40ea-b316-505098c3343e
+  title: Werken van J.S. Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0fd4fd3d-8014-4ff8-84f3-26fc65359fe8
+  recordings: [daf71cc7-e444-4f5a-bd44-6b765b0b52d8]

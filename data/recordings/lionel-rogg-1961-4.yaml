@@ -1,0 +1,31 @@
+id: lionel-rogg-1961-4
+performers:
+- name: Lionel Rogg
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961, 1964]
+  place: Grossmünster
+released: 1965
+original_label: null
+works:
+- {bwv: '645', complete: true}
+- {bwv: '646', complete: true}
+- {bwv: '647', complete: true}
+- {bwv: '648', complete: true}
+- {bwv: '649', complete: true}
+- {bwv: '650', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f54e6b1e-c813-45b9-810f-7dc0ea72e18b
+  title: Orgelwerke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 90e17964-b04a-4c37-b952-3c9dfc16c430
+  recordings: [10130851-4bc7-4d6c-a122-08f727f2ee80]

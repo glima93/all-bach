@@ -878,6 +878,34 @@ OVERRIDE_BY_SNAPSHOT["orgelbuchlein"] = {
         "Soli Deo Gloria (2020): BWV 617 with the Ricercar Consort and Foccroulle's organ; Foccroulle's organ solo on the album is filed separately"),
 }
 
+# Run 20 (the Schübler Chorales and the Great Eighteen).
+EXCLUDE_BY_SNAPSHOT["schubler"] = {
+    "d5975ca9-2563-4a0a-8b31-a8d091d7f000": "the 25th Philips Christmas concert at St. Michaelis, Hamburg (1986): only the conductor Schünicke is credited, no organist; 'Wachet auf' there is almost certainly sung, not the organ chorale BWV 645 (as Rilling's Figuralchor in run 19)",
+}
+JOIN_BY_SNAPSHOT["schubler"] = {
+    "637b3510-e01c-4eb0-92b3-74632665f704": ("70b19da4-fb7d-4207-a17a-9752f8588724", "Preston's Organ Favourites (Westminster Abbey, first issued 1990, undated) reissues BWV 645 and 650 from his Westminster Abbey Schübler set of 1964 (The World of the Organ)"),
+    "121be56a-5dc1-4e6b-9baa-082b2ed90557": ("148ac4a4-d17c-4f08-9434-0c32ab44afcf", "Szathmáry's Organ Works (fde9d07b, 1991): the undated BWV 648-650 are the other half of the Schübler set recorded at the Academiehuis in 1978 on the same release"),
+    "2afe2785-dfd4-4928-b82e-6466433c1e0e": ("4b324b5f-9e38-404f-befa-88d018d3c300", "Fagius's Complete Organ Music box (BIS, 2005; no artist credited on the row) reissues his Volume 1 Schübler Chorales, Kristine kyrka 1983 (as his boxes in runs 17-19)"),
+}
+JOIN_BY_SNAPSHOT["great-eighteen"] = {
+    "39feef2d-11e6-4c21-ac8d-e0a5eaeefd76": ("ccb0b082-c707-451c-aa9e-9b896cd89afa", "Hans Otto's Orgelwerke auf Silbermann-Orgeln (undated, Freiberg Cathedral): BWV 667 from his Freiberg Silbermann cycle of 1970, whose Vol. III holds the other Leipzig chorales"),
+    "9140a809-bb55-4100-b5b3-81a5b0fd17fd": ("8f439374-eda5-42af-af6c-8da1d833788e", "Fagius's Complete Organ Music box (BIS, 2005; no artist credited on the row) reissues his Volume 1 Leipzig chorales, Kristine kyrka 1983 (as his boxes in runs 17-19)"),
+}
+OVERRIDE_BY_SNAPSHOT["schubler"] = {
+    "1387da2f-4c1b-49f4-bf35-0ba995ff31ba": ({"performers": [{"name": "George Herbert", "role": "organ"}]},
+        "Advent Live, Volume 3: the organ voluntary is played by George Herbert (the role credit); the choir and Nethsingha are the album's credit (as in run 19)"),
+    "b4a34bdb-6a47-4eea-9cd4-e517f95b51f1": ({"instrument": "voices-and-instruments", "arrangement": True},
+        "Tragicomedia's Notenbüchlein für Anna Magdalena Bach: 'Wachet auf' with John Potter (tenor), harp and lute, not the organ chorale"),
+}
+OVERRIDE_BY_SNAPSHOT["great-eighteen"] = {
+    "213efd35-6785-477d-a64b-fd7542550508": ({"performers": [{"name": "Capricornus Consort Basel", "role": "ensemble"}, {"name": "Péter Barczi", "role": "violin"}], "performance_practice": "historical"},
+        "Ich bin vergnügt (cantatas 51, 82, 84): BWV 655 played as an instrumental trio by the period group, whose director Barczi plays the violin (as cc391779 in an earlier run)"),
+    "a4860a08-d895-4f93-aafa-4b8e19cc3435": ({"performers": [{"name": "Masaaki Suzuki", "role": "organ"}], "instrument": "organ", "arrangement": False},
+        "Masaaki Suzuki Plays Bach Organ Works, Vol. 6 (Martinikerk, Groningen, 2023): the row has no instrument credit, but the series is organ solo (Vol. 7 is credited on organ)"),
+    "6adb4cf9-9e0b-4840-bb25-4c53e4138787": ({"performers": [{"name": "Gerhard Gnann", "role": "organ"}], "place": "Église Saint-Jean-Baptiste de Saessolsheim"},
+        "Rilling's A Book of Chorale-Settings: the organ preludes are Gnann's, at Saessolsheim; the Gächinger Kantorei, Rilling and Sindelfingen belong to the sung chorales (as in run 19)"),
+}
+
 INSTRUMENTS = {
     "cello": "cello", "violoncello": "cello",
     "baroque cello": "baroque-cello", "baroque violoncello": "baroque-cello",

@@ -1,0 +1,38 @@
+id: lorenzo-ghielmi-undated-6
+performers:
+- name: Lorenzo Ghielmi
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Basilica di San Simpliciano
+released: 1993
+original_label: null
+works:
+- {bwv: '652', complete: true}
+- {bwv: '653', complete: true}
+- {bwv: '655', complete: true}
+- {bwv: '656', complete: true}
+- {bwv: '657', complete: true}
+- {bwv: '658', complete: true}
+- {bwv: '661', complete: true}
+- {bwv: '662', complete: true}
+- {bwv: '663', complete: true}
+- {bwv: '665', complete: true}
+- {bwv: '666', complete: true}
+- {bwv: '667', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/953b1251-023c-4457-9e18-95b860931606
+  title: Corali dell'Autografo di Lipsia
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 398f9067-ff97-4743-82f3-16dcb68c3654
+  recordings: [9a65c056-1efe-4d1b-a558-84ac32152794]
