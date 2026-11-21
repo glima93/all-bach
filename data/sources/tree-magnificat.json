@@ -1,0 +1,87 @@
+{
+ "collection": "magnificat",
+ "collector": 6,
+ "taken": "2026-11-21",
+ "recordings": 692,
+ "performances": 128,
+ "works": [
+  {
+   "bwv": "243",
+   "id": "f82a5e63-0b6c-433d-8c55-ce990582cfe9",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "f82a5e63-0b6c-433d-8c55-ce990582cfe9",
+     "title": "Magnificat D-Dur, BWV 243"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Magnificat D-Dur, BWV 243",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "cbe8f382-8945-3b09-a33d-9782127c958c",
+     "title": "Magnificat D-Dur, BWV 243: I. Coro \"Magnificat anima mea\""
+    },
+    {
+     "id": "03e1cb04-d5eb-30d2-ab86-6db95789a397",
+     "title": "Magnificat D-Dur, BWV 243: II. Aria (Sopran II) \"Et exsultavit spiritus meus\""
+    },
+    {
+     "id": "f713689b-9954-38bf-a12c-2c42d54afb2c",
+     "title": "Magnificat D-Dur, BWV 243: III. Aria (Sopran I) \"Quia respexit\""
+    },
+    {
+     "id": "0b270ec3-70c8-335c-aae4-ea6002abd9db",
+     "title": "Magnificat D-Dur, BWV 243: IV. Coro \"Omnes generationes\""
+    },
+    {
+     "id": "63db6891-c2b1-312e-a6d4-24f0f645a616",
+     "title": "Magnificat D-Dur, BWV 243: V. Aria (Bass) \"Quia fecit mihi magna\""
+    },
+    {
+     "id": "9b603532-0dc0-375a-a93f-f2d005817592",
+     "title": "Magnificat D-Dur, BWV 243: VI. Aria (Alt, Tenor) \"Et misericordia\""
+    },
+    {
+     "id": "c7787908-77d6-3ad8-a814-922cfed39d2f",
+     "title": "Magnificat D-Dur, BWV 243: VII. Coro \"Fecit potentiam\""
+    },
+    {
+     "id": "09750988-0f4e-3c6a-874b-96f600896535",
+     "title": "Magnificat D-Dur, BWV 243: VIII. Aria (Tenor) \"Deposuit potentes\""
+    },
+    {
+     "id": "3a726447-57b3-3d6e-96f6-84e5a1b19896",
+     "title": "Magnificat D-Dur, BWV 243: IX. Aria (Alt) \"Esurientes implevit bonis\""
+    },
+    {
+     "id": "fa8db2f4-ab99-3469-ad5e-62ef2fa65001",
+     "title": "Magnificat D-Dur, BWV 243: X. Aria (Sopran I, Sopran II, Alt) \"Suscepit Israel\""
+    },
+    {
+     "id": "e3d10bfc-9228-31f8-9626-17c991fc36e9",
+     "title": "Magnificat D-Dur, BWV 243: XI. Coro \"Sicut locutus est\""
+    },
+    {
+     "id": "65d4fe0a-1499-35dd-b629-fb4e26d98103",
+     "title": "Magnificat D-Dur, BWV 243: XII. Coro \"Gloria Patri\""
+    },
+    {
+     "id": "3f809e9a-3bf6-404e-b9cd-679340847fe1",
+     "title": "Magnificat in D major, BWV 243: III. Choral Interpolation \"Vom Himmel hoch\""
+    },
+    {
+     "id": "d8d7d9e4-0292-48f6-9c40-681bfb2e7b44",
+     "title": "Magnificat in D major, BWV 243: VII. Choral Interpolation \"Freut euch und jubiliert\""
+    },
+    {
+     "id": "a5cd7ddf-efb7-4645-af1b-0f4ba5e7f2fc",
+     "title": "Magnificat in D major, BWV 243: X. Choral Interpolation \"Gloria in excelsis Deo\""
+    }
+   ]
+  }
+ ]
+}
