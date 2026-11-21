@@ -1,0 +1,50 @@
+id: james-mcvinnie-2017
+performers:
+- name: James McVinnie
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Akerk
+released: 2026
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '669', complete: true}
+- {bwv: '670', complete: true}
+- {bwv: '671', complete: true}
+- {bwv: '672', complete: true}
+- {bwv: '673', complete: true}
+- {bwv: '674', complete: true}
+- {bwv: '675', complete: true}
+- {bwv: '676', complete: true}
+- {bwv: '678', complete: true}
+- {bwv: '679', complete: true}
+- {bwv: '680', complete: true}
+- {bwv: '681', complete: true}
+- {bwv: '682', complete: true}
+- {bwv: '683', complete: true}
+- {bwv: '684', complete: true}
+- {bwv: '685', complete: true}
+- {bwv: '686', complete: true}
+- {bwv: '687', complete: true}
+- {bwv: '688', complete: true}
+- {bwv: '689', complete: true}
+- {bwv: '802', complete: true}
+- {bwv: '803', complete: true}
+- {bwv: '804', complete: true}
+- {bwv: '805', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/83b340ba-2545-4baf-bb17-03031c4972c9
+  title: Clavier-Übung III
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a49a2413-f75d-49ee-9f0b-5e91e3f24aa2
+  recordings: [36244fda-b301-4d37-96ba-c60da9777a8d]

@@ -1,0 +1,28 @@
+id: hans-christoph-becker-foss-undated-2
+performers:
+- name: Hans-Christoph Becker-Foss
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Marktkirche St. Nicolai
+released: 1984
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '676', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e917a08-0d5a-49c5-8fa7-e221c0254734
+  title: Große Orgelwerke
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c4f61295-b1d0-45c5-bbfc-fb265af5b3ba
+  recordings: [e01b2e2c-a63c-4c76-ac89-3bed9c2e2b21]

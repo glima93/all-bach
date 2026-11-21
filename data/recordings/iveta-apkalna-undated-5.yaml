@@ -1,0 +1,28 @@
+id: iveta-apkalna-undated-5
+performers:
+- name: Iveta Apkalna
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3114b3bd-c26a-44ba-bb2c-0199bd4e6d18
+  title: Bach / Glass
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7d98417c-60b0-4567-b807-a250c25261ef
+  recordings: [9ac31079-51eb-495b-8daa-c6f0506064d1]

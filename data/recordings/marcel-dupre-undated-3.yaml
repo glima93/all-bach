@@ -1,0 +1,30 @@
+id: marcel-dupre-undated-3
+performers:
+- name: Marcel Dupré
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '671', complete: true}
+- {bwv: '680', complete: true}
+- {bwv: '684', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/98cca711-a635-43d2-ba84-0550e193ef4c
+  title: The Mercury Living Presence Recordings
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e7f566af-3a66-48e3-9825-07e72812e475
+  recordings: [69547c13-a666-4024-b820-75ec76bf7f55]

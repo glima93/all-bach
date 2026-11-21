@@ -1,0 +1,14 @@
+bwv: "802"
+title: "Duetto No. 1"
+key: "E minor"
+collection: "Clavier-Übung III"
+genre: organ
+scoring: "keyboard (manuals only)"
+composed: "Leipzig, published 1739 in Clavier-Übung III"
+movements:
+  - "Duetto No. 1"
+notes: "The first of the four two-part Duets placed between the last chorale setting and the closing fugue of Clavier-Übung III; a freely invented piece without a chorale melody."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Clavier-%C3%9Cbung_III"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/d42ad3cc-dceb-3a4c-a0d1-c96e4a5751bc

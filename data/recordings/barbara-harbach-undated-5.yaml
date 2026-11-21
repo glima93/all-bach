@@ -1,0 +1,28 @@
+id: barbara-harbach-undated-5
+performers:
+- name: Barbara Harbach
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a265b82c-e317-4ea7-bdd3-7e4c099b8c91
+  title: Organ Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5eee6939-5c06-475e-a3d7-774e5785f6c5
+  recordings: [95b01782-b7c7-4b24-9622-40089bf58edb]

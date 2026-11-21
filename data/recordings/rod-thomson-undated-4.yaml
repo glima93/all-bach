@@ -1,0 +1,27 @@
+id: rod-thomson-undated-4
+performers:
+- name: Rod Thomson
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St Davids Cathedral
+released: null
+original_label: null
+works:
+- {bwv: '686', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2a651e2e-8df3-42e1-973a-81c68e1fa52f
+  title: 'The Sound of St. David’s: Choral Preludes from the 17th & 18th Centuries'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 177ebb44-2142-48d8-82a9-6cd964071f82
+  recordings: [34372137-c23d-438a-9c99-b07e570a5cfe]

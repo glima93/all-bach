@@ -1,0 +1,26 @@
+id: daniel-leininger-2009-5
+performers:
+- name: Daniel Leininger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: Église Saint-Thomas
+released: 2009
+original_label: null
+works:
+- {bwv: '676', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/109fbb49-bad3-431a-af59-cbfa32439ffb
+  title: 'Musica Michaelis: Cantate festives'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0746412-8d2f-4814-9aca-b6b0a2f2c1c2
+  recordings: [8d865d3a-5e02-4281-b922-446e2a5b004d]

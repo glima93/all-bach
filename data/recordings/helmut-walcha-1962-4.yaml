@@ -1,0 +1,26 @@
+id: helmut-walcha-1962-4
+performers:
+- name: Helmut Walcha
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: Grote Sint Laurenskerk
+released: 1998
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dca2f704-d555-4022-b44b-1205cbf71de3
+  title: Orgelwerke BWV 525, 552, 565, 645–650, 768
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f4c1fd6-75c8-4c40-8fcf-0b5496c01bf2
+  recordings: [feb8d267-d09a-408d-a397-fab74ad503d7]

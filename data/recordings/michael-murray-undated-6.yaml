@@ -1,0 +1,30 @@
+id: michael-murray-undated-6
+performers:
+- name: Michael Murray
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '671', complete: true}
+- {bwv: '680', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd7d1c68-c16e-4eaf-965f-6521ed228686
+  title: Bach at St. Bavo's
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45d5818f-8ae4-47d9-9f1d-6c0e2fd99a3c
+  recordings: [224086a7-361b-489b-982b-7040acdc28f6]

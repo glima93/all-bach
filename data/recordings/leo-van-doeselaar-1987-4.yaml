@@ -1,0 +1,26 @@
+id: leo-van-doeselaar-1987-4
+performers:
+- name: Leo van Doeselaar
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1987]
+  place: Grote Sint Laurenskerk
+released: null
+original_label: null
+works:
+- {bwv: '684', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f5783dd-6fcc-4556-9b32-b38f1010c074
+  title: Famous Dutch Organs
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 92cf381b-ec74-442f-92c5-73ec60ecd44a
+  recordings: [885e487e-3241-485d-b1d8-0f37e04b3f44]

@@ -1,0 +1,29 @@
+id: mahan-esfahani-2021-5
+performers:
+- name: Mahan Esfahani
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: St. John’s Church
+released: 2022
+original_label: null
+works:
+- {bwv: '802', complete: true}
+- {bwv: '803', complete: true}
+- {bwv: '804', complete: true}
+- {bwv: '805', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1e3b5da2-7d17-48b9-8eac-00c7e4908759
+  title: Italian Concerto / French Overture
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a2704dbd-4e05-4b89-917c-85c578fc1488
+  recordings: [29df144f-b481-4753-888a-e47a95acb018]

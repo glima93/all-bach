@@ -1,0 +1,30 @@
+id: christophe-rousset-1990-3
+performers:
+- name: Christophe Rousset
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Église de Saint-Hippolyte-de-Lagriffoul
+released: 1990
+original_label: null
+works:
+- {bwv: '802', complete: true}
+- {bwv: '803', complete: true}
+- {bwv: '804', complete: true}
+- {bwv: '805', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/be7c4343-ea5e-47be-8d8d-f17ea9b1ef8b
+  title: Italian Concerto, BWV 971 / French Overture, BWV 831 / 4 Duetti, BWV 802-5 / Chromatic Fantasy & Fugue,
+    BWV 903
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6784a34f-3d91-45a5-b7b3-be1eaa1096f1
+  recordings: [f5ae24af-7cc4-4655-bf81-c579f042ad29]

@@ -1,0 +1,26 @@
+id: wolfgang-rubsam-1988-4
+performers:
+- name: Wolfgang Rübsam
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: Oberlin Conservatory of Music Warner Hall
+released: 1991
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/38517a94-c841-497e-a0bd-088a62397454
+  title: Organ Favourites
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 100b939f-8b65-4e57-9568-854f7ab44027
+  recordings: [bbf728eb-d03d-4c55-954c-1c54bfc78756]

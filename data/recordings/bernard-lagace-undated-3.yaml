@@ -1,0 +1,28 @@
+id: bernard-lagace-undated-3
+performers:
+- name: Bernard Lagacé
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5fa150cc-cf6b-457a-a051-175d8b27f9dc
+  title: 'Analekta : 20 ans d''excellence (disc 1)'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b444f8fc-3246-462d-b5af-773ce7da6209
+  recordings: [c0df7366-7728-4e6f-8dd7-c796ce6c5c6c]

@@ -1,0 +1,26 @@
+id: joseph-nolan-2017-2
+performers:
+- name: Joseph Nolan
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Kathedrale basiliek Sint Bavo
+released: 2018
+original_label: null
+works:
+- {bwv: '688', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/360d7f36-9713-4060-9c2f-0fc5bb78c7a7
+  title: The Organ of St Bavo, Haarlem
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ffcf319c-b754-409b-a607-d98df60f32a2
+  recordings: [53e7f4d2-1e1e-4c65-9b85-67a9be6ee649]

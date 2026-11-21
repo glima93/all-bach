@@ -1,0 +1,29 @@
+id: naily-saripova-2011
+performers:
+- name: Naily Saripova
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2011]
+  place: Tartu Ülikooli aula
+released: null
+original_label: null
+works:
+- {bwv: '802', complete: true}
+- {bwv: '803', complete: true}
+- {bwv: '804', complete: true}
+- {bwv: '805', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/ea0ef52b-db80-4c9a-920c-1e2562e5aa17
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: aafa3e99-57df-4731-aafb-2e4ca162bf15
+  recordings: [ea0ef52b-db80-4c9a-920c-1e2562e5aa17]

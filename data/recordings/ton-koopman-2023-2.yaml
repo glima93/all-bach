@@ -1,0 +1,26 @@
+id: ton-koopman-2023-2
+performers:
+- name: Ton Koopman
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2023]
+  place: Michaëlskerk
+released: 2023
+original_label: null
+works:
+- {bwv: '683', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f1f7c875-ee1e-4cfa-9419-33d58d75c398
+  title: Geistliche Lieder
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3c632301-55e9-4ffc-959d-1e01d04e3c51
+  recordings: [f2d33296-49d2-47ba-b2e7-b92e25710a70]

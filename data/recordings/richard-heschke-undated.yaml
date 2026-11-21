@@ -1,0 +1,27 @@
+id: richard-heschke-undated
+performers:
+- name: Richard Heschke
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Concordia College Chapel
+released: 1986
+original_label: null
+works:
+- {bwv: '680', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6e308387-e400-4b9b-894d-b42aedf2686f
+  title: 'The American Tracker: Music of Bach, Clérambault and Mendelssohn'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: efa476bd-edd9-4328-8579-01d4363f6e7e
+  recordings: [d21285ef-4645-4287-8848-b3bb7962c2b5]

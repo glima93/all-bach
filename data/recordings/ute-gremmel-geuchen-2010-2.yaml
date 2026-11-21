@@ -1,0 +1,50 @@
+id: ute-gremmel-geuchen-2010-2
+performers:
+- name: Ute Gremmel-Geuchen
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: Église Saint-Thomas
+released: 2012
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '669', complete: true}
+- {bwv: '670', complete: true}
+- {bwv: '671', complete: true}
+- {bwv: '672', complete: true}
+- {bwv: '673', complete: true}
+- {bwv: '674', complete: true}
+- {bwv: '675', complete: true}
+- {bwv: '676', complete: true}
+- {bwv: '678', complete: true}
+- {bwv: '679', complete: true}
+- {bwv: '680', complete: true}
+- {bwv: '681', complete: true}
+- {bwv: '682', complete: true}
+- {bwv: '683', complete: true}
+- {bwv: '684', complete: true}
+- {bwv: '685', complete: true}
+- {bwv: '686', complete: true}
+- {bwv: '687', complete: true}
+- {bwv: '688', complete: true}
+- {bwv: '689', complete: true}
+- {bwv: '802', complete: true}
+- {bwv: '803', complete: true}
+- {bwv: '804', complete: true}
+- {bwv: '805', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a152469b-dc8c-4bb0-a105-846c0358e24d
+  title: Complete Organ Works played on Silbermann organs Vol. 9
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 14620af3-d24c-492d-bd05-ba4aae4cab69
+  recordings: [cff2b991-42e6-4b69-8631-2b500d07d0a3]

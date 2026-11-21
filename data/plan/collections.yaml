@@ -71,12 +71,12 @@ collections:
 - {id: orgelbuchlein, title: "Orgelbüchlein", chapter: Organ, bwv: ["599-644"], mode: organ, wave: 1, run: 19, status: imported}
 - {id: schubler, title: "Schübler Chorales", chapter: Organ, bwv: ["645-650"], mode: organ, wave: 1, run: 20, status: imported}
 - {id: great-eighteen, title: "Great Eighteen Chorale Preludes", chapter: Organ, bwv: ["651-668"], mode: organ, wave: 1, run: 20, status: imported}
-- {id: clavier-ubung-iii, title: "Clavier-Übung III", chapter: Organ, bwv: ["552", "669-689", "802-805"], mode: organ, wave: 1, run: 21, status: collected,
+- {id: clavier-ubung-iii, title: "Clavier-Übung III", chapter: Organ, bwv: ["552", "669-689", "802-805"], mode: organ, wave: 1, run: 21, status: imported,
    note: "The St Anne Prelude and Fugue (552) frames the set; the four Duets (802–805) are manuals-only and often played on harpsichord or piano (native)"}
 
 # ── Wave 2: vocal works (needs the vocal importer mode) ───────────────────────────────────
-- {id: mass-in-b-minor, title: "Mass in B minor", chapter: Masses and Magnificat, bwv: ["232"], mode: vocal, wave: 2, run: 22, status: todo}
-- {id: magnificat, title: "Magnificat", chapter: Masses and Magnificat, bwv: ["243"], mode: vocal, wave: 2, run: 22, status: todo,
+- {id: mass-in-b-minor, title: "Mass in B minor", chapter: Masses and Magnificat, bwv: ["232"], mode: vocal, wave: 2, run: 22, status: queued}
+- {id: magnificat, title: "Magnificat", chapter: Masses and Magnificat, bwv: ["243"], mode: vocal, wave: 2, run: 22, status: queued,
    note: "243a is the E-flat version with Christmas interpolations"}
 - {id: passions, title: "Passions", chapter: Passions and Oratorios, bwv: ["244-247"], mode: vocal, wave: 2, run: 23, status: todo,
    note: "246 St Luke is spurious; 247 St Mark is lost (reconstructions get their own entries if MusicBrainz has them)"}

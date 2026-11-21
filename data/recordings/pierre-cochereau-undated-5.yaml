@@ -1,0 +1,28 @@
+id: pierre-cochereau-undated-5
+performers:
+- name: Pierre Cochereau
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Cathédrale Notre-Dame de Paris
+released: 1961
+original_label: null
+works:
+- {bwv: '680', complete: true}
+- {bwv: '686', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d2f96d69-72c3-44c3-9ddb-a9a62b07a734
+  title: Pierre Cochereau aux Grandes Orgues de Notre-Dame de Paris
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d1860493-9903-4dba-8689-9a70587fe231
+  recordings: [a22a5b01-bd6c-435a-b039-e4f95987e9dc]

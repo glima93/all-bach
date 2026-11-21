@@ -1,0 +1,27 @@
+id: egbert-schoenmaker-undated-2
+performers:
+- name: Egbert Schoenmaker
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St. Petri Melle
+released: 2002
+original_label: null
+works:
+- {bwv: '678', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf26a545-a2bf-4630-a3e3-3ef8f718f2bc
+  title: Egbert Schoenmaker at Christian Vater-Orgel, St. Petri Melle
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 13e605c9-28f9-4146-b0c6-ad708c7625dd
+  recordings: [50cf91b4-0c6a-44f4-8532-33ad11b8cdff]

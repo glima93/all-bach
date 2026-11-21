@@ -1,0 +1,30 @@
+id: the-president-s-own-united-states-marine-band-1998
+performers:
+- name: “The President’s Own” United States Marine Band
+  role: ensemble
+- name: Timothy W. Foley
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1998]
+  place: Music Hall
+released: 1998
+original_label: null
+works:
+- {bwv: '680', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0280b99e-f2d8-43ae-8b56-54d6e5fffc65
+  title: 'The Bicentennial Collection: Celebrating the 200th Anniversary of “The President’s Own” United States
+    Marine Band'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: a2474772-f4bc-4e6a-b85c-5569e1437788
+  recordings: [edcd6846-804c-48f5-b7b8-c7499d58652b]

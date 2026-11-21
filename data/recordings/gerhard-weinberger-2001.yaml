@@ -1,0 +1,35 @@
+id: gerhard-weinberger-2001
+performers:
+- name: Gerhard Weinberger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2001]
+  place: Stiftskirche St. Georg
+released: 2008
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '669', complete: true}
+- {bwv: '670', complete: true}
+- {bwv: '676', complete: true}
+- {bwv: '678', complete: true}
+- {bwv: '680', complete: true}
+- {bwv: '682', complete: true}
+- {bwv: '684', complete: true}
+- {bwv: '686', complete: true}
+- {bwv: '689', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7c8a3822-8e80-441a-8a26-c695fb543494
+  title: Complete Organ Works
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e26bf27-1a85-4570-8fb0-ab101310bc14
+  recordings: [5b4f3d65-04f7-41bf-b20e-752ce0652435]

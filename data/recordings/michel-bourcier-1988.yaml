@@ -1,0 +1,26 @@
+id: michel-bourcier-1988
+performers:
+- name: Michel Bourcier
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: Église Saint-Paul de Rezé
+released: 1998
+original_label: null
+works:
+- {bwv: '676', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6262ef2c-3997-4257-ab1b-d65055ac5e26
+  title: Angelus & Pastores - Récital de Noël
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2bdf04a1-8ed2-487d-a521-99a861bffb7d
+  recordings: [53176049-cf98-46a0-af88-57dcf573ebc2]

@@ -1,0 +1,38 @@
+id: liisa-aaltola-2019
+performers:
+- name: Liisa Aaltola
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2019]
+  place: Pirkkalan kirkko
+released: 2021
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '678', complete: true}
+- {bwv: '679', complete: true}
+- {bwv: '680', complete: true}
+- {bwv: '681', complete: true}
+- {bwv: '682', complete: true}
+- {bwv: '683', complete: true}
+- {bwv: '684', complete: true}
+- {bwv: '685', complete: true}
+- {bwv: '686', complete: true}
+- {bwv: '687', complete: true}
+- {bwv: '688', complete: true}
+- {bwv: '689', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aca43902-9835-4325-89f2-4da7e1b7ac10
+  title: Clavier Übung III
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8fc6ee95-476b-4d43-82fd-f8c457bf92ea
+  recordings: [a49bdf24-8c4b-49a1-aed4-dd076d873dda]

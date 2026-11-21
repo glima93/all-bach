@@ -1,0 +1,36 @@
+id: alena-vesela-1986
+performers:
+- name: Alena Veselá
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986]
+  place: Rudolfinum
+released: 1988
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '669', complete: true}
+- {bwv: '670', complete: true}
+- {bwv: '671', complete: true}
+- {bwv: '676', complete: true}
+- {bwv: '678', complete: true}
+- {bwv: '680', complete: true}
+- {bwv: '682', complete: true}
+- {bwv: '684', complete: true}
+- {bwv: '686', complete: true}
+- {bwv: '688', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cb14a3ec-8a67-4ddc-a7fb-7709f4295ff0
+  title: Clavier Übung III. Teil
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d6c5c7ef-15c2-4734-a681-c695d9cfe884
+  recordings: [84262710-3d4f-4156-8ca4-7d8e59d601b4, e9bb9524-4f96-4ab1-a5f3-52e6057671f1]

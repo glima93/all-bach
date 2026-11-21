@@ -1,0 +1,50 @@
+id: david-goode-2016-4
+performers:
+- name: David Goode
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: Trinity College Chapel
+released: 2020
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '669', complete: true}
+- {bwv: '670', complete: true}
+- {bwv: '671', complete: true}
+- {bwv: '672', complete: true}
+- {bwv: '673', complete: true}
+- {bwv: '674', complete: true}
+- {bwv: '675', complete: true}
+- {bwv: '676', complete: true}
+- {bwv: '678', complete: true}
+- {bwv: '679', complete: true}
+- {bwv: '680', complete: true}
+- {bwv: '681', complete: true}
+- {bwv: '682', complete: true}
+- {bwv: '683', complete: true}
+- {bwv: '684', complete: true}
+- {bwv: '685', complete: true}
+- {bwv: '686', complete: true}
+- {bwv: '687', complete: true}
+- {bwv: '688', complete: true}
+- {bwv: '689', complete: true}
+- {bwv: '802', complete: true}
+- {bwv: '803', complete: true}
+- {bwv: '804', complete: true}
+- {bwv: '805', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd81899b-7f6d-4622-b975-349128f09b1b
+  title: The Complete Organ Works, Vol. 14
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 57b04643-6432-4dda-993a-8bcf623dde09
+  recordings: [9070b3d5-25b6-4d0a-93aa-973114555b47]

@@ -1,0 +1,46 @@
+id: christopher-herrick-1998
+performers:
+- name: Christopher Herrick
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: Stadtkirche Zofingen
+released: 1999
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '669', complete: true}
+- {bwv: '670', complete: true}
+- {bwv: '671', complete: true}
+- {bwv: '672', complete: true}
+- {bwv: '673', complete: true}
+- {bwv: '674', complete: true}
+- {bwv: '675', complete: true}
+- {bwv: '676', complete: true}
+- {bwv: '678', complete: true}
+- {bwv: '679', complete: true}
+- {bwv: '680', complete: true}
+- {bwv: '681', complete: true}
+- {bwv: '682', complete: true}
+- {bwv: '683', complete: true}
+- {bwv: '684', complete: true}
+- {bwv: '685', complete: true}
+- {bwv: '686', complete: true}
+- {bwv: '687', complete: true}
+- {bwv: '688', complete: true}
+- {bwv: '689', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d0df704-b76e-47b2-98d3-0f08cc8c1aca
+  title: The Clavierübung Chorales
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2201c61a-cdd5-454e-9ccd-52c25e382afc
+  recordings: [7d6d2c53-3f60-474c-b66e-6d99c9c2b5d4]

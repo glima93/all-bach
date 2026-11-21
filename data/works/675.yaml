@@ -1,0 +1,14 @@
+bwv: "675"
+title: "Allein Gott in der Höh sei Ehr"
+key: "F major"
+collection: "Clavier-Übung III"
+genre: organ
+scoring: "organ (manuals only)"
+composed: "Leipzig, published 1739 in Clavier-Übung III"
+movements:
+  - "Allein Gott in der Höh sei Ehr"
+notes: "Three-part manualiter setting of the German Gloria (\"All glory be to God on high\"), with the cantus firmus in the alto; the first of three settings of the hymn in the collection."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Clavier-%C3%9Cbung_III"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/53d427c9-fb04-3b01-b162-3c426c6856d6

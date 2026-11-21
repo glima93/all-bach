@@ -1,0 +1,29 @@
+id: bbc-philharmonic-1993-2
+performers:
+- name: BBC Philharmonic
+  role: orchestra
+- name: Matthias Bamert
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1993]
+  place: New Broadcasting House
+released: 1993
+original_label: null
+works:
+- {bwv: '680', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/13d6b70c-536a-4f69-b8d6-a23b88060352
+  title: Stokowski’s Symphonic Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 92fc1517-7e49-44a0-9ca2-644e35b424c5
+  recordings: [a7494d22-420f-4a8b-bab8-b645f0e0da63]

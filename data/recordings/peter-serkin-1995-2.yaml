@@ -1,0 +1,29 @@
+id: peter-serkin-1995-2
+performers:
+- name: Peter Serkin
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1995]
+  place: Manhattan Center
+released: 1997
+original_label: null
+works:
+- {bwv: '802', complete: true}
+- {bwv: '803', complete: true}
+- {bwv: '804', complete: true}
+- {bwv: '805', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/968505a4-840d-4977-a2ce-40d3be184d5b
+  title: Inventions & Sinfonias
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ab23df5e-6dcf-4e6c-b125-1091ee50046a
+  recordings: [e9bd9d07-0d7c-4f31-bbf5-8c8730561bc2]

@@ -1,0 +1,14 @@
+bwv: "683"
+title: "Vater unser im Himmelreich"
+key: "D minor"
+collection: "Clavier-Übung III"
+genre: organ
+scoring: "organ (manuals only)"
+composed: "Leipzig, published 1739 in Clavier-Übung III"
+movements:
+  - "Vater unser im Himmelreich"
+notes: "Small manualiter setting of the Lord's Prayer hymn (\"Our Father in the kingdom of heaven\"), with the cantus firmus unbroken in the soprano over three-part counterpoint; the counterpart of BWV 682."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Clavier-%C3%9Cbung_III"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/83838429-a6cf-3598-9a30-9a2212b06c05
