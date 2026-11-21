@@ -1,0 +1,29 @@
+id: jaroslav-tuma-1996-2
+performers:
+- name: Jaroslav Tůma
+  role: clavichord
+instrument: clavichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Rostejn Castle
+released: 1997
+original_label: null
+works:
+- {bwv: '802', complete: true}
+- {bwv: '803', complete: true}
+- {bwv: '804', complete: true}
+- {bwv: '805', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8ce8ed89-ce98-467f-b802-d7b11175bba5
+  title: Inventions & Sinfonias, Duets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3ed244a8-e69f-4335-a8c8-df8dffde97b1
+  recordings: [4d179364-4a14-4cc8-a973-3db3681c50e2]

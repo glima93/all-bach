@@ -1,0 +1,37 @@
+id: evgeni-koroliov-undated-4
+performers:
+- name: Evgeni Koroliov
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '672', complete: true}
+- {bwv: '673', complete: true}
+- {bwv: '674', complete: true}
+- {bwv: '675', complete: true}
+- {bwv: '679', complete: true}
+- {bwv: '681', complete: true}
+- {bwv: '683', complete: true}
+- {bwv: '685', complete: true}
+- {bwv: '687', complete: true}
+- {bwv: '689', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/916640d8-5ab6-49ff-923e-8c3de5143ca7
+  title: Koroliov Series Vol. XII - Original works and transcriptions
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 592440cc-cceb-4e50-a085-2c7afdf272ae
+  recordings: [df63821e-fa98-45d4-9d7c-b7e4b551333f]

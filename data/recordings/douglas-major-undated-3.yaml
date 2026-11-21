@@ -1,0 +1,29 @@
+id: douglas-major-undated-3
+performers:
+- name: Douglas Major
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '680', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/483c2ef5-63b4-4d13-b662-2a35651f5f1a
+  title: Masterworks by Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0a78fbd-b65f-4109-afa5-c4c8b0bd74e9
+  recordings: [c138e64d-c196-4b1e-850a-be90344f7f1a]

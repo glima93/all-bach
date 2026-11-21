@@ -1,0 +1,30 @@
+id: christopher-herrick-1993
+performers:
+- name: Christopher Herrick
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993, 1996]
+  place: Jesuitenkirche
+released: 1993
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '802', complete: true}
+- {bwv: '803', complete: true}
+- {bwv: '804', complete: true}
+- {bwv: '805', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/befe335e-97e9-4fb6-a8a1-df5cfd79bb04
+  title: The Great Fantasias, Preludes and Fugues
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2201c61a-cdd5-454e-9ccd-52c25e382afc
+  recordings: [242c91d2-6e1a-468b-9cfd-09b925afa4e7]

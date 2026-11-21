@@ -1,0 +1,36 @@
+id: reitze-smits-undated-5
+performers:
+- name: Reitze Smits
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Grote of Jacobijnerkerk
+released: null
+original_label: null
+works:
+- {bwv: '672', complete: true}
+- {bwv: '673', complete: true}
+- {bwv: '674', complete: true}
+- {bwv: '675', complete: true}
+- {bwv: '678', complete: true}
+- {bwv: '680', complete: true}
+- {bwv: '682', complete: true}
+- {bwv: '684', complete: true}
+- {bwv: '687', complete: true}
+- {bwv: '688', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/6323e297-90ce-47ea-8b28-b86ade4fb7cd
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 59760d42-459c-4080-829b-bddec1fe3828
+  recordings: [6323e297-90ce-47ea-8b28-b86ade4fb7cd]

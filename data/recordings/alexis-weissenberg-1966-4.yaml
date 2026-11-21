@@ -1,0 +1,29 @@
+id: alexis-weissenberg-1966-4
+performers:
+- name: Alexis Weissenberg
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [1966]
+  place: Salle Wagram
+released: null
+original_label: null
+works:
+- {bwv: '802', complete: true}
+- {bwv: '803', complete: true}
+- {bwv: '804', complete: true}
+- {bwv: '805', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7662775d-54ab-4d55-b48f-6b4d67ffb084
+  title: Seven Partitas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3853264a-83d9-4197-9de3-c0157a9f7266
+  recordings: [4ace630d-264a-4f0c-8a64-ee0302d87565]

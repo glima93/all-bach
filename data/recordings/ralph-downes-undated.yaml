@@ -1,0 +1,28 @@
+id: ralph-downes-undated
+performers:
+- name: Ralph Downes
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/131b5ccc-df73-44a7-bcee-9b0338e6debd
+  title: Hymns from King's
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5f9e2037-1a64-44e0-891a-b5867e48be5c
+  recordings: [ca5d943b-091f-488b-a6f5-8bbb5b64343a]

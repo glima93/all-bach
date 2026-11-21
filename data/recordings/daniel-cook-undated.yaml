@@ -1,0 +1,27 @@
+id: daniel-cook-undated
+performers:
+- name: Daniel Cook
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Westminster Abbey
+released: 2018
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b8f1c2a6-9feb-4670-80df-595a7e35ace3
+  title: The Grand Organ of Westminster Abbey
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6f7ffee2-9efd-44e1-86e6-a9115ff28f10
+  recordings: [6faa4ba6-4e7e-488c-92cc-bbf21acf0b8b]

@@ -1,0 +1,14 @@
+bwv: "678"
+title: "Dies sind die heilgen zehn Gebot"
+key: "Mixolydian (on G)"
+collection: "Clavier-Übung III"
+genre: organ
+scoring: "organ (two manuals and pedal)"
+composed: "Leipzig, published 1739 in Clavier-Übung III"
+movements:
+  - "Dies sind die heilgen zehn Gebot"
+notes: "Large setting of the Ten Commandments hymn (\"These are the holy Ten Commandments\"), with the cantus firmus in canon at the octave on the second manual; paired with the manualiter fughetta BWV 679."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Clavier-%C3%9Cbung_III"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/45e78329-2267-303f-ae76-e2fd66082991

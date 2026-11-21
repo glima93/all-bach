@@ -1,0 +1,26 @@
+id: arko-narits-2010
+performers:
+- name: Arko Narits
+  role: piano
+instrument: piano
+performance_practice: modern
+arrangement: false
+recorded:
+  years: [2010]
+  place: EMTA kammersaal
+released: null
+original_label: null
+works:
+- {bwv: '802', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/1cf95cc4-8f0c-4d5d-bf81-81d78823a430
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: a56ec4e6-bcbb-4715-8133-f41d440cb66a
+  recordings: [1cf95cc4-8f0c-4d5d-bf81-81d78823a430]

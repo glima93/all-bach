@@ -1,0 +1,28 @@
+id: volker-ellenberger-undated-3
+performers:
+- name: Volker Ellenberger
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7b189108-e0a4-4824-8c57-e5a72b598df9
+  title: Beruehmte Orgelwerke
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aa587223-23d9-4af6-ae48-962b7b922486
+  recordings: [56b377d6-8ec4-49c4-920d-235b1dc2b65f]

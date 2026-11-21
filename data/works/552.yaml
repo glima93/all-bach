@@ -1,0 +1,15 @@
+bwv: "552"
+title: "Prelude and Fugue in E-flat major"
+key: "E-flat major"
+collection: "Clavier-Übung III"
+genre: organ
+scoring: "organ (pedal, plenum)"
+composed: "Leipzig, published 1739 in Clavier-Übung III"
+movements:
+  - "Prelude"
+  - "Fugue"
+notes: "The prelude opens and the triple fugue closes Clavier-Übung III; the three flats, three themes and three fugal sections are commonly read as symbols of the Trinity. The nickname \"St Anne\" comes from the English hymn tune of that name, whose opening resembles the fugue subject."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Clavier-%C3%9Cbung_III"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/75d73f1d-2351-39cf-a027-dbfd56c23ce7

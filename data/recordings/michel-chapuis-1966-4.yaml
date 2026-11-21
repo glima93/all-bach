@@ -1,0 +1,26 @@
+id: michel-chapuis-1966-4
+performers:
+- name: Michel Chapuis
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966, 1970]
+  place: Vor Frelsers Kirke
+released: null
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d7e714e3-a5bd-4e0d-ba98-399e0c69cc14
+  title: Michel Chapuis joue Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: adb29a70-1a5a-40dc-b92d-8acfd3c481f6
+  recordings: [89c06e97-4b6c-4338-821a-30637c76dffc]

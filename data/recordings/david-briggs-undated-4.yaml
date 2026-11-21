@@ -1,0 +1,27 @@
+id: david-briggs-undated-4
+performers:
+- name: David Briggs
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Gloucester Cathedral
+released: 1996
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/46092ff7-aafb-40d8-8792-8c5c48aa2374
+  title: Popular Organ Music, Volume 2
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49b65db4-fe20-4a97-9073-55d33e65ac98
+  recordings: [c47f7b83-fa9f-4850-aa07-1b00636ebcf6]

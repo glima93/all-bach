@@ -1,0 +1,29 @@
+id: the-philadelphia-orchestra-1927
+performers:
+- name: The Philadelphia Orchestra
+  role: orchestra
+- name: Leopold Stokowski
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1927, 1939]
+  place: Academy of Music
+released: 2002
+original_label: null
+works:
+- {bwv: '680', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/072bb28a-7b9d-4d5e-b0af-445c5f06f52c
+  title: For When You're Alone
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ff3fcff7-6c85-49d6-b954-ed7011a44e5a
+  recordings: [f7c5fbb5-b87a-46bf-bc4f-76a1eaacae40]

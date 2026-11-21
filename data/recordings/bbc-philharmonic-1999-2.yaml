@@ -1,0 +1,29 @@
+id: bbc-philharmonic-1999-2
+performers:
+- name: BBC Philharmonic
+  role: orchestra
+- name: Leonard Slatkin
+  role: conductor
+instrument: ensemble
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1999]
+  place: Chapel of New Broadcasting House
+released: 2000
+original_label: null
+works:
+- {bwv: '680', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/795d25d7-2ddc-48a4-984e-caf995ba1ab5
+  title: Transcriptions for Orchestra
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 92fc1517-7e49-44a0-9ca2-644e35b424c5
+  recordings: [63b04869-afc1-4e4e-a033-731fc07fd57b]

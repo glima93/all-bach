@@ -1,0 +1,29 @@
+id: hanns-ander-donath-undated-3
+performers:
+- name: Hanns Ander-Donath
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4ac2a52b-a02d-47d6-90c2-5e6c4c9a305d
+  title: Frauenkirche Dresden – Orgelmusik, Vol. 2
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fbfa0da2-dfa5-4c27-b33a-1084482fbe09
+  recordings: [7e3774cb-974d-4a15-a16d-14f97ddd2560]

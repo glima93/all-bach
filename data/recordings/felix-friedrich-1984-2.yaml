@@ -1,0 +1,27 @@
+id: felix-friedrich-1984-2
+performers:
+- name: Felix Friedrich
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Schlosskirche zu Altenburg
+released: 1984
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '680', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8dd9905b-9e39-4f3d-984f-b42ae0bd3f37
+  title: Orgelwerke
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 715ac553-ac1a-44a3-88f2-d17806457b32
+  recordings: [02f7b489-32f4-42c3-a4e2-c0fd34a45e84]

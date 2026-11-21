@@ -927,6 +927,55 @@ OVERRIDE_BY_SNAPSHOT["great-eighteen"] = {
     "6adb4cf9-9e0b-4840-bb25-4c53e4138787": ({"performers": [{"name": "Gerhard Gnann", "role": "organ"}], "place": "Église Saint-Jean-Baptiste de Saessolsheim"},
         "Rilling's A Book of Chorale-Settings: the organ preludes are Gnann's, at Saessolsheim; the Gächinger Kantorei, Rilling and Sindelfingen belong to the sung chorales (as in run 19)"),
 }
+EXCLUDE_BY_SNAPSHOT["clavier-ubung-iii"] = {
+    "5d4913b4-2f71-4690-9d67-e61ea8676a07": "Princess Evangile original soundtrack (visual-novel game, 2011): a background cue by the game's composer Takao Matsuura linked to the whole of BWV 552; not a performance of it (as the anime cues excluded earlier)",
+}
+JOIN_BY_SNAPSHOT["clavier-ubung-iii"] = {
+    "dea63595-f264-418d-af89-d1331234c3d4": ("5a78d70d-00e1-4240-a4ff-5c030fd784f4", "Gould's Complete Bach Collection (Sony, 2012) reissues his only St Anne, the Fugue alone on the organ of All Saints Kingsway, Toronto, 1962 (classite.com); the piano credit and the Prelude link are the box's"),
+    "06a57e86-82b9-4f69-b000-a47cd4cac341": ("a235aeb5-045d-490c-9fe2-3f6d64fe0d94", "Rübsam's Das Orgelwerk (Philips, 15f1eef5): the undated chorales and Duets are the rest of his 1977 Clavier-Übung III on the same release (as in runs 18 and 20)"),
+    "7a0920bf-4155-481d-9e53-a4142f436d8d": ("feb8d267-d09a-408d-a397-fab74ad503d7", "Walcha's DG compilation Toccata und Fuge d-moll (1975) gives the Grote Sint Laurenskerk, Alkmaar, where his only St Anne is the 1962 recording (his other stereo 552 is Strasbourg, 1970)"),
+    "23b24dbc-8ad9-4ca7-ab4c-1d531af591a7": ("ec52f56b-d487-4631-b191-4efaa5a55abd", "Koopman's Organ Spectacular (Teldec, 2001) is a Teldec compilation; his Teldec BWV 552 and 682 are the Freiberg Clavier-Übung III of 1996 (Organ Works, Volume 5)"),
+    "17de6f48-052a-4647-b139-cc67c1cb5b43": ("f23554d7-853f-4ee0-88d2-c4578e309c15", "Hurford's Organ Works (Decca, 2003) reissues his Argo/Decca cycle of 1974-86, which holds his only Clavier-Übung III (as his Organ Works Vol. 1 in run 17)"),
+    "e9bb9524-4f96-4ab1-a5f3-52e6057671f1": ("84262710-3d4f-4156-8ca4-7d8e59d601b4", "Veselá's Clavier Übung III. Teil (Supraphon, Rudolfinum): the undated BWV 684 is the one large chorale missing from the 1986 row on the same release"),
+    "b8c3f204-2667-4fc9-9ca0-b08e21221d29": ("46e6b697-1664-42bb-8d05-f39610a340d5", "Fagius's Complete Organ Music box (BIS, 2005; no artist credited on the row) reissues his Bach Edition Clavier-Übung III, Fredrikskyrkan 1989 (as his boxes in runs 17-20)"),
+    "116275d4-f934-49d9-80bc-589c5842d7ea": ("7d976c5b-1389-4dd5-89f1-68aabc7621bc", "Rilling's A Book of Chorale-Settings (Hänssler): the organ preludes on every volume are Gerhard Gnann's, recorded 1998-99 (as in run 19)"),
+}
+OVERRIDE_BY_SNAPSHOT["clavier-ubung-iii"] = {
+    "5a78d70d-00e1-4240-a4ff-5c030fd784f4": ({"movements": ["552:1"], "instrument": "organ", "arrangement": False},
+        "Gould recorded only the Fugue of BWV 552, on the organ (Toronto, 1962); the box row joined in adds a Prelude link and a piano credit"),
+    "f9c0b849-4142-4cde-8fd0-b2e5049b8d4b": ({"instrument": "piano"},
+        "Maria Grinberg was a concert pianist (Solo: European Music XVII-XVIII); the row has no instrument credit"),
+    "732bbf90-0729-4c6e-9ade-bb3017bf132b": ({"instrument": "piano", "arrangement": True},
+        "Nikolai Petrov, pianist, on Legendary Soviet Recordings (Yedang): BWV 552 in a piano transcription (almost certainly Busoni's); the row has no instrument credit"),
+    "1f317f40-5ce1-4511-9bd2-fe483dfe1d9b": ({"performers": [{"name": "Olivier Fortin", "role": "harpsichord"}, {"name": "Emmanuel Frankenberg", "role": "harpsichord"}],
+                                               "instrument": "harpsichord", "arrangement": True},
+        "Concertos for Two Harpsichords (Alpha 572): BWV 552 arranged for two harpsichords by Fortin and Frankenberg, played by the two alone (MusicWeb review); Ensemble Masques plays the concertos"),
+    "11925d5e-2ea9-492a-8744-615ac55f7f2c": ({"performers": [{"name": "Benjamin Alard", "role": "organ"}, {"name": "Ronan Kernoa", "role": "cello"}],
+                                               "arrangement": True, "performance_practice": "historical"},
+        "Erbarme dich (Alpha 252, A Nocte Temporis): BWV 680 is an instrumental track credited to Alard (organ) and Kernoa (cello); the tenor and the flutist belong to the arias"),
+    "fa4ac856-6c78-40b9-9ed3-b292ba5bcec6": ({"instrument": "fortepiano"},
+        "Bach's Piano: Silbermann 1749 (Etcetera KTC 1723) is played on a Silbermann-type fortepiano (Presto)"),
+    "edcd6846-804c-48f5-b7b8-c7499d58652b": ({"performers": [{"name": "“The President’s Own” United States Marine Band", "role": "ensemble"}, {"name": "Timothy W. Foley", "role": "conductor"}]},
+        "the band plays; the conductor role belongs to Timothy W. Foley (the row's role credit)"),
+    "7917c7e6-7d11-4ec3-847c-523e66271c1b": ({"arrangement": False},
+        "Růžičková plays the manualiter chorales and the Duets of Clavier-Übung III on harpsichord, Bach's text unchanged; manualiter pieces on a Clavier are not arrangements (as BWV 1121 in run 17)"),
+    "df63821e-fa98-45d4-9d7c-b7e4b551333f": ({"arrangement": False},
+        "Koroliov plays the manualiter chorales on piano, Bach's text unchanged; the album itself separates these 'original works' from its transcriptions (as BWV 1121 in run 17)"),
+    "bdfdef2e-4f12-46d6-ac84-72c61a08290f": ({"performance_practice": "historical"},
+        "the Quartetto Italiano di Viole da Gamba plays viols"),
+    "8af83f0b-e890-4d96-bd62-2bfa14921c4e": ({"performance_practice": "historical"},
+        "Corriveau plays the pardessus de viole, with Milnes on harpsichord"),
+    "7d976c5b-1389-4dd5-89f1-68aabc7621bc": ({"performers": [{"name": "Gerhard Gnann", "role": "organ"}], "place": "Église Saint-Jean-Baptiste de Saessolsheim"},
+        "Rilling's A Book of Chorale-Settings: the organ preludes are Gnann's, at Saessolsheim; the Bach-Collegium, Rilling and Sindelfingen belong to the sung chorales (as in runs 19 and 20)"),
+    "f2d33296-49d2-47ba-b2e7-b92e25710a70": ({"performers": [{"name": "Ton Koopman", "role": "organ"}]},
+        "Koopman's organ solos on Geistliche Lieder (Michaëlskerk, 2023); Klaus Mertens sings only the songs (as in run 17)"),
+    "8d865d3a-5e02-4281-b922-446e2a5b004d": ({"performers": [{"name": "Daniel Leininger", "role": "organ"}]},
+        "Musica Michaelis: Cantate festives: the chorale prelude is the organist Leininger's (the role credit); Dominik Wörner sings the cantatas"),
+    "53176049-cf98-46a0-af88-57dcf573ebc2": ({"performers": [{"name": "Michel Bourcier", "role": "organ"}]},
+        "Angelus & Pastores, a Christmas recital: the chorale prelude is the organist Bourcier's (the role credit); the choir and Gilles Gérard belong to the carols"),
+    "76f897ed-84a6-4ad9-8228-5dec35d31ec2": ({"instrument": "piano", "arrangement": True},
+        "Jacques Loussier's Play Bach No. 4: a jazz piano trio arrangement (as his other files), not the organ"),
+}
 
 INSTRUMENTS = {
     "cello": "cello", "violoncello": "cello",
@@ -1697,7 +1746,12 @@ def main(snapshot: str) -> int:
     results = []
     for perf in perfs:
         main_name = norm(perf["names"][0])
-        new = from_perf(perf, bwvs, moves, native, per_performer[main_name], mode, lead, scoring)
+        # Organ-chapter works for manuals alone that name no organ (the four Duets BWV 802–805 in Clavier-Übung
+        # III, scored "keyboard" in data/works/): any Clavier is native, as for the keyboard works.
+        played = {m.split(":")[0] for m in perf["mv"]}
+        own_native = native | set(KEYBOARD) if mode == "organ" and played and all(
+            SCORINGS.get(b, "").lower().startswith("keyboard") for b in played) else native
+        new = from_perf(perf, bwvs, moves, own_native, per_performer[main_name], mode, lead, scoring)
         key = perf["repId"] if perf["repId"] in overrides or Path(snapshot).stem.removeprefix("musicbrainz-") not in JOIN_BY_RELEASE \
             else next((r for r in perf["recIds"] if r in overrides), perf["repId"])  # a joined set: any of its rows
         if key in overrides:

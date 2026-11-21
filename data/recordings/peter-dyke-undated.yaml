@@ -1,0 +1,37 @@
+id: peter-dyke-undated
+performers:
+- name: Peter Dyke
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Cathedral and Abbey Church of St Alban
+released: null
+original_label: null
+works:
+- {bwv: '552', complete: true}
+- {bwv: '669', complete: true}
+- {bwv: '670', complete: true}
+- {bwv: '671', complete: true}
+- {bwv: '676', complete: true}
+- {bwv: '678', complete: true}
+- {bwv: '680', complete: true}
+- {bwv: '682', complete: true}
+- {bwv: '684', complete: true}
+- {bwv: '686', complete: true}
+- {bwv: '688', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/77da4a73-b117-4213-86dc-3765d39cfdce
+  title: Organ Mass
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: be0ff447-9b44-4532-90b7-74e985904a7e
+  recordings: [ed19e639-242a-48d5-8071-61983bc5c015]

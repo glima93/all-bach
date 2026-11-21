@@ -1,0 +1,28 @@
+id: miklos-spanyi-undated-7
+performers:
+- name: Miklós Spányi
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5699bdd5-cfbf-42e1-ba02-4d374fc95933
+  title: 'From "Das Orgelbüchlein": Toccata, Adagio & Fugue / Preludes & Fugues'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45ff6707-e20a-4c29-b8c6-93af8886d77b
+  recordings: [730a2fa2-de10-42e7-a206-c6c73ac6abe7]

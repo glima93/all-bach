@@ -1,0 +1,28 @@
+id: saya-hashino-2020-4
+performers:
+- name: Saya Hashino
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2020]
+  place: Eglise de Saint-Germain
+released: 2022
+original_label: null
+works:
+- {bwv: '669', complete: true}
+- {bwv: '670', complete: true}
+- {bwv: '671', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f673ce86-401c-443f-ab4c-fcfb763bc97f
+  title: Vor deinen Thron
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4389bf49-c01d-412d-b054-a52835991227
+  recordings: [c760216c-102c-48fa-894c-7245509c7a2e]

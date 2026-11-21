@@ -1,0 +1,28 @@
+id: britt-wheeler-undated
+performers:
+- name: Britt Wheeler
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1978
+original_label: null
+works:
+- {bwv: '552', complete: false, movements: [Prelude]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a4e0bd38-ff66-4702-8b6f-c745340fabbb
+  title: 'Mark Levinson, Volume 1: ORGAN & CHOIR'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 84b8422d-96ef-4c5f-bdc2-e8d5547cc9e2
+  recordings: [fe72638e-1eb3-46c7-8410-45b573ff3a95]

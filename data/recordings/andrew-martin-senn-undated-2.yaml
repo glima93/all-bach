@@ -1,0 +1,27 @@
+id: andrew-martin-senn-undated-2
+performers:
+- name: Andrew Martin Senn
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Truro Cathedral
+released: null
+original_label: null
+works:
+- {bwv: '552', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4632c290-1be6-424b-a0d2-8ff96d5cfcfb
+  title: A Most Glorius Noise
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 395a7c2b-0e38-4604-b435-2264b3d8cf1f
+  recordings: [8fd7e6e7-ed5a-4066-8e73-747ca8da4aed]

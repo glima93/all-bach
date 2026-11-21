@@ -1,0 +1,28 @@
+id: ullrich-bohme-undated-4
+performers:
+- name: Ullrich Böhme
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '676', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/577ebd74-acb5-4373-b887-777233cd51d3
+  title: Berühmte Orgelwerke aus vier Jahrhunderten
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 182bf1c3-f5cd-4374-8f4c-67258fa04681
+  recordings: [0f9f8f8a-62b9-48e5-9616-d625dfb74202]

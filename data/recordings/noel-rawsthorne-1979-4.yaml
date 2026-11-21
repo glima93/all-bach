@@ -1,0 +1,26 @@
+id: noel-rawsthorne-1979-4
+performers:
+- name: Noel Rawsthorne
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979]
+  place: Liverpool Cathedral
+released: 1980
+original_label: null
+works:
+- {bwv: '552', complete: false, movements: [Fugue]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/28c39db2-7e75-40b1-a268-4df43fef888b
+  title: Bach at Liverpool
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ec26b1b-99dc-4b8a-b706-11b43ed3ee5b
+  recordings: [ae1b8a11-96dd-4c58-896d-bd9ce235c5df]

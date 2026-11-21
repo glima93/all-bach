@@ -1,0 +1,28 @@
+id: jeffrey-makinson-undated
+performers:
+- name: Jeffrey Makinson
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '678', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/386715d4-e212-42e5-95bb-09f2b045a0bd
+  title: Choral Evensong From Lincoln Cathedral
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5be000ad-fd53-4fde-b769-df99ec33c67e
+  recordings: [1e039645-e6ca-40b4-ac38-dd336db97283]

@@ -1,0 +1,28 @@
+id: feike-asma-undated-2
+performers:
+- name: Feike Asma
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '675', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f431d128-48fd-442c-9a80-0bcda6b1b912
+  title: Speelt Bach & Händel
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 082ae17e-71d2-472f-a917-9f7ac8a100f0
+  recordings: [edc05369-4638-49f3-bd78-deffb19c5d56]

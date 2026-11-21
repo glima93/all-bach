@@ -1,0 +1,27 @@
+id: bas-de-vroome-undated
+performers:
+- name: Bas de Vroome
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Sint Michaëlkerk
+released: 1999
+original_label: null
+works:
+- {bwv: '804', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d4e67be-5771-400a-84e7-b64b574b0451
+  title: Het Historische Orgel in Nederland
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2fb03922-bf2d-47f6-a496-eee0837985b9
+  recordings: [4f4dc613-3584-4df7-9fae-88186826ba56]

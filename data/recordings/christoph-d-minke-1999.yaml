@@ -1,0 +1,28 @@
+id: christoph-d-minke-1999
+performers:
+- name: Christoph D. Minke
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Convento dos Grilos
+released: 1999
+original_label: null
+works:
+- {bwv: '672', complete: true}
+- {bwv: '673', complete: true}
+- {bwv: '674', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/421c8ee1-e149-49f0-a5db-f819a80146c7
+  title: Concerto De Orgão Na Igreja Maior Do Porto
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c15f7405-7975-4ced-a4e4-4f993167c9d3
+  recordings: [08d4bbb0-7529-4388-89f8-2103d940234e]

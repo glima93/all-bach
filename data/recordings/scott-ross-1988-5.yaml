@@ -1,0 +1,29 @@
+id: scott-ross-1988-5
+performers:
+- name: Scott Ross
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: Salle Adyar
+released: 1994
+original_label: null
+works:
+- {bwv: '802', complete: true}
+- {bwv: '803', complete: true}
+- {bwv: '804', complete: true}
+- {bwv: '805', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/40589cc7-e039-4036-b59b-0801238c6fce
+  title: L'Art de Scott Ross
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b01dff1-286c-4a41-a56a-8be74fe27e70
+  recordings: [23066583-025b-4343-9139-9c012f112632]

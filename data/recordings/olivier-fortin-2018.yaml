@@ -1,0 +1,29 @@
+id: olivier-fortin-2018
+performers:
+- name: Olivier Fortin
+  role: harpsichord
+- name: Emmanuel Frankenberg
+  role: harpsichord
+instrument: harpsichord
+performance_practice: historical
+arrangement: true
+arranger: null
+recorded:
+  years: [2018]
+  place: Chapelle de l'hôpital Notre-Dame de Bon Secours
+released: 2020
+original_label: null
+works:
+- {bwv: '552', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/beb053e5-716a-4a71-aaf7-13268f805072
+  title: Concertos for Two Harpsichords
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 86ed2e67-1702-4586-adda-54a41f5aea32
+  recordings: [1f317f40-5ce1-4511-9bd2-fe483dfe1d9b]

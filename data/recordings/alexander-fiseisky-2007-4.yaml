@@ -1,0 +1,26 @@
+id: alexander-fiseisky-2007-4
+performers:
+- name: Alexander Fiseisky
+  role: organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: Kloster Steinfeld
+released: 2007
+original_label: null
+works:
+- {bwv: '676', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5fdc29db-fad5-4a47-920a-8e7ff263dcd0
+  title: Meisterwerke für Orgel
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 10877a32-c1dd-46c9-971d-713688bba92c
+  recordings: [73a2acb7-dbe2-4e98-b559-473b3acf8397]

@@ -1,0 +1,28 @@
+id: jurgis-grinkiavichius-undated-3
+performers:
+- name: Jurgis Grinkiavichius
+  role: pipe organ
+instrument: organ
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '675', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3df21b68-c4c4-4b3c-b0e3-d4b6519be41f
+  title: The 99 Most Essential Bach Masterpieces (Full Works Edition)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e36c8e3d-3d4c-4b70-a003-07acf3a8db7f
+  recordings: [d7e6ef9c-3a83-4046-ac34-8efedae720ea]
