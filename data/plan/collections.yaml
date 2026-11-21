@@ -75,7 +75,7 @@ collections:
    note: "The St Anne Prelude and Fugue (552) frames the set; the four Duets (802–805) are manuals-only and often played on harpsichord or piano (native)"}
 
 # ── Wave 2: vocal works (needs the vocal importer mode) ───────────────────────────────────
-- {id: mass-in-b-minor, title: "Mass in B minor", chapter: Masses and Magnificat, bwv: ["232"], mode: vocal, wave: 2, run: 22, status: queued}
+- {id: mass-in-b-minor, title: "Mass in B minor", chapter: Masses and Magnificat, bwv: ["232"], mode: vocal, wave: 2, run: 22, status: collected}
 - {id: magnificat, title: "Magnificat", chapter: Masses and Magnificat, bwv: ["243"], mode: vocal, wave: 2, run: 22, status: queued,
    note: "243a is the E-flat version with Christmas interpolations"}
 - {id: passions, title: "Passions", chapter: Passions and Oratorios, bwv: ["244-247"], mode: vocal, wave: 2, run: 23, status: todo,
