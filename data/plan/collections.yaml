@@ -76,7 +76,7 @@ collections:
 
 # ── Wave 2: vocal works (needs the vocal importer mode) ───────────────────────────────────
 - {id: mass-in-b-minor, title: "Mass in B minor", chapter: Masses and Magnificat, bwv: ["232"], mode: vocal, wave: 2, run: 22, status: queued}
-- {id: magnificat, title: "Magnificat", chapter: Masses and Magnificat, bwv: ["243"], mode: vocal, wave: 2, run: 22, status: queued,
+- {id: magnificat, title: "Magnificat", chapter: Masses and Magnificat, bwv: ["243"], mode: vocal, wave: 2, run: 22, status: collected,
    note: "243a is the E-flat version with Christmas interpolations"}
 - {id: passions, title: "Passions", chapter: Passions and Oratorios, bwv: ["244-247"], mode: vocal, wave: 2, run: 23, status: todo,
    note: "246 St Luke is spurious; 247 St Mark is lost (reconstructions get their own entries if MusicBrainz has them)"}
