@@ -1,0 +1,28 @@
+id: rodolfus-choir-2015
+performers:
+- name: Rodolfus Choir
+  role: choir
+- name: Ralph Allwood
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: St John the Evangelist
+released: 2016
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['II. Symbolum Nicenum: IV. Et incarnatus est']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/29458b17-0059-4baa-9a18-e6ef0e51bcd0
+  title: Time and Its Passing
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6812351d-e38f-4cc3-b2eb-ec0a7209bfe2
+  recordings: [3162a9ff-e597-4055-af52-b26d56417f3f]

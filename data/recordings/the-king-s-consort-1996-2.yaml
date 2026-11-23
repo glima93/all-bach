@@ -1,0 +1,31 @@
+id: the-king-s-consort-1996-2
+performers:
+- name: The King’s Consort
+  role: orchestra
+- name: Robert King
+  role: conductor
+- name: Tölzer Knabenchor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6a5fe16a-2ea7-4d4a-a5a9-073334841714
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a5bc84d6-e1d2-4780-9d30-ad04a3e61c87
+  recordings: [034abd10-ae64-4aa6-98a8-3821c524a398]

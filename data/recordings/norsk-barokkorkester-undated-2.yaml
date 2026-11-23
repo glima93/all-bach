@@ -1,0 +1,30 @@
+id: norsk-barokkorkester-undated-2
+performers:
+- name: Norsk Barokkorkester
+  role: orchestra
+- name: Catherine King
+  role: alto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b6bb040-fc8e-424a-a939-b302295d5b26
+  title: Alto Arias
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f2458365-5aaa-4069-9d45-9aa09745ed8a
+  recordings: [ff74d718-c0c4-4e01-8009-3bfdae3e6224]

@@ -1,0 +1,50 @@
+id: collegium-2013
+performers:
+- name: Collegium 1704
+  role: orchestra
+- name: Collegium Vocale 1704
+  role: choir
+- name: Václav Luks
+  role: conductor
+- name: Marián Krejčík
+  role: bass
+- name: Hana Blažíková
+  role: soprano
+- name: Barbora Sojková
+  role: performer
+- name: Václav Čížek
+  role: tenor
+- name: Tomáš Král
+  role: performer
+- name: Terry Wey
+  role: performer
+- name: Kamila Mazalová
+  role: voice
+- name: Sophie Harmsen
+  role: performer
+- name: Eric Stokloßa
+  role: performer
+- name: Jan Mikušek
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2013]
+  place: Studio Domovina
+released: 2013
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ea40f658-a67d-4146-bdce-d426be4473bd
+  title: Mass in B Minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c42d3fc-0a30-4fd0-9617-0ea14b165c4c
+  recordings: [bdb7ab8d-84d9-4a94-8dae-3c68dcef9d72, fbc6fcff-bae1-4f68-81af-64396cc0348f]

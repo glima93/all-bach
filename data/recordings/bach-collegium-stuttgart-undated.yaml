@@ -1,0 +1,32 @@
+id: bach-collegium-stuttgart-undated
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['II. Symbolum Nicenum: VII. Et in Spiritum Sanctum Dominum', 'II. Symbolum
+      Nicenum: VIII. Confiteor', 'II. Symbolum Nicenum: IX. Et expecto']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/998e1116-2d1f-46eb-a81a-d16380a7ee90
+  title: 'Recordings for a History of Western Music, Fourth Edition, Volume 1: Ancient to Baroque'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [e28e5417-00f6-4136-87ac-0af02aa0eaea]

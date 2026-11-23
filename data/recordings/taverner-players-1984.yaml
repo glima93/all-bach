@@ -1,0 +1,30 @@
+id: taverner-players-1984
+performers:
+- name: Taverner Players
+  role: orchestra
+- name: Andrew Parrott
+  role: conductor
+- name: Taverner Consort
+  role: voice
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: St John’s, Smith Square
+released: 1985
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cdf87c03-95c8-49ef-aa35-71dc5f7feb7d
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 64c537f4-fea4-477f-b360-ce81552f7ad6
+  recordings: [62bb04f1-009b-4990-97e0-5b6ce127d2ef]

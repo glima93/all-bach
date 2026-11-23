@@ -1,0 +1,34 @@
+id: the-king-s-consort-1996
+performers:
+- name: The King’s Consort
+  role: orchestra
+- name: Edward Higginbottom
+  role: conductor
+- name: Rachael Elliott
+  role: soprano
+- name: Roderick Williams
+  role: bass
+- name: Choir of New College Oxford
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Maida Vale Studios
+released: 1996
+original_label: null
+works:
+- {bwv: 243a, complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a87caf05-88fa-443a-9206-3afdde481aea
+  title: 'BBC Music, Volume 5, Number 4: Christmas Oratorio, Part 1 / Magnificat'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a5bc84d6-e1d2-4780-9d30-ad04a3e61c87
+  recordings: [a6c5bfbe-cc61-4d20-a320-464be8f80d13, dde7d4cb-7054-4d6c-b0eb-2ca6541f357a]

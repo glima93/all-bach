@@ -1,0 +1,42 @@
+id: akademie-fur-alte-musik-berlin-undated-6
+performers:
+- name: Akademie für Alte Musik Berlin
+  role: orchestra
+- name: RIAS Kammerchor
+  role: choir
+- name: Justin Doyle
+  role: conductor
+- name: Núria Rial
+  role: performer
+- name: Roderick Williams
+  role: performer
+- name: Kieran Carrel
+  role: performer
+- name: Alex Potter
+  role: performer
+- name: Marie-Sophie Pollak
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: 243a, complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/104d0704-18df-4b3f-8732-14692727d8eb
+  title: 'J. S. Bach: Weihnachts-Magnificat / G. F. Handel: Utrecht Te Deum'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad1b876d-1f4a-4126-8965-7e35076b9962
+  recordings: [0307e99f-68ab-4f0a-9344-0ee199fa10ba, a94d82b7-8c27-4faf-87e3-5b0326c6bf54]

@@ -1,0 +1,29 @@
+id: thijs-van-leer-undated
+performers:
+- name: Thijs van Leer
+  role: voices and instruments
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1972
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/faed29dc-1a4f-4524-9921-72961c4ae6c7
+  title: Introspection
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df5689df-ee1c-4ed8-801c-6c5494e95981
+  recordings: [df4323a8-7461-45f4-8928-b5f5cbed1a14]

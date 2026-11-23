@@ -1,0 +1,29 @@
+id: philharmonia-orchestra-undated-4
+performers:
+- name: Philharmonia Orchestra
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3b670f00-0262-44d6-babc-8ab10d836c35
+  title: 'Les Grands Classiques d''Edgar : La Musique sacrée'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [22583f54-4e84-4f4e-aeac-e84f4214dacf]

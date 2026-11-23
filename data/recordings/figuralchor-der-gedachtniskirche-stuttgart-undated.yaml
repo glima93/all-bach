@@ -29,12 +29,12 @@ recorded:
 released: 1990
 original_label: null
 works:
-- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
-      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", 'VI. Aria (Alt, Tenor)
-      "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor) "Deposuit potentes", IX. Aria (Alt) "Esurientes
-      implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit Israel"', XI. Coro "Sicut locutus est", XII.
-      Coro "Gloria Patri", III. Choral Interpolation "Vom Himmel hoch", X. Choral Interpolation "Gloria in excelsis
-      Deo"]}
+- {bwv: 243a, complete: false, movements: [I. Coro "Magnificat anima mea Dominum", IIa. Aria (Sopran II) "Et exsultavit",
+    IIb. Coro (a-cappella) "Vom Himmel hoch", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes",
+    Va. Aria (Bass) "Quia fecit mihi magna", Vb. Coro "Freut euch und jubiliert", 'VI. Aria (Alt, Tenor) "Et misericordia"',
+    VIIa. Coro "Fecit potentiam", VIIb. Coro "Gloria in excelsis Deo", VIII. Aria (Tenor) "Deposuit potentes", IXa.
+      Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit Israel"', XI. Coro "Sicut
+      locutus est", XII. Coro "Gloria Patri et filio"]}
 links:
 - platform: musicbrainz
   kind: release

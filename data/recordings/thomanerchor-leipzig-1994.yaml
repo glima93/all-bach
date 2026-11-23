@@ -1,0 +1,29 @@
+id: thomanerchor-leipzig-1994
+performers:
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Georg Christoph Biller
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: IV. Gloria in excelsis Deo']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c94337e0-5cf5-4e6b-aa9c-e7405e775b4f
+  title: 'BBC Music, Volume 4, Number 4: Music for Christmas'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 995a8150-123b-4f04-8c2c-904a262dd607
+  recordings: [fc5a5439-72f5-4126-917f-de7a2f8461cc]

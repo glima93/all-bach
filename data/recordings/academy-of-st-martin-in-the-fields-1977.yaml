@@ -1,0 +1,38 @@
+id: academy-of-st-martin-in-the-fields-1977
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Academy of St Martin in the Fields Chorus
+  role: choir
+- name: Sir Neville Marriner
+  role: conductor
+- name: Margaret Marshall
+  role: soprano
+- name: Janet Baker
+  role: mezzo-soprano
+- name: Robert Tear
+  role: tenor
+- name: Samuel Ramey
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: St John’s, Smith Square
+released: 1986
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0fe82f0-c873-4e8e-a714-e2f38a7b5761
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [1256bb3d-ada2-4939-98bb-a6e4f7c9343b, f0c962b3-3733-4506-9d30-f26fbc278687]

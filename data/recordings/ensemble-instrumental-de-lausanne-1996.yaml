@@ -1,0 +1,38 @@
+id: ensemble-instrumental-de-lausanne-1996
+performers:
+- name: Ensemble Instrumental de Lausanne
+  role: orchestra
+- name: Ensemble Vocal de Lausanne
+  role: choir
+- name: Michel Corboz
+  role: conductor
+- name: Sandrine Piau
+  role: soprano
+- name: Bernarda Fink
+  role: alto
+- name: Markus Schäfer
+  role: performer
+- name: Marcos Fink
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Auditorium Stravinski
+released: 2005
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/26d59550-cab5-429d-8efd-032ec41652ad
+  title: Mass in B minor, BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2331c561-85db-45a5-a180-8c94bdab4f0a
+  recordings: [65a1e22c-d82a-4564-b0fc-417728df9a5f, d1bcddf5-f7f8-42cc-b81f-74fdfce2c8eb]

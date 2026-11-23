@@ -1,0 +1,28 @@
+id: the-bach-ensemble-1981
+performers:
+- name: The Bach Ensemble
+  role: ensemble
+- name: Joshua Rifkin
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1981, 1982]
+  place: Rutgers Presbyterian Church, New York
+released: 1999
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a2eef40-8da6-4b1b-a5c5-3026ef67638e
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8eea2dff-8c06-4a9b-b3f9-4acd0365522a
+  recordings: [f31e6e75-f933-4b87-b9c3-aeb599248398]

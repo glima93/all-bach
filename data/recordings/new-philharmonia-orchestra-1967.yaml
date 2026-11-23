@@ -1,0 +1,52 @@
+id: new-philharmonia-orchestra-1967
+performers:
+- name: New Philharmonia Orchestra
+  role: orchestra
+- name: BBC Chorus
+  role: choir
+- name: Otto Klemperer
+  role: conductor
+- name: Agnes Giebel
+  role: soprano
+- name: Janet Baker
+  role: alto
+- name: Nicolai Gedda
+  role: tenor
+- name: Hermann Prey
+  role: baritone
+- name: Franz Crass
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1967]
+  place: Kingsway Hall
+released: 1990
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      III. Kyrie eleison', 'I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: VI. Laudamus te', 'I. Missa: VII.
+      Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis peccata mundi', 'I. Missa:
+      X. Qui sedes ad dextram Patris', 'I. Missa: XI. Quoniam tu solus Sanctus', 'I. Missa: XII. Cum Sancto Spiritu',
+    'II. Symbolum Nicenum: I. Credo in unum Deum', 'II. Symbolum Nicenum: II. Patrem omnipotentem', 'II. Symbolum
+      Nicenum: III. Et in unum Dominum', 'II. Symbolum Nicenum: IV. Et incarnatus est', 'II. Symbolum Nicenum: V.
+      Crucifixus', 'II. Symbolum Nicenum: VI. Et resurrexit', 'II. Symbolum Nicenum: VII. Et in Spiritum Sanctum
+      Dominum', 'II. Symbolum Nicenum: VIII. Confiteor', 'II. Symbolum Nicenum: IX. Et expecto', III. Sanctus, 'IV.
+      Osanna, Benedictus, Agnus Dei, Dona nobis pacem: I. Osanna in excelsis', 'IV. Osanna, Benedictus, Agnus Dei,
+      Dona nobis pacem: II. Benedictus', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: III. Osanna repetatur',
+    'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei', 'IV. Osanna, Benedictus, Agnus Dei, Dona
+      nobis pacem: V. Dona nobis pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/732b250b-81e1-4838-8703-b094564951c0
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [8ee2ecee-830c-4af1-852f-1f75a069a411, e690cb7f-38db-4eb0-9176-293c437435dc, ea92bab8-2c72-4f71-8b77-a58620ce8251,
+    ef2ac976-6c21-4d65-a7d0-27598d5aaa38]

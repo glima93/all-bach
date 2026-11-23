@@ -1,0 +1,36 @@
+id: la-petite-bande-1985
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Gustav Leonhardt
+  role: conductor
+- name: Sigiswald Kuijken
+  role: performer
+- name: René Jacobs
+  role: performer
+- name: Isabelle Poulenard
+  role: performer
+- name: Collegium Musicum Van de Nederlandse Bachvereging
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1985]
+  place: Doopsgezinde kerk
+released: 1990
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b7ce133-282c-4be1-95a5-5a6cad980a26
+  title: Messe H-Moll, BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [175f8224-41e0-4472-b6f6-e8bb0316d54d, 8fd682a0-3b30-4038-a091-6a4c3d90fe2e]

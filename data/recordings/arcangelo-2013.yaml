@@ -1,0 +1,38 @@
+id: arcangelo-2013
+performers:
+- name: Arcangelo
+  role: orchestra
+- name: Jonathan Cohen
+  role: conductor
+- name: Ida Falk Winland
+  role: performer
+- name: Tim Mead
+  role: performer
+- name: Lydia Teuscher
+  role: performer
+- name: Samuel Boden
+  role: performer
+- name: Neal Davies
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2013]
+  place: St. Mary's Church
+released: 2014
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4cf098f6-8cd9-4b57-8c43-46e13d82274f
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93f71f5a-9fad-48de-bd4a-25ffd625b3d6
+  recordings: [a3f71387-cb58-4e0f-b262-29f907cfb8e2]

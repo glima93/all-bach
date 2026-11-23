@@ -22,7 +22,7 @@ help_wanted:
 - Recording year
 - Recording place
 - Streaming links (Spotify, Apple Music, YouTube …)
-notes: null
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
 musicbrainz:
   artist: 3d55dcac-19b6-41c8-b341-16d0a3e256e0
   recordings: [320e2911-4466-4b81-9396-84a00ac97937]

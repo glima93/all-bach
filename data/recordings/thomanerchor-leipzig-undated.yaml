@@ -15,8 +15,8 @@ recorded:
 released: 1995
 original_label: null
 works:
-- {bwv: '243', complete: false, movements: [III. Choral Interpolation "Vom Himmel hoch", VII. Choral Interpolation
-      "Freut euch und jubiliert"]}
+- {bwv: 243a, complete: false, movements: [IIb. Coro (a-cappella) "Vom Himmel hoch", Vb. Coro "Freut euch und jubiliert",
+    'IXb. Aria (Sopran, Bass) "Virga Jesse floruit"']}
 links:
 - platform: musicbrainz
   kind: release

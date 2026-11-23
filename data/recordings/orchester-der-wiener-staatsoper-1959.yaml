@@ -1,0 +1,38 @@
+id: orchester-der-wiener-staatsoper-1959
+performers:
+- name: Orchester der Wiener Staatsoper
+  role: orchestra
+- name: Wiener Kammerchor
+  role: choir
+- name: Hermann Scherchen
+  role: conductor
+- name: Nan Merriman
+  role: mezzo-soprano
+- name: Pierrette Alarie
+  role: soprano
+- name: Léopold Simoneau
+  role: performer
+- name: Gustav Neidlinger
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959]
+  place: 'Konzerthaus: Mozart‐Saal'
+released: 2002
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/76f57fec-6fc8-4996-b37e-4ae5dea21ff9
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 60cc7738-673d-45e3-8cdb-5412e09cb1c5
+  recordings: [82f64dd2-0c93-435b-91a9-b443c13d6090, 90d207ec-a1c4-49e9-b917-e6b1dec60341]

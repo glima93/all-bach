@@ -1,0 +1,31 @@
+id: bachchor-mainz-2017
+performers:
+- name: Bachchor Mainz
+  role: choir
+- name: Deutsche Staatsphilharmonie Rheinland‐Pfalz
+  role: orchestra
+- name: Mark Fitz-Gerald
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Staatsphilharmonie Reinland-Pfalz
+released: 2017
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: V. Dona nobis
+      pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0b00c0b9-1ca3-4392-bd90-37cae5a6b9d3
+  title: The Gadfly
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ca5d2a37-5d3d-428c-9504-86988cca968d
+  recordings: [b180a659-571a-4ff6-bce5-d4cf77ed8cbb]

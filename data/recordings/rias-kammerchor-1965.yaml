@@ -1,0 +1,32 @@
+id: rias-kammerchor-1965
+performers:
+- name: RIAS Kammerchor
+  role: choir
+- name: Berlin Radio Symphonie Orchester
+  role: orchestra
+- name: Lorin Maazel
+  role: conductor
+- name: Deutsches Symphonie‐Orchester Berlin
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1965]
+  place: Johannesstift
+released: 1988
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: V. Et in terra pax']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fd0bcda7-09f0-48e8-bb6d-26193064831b
+  title: 'Halleluja: Beliebte Chöre'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f461b350-a814-4341-b427-c8fd59430d1f
+  recordings: [b24dc27a-5eb0-4e67-9326-f5e1cdb6697c]

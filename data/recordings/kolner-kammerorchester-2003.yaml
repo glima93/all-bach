@@ -1,0 +1,40 @@
+id: kolner-kammerorchester-2003
+performers:
+- name: Kölner Kammerorchester
+  role: orchestra
+- name: Helmut Müller‐Brühl
+  role: conductor
+- name: Ann Hallenberg
+  role: mezzo-soprano
+- name: Markus Schäfer
+  role: tenor
+- name: Dresdner Kammerchor
+  role: choir
+- name: Sunhae Im
+  role: soprano
+- name: Marianne Beate Kielland
+  role: mezzo-soprano
+- name: Hanno Müller‐Brachmann
+  role: bass-baritone
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2003]
+  place: Deutschlandfunk Kammermusiksaal
+released: 2004
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ea70f598-b1db-4bea-af07-5b769335a007
+  title: Hohe Messe in H-Moll, BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b93816c3-b729-439c-95f3-d9976e0620cc
+  recordings: [81ca2cd6-8115-45b6-8386-6d88ad2e7981, e07b3cb0-f2c8-4cc3-8f6e-793a03473e5a]

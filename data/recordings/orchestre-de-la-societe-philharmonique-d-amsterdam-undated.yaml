@@ -1,0 +1,40 @@
+id: orchestre-de-la-societe-philharmonique-d-amsterdam-undated
+performers:
+- name: Orchestre de la Societe Philharmonique d'Amsterdam
+  role: orchestra
+- name: Choeurs de la Societe Philharmonique d'Amsterdam
+  role: choir
+- name: Walter Goehr
+  role: conductor
+- name: Amsterdam Philharmonic Society Choir
+  role: choir
+- name: Amsterdam Philharmonic Society Orchestra
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      III. Kyrie eleison', 'I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: V. Et in terra pax', 'I. Missa: VI.
+      Laudamus te', 'I. Missa: VII. Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis
+      peccata mundi', 'I. Missa: X. Qui sedes ad dextram Patris', 'I. Missa: XI. Quoniam tu solus Sanctus', 'I.
+      Missa: XII. Cum Sancto Spiritu']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3c0db979-7a88-4271-8982-49b1fb4a6bbf
+  title: Messe en si (I)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 57f1b95e-2786-4c7b-ad0e-5f5352869bd7
+  recordings: [c80603a8-4d9e-4b88-a5ee-f08104924003, e502b78a-54f2-4cae-9fa1-fc4d21b37e68]

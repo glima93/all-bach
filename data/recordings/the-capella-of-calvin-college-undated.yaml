@@ -1,0 +1,28 @@
+id: the-capella-of-calvin-college-undated
+performers:
+- name: The Capella of Calvin College
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['II. Symbolum Nicenum: V. Crucifixus']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3e8a3b5f-4b6e-4b7f-a68f-039c0a59dc8d
+  title: 2002 Spring Tour
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fd6e2d13-e25f-44d9-b7c7-40072dfd2042
+  recordings: [51c955cf-7e61-4e90-beef-6ab7df503c64]

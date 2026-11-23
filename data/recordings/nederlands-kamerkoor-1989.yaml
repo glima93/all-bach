@@ -1,0 +1,38 @@
+id: nederlands-kamerkoor-1989
+performers:
+- name: Nederlands Kamerkoor
+  role: choir
+- name: Orchestra of the Eighteenth Century
+  role: orchestra
+- name: Frans Brüggen
+  role: conductor
+- name: Michael Chance
+  role: alto
+- name: Jennifer Smith
+  role: soprano
+- name: Nico van der Meel
+  role: performer
+- name: Harry van der Kamp
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: Muziekcentrum Vredenburg
+released: 1990
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4f579902-8cde-4920-8d65-625fa35cc678
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 076a10cd-a7ba-4d79-9ee5-a52ac1e4af57
+  recordings: [2932186e-6c6a-4902-8e91-267ce7588fe7, 3fa82fea-2ebe-4175-8531-f300129446b0, c1524be7-591f-40eb-9e81-294279511bbd]

@@ -1,0 +1,34 @@
+id: collegium-vocale-gent-1996
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Véronique Gens
+  role: performer
+- name: Andreas Scholl
+  role: countertenor
+- name: La Chapelle Royale
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Sint-Gilliskerk
+released: 1997
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/af270b87-c2a3-4e74-9098-dc22a30f0837
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [5334b520-ae2b-4554-b454-b360b9151e7b, 65d9d47b-67a0-4fab-876a-6df9143953f6]

@@ -1,0 +1,33 @@
+id: mormon-tabernacle-choir-1958
+performers:
+- name: Mormon Tabernacle Choir
+  role: choir
+- name: The Tabernacle Choir at Temple Square
+  role: choir
+- name: Jerold Ottley
+  role: conductor
+- name: Columbia Symphony Orchestra
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958, 1962]
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['II. Symbolum Nicenum: VI. Et resurrexit']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7c697b81-dd2c-411a-a338-673198d64f3f
+  title: 'Jesu, Joy of Man''s Desiring: 20 Great Bach & Handel Choruses'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 82799747-1c25-4df6-92e1-6803e330b7f7
+  recordings: [5d3a628a-37ca-44f6-9f39-b5fc0c8c973e]

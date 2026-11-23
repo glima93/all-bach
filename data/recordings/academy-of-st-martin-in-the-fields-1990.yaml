@@ -2,24 +2,20 @@ id: academy-of-st-martin-in-the-fields-1990
 performers:
 - name: Academy of St Martin in the Fields
   role: orchestra
+- name: Academy of St Martin in the Fields Chorus
+  role: choir
 - name: Sir Neville Marriner
   role: conductor
-- name: Philip Ledger
-  role: performer
+- name: Barbara Hendricks
+  role: soprano
 - name: Ann Murray
   role: mezzo-soprano
-- name: Uwe Heilmann
-  role: performer
 - name: Jean Rigby
-  role: performer
-- name: Felicity Palmer
-  role: performer
-- name: Stephen Roberts
-  role: performer
-- name: Helen Watts
-  role: performer
-- name: Academy of St. Martin in the Fields Chorus
-  role: choir
+  role: alto
+- name: Uwe Heilmann
+  role: tenor
+- name: Jorma Hynninen
+  role: baritone
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false

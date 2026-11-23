@@ -1,0 +1,42 @@
+id: suddeutscher-madrigalchor-undated
+performers:
+- name: Süddeutscher Madrigalchor
+  role: choir
+- name: Deutsche Bachsolisten
+  role: orchestra
+- name: Gundula Bernàt-Klein
+  role: soprano
+- name: Helen Donath
+  role: soprano
+- name: Birgit Finnilä
+  role: alto
+- name: Barry McDaniel
+  role: bass
+- name: Peter Schreier
+  role: tenor
+- name: Wolfgang Gönnenwein
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: 243a, complete: false, movements: [VIIb. Coro "Gloria in excelsis Deo"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1f3e01d-bfc1-4459-9a72-16f4ea5a8170
+  title: 'Hörmal: Denkmale zum Klingen bringen: Festliche Weihnachtsmusik, Vol. 6'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4b203f8c-2eb4-415d-af07-072ecbd2af14
+  recordings: [a66992be-930a-42b3-b973-06a8e8346c80]

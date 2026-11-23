@@ -34,4 +34,5 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: f8140db5-f8fd-4bde-9ec2-87bcdd9893b8
-  recordings: [05aa83fb-de9b-4c37-8901-3db2ec97e6b6, 2c9614ad-efca-484b-bda1-ab9c176e731a, ddf57fdb-c9e8-48c2-b4e7-c02119fc8094]
+  recordings: [05aa83fb-de9b-4c37-8901-3db2ec97e6b6, 2c9614ad-efca-484b-bda1-ab9c176e731a, d21d5932-e244-4633-9a7d-6e24c8cbb645,
+    ddf57fdb-c9e8-48c2-b4e7-c02119fc8094]

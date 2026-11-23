@@ -1,0 +1,34 @@
+id: atlanta-symphony-chorus-1985
+performers:
+- name: Atlanta Symphony Chorus
+  role: choir
+- name: Atlanta Symphony Orchestra
+  role: orchestra
+- name: Robert Shaw
+  role: conductor
+- name: Atlanta Symphony Orchestra Chorus
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: V. Dona nobis
+      pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c371feee-7cf5-46bf-a792-796f07465856
+  title: Master of the First Art - Volume 1
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: de0f4f76-7a52-4735-bfc1-56b7e4574619
+  recordings: [6395291d-3bef-40a2-87b5-92deff073fbc]

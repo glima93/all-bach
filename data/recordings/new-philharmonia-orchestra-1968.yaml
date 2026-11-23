@@ -16,6 +16,8 @@ performers:
   role: tenor
 - name: Philharmonia Chorus
   role: choir
+- name: Philharmonia Orchestra
+  role: orchestra
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false

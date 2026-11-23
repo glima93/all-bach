@@ -1,0 +1,38 @@
+id: leonhardt-baroque-ensemble-undated
+performers:
+- name: Leonhardt Baroque Ensemble
+  role: orchestra
+- name: Alfred Deller
+  role: countertenor
+- name: Gustav Leonhardt
+  role: conductor
+- name: Deller Consort
+  role: ensemble
+- name: Leonhardt‐Consort
+  role: orchestra
+- name: Nikolaus Harnoncourt
+  role: viola da gamba
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/31050c48-84d1-4c3e-b545-3fab0854328a
+  title: 'Peace: Classics for Every Mood'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 72f1637e-ba1b-4392-a822-4cea463b30cb
+  recordings: [276ca246-f8ef-403b-931a-fc7087db32b6, 481758f9-a509-4b9a-a6f5-1969510d0f20, fc28f9f9-e2f7-49a3-9ceb-9a462ce8cd58]

@@ -1,0 +1,40 @@
+id: staatskapelle-dresden-1991
+performers:
+- name: Staatskapelle Dresden
+  role: orchestra
+- name: MDR Leipzig Radio Chorus
+  role: choir
+- name: Peter Schreier
+  role: conductor
+- name: Marjana Lipovsek
+  role: performer
+- name: Arleen Auger
+  role: performer
+- name: Anton Scharinger
+  role: performer
+- name: Ann Murray
+  role: mezzo-soprano
+- name: MDR Rundfunkchor Leipzig
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: Lukaskirche
+released: 1992
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d41b9fee-6377-4a55-9cf3-17db2b680511
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62250633-e888-49bb-ab9f-d6f14ef21012
+  recordings: [3e111b28-6584-4c4b-9c3a-eaaaa0f76ed5, 678cbe04-004c-4ab4-9cd0-a4eceff5a937]

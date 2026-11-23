@@ -14,6 +14,10 @@ performers:
   role: performer
 - name: Lee Venora
   role: performer
+- name: Schola Cantorum
+  role: choir
+- name: Hugh Ross
+  role: performer
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false
@@ -23,9 +27,11 @@ recorded:
 released: 1998
 original_label: null
 works:
-- {bwv: '243', complete: false, movements: [II. Aria (Sopran II) "Et exsultavit spiritus meus", V. Aria (Bass) "Quia
-      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VIII. Aria (Tenor) "Deposuit potentes", IX.
-      Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit Israel"']}
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
 links:
 - platform: musicbrainz
   kind: release
@@ -37,4 +43,5 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 7cdb68bc-c4f1-4a92-9bd2-739641c5eff0
-  recordings: [61728dd5-630a-4ba2-b685-74404723942f, 913ead1d-b5a0-4874-ba10-b14337d939bf]
+  recordings: [61728dd5-630a-4ba2-b685-74404723942f, 913ead1d-b5a0-4874-ba10-b14337d939bf, e72e96ef-4f7d-4b8d-8e97-cedb5fa85cb8,
+    ebf094ed-1dcb-4805-a630-5149580a432b]

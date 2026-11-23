@@ -1,0 +1,48 @@
+id: gewandhausorchester-leipzig-2000
+performers:
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Georg Christoph Biller
+  role: conductor
+- name: Christoph Genz
+  role: performer
+- name: Matthias Rexroth
+  role: alto
+- name: Ruth Holton
+  role: soprano
+- name: Klaus Mertens
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: Thomaskirche
+released: 2001
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      IV. Gloria in excelsis Deo', 'I. Missa: V. Et in terra pax', 'I. Missa: VI. Laudamus te', 'I. Missa: VII.
+      Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis peccata mundi', 'I. Missa:
+      X. Qui sedes ad dextram Patris', 'I. Missa: XI. Quoniam tu solus Sanctus', 'I. Missa: XII. Cum Sancto Spiritu',
+    'II. Symbolum Nicenum: I. Credo in unum Deum', 'II. Symbolum Nicenum: III. Et in unum Dominum', 'II. Symbolum
+      Nicenum: IV. Et incarnatus est', 'II. Symbolum Nicenum: V. Crucifixus', 'II. Symbolum Nicenum: VI. Et resurrexit',
+    'II. Symbolum Nicenum: VII. Et in Spiritum Sanctum Dominum', 'II. Symbolum Nicenum: VIII. Confiteor', 'II. Symbolum
+      Nicenum: IX. Et expecto', III. Sanctus, 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: I. Osanna in
+      excelsis', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: II. Benedictus', 'IV. Osanna, Benedictus,
+      Agnus Dei, Dona nobis pacem: III. Osanna repetatur', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem:
+      IV. Agnus Dei', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: V. Dona nobis pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/213cdfb7-d2d1-487f-afb9-4720dd98383a
+  title: Messe h-moll, BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [9f5e64ee-61a2-4022-951c-79dfe7e35575, a9f2483a-4dd2-4da5-b115-c26525190ada]

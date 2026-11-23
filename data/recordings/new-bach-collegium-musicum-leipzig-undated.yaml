@@ -6,6 +6,8 @@ performers:
   role: performer
 - name: Georg Christoph Biller
   role: conductor
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false

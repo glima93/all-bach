@@ -1,0 +1,31 @@
+id: gaechinger-cantorey-undated
+performers:
+- name: Gaechinger Cantorey
+  role: ensemble
+- name: Hans-Christoph Rademann
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: 243a, complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/58e949e2-5675-4572-b3a5-ccad9d3f5023
+  title: The First Cantata Year, Vol. 6
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [e673ab03-dad9-428a-b81c-4e0a87a56696]

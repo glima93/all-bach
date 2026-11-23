@@ -14,6 +14,8 @@ performers:
   role: performer
 - name: William Towers
   role: performer
+- name: De Nederlandse Bachvereniging
+  role: orchestra
 instrument: voices-and-instruments
 performance_practice: historical
 arrangement: false

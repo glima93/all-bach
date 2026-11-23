@@ -1,0 +1,39 @@
+id: dunedin-consort-undated-3
+performers:
+- name: Dunedin Consort
+  role: orchestra
+- name: John Butt
+  role: conductor
+- name: Matthew Brook
+  role: bass
+- name: Julia Doyle
+  role: soprano
+- name: Joanne Lunn
+  role: soprano
+- name: Nicholas Mulroy
+  role: tenor
+- name: Clare Wilkinson
+  role: alto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Greyfriars Kirk
+released: 2015
+original_label: null
+works:
+- {bwv: 243a, complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3268de65-a0e5-4b33-88b2-d6ce972b4b56
+  title: Magnificat / Christmas Cantata
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1cca9a39-48c5-48f8-9710-969f81c4d319
+  recordings: [013acda8-daaa-487f-8977-3ea90f654c8d]

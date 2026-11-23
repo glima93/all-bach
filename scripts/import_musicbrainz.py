@@ -965,6 +965,20 @@ JOIN_BY_SNAPSHOT["magnificat"] = {
     "789ce137-faa2-4929-8849-d1cb28e7cc59": ("6d0c88d5-42f3-43c2-b164-b80867ec13e5", "a compilation reissues the opening chorus of Richter's 1961 Archiv recording, his only audio Magnificat"),
     "eb15af71-0230-4247-94bf-fb1f7953f08e": ("6d0c88d5-42f3-43c2-b164-b80867ec13e5", "a compilation reissues the opening chorus of Richter's 1961 Archiv recording, his only audio Magnificat"),
     "979b521a-5e86-4c4e-8c02-3608adad3498": ("df414f55-7789-46a5-8dac-d8882fd6730f", "Ledger, the ASMF and King's College Choir in King's College Chapel: the same recording on Magnificats & Messa di Santa Cecilia"),
+    "ebf094ed-1dcb-4805-a630-5149580a432b": ("913ead1d-b5a0-4874-ba10-b14337d939bf", "the Schola Cantorum's choruses of Bernstein's 1959 Columbia Magnificat"),
+    "e72e96ef-4f7d-4b8d-8e97-cedb5fa85cb8": ("913ead1d-b5a0-4874-ba10-b14337d939bf", "the Schola Cantorum's choruses of Bernstein's 1959 Columbia Magnificat, on the 1962-dated reissue"),
+    # BWV 243a, collected on 23 Nov 2026
+    # Checker, 23 Nov 2026 (re-collection with 243a)
+    "aed652cc-3824-455b-9739-9e970aaf0fcd": ("df414f55-7789-46a5-8dac-d8882fd6730f", "A King's College Christmas reissues Ledger's 1976 Argo Magnificat (King's College Chapel, March 1976; Palmer, Watts, Tear, Roberts): D major with the four Christmas interpolations, which MusicBrainz links to BWV 243a"),
+    "8b7ba89f-43e1-499e-b6fa-12686e28a1ae": ("df414f55-7789-46a5-8dac-d8882fd6730f", "the 'Vom Himmel hoch' interpolation of Ledger's 1976 Magnificat on A King's College Christmas"),
+    "f9bfe74e-50c1-421a-831e-129a139e5cae": ("df414f55-7789-46a5-8dac-d8882fd6730f", "the arias of Ledger's 1976 Magnificat on Magnificats & Messa di Santa Cecilia"),
+    "194d38d5-30ec-425d-9e17-a2f37caf4ef6": ("42fb77ed-3464-42d5-9395-8398e7f90988", "an Israeli compilation (2000) reissues the opening chorus of Koopman's Erato Magnificat (Waalse Kerk, 1996); the link to BWV 243a is MusicBrainz's"),
+    "dc095cbc-6c50-48bb-b6c8-5a932b12055b": ("15cd2a35-0450-4253-aaeb-ce02f945d302", "Couraud's only Magnificat is the Stuttgart recording of July 1956 (bach-cantatas.com); the 1958 LP credits the orchestra as Staatsorchester Stuttgart"),
+    "d5817345-3ff2-4ec2-8a29-aefeafa7aafa": ("de287db0-fa85-466d-8a09-a51ca6e1bdae", "100 Heavenly Classics reissues movements of Radu's Ama Deus Magnificat (1996)"),
+    "d21d5932-e244-4633-9a7d-6e24c8cbb645": ("2c9614ad-efca-484b-bda1-ab9c176e731a", "The Sixteen's Silent Night (Coro) reissues the Gloria Patri of Christophers' 1991 Magnificat"),
+    "a6c5bfbe-cc61-4d20-a320-464be8f80d13": ("dde7d4cb-7054-4d6c-b0eb-2ca6541f357a", "Higginbottom's E-flat Magnificat with New College Choir and the King's Consort on the BBC Music disc: one aria dated 1996, the rest undated"),
+    "f13d7a89-ba89-4cc9-8d87-156f3f278bc1": ("1801a53c-d068-443e-bb7c-72f814ad661f", "Hengelbrock's E-flat Magnificat (2002): an undated aria of the same release"),
+    "18cc97ed-bdf6-42df-8f68-64c49d9b478e": ("2bc69746-81d6-42ae-bc16-f343557e0ff6", "Preston's E-flat Magnificat with Christ Church Cathedral Choir and the AAM (1978): the choruses on Ode to Joy, the rest on the Vivaldi/Bach album; 7 and 9 movements make the 16"),
     "68360034-83e8-4a36-bb50-7369fc305d3a": ("c0c1bc22-8c50-4ad9-9e68-d4465c95ee13", "Rilling's 1979 recording on 1 heure 1 vie avec Bach ('Albert Krause' is Adalbert Kraus); it has the Christmas interpolations, as the 1979 set does"),
 }
 EXCLUDE_BY_SNAPSHOT["magnificat"] = {
@@ -974,6 +988,26 @@ EXCLUDE_BY_SNAPSHOT["magnificat"] = {
 }
 
 OVERRIDE_BY_SNAPSHOT["magnificat"] = {
+    "df414f55-7789-46a5-8dac-d8882fd6730f": ({"movements": [f"243:{i}" for i in range(15)], "performers": [
+        {"name": "Choir of King's College, Cambridge", "role": "choir"}, {"name": "Academy of St Martin in the Fields", "role": "orchestra"},
+        {"name": "Philip Ledger", "role": "conductor"}, {"name": "Felicity Palmer", "role": "soprano"},
+        {"name": "Helen Watts", "role": "contralto"}, {"name": "Robert Tear", "role": "tenor"},
+        {"name": "Stephen Roberts", "role": "bass"}]},
+        "Ledger's Argo Magnificat (ZRG 854, King's College Chapel, March 1976) is BWV 243 in D major 'with four Christmas interpolations' (NYPL and ECU catalogues, Qobuz); MusicBrainz links the reissues to 243a. 'Virga Jesse' has no entry in 243.yaml"),
+    "7ce6affb-93ba-4924-a82d-1ba876e56851": ({"movements": [f"243a:{i}" for i in range(16) if i != 12]},
+        "Rilling's Vox Christmas Magnificats (Figuralchor der Gedächtniskirche, mid-1960s; Gundermann, Rütgers, Equiluz, Wenk) is the E-flat BWV 243a (bach-cantatas.com, Rilling V-14); MusicBrainz links most tracks to 243. No track is linked to Virga Jesse"),
+    "ad267b63-939b-4171-b94e-8675059482d0": ({"movements": ["243a:2", "243a:6", "243a:9"]},
+        "Eschenburg and the Rostocker Motettenchor sing the three chorale interpolations of the E-flat Magnificat (bach-cantatas.com, BWV 243a)"),
+    "49eeaef1-5888-4a73-b72f-dcbf02f1150d": ({"movements": ["243a:2", "243a:6", "243a:12"]},
+        "Biller's Christvesper der Thomaner: Christmas interpolations sung on their own, which belong to the E-flat BWV 243a"),
+    "317f44ee-b391-47b1-a67a-ffbf98b5d432": ({"movements": [f"243a:{i}" for i in range(16)]},
+        "Gardiner's SDG Magnificat in E-flat / Missa in F: only the solo row is in MusicBrainz; the album holds the whole work"),
+    "e673ab03-dad9-428a-b81c-4e0a87a56696": ({"performers": [{"name": "Gaechinger Cantorey", "role": "ensemble"}, {"name": "Hans-Christoph Rademann", "role": "conductor"}]},
+        "Rademann directs the Gaechinger Cantorey; MusicBrainz credits him only as performer"),
+    "4eae90ab-1268-4cab-bb4a-db14af884117": ({"performers": [{"name": "Columbia Broadcasting Concert Orchestra", "role": "orchestra"}, {"name": "Daniel Saidenberg", "role": "conductor"}, {"name": "Carol Brice", "role": "contralto"}]},
+        "Carol Brice, contralto, with Saidenberg conducting; both are credited only as performer"),
+    "6f15ce34-e80c-4671-b9f8-30609e052600": ({"performance_practice": "historical"},
+        "Rykkvin sings with the Orchestra of the Age of Enlightenment, a period-instrument group credited only in the roles"),
     "7b2db7d7-d998-4385-8594-82d7b6de4be9": ({"instrument": "viola", "arrangement": True},
         "Cantus (2015): Adrien La Marca plays the aria 'Et misericordia' on the viola, with his brother's cello and Les Ambassadeurs; no singer is credited"),
     "36e0a22e-e1c2-4b65-903e-4d04a3a9f651": ({"performers": [
@@ -992,6 +1026,95 @@ OVERRIDE_BY_SNAPSHOT["magnificat"] = {
         {"name": "Margarethe Bence", "role": "alto"}, {"name": "Helmut Krebs", "role": "tenor"},
         {"name": "Jean-Pierre Rampal", "role": "flute"}]},
         "Rampal's Complete Erato Recordings vol. 1: the two arias are sung (Bence, Krebs, Redel's Pro Arte orchestra; MusicWeb), with Rampal in the flute obbligato"),
+}
+
+JOIN_BY_SNAPSHOT["mass-in-b-minor"] = {
+    # Checker, run 22: performances split over releases or rows, and compilation reissues of sets on file.
+    "84af7804-46e9-4672-8a89-3f9ce093c3d6": ("60bfce50-5183-45be-b7db-1e2fd814e532", "Jeffrey Thomas and the American Bach Soloists (St Stephen's, 1992): the undated Credo-to-Agnus rows of the same release complete the dated Missa"),
+    "8608ab3f-c16f-4e83-a90c-7229eb6f7118": ("c17cb7fd-95f3-4666-90f2-ec368d370705", "Solti's Decca Mass (Orchestra Hall, Jan 1990, live; bach-cantatas.com): the Et incarnatus on Grammy Champion is the one movement the set lacks"),
+    "8a5071c0-3656-4260-b3e9-dd487fd154ef": ("c17cb7fd-95f3-4666-90f2-ec368d370705", "Grandi Voci (Decca) reissues von Otter's arias from Solti's 1990 Mass"),
+    "8ed02d30-119d-455b-b5a6-4e28a6d642ba": ("ca3d407f-409d-4198-ad1b-f069f65747cb", "Shaw's Telarc Mass (Atlanta, Mar 1990): Telarc's Choral Masterpieces has the Credo choruses, Osanna and Dona; with the album's rows they make the 27 movements"),
+    "266461ce-0e7d-4517-b1f6-f4ac53153f6e": ("ca3d407f-409d-4198-ad1b-f069f65747cb", "Shaw's Telarc Mass (1990): the Dona nobis pacem on Choral Masterpieces"),
+    "05601cfa-ebc9-43d2-91d9-21be8694dde1": ("84ff74a0-79e3-4d44-b349-f07b5d538fae", "an Israeli compilation (2000) reissues Koopman's only audio Mass in B minor (Erato, 1994)"),
+    "3fe10e5b-ac84-451f-b598-a6a786ba3cdb": ("5bb5f973-bf9b-44c4-ab47-2cceb5f0f8d4", "Naxos Life and Works reissues Brembeck's Naxos Mass (Bratislava, 1992)"),
+    "1d3c1727-1d05-4416-a892-57459d656d80": ("5bb5f973-bf9b-44c4-ab47-2cceb5f0f8d4", "the Benedictus compilation reissues Brembeck's Naxos Mass (1992)"),
+    "4c6b5e88-363b-426f-afbf-ae2596c0b384": ("0222b4ea-e156-47b4-8311-f60325e2818a", "EMI's 100 Best Sacred Works reissues Jochum's EMI Mass (Herkulessaal, 1980); his 1957 set is Philips"),
+    "175f8224-41e0-4472-b6f6-e8bb0316d54d": ("8fd682a0-3b30-4038-a091-6a4c3d90fe2e", "Leonhardt recorded the Mass once (DHM, Haarlem, 1985), with the same choir and La Petite Bande; a compilation reissues it"),
+    "5334b520-ae2b-4554-b454-b360b9151e7b": ("65d9d47b-67a0-4fab-876a-6df9143953f6", "Harmonia Mundi's A New Approach to J. S. Bach reissues Scholl's Agnus Dei from Herreweghe's 1996 Mass"),
+    "ce65842c-d4e8-4349-9456-4a61b8545721": ("a5cf9731-a3bb-42c0-bff3-443180ea35b7", "Howard Crook's Benedictus is from Herreweghe's 1988 Virgin Mass, reissued on a 1989 sampler"),
+    "1b938067-e6ab-45c6-b9ce-5cafa2ee532e": ("aee6a594-5d2f-4f04-ac56-1fc2d70fc83d", "Bartoli's Qui sedes with Chung and the Santa Cecilia orchestra: one 1998 recording on two compilations"),
+    "276ca246-f8ef-403b-931a-fc7087db32b6": ("fc28f9f9-e2f7-49a3-9ceb-9a462ce8cd58", "Deller's Vanguard Agnus Dei with Leonhardt's ensemble, reissued under a Deller Consort credit"),
+    "481758f9-a509-4b9a-a6f5-1969510d0f20": ("fc28f9f9-e2f7-49a3-9ceb-9a462ce8cd58", "Les Voix de cristal reissues Deller's Vanguard Agnus Dei"),
+    "0ca56a24-02a8-414d-8fdd-8d657851173b": ("1f133597-21d0-4477-ad59-4f91465fea6a", "Dominic Miller's Shapes (2003): his Qui tollis with the Budapest Film Orchestra, the same track on two releases"),
+    "e07b3cb0-f2c8-4cc3-8f6e-793a03473e5a": ("81ca2cd6-8115-45b6-8386-6d88ad2e7981", "Naxos's Great Sacred Masterpieces reissues Müller-Brühl's Naxos Mass (Cologne, 2003)"),
+    "e379c9d9-e57c-4afb-ae63-e2c09c4504bb": ("1a3909ac-a117-45f9-9fa9-3d58246027a9", "Classic Breakfast reissues two choruses of Gardiner's 1985 Archiv Mass"),
+    "9cd2af4b-b40a-4c94-b1b5-b924daa80399": ("9b2acb89-b3b9-4416-89e1-cd0f57b509ba", "Bach's Adagios reissues the Qui tollis of Corboz's Erato Mass (Temple de Lutry, 1979)"),
+    "22d033e9-f848-44d7-9693-85fc0d782c16": ("48ebea2d-949b-4991-aac3-88932ef12768", "Ferrier's Qui sedes with Karajan and the Wiener Symphoniker (1950): the same EMI session tapes"),
+    "bf993bde-433d-44be-b0e6-752f5c342e16": ("b72aae1d-91ec-459d-83c6-b473333a1e0f", "Karajan's EMI Mass on one release: choruses in Vienna, Nov 1952, arias in London, 1953 (bach-cantatas.com)"),
+    "38374415-608c-499c-bc23-c421e7b9e312": ("34f515e9-aa4b-44b7-8456-d7945002fb46", "Hermann Max recorded the Mass once (Capriccio, Neuss, June 1992); compilation reissue"),
+    "d675a2be-a4a5-4cb0-86bf-4ae61f140008": ("34f515e9-aa4b-44b7-8456-d7945002fb46", "Classical Masters (1999) reissues three choruses of Max's 1992 Mass"),
+    "3fa82fea-2ebe-4175-8531-f300129446b0": ("2932186e-6c6a-4902-8e91-267ce7588fe7", "a Philips sampler has the Crucifixus of Brüggen's Mass (Vredenburg, 1989)"),
+    "e690cb7f-38db-4eb0-9176-293c437435dc": ("ef2ac976-6c21-4d65-a7d0-27598d5aaa38", "Warner's Remastered Edition reissues Klemperer's only studio Mass (EMI, 1967)"),
+    "00947273-ed27-4eed-b8d3-d8bc71e22f2f": ("a1eea4bb-157b-4a97-868a-48b2d7c26d44", "Die Grössten Chorwerke (2007) reissues Jacobs's 1992 Mass"),
+    "2ea25569-b4cb-4158-8a79-98ca827ee476": ("958c34fa-04bb-45e9-8b63-9f0812a9dd15", "van Veldhoven's Channel Classics Mass (2006): an undated Domine Deus track of the same release"),
+    "e2ca916a-43fb-4246-bdbd-ddc2b9afb52a": ("1a1ac7f3-2e6c-498c-a9e8-b929e73e6858", "The Sixteen's '40' (Coro) reissues Christophers's only Mass (1994)"),
+}
+EXCLUDE_BY_SNAPSHOT["mass-in-b-minor"] = {
+    "ed3d4ff1-b8e4-42c5-b06e-0532cecd1157": "David Krehbiel's Orchestral Excerpts for Horn: a study recording of the horn part, not a performance",
+    "e39e3ed6-d441-4b5c-8cc5-bbe7d40d6abf": "Hallelujah compilation: the Gloria is Schreier's Philips Mass (Jan 1991; bach-cantatas.com) under a 1992 date; joining it would put the wrong year on the set",
+}
+OVERRIDE_BY_SNAPSHOT["mass-in-b-minor"] = {
+    "1256bb3d-ada2-4939-98bb-a6e4f7c9343b": ({"performers": [
+        {"name": "Academy of St Martin in the Fields", "role": "orchestra"}, {"name": "Academy of St Martin in the Fields Chorus", "role": "choir"},
+        {"name": "Sir Neville Marriner", "role": "conductor"}, {"name": "Margaret Marshall", "role": "soprano"},
+        {"name": "Janet Baker", "role": "mezzo-soprano"}, {"name": "Robert Tear", "role": "tenor"}, {"name": "Samuel Ramey", "role": "bass"}]},
+        "Marriner's Philips Mass (London, Nov 1977; bach-cantatas.com): Marshall, Baker, Tear and Ramey"),
+    "09bc169f-09b8-4e29-a626-f812421b98f2": ({"performers": [
+        {"name": "Bach Collegium Japan", "role": "orchestra"}, {"name": "Bach Collegium Japan Chorus", "role": "choir"},
+        {"name": "Masaaki Suzuki", "role": "conductor"}, {"name": "Carolyn Sampson", "role": "soprano"}, {"name": "Rachel Nicholls", "role": "soprano"},
+        {"name": "Robin Blaze", "role": "countertenor"}, {"name": "Gerd Türk", "role": "tenor"}, {"name": "Peter Kooy", "role": "bass"}]},
+        "Suzuki is credited as Masaaki Suzuki and as 鈴木雅明; the soloists' voices are from BIS 1701/02"),
+    "c17cb7fd-95f3-4666-90f2-ec368d370705": ({"performers": [
+        {"name": "Chicago Symphony Orchestra", "role": "orchestra"}, {"name": "Chicago Symphony Chorus", "role": "choir"},
+        {"name": "Sir Georg Solti", "role": "conductor"}, {"name": "Felicity Lott", "role": "soprano"},
+        {"name": "Anne Sofie von Otter", "role": "mezzo-soprano"}, {"name": "Hans Peter Blochwitz", "role": "tenor"},
+        {"name": "William Shimell", "role": "baritone"}, {"name": "Gwynne Howell", "role": "bass"}]},
+        "Solti's Decca Mass (Orchestra Hall, Jan 1990; bach-cantatas.com)"),
+    "b72aae1d-91ec-459d-83c6-b473333a1e0f": ({"performers": [
+        {"name": "Philharmonia Orchestra", "role": "orchestra"}, {"name": "Wiener Symphoniker", "role": "orchestra"},
+        {"name": "Wiener Singverein", "role": "choir"}, {"name": "Herbert von Karajan", "role": "conductor"},
+        {"name": "Elisabeth Schwarzkopf", "role": "soprano"}, {"name": "Marga Höffgen", "role": "contralto"},
+        {"name": "Nicolai Gedda", "role": "tenor"}, {"name": "Heinz Rehfuss", "role": "bass"}]},
+        "Karajan's EMI Mass: choruses in Vienna, Nov 1952, arias with the Philharmonia in 1953; Karajan is credited as an orchestra"),
+    "ef2ac976-6c21-4d65-a7d0-27598d5aaa38": ({"performers": [
+        {"name": "New Philharmonia Orchestra", "role": "orchestra"}, {"name": "BBC Chorus", "role": "choir"},
+        {"name": "Otto Klemperer", "role": "conductor"}, {"name": "Agnes Giebel", "role": "soprano"}, {"name": "Janet Baker", "role": "alto"},
+        {"name": "Nicolai Gedda", "role": "tenor"}, {"name": "Hermann Prey", "role": "baritone"}, {"name": "Franz Crass", "role": "bass"}]},
+        "Klemperer's 1967 EMI Mass; the Philharmonia credits come from reissue boxes"),
+    "34f515e9-aa4b-44b7-8456-d7945002fb46": ({"performers": [
+        {"name": "Rheinische Kantorei", "role": "choir"}, {"name": "Das Kleine Konzert", "role": "orchestra"}, {"name": "Hermann Max", "role": "conductor"},
+        {"name": "Veronika Winter", "role": "soprano"}, {"name": "Johanna Koslowsky", "role": "soprano"}, {"name": "Kai Wessel", "role": "countertenor"},
+        {"name": "Markus Brutscher", "role": "tenor"}, {"name": "Hans-Georg Wimmer", "role": "bass"}, {"name": "Stephan Schreckenberger", "role": "bass"}],
+        "years": [1992], "place": "Zeughaus, Neuss", "performance_practice": "historical"},
+        "Hermann Max's Capriccio Mass (Zeughaus Neuss, June 1992; bach-cantatas.com); 'The Voice' credits only the soloists"),
+    "0f0b4ac2-50d1-4d56-ab58-78c0aca399ae": ({"years": [1992]}, "Hickox's Chandos Mass was recorded in June 1992 at St Jude's (bach-cantatas.com)"),
+    "0440a3cd-737c-4be3-9844-918612c920d5": ({"years": [1999]}, "Rilling's Hänssler Edition Bachakademie Mass was recorded in March 1999 in Sindelfingen (bach-cantatas.com), not in 1993"),
+    "3e111b28-6584-4c4b-9c3a-eaaaa0f76ed5": ({"years": [1991]}, "Schreier's Philips Mass: Lukaskirche, Dresden, January 1991 (bach-cantatas.com)"),
+    "d9495a4a-fbbe-475d-a39e-41edf9723301": ({"years": [1981, 1982], "place": "Paul-Gerhardt-Kirche, Leipzig"}, "Schreier's first Mass (Eterna): Nov 1981 and Feb 1982 (bach-cantatas.com)"),
+    "8f217b43-0521-4eb2-9e58-6719b19bbe1a": ({"years": [1972]}, "Corboz's first Erato Mass: Casino de Vevey, January 1972 (bach-cantatas.com)"),
+    "f31e6e75-f933-4b87-b9c3-aeb599248398": ({"performers": [{"name": "The Bach Ensemble", "role": "ensemble"}, {"name": "Joshua Rifkin", "role": "conductor"}],
+        "performance_practice": "historical", "years": [1981, 1982], "place": "Rutgers Presbyterian Church, New York"},
+        "The Bach Ensemble is Rifkin's: his Nonesuch Mass, one voice per part (1981-82); Keith Holzman is the producer"),
+    "4f974c51-6f67-444c-a7d5-75bd3ea7db94": ({"performance_practice": "historical"}, "Bernius's Carus Mass (2004) is with the Barockorchester Stuttgart, a period group"),
+    "88012913-567f-427d-8881-2005af9f599b": ({"performers": [{"name": "Columbia Broadcasting Concert Orchestra", "role": "orchestra"},
+        {"name": "Carol Brice", "role": "contralto"}, {"name": "Daniel Saidenberg", "role": "conductor"}]}, "Carol Brice, contralto, with Saidenberg conducting"),
+    "ead95a19-c1be-4e34-af84-3d3698da650e": ({"performers": [{"name": "De Nederlandse Bachvereniging", "role": "ensemble"}, {"name": "Jos van Veldhoven", "role": "conductor"}]}, "van Veldhoven directs the Netherlands Bach Society"),
+    "fc5a5439-72f5-4126-917f-de7a2f8461cc": ({"performers": [{"name": "Thomanerchor Leipzig", "role": "choir"}, {"name": "Georg Christoph Biller", "role": "conductor"}]}, "Biller, Thomaskantor, conducts the Thomanerchor"),
+    "9daae65d-2dd9-4640-8396-29ce448b79a3": ({"performers": [
+        {"name": "Saito Kinen Orchestra", "role": "orchestra"}, {"name": "Tokyo Opera Singers", "role": "choir"}, {"name": "Seiji Ozawa", "role": "conductor"},
+        {"name": "Barbara Bonney", "role": "soprano"}, {"name": "Angelika Kirchschlager", "role": "mezzo-soprano"},
+        {"name": "John Mark Ainsley", "role": "tenor"}, {"name": "Alastair Miles", "role": "bass"}]},
+        "Ozawa is credited as Seiji Ozawa and as 小澤征爾 (Philips, Matsumoto, 2000)"),
 }
 
 OVERRIDE_BY_SNAPSHOT["clavier-ubung-iii"] = {
@@ -1096,11 +1219,12 @@ PERIOD_ENSEMBLE = re.compile(
     r"capricornus|ensemble odyss|parlement de musique|phantasm|fretwork|hesp.rion|suonar parlante|les r.cr.ations|"
     r"musica ad rhenum|ricercar consort|ausonia|ensemble diderot|aulos ensemble|basses r.unies|"
     r"vox luminis|gabrieli consort|collegium vocale|chapelle royale|orchestra of the sixteen|gaechinger cantorey|"
-    r"washington bach consort|les ambassadeurs|gioiosa marca|capella fidicinia", re.I)
+    r"washington bach consort|les ambassadeurs|gioiosa marca|capella fidicinia|"
+    r"balthasar.neumann|kleine konzert|chapelle harmonique|solomon.s knot|pygmalion|gli angeli gen|la cetra|bach-stiftung", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
 MODERN_ENSEMBLE = re.compile(r"m.nchener bach|kammerakademie potsdam|zurich baroque ensemble|^baroque chamber orchestra|"
                              r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra|"
-                             r"new bach collegium|neues bachisches", re.I)
+                             r"new bach collegium|neues bachisches|deutsche kammerakademie neuss", re.I)
 # Credits or names that mean the music was arranged for other forces (jazz trio, brass band, synthesizer …).
 ARRANGED = re.compile(r"drum|saxophone|synthesi[sz]er|moog|electric|accordion|marimba|vibraphone|tuba|"
                       r"clarinet|banjo|mandolin|ukulele|harmonica|beatbox|bass guitar|guitar", re.I)
@@ -1109,7 +1233,7 @@ ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone?)?\b(?<!manfred sax)|sw
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
                             r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi|alperin|dellarole|allhoff|joachim k.hn|"
-                            r"glorvigen|horacio franco|mehmari|symphonette|ayasa|vomitron|\bdj\b|myleene klass|richard souther|\be nomine\b", re.I)
+                            r"glorvigen|horacio franco|mehmari|symphonette|ayasa|vomitron|\bdj\b|myleene klass|richard souther|\be nomine\b|thijs van leer|lingua ignota|dominic miller|david d.or|דוד ד׳אור", re.I)
 # In orchestral works only: names of groups that are not orchestras, so play the music arranged.
 ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
                                   r"trumpet ensemble|brass|\btrio\b", re.I)
@@ -1393,6 +1517,10 @@ SELECTION_NOTE = "Linked to the whole work in MusicBrainz on a compilation: prob
 def vocal_selection(perf: dict, works: list) -> bool:
     return bool(perf["releases"]) and any(w["complete"] for w in works) \
         and not any(VOCAL_RELEASE.search(r["title"]) for r in perf["releases"])
+
+
+# Versions of one work that can share a snapshot: later version -> earlier version.
+VERSIONS = {"243": "243a"}
 
 
 def mb_links(perf: dict) -> list[dict]:
@@ -1826,6 +1954,17 @@ def main(snapshot: str) -> int:
             if not unmatched:
                 p["names"] = p["names"] + [k for k in p["roles"] if k not in named and k.lower() not in named
                                            and p["roles"][k].lower() not in ("conductor", "orchestra")]
+    # Two versions of one work in a snapshot (the Magnificat BWV 243 and its E-flat original 243a): MusicBrainz
+    # links some tracks of a recording to the other version (a D major set's "Vom Himmel hoch" to 243a's). A
+    # performance is one version: it is filed under the version most of its tracks are linked to, and on a tie
+    # under the earlier one (the letter), as a set that plays the Christmas interpolations.
+    for perf in perfs:
+        for later, early in VERSIONS.items():
+            n_late = sum(m.split(":")[0] == later for m in perf["mv"])
+            n_early = sum(m.split(":")[0] == early for m in perf["mv"])
+            if n_late and n_early:
+                keep = later if n_late > n_early else early
+                perf["mv"] = [m for m in perf["mv"] if m.split(":")[0] not in (later, early) or m.split(":")[0] == keep]
     existing = {p: r for p, r in load("recordings")}
     by_mbid = {m: p for p, r in existing.items() for m in (r.get("musicbrainz") or {}).get("recordings", [])}
 

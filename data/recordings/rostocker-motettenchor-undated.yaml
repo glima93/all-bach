@@ -12,11 +12,11 @@ arrangement: false
 recorded:
   years: []
   place: Paul-Gerhardt-Kirche
-released: null
+released: 1990
 original_label: null
 works:
-- {bwv: '243', complete: false, movements: [III. Choral Interpolation "Vom Himmel hoch", VII. Choral Interpolation
-      "Freut euch und jubiliert", X. Choral Interpolation "Gloria in excelsis Deo"]}
+- {bwv: 243a, complete: false, movements: [IIb. Coro (a-cappella) "Vom Himmel hoch", Vb. Coro "Freut euch und jubiliert",
+    VIIb. Coro "Gloria in excelsis Deo"]}
 links:
 - platform: musicbrainz
   kind: release

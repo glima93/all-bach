@@ -1,0 +1,32 @@
+id: yorkshire-baroque-soloists-undated
+performers:
+- name: Yorkshire Baroque Soloists
+  role: orchestra
+- name: Sally Bruce-Payne
+  role: mezzo-soprano
+- name: Peter Seymour
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/22fd49d8-dcd6-42de-8d7e-af68959930b6
+  title: The Classic 100 - Swoon
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9bd56f18-8bff-40c5-9511-a1d58c68ef85
+  recordings: [634d5482-7369-4dd1-be34-af6a096d52f3]

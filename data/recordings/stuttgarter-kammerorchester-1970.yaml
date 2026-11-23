@@ -1,0 +1,40 @@
+id: stuttgarter-kammerorchester-1970
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Wiener Singakademie
+  role: choir
+- name: Karl Münchinger
+  role: conductor
+- name: Elly Ameling
+  role: soprano
+- name: Werner Krenn
+  role: performer
+- name: Helen Watts
+  role: performer
+- name: Yvonne Minton
+  role: soprano
+- name: Tom Krause
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: Sofiensaal
+released: 1984
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/355d7eb7-8eaf-4b15-ae5c-dbfb65f3684d
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [7a7f8465-a56b-41aa-b838-c20e116a17d5, 7f113f10-b305-48f2-a4c3-851271abcb2a]

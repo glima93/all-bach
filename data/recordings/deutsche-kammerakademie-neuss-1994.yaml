@@ -1,0 +1,33 @@
+id: deutsche-kammerakademie-neuss-1994
+performers:
+- name: Deutsche Kammerakademie Neuss
+  role: orchestra
+- name: Karl-Friedrich Beringer
+  role: conductor
+- name: Windsbacher Knabenchor
+  role: choir
+- name: Deutsche Kammerakademie Neuss am Rhein
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f90066a-dd77-48a1-9bac-f458c2de4df9
+  title: Mass in B Minor BWV 232
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7f942c64-39d7-4d23-ae94-9cd58ce88574
+  recordings: [a4498b0f-3bcc-4a0b-8a3a-6bc9dcd96172]

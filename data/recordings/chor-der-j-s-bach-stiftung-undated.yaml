@@ -1,0 +1,32 @@
+id: chor-der-j-s-bach-stiftung-undated
+performers:
+- name: Chor der J. S. Bach-Stiftung
+  role: choir
+- name: Orchester der J. S. Bach-Stiftung
+  role: orchestra
+- name: Rudolf Lutz
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8a96b84e-4b41-463b-b67b-86ee3706374e
+  title: Messe h‐Moll, BWV 232
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 737d11dc-d9dc-4ca9-b346-8fe29da14d75
+  recordings: [0044038b-b4f7-475e-98c9-2e99063eae94]

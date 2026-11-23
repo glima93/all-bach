@@ -2,8 +2,12 @@ id: aksel-rykkvin-undated
 performers:
 - name: Aksel Rykkvin
   role: treble
+- name: Nigel Short
+  role: conductor
+- name: Orchestra of the Age of Enlightenment
+  role: orchestra
 instrument: voices-and-instruments
-performance_practice: unknown
+performance_practice: historical
 arrangement: false
 recorded:
   years: []

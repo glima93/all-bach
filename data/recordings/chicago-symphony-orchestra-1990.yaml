@@ -1,0 +1,40 @@
+id: chicago-symphony-orchestra-1990
+performers:
+- name: Chicago Symphony Orchestra
+  role: orchestra
+- name: Chicago Symphony Chorus
+  role: choir
+- name: Sir Georg Solti
+  role: conductor
+- name: Felicity Lott
+  role: soprano
+- name: Anne Sofie von Otter
+  role: mezzo-soprano
+- name: Hans Peter Blochwitz
+  role: tenor
+- name: William Shimell
+  role: baritone
+- name: Gwynne Howell
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: 'Symphony Center: Orchestra Hall'
+released: 1991
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/96a50a65-f2e8-4c88-8bfb-73e93556911a
+  title: Mass in B Minor, BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 509c772e-1164-4457-8d09-0553cfa77d64
+  recordings: [8608ab3f-c16f-4e83-a90c-7229eb6f7118, 8a5071c0-3656-4260-b3e9-dd487fd154ef, c17cb7fd-95f3-4666-90f2-ec368d370705]

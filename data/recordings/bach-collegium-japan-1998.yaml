@@ -3,15 +3,15 @@ performers:
 - name: Bach Collegium Japan
   role: ensemble
 - name: Masaaki Suzuki
-  role: performer
+  role: conductor
 - name: Miah Persson
-  role: performer
+  role: soprano
 - name: Akira Tachikawa
-  role: performer
+  role: countertenor
 - name: Gerd Türk
-  role: performer
+  role: tenor
 - name: Chiyuki Urano
-  role: performer
+  role: bass
 instrument: voices-and-instruments
 performance_practice: historical
 arrangement: false

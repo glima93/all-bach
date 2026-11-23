@@ -1,0 +1,33 @@
+id: robert-shaw-chorale-undated
+performers:
+- name: Robert Shaw Chorale
+  role: choir
+- name: Robert Shaw Orchestra
+  role: orchestra
+- name: Robert Shaw
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: [III. Sanctus, 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem:
+      III. Osanna repetatur']}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/61e066cc-518b-42b5-9ec1-f80740867e6a
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8f180909-aa78-4616-ab7c-fe0b7e4d9f75
+  recordings: [61e066cc-518b-42b5-9ec1-f80740867e6a]

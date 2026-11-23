@@ -1,0 +1,50 @@
+id: concerto-amsterdam-undated
+performers:
+- name: Concerto Amsterdam
+  role: orchestra
+- name: Laurenscantorij Rotterdam
+  role: choir
+- name: Barend Schuurman
+  role: conductor
+- name: Hieke Meppelink
+  role: soprano
+- name: Wilke te Brummelstroete
+  role: alto
+- name: Nico van der Meel
+  role: tenor
+- name: Tom Sol
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Grote of Sint-Laurenskerk
+released: 2005
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      III. Kyrie eleison', 'I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: VI. Laudamus te', 'I. Missa: VII.
+      Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis peccata mundi', 'I. Missa:
+      X. Qui sedes ad dextram Patris', 'I. Missa: XI. Quoniam tu solus Sanctus', 'I. Missa: XII. Cum Sancto Spiritu',
+    'II. Symbolum Nicenum: I. Credo in unum Deum', 'II. Symbolum Nicenum: II. Patrem omnipotentem', 'II. Symbolum
+      Nicenum: III. Et in unum Dominum', 'II. Symbolum Nicenum: IV. Et incarnatus est', 'II. Symbolum Nicenum: V.
+      Crucifixus', 'II. Symbolum Nicenum: VI. Et resurrexit', 'II. Symbolum Nicenum: VII. Et in Spiritum Sanctum
+      Dominum', 'II. Symbolum Nicenum: VIII. Confiteor', III. Sanctus, 'IV. Osanna, Benedictus, Agnus Dei, Dona
+      nobis pacem: I. Osanna in excelsis', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: II. Benedictus',
+    'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: III. Osanna repetatur', 'IV. Osanna, Benedictus, Agnus
+      Dei, Dona nobis pacem: IV. Agnus Dei', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: V. Dona nobis
+      pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b97e8283-a210-4bbf-a8c2-eafca415e022
+  title: Hohe Messe
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: c512571f-512d-4acf-9e9e-d196918f901a
+  recordings: [263fee3a-41f1-4690-baad-af6e359f88b8, d14d7a54-2d12-4cf8-a562-61f8a086b50e]

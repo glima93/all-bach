@@ -1,0 +1,51 @@
+id: philharmonia-orchestra-1952-2
+performers:
+- name: Philharmonia Orchestra
+  role: orchestra
+- name: Wiener Symphoniker
+  role: orchestra
+- name: Wiener Singverein
+  role: choir
+- name: Herbert von Karajan
+  role: conductor
+- name: Elisabeth Schwarzkopf
+  role: soprano
+- name: Marga Höffgen
+  role: contralto
+- name: Nicolai Gedda
+  role: tenor
+- name: Heinz Rehfuss
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1952, 1953]
+  place: 'Abbey Road Studios: Studio 1; Wiener Musikverein: Großer Musikvereinssaal'
+released: 2004
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      III. Kyrie eleison', 'I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: VI. Laudamus te', 'I. Missa: VII.
+      Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis peccata mundi', 'I. Missa:
+      X. Qui sedes ad dextram Patris', 'I. Missa: XI. Quoniam tu solus Sanctus', 'I. Missa: XII. Cum Sancto Spiritu',
+    'II. Symbolum Nicenum: I. Credo in unum Deum', 'II. Symbolum Nicenum: II. Patrem omnipotentem', 'II. Symbolum
+      Nicenum: III. Et in unum Dominum', 'II. Symbolum Nicenum: IV. Et incarnatus est', 'II. Symbolum Nicenum: V.
+      Crucifixus', 'II. Symbolum Nicenum: VI. Et resurrexit', 'II. Symbolum Nicenum: VII. Et in Spiritum Sanctum
+      Dominum', 'II. Symbolum Nicenum: VIII. Confiteor', 'II. Symbolum Nicenum: IX. Et expecto', III. Sanctus, 'IV.
+      Osanna, Benedictus, Agnus Dei, Dona nobis pacem: I. Osanna in excelsis', 'IV. Osanna, Benedictus, Agnus Dei,
+      Dona nobis pacem: II. Benedictus', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: III. Osanna repetatur',
+    'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei', 'IV. Osanna, Benedictus, Agnus Dei, Dona
+      nobis pacem: V. Dona nobis pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/51556e79-3626-4433-b2f1-c5aaef3d67ee
+  title: H-Moll-Messe
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [19bd583c-db74-4ac5-954b-6fe33e81ad0d, b72aae1d-91ec-459d-83c6-b473333a1e0f, bf993bde-433d-44be-b0e6-752f5c342e16]

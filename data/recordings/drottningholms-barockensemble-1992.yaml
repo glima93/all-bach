@@ -1,0 +1,38 @@
+id: drottningholms-barockensemble-1992
+performers:
+- name: Drottningholms Barockensemble
+  role: orchestra
+- name: Eric Ericsons Kammarkör
+  role: choir
+- name: Eric Ericson
+  role: conductor
+- name: Barbara Bonney
+  role: soprano
+- name: Monica Groop
+  role: performer
+- name: Klas Hedlund
+  role: performer
+- name: Gunnar Lundberg
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1992]
+  place: Berwaldhallen
+released: 1992
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/41953a9d-ae5e-4b43-bec0-924ec77353b4
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 07fed070-218e-42bb-b0f4-37efae12fc7c
+  recordings: [0737213a-497b-48ca-81e9-9978bd04c7b7, d4f4ef6a-9dca-4f43-b52a-bb0e6b98c14c]

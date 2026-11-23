@@ -1,0 +1,53 @@
+id: la-cetra-basel-2023
+performers:
+- name: La Cetra Basel
+  role: orchestra
+- name: Andrea Marcon
+  role: conductor
+- name: Miriam Feuersinger
+  role: soprano
+- name: Carlos Mena
+  role: countertenor
+- name: Hana Blažíková
+  role: soprano
+- name: Jakob Pilgram
+  role: tenor
+- name: Tobias Berndt
+  role: bass
+- name: La Cetra Vokalensemble
+  role: choir
+- name: La Cetra Barockorchester Basel
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2023]
+  place: Martinskirche
+released: 2024
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      III. Kyrie eleison', 'I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: V. Et in terra pax', 'I. Missa: VI.
+      Laudamus te', 'I. Missa: VII. Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis
+      peccata mundi', 'I. Missa: X. Qui sedes ad dextram Patris', 'I. Missa: XI. Quoniam tu solus Sanctus', 'I.
+      Missa: XII. Cum Sancto Spiritu', 'II. Symbolum Nicenum: I. Credo in unum Deum', 'II. Symbolum Nicenum: II.
+      Patrem omnipotentem', 'II. Symbolum Nicenum: IV. Et incarnatus est', 'II. Symbolum Nicenum: V. Crucifixus',
+    'II. Symbolum Nicenum: VI. Et resurrexit', 'II. Symbolum Nicenum: VII. Et in Spiritum Sanctum Dominum', 'II.
+      Symbolum Nicenum: VIII. Confiteor', 'II. Symbolum Nicenum: IX. Et expecto', III. Sanctus, 'IV. Osanna, Benedictus,
+      Agnus Dei, Dona nobis pacem: I. Osanna in excelsis', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem:
+      II. Benedictus', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: III. Osanna repetatur', 'IV. Osanna,
+      Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem:
+      V. Dona nobis pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/11c471b5-5ea4-4ec4-af15-c6293713f149
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0f8a79ba-8a22-4704-8f91-540a0dfe465c
+  recordings: [a17021b7-f476-4c44-be72-4480b3c7df08]

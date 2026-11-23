@@ -1,0 +1,40 @@
+id: symphonieorchester-des-bayerischen-rundfunks-1994
+performers:
+- name: Symphonieorchester des Bayerischen Rundfunks
+  role: orchestra
+- name: Chor des Bayerischen Rundfunks
+  role: choir
+- name: Carlo Maria Giulini
+  role: conductor
+- name: Ruth Ziesak
+  role: soprano
+- name: Jard van Nes
+  role: performer
+- name: Roberta Alexander
+  role: soprano
+- name: Keith Lewis
+  role: performer
+- name: David Wilson‐Johnson
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: Herkulessaal
+released: 1994
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/09b37154-d68c-46de-b818-3ec77bf19bb0
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 59cf9a49-c3b2-4388-8717-4fb836cc7269
+  recordings: [ba1b5080-5ad7-4a9c-8dd5-127dcf676c1f, d5e3203e-d99e-4f3d-90ef-4eb7e977dd12]

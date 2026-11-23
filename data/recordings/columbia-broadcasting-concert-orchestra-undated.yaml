@@ -2,10 +2,10 @@ id: columbia-broadcasting-concert-orchestra-undated
 performers:
 - name: Columbia Broadcasting Concert Orchestra
   role: orchestra
-- name: Carol Brice
-  role: performer
 - name: Daniel Saidenberg
-  role: performer
+  role: conductor
+- name: Carol Brice
+  role: contralto
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false

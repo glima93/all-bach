@@ -1,0 +1,38 @@
+id: apollo-s-fire-2025
+performers:
+- name: Apollo’s Fire
+  role: orchestra
+- name: Jeannette Sorrell
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2025]
+  place: Trinity Cathedral
+released: 2026
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      III. Kyrie eleison', 'I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: V. Et in terra pax', 'I. Missa: VI.
+      Laudamus te', 'I. Missa: VII. Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis
+      peccata mundi', 'I. Missa: X. Qui sedes ad dextram Patris', 'I. Missa: XI. Quoniam tu solus Sanctus', 'I.
+      Missa: XII. Cum Sancto Spiritu', 'II. Symbolum Nicenum: I. Credo in unum Deum', 'II. Symbolum Nicenum: II.
+      Patrem omnipotentem', 'II. Symbolum Nicenum: III. Et in unum Dominum', 'II. Symbolum Nicenum: IV. Et incarnatus
+      est', 'II. Symbolum Nicenum: V. Crucifixus', 'II. Symbolum Nicenum: VI. Et resurrexit', 'II. Symbolum Nicenum:
+      VII. Et in Spiritum Sanctum Dominum', 'II. Symbolum Nicenum: VIII. Confiteor', 'II. Symbolum Nicenum: IX.
+      Et expecto', III. Sanctus, 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: I. Osanna in excelsis', 'IV.
+      Osanna, Benedictus, Agnus Dei, Dona nobis pacem: II. Benedictus', 'IV. Osanna, Benedictus, Agnus Dei, Dona
+      nobis pacem: IV. Agnus Dei', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: V. Dona nobis pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82d7bf91-a946-4f3c-9c97-dca6b033fef8
+  title: Mass in B minor, BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4fd0447c-c25a-4fbe-ac5b-c5b8ddc375ba
+  recordings: [3239b521-47ce-45b3-9418-e3f9bf18fc7b]

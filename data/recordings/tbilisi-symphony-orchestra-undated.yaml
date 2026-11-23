@@ -1,0 +1,35 @@
+id: tbilisi-symphony-orchestra-undated
+performers:
+- name: Tbilisi Symphony Orchestra
+  role: orchestra
+- name: Simi Studio Choir
+  role: choir
+- name: Djansug Kakhidze
+  role: conductor
+- name: Vakhtang Kakhidze
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['II. Symbolum Nicenum: V. Crucifixus', 'II. Symbolum Nicenum: VI. Et
+      resurrexit']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b080e461-fab7-4739-ac40-b99b85ebd67c
+  title: 'Classical Masterpieces: The Best of Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: aa45b4df-c4af-4e8a-9259-9d1c6c3bff41
+  recordings: [4784693d-cb71-469b-914e-52251bef40e8, 9fd98ce1-1d5a-4989-84c0-2782a1be3176]

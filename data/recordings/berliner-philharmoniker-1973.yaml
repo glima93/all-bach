@@ -1,0 +1,40 @@
+id: berliner-philharmoniker-1973
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Wiener Singverein
+  role: choir
+- name: Herbert von Karajan
+  role: conductor
+- name: Christa Ludwig
+  role: soprano
+- name: Gundula Janowitz
+  role: soprano
+- name: Peter Schreier
+  role: performer
+- name: Karl Ridderbusch
+  role: performer
+- name: Robert Kerns
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973, 1974]
+  place: Berliner Philharmonie
+released: 1974
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/612d8fde-4127-40a5-a193-98a275aa6818
+  title: H-Moll-Messe
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [5ddfcd8a-17b6-4f97-bc35-c16dbcf8002f, 743d5963-4858-40bf-b2cd-942e46ada1ab]

@@ -1,0 +1,40 @@
+id: das-kleine-konzert-1991
+performers:
+- name: Das Kleine Konzert
+  role: orchestra
+- name: Rheinische Kantorei
+  role: choir
+- name: Hermann Max
+  role: conductor
+- name: Martina Lins
+  role: performer
+- name: Lena Susanne Norin
+  role: performer
+- name: Mona Spägele
+  role: soprano
+- name: Hans-Georg Wimmer
+  role: performer
+- name: Markus Brutscher
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1991]
+  place: Zeughaus Neuss
+released: 1998
+original_label: null
+works:
+- {bwv: 243a, complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7b2e1f6b-7080-4cb0-abae-5de3bbcca9b9
+  title: 'Bach: Magnificat / Vivaldi: Gloria'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d8217994-33bc-45dc-89d7-4a660373c18f
+  recordings: [05b55aef-3527-479d-bb2b-eb08a9834b7e, 078b85dc-9a87-456f-af29-80737a35ea8c]

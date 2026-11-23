@@ -1,0 +1,40 @@
+id: munchener-bach-orchester-1961-2
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Münchener Bach‐Chor
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Hertha Töpper
+  role: alto
+- name: Maria Stader
+  role: soprano
+- name: Ernst Haefliger
+  role: performer
+- name: Kieth Engen
+  role: performer
+- name: Dietrich Fischer‐Dieskau
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: Hochschule für Musik und Theater München
+released: 1961
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7b688e22-463b-419d-8a9f-5daa1d7fbcec
+  title: Messe in h‐moll
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [7eb61cd9-f608-4d39-b0d2-77055b9762c8, b065bb53-5b2a-40ed-9d77-7379b8f2ef18]

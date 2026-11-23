@@ -8,6 +8,8 @@ performers:
   role: conductor
 - name: Coro della Radiotelevisione Svizzera
   role: choir
+- name: Ensemble Vanitas
+  role: orchestra
 instrument: voices-and-instruments
 performance_practice: historical
 arrangement: false

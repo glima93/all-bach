@@ -1,0 +1,30 @@
+id: munchner-philharmoniker-1990
+performers:
+- name: Münchner Philharmoniker
+  role: orchestra
+- name: Sergiu Celibidache
+  role: conductor
+- name: Bach Choir of The Johannes Gutenberg University
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: Philharmonie im Gasteig
+released: 2004
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/96419387-e17d-4842-89aa-82cb0d0a8b79
+  title: Mass In B Minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: daa4b4a7-0bcc-4f3b-a243-41cd97dd8477
+  recordings: [8cf4515b-097a-4f7e-872e-d520a8f31672]

@@ -1,0 +1,32 @@
+id: orchestra-of-the-antipodes-2003
+performers:
+- name: Orchestra of the Antipodes
+  role: orchestra
+- name: Sara Macliver
+  role: soprano
+- name: Sally-Anne Russell
+  role: alto
+- name: Antony Walker
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Eugene Goossens Hall, ABC Centre
+released: 2003
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: II. Christe eleison']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6f0c81d9-3006-41d7-b3bc-3bcb6fcd01b0
+  title: Arias & Duets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bb991732-f9ac-4396-bc66-e13793250056
+  recordings: [8b66b813-8ab3-4a07-aa08-bf933261f43c]

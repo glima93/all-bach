@@ -1,0 +1,28 @@
+id: dunedin-consort-2009
+performers:
+- name: Dunedin Consort
+  role: orchestra
+- name: John Butt
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: Greyfriars Kirk
+released: 2010
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fdf99358-9825-40e2-ba20-06eb2a2b2320
+  title: Mass in B Minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1cca9a39-48c5-48f8-9710-969f81c4d319
+  recordings: [13c807e4-21e1-40a5-9f14-9f50c886e467]

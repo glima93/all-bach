@@ -1,0 +1,28 @@
+id: de-nederlandse-bachvereniging-2016-2
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Jos van Veldhoven
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Grote Kerk
+released: null
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/ead95a19-c1be-4e34-af84-3d3698da650e
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [ead95a19-c1be-4e34-af84-3d3698da650e]

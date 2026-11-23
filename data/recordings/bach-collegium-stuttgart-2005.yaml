@@ -1,0 +1,42 @@
+id: bach-collegium-stuttgart-2005
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: Marlis Petersen
+  role: soprano
+- name: Stella Doufexis
+  role: soprano
+- name: Lothar Odinius
+  role: performer
+- name: Anke Vondung
+  role: performer
+- name: Franz-Josef Selig
+  role: performer
+- name: Christian Gerhaher
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2005]
+  place: Edwin Scharff Museum
+released: null
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/49942cee-da3f-422d-8caf-580e133233fa
+  title: Mass In B Minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [59de8aff-9159-463f-99be-e8a5b57d7521, cf3a0c2f-ab10-4c34-afa4-0060a965cc62]

@@ -1,0 +1,32 @@
+id: les-arts-florissants-undated
+performers:
+- name: Les Arts Florissants
+  role: orchestra
+- name: Paul Agnew
+  role: tenor
+- name: William Christie
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: II. Benedictus']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/02f72102-c9a6-4ba7-baf1-89d64d97ac58
+  title: '40'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8dba5ace-9224-4b1c-aa84-dcfcf2ac59b7
+  recordings: [9f5afc4c-6533-4b31-aec3-1dea657bdd1b]

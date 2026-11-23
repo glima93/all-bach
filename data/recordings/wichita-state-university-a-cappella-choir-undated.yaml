@@ -1,0 +1,30 @@
+id: wichita-state-university-a-cappella-choir-undated
+performers:
+- name: Wichita State University A Cappella Choir
+  role: choir
+- name: Tom Wine
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: IV. Gloria in excelsis Deo']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f9716af2-8b9e-4aec-aa3f-f7a728bcf0a5
+  title: Wichita State University 54th Annual Candlelight Concert
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 775cd609-03c0-4336-925c-d885d7a1f90e
+  recordings: [39fbbb1f-f5ea-4552-a910-09ab42446bc1]

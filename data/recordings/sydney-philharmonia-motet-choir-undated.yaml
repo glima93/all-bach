@@ -10,6 +10,8 @@ performers:
   role: conductor
 - name: Sydney Philharmonia Symphonic Chorus
   role: choir
+- name: Sydney Philharmonia Orchestra
+  role: orchestra
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false

@@ -1,0 +1,38 @@
+id: ensemble-pygmalion-2024
+performers:
+- name: Ensemble Pygmalion
+  role: orchestra
+- name: Raphaël Pichon
+  role: conductor
+- name: Julie Roset
+  role: performer
+- name: Lucile Richardot
+  role: performer
+- name: Beth Taylor
+  role: performer
+- name: Emiliano Gonzalez‐Toro
+  role: performer
+- name: Christian Immler
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2024]
+  place: Église Notre‐Dame du Liban
+released: null
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d975c686-bc6d-468d-a912-d079faca8495
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a62aaaee-e9ec-403f-b7f1-274a5e46adb1
+  recordings: [6424151b-0712-4e4e-ba93-f356093d94df]

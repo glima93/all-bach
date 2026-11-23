@@ -1,0 +1,60 @@
+id: paul-kuentz-undated
+performers:
+- name: Paul Kuentz
+  role: conductor
+- name: Jean-Louis Gil
+  role: organ
+- name: Dorothea Brinkmann
+  role: alto
+- name: Danielle Charpentier
+  role: soprano
+- name: Francis Bardot
+  role: tenor
+- name: Pierre-Alain Biget
+  role: flute
+- name: Monique Frasca-Colombier
+  role: violin
+- name: Pierre D'Hollander
+  role: bass
+- name: Marie-Aymée Malaquin
+  role: cello
+- name: Louis Lantoine
+  role: horn
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1975
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      III. Kyrie eleison', 'I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: VI. Laudamus te', 'I. Missa: VII.
+      Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis peccata mundi', 'I. Missa:
+      X. Qui sedes ad dextram Patris', 'I. Missa: XI. Quoniam tu solus Sanctus', 'I. Missa: XII. Cum Sancto Spiritu',
+    'II. Symbolum Nicenum: I. Credo in unum Deum', 'II. Symbolum Nicenum: II. Patrem omnipotentem', 'II. Symbolum
+      Nicenum: III. Et in unum Dominum', 'II. Symbolum Nicenum: IV. Et incarnatus est', 'II. Symbolum Nicenum: V.
+      Crucifixus', 'II. Symbolum Nicenum: VI. Et resurrexit', 'II. Symbolum Nicenum: VII. Et in Spiritum Sanctum
+      Dominum', 'II. Symbolum Nicenum: VIII. Confiteor', III. Sanctus, 'IV. Osanna, Benedictus, Agnus Dei, Dona
+      nobis pacem: I. Osanna in excelsis', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: II. Benedictus',
+    'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: III. Osanna repetatur', 'IV. Osanna, Benedictus, Agnus
+      Dei, Dona nobis pacem: IV. Agnus Dei', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: V. Dona nobis
+      pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b11546a2-c3f0-45c5-b5cb-22da865444c3
+  title: Messe en si
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 1c640f3f-c974-4ac6-96d7-2e18db001d20
+  recordings: [2acbe408-9907-4057-955b-4442b459c163, 34079750-3f8f-4312-a337-3d09b96c7597, 425b0ace-6a92-4e8a-92dc-73f7e99b16bd,
+    475a03f8-579a-450b-be2d-c76ad42621aa, 5137c281-e0d6-42e2-950e-8c93352fc92f, 7306013d-e37c-47fc-831d-f3ca0caadf48,
+    7d1fb08a-2a65-406f-8815-06bd207fa213, 9cfc0676-6e1e-4356-888d-78d07e133d5e, ddee3e1f-8082-48e7-8bdb-75211a06ce43,
+    fdbc3645-7566-401c-b21e-d15c6404244b]
