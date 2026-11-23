@@ -1,0 +1,36 @@
+id: gewandhausorchester-leipzig-undated-3
+performers:
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Thomanerchor
+  role: choir
+- name: Kurt Thomas
+  role: conductor
+- name: Agnes Giebel
+  role: soprano
+- name: Thomanerchor Leipzig
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '243', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de73ecfc-c40a-48a5-b2ba-40d6bb035543
+  title: 'Laudate Dominum: Berühmte Arien und Chöre'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [62b212b0-a999-471c-a40b-fd4ec5463574, db696286-c7a4-42cd-a740-0a8c0a583933]

@@ -1,0 +1,28 @@
+id: aksel-rykkvin-undated
+performers:
+- name: Aksel Rykkvin
+  role: treble
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [III. Aria (Sopran I) "Quia respexit"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fddeee50-bf9a-4ca4-9cf1-4b63017fe599
+  title: Arias by Bach, Handel and Mozart
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1a2262d2-957a-4f62-be20-c9417b13102c
+  recordings: [6f15ce34-e80c-4671-b9f8-30609e052600]

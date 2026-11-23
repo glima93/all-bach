@@ -1,0 +1,43 @@
+id: ricercar-consort-2009
+performers:
+- name: Ricercar Consort
+  role: orchestra
+- name: Philippe Pierlot
+  role: conductor
+- name: Maria Keohane
+  role: soprano
+- name: Stephan MacLeod
+  role: bass
+- name: Hans-Jörg Mammel
+  role: tenor
+- name: Carlos Mena
+  role: alto
+- name: Anna Zander
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/24962ecd-e032-4a91-86d0-f75328a8932d
+  title: Magnificat
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6264b98d-4ddc-4b96-a79d-18f53394a99e
+  recordings: [1134e9ad-fb6f-4e6f-915f-693133240537]

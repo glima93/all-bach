@@ -1,0 +1,61 @@
+id: orchestre-de-chambre-de-lausanne-1971
+performers:
+- name: Orchestre de Chambre de Lausanne
+  role: orchestra
+- name: Ensemble Vocal de Lausanne
+  role: choir
+- name: Maurice André
+  role: trumpet
+- name: André Besançon
+  role: trumpet
+- name: Jean-Claude Blanc
+  role: trumpet
+- name: Marianne Cart
+  role: flute
+- name: Edmond Defrancesco
+  role: flute
+- name: Edgar Fischer
+  role: cello
+- name: Christiane Jaccottet
+  role: harpsichord
+- name: Michael Kühn
+  role: oboe
+- name: André Luy
+  role: organ
+- name: Michel Corboz
+  role: conductor
+- name: Olivier Dufour
+  role: performer
+- name: Yvonne Perrin
+  role: soprano
+- name: Wally Staempfli
+  role: performer
+- name: Philippe Huttenlocher
+  role: performer
+- name: Claudine Perret
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1971]
+  place: Casino de Vevey
+released: 2022
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/52fbba97-bbaf-4e5e-be21-20abd43aa2b9
+  title: 'The Complete Erato Recordings: Baroque & Renaissance Eras'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9cf920f-3b1d-4577-a104-5a3d462cefa6
+  recordings: [846d2631-b4c6-438e-bf6b-ec2743f41c57, f972896a-3357-4d73-b604-198762edce3b]

@@ -1,0 +1,31 @@
+id: elzbieta-towarnicka-undated
+performers:
+- name: Elżbieta Towarnicka
+  role: soprano
+- name: Marek Stefański
+  role: organ
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [III. Aria (Sopran I) "Quia respexit"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/885d00e3-9652-4f10-ad6d-d99c73b63d2c
+  title: sing & moovie
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9c8365e9-fc7d-4f0f-821c-628549718177
+  recordings: [4623805d-5d12-4ac7-9747-689447df2e39]

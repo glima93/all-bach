@@ -1,0 +1,34 @@
+id: academy-of-st-martin-in-the-fields-1976-2
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Sir Philip Ledger
+  role: performer
+- name: Choir of King's College, Cambridge
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: King’s College Chapel
+released: 1988
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit Israel"', XI. Coro "Sicut locutus est",
+    XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c0c89d03-6a92-46e7-999c-90d263c93b99
+  title: Magnificat
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [979b521a-5e86-4c4e-8c02-3608adad3498, df414f55-7789-46a5-8dac-d8882fd6730f]

@@ -1,0 +1,40 @@
+id: new-york-philharmonic-1959
+performers:
+- name: New York Philharmonic
+  role: orchestra
+- name: Leonard Bernstein
+  role: conductor
+- name: Charles Bressler
+  role: performer
+- name: Jennie Tourel
+  role: soprano
+- name: Russell Oberlin
+  role: performer
+- name: Norman Farrow
+  role: performer
+- name: Lee Venora
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959, 1962]
+  place: CBS 30th Street Studio
+released: 1998
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [II. Aria (Sopran II) "Et exsultavit spiritus meus", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VIII. Aria (Tenor) "Deposuit potentes", IX.
+      Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit Israel"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e629643a-e365-4bb4-a8c9-bd5397888a6f
+  title: Magnificat / Easter Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7cdb68bc-c4f1-4a92-9bd2-739641c5eff0
+  recordings: [61728dd5-630a-4ba2-b685-74404723942f, 913ead1d-b5a0-4874-ba10-b14337d939bf]

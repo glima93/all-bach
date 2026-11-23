@@ -1,0 +1,42 @@
+id: gaechinger-cantorey-2020
+performers:
+- name: Gaechinger Cantorey
+  role: choir
+- name: Hans-Christoph Rademann
+  role: conductor
+- name: Marie Henriette Reinhold
+  role: performer
+- name: Miriam Feuersinger
+  role: performer
+- name: Patrick Grahl
+  role: performer
+- name: Markus Eiche
+  role: performer
+- name: Anja Scherg
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Forum am Schlosspark
+released: 2022
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb0abd35-c0e9-4ea2-b787-b21b354c8486
+  title: Magnificat
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [2a37079a-9fea-4a71-b2eb-f59547151a5c]

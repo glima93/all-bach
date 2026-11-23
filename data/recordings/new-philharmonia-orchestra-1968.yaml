@@ -1,0 +1,41 @@
+id: new-philharmonia-orchestra-1968
+performers:
+- name: New Philharmonia Orchestra
+  role: orchestra
+- name: Daniel Barenboim
+  role: conductor
+- name: New Philharmonia Chorus
+  role: choir
+- name: Thomas Hemsley
+  role: bass
+- name: Anne Pashley
+  role: soprano
+- name: Lucia Popp
+  role: soprano
+- name: Robert Tear
+  role: tenor
+- name: Philharmonia Chorus
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1968]
+  place: null
+released: 1970
+original_label: null
+works:
+- {bwv: '243', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/03bff10d-3d38-4b47-b19c-bb8c45a6c551
+  title: 'Bach: Magnificat / Bruckner: Te Deum'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [00205889-dd91-40d6-a619-d938bced3a51, c50195eb-c706-41f9-a4b4-066341adea38]

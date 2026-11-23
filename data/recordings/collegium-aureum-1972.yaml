@@ -1,0 +1,88 @@
+id: collegium-aureum-1972
+performers:
+- name: Collegium Aureum
+  role: orchestra
+- name: Tölzer Knabenchor
+  role: choir
+- name: Gerhard Schmidt‐Gaden
+  role: conductor
+- name: Andreas Stein
+  role: voice
+- name: Peter Hinterreiter
+  role: soprano
+- name: Walter Gampert
+  role: treble
+- name: Theo Altmeyer
+  role: tenor
+- name: Siegmund Nimsgern
+  role: bass
+- name: Ulrich Beetz
+  role: violin
+- name: Franz Beyer
+  role: viola
+- name: Pieter Dolk
+  role: trumpet
+- name: Max Engel
+  role: cello
+- name: Jürgen Fichtner
+  role: double bass
+- name: Emil Herrmann
+  role: trumpet
+- name: Helmut Hucke
+  role: oboe
+- name: Günther Höller
+  role: flute
+- name: Friedrich C. Krebs
+  role: oboe
+- name: Barthold Kuijken
+  role: flute
+- name: Franz Lehrndorfer
+  role: organ
+- name: Franzjosef Maier
+  role: violin
+- name: Rudolf Mandalka
+  role: cello
+- name: Peter Mauruschat
+  role: bassoon
+- name: Ruth Neilen
+  role: violin
+- name: Wolfgang Neininger
+  role: violin
+- name: Werner Neuhaus
+  role: violin
+- name: Ralph Peinkofer
+  role: timpani
+- name: Hans‐Georg Renner
+  role: oboe
+- name: Karlheinz Steeb
+  role: viola
+- name: Kurt Christian Stier
+  role: violin
+- name: Edward H. Tarr
+  role: trumpet
+- name: Günter Vollmer
+  role: violin
+- name: Doris Wolff-Malm
+  role: violin
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1972]
+  place: St. Jakob Lenggries
+released: 1979
+original_label: null
+works:
+- {bwv: '243', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/686846d5-f94a-4536-8954-6b0960018f0f
+  title: Magnificat
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2cdc12f9-aae5-4b64-a769-6448f2c1c586
+  recordings: [14b731ac-d661-41a5-bcfa-ca26209ea6c3, 52eb45ba-425f-4a0f-821a-2a67291b0738, a848dd14-3a68-43db-a3d2-e20ab2e5f66b]

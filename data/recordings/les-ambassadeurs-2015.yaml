@@ -1,0 +1,32 @@
+id: les-ambassadeurs-2015
+performers:
+- name: Les Ambassadeurs
+  role: orchestra
+- name: Adrien La Marca
+  role: viola
+- name: Christian-Pierre La Marca
+  role: cello
+- name: Alexis Kossenko
+  role: conductor
+instrument: viola
+performance_practice: modern
+arrangement: true
+recorded:
+  years: [2015]
+  place: Salle Colonne
+released: 2016
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: ['VI. Aria (Alt, Tenor) "Et misericordia"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b65a8b75-d2a3-4ecf-9b26-1efc6bd78d09
+  title: Cantus
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 91ef0552-e5a4-44da-baef-4a2043cad302
+  recordings: [7b2db7d7-d998-4385-8594-82d7b6de4be9]

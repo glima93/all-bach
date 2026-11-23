@@ -1,0 +1,52 @@
+id: concerto-de-bassus-2017
+performers:
+- name: Concerto de Bassus
+  role: ensemble
+- name: Franz Hauk
+  role: conductor
+- name: Siri Karoline Thornhill
+  role: performer
+- name: Mira Graczyk
+  role: performer
+- name: Sophia Körber
+  role: performer
+- name: Anna Karmasin
+  role: performer
+- name: Theresa Holzhauser
+  role: performer
+- name: Florence Losseau
+  role: performer
+- name: Markus Schäfer
+  role: performer
+- name: Robert Sellier
+  role: performer
+- name: Andreas Mattersberger
+  role: performer
+- name: Niklas Mallmann
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Kongregationssaal
+released: 2019
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/101342be-bac6-4cf5-b337-5cb9830f6408
+  title: 'Bach: Magnificat / Helmschrott: Lumen'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 996e4af2-2450-4da8-9ad3-1c99c65fc4b3
+  recordings: [6c4b21aa-1587-44d0-b4f3-ec7b45d113c3]

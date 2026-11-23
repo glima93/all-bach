@@ -1,0 +1,40 @@
+id: bach-collegium-stuttgart-1979
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: Helen Watts
+  role: alto
+- name: Arleen Augér
+  role: performer
+- name: Albert Krause
+  role: tenor
+- name: Ann Murray
+  role: soprano
+- name: Philippe Huttenlocher
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979]
+  place: Gedächtniskirche Stuttgart
+released: 1985
+original_label: null
+works:
+- {bwv: '243', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/23d627fb-0e4e-47e1-963f-126cc231cdea
+  title: Magnificat BWV 243, Schemelli Song Book
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [68360034-83e8-4a36-bb50-7369fc305d3a, c0c1bc22-8c50-4ad9-9e68-d4465c95ee13, cef31b71-1cd0-45e1-9fc1-7517a8291faf]

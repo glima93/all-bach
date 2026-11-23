@@ -1,0 +1,32 @@
+id: gabrieli-consort-players-2000
+performers:
+- name: Gabrieli Consort & Players
+  role: orchestra
+- name: Paul McCreesh
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Ev.-Luth. Kirche - St. Michaelis
+released: 2001
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e622cba4-ecd9-4ce8-9a62-6d0dc933d6f3
+  title: Magnificat / Easter Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1cb79018-6057-4fc6-b155-143b9fd91b11
+  recordings: [9093bd07-79e9-476b-8fa1-841dc13f8e3b]

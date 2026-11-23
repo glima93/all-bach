@@ -1,0 +1,32 @@
+id: coro-della-radio-svizzera-1994
+performers:
+- name: Coro della Radio Svizzera, Lugano
+  role: choir
+- name: Sonatori de la Gioiosa Marca
+  role: ensemble
+- name: Diego Fasolis
+  role: conductor
+- name: Coro della Radiotelevisione Svizzera
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: Chiesa di San Francesco d'Assisi
+released: 1999
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6598798d-8d71-4a28-81e7-767a6241702e
+  title: Jesus
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9662a66b-3e8d-43ce-a598-3593a0d7718d
+  recordings: [c2b5252e-97f8-4f62-876b-964294b74514]

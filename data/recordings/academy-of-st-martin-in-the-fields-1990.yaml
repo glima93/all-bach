@@ -1,0 +1,48 @@
+id: academy-of-st-martin-in-the-fields-1990
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Sir Neville Marriner
+  role: conductor
+- name: Philip Ledger
+  role: performer
+- name: Ann Murray
+  role: mezzo-soprano
+- name: Uwe Heilmann
+  role: performer
+- name: Jean Rigby
+  role: performer
+- name: Felicity Palmer
+  role: performer
+- name: Stephen Roberts
+  role: performer
+- name: Helen Watts
+  role: performer
+- name: Academy of St. Martin in the Fields Chorus
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: 'Abbey Road Studios: Studio 1'
+released: 1995
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/12575ddf-a5ff-48b0-a105-c5b00ffc828e
+  title: 'J. S. Bach: Magnificat / Vivaldi: Gloria'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [1402a1cb-254c-42fc-8cba-a0feb2bc75f8, 169428d2-718d-4bb8-9f61-9e630acfc991]

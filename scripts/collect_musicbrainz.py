@@ -46,7 +46,10 @@ API = "https://musicbrainz.org/ws/2/"
 # Version 5: skipped candidates name the works they arrange.
 # Version 6: "Choralbearbeitung" is not an arrangement; numbered BWV³ versions (BWV 659.2) are found, the
 # latest kept.
-COLLECTOR_VERSION = 6
+# Version 7 (run 22): the title search asks for 100 works, not 25. A large vocal work's movements probably ("h-Moll-Messe,
+# BWV 232: I. Missa: I. Kyrie eleison") fill the first 25 results, so the Mass in B minor came out with no work
+# at all (collected 21 Nov 2026: 0 works). Its parent-work title is then found further down.
+COLLECTOR_VERSION = 7
 UA = "AllBach/0.2 ( https://github.com/glima93/all-bach )"
 GROUPS = ["Orchestra", "Group", "Choir"]
 # Modes whose performances are grouped by the orchestra, ensemble or choir when one is credited.
@@ -156,7 +159,7 @@ class Collector:
         movements of other works out."""
         def get():
             q = f'"BWV {bwv}" AND arid:{BACH}'
-            res = self.mb("work?query=" + requests.utils.quote(q) + "&limit=25")
+            res = self.mb("work?query=" + requests.utils.quote(q) + "&limit=100")
             # A range ("BWV 972–987") names a set of works, not this one.
             pat = re.compile(rf"BWV\s*{bwv}(?![0-9a-z./]|\s*[–-]\s*\d)", re.I)
             cands = []
@@ -166,7 +169,7 @@ class Collector:
                     continue
                 cands.append({"id": w["id"], "title": w["title"], "score": w.get("score", 0)})
             return cands[:6]
-        cands = self.cached("search:" + bwv, get)
+        cands = self.cached("search100:" + bwv, get)
 
         # The new BWV numbering (BWV³) splits versions as <n>.1, <n>.2 …: MusicBrainz files the Leipzig
         # version of BWV 659 as "BWV 659.2", which the phrase search for "BWV 659" does not find.

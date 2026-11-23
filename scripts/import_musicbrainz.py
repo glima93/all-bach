@@ -333,6 +333,13 @@ JOIN_BY_SNAPSHOT = {
 # years (or all undated) are one performance; performers are the union, the row with most movements first.
 JOIN_BY_RELEASE = {
   "musical-offering": "each movement has its own line-up, so the collector split recorded sets by line-up",
+  # Vocal works (run 22): MusicBrainz credits the choruses to choir, orchestra and conductor and the arias to
+  # the orchestra and the soloists, so the collector splits one recorded performance into a choir row and an
+  # orchestra row. Every vocal snapshot belongs here.
+  "magnificat": "choruses and arias have different line-ups, so the collector split each performance in two",
+  "mass-in-b-minor": "choruses and arias have different line-ups, so the collector splits each performance",
+  "passions": "choruses, chorales, recitatives and arias have different line-ups",
+  "oratorios": "choruses, chorales, recitatives and arias have different line-ups",
 }
 # Chamber sets the collector splits by line-up (the solo partita, the sonatas with keyboard, the continuo sonatas
 # with a cellist or gambist added): rows on the same release, with the same recording years and the same solo
@@ -940,6 +947,36 @@ JOIN_BY_SNAPSHOT["clavier-ubung-iii"] = {
     "b8c3f204-2667-4fc9-9ca0-b08e21221d29": ("46e6b697-1664-42bb-8d05-f39610a340d5", "Fagius's Complete Organ Music box (BIS, 2005; no artist credited on the row) reissues his Bach Edition Clavier-Übung III, Fredrikskyrkan 1989 (as his boxes in runs 17-20)"),
     "116275d4-f934-49d9-80bc-589c5842d7ea": ("7d976c5b-1389-4dd5-89f1-68aabc7621bc", "Rilling's A Book of Chorale-Settings (Hänssler): the organ preludes on every volume are Gerhard Gnann's, recorded 1998-99 (as in run 19)"),
 }
+JOIN_BY_SNAPSHOT["magnificat"] = {
+    "c55098a2-ef95-4006-95a3-a4cb2e38c96b": ("7caf38bf-dc13-4c02-9731-81433ad2c79c",
+        "Gloria: Classical Music for Reflection and Meditation reissues one chorus of Summerly's Naxos Magnificat (Schola Cantorum of Oxford, Northern Chamber Orchestra, 1993); the release title is not an arrangement"),
+    "885fa26f-3cb1-4f59-84e6-b50698e35040": ("7caf38bf-dc13-4c02-9731-81433ad2c79c", "Naxos Life and Works reissues Ward and Summerly's Naxos Magnificat (1993)"),
+    # Checker, run 22: performances split over a compilation and the original album, or by a dated and an undated row.
+    "32affc21-e2d5-4d29-93bb-71131513646d": ("deaf19c0-16d4-4b3f-812a-e0c8733110f9", "Cleobury, the AAM and King's College Choir (King's College Chapel, 1999-2000): the opening chorus on 100 Best Sacred Works, the rest on the album"),
+    "1402a1cb-254c-42fc-8cba-a0feb2bc75f8": ("169428d2-718d-4bb8-9f61-9e630acfc991", "Marriner's Magnificat (Abbey Road, 1990): the opening chorus and the rest on two releases"),
+    "5366806e-d94e-464b-a70b-c0f81d1509da": ("50e4253d-e59c-44f5-b604-8f1950f55b6d", "Corboz at the Temple de Lutry (1979): the choruses on Splendeurs du baroque, the arias on Cantates célèbres; the movements complement exactly"),
+    "05aa83fb-de9b-4c37-8901-3db2ec97e6b6": ("2c9614ad-efca-484b-bda1-ab9c176e731a", "Christophers (1991): an undated track of the same release, the one movement the dated rows lack"),
+    "80bf0369-cf4e-4937-9d45-e6fa13b3da62": ("de287db0-fa85-466d-8a09-a51ca6e1bdae", "Radu and Ama Deus on The 99 Most Essential Bach Masterpieces: an undated and a dated row of one release, complementary movements"),
+    "61728dd5-630a-4ba2-b685-74404723942f": ("913ead1d-b5a0-4874-ba10-b14337d939bf", "Bernstein's only audio Magnificat is the Columbia recording of 18 Dec 1959 (bach-cantatas.com); 1962 is a reissue with the same singers and Schola Cantorum"),
+    "52eb45ba-425f-4a0f-821a-2a67291b0738": ("14b731ac-d661-41a5-bcfa-ca26209ea6c3", "Schmidt-Gaden's Collegium Aureum recording (Lenggries, 1972): the same five soloists"),
+    "00205889-dd91-40d6-a619-d938bced3a51": ("c50195eb-c706-41f9-a4b4-066341adea38", "Best of the Great Composers reissues Barenboim's 1968 EMI recording (Popp, Pashley, Tear, Hemsley)"),
+    "a726b11a-8f08-420c-8ef8-92b82c64d2c7": ("1fff5cda-8af3-4363-a96b-1475aa2e5868", "High-Tech Chöre reissues Gardiner's 1983 Philips recording (Argenta, Kwella)"),
+    "5928f50d-d8c0-4830-97b8-438f40bf3e79": ("8d916c1f-1497-46f5-aa56-2b4136a96773", "a Classic FM compilation reissues the opening chorus of Harnoncourt's 1984 Teldec recording"),
+    "789ce137-faa2-4929-8849-d1cb28e7cc59": ("6d0c88d5-42f3-43c2-b164-b80867ec13e5", "a compilation reissues the opening chorus of Richter's 1961 Archiv recording, his only audio Magnificat"),
+    "eb15af71-0230-4247-94bf-fb1f7953f08e": ("6d0c88d5-42f3-43c2-b164-b80867ec13e5", "a compilation reissues the opening chorus of Richter's 1961 Archiv recording, his only audio Magnificat"),
+    "979b521a-5e86-4c4e-8c02-3608adad3498": ("df414f55-7789-46a5-8dac-d8882fd6730f", "Ledger, the ASMF and King's College Choir in King's College Chapel: the same recording on Magnificats & Messa di Santa Cecilia"),
+    "68360034-83e8-4a36-bb50-7369fc305d3a": ("c0c1bc22-8c50-4ad9-9e68-d4465c95ee13", "Rilling's 1979 recording on 1 heure 1 vie avec Bach ('Albert Krause' is Adalbert Kraus); it has the Christmas interpolations, as the 1979 set does"),
+}
+EXCLUDE_BY_SNAPSHOT["magnificat"] = {
+    "b90999c6-93ba-49e2-898f-44a657597135": "Quadromania reissues Rilling's 1979 recording (Augér, Murray, Watts, Schöne; bach-cantatas.com) under a wrong 1967 date and with Wenk from other tracks; joining it would carry the wrong year into the 1979 set",
+    "2c8fbdee-47ce-4cc0-81f0-63b42f0463c9": "Philip Smith's Orchestral Excerpts for Trumpet: a study recording of the trumpet part with spoken commentary, not a performance",
+}
+
+OVERRIDE_BY_SNAPSHOT["magnificat"] = {
+    "7b2db7d7-d998-4385-8594-82d7b6de4be9": ({"instrument": "viola", "arrangement": True},
+        "Cantus (2015): Adrien La Marca plays the aria 'Et misericordia' on the viola, with his brother's cello and Les Ambassadeurs; no singer is credited"),
+}
+
 OVERRIDE_BY_SNAPSHOT["clavier-ubung-iii"] = {
     "5a78d70d-00e1-4240-a4ff-5c030fd784f4": ({"movements": ["552:1"], "instrument": "organ", "arrangement": False},
         "Gould recorded only the Fugue of BWV 552, on the organ (Toronto, 1962); the box row joined in adds a Prelude link and a piano credit"),
@@ -1040,10 +1077,13 @@ PERIOD_ENSEMBLE = re.compile(
     r"ama deus|madeuf|blumenstock|boulder bach festival|king.s consort|musica alta ripa|musica alchemica|harmonie des saisons|"
     r"voce strumentale|capella academica wien|helicon ensemble|mosa.ques|talens lyriques|caravans.rail|retrospect ensemble|"
     r"capricornus|ensemble odyss|parlement de musique|phantasm|fretwork|hesp.rion|suonar parlante|les r.cr.ations|"
-    r"musica ad rhenum|ricercar consort|ausonia|ensemble diderot|aulos ensemble|basses r.unies", re.I)
+    r"musica ad rhenum|ricercar consort|ausonia|ensemble diderot|aulos ensemble|basses r.unies|"
+    r"vox luminis|gabrieli consort|collegium vocale|chapelle royale|orchestra of the sixteen|gaechinger cantorey|"
+    r"washington bach consort|les ambassadeurs|gioiosa marca|capella fidicinia", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
 MODERN_ENSEMBLE = re.compile(r"m.nchener bach|kammerakademie potsdam|zurich baroque ensemble|^baroque chamber orchestra|"
-                             r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra", re.I)
+                             r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra|"
+                             r"new bach collegium|neues bachisches", re.I)
 # Credits or names that mean the music was arranged for other forces (jazz trio, brass band, synthesizer …).
 ARRANGED = re.compile(r"drum|saxophone|synthesi[sz]er|moog|electric|accordion|marimba|vibraphone|tuba|"
                       r"clarinet|banjo|mandolin|ukulele|harmonica|beatbox|bass guitar|guitar", re.I)
@@ -1052,7 +1092,7 @@ ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone?)?\b(?<!manfred sax)|sw
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
                             r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi|alperin|dellarole|allhoff|joachim k.hn|"
-                            r"glorvigen|horacio franco|mehmari|symphonette|ayasa|vomitron|\bdj\b|myleene klass|richard souther", re.I)
+                            r"glorvigen|horacio franco|mehmari|symphonette|ayasa|vomitron|\bdj\b|myleene klass|richard souther|\be nomine\b", re.I)
 # In orchestral works only: names of groups that are not orchestras, so play the music arranged.
 ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
                                   r"trumpet ensemble|brass|\btrio\b", re.I)
@@ -1077,7 +1117,7 @@ GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|solois
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
                                r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki|dangerous liaisons|פסקול|motion picture|movies go baroque|bach minimaliste|"
-                               r"concertos? for recorder|bachbusters|remix|l.alphabet des grands musiciens|production music|bedtime|majors for minors|f.r inl.rning|classical background|サウンドトラック", re.I)
+                               r"concertos? for recorder|bachbusters|remix|l.alphabet des grands musiciens|production music|bedtime|majors for minors|f.r inl.rning|classical background|orchestral excerpts|sing & moovie|サウンドトラック", re.I)
 
 # Open-score works (mode "open", the Art of Fugue): keyboards, strings, viols and orchestra are native (plan note);
 # winds, brass, saxophones, recorders, guitars and crossover groups play it arranged. Credits, then group names.
@@ -1372,7 +1412,9 @@ def arranged_credits(perf: dict) -> list[str]:
 def vocal_of(perf: dict) -> tuple[str, str, bool, list[str]]:
     """Vocal works: choir, orchestra and soloists are all native; only jazz, pop and the like are arrangements."""
     arranged = arranged_credits(perf)
-    if arranged or ARRANGED_NAMES.search(" ".join(perf["names"])):
+    # Release titles too (run 22): trumpet excerpt lessons and film-song albums take single arias.
+    if arranged or ARRANGED_NAMES.search(" ".join(perf["names"])) \
+            or ARRANGED_RELEASES.search(" ".join(r["title"] for r in perf["releases"])):
         return "voices-and-instruments", "unknown", True, arranged
     return "voices-and-instruments", "historical" if period_group(perf) else "unknown", False, []
 

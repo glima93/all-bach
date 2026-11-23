@@ -1,0 +1,32 @@
+id: rostocker-motettenchor-undated
+performers:
+- name: Rostocker Motettenchor
+  role: choir
+- name: Capella Fidicinia
+  role: orchestra
+- name: Hartwig Eschenburg
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Paul-Gerhardt-Kirche
+released: null
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [III. Choral Interpolation "Vom Himmel hoch", VII. Choral Interpolation
+      "Freut euch und jubiliert", X. Choral Interpolation "Gloria in excelsis Deo"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/88a3c5bf-a88c-4682-b043-215c3e8d90df
+  title: 'Geisliche Musik der Bach Familie: Motetten / Choräle'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 497c2e24-5eba-4127-b1ba-433c7b25fee4
+  recordings: [ad267b63-939b-4171-b94e-8675059482d0]

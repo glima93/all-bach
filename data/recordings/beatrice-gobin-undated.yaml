@@ -1,0 +1,28 @@
+id: beatrice-gobin-undated
+performers:
+- name: Béatrice Gobin
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [III. Aria (Sopran I) "Quia respexit"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/76c86286-e35d-4f8e-9bd2-8a82c4f0c6fc
+  title: Ave Maria - Ave Verum
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 634a133e-e0c8-4fcd-af69-4c438452a22c
+  recordings: [7160e711-85eb-4e54-b49d-0c02a8062407]

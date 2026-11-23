@@ -1,0 +1,49 @@
+id: concentus-musicus-wien-1984
+performers:
+- name: Concentus Musicus Wien
+  role: orchestra
+- name: Chorus Viennensis
+  role: choir
+- name: Wiener Sängerknaben
+  role: choir
+- name: Nikolaus Harnoncourt
+  role: conductor
+- name: Paul Esswood
+  role: performer
+- name: Helrun Gardow
+  role: soprano
+- name: Hildegard Heichele
+  role: performer
+- name: Kurt Equiluz
+  role: performer
+- name: Robert Holl
+  role: performer
+- name: Uwe Harrer
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f7d85cc6-9e56-4af4-ae73-275df62a8619
+  title: Mass in B minor / Magnificat in D major, BWV 243
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9b891046-35af-4eb0-a058-eba4c9b8d01f
+  recordings: [5928f50d-d8c0-4830-97b8-438f40bf3e79, 8d916c1f-1497-46f5-aa56-2b4136a96773, e8a7b65d-4409-4b1c-b45e-04d76cc8ae46]

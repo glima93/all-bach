@@ -1,0 +1,35 @@
+id: schola-cantorum-1959
+performers:
+- name: Schola Cantorum
+  role: choir
+- name: New York Philharmonic
+  role: orchestra
+- name: Hugh Ross
+  role: performer
+- name: Leonard Bernstein
+  role: conductor
+- name: Lee Venora
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1959]
+  place: CBS 30th Street Studio
+released: 1998
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", III. Aria (Sopran I) "Quia respexit",
+    IV. Coro "Omnes generationes", VII. Coro "Fecit potentiam", XI. Coro "Sicut locutus est"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e629643a-e365-4bb4-a8c9-bd5397888a6f
+  title: Magnificat / Easter Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 83ebeb48-de23-40cd-8b1b-917b21eb701a
+  recordings: [ebf094ed-1dcb-4805-a630-5149580a432b]

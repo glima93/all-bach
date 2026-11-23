@@ -1,0 +1,33 @@
+id: concerto-copenhagen-2008
+performers:
+- name: Concerto Copenhagen
+  role: orchestra
+- name: Anne Sofie von Otter
+  role: mezzo-soprano
+- name: Anders J. Dahlin
+  role: tenor
+- name: Lars Ulrik Mortensen
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: ['VI. Aria (Alt, Tenor) "Et misericordia"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/40e619a9-9834-4530-b582-96dea82c370e
+  title: Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7dfcbf3a-84c1-4fcd-8428-03589244b125
+  recordings: [98e64202-8b59-48ca-866e-2cca2d3f6866]

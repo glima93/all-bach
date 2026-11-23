@@ -1,0 +1,44 @@
+id: english-baroque-soloists-1983-2
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Monteverdi Choir
+  role: choir
+- name: Sir John Eliot Gardiner
+  role: performer
+- name: Charles Brett
+  role: performer
+- name: Patrizia Kwella
+  role: soprano
+- name: Nancy Argenta
+  role: performer
+- name: Anthony Rolfe Johnson
+  role: performer
+- name: David Thomas
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1983]
+  place: All Saints Church
+released: 1985
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5f7d4881-19ed-3b2a-9451-5102bffcff22
+  title: Magnificat / Jauchzet Gott in allen Landen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [1fff5cda-8af3-4363-a96b-1475aa2e5868, 4c525f93-84e7-4969-8025-b0957806a7d7, a726b11a-8f08-420c-8ef8-92b82c64d2c7]

@@ -1,0 +1,38 @@
+id: la-petite-bande-1988
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Nederlands Kamerkoor
+  role: choir
+- name: Sigiswald Kuijken
+  role: conductor
+- name: Christoph Prégardien
+  role: performer
+- name: René Jacobs
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: Augustinuskerk
+released: 1989
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/771f21e6-fc7c-4890-8ae8-e0c9d6f1d52a
+  title: Magnificat BWV 243 - Cantata "Ich hatte viel Bekümmernis" BWV 21
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [6f63749c-0131-4cca-b8c5-3f1db64c575e, d12c6eb3-4046-427d-a536-6112e59f97cc]

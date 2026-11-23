@@ -1,0 +1,51 @@
+id: figuralchor-der-gedachtniskirche-stuttgart-undated
+performers:
+- name: Figuralchor der Gedächtniskirche Stuttgart
+  role: choir
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Kurt Equiluz
+  role: performer
+- name: Hildegard Rüttgers
+  role: performer
+- name: Konrad Hampe
+  role: flute
+- name: Willy Schnell
+  role: oboe
+- name: Helmut Steinkraus
+  role: flute
+- name: Romy Gundermann
+  role: performer
+- name: Erich Wenk
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", 'VI. Aria (Alt, Tenor)
+      "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor) "Deposuit potentes", IX. Aria (Alt) "Esurientes
+      implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit Israel"', XI. Coro "Sicut locutus est", XII.
+      Coro "Gloria Patri", III. Choral Interpolation "Vom Himmel hoch", X. Choral Interpolation "Gloria in excelsis
+      Deo"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e8d1def-4451-4afd-8f21-f0fefa79429b
+  title: Christmas Magnificats
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b24c1a44-93df-460b-b9df-80fc0a79bfa1
+  recordings: [7ce6affb-93ba-4924-a82d-1ba876e56851, e10a0b3e-5f29-4231-a7be-76221906d971]

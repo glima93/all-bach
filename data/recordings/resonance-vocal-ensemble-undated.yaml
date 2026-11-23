@@ -1,0 +1,29 @@
+id: resonance-vocal-ensemble-undated
+performers:
+- name: Resonance Vocal Ensemble
+  role: voice
+- name: Paul Osborne
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Mission San Luis Obispo de Tolosa
+released: 2025
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [XI. Coro "Sicut locutus est"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/430ba19c-aca8-4652-8daa-06f785b5c0f7
+  title: Magnificat
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49eabd52-cf9f-4a9f-a72e-3500a7af6cba
+  recordings: [29e3b107-757f-4079-97c8-633f09597f12]

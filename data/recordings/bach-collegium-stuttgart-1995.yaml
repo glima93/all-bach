@@ -1,0 +1,44 @@
+id: bach-collegium-stuttgart-1995
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: Ingeborg Danz
+  role: performer
+- name: James Taylor
+  role: performer
+- name: Ibolya Verebics
+  role: soprano
+- name: Christine Schäfer
+  role: performer
+- name: Thomas Quasthoff
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: Stadthalle Leonberg
+released: 2000
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1837454c-d931-451c-8632-ae563058bd07
+  title: Magnificat in D Major, BWV 243 / Tilge, Höchster, meine Süden, BWV 1083
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [1be52479-208e-42b8-88c6-b2a76d786824, 6b6249b6-5ab4-4cdd-bf7c-2ee8ae446004]

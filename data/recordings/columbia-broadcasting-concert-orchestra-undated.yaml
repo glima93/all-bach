@@ -1,0 +1,32 @@
+id: columbia-broadcasting-concert-orchestra-undated
+performers:
+- name: Columbia Broadcasting Concert Orchestra
+  role: orchestra
+- name: Carol Brice
+  role: performer
+- name: Daniel Saidenberg
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [II. Aria (Sopran II) "Et exsultavit spiritus meus"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e45d02c4-0b07-4f67-8bed-6a360db8bb7d
+  title: The Complete Columbia Album Collection
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1cbd3caf-d1e1-4ab6-9c23-3ab1c139100e
+  recordings: [4eae90ab-1268-4cab-bb4a-db14af884117]

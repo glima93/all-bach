@@ -1,0 +1,28 @@
+bwv: "243"
+title: "Magnificat"
+key: "D major"
+collection: "Magnificat"
+genre: mass
+scoring: "Five-part choir (SSATB), soloists, 3 trumpets, timpani, 2 flutes, 2 oboes (also oboes d'amore), strings and continuo"
+composed: "Leipzig, c. 1733, revising the E-flat major Magnificat BWV 243a of 1723; probably first heard on 2 July 1733, the Feast of the Visitation"
+movements:
+  - "I. Coro \"Magnificat anima mea\""
+  - "II. Aria (Sopran II) \"Et exsultavit spiritus meus\""
+  - "III. Aria (Sopran I) \"Quia respexit\""
+  - "IV. Coro \"Omnes generationes\""
+  - "V. Aria (Bass) \"Quia fecit mihi magna\""
+  - "VI. Aria (Alt, Tenor) \"Et misericordia\""
+  - "VII. Coro \"Fecit potentiam\""
+  - "VIII. Aria (Tenor) \"Deposuit potentes\""
+  - "IX. Aria (Alt) \"Esurientes implevit bonis\""
+  - "X. Aria (Sopran I, Sopran II, Alt) \"Suscepit Israel\""
+  - "XI. Coro \"Sicut locutus est\""
+  - "XII. Coro \"Gloria Patri\""
+  - "III. Choral Interpolation \"Vom Himmel hoch\""
+  - "VII. Choral Interpolation \"Freut euch und jubiliert\""
+  - "X. Choral Interpolation \"Gloria in excelsis Deo\""
+notes: "Bach transposed his 1723 setting down to D major, where trumpets sit more comfortably, and replaced the recorders with flutes. The last three movements listed here are Christmas interpolations that belong to the E-flat version BWV 243a; MusicBrainz files them under this work because they are often recorded with the D major Magnificat."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Magnificat_(Bach)"
+  bach_digital: "https://www.bachdigital.de/receive/BachDigitalWork_work_00000302?lang=en"
+# MusicBrainz work: https://musicbrainz.org/work/f82a5e63-0b6c-433d-8c55-ce990582cfe9
