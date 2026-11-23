@@ -267,6 +267,9 @@ class Collector:
                 lo, _, hi = spec.partition("-")
                 for n in range(int(lo), int(hi or lo) + 1):
                     out.append(self.find(str(n)))
+            # Versions with their own BWV letter that the plan lists (`variants`: the E-flat Magnificat BWV 243a).
+            for v in col.get("variants") or []:
+                out.append(self.find(v))
         works = []
         for f in out:
             if not f["id"]:
