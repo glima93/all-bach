@@ -1,0 +1,1828 @@
+{
+ "collection": "passions",
+ "collector": 7,
+ "taken": "2026-11-23",
+ "recordings": 9172,
+ "performances": 451,
+ "works": [
+  {
+   "bwv": "244",
+   "id": "45afb3b2-18ac-4187-bc72-beb1b1c194ba",
+   "also": [],
+   "skipped": {
+    "f7fbd2e9-dbb1-463a-b624-fbb31ddb7002": "arrangement of Matthäus-Passion, BWV 244"
+   },
+   "candidates": [
+    {
+     "id": "45afb3b2-18ac-4187-bc72-beb1b1c194ba",
+     "title": "Matthäus-Passion, BWV 244"
+    },
+    {
+     "id": "f7fbd2e9-dbb1-463a-b624-fbb31ddb7002",
+     "title": "St Matthew Passion, BWV 244"
+    },
+    {
+     "id": "7be31390-812a-4c5a-8daa-26e25b11ecba",
+     "title": "St Matthew Passion, BWV 244"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Matthäus-Passion, BWV 244",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "2e4a3668-458d-3b2a-8be2-0b08e0d8243a",
+     "title": "Matthäus-Passion, BWV 244: Teil I, I. Chor I & II \"Kommt, ihr Töchter, helft mir klagen\""
+    },
+    {
+     "id": "8e830042-faee-3930-98ea-29f69f4b0f64",
+     "title": "Matthäus-Passion, BWV 244: Teil I, II. Rezitativ (Evangelist, Jesus) \"Da Jesus diese Rede vollendet hatte\""
+    },
+    {
+     "id": "137ed8b4-2d6b-30a8-8577-e35bcbc4a45a",
+     "title": "Matthäus-Passion, BWV 244: Teil I, III. Choral \"Herzliebster Jesu, was hast du verbrochen\""
+    },
+    {
+     "id": "2fb76aa1-b37f-3e05-a185-f7e607efaf80",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IVa. \"Da versammelten sich die Hohenpriester\" (Evangelista)"
+    },
+    {
+     "id": "38f5dfae-ded6-3c52-879b-a54bc17e1478",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IVb. Cori \"Ja nicht auf das Fest\""
+    },
+    {
+     "id": "9e37f991-7993-3596-9af3-dbca79a05a9e",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IVc. \"Da nun Jesus war zu Bethanien\" (Evangelista)"
+    },
+    {
+     "id": "bd4e6e04-88a6-3857-b0d5-152a4765def3",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IVd. Coro \"Wozu dienet dieser Unrat\""
+    },
+    {
+     "id": "7f05b9d5-4b07-33b4-b305-2dece577f58f",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IVe. \"Da das Jesus merkete\" (Evangelista, Jesus)"
+    },
+    {
+     "id": "0ee6dda4-ceca-323a-8deb-4e53978e6c70",
+     "title": "Matthäus-Passion, BWV 244: Teil I, V. Accompagnato-Rezitativ (Alt) \"Du lieber Heiland du\""
+    },
+    {
+     "id": "ac25180a-1182-3a6d-bc50-25ecf3522cf2",
+     "title": "Matthäus-Passion, BWV 244: Teil I, VI. Arie (Alt) \"Buß und Reu\""
+    },
+    {
+     "id": "afb69d67-201c-38ca-8862-accc77e2bd30",
+     "title": "Matthäus-Passion, BWV 244: Teil I, VII. Rezitativ (Evangelist, Judas) \"Da ging hin der Zwölfen einer\""
+    },
+    {
+     "id": "f1d81581-81b5-31d9-bd15-59d3e1223a89",
+     "title": "Matthäus-Passion, BWV 244: Teil I, VIII. Arie (Sopran) \"Blute nur, du liebes Herz\""
+    },
+    {
+     "id": "a659f632-ca9a-3129-bbde-855dba90d754",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IXa. \"Aber am ersten Tage der süssen Brot\" (Evangelista)"
+    },
+    {
+     "id": "dcc92a22-307b-3381-b89f-79b77969f9c5",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IXb. Coro \"Wo willst du, dass wir dir bereiten\""
+    },
+    {
+     "id": "79b8ecc4-795b-3113-bc46-efe7373a6af2",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IXc. \"Er sprach: Gehet hin in die Stadt\" (Evangelista, Jesus)"
+    },
+    {
+     "id": "a5517e01-874a-361f-8c5c-1858f0958f32",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IXd. \"Und sie wurden sehr betrübt\" (Evangelista)"
+    },
+    {
+     "id": "e3203cf5-e886-3eeb-970f-3b3bf3ef5944",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IXe. Coro \"Herr, bin ichs\""
+    },
+    {
+     "id": "8a88cab0-836a-30f4-800f-0f5ea6ccfc88",
+     "title": "Matthäus-Passion, BWV 244: Teil I, X. Choral \"Ich bin's, ich sollte büßen\""
+    },
+    {
+     "id": "6b825081-e80f-3e61-9419-60309697e55f",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XI. Rezitativ (Evangelist, Jesus, Judas) \"Er antwortete und sprach\""
+    },
+    {
+     "id": "53f66b14-415f-3751-bf41-300f76cc959b",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XII. Accompagnato-Rezitativ (Sopran) \"Wiewohl mein Herz in Tränen schwimmt\""
+    },
+    {
+     "id": "3ea3b14b-fc0b-3f13-bd60-cf1395f1a1ad",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XIII. Arie (Sopran) \"Ich will dir mein Herze schenken\""
+    },
+    {
+     "id": "27a1912b-a2f0-30e9-a6b6-6c89b7d0d41a",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XIV. Rezitativ (Evangelist, Jesus) \"Und da sie den Lobgesang gesprochen hatten\""
+    },
+    {
+     "id": "8b14884d-2c9b-3eb3-b85a-f85f1a6dcec2",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XV. Choral \"Erkenne mich, mein Hüter\""
+    },
+    {
+     "id": "5057e4bd-ae8a-3c63-949b-14e9d4f464c9",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XVI. Rezitativ (Evangelist, Petrus, Jesus) \"Petrus aber antwortete und sprach zu ihm\""
+    },
+    {
+     "id": "8effe78f-3edf-3664-889c-54f94d70cde8",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XVII. Choral \"Ich will hier bei dir stehen\""
+    },
+    {
+     "id": "7929a5ce-db78-355a-a026-e623933548a4",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XVIII. Rezitativ (Evangelist, Jesus) \"Da kam Jesus mit ihnen zu einem Hofe\""
+    },
+    {
+     "id": "692e5426-c599-3f10-ba36-4616d22074a3",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XIX. Accompagnato-Rezitativ (Tenor) und Choral (Chor II) \"O Schmerz! Hier zittert das gequälte Herz\""
+    },
+    {
+     "id": "6c97b94a-e146-30de-a8fa-c5b9b59c8cbe",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XX. Arie (Tenor) und Chor II \"Ich will bei meinen Jesu wachen\""
+    },
+    {
+     "id": "323f8054-0ada-3eba-95b4-a9ada2cf29d9",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XXI. Rezitativ (Evangelist, Jesus) \"Und ging hin ein wenig\""
+    },
+    {
+     "id": "be13236d-c97c-3646-ae5d-e06fe8611e24",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XXII. Accompagnato-Rezitativ (Bass) \"Der Heiland fällt vor seinem Vater nieder\""
+    },
+    {
+     "id": "e67c3e49-43be-3a35-9f61-e004efa2294e",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XXIII. Arie (Bass) \"Gerne will ich mich bequemen\""
+    },
+    {
+     "id": "cb5a9c4b-c6b7-358c-8a6a-d4830c16ad6b",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XXIV. Rezitativ (Evangelist, Jesus) \"Und er kam zu seinen Jüngern\""
+    },
+    {
+     "id": "e8996a66-f935-3ea7-8432-8d3e153208bf",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XXV. Choral \"Was mein Gott will, das g'scheh allzeit\""
+    },
+    {
+     "id": "30e5342b-35c5-3b32-99dc-5a694459a7cb",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XXVI. Rezitativ (Evangelist, Jesus) \"Und er kam und fand sie aber schlafend\""
+    },
+    {
+     "id": "f9e172da-6927-4e42-9952-329bfea3b5ba",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XXVIIa. Arie (Sopran, Alt) und Chor \"So ist mein Jesus nun gefangen\""
+    },
+    {
+     "id": "f234aadf-c214-3e26-b650-dd2857f4a4b2",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XXVIIb. \"Sind Blitze, sind Donner in Wolken verschwunden\" (Chori)"
+    },
+    {
+     "id": "8a01a159-ef70-3bfa-b3d6-93b9fa9c3b2f",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XXVIII. Rezitativ (Evangelist, Jesus) \"Und siehe, einer aus denen, die mit Jesu waren\""
+    },
+    {
+     "id": "df6ac091-cf4d-336c-9abe-955004ab374d",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XXIX. Choral \"O Mensch, bewein dein Sünde groß\""
+    },
+    {
+     "id": "fc3fa285-eed2-3fa0-b86f-d6e741127f41",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXX. Arie (Alt) und Chor \"Ach! nun ist mein Jesus hin\""
+    },
+    {
+     "id": "2356c04f-63c4-38d6-92de-bd3921f20d12",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXI. Rezitativ (Evangelist) \"Die aber Jesum gegriffen hatten\""
+    },
+    {
+     "id": "3f6f6d83-e19e-3ca1-a0c2-c89bb144635d",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXII. Choral \"Mir hat die Welt trüglich gericht'\""
+    },
+    {
+     "id": "0b5299cc-6875-3a69-a2e7-97b492e44228",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXIII. Rezitativ (Evangelist, 2 Zeugen, Hohepriester) \"Und wiewohl viel falsche Zeugen herzutraten\""
+    },
+    {
+     "id": "888c654f-1234-3f27-bda1-a8ee0bf6d125",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXIV. Accompagnato-Rezitativ (Tenor) \"Mein Jesus schweigt zu falschen Lügen stille\""
+    },
+    {
+     "id": "99257d17-2ff9-3908-837b-a68cab8da763",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXV. Arie (Tenor) \"Geduld! Wenn mich falsche Zungen stechen\""
+    },
+    {
+     "id": "0559a613-955b-3d2f-be1c-8f5b16167b2b",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXVIa. \"Und der Hohepriester antwortete\" (Evangelista, Pontifex, Jesus)"
+    },
+    {
+     "id": "07ba4301-b690-3556-af7d-8427e214326d",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXVIb. \"Er ist des Todes schuldig\" (Chori)"
+    },
+    {
+     "id": "bfd906b9-fada-30c2-929e-b93201022fe6",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXVIc. \"Da speieten sie aus\" (Evangelista)"
+    },
+    {
+     "id": "8eb38a5b-889c-3444-b3a7-24ed56318598",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXVId. \"Weissage uns, Christe\" (Chori)"
+    },
+    {
+     "id": "ec8466eb-4af1-3d9b-bbe5-f52c7766f3b8",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXVII. Choral \"Wer hat dich so geschlagen\""
+    },
+    {
+     "id": "7c204e6d-2ce4-31b2-8367-4f72ae3c8a9e",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXVIIIa. \"Petrus aber saß draußen im Palast\" (Evangelista, Ancilla I & II, Petrus)"
+    },
+    {
+     "id": "6aed8e86-49a3-3f84-9002-325e4ed63078",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXVIIIb. \"Wahrlich, du bist auch einer von denen\" (Chorus)"
+    },
+    {
+     "id": "a06db683-3061-3c1a-99b8-f06d5750adda",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXVIIIc. \"Da hub er an, sich zu verfluchen\" (Evangelista, Petrus)"
+    },
+    {
+     "id": "eeb9e808-1172-3722-9b2e-1f1c60468de0",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXIX. Aria (Alto) \"Erbarme dich, mein Gott\""
+    },
+    {
+     "id": "61fff22f-a58a-34f4-a12c-df8d7746ee36",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XL. Choral \"Bin ich gleich von dir gewichen\""
+    },
+    {
+     "id": "ff70575c-85f9-38e0-9b12-98b74f38ad9d",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLIa. \"Des Morgens aber hielten alle Hohepriester\" (Evangelista, Judas)"
+    },
+    {
+     "id": "d0ec6867-1f1b-3a8d-a610-c4c3c5ab8e1c",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLIb. \"Was gehet uns das an\" (Chori)"
+    },
+    {
+     "id": "4bee530e-d264-34bc-9e22-11c813061719",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLIc. \"Und er warf die Silberlinge in den Tempel\" (Evangelista, Pontifex I & II)"
+    },
+    {
+     "id": "33d2b7a3-0bd3-35d0-b1d5-03eecd7fdc37",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLII. Aria (Basso) \"Gebt mir meinen Jesum wieder\""
+    },
+    {
+     "id": "0864f9fd-251c-3552-a3f8-4d4098bc669f",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLIII. \"Sie hielten aber einen Rat\" (Evangelista, Pilatus, Jesus)"
+    },
+    {
+     "id": "d2b504a9-ced1-33ab-8727-39ae8e8b2cbe",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLIV. Choral \"Befiehl du deine Wege\""
+    },
+    {
+     "id": "125a2a0d-1569-3975-bb27-7069bb6f5039",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLVa. \"Auf das Fest aber hatte der Landpfleger Gewohnheit\" (Evangelista, Pilatus, Uxor Pilati, Chori)"
+    },
+    {
+     "id": "8a23dc7e-6831-38a6-a266-92c3aa3476ef",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLVb. \"Laß ihn kreuzigen\" (Chori)"
+    },
+    {
+     "id": "c78e36ac-2e0e-37e6-a0ae-1183274190db",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLVI. Choral \"Wie wunderbarlich ist doch diese Strafe\""
+    },
+    {
+     "id": "7175d066-a393-3ef0-969b-891b9b001481",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLVII. \"Der Landpfleger sagte\" (Evangelista, Pilatus)"
+    },
+    {
+     "id": "8d6bcae6-281b-34ff-b88e-22a7af29322c",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLVIII. Recitativo (Soprano) \"Er hat uns allen wohlgetan\""
+    },
+    {
+     "id": "b73dc2b9-a814-39e4-a89e-8b636498a133",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLIX. Aria (Soprano) \"Aus Liebe will mein Heiland sterben\""
+    },
+    {
+     "id": "3b20cc81-3f33-358d-952b-dedcd68d3979",
+     "title": "Matthäus-Passion, BWV 244: Teil II, La. \"Sie schrieen aber noch mehr\" (Evangelista)"
+    },
+    {
+     "id": "72c30221-43e2-398e-b73b-e17470713858",
+     "title": "Matthäus-Passion, BWV 244: Teil II, Lb. \"Laß ihn kreuzigen\" (Chori)"
+    },
+    {
+     "id": "42a9b1ad-a5f1-3247-8952-28ce8af69ae8",
+     "title": "Matthäus-Passion, BWV 244: Teil II, Lc. \"Da aber Pilatus sahe\" (Evangelista, Pilatus)"
+    },
+    {
+     "id": "16d10c9a-4f62-3a22-a165-4fd1a53f6cd3",
+     "title": "Matthäus-Passion, BWV 244: Teil II, Ld. \"Sein Blut komme über uns\" (Chori)"
+    },
+    {
+     "id": "2fbf6bc9-5423-3df9-bac6-aaf1eb04262f",
+     "title": "Matthäus-Passion, BWV 244: Teil II, Le. \"Da gab er ihnen Barrabam los\" (Evangelista)"
+    },
+    {
+     "id": "5818c8fd-e813-3641-9670-d6512b7f8bd7",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LI. Recitativo (Alto) \"Erbarm es Gott\""
+    },
+    {
+     "id": "9eaabbfd-4973-30fb-b156-077d17cd0446",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LII. Aria (Alto) \"Können Tränen meiner Wangen\""
+    },
+    {
+     "id": "8c9b2dde-4b4f-395d-8b75-af3012efa2ff",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LIIIa. \"Da nahmen die Kriegsknechte\" (Evangelista)"
+    },
+    {
+     "id": "65882315-d670-3314-a403-9dbf9f501e84",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LIIIb. \"Gegrüßet seist du, Jüdenkönig\" (Chori)"
+    },
+    {
+     "id": "f582acca-c3fc-3edb-9675-d245d7fc2c83",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LIIIc. \"Und speieten ihn an\" (Evangelista)"
+    },
+    {
+     "id": "52b8834d-cecd-35b2-9faf-82948958e7fd",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LIV. Choral \"O Haupt voll Blut und Wunden\""
+    },
+    {
+     "id": "a0724436-acc7-34c1-b69f-8a3dee4fd9ea",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LV. \"Und da sie ihn verspottet hatten\" (Evangelista)"
+    },
+    {
+     "id": "892aef83-78cd-31bf-8438-d851471521ad",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LVI. Recitativo (Basso) \"Ja freilich will in uns das Fleisch und Blut\""
+    },
+    {
+     "id": "7b38c587-43c1-3cf8-afc5-d87fa82139b4",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LVII. Aria (Basso) \"Komm, süßes Kreuz, so will ich sagen\""
+    },
+    {
+     "id": "f7c2153d-5ad8-32dc-ab9e-aca3cea28708",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LVIIIa. \"Und da sie an die Stätte kamen\" (Evangelista)"
+    },
+    {
+     "id": "3b41ca1d-81c4-323a-9e66-b5c85f523d26",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LVIIIb. \"Der du den Tempel Gottes zerbrichst\" (Chori)"
+    },
+    {
+     "id": "ce2e57d9-065b-32e3-bc9d-1040f5e55182",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LVIIIc. \"Desgleichen auch die Hohenpriester\" (Evangelista)"
+    },
+    {
+     "id": "2b797fcc-094c-3749-8049-87e56cf100e7",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LVIIId. \"Andern hat er geholfen\" (Chori)"
+    },
+    {
+     "id": "9886b648-5f07-3864-ab1b-a12dcd2f6fd8",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LVIIIe. \"Desgleichen schmäheten ihn auch die Mörder\" (Evangelista)"
+    },
+    {
+     "id": "a53a0bf3-43d8-3388-b3c7-1dc1665eb863",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LIX. Recitativo (Alto) \"Ach Golgotha\""
+    },
+    {
+     "id": "4c8eaed4-54a6-38e4-8f57-a2f3dfd37f5f",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LX. Aria (Alto) \"Sehet, Jesus hat die Hand\", Coro \"Wohin?\""
+    },
+    {
+     "id": "56385d10-458c-314a-8d57-649ce2a790bb",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXIa. \"Und von der sechsten Stunde an\" (Evangelista, Jesus)"
+    },
+    {
+     "id": "033f5a21-60a8-35b3-b06c-8aa7c354ad4e",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXIb. \"Der rufet dem Elias\" (Chorus)"
+    },
+    {
+     "id": "7c0fc7de-5464-3118-9885-4a80b39c6568",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXIc. \"Und bald lief einer unter ihnen\" (Evangelista)"
+    },
+    {
+     "id": "9bbe48d8-0fd5-39a7-bc44-05289807b77f",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXId. \"Halt! Laß sehen\" (Chorus)"
+    },
+    {
+     "id": "4ddc6269-8f29-3f9c-8460-56f8655fe80e",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXIe. \"Aber Jesus schriee abermal\" (Evangelista)"
+    },
+    {
+     "id": "0a0d66c8-06cb-373e-b64b-0b86f31699e6",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXII. Choral \"Wenn ich einmal soll scheiden\""
+    },
+    {
+     "id": "4ffa67c2-de2a-303c-8018-f52988333627",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXIIIa. \"Und siehe da, der Vorhang im Tempel zerriß\" (Evangelista)"
+    },
+    {
+     "id": "2c715b6a-e0b8-337d-822f-2f1be5509999",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXIIIb. \"Wahrlich, dieser ist Gottes Sohn gewesen\" (Chori in unisono)"
+    },
+    {
+     "id": "ea80c993-5910-334d-badb-ecff734577ad",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXIIIc. \"Und es waren viel Weiber da\" (Evangelista)"
+    },
+    {
+     "id": "07402753-8d22-32d9-bfd1-b21b773cd5a0",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXIV. Recitativo (Basso) \"Am Abend, da es kühle war\""
+    },
+    {
+     "id": "ccf92a11-ccc7-31e8-a874-9a4003b49660",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXV. Aria (Basso) \"Mache dich, mein Herze, rein\""
+    },
+    {
+     "id": "e535b09b-738d-36dd-b807-b1a5b52d318d",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXVIa. \"Und Joseph nahm den Leib\" (Evangelista)"
+    },
+    {
+     "id": "cae4797e-6997-366a-bb0e-0c073a9f036f",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXVIb. \"Herr, wir haben gedacht\" (Chori)"
+    },
+    {
+     "id": "e25bc325-f0ed-3825-be1f-c30dbe2e8cbe",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXVIc. \"Pilatus sprach zu ihnen\" (Evangelista, Pilatus)"
+    },
+    {
+     "id": "91a007e1-323d-362f-a9a1-77beb9f96092",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXVII. Recitativo (Soprano, Alto, Tenore, Basso) \"Nun ist der Herr zur Ruh gebracht\" - Coro \"Mein Jesu, gute Nacht\""
+    },
+    {
+     "id": "8f640f24-0ee5-377d-87b9-db36a8ca17b3",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXVIII. Coro \"Wir setzen uns mit Tränen nieder\""
+    }
+   ],
+   "sections": [
+    {
+     "id": "f04b42df-7251-4d86-a5ee-67cfa49580d1",
+     "title": "Matthäus-Passion, BWV 244: Teil I",
+     "leaves": [
+      "2e4a3668-458d-3b2a-8be2-0b08e0d8243a",
+      "8e830042-faee-3930-98ea-29f69f4b0f64",
+      "137ed8b4-2d6b-30a8-8577-e35bcbc4a45a",
+      "2fb76aa1-b37f-3e05-a185-f7e607efaf80",
+      "38f5dfae-ded6-3c52-879b-a54bc17e1478",
+      "9e37f991-7993-3596-9af3-dbca79a05a9e",
+      "bd4e6e04-88a6-3857-b0d5-152a4765def3",
+      "7f05b9d5-4b07-33b4-b305-2dece577f58f",
+      "0ee6dda4-ceca-323a-8deb-4e53978e6c70",
+      "ac25180a-1182-3a6d-bc50-25ecf3522cf2",
+      "afb69d67-201c-38ca-8862-accc77e2bd30",
+      "f1d81581-81b5-31d9-bd15-59d3e1223a89",
+      "a659f632-ca9a-3129-bbde-855dba90d754",
+      "dcc92a22-307b-3381-b89f-79b77969f9c5",
+      "79b8ecc4-795b-3113-bc46-efe7373a6af2",
+      "a5517e01-874a-361f-8c5c-1858f0958f32",
+      "e3203cf5-e886-3eeb-970f-3b3bf3ef5944",
+      "8a88cab0-836a-30f4-800f-0f5ea6ccfc88",
+      "6b825081-e80f-3e61-9419-60309697e55f",
+      "53f66b14-415f-3751-bf41-300f76cc959b",
+      "3ea3b14b-fc0b-3f13-bd60-cf1395f1a1ad",
+      "27a1912b-a2f0-30e9-a6b6-6c89b7d0d41a",
+      "8b14884d-2c9b-3eb3-b85a-f85f1a6dcec2",
+      "5057e4bd-ae8a-3c63-949b-14e9d4f464c9",
+      "8effe78f-3edf-3664-889c-54f94d70cde8",
+      "7929a5ce-db78-355a-a026-e623933548a4",
+      "692e5426-c599-3f10-ba36-4616d22074a3",
+      "6c97b94a-e146-30de-a8fa-c5b9b59c8cbe",
+      "323f8054-0ada-3eba-95b4-a9ada2cf29d9",
+      "be13236d-c97c-3646-ae5d-e06fe8611e24",
+      "e67c3e49-43be-3a35-9f61-e004efa2294e",
+      "cb5a9c4b-c6b7-358c-8a6a-d4830c16ad6b",
+      "e8996a66-f935-3ea7-8432-8d3e153208bf",
+      "30e5342b-35c5-3b32-99dc-5a694459a7cb",
+      "f9e172da-6927-4e42-9952-329bfea3b5ba",
+      "f234aadf-c214-3e26-b650-dd2857f4a4b2",
+      "8a01a159-ef70-3bfa-b3d6-93b9fa9c3b2f",
+      "df6ac091-cf4d-336c-9abe-955004ab374d"
+     ]
+    },
+    {
+     "id": "3af78a23-8394-3c9d-95fe-d37912a80108",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IVa. \"Da versammelten sich die Hohenpriester\" (Evangelista) - IVb. Cori \"Ja nicht auf das Fest\" - IVc. \"Da nun Jesus war zu Bethanien\" (Evangelista) - IVd. Coro \"Wozu dienet dieser Unrat\" - IVe. \"Da das Jesus merkete\"",
+     "leaves": [
+      "2fb76aa1-b37f-3e05-a185-f7e607efaf80",
+      "38f5dfae-ded6-3c52-879b-a54bc17e1478",
+      "9e37f991-7993-3596-9af3-dbca79a05a9e",
+      "bd4e6e04-88a6-3857-b0d5-152a4765def3",
+      "7f05b9d5-4b07-33b4-b305-2dece577f58f"
+     ]
+    },
+    {
+     "id": "f564b421-046f-3719-95b1-2fb1c019884a",
+     "title": "Matthäus-Passion, BWV 244: Teil I, IXa. \"Aber am ersten Tage der süssen Brot\" - IXb. Coro \"Wo willst du, dass wir dir bereiten\" - IXc. \"Er sprach: Gehet hin in die Stadt\" - IXd. \"Und sie wurden sehr betrübt\" - IXe. Coro \"Herr, bin ichs\"",
+     "leaves": [
+      "a659f632-ca9a-3129-bbde-855dba90d754",
+      "dcc92a22-307b-3381-b89f-79b77969f9c5",
+      "79b8ecc4-795b-3113-bc46-efe7373a6af2",
+      "a5517e01-874a-361f-8c5c-1858f0958f32",
+      "e3203cf5-e886-3eeb-970f-3b3bf3ef5944"
+     ]
+    },
+    {
+     "id": "0470cbca-c04e-3cab-978c-2fd528590205",
+     "title": "Matthäus-Passion, BWV 244: Teil I, XXVII. Arie (Sopran, Alt) und Chor \"So ist mein Jesus nun gefangen\" - XXVIIb. Cori \"Sind Blitze, sind Donner in Wolken verschwunden?\"",
+     "leaves": [
+      "f9e172da-6927-4e42-9952-329bfea3b5ba",
+      "f234aadf-c214-3e26-b650-dd2857f4a4b2"
+     ]
+    },
+    {
+     "id": "8d3c81cf-ea5e-4189-8a98-1551ddaa7bfe",
+     "title": "Matthäus-Passion, BWV 244: Teil II",
+     "leaves": [
+      "fc3fa285-eed2-3fa0-b86f-d6e741127f41",
+      "2356c04f-63c4-38d6-92de-bd3921f20d12",
+      "3f6f6d83-e19e-3ca1-a0c2-c89bb144635d",
+      "0b5299cc-6875-3a69-a2e7-97b492e44228",
+      "888c654f-1234-3f27-bda1-a8ee0bf6d125",
+      "99257d17-2ff9-3908-837b-a68cab8da763",
+      "0559a613-955b-3d2f-be1c-8f5b16167b2b",
+      "07ba4301-b690-3556-af7d-8427e214326d",
+      "bfd906b9-fada-30c2-929e-b93201022fe6",
+      "8eb38a5b-889c-3444-b3a7-24ed56318598",
+      "ec8466eb-4af1-3d9b-bbe5-f52c7766f3b8",
+      "7c204e6d-2ce4-31b2-8367-4f72ae3c8a9e",
+      "6aed8e86-49a3-3f84-9002-325e4ed63078",
+      "a06db683-3061-3c1a-99b8-f06d5750adda",
+      "eeb9e808-1172-3722-9b2e-1f1c60468de0",
+      "61fff22f-a58a-34f4-a12c-df8d7746ee36",
+      "ff70575c-85f9-38e0-9b12-98b74f38ad9d",
+      "d0ec6867-1f1b-3a8d-a610-c4c3c5ab8e1c",
+      "4bee530e-d264-34bc-9e22-11c813061719",
+      "33d2b7a3-0bd3-35d0-b1d5-03eecd7fdc37",
+      "0864f9fd-251c-3552-a3f8-4d4098bc669f",
+      "d2b504a9-ced1-33ab-8727-39ae8e8b2cbe",
+      "125a2a0d-1569-3975-bb27-7069bb6f5039",
+      "8a23dc7e-6831-38a6-a266-92c3aa3476ef",
+      "c78e36ac-2e0e-37e6-a0ae-1183274190db",
+      "7175d066-a393-3ef0-969b-891b9b001481",
+      "8d6bcae6-281b-34ff-b88e-22a7af29322c",
+      "b73dc2b9-a814-39e4-a89e-8b636498a133",
+      "3b20cc81-3f33-358d-952b-dedcd68d3979",
+      "72c30221-43e2-398e-b73b-e17470713858",
+      "42a9b1ad-a5f1-3247-8952-28ce8af69ae8",
+      "16d10c9a-4f62-3a22-a165-4fd1a53f6cd3",
+      "2fbf6bc9-5423-3df9-bac6-aaf1eb04262f",
+      "5818c8fd-e813-3641-9670-d6512b7f8bd7",
+      "9eaabbfd-4973-30fb-b156-077d17cd0446",
+      "8c9b2dde-4b4f-395d-8b75-af3012efa2ff",
+      "65882315-d670-3314-a403-9dbf9f501e84",
+      "f582acca-c3fc-3edb-9675-d245d7fc2c83",
+      "52b8834d-cecd-35b2-9faf-82948958e7fd",
+      "a0724436-acc7-34c1-b69f-8a3dee4fd9ea",
+      "892aef83-78cd-31bf-8438-d851471521ad",
+      "7b38c587-43c1-3cf8-afc5-d87fa82139b4",
+      "f7c2153d-5ad8-32dc-ab9e-aca3cea28708",
+      "3b41ca1d-81c4-323a-9e66-b5c85f523d26",
+      "ce2e57d9-065b-32e3-bc9d-1040f5e55182",
+      "2b797fcc-094c-3749-8049-87e56cf100e7",
+      "9886b648-5f07-3864-ab1b-a12dcd2f6fd8",
+      "a53a0bf3-43d8-3388-b3c7-1dc1665eb863",
+      "4c8eaed4-54a6-38e4-8f57-a2f3dfd37f5f",
+      "56385d10-458c-314a-8d57-649ce2a790bb",
+      "033f5a21-60a8-35b3-b06c-8aa7c354ad4e",
+      "7c0fc7de-5464-3118-9885-4a80b39c6568",
+      "9bbe48d8-0fd5-39a7-bc44-05289807b77f",
+      "4ddc6269-8f29-3f9c-8460-56f8655fe80e",
+      "0a0d66c8-06cb-373e-b64b-0b86f31699e6",
+      "4ffa67c2-de2a-303c-8018-f52988333627",
+      "2c715b6a-e0b8-337d-822f-2f1be5509999",
+      "ea80c993-5910-334d-badb-ecff734577ad",
+      "07402753-8d22-32d9-bfd1-b21b773cd5a0",
+      "ccf92a11-ccc7-31e8-a874-9a4003b49660",
+      "e535b09b-738d-36dd-b807-b1a5b52d318d",
+      "cae4797e-6997-366a-bb0e-0c073a9f036f",
+      "e25bc325-f0ed-3825-be1f-c30dbe2e8cbe",
+      "91a007e1-323d-362f-a9a1-77beb9f96092",
+      "8f640f24-0ee5-377d-87b9-db36a8ca17b3"
+     ]
+    },
+    {
+     "id": "7752c854-c6c0-395d-9dc2-e50ae5b93cc7",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXVIa. \"Und der Hohepriester antwortete\" (Evangelista, Pontifex, Jesus) - XXXVIb. Cori \"Er ist des Todes schuldig\" - XXXVIc. \"Da speieten sie aus\" (Evangelista) - XXXVId. Cori \"Weissage uns, Christe\"",
+     "leaves": [
+      "0559a613-955b-3d2f-be1c-8f5b16167b2b",
+      "07ba4301-b690-3556-af7d-8427e214326d",
+      "bfd906b9-fada-30c2-929e-b93201022fe6",
+      "8eb38a5b-889c-3444-b3a7-24ed56318598"
+     ]
+    },
+    {
+     "id": "937c81de-dd3d-35c0-9da2-1e8e063a1cba",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XXXVIIIa. \"Petrus aber saß draussen im Palast\" (Evangelista, Ancilla I/II, Petrus) - XXXVIIIb. Coro \"Wahrlich, du bist auch einer von denen\" - XXXVIIIc. \"Da hub er an, sich zu verfluchen\" (Evangelista, Petrus)",
+     "leaves": [
+      "7c204e6d-2ce4-31b2-8367-4f72ae3c8a9e",
+      "6aed8e86-49a3-3f84-9002-325e4ed63078",
+      "a06db683-3061-3c1a-99b8-f06d5750adda"
+     ]
+    },
+    {
+     "id": "9f3212af-4c24-361b-8160-2ca0814977bd",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLIa. \"Des Morgens aber hielten alle Hohepriester\" (Evangelista, Judas) - XLIb. Cori \"Was gehet uns das an?\" - XLIc. \"Und er warf die Silberlinge in den Tempel\" (Evangelista, Pontifex I/II)",
+     "leaves": [
+      "ff70575c-85f9-38e0-9b12-98b74f38ad9d",
+      "d0ec6867-1f1b-3a8d-a610-c4c3c5ab8e1c",
+      "4bee530e-d264-34bc-9e22-11c813061719"
+     ]
+    },
+    {
+     "id": "97bc1e18-aaa3-371d-b33f-23024e59a2df",
+     "title": "Matthäus-Passion, BWV 244: Teil II, XLVa. \"Auf das Fest aber hatte der Landpfleger Gewohnheit\" (Evangelista, Pilatus, Uxor Pilati, Cori) - XLVb. Cori \"Lass ihn kreuzigen\"",
+     "leaves": [
+      "125a2a0d-1569-3975-bb27-7069bb6f5039",
+      "8a23dc7e-6831-38a6-a266-92c3aa3476ef"
+     ]
+    },
+    {
+     "id": "170ec9b1-5583-38f6-bb34-c1c36b5f3a8c",
+     "title": "Matthäus-Passion, BWV 244: Teil II, La. \"Sie schrieen aber noch mehr\" (Evangelista) - Lb. Cori \"Lass ihn kreuzigen\" - Lc. \"Da aber Pilatus sahe\" (Evangelista, Pilatus) - Ld. Cori \"Sein Blut komme über uns\" - Le. \"Da gab er ihnen Barrabam los\"",
+     "leaves": [
+      "3b20cc81-3f33-358d-952b-dedcd68d3979",
+      "72c30221-43e2-398e-b73b-e17470713858",
+      "42a9b1ad-a5f1-3247-8952-28ce8af69ae8",
+      "16d10c9a-4f62-3a22-a165-4fd1a53f6cd3",
+      "2fbf6bc9-5423-3df9-bac6-aaf1eb04262f"
+     ]
+    },
+    {
+     "id": "5c1a179c-adb6-3e3c-b355-90fe334576d7",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LIIIa. \"Da nahmen die Kriegsknechte\" (Evangelista) - LIIIb. Cori \"Gegrüsset seist du, Jüdenkönig\" - LIIIc. \"Und speieten ihn an\" (Evangelista)",
+     "leaves": [
+      "8c9b2dde-4b4f-395d-8b75-af3012efa2ff",
+      "65882315-d670-3314-a403-9dbf9f501e84",
+      "f582acca-c3fc-3edb-9675-d245d7fc2c83"
+     ]
+    },
+    {
+     "id": "e939695a-c296-3ea2-83bb-6d7d76f6675d",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LVIIIa. \"Und da sie an die Stätte kamen\" - LVIIIb. Cori \"Der du den Tempel Gottes zerbrichst\" - LVIIIc. \"Desgleichen auch die Hohenpriester\" - LVIIId. Cori \"Andern hat er geholfen\" - LVIIIe. \"Desgleichen [...]\"",
+     "leaves": [
+      "f7c2153d-5ad8-32dc-ab9e-aca3cea28708",
+      "3b41ca1d-81c4-323a-9e66-b5c85f523d26",
+      "ce2e57d9-065b-32e3-bc9d-1040f5e55182",
+      "2b797fcc-094c-3749-8049-87e56cf100e7",
+      "9886b648-5f07-3864-ab1b-a12dcd2f6fd8"
+     ]
+    },
+    {
+     "id": "2924f102-c9cc-3bf5-85a1-58df799882a4",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXIa. \"Und von der sechsten Stunde an\" (Evangelista, Jesus) - LXIb. Coro \"Der rufet dem Elias\" - LXIc. \"Und bald lief einer unter ihnen\" (Evangelista) - LXId. Coro \"Halt! Lass sehen\" - LXIe. \"Aber Jesus schriee abermal\"",
+     "leaves": [
+      "56385d10-458c-314a-8d57-649ce2a790bb",
+      "033f5a21-60a8-35b3-b06c-8aa7c354ad4e",
+      "7c0fc7de-5464-3118-9885-4a80b39c6568",
+      "9bbe48d8-0fd5-39a7-bc44-05289807b77f",
+      "4ddc6269-8f29-3f9c-8460-56f8655fe80e"
+     ]
+    },
+    {
+     "id": "76a5faa2-6c1b-38dc-9e68-ab9c73e643f2",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXIIIa. \"Und siehe da, der Vorhang im Tempel zerriss\" (Evangelista) - LXIIIb. Cori \"Wahrlich, dieser ist Gottes Sohn gewesen\" - LXIIIc. \"Und es waren viel Weiber da\" (Evangelista)",
+     "leaves": [
+      "4ffa67c2-de2a-303c-8018-f52988333627",
+      "2c715b6a-e0b8-337d-822f-2f1be5509999",
+      "ea80c993-5910-334d-badb-ecff734577ad"
+     ]
+    },
+    {
+     "id": "01856b33-218d-36a1-939c-72cadfa76996",
+     "title": "Matthäus-Passion, BWV 244: Teil II, LXVIa. \"Und Joseph nahm den Leib\" (Evangelista) - LXVIb. Cori \"Herr, wir haben gedacht\" - LXVIc. \"Pilatus sprach zu ihnen\" (Evangelista, Pilatus)",
+     "leaves": [
+      "e535b09b-738d-36dd-b807-b1a5b52d318d",
+      "cae4797e-6997-366a-bb0e-0c073a9f036f",
+      "e25bc325-f0ed-3825-be1f-c30dbe2e8cbe"
+     ]
+    }
+   ]
+  },
+  {
+   "bwv": "245",
+   "id": "b16e5420-5d26-4760-9491-0fdb5ca2bcf2",
+   "also": [],
+   "skipped": {
+    "2a95341f-807c-4935-976a-97afa93dbbcf": "arrangement of Johannes-Passion, BWV 245",
+    "35b06525-97a4-4f50-9987-9bdcf58f927e": "earlier version (245.1)",
+    "3b5523c1-deba-4982-a712-0b2398218ec4": "earlier version (245.2)"
+   },
+   "candidates": [
+    {
+     "id": "b16e5420-5d26-4760-9491-0fdb5ca2bcf2",
+     "title": "Johannes-Passion, BWV 245"
+    },
+    {
+     "id": "2a95341f-807c-4935-976a-97afa93dbbcf",
+     "title": "Johannes-Passion, BWV 245"
+    },
+    {
+     "id": "35b06525-97a4-4f50-9987-9bdcf58f927e",
+     "title": "Johannes-Passion, BWV 245.1"
+    },
+    {
+     "id": "461ba29b-0c04-46ca-ac08-720ca1943e51",
+     "title": "Johannes-Passion, BWV 245.3"
+    },
+    {
+     "id": "3b5523c1-deba-4982-a712-0b2398218ec4",
+     "title": "Johannes-Passion, BWV 245.2"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Johannes-Passion, BWV 245",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "1ccccce4-2963-3a55-b04b-d207bad7e6ad",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 1 Chorus \"Herr, unser Herrscher\""
+    },
+    {
+     "id": "105da539-543a-4a56-a2c2-cb460d5c660f",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 2a Recitativo \"Jesus ging mit seinen Jüngern\" (Evangelista, Jesus)"
+    },
+    {
+     "id": "0bb3d53d-d49f-4bda-840c-d1ca5f7c71aa",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 2b Coro \"Jesum von Nazareth\""
+    },
+    {
+     "id": "a7064c43-2900-4415-9bcd-50c197a8973c",
+     "title": "Johannes-Passion, BWV 245: Teil I, No. 2c Recitativo \"Jesus spricht zu ihnen\" (Evangelista, Jesus)"
+    },
+    {
+     "id": "171c3226-7dd1-46fd-9a5c-954cd2adbcfc",
+     "title": "Johannes-Passion, BWV 245: Teil I, No. 2d Coro \"Jesum von Nazareth\""
+    },
+    {
+     "id": "7682f74f-b90c-4c4a-95b6-2e519ea7710f",
+     "title": "Johannes-Passion, BWV 245: Teil I, No. 2e Recitativo \"Jesus antwortete\" (Evangelista, Jesus)"
+    },
+    {
+     "id": "b78c8fdb-aa27-3fe4-8de1-ef808433ce2a",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 3 Choral \"O große Lieb\""
+    },
+    {
+     "id": "01f36052-69d9-39d5-bbb0-08995c27c682",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 4 \"Auf daß das Wort erfüllet werde\" (Evangelista, Jesus)"
+    },
+    {
+     "id": "042bce4c-792f-3c20-bf0b-35ea602685a5",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 5 Choral \"Dein Will gescheh, Herr Gott, zugleich\""
+    },
+    {
+     "id": "ed6d8bea-4e5b-38c5-9431-a32b32428013",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 6 \"Die Schar aber und der Oberhauptmann\" (Evangelista)"
+    },
+    {
+     "id": "613e413e-c604-3337-831d-3f0c2b2e781b",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 7 Aria (Alt) \"Von den Stricken meiner Sünden\""
+    },
+    {
+     "id": "a80b6e02-0eca-3789-9e8c-2bff2cd23338",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 8 \"Simon Petrus aber folgete Jesu nach\" (Evangelista)"
+    },
+    {
+     "id": "81afe5d7-537c-3f4a-b5c3-8e6e0d6e7911",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 9 Aria (Sopran) \"Ich folge dir gleichfalls\""
+    },
+    {
+     "id": "5ab60e8b-5537-324a-9196-42131ea0d253",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 10 \"Derselbige Jünger war\" (Evangelista, Ancilla, Servus, Petrus, Jesus)"
+    },
+    {
+     "id": "3568d8b7-60f9-3c63-bbaa-d7387cbd4be0",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 11 Choral \"Wer hat dich so geschlagen\""
+    },
+    {
+     "id": "f6dca15f-d235-482d-8447-4166003f7c5b",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 12a Recitativo \"Und Hannas sandte ihn gebunden\" (Evangelista)"
+    },
+    {
+     "id": "eaa425f8-ce3b-4276-b362-d05c93061a47",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 12b Coro \"Bist du nicht seiner Jünger einer?\""
+    },
+    {
+     "id": "9f3d3acc-10c7-4986-aa1b-a77199a67a73",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 12c Recitativo \"Er leugnete aber und sprach\" (Evangelista, Petrus, Servus)"
+    },
+    {
+     "id": "74245dad-d6ac-3af7-86f3-13349fd37065",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 13 Aria (Tenor) \"Ach, mein Sinn\""
+    },
+    {
+     "id": "709abb88-2ebc-3e67-881a-febf11eb8f7e",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 14 Choral \"Petrus, der nicht denkt zurück\""
+    },
+    {
+     "id": "57b53b6f-4d92-39b2-9657-8b37b6eb07fd",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 15 Choral \"Christus, der uns selig macht\""
+    },
+    {
+     "id": "8d9e354e-6043-4941-b913-c961f3efd307",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 16a Recitativo \"Da führeten sie Jesum\" (Evangelista, Pilatus)"
+    },
+    {
+     "id": "0317a1f2-2f12-48f4-b5e1-adaae324cc2d",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 16b. Coro \"Wäre dieser nicht ein Übeltäter\""
+    },
+    {
+     "id": "5d42a195-c98b-4a7c-ae6a-2020835ba31d",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 16c. Recitativo \"Da sprach Pilatus zu ihnen\" (Evangelista, Pilatus)"
+    },
+    {
+     "id": "6152df85-dd80-4aa4-afae-1b09cb5e2ab1",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 16d. Coro \"Wir dürfen niemand töten\""
+    },
+    {
+     "id": "c8d9d330-092f-4801-ab84-4fe911afb0d0",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 16e. Recitativo \"Auf daß erfüllet würde das Wort\" (Evangelista, Pilatus, Jesus)"
+    },
+    {
+     "id": "4c18ea22-0adf-38a4-97a7-46c2a9df83e5",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 17 Choral \"Ach großer König\""
+    },
+    {
+     "id": "63c4592a-f844-4c2c-a7bb-7772139347e9",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 18a Recitativo \"Da sprach Pilatus zu ihm\" (Evangelista, Pilatus, Jesus)"
+    },
+    {
+     "id": "ac89b765-0d8b-48e0-9e3c-2cff47117e56",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 18b. Coro \"Nicht diesen, sondern Barrabam\""
+    },
+    {
+     "id": "aa3711ed-3339-4a1c-bb72-71d390b8f436",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 18c. Recitativo \"Barrabas aber war ein Mörder\" (Evangelista)"
+    },
+    {
+     "id": "cf659ab7-a411-3c5b-9b69-ac4a4ebffc37",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 19 Arioso (Bass) \"Betrachte, meine Seel\""
+    },
+    {
+     "id": "de8fd813-9e10-3e6f-b303-650d945e12af",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 20 Aria (Tenor) \"Erwäge, wie sein blutgefärbter Rücken\""
+    },
+    {
+     "id": "66728d45-c73b-4444-b480-69fa91f418c6",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 21a \"Und die Kriegsknechte flochten\" (Evangelista)"
+    },
+    {
+     "id": "e3975858-a9f0-4dfa-8b14-e51425897710",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 21b. Coro \"Sei gegrüßet, lieber Jüdenkönig\""
+    },
+    {
+     "id": "37693219-6390-4b18-ab6c-fe1287eabd93",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 21c. Recitativo \"Und gaben ihm Backenstreiche\" (Evangelista, Pilatus)"
+    },
+    {
+     "id": "9b025fd1-7749-4864-80a8-3caedf547980",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 21d. Coro \"Kreuzige, kreuzige!\""
+    },
+    {
+     "id": "bdf8e2cf-d7a6-4939-8b4f-5c88e219efa5",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 21e. Recitativo \"Pilatus sprach zu ihnen\" (Evangelista, Pilatus)"
+    },
+    {
+     "id": "06b415b7-34a0-4abf-8475-9b1deca52081",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 21f. Coro \"Wir haben ein Gesetz\""
+    },
+    {
+     "id": "9c2774b9-6dda-4ba9-9cfd-26d6cef1e5f2",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 21g. Recitativo \"Da Pilatus das Wort hörete\" (Evangelista, Pilatus, Jesus)"
+    },
+    {
+     "id": "9e830d6e-ffce-3c92-a53f-f945ca11a117",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 22 Choral \"Durch dein Gefängnis, Gottes Sohn\""
+    },
+    {
+     "id": "932650c7-3149-4d23-8c48-6373c126da50",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 23a Recitativo \"Die Juden aber schrieen\" (Evangelista)"
+    },
+    {
+     "id": "e5a802be-a33d-47ee-b1a4-4e818aff5a20",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 23b. Coro \"Lässest du diesen los\""
+    },
+    {
+     "id": "c33f98ab-7870-4ee1-b730-eb09d9926a94",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 23c. Recitativo \"Da Pilatus das Wort hörete\" (Evangelista, Pilatus)"
+    },
+    {
+     "id": "085a4abb-005f-4b81-b7c1-7cbcc455d1e4",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 23d. Coro \"Weg, Weg mit dem, kreuzige ihn!\""
+    },
+    {
+     "id": "911f40ed-f511-46de-8c9c-23093f07a929",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 23e. Recitativo \"Spricht Pilatus zu ihnen\" (Evangelista, Pilatus)"
+    },
+    {
+     "id": "1f77a6ba-ee36-4cf6-beb4-1c5169025b22",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 23f. Coro \"Wir haben keinen König\""
+    },
+    {
+     "id": "059613bc-78fe-435f-87c3-cfd573b11fad",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 23g. Recitativo \"Da überantwortete er ihn\" (Evangelista)"
+    },
+    {
+     "id": "a16fa2ec-79d4-38f5-b315-2d6b42cab247",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 24 Aria (Bass, Chorus) \"Eilt, ihr angefochtnen Seelen\""
+    },
+    {
+     "id": "a5f32aed-79de-4b3c-a631-e3b710da78f9",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 25a Recitativo \"Allda kreuzigten sie ihn\" (Evangelista)"
+    },
+    {
+     "id": "7bf18c87-1b21-4b21-bac4-06712b7f3bfa",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 25b. Coro \"Schreibe nicht: der Juden König\""
+    },
+    {
+     "id": "811de9f4-2536-469a-8beb-2de144d5d15b",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 25c. Recitativo \"Pilatus antwortet\" (Evangelista, Pilatus)"
+    },
+    {
+     "id": "e3bf4ede-a1ec-31e5-9b7a-bd8f2af3a670",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 26 Choral \"In meines Herzens Grunde\""
+    },
+    {
+     "id": "7a6c33ba-83fe-4813-ba4b-ec5b7d2285b5",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 27a Recitativo \"Die Kriegsknechte aber\" (Evangelista)"
+    },
+    {
+     "id": "17fc7db2-1640-483e-817a-edb27aa7c03a",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 27b. Coro \"Lasset uns den nicht zerteilen\""
+    },
+    {
+     "id": "3dac2ba8-a305-4329-b411-fcfacbde584f",
+     "title": "Johannes-Passion, BWV 245: Teil II, No. 27c. Recitativo \"Auf daß erfüllet würde die Schrift\" (Evangelista, Jesus)"
+    },
+    {
+     "id": "4cddb69f-603f-325c-bed5-71456e2c1e58",
+     "title": "Johannes-Passion, BWV 245.1: Teil II. No. 28 Choral \"Er nahm alles wohl in acht\""
+    },
+    {
+     "id": "a86eee63-2bb2-30d3-a5a0-6c86c469e911",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 29 \"Und von Stund an\" (Evangelista, Jesus)"
+    },
+    {
+     "id": "e5eb2ce5-fd7e-4c32-bdbb-107425d7a3fc",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 30 Aria (Alt) \"Es ist vollbracht!\""
+    },
+    {
+     "id": "1d025a85-996c-3f84-ab13-f1d10a66bd44",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 31 \"Und neiget sein Haupt\" (Evangelista)"
+    },
+    {
+     "id": "2bd7f1aa-ea8f-3a65-8847-b0564629df42",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 32 Aria (Bass, Chorus) \"Mein teurer Heiland, laß dich fragen\""
+    },
+    {
+     "id": "5c3df0fc-c2c2-34bd-bd5a-17e1230f2a4d",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 33 \"Und siehe da, der Vorhang\" (Evangelista)"
+    },
+    {
+     "id": "f73acd66-e305-3c59-86ab-7b20d775851b",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 34 Arioso (Tenor) \"Mein Herz, in dem die ganze Welt\""
+    },
+    {
+     "id": "4b6d0a34-e4be-3e0a-9d3d-48bda43d1040",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 35 Aria (Sopran) \"Zerfließe, mein Herze\""
+    },
+    {
+     "id": "c48b326d-f91c-3cfa-9aac-0ec97bdea416",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 36 \"Die Juden aber\" (Evangelista)"
+    },
+    {
+     "id": "a35ad13a-a221-30f0-bdf6-edd5b44c99f1",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 37 Choral \"O hilf, Christe, Gottes Sohn\""
+    },
+    {
+     "id": "c99b8b47-818f-348c-9e3a-323d55304075",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 38 \"Darnach bat Pilatum\" (Evangelista)"
+    },
+    {
+     "id": "a95a8bd7-99d4-3eee-99ff-9b94c03e8df8",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 39 Chorus \"Ruht wohl, ihr heiligen Gebeine\""
+    },
+    {
+     "id": "646fbac7-e627-3f78-95ae-9b0ff690cb42",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 40 Choral \"Ach Herr, laß dein lieb Engelein\""
+    }
+   ],
+   "sections": [
+    {
+     "id": "49694a24-a3de-3aba-9e04-c8f37232a532",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 2 \"Jesus ging mit seinen Jüngern\" (Evangelista, Jesus, Chorus)",
+     "leaves": [
+      "105da539-543a-4a56-a2c2-cb460d5c660f",
+      "0bb3d53d-d49f-4bda-840c-d1ca5f7c71aa",
+      "a7064c43-2900-4415-9bcd-50c197a8973c",
+      "171c3226-7dd1-46fd-9a5c-954cd2adbcfc",
+      "7682f74f-b90c-4c4a-95b6-2e519ea7710f"
+     ]
+    },
+    {
+     "id": "d622ca08-340b-3f78-951b-9dd479543b3b",
+     "title": "Johannes-Passion, BWV 245: Teil I. No. 12 \"Und Hannas sandte ihn gebunden\" (Evangelista, Chorus, Servus, Petrus)",
+     "leaves": [
+      "f6dca15f-d235-482d-8447-4166003f7c5b",
+      "eaa425f8-ce3b-4276-b362-d05c93061a47",
+      "9f3d3acc-10c7-4986-aa1b-a77199a67a73"
+     ]
+    },
+    {
+     "id": "6a264b64-6310-3dd1-8ab4-f92b5c95ff5a",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 16 \"Da führeten sie Jesum\" (Evangelista, Pilatus, Jesus, Chorus)",
+     "leaves": [
+      "8d9e354e-6043-4941-b913-c961f3efd307",
+      "0317a1f2-2f12-48f4-b5e1-adaae324cc2d",
+      "5d42a195-c98b-4a7c-ae6a-2020835ba31d",
+      "6152df85-dd80-4aa4-afae-1b09cb5e2ab1",
+      "c8d9d330-092f-4801-ab84-4fe911afb0d0"
+     ]
+    },
+    {
+     "id": "ac32e601-618c-3805-8848-90513206541b",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 18 \"Da sprach Pilatus zu ihm\" (Evangelista, Pilatus, Jesus, Chorus)",
+     "leaves": [
+      "63c4592a-f844-4c2c-a7bb-7772139347e9",
+      "ac89b765-0d8b-48e0-9e3c-2cff47117e56",
+      "aa3711ed-3339-4a1c-bb72-71d390b8f436"
+     ]
+    },
+    {
+     "id": "849ecf76-85db-3d3d-80ce-9fc8c44a7d00",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 21 \"Und die Kriegsknechte flochten\" (Evangelista, Chorus, Pilatus, Jesus)",
+     "leaves": [
+      "66728d45-c73b-4444-b480-69fa91f418c6",
+      "e3975858-a9f0-4dfa-8b14-e51425897710",
+      "37693219-6390-4b18-ab6c-fe1287eabd93",
+      "9b025fd1-7749-4864-80a8-3caedf547980",
+      "bdf8e2cf-d7a6-4939-8b4f-5c88e219efa5",
+      "06b415b7-34a0-4abf-8475-9b1deca52081",
+      "9c2774b9-6dda-4ba9-9cfd-26d6cef1e5f2"
+     ]
+    },
+    {
+     "id": "e7022cc4-260c-3ac0-ab35-bb3c89b3a06f",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 23 \"Die Juden aber schrieen\" (Evangelista, Chorus, Pilatus)",
+     "leaves": [
+      "932650c7-3149-4d23-8c48-6373c126da50",
+      "e5a802be-a33d-47ee-b1a4-4e818aff5a20",
+      "c33f98ab-7870-4ee1-b730-eb09d9926a94",
+      "085a4abb-005f-4b81-b7c1-7cbcc455d1e4",
+      "911f40ed-f511-46de-8c9c-23093f07a929",
+      "1f77a6ba-ee36-4cf6-beb4-1c5169025b22",
+      "059613bc-78fe-435f-87c3-cfd573b11fad"
+     ]
+    },
+    {
+     "id": "4db497b3-0a24-3b47-ab64-76fe7bdf7ee8",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 25 \"Allda kreuzigten sie ihn\" (Evangelista, Chorus, Pilatus)",
+     "leaves": [
+      "a5f32aed-79de-4b3c-a631-e3b710da78f9",
+      "7bf18c87-1b21-4b21-bac4-06712b7f3bfa",
+      "811de9f4-2536-469a-8beb-2de144d5d15b"
+     ]
+    },
+    {
+     "id": "5aa3c820-2161-3d8d-ab65-5935f3011652",
+     "title": "Johannes-Passion, BWV 245: Teil II. No. 27 \"Die Kriegsknechte aber\" (Evangelista, Chorus, Jesus)",
+     "leaves": [
+      "7a6c33ba-83fe-4813-ba4b-ec5b7d2285b5",
+      "17fc7db2-1640-483e-817a-edb27aa7c03a",
+      "3dac2ba8-a305-4329-b411-fcfacbde584f"
+     ]
+    }
+   ]
+  },
+  {
+   "bwv": "246",
+   "id": "ae5ef671-4dc7-4f31-9d68-9c48a5085a13",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "ae5ef671-4dc7-4f31-9d68-9c48a5085a13",
+     "title": "Lukas Passion, BWV 246"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Lukas Passion, BWV 246",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "6fbf14a5-a2b8-4a0d-92af-5253c408fa66",
+     "title": "Lukas Passion, BWV 246: 1. Chorus \"Furcht und Zittern\""
+    },
+    {
+     "id": "f4436e39-4fd1-4fb2-bce1-ba2b20787272",
+     "title": "Lukas Passion, BWV 246: 2. Recitative \"Es was aber nahe das Fest des süßen Brot'\" (Evangelist)"
+    },
+    {
+     "id": "b099ffc2-4746-44d5-9ea6-cb039a201ac0",
+     "title": "Lukas Passion, BWV 246: 3. Chorale \"Verruchter Knecht, wo denkst du hin\""
+    },
+    {
+     "id": "f7dbf82c-fa31-41b3-982c-869a5d43f06e",
+     "title": "Lukas Passion, BWV 246: 4. Recitative \"Und sie wurden froh\" (Evangelist)"
+    },
+    {
+     "id": "2503d7ee-bba6-4d65-bc92-69abac5654eb",
+     "title": "Lukas Passion, BWV 246: 5. Chorale \"Die Seel' weiß hoch zu schätzen\""
+    },
+    {
+     "id": "12d3fe08-bae0-4310-b0f1-a0d8cddaa09e",
+     "title": "Lukas Passion, BWV 246: 6. Recitative \"Und er versprach es, und suchte Gelegenheit\" (Evangelist)"
+    },
+    {
+     "id": "1bfd3f3b-3b7b-48b9-9348-789d303ef705",
+     "title": "Lukas Passion, BWV 246: 7. Chorale \"Stille, stille! ist die Losung\""
+    },
+    {
+     "id": "a31d40c6-4320-4f0a-9154-4124474c34c2",
+     "title": "Lukas Passion, BWV 246: 8. Recitative \"Es kam nun der Tag des süßen Brot'\" (Evangelist, Jesus, Chor der Jünger Jesu)"
+    },
+    {
+     "id": "4be473fe-7a07-4475-bc0d-d7d70bf37b0e",
+     "title": "Lukas Passion, BWV 246: 9. Chorale \"Weide mich und mach' mich satt\""
+    },
+    {
+     "id": "1c01276f-eea1-4ca8-b1e1-6b5e26186421",
+     "title": "Lukas Passion, BWV 246: 10. Recitative \"Und er wird euch einen großen gepflasterten Saal zeigen\" (Jesus, Evangelist)"
+    },
+    {
+     "id": "f5ab6c4c-ae1a-417c-b67f-309e2713a6b9",
+     "title": "Lukas Passion, BWV 246: 11. Chorale \"Nichts ist lieblicher als du\""
+    },
+    {
+     "id": "30171272-9367-44a5-a316-2fb3eeb68999",
+     "title": "Lukas Passion, BWV 246: 12. Recitative \"Denn ich sage euch\" (Jesus, Evangelist)"
+    },
+    {
+     "id": "3c6dc889-bed1-445f-90e1-655e03139917",
+     "title": "Lukas Passion, BWV 246: 13. Aria (Soprano) \"Dein Leib, das Manna meiner Seele\""
+    },
+    {
+     "id": "e4690cef-558d-46a2-9ba4-698e1114fa39",
+     "title": "Lukas Passion, BWV 246: 14. Recitative \"Desselbigen gleichen auch den Kelch\" (Evangelist, Jesus)"
+    },
+    {
+     "id": "2c9ecd95-4ba9-4ad7-8ce6-7d2bf91230a0",
+     "title": "Lukas Passion, BWV 246: 15. Aria (Alto) \"Du giebst mir Blut\""
+    },
+    {
+     "id": "a87cb59c-7320-4bb8-9bbf-ad1d762be130",
+     "title": "Lukas Passion, BWV 246: 16. Recitative \"Doch siehe, die Hand meines Verräters\" (Jesus, Evangelist)"
+    },
+    {
+     "id": "36d2d9d2-0652-4c94-957f-434d66b95321",
+     "title": "Lukas Passion, BWV 246: 17. Chorale \"Ich, ich und meine Sünden\""
+    },
+    {
+     "id": "a6e5d264-7800-4c75-a1d2-40645ba9f449",
+     "title": "Lukas Passion, BWV 246: 18. Recitative \"Es erhub sich auch ein Zank unter ihnen\" (Evangelist, Jesus)"
+    },
+    {
+     "id": "601148c0-57f9-49f7-be38-4231a40b3fc5",
+     "title": "Lukas Passion, BWV 246: 19. Chorale \"Ich werde dir zu Ehren alles wagen\""
+    },
+    {
+     "id": "28b6e740-8b85-42e3-b390-320c411df395",
+     "title": "Lukas Passion, BWV 246: 20. Recitative \"Und ich will euch das Reich bescheiden\" (Jesus)"
+    },
+    {
+     "id": "54045250-a525-4291-a058-61782786d5fc",
+     "title": "Lukas Passion, BWV 246: 21. Chorale \"Der heiligen zwölf Boten Zahl\""
+    },
+    {
+     "id": "e889a4f0-27c0-4c3e-8809-2d6ddeee95ee",
+     "title": "Lukas Passion, BWV 246: 22. Recitative \"Der Herr aber sprach\" (Evangelist, Jesus, Petrus)"
+    },
+    {
+     "id": "d193f239-c481-40ff-964a-1f6758cce392",
+     "title": "Lukas Passion, BWV 246: 23. Chorus \"Nie keinen, nie keinen\" (Chor der Jünger Jesu)"
+    },
+    {
+     "id": "29834ced-ffa2-44d3-9427-9bee3127b70f",
+     "title": "Lukas Passion, BWV 246: 24. Recitative \"Da sprach er zu ihnen\" (Evangelist, Jesus)"
+    },
+    {
+     "id": "4470cc4c-a651-4b40-9b6b-534a52c5b4f8",
+     "title": "Lukas Passion, BWV 246: 25. Chorus \"Herr siehe, hier sind zwei Schwert'\" (Chor der Jünger Jesu)"
+    },
+    {
+     "id": "3ea059ad-3bd2-4ca8-9c09-d7489ee83b33",
+     "title": "Lukas Passion, BWV 246: 26. Recitative \"Er aber sprach zu ihnen\" (Evangelist, Jesus)"
+    },
+    {
+     "id": "37787e34-8cfa-432d-b123-f96771107720",
+     "title": "Lukas Passion, BWV 246: 27. Chorale \"Wir armen Sünder bitten\""
+    },
+    {
+     "id": "dec08e72-bb56-4a18-8bb2-e9d032976f13",
+     "title": "Lukas Passion, BWV 246: 28. Recitative \"Und er riß sich von ihnen bei einem Steinwurf\" (Evangelist, Jesus)"
+    },
+    {
+     "id": "d23a3449-b4be-4438-aa2c-90b46d971120",
+     "title": "Lukas Passion, BWV 246: 29. Chorale \"Mein Vater, wie du willt\""
+    },
+    {
+     "id": "00c76ff2-92da-4cb2-a8e0-20399f437875",
+     "title": "Lukas Passion, BWV 246: 30. Recitative \"Es erschien ihm aber ein Engel vom Himmel\" (Evangelist)"
+    },
+    {
+     "id": "55862e98-b683-430c-9d3f-9b75bd8969c8",
+     "title": "Lukas Passion, BWV 246: 31. Chorale \"Durch deines Todes Kampf\""
+    },
+    {
+     "id": "fb266925-c6c2-4900-b434-77d2f689b7b0",
+     "title": "Lukas Passion, BWV 246: 32. Recitative \"Und er stund auf von dem Gebet\" (Evangelist, Jesus)"
+    },
+    {
+     "id": "331239c6-e8e1-4310-8b86-b84a3ee26581",
+     "title": "Lukas Passion, BWV 246: 33. Chorale \"Lass mich Gnade für dir finden\""
+    },
+    {
+     "id": "d8d311b3-9db0-42d6-a8c1-26eb019e3ca4",
+     "title": "Lukas Passion, BWV 246: 34. Recitative \"Da er aber noch redet'\" (Evangelist, Jesus)"
+    },
+    {
+     "id": "8c046950-df00-4f68-b4bb-4653905e79de",
+     "title": "Lukas Passion, BWV 246: 35. Chorale \"Von aussen sich gut stellen\""
+    },
+    {
+     "id": "9a6cb82f-5f88-4bce-b342-dcf9f61cadb9",
+     "title": "Lukas Passion, BWV 246: 36. Recitative \"Da aber sahen, die um ihn waren\" (Evangelist)"
+    },
+    {
+     "id": "d5234fd2-5b2e-4a1c-b723-c17c0d0440d2",
+     "title": "Lukas Passion, BWV 246: 37. Chorus \"Herr sollen wir mit dem Schwert dreinschlagen?\" (Chor der Jüngen Jesu)"
+    },
+    {
+     "id": "6c753e84-18b9-4291-8344-203b19d3f5a7",
+     "title": "Lukas Passion, BWV 246: 38. Recitative \"Und einer aus ihnen schlug des Hohenpriesters Knecht\" (Evangelist, Jesus)"
+    },
+    {
+     "id": "a52feec3-d215-4c5a-8f7b-c7cf93f9a197",
+     "title": "Lukas Passion, BWV 246: 39. Chorale \"Ich will daraus studieren\""
+    },
+    {
+     "id": "54fd3af3-9aa1-435f-94ae-eea5eabf74cb",
+     "title": "Lukas Passion, BWV 246: 40. Recitative \"Jesus aber sprach zu den Hohenpriestern\" (Evangelist, Jesus)"
+    },
+    {
+     "id": "650404c9-def1-4412-9a3c-789e9eb74a74",
+     "title": "Lukas Passion, BWV 246: 41. Chorale \"Und führe uns nicht in Versuchung\""
+    },
+    {
+     "id": "708fad23-95cd-431a-b8cb-6b18c8c6798c",
+     "title": "Lukas Passion, BWV 246: 42. Recitative \"Da zündeten sie ein Feuer an\" (Evangelist, erste Magd, Petrus, zweite Magd, Knecht)"
+    },
+    {
+     "id": "67bb4f3f-ecf0-4e53-b82e-918feb1dea40",
+     "title": "Lukas Passion, BWV 246: 43. Chorale \"Kein Hirt kann so fleißig gehen\""
+    },
+    {
+     "id": "56da6004-12d0-4d29-8c34-99020bb03056",
+     "title": "Lukas Passion, BWV 246: 44. Recitative \"Und Petrus gedachte an des Herren Wort\" (Evangelist)"
+    },
+    {
+     "id": "513c89e5-f3a1-461c-8fe0-d3e025fc65d0",
+     "title": "Lukas Passion, BWV 246: 45. Aria (Tenor) \"Den Fels hat Moses' Stab geschlagen\""
+    },
+    {
+     "id": "6c7417a7-4032-4b28-a390-b4a07e885cd8",
+     "title": "Lukas Passion, BWV 246: 46. Chorale \"Aus der Tiefe rufe ich\" (Petrus)"
+    },
+    {
+     "id": "6eb9932e-d1ef-422f-8223-883a90afacbe",
+     "title": "Lukas Passion, BWV 246: 47. Recitative \"Die Männer aber\" (Evangelist)"
+    },
+    {
+     "id": "ee38480e-7afc-44f3-aa06-cbc63340dc10",
+     "title": "Lukas Passion, BWV 246: 48. Chorus \"Weissage, wer ist's, der dich schlug?\" (Chor der Männer)"
+    },
+    {
+     "id": "7ae4f2b1-529f-405f-961d-93447b445816",
+     "title": "Lukas Passion, BWV 246: 49. Chorale \"Dass du nicht ewig Schande mögest tragen\""
+    },
+    {
+     "id": "a9a3bef8-3900-4816-b20d-a63011da3e98",
+     "title": "Lukas Passion, BWV 246: 50. Recitative \"Und viel and're Lästerungen sagten\" (Evangelist)"
+    },
+    {
+     "id": "12104780-8e48-4d3a-a2bb-8596b7ee9f07",
+     "title": "Lukas Passion, BWV 246: 51. Chorus \"Bist du Christus? Sage es uns!\" (Chor der Ältesten)"
+    },
+    {
+     "id": "0cb00855-383a-47b3-af85-13c8a6a8e2a2",
+     "title": "Lukas Passion, BWV 246: 52. Recitative \"Er aber sprach zu ihnen\" (Evangelist, Jesus))"
+    },
+    {
+     "id": "6c70b10f-7346-4444-8c0c-4df7b0e64cdb",
+     "title": "Lukas Passion, BWV 246: 53. Chorus \"Bist du denn Gottes Sohn?\" (Chor der Ältesten)"
+    },
+    {
+     "id": "a60b446d-801d-45fd-b7b2-286238159a47",
+     "title": "Lukas Passion, BWV 246: 54. Chorale \"Du König der Ehren, Jesu Christ\""
+    },
+    {
+     "id": "0043bdef-d742-46fc-b441-2d27a9e4f4d5",
+     "title": "Lukas Passion, BWV 246: 55. Recitative \"Er sprach zu ihnen:\" (Evangelist, Jesus)"
+    },
+    {
+     "id": "7669e3b6-b7d2-41b3-8fb1-2185b3600024",
+     "title": "Lukas Passion, BWV 246: 56. Chorus \"Was, was dürfen wir weiter Zeugnis?\" (Chor der Ältesten)"
+    },
+    {
+     "id": "954ad21f-92dc-42ea-adf7-73b8d7efc488",
+     "title": "Lukas Passion, BWV 246: 57. Recitative \"Und der ganze Haufe stund uaf\" (Evangelist)"
+    },
+    {
+     "id": "c0c1adef-8028-4cfe-9094-9fc83dbb90e9",
+     "title": "Lukas Passion, BWV 246: 58. Chorus \"Diesen finden wir\" (Chor der Ältesten)"
+    },
+    {
+     "id": "a8070730-cca9-4fc8-960f-440631aa2a8f",
+     "title": "Lukas Passion, BWV 246: 59. Recitative \"Pilatus aber fragte ihn\" (Evangelist, Pilatus, Jesus)"
+    },
+    {
+     "id": "3d418332-2d71-43ca-8af8-900cbcca2c15",
+     "title": "Lukas Passion, BWV 246: 60. Chorale \"Dein göttlich' Macht\""
+    },
+    {
+     "id": "f3551709-4008-46c3-b740-7517b4a33d86",
+     "title": "Lukas Passion, BWV 246: 61. Recitative \"Pilatus sprach zu dem Hohenpriestern\" (Evangelist, Pilatus)"
+    },
+    {
+     "id": "bf5b9b8e-9d11-433b-8617-5eed326e3484",
+     "title": "Lukas Passion, BWV 246: 62. Chorale \"Ich bin's\""
+    },
+    {
+     "id": "371b0bb4-e5d6-4abb-beb1-7433d0007345",
+     "title": "Lukas Passion, BWV 246: 63. Recitative \"Sie aber hielten an\" (Evangelist)"
+    },
+    {
+     "id": "fca12fb6-c615-4380-9075-aa6f82f4f4a7",
+     "title": "Lukas Passion, BWV 246: 64. Chorus \"Er hat das Volk erreget damit\" (Chor des Volkes)"
+    },
+    {
+     "id": "bc774fe8-5930-433a-b387-dda0e032b638",
+     "title": "Lukas Passion, BWV 246: 65. Recitative \"Da aber Pilatus Galiläa hörten\" (Evangelist)"
+    },
+    {
+     "id": "4de430c7-b713-496f-a1de-491257251228",
+     "title": "Lukas Passion, BWV 246: 66. Aria (Tenor) \"Das Lamm verstummt\""
+    },
+    {
+     "id": "2ce47de5-9c4a-4a19-81e9-3385fbfd6b6d",
+     "title": "Lukas Passion, BWV 246: 67. Recitative \"Die Hohenpriester aber\" (Evangelist)"
+    },
+    {
+     "id": "99cb428c-f5f0-4040-b4f7-d4aa7c9cf478",
+     "title": "Lukas Passion, BWV 246: 68. Chorale \"Was kann die Unschuld besser kleiden\""
+    },
+    {
+     "id": "69f9cf6a-5801-4881-8d25-84dd9920a3e4",
+     "title": "Lukas Passion, BWV 246: 69. Recitative \"Auf dem Tag wurden Pilatus\" ( (Evangelist, Pilatus)"
+    },
+    {
+     "id": "9abe710a-e6b2-40f8-9c23-cd16adaa0025",
+     "title": "Lukas Passion, BWV 246: 70. Chorale \"Ei, was hat er denn getan\""
+    },
+    {
+     "id": "9e5ffc8e-b477-4fe5-9e83-3474795def2f",
+     "title": "Lukas Passion, BWV 246: 71. Recitative \"Denn er musste ihnen Einen\" (Evangelist)"
+    },
+    {
+     "id": "1cc445e3-60d8-498b-ae42-1d591f231eaf",
+     "title": "Lukas Passion, BWV 246: 72. Chorus \"Hinweg, hinweg mit diesem\" (Chor des Volkes)"
+    },
+    {
+     "id": "c0a72298-d384-4b83-a7d7-1a4dff051d57",
+     "title": "Lukas Passion, BWV 246: 73. Recitative \"Welcher war um eines Aufruhrs\" (Evangelist)"
+    },
+    {
+     "id": "20ce5f9d-bae4-4faf-b037-a46b40ebb77c",
+     "title": "Lukas Passion, BWV 246: 74. Chorus \"Kreuzige ihn!\" (Chor des Volkes)"
+    },
+    {
+     "id": "ccbe7a62-0a51-4b98-afbd-b9ce20ca8267",
+     "title": "Lukas Passion, BWV 246: 75. Recitative \"Er aber sprach zum dritten Mal zu ihnen\" (Evangelist, Pilatus)"
+    },
+    {
+     "id": "4f3663c7-bad7-41b6-9b5e-1e275cea415d",
+     "title": "Lukas Passion, BWV 246: 76. Chorale \"Es wird in der Sünder Hände\""
+    },
+    {
+     "id": "e954024b-4453-45d9-8ab2-105998d252be",
+     "title": "Lukas Passion, BWV 246: 77. Recitative \"Und als sie Jesum hinführeten\" (Evangelist)"
+    },
+    {
+     "id": "e49e4622-4fe7-44bb-9063-17ee4ac77558",
+     "title": "Lukas Passion, BWV 246: 78. Terzetto (Soprano I/II, Alto)\" Weh und Schmerz\""
+    },
+    {
+     "id": "ca088c5e-9173-4c70-8247-88626168cfbb",
+     "title": "Lukas Passion, BWV 246: 79. Recitative \"Jesus aber wandte sich um\" (Evangelist)"
+    },
+    {
+     "id": "3d79756a-71e7-43c0-bb1e-d96b8d3f9265",
+     "title": "Lukas Passion, BWV 246: 80. Chorale \"Sein' allererste Sorge war\""
+    },
+    {
+     "id": "65271902-cd8d-49d4-9c36-dae7498d9062",
+     "title": "Lukas Passion, BWV 246: 81. Recitative \"Und sie theileten seine Kleider\" (Evangelist)"
+    },
+    {
+     "id": "d0b66619-5f60-40ee-9ba3-0abf7c4196f4",
+     "title": "Lukas Passion, BWV 246: 82. Chorus \"Er hat andern geholfen\" (Chor des Volkes)"
+    },
+    {
+     "id": "d98173a0-602a-49df-ba8b-23d777287c4f",
+     "title": "Lukas Passion, BWV 246: 83. Recitative \"Es verspotteten ihn auch die Kriegsknechte\" (Evangelist)"
+    },
+    {
+     "id": "9c9ddb0d-72a7-4b08-a889-5859dce94b15",
+     "title": "Lukas Passion, BWV 246: 84. Chorus \"Bist du der Jüden König?\" (Chor der Kriegsknechte)s"
+    },
+    {
+     "id": "44201b93-5885-413a-ac8d-4299efbb30a1",
+     "title": "Lukas Passion, BWV 246: 85. Chorale \"Ich bin krank\""
+    },
+    {
+     "id": "2e37144c-c23a-4cfe-89ea-a0c56e37de1f",
+     "title": "Lukas Passion, BWV 246: 86. Recitative \"Es war auch oben über ihn geschrieben\" (Evangelist)"
+    },
+    {
+     "id": "64b9ad43-893f-463a-9407-77e8f2ffcf4f",
+     "title": "Lukas Passion, BWV 246: 87. Chorale \"Das Kreuz ist der Königsthron\""
+    },
+    {
+     "id": "2a4e5b63-c294-4193-89f9-7bdb9452d2d5",
+     "title": "Lukas Passion, BWV 246: 88. Recitative \"Aber der Übelthäter einer\" (Evangelist, der verstockte Mörder, der reuige Mörder))"
+    },
+    {
+     "id": "cfad0dc2-1cac-462b-aa09-f5ca55de3330",
+     "title": "Lukas Passion, BWV 246: 89. Chorale \"Tausendmal gedenk' ich dein\""
+    },
+    {
+     "id": "32854d1b-a488-4609-bf6b-19c175e34190",
+     "title": "Lukas Passion, BWV 246: 90. Recitative \"Und Jesus sprach zu ihm\" (Evangelist, Jesus)"
+    },
+    {
+     "id": "b9aca224-72da-4096-8a12-608594149051",
+     "title": "Lukas Passion, BWV 246: 91. Chorale \"Freu' dich sehr, o meine Seele\""
+    },
+    {
+     "id": "fb1076dc-5645-47b2-8e38-3250a36a7d03",
+     "title": "Lukas Passion, BWV 246: 92. Recitative \"Und es war um die sechste Stunde\" (Evangelist)"
+    },
+    {
+     "id": "38cd6dd6-8152-432e-845a-ea12eebfe416",
+     "title": "Lukas Passion, BWV 246: 93. Aria (Soprano) \"Selbst der Bau der Welt erschüttert\""
+    },
+    {
+     "id": "96b66a91-f09f-4bd8-ba35-b24713144fb4",
+     "title": "Lukas Passion, BWV 246: 94. Recitative \"Und Jesus rief laut\" (Evangelist)"
+    },
+    {
+     "id": "4c96f932-e623-481e-bf44-283e5260e284",
+     "title": "Lukas Passion, BWV 246: 95. Sinfonia"
+    },
+    {
+     "id": "4433b279-5c25-4dd1-b752-78bd90c84c43",
+     "title": "Lukas Passion, BWV 246: 96. Chorale \"Derselbe mein Herr Jesu Christ\""
+    },
+    {
+     "id": "92deb27c-81b0-4daa-9298-d4c90da78926",
+     "title": "Lukas Passion, BWV 246: 97. Sinfonia da capo"
+    },
+    {
+     "id": "9e20df44-1b17-4135-a519-c81f77c3ba54",
+     "title": "Lukas Passion, BWV 246: 98. Recitative \"Da aber der Hauptmann sahe\" (Evangelist, Hauptmann)"
+    },
+    {
+     "id": "e155b21a-0305-436d-aff6-9ab72ec3be2e",
+     "title": "Lukas Passion, BWV 246: 99. Chorale \"Straf' mich nicht in deinem Zorn\""
+    },
+    {
+     "id": "536d0896-697e-4a50-b164-0aceffeaf603",
+     "title": "Lukas Passion, BWV 246: 100. Recitative \"Es stunden aber alle seine Verwandten\" (Evangelist)"
+    },
+    {
+     "id": "2da8f47a-0548-4686-bd1c-2b06808392a9",
+     "title": "Lukas Passion, BWV 246: 101. Aria (Tenor) \"Lasst mich ihn nur noch einmal küssen\""
+    },
+    {
+     "id": "794cf995-fbae-49df-9ff2-5822f473656e",
+     "title": "Lukas Passion, BWV 246: 102. Recitative \"Und nahm ihn ab\" (Evangelist)"
+    },
+    {
+     "id": "6caade33-d816-46a9-913a-08c24a294576",
+     "title": "Lukas Passion, BWV 246: 103. Chorale \"Nun ruh, Erlöser in der Gruft\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "247",
+   "id": "e2d12f77-18e9-4a5f-a857-ba58ac756da0",
+   "also": [],
+   "skipped": {
+    "0d39ad76-fb32-4d7b-815c-e4fbdba59ea9": "earlier version (247.1)"
+   },
+   "candidates": [
+    {
+     "id": "0d93d8ff-ed1c-4813-8791-960c140be6f1",
+     "title": "Markus-Passion, BWV 247"
+    },
+    {
+     "id": "feffee8b-aee8-4ce8-8b8c-11b53a38b13e",
+     "title": "Markus-Passion, BWV 247"
+    },
+    {
+     "id": "13356278-c5e5-44c8-a87e-c137fbe304d5",
+     "title": "Markus-Passion, BWV 247"
+    },
+    {
+     "id": "e2d12f77-18e9-4a5f-a857-ba58ac756da0",
+     "title": "Markus-Passion, BWV 247"
+    },
+    {
+     "id": "0d39ad76-fb32-4d7b-815c-e4fbdba59ea9",
+     "title": "Markus-Passion, BWV 247.1"
+    },
+    {
+     "id": "7aaf3460-48f9-454d-8e41-bce8a604d52b",
+     "title": "Markus-Passion, BWV 247.2"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Markus-Passion, BWV 247",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "6ccd3542-e5df-48e8-ad88-c55cbb6e21d6",
+     "title": "Markus-Passion, BWV 247: Nr. 1 Chorus: Geh, Jesus, Geh Zu Deiner Pein"
+    },
+    {
+     "id": "2287b2aa-4c5a-4b83-9957-617aa50d2c07",
+     "title": "Markus-Passion, BWV 247: Nr. 2 Recitativo, Evangelist: Und Nach Zween Tagen War Ostern"
+    },
+    {
+     "id": "d269dd99-b32c-4cb1-9200-9539459e9b3b",
+     "title": "Markus-Passion, BWV 247: Nr. 3 Chorus: Ja Nicht Auf Das Fest, Daβ Nicht Ein Aufruhr Im Volck Werde"
+    },
+    {
+     "id": "72668842-39cb-4d62-9b5d-a1f5d9a65d55",
+     "title": "Markus-Passion, BWV 247: Nr. 4a Recitativo, Evangelist: Und Da Er Zu Bethanien War"
+    },
+    {
+     "id": "2d8db29a-e71b-4e27-bd00-6e8aac526cc6",
+     "title": "Markus-Passion, BWV 247: Nr. 4b Chorus: Was Soll Doch Dieser Unrath?"
+    },
+    {
+     "id": "df2fe50f-8cd9-4b57-8853-065bd1b75152",
+     "title": "Markus-Passion, BWV 247: Nr. 4c Recitativo, Evangelist: Und Murreten Über Sie"
+    },
+    {
+     "id": "63b4e5c1-99a1-417a-b6df-37488346cb17",
+     "title": "Markus-Passion, BWV 247: Nr. 5 Choral: Sie Stellen Uns Wie Ketzern Nach"
+    },
+    {
+     "id": "bb80e7b6-0152-4300-bbc9-98a633703083",
+     "title": "Markus-Passion, BWV 247: Nr. 6 Recitativo, Evangelist, Jesus: Jesus Aber Sprach"
+    },
+    {
+     "id": "565e8387-0c7f-4656-a276-b9cb0ba5c044",
+     "title": "Markus-Passion, BWV 247: Nr. 7 Choral: Mir Hat Die Welt Trüglich Gericht"
+    },
+    {
+     "id": "5af17b35-5f04-4606-954c-1b580768a2aa",
+     "title": "Markus-Passion, BWV 247: Nr. 8 Recitativo, Evangelist: Und Am Ersten Tag Der Süssen Brodte"
+    },
+    {
+     "id": "e784c9ba-dccd-4fad-98b1-015486dc0a64",
+     "title": "Markus-Passion, BWV 247: Nr. 9 Chorus: Wo Wilt Du, Daß Wir Hingehen"
+    },
+    {
+     "id": "6b5811c0-7625-419e-9067-5ef9c6136e43",
+     "title": "Markus-Passion, BWV 247: Nr. 10 Recitativo, Evangelist, Jesus: Und Er Sandte Seiner Jünger Zween"
+    },
+    {
+     "id": "48ef309e-9c6b-4a70-9bbf-09ce56ee26e9",
+     "title": "Markus-Passion, BWV 247: Nr. 11 Choral: Ich, Ich Und Meine Sünden"
+    },
+    {
+     "id": "1dcbe694-4ea0-41cf-942a-6078c52e21d8",
+     "title": "Markus-Passion, BWV 247: Nr. 12 Recitativo, Evangelist, Jesus: Er Antwortete, Und Sprach Zu Ihnen"
+    },
+    {
+     "id": "b033e086-609a-44bd-89b3-0067a7fd9202",
+     "title": "Markus-Passion, BWV 247: Nr. 13 Aria, Bass: Mein Heyland, Dich Vergeß Ich Nicht"
+    },
+    {
+     "id": "eebf8cfb-e771-465b-9bb8-03198ed90d61",
+     "title": "Markus-Passion, BWV 247: Nr. 14 Recitativo, Evangelist, Jesus: Und Da Sie Den Lob-Gesang Gesprochen Hatten"
+    },
+    {
+     "id": "5abd32a8-43f7-4121-8b53-493b055b3c8a",
+     "title": "Markus-Passion, BWV 247: Nr. 15 Choral: Wach Auf, O Mensch, Vom Sünden-Schlaf"
+    },
+    {
+     "id": "4498b826-6378-467e-82d8-55e0ad4f9ce9",
+     "title": "Markus-Passion, BWV 247: Nr. 16 Recitativo, Evangelist, Petrus, Jesus: Petrus Aber Sagte Zu Ihm"
+    },
+    {
+     "id": "afad00d5-fed0-4bf8-93ff-4f7377384171",
+     "title": "Markus-Passion, BWV 247: Nr. 17 Choral: Getrübtes Herz Sey Wohlgemuth"
+    },
+    {
+     "id": "ad6fb6c4-54f0-40e1-bd6e-2bd1cf806257",
+     "title": "Markus-Passion, BWV 247: Nr. 18 Recitativo, Evangelist, Jesus: Und Gieng Ein Wenig Fürbaß, Fiel Auf Die Erde"
+    },
+    {
+     "id": "00505b23-62f2-42d3-8310-27e23c022222",
+     "title": "Markus-Passion, BWV 247: Nr. 19 Choral: Machs Mit Mir Gott, Nach Deiner Güt"
+    },
+    {
+     "id": "539cbb0c-1e88-4bc5-ae01-7e869edacf74",
+     "title": "Markus-Passion, BWV 247: Nr. 20 Recitativo, Evangelist, Jesus: Und Kam, Und Fand Sie Schlafend"
+    },
+    {
+     "id": "fdf97eb9-c603-47e6-8b71-5d7bc9fc5315",
+     "title": "Markus-Passion, BWV 247: Nr. 21 Aria, Soprano, Alto: Er Kommt, Er Kommt, Er Ist Vorhanden!"
+    },
+    {
+     "id": "7da059cf-6320-4d31-b68e-a6d6e6af3a2d",
+     "title": "Markus-Passion, BWV 247: Nr. 22 Recitativo, Evangelist, Judas: Und Alsbald, Da Er Noch Redete, Kam Herzu Judas"
+    },
+    {
+     "id": "9fe3c7eb-a937-4f5a-8661-9a5f2f5af04c",
+     "title": "Markus-Passion, BWV 247: Nr. 23 Aria, Tenor: Falsche Welt, Dein Schmeichelnd Küssen"
+    },
+    {
+     "id": "544a7cd3-4310-4138-9d01-c1beffa3c58b",
+     "title": "Markus-Passion, BWV 247: Nr. 24 Recitativo, Evangelist, Jesus: Die Aber Legten Ihre Hände An Ihn"
+    },
+    {
+     "id": "7e1a0cc8-80c6-4dd1-9b8d-94cba9fcf959",
+     "title": "Markus-Passion, BWV 247: Nr. 25 Choral: Jesu, Ohne Missetat"
+    },
+    {
+     "id": "60607d8c-378a-4f6d-a2c2-ed1acf387dec",
+     "title": "Markus-Passion, BWV 247: Nr. 26 Recitativo, Evangelist: Und Die Jünger Verließen Ihn Alle"
+    },
+    {
+     "id": "8b3df28a-78ff-4e55-894d-11e7d155dd57",
+     "title": "Markus-Passion, BWV 247: Nr. 27 Chorus: Ich Will Hier Bey Dir Stehen"
+    },
+    {
+     "id": "56e7085e-e5c4-488e-8075-9e84166e3a23",
+     "title": "Markus-Passion, BWV 247: Nr. 28 Aria, Bass: Mein Tröster Ist Nicht Mehr Bey Mir"
+    },
+    {
+     "id": "b5554847-6ab2-4af3-ad26-7f24e5801f61",
+     "title": "Markus-Passion, BWV 247: Nr. 29 Recitativo, Evangelist, Testis 1 & Testis 2: Und Sie Führeten Jesum Zu Dem Hohen Priester"
+    },
+    {
+     "id": "604e0945-702e-45d4-aff6-8dc3894c1f5b",
+     "title": "Markus-Passion, BWV 247: Nr. 30 Choral: Was Menschen Krafft Und Witz Anfährt"
+    },
+    {
+     "id": "79adeddc-3e23-479b-a3a7-69137421bcb4",
+     "title": "Markus-Passion, BWV 247: Nr. 31 Recitativo, Evangelsit, Pontifex: Und Der Hohe Priester Stund Auf Unter Sie"
+    },
+    {
+     "id": "366672e0-9ce8-49b4-95a3-e2213961da47",
+     "title": "Markus-Passion, BWV 247: Nr. 32 Choral: Befiehl Du Deine Wege"
+    },
+    {
+     "id": "508a2113-7ba3-4343-8eaf-e41bca37b5d5",
+     "title": "Markus-Passion, BWV 247: Nr. 33 Recitativo, Evangelist, Pontifex Jesus: Da Fragte Ihn Der Hohe Priester Abermahl"
+    },
+    {
+     "id": "2858047b-c664-4957-86de-bd6ff21c9ecd",
+     "title": "Markus-Passion, BWV 247: Nr. 34 Chorus: Weissage Uns!"
+    },
+    {
+     "id": "4d77e78e-ff60-4f8b-805d-0b7bbb750ca9",
+     "title": "Markus-Passion, BWV 247: Nr. 35 Recitiativo, Evangelist: Und Die Knechte Schlugen Ihn Ins Angesicht"
+    },
+    {
+     "id": "dc87a5ae-f084-4ee0-a5fd-677d02bae0d4",
+     "title": "Markus-Passion, BWV 247: Nr. 36 Choral: Du Edles Angesichte"
+    },
+    {
+     "id": "4b3af4cc-0d94-40cb-a2af-037e354ee449",
+     "title": "Markus-Passion, BWV 247: Nr. 37 Recitativo, Evangelist, Ancilla, Petrus: Und Petrus War Danieden Im Pallast"
+    },
+    {
+     "id": "998d5fed-6764-479c-8b46-de99e7fc131b",
+     "title": "Markus-Passion, BWV 247: Nr. 38 Chorus: Wahrlich, Du Bist Der Einer"
+    },
+    {
+     "id": "80e07853-bc30-4be5-984a-efc756cefd16",
+     "title": "Markus-Passion, BWV 247: Nr. 39 Recitativo, Evangelist, Petrus: Er Aber Fieng An Sich Zu Verfluchen"
+    },
+    {
+     "id": "72da26fb-afd0-4457-8903-1cf7fb053938",
+     "title": "Markus-Passion, BWV 247: Nr. 40 Aria, Tenor: Zerschmettert Mich, Ihr Felsen Und Ihr Hügel"
+    },
+    {
+     "id": "0ccbd199-011e-44e6-ac33-e70e05e5ab70",
+     "title": "Markus-Passion, BWV 247: Nr. 41 Choral: Herr, Ich Habe Mißgehandelt"
+    },
+    {
+     "id": "2f1c1064-52ff-47c2-a702-379a8eb107f7",
+     "title": "Markus-Passion, BWV 247: Nr. 42a Recitativo, Evangelist, Pilatus, Jesus: Und Bald Am Morgen / Nr. 42b Chorus: Creuzige Ihn!"
+    },
+    {
+     "id": "39f2c500-2c4d-4f1f-b794-1eace0e93491",
+     "title": "Markus-Passion, BWV 247: Nr. 43 Recitativo, Evangelist, Pilatus: Pilatus Aber Sprach Zu Ihnen"
+    },
+    {
+     "id": "0b72e85e-dc5d-4665-85ce-51f1492682b5",
+     "title": "Markus-Passion, BWV 247: Nr. 44 Chrous: Creutzige Ihn!"
+    },
+    {
+     "id": "2f4f742f-bae8-4fbf-b201-25f8b565694a",
+     "title": "Markus-Passion, BWV 247: Nr. 45 Aria, Alto: Angenehmes Mord-Geschrey!"
+    },
+    {
+     "id": "e2ca658a-fef9-4585-9a0f-3867349b4de9",
+     "title": "Markus-Passion, BWV 247: Nr. 46 Recitativo, Evangelist: Pilatus Aber Gedachte Dem Volck Genug Zu Thun"
+    },
+    {
+     "id": "2f3bf0d2-ecfc-4993-a48e-7843395fc182",
+     "title": "Markus-Passion, BWV 247: Nr. 47 Chorus: Gegrüsset Seyst Du, Der Jüden König!"
+    },
+    {
+     "id": "f8c1418c-0be5-40c4-b701-16f3af40b4aa",
+     "title": "Markus-Passion, BWV 247: Nr. 48 Recitativo, Evangelist: Und Schlugen Ihm Das Haupt Mit Dem Rohr"
+    },
+    {
+     "id": "d7306be7-2154-4579-b28b-2eaa43a53e96",
+     "title": "Markus-Passion, BWV 247: Nr. 49 Choral: Man Hat Dich Sehr Hart Verhöhnet"
+    },
+    {
+     "id": "2d67fb7c-35ea-47ae-9704-328beee4f350",
+     "title": "Markus-Passion, BWV 247: Nr. 50 Recitativo, Evagelist: Und Da Sie Ihn Verspottet Hatten"
+    },
+    {
+     "id": "968bbd1b-0dbe-4fec-88aa-a718e9dd5855",
+     "title": "Markus-Passion, BWV 247: Nr. 51 Choral: Das Wort Sie Sollen Lassen Stahn"
+    },
+    {
+     "id": "0ee177e2-3694-4fa2-a5c4-12f3440be50f",
+     "title": "Markus-Passion, BWV 247: Nr. 52 Recitativo, Evangelist: Und Es War Um Die Dritte Stunde"
+    },
+    {
+     "id": "f8144aa0-4f66-4267-b99e-831d105529a4",
+     "title": "Markus-Passion, BWV 247: Nr. 53 Chorus: Pfui Dich, Wie Fein Zerbrichst Du Den Tempel"
+    },
+    {
+     "id": "563ce9e3-1ddb-4b5d-9f5a-9685da9c14f0",
+     "title": "Markus-Passion, BWV 247: Nr. 54 Recitativo, Evangelist: Desselben Gleichen Die Hohen Priester"
+    },
+    {
+     "id": "66448281-667c-483e-8894-853a1fefefeb",
+     "title": "Markus-Passion, BWV 247: Nr. 55 Chorus: Er Hat Anderen Geholffen, Und Kan Ihm Selber Nicht Helffen"
+    },
+    {
+     "id": "1268e7d0-cc60-4ec4-8d2c-7de791a41b58",
+     "title": "Markus-Passion, BWV 247: Nr. 56 Recitativo, Evangelist: Jesus Und Die Mit Ihm Gecreutziget Waren"
+    },
+    {
+     "id": "a207d812-b6df-45a7-9200-cb013e4dd137",
+     "title": "Markus-Passion, BWV 247: Nr. 57 Choral: Keinen Hat Gott Verlassen"
+    },
+    {
+     "id": "faffb476-a73e-4bfa-a856-a2c1897cc055",
+     "title": "Markus-Passion, BWV 247: Nr. 58a Recitativo, Evangelist: Und Etliche Die Dabey Stunden"
+    },
+    {
+     "id": "3c14113b-5355-4c88-9006-92a959251e77",
+     "title": "Markus-Passion, BWV 247: Nr. 58b Chorus: Siehe, Er Ruffet Dem Elias"
+    },
+    {
+     "id": "47874321-2e5a-4b04-aa8f-03cd68d0f669",
+     "title": "Markus-Passion, BWV 247: Nr. 59 Recitativo, Evangelist, Miles: Da Lief Einer, Und Füllete Den Schwamm Mit Eßig"
+    },
+    {
+     "id": "1b64dbff-61ca-4e7a-80e4-a8622a7b89ad",
+     "title": "Markus-Passion, BWV 247: Nr. 60 Aria, (Duetto) Soprano, Bass: Welt Und Himmel Nehmt Zu Ohren"
+    },
+    {
+     "id": "0a927d33-a4ff-490a-8658-f743c9ca42b8",
+     "title": "Markus-Passion, BWV 247: Nr. 61 Recitativo, Evangelist, Centurio: Und Der Vorhang Im Tempel"
+    },
+    {
+     "id": "3dc114cf-59bd-4794-ac44-c4723134da7e",
+     "title": "Markus-Passion, BWV 247: Nr. 62 Choral: O! Jesu Du"
+    },
+    {
+     "id": "4e36bfaf-c8a2-4664-b20b-a80f112bc7c1",
+     "title": "Markus-Passion, BWV 247: Nr. 63 Recitativo, Evangelist: Und Er Kaufte Ein Leinwand"
+    },
+    {
+     "id": "545d6532-f037-490f-8a78-6280f933169b",
+     "title": "Markus-Passion, BWV 247: Nr. 64 Chorus: Bei Deinem Grab Und Leichen-Stein"
+    }
+   ],
+   "sections": []
+  }
+ ]
+}
