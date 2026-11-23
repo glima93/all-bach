@@ -1,0 +1,147 @@
+{
+ "collection": "mass-in-b-minor",
+ "collector": 7,
+ "taken": "2026-11-23",
+ "recordings": 2294,
+ "performances": 215,
+ "works": [
+  {
+   "bwv": "232",
+   "id": "ef5ff09e-0bf0-4ea1-bbfa-a7e670a0a12d",
+   "also": [],
+   "skipped": {
+    "eb2881da-f920-41f5-bad1-336c50c69a76": "arrangement of h-Moll-Messe, BWV 232: IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: II. Benedictus",
+    "8c485a87-e8fd-4a37-a261-f45086254088": "arrangement of h-Moll-Messe, BWV 232: IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei"
+   },
+   "candidates": [
+    {
+     "id": "ef5ff09e-0bf0-4ea1-bbfa-a7e670a0a12d",
+     "title": "h-Moll-Messe, BWV 232"
+    },
+    {
+     "id": "eb2881da-f920-41f5-bad1-336c50c69a76",
+     "title": "Benedictus from Mass in B minor, BWV 232"
+    },
+    {
+     "id": "8c485a87-e8fd-4a37-a261-f45086254088",
+     "title": "Agnus Dei from Mass in B minor, BWV 232"
+    }
+   ],
+   "ambiguous": false,
+   "title": "h-Moll-Messe, BWV 232",
+   "key": "B minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "5cb97b81-23d4-3f98-b0a1-38c8dda904d2",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: I. Kyrie eleison"
+    },
+    {
+     "id": "f5b3ea26-60dd-3384-aa4f-9523aa4c6fd8",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: II. Christe eleison"
+    },
+    {
+     "id": "6681e508-1498-3fe1-a63d-3649d49be617",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: III. Kyrie eleison"
+    },
+    {
+     "id": "a21509df-2ad2-37da-870b-2d38e1a7443a",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: IV. Gloria in excelsis Deo"
+    },
+    {
+     "id": "39556225-f0e2-3025-baa3-6a8c58f4ff2b",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: V. Et in terra pax"
+    },
+    {
+     "id": "a4b74b69-57b4-37b0-8453-fba754c47230",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: VI. Laudamus te"
+    },
+    {
+     "id": "e6421582-f873-35c8-ace6-dc5bc54c89d5",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: VII. Gratias agimus tibi"
+    },
+    {
+     "id": "f3d5a7f0-0e9d-384d-b605-1a738f1e2a08",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: VIII. Domine Deus"
+    },
+    {
+     "id": "a77df32e-cc6d-3605-87ac-e20c71c101db",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: IX. Qui tollis peccata mundi"
+    },
+    {
+     "id": "7e63e315-a539-3031-8e79-5e7387b19594",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: X. Qui sedes ad dextram Patris"
+    },
+    {
+     "id": "9faa6570-4911-3f19-b379-4820e81450cc",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: XI. Quoniam tu solus Sanctus"
+    },
+    {
+     "id": "69d63e68-c291-3cfa-880f-36ff1930fa7b",
+     "title": "h-Moll-Messe, BWV 232: I. Missa: XII. Cum Sancto Spiritu"
+    },
+    {
+     "id": "1af61f0c-0419-3d76-9ba2-de3cb33201a8",
+     "title": "h-Moll-Messe, BWV 232: II. Symbolum Nicenum: I. Credo in unum Deum"
+    },
+    {
+     "id": "f1f3f339-fa80-30a4-87e2-457f80ab8b83",
+     "title": "h-Moll-Messe, BWV 232: II. Symbolum Nicenum: II. Patrem omnipotentem"
+    },
+    {
+     "id": "abee24d9-c43d-359d-b4a0-79129f4a62a1",
+     "title": "h-Moll-Messe, BWV 232: II. Symbolum Nicenum: III. Et in unum Dominum"
+    },
+    {
+     "id": "fac5477d-1b4c-33f3-98dd-a5b4c3afe5ae",
+     "title": "h-Moll-Messe, BWV 232: II. Symbolum Nicenum: IV. Et incarnatus est"
+    },
+    {
+     "id": "38f19eaf-2c7c-3a8e-9d5c-dc1dcdc80516",
+     "title": "h-Moll-Messe, BWV 232: II. Symbolum Nicenum: V. Crucifixus"
+    },
+    {
+     "id": "15b01a72-3ad7-3a69-959c-63f8a4f52eda",
+     "title": "h-Moll-Messe, BWV 232: II. Symbolum Nicenum: VI. Et resurrexit"
+    },
+    {
+     "id": "8ceeb5b7-dc90-3b5e-8d62-d2a88e8ddf7b",
+     "title": "h-Moll-Messe, BWV 232: II. Symbolum Nicenum: VII. Et in Spiritum Sanctum Dominum"
+    },
+    {
+     "id": "a3a5607b-c366-353b-b43b-be7cc49255ca",
+     "title": "h-Moll-Messe, BWV 232: II. Symbolum Nicenum: VIII. Confiteor"
+    },
+    {
+     "id": "b03e2929-a018-3a00-a1e0-e8a213363baa",
+     "title": "h-Moll-Messe, BWV 232: II. Symbolum Nicenum: IX. Et expecto"
+    },
+    {
+     "id": "ca4e5cac-c140-369d-89ea-130db50bf26f",
+     "title": "h-Moll-Messe, BWV 232: III. Sanctus"
+    },
+    {
+     "id": "7cf1c3ec-9b30-3533-8606-31479c2de526",
+     "title": "h-Moll-Messe, BWV 232: IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: I. Osanna in excelsis"
+    },
+    {
+     "id": "90573391-a02f-36e2-ad49-33de8868816a",
+     "title": "h-Moll-Messe, BWV 232: IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: II. Benedictus"
+    },
+    {
+     "id": "26216824-5cef-3a06-ac21-cc7b2de3327f",
+     "title": "h-Moll-Messe, BWV 232: IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: III. Osanna repetatur"
+    },
+    {
+     "id": "8ac03607-574c-3775-95d1-f288cc0f6f1a",
+     "title": "h-Moll-Messe, BWV 232: IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei"
+    },
+    {
+     "id": "47f13e33-948b-373a-bf4d-8fedca74915b",
+     "title": "h-Moll-Messe, BWV 232: IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: V. Dona nobis pacem"
+    }
+   ],
+   "sections": []
+  }
+ ]
+}
