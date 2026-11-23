@@ -1,0 +1,37 @@
+id: neithard-bethke-2007
+performers:
+- name: Neithard Bethke
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: Ratzeburger Dom
+released: null
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      III. Kyrie eleison', 'I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: VI. Laudamus te', 'I. Missa: VII.
+      Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis peccata mundi', 'I. Missa:
+      X. Qui sedes ad dextram Patris', 'I. Missa: XI. Quoniam tu solus Sanctus', 'I. Missa: XII. Cum Sancto Spiritu',
+    'II. Symbolum Nicenum: I. Credo in unum Deum', 'II. Symbolum Nicenum: II. Patrem omnipotentem', 'II. Symbolum
+      Nicenum: III. Et in unum Dominum', 'II. Symbolum Nicenum: IV. Et incarnatus est', 'II. Symbolum Nicenum: V.
+      Crucifixus', 'II. Symbolum Nicenum: VI. Et resurrexit', 'II. Symbolum Nicenum: VII. Et in Spiritum Sanctum
+      Dominum', 'II. Symbolum Nicenum: VIII. Confiteor', 'II. Symbolum Nicenum: IX. Et expecto', III. Sanctus, 'IV.
+      Osanna, Benedictus, Agnus Dei, Dona nobis pacem: I. Osanna in excelsis', 'IV. Osanna, Benedictus, Agnus Dei,
+      Dona nobis pacem: II. Benedictus', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: III. Osanna repetatur',
+    'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei', 'IV. Osanna, Benedictus, Agnus Dei, Dona
+      nobis pacem: V. Dona nobis pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/579c1fc2-1ba7-46fc-9f26-371815dc55bc
+  title: Hohe Messe in H-Moll
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 69b727a7-ca22-48c2-851b-d6997bdd73cb
+  recordings: [5a6ace1c-82df-422a-8af9-22b59d145a7b]

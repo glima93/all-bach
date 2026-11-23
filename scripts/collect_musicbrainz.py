@@ -46,7 +46,12 @@ API = "https://musicbrainz.org/ws/2/"
 # Version 5: skipped candidates name the works they arrange.
 # Version 6: "Choralbearbeitung" is not an arrangement; numbered BWV³ versions (BWV 659.2) are found, the
 # latest kept.
-COLLECTOR_VERSION = 6
+# Version 7 (run 22): the title search asks for 100 works, not 25. A large vocal work's movements probably ("h-Moll-Messe,
+# BWV 232: I. Missa: I. Kyrie eleison") fill the first 25 results, so the Mass in B minor came out with no work
+# at all (collected 21 Nov 2026: 0 works). Its parent-work title is then found further down. When the search
+# still finds only movements ("BWV 232: …"), the work they are part of is climbed to and taken. Recordings
+# linked to a section of a work (the Missa, the Symbolum Nicenum of BWV 232) count for every movement in it.
+COLLECTOR_VERSION = 7
 UA = "AllBach/0.2 ( https://github.com/glima93/all-bach )"
 GROUPS = ["Orchestra", "Group", "Choir"]
 # Modes whose performances are grouped by the orchestra, ensemble or choir when one is credited.
@@ -144,6 +149,24 @@ class Collector:
         seen = set()
         return [m for m in out if not (m["id"] in seen or seen.add(m["id"]))]
 
+    def sections(self, wid: str, depth: int = 0) -> list[dict]:
+        """Parts that have parts of their own (the Missa of BWV 232), each with the ids of its movements."""
+        out = []
+        for p in self.work(wid)["parts"]:
+            if self.work(p["id"])["parts"] and depth < 2:
+                out.append({"id": p["id"], "title": p["title"], "leaves": [m["id"] for m in self.leaves(p["id"], depth + 1)]})
+                out += self.sections(p["id"], depth + 1)
+        return out
+
+    def root(self, wid: str) -> str:
+        """The work a movement is part of, climbed to the top (not through collections)."""
+        for _ in range(4):
+            up = self.work(wid)["part_of"]
+            if not up:
+                break
+            wid = up[0]
+        return wid
+
     def find(self, bwv: str) -> dict:
         """The MusicBrainz work for one BWV number: searched by title, arrangements and movements dropped,
         the candidate with the most movements kept. Every candidate is recorded for review.
@@ -156,17 +179,25 @@ class Collector:
         movements of other works out."""
         def get():
             q = f'"BWV {bwv}" AND arid:{BACH}'
-            res = self.mb("work?query=" + requests.utils.quote(q) + "&limit=25")
+            res = self.mb("work?query=" + requests.utils.quote(q) + "&limit=100")
             # A range ("BWV 972–987") names a set of works, not this one.
             pat = re.compile(rf"BWV\s*{bwv}(?![0-9a-z./]|\s*[–-]\s*\d)", re.I)
-            cands = []
+            cands, movement = [], None
             for w in res.get("works") or []:
                 m = pat.search(w["title"])
-                if not m or ":" in w["title"][m.end():]:
+                if not m:
+                    continue
+                if ":" in w["title"][m.end():]:
+                    movement = movement or w["id"]
                     continue
                 cands.append({"id": w["id"], "title": w["title"], "score": w.get("score", 0)})
+            if not cands and movement:
+                # Only movements found (a large work's parts fill the results): take the work they belong to.
+                top = self.work(self.root(movement))
+                if pat.search(top["title"]) and ":" not in top["title"][pat.search(top["title"]).end():]:
+                    cands.append({"id": top["id"], "title": top["title"], "score": 0})
             return cands[:6]
-        cands = self.cached("search:" + bwv, get)
+        cands = self.cached("search100:" + bwv, get)
 
         # The new BWV numbering (BWV³) splits versions as <n>.1, <n>.2 …: MusicBrainz files the Leipzig
         # version of BWV 659 as "BWV 659.2", which the phrase search for "BWV 659" does not find.
@@ -236,6 +267,9 @@ class Collector:
                 lo, _, hi = spec.partition("-")
                 for n in range(int(lo), int(hi or lo) + 1):
                     out.append(self.find(str(n)))
+            # Versions with their own BWV letter that the plan lists (`variants`: the E-flat Magnificat BWV 243a).
+            for v in col.get("variants") or []:
+                out.append(self.find(v))
         works = []
         for f in out:
             if not f["id"]:
@@ -245,7 +279,7 @@ class Collector:
             if not w["parts"] and f.get("also"):
                 moves = [{**moves[0], "also": f["also"]}]
             works.append({**f, "title": w["title"], "key": w["key"], "has_parts": bool(w["parts"]),
-                          "movements": moves})
+                          "movements": moves, "sections": self.sections(f["id"]) if w["parts"] else []})
         return works
 
     # ── collecting the recordings ───────────────────────────────────────────────────────
@@ -331,6 +365,11 @@ def group(works: list[dict], recs_by_leaf, whole_recs, grouped: bool) -> list[di
                     add(row, wi, [pi])
         for row in whole_recs(w):
             add(row, wi, range(len(w["movements"])))
+        idx = {m["id"]: pi for pi, m in enumerate(w["movements"])}
+        for sec in w.get("sections") or []:
+            pis = [idx[l] for l in sec["leaves"] if l in idx]
+            for row in recs_by_leaf(sec["id"]):
+                add(row, wi, pis)
 
     def key(r):
         g = [x for x, t in zip(r["a"], r["t"]) if t in GROUPS] if grouped else []
@@ -457,8 +496,8 @@ def collect(col: dict, args) -> bool:
             ',\n"mode": ' + json.dumps(mode) + ',\n"rows": [\n' +
             ",\n".join(dumps(r) for r in rows(perfs, c.detail)) + "\n]\n}\n")
     (out / f"musicbrainz-{col['id']}.json").write_text(snap, encoding="utf-8")
-    n_rec = len({r[0] for w in works for m in w["movements"] for mid in [m["id"], *m.get("also", [])]
-                 for r in c.recordings(mid)})
+    n_rec = len({r[0] for w in works for mid in [x for m in w["movements"] for x in [m["id"], *m.get("also", [])]]
+                 + [sec["id"] for sec in w.get("sections") or []] for r in c.recordings(mid)})
     tree = {"collection": col["id"], "collector": COLLECTOR_VERSION, "taken": time.strftime("%Y-%m-%d"), "recordings": n_rec,
             "performances": len(perfs), "works": works}
     (out / f"tree-{col['id']}.json").write_text(json.dumps(tree, ensure_ascii=False, indent=1), encoding="utf-8")

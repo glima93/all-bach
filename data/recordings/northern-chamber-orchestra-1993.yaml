@@ -1,0 +1,43 @@
+id: northern-chamber-orchestra-1993
+performers:
+- name: Northern Chamber Orchestra
+  role: orchestra
+- name: Schola Cantorum of Oxford
+  role: choir
+- name: Nicholas Ward
+  role: conductor
+- name: Jeremy Summerly
+  role: conductor
+- name: Caroline Trevor
+  role: performer
+- name: Jayne Whitaker
+  role: soprano
+- name: Anna Crookes
+  role: performer
+- name: Timothy Robinson
+  role: performer
+- name: Nicholas Gedge
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993, 1994]
+  place: St Peter’s Church, Hale, Cheshire
+released: 1995
+original_label: null
+works:
+- {bwv: '243', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/78c7dca1-ab88-457d-8e39-d141394cc0d8
+  title: Magnificat BWV 243 / Cantata “Ich habe genug” BWV 82
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b9e65a0c-b3e0-4d1a-9df5-524acec374fc
+  recordings: [5689d4eb-b68a-460f-a5bf-1394dd5315fb, 7caf38bf-dc13-4c02-9731-81433ad2c79c, 885fa26f-3cb1-4f59-84e6-b50698e35040,
+    c55098a2-ef95-4006-95a3-a4cb2e38c96b]

@@ -1,0 +1,62 @@
+id: the-netherlands-bach-society-2006
+performers:
+- name: The Netherlands Bach Society
+  role: ensemble
+- name: Nederlands Kamerkoor
+  role: choir
+- name: Jos van Veldhoven
+  role: conductor
+- name: Lauren Armishaw
+  role: soprano
+- name: Matthew Baker
+  role: bass
+- name: Donald Bentvelsen
+  role: bass
+- name: Amaryllis Dieltiens
+  role: soprano
+- name: Elena Pozhidaeva
+  role: contralto
+- name: Immo Schröder
+  role: tenor
+- name: Marieke Steenhoek
+  role: soprano
+- name: Klaartje van Veldhoven
+  role: soprano
+- name: Simon Wall
+  role: tenor
+- name: Daniel Lager
+  role: performer
+- name: Matthew White
+  role: performer
+- name: Johannette Zomer
+  role: soprano
+- name: Charles Daniels
+  role: performer
+- name: Peter Harvey
+  role: performer
+- name: Dorothee Mields
+  role: soprano
+- name: De Nederlandse Bachvereniging
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: Waalse Kerk
+released: 2007
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6b1bef2e-d0ba-4719-8cd6-3fe8f984a2f4
+  title: 'Bach: Mass in B-Minor / The Netherlands Bach Society, Jos van Veldhoven'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [2ea25569-b4cb-4158-8a79-98ca827ee476, 958c34fa-04bb-45e9-8b63-9f0812a9dd15, e4e39826-0fad-4279-a5c9-d6b939ec6bed]

@@ -1,0 +1,36 @@
+id: le-concert-d-astree-2006
+performers:
+- name: Le Concert d'Astrée
+  role: orchestra
+- name: Emmanuelle Haïm
+  role: conductor
+- name: Philippe Jaroussky
+  role: performer
+- name: Toby Spence
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: Église Notre‐Dame du Liban
+released: 2007
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59495743-f5ec-42ca-8dee-bb11ac87e29a
+  title: 'Bach: Magnificat / Händel: Dixit Dominus'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: af36e5d8-b8d2-4d09-af20-44db75126d64
+  recordings: [ba96c311-7536-402b-8ca0-3ee3a5c0ee69]

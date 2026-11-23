@@ -1,0 +1,38 @@
+id: rundfunkchor-leipzig-1981
+performers:
+- name: Rundfunkchor Leipzig
+  role: choir
+- name: Neues Bachisches Collegium Musicum Leipzig
+  role: orchestra
+- name: Peter Schreier
+  role: conductor
+- name: Lucia Popp
+  role: performer
+- name: Carolyn Watkinson
+  role: performer
+- name: Theo Adam
+  role: performer
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1981, 1982]
+  place: Paul-Gerhardt-Kirche, Leipzig
+released: 1984
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c853e298-877b-4085-8961-78c185df38b5
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 25644cee-ce2d-4f88-ba4e-c1677a57592d
+  recordings: [d9495a4a-fbbe-475d-a39e-41edf9723301]

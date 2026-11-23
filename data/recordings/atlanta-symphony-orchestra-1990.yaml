@@ -1,0 +1,47 @@
+id: atlanta-symphony-orchestra-1990
+performers:
+- name: Atlanta Symphony Orchestra
+  role: orchestra
+- name: Chamber Chorus
+  role: choir
+- name: Atlanta Symphony Orchestra Chorus
+  role: choir
+- name: Robert Shaw
+  role: conductor
+- name: Sylvia McNair
+  role: soprano
+- name: Delores Ziegler
+  role: performer
+- name: John Aler
+  role: tenor
+- name: Thomas Paul
+  role: performer
+- name: Marietta Simpson
+  role: performer
+- name: William Stone
+  role: performer
+- name: Atlanta Symphony Orchestra Chamber Chorus
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: Atlanta Symphony Hall
+released: null
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/151c9903-21c2-4a51-8b57-136e7656d954
+  title: Mass in B Minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: def21109-9bb8-49ed-925f-de579da669bc
+  recordings: [266461ce-0e7d-4517-b1f6-f4ac53153f6e, 8ed02d30-119d-455b-b5a6-4e28a6d642ba, ca3d407f-409d-4198-ad1b-f069f65747cb,
+    d2a5945b-a85b-4ecf-99b6-e7888c8a9704]

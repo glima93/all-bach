@@ -1,0 +1,30 @@
+id: robert-shaw-orchestra-1960
+performers:
+- name: Robert Shaw Orchestra
+  role: orchestra
+- name: Robert Shaw
+  role: conductor
+- name: Robert Shaw Chorale
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: Manhattan Center
+released: 1999
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e4f50249-9671-4cc4-a125-dea8f2874474
+  title: B Minor Mass
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f49cbf89-f651-421d-9857-f3a12de39d97
+  recordings: [ff6e0beb-b701-42cc-8c0c-cf317e4797a8]

@@ -1,0 +1,34 @@
+id: new-bach-collegium-musicum-leipzig-undated
+performers:
+- name: New Bach Collegium Musicum Leipzig
+  role: orchestra
+- name: Hans-Christian Bartel
+  role: performer
+- name: Georg Christoph Biller
+  role: conductor
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [VII. Choral Interpolation "Freut euch und jubiliert"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c72b0428-de5a-468e-85c9-e1ab7aa76d6f
+  title: 111 Classics for Christmas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [6c146913-6570-4c16-872b-7119e33ad80f]

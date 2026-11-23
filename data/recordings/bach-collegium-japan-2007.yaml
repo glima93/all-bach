@@ -1,0 +1,40 @@
+id: bach-collegium-japan-2007
+performers:
+- name: Bach Collegium Japan
+  role: orchestra
+- name: Bach Collegium Japan Chorus
+  role: choir
+- name: Masaaki Suzuki
+  role: conductor
+- name: Carolyn Sampson
+  role: soprano
+- name: Rachel Nicholls
+  role: soprano
+- name: Robin Blaze
+  role: countertenor
+- name: Gerd Türk
+  role: tenor
+- name: Peter Kooy
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: 神戸松蔭女子学院大学チャペル
+released: 2007
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0d9d7b6-e08e-4ee8-8d0f-91e95ba13f67
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [09bc169f-09b8-4e29-a626-f812421b98f2]

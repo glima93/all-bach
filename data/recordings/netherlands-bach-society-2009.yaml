@@ -1,0 +1,43 @@
+id: netherlands-bach-society-2009
+performers:
+- name: Netherlands Bach Society
+  role: ensemble
+- name: Jos van Veldhoven
+  role: conductor
+- name: Charles Daniels
+  role: performer
+- name: Johannette Zomer
+  role: performer
+- name: Dorothee Mields
+  role: performer
+- name: Stephan MacLeod
+  role: performer
+- name: William Towers
+  role: performer
+- name: De Nederlandse Bachvereniging
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: Concertzaal, Theaters Tilburg, The Netherlands
+released: 2010
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a6ea2818-7294-4d23-93c8-8d378943b6d7
+  title: Magnificat / Unser Mund sei voll Lachens
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [98552c49-5548-4df5-82c1-8c6ed2255d69]

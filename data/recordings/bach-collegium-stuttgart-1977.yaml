@@ -1,0 +1,30 @@
+id: bach-collegium-stuttgart-1977
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: Gedächtniskirche Stuttgart
+released: 1985
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac732bb9-adf4-4530-b915-8458048765b7
+  title: MESSE H-MOLL, BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [2a590260-6ede-4720-8d24-d7d58d8519f2, 51719453-3bae-4974-a7c6-d44f139a6cca]

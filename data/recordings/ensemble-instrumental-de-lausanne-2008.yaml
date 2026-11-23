@@ -1,0 +1,39 @@
+id: ensemble-instrumental-de-lausanne-2008
+performers:
+- name: Ensemble Instrumental de Lausanne
+  role: orchestra
+- name: Ensemble Vocal de Lausanne
+  role: choir
+- name: Michel Corboz
+  role: conductor
+- name: Valérie Bonnard
+  role: alto
+- name: Yumiko Tanimura
+  role: soprano
+- name: Sébastien Droy
+  role: performer
+- name: Christian Immler
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f340be85-d5bc-4a14-a4a6-d2870c9d57ba
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2331c561-85db-45a5-a180-8c94bdab4f0a
+  recordings: [300c0e25-8f15-41f1-a877-13e9ca2853d0, f01409a7-a53f-44d6-b07f-209732c1c3f3]

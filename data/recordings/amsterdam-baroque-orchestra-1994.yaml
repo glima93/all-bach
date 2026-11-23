@@ -1,0 +1,30 @@
+id: amsterdam-baroque-orchestra-1994
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Ton Koopman
+  role: conductor
+- name: Amsterdam Baroque Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: Waalse Kerk
+released: 1995
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fcd30d61-5d82-4e9c-90ad-e43533a2549d
+  title: Messe in h-moll, BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [05601cfa-ebc9-43d2-91d9-21be8694dde1, 84ff74a0-79e3-4d44-b349-f07b5d538fae]

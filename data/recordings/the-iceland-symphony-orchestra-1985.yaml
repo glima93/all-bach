@@ -1,0 +1,32 @@
+id: the-iceland-symphony-orchestra-1985
+performers:
+- name: The Iceland Symphony Orchestra
+  role: orchestra
+- name: Ingólfur Guðbrandsson
+  role: conductor
+- name: Pólyfónkórinn
+  role: choir
+- name: Sinfóníuhljómsveit Íslands
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985]
+  place: Háskólabíó Ráðstefnu- og menningarmiðstöð
+released: 2007
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/880c2025-7e7b-43e4-b7c9-1d51b04a53b6
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: cc40ae57-e255-4c49-917d-3a957bc0f267
+  recordings: [1471f68a-f2e8-4e10-b860-ffeb3f3644b1]

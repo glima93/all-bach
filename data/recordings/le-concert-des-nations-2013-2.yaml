@@ -1,0 +1,44 @@
+id: le-concert-des-nations-2013-2
+performers:
+- name: Le Concert des Nations
+  role: orchestra
+- name: La Capella Reial de Catalunya
+  role: choir
+- name: Jordi Savall
+  role: conductor
+- name: Johannette Zomer
+  role: soprano
+- name: Damien Guillon
+  role: performer
+- name: David Munderloh
+  role: performer
+- name: Hanna Bayodi‐Hirt
+  role: performer
+- name: Stephan MacLeod
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2013]
+  place: Chapelle royale du château de Versailles
+released: 2014
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/adbc95fb-e8bc-45fb-81ad-d131fedc5bf8
+  title: Magnificat & Concerti
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e3b43b6a-14b0-4b2a-abd4-a41307cf10a0
+  recordings: [4ac9de3a-d758-4fb9-97d0-cf544aaa89ab, 9b990c71-8d4b-43cd-9371-fa2b1c772dad]

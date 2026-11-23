@@ -1,0 +1,46 @@
+id: gli-angeli-geneve-2020
+performers:
+- name: Gli Angeli Genève
+  role: orchestra
+- name: Stephan MacLeod
+  role: conductor
+- name: Alex Potter
+  role: performer
+- name: Valerio Contaldo
+  role: performer
+- name: Marianne Beate Kielland
+  role: performer
+- name: Aleksandra Lewandowska
+  role: performer
+- name: Anne-Kathryn Olsen
+  role: performer
+- name: Christelle Monney
+  role: performer
+- name: Olivier Coiffet
+  role: performer
+- name: Zoë Brookshaw
+  role: performer
+- name: Jaromir Nosek
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: 'Maison de la radio: Studio Ernest Ansermet'
+released: 2021
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8de39a9c-f165-40d1-86ac-77adb4816a39
+  title: h-moll Messe
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b13e3667-91b4-47d6-b871-0986865aa4c1
+  recordings: [7c8f632b-eb64-492e-9285-ac4114e2f0b0]

@@ -1,0 +1,33 @@
+id: orchestra-of-st-luke-s-undated-3
+performers:
+- name: Orchestra of St. Luke’s
+  role: orchestra
+- name: Blanche Honegger Moyse
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: River Valley Performing Arts Center Putney Vermont.
+released: 1988
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ebf5aacf-e513-48b0-9a5d-f136bbe5184c
+  title: Magnificat in D major, BWV 243 / Kantate, BWV 140
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2dc04707-7cf9-4e9b-8869-6cb5644794b8
+  recordings: [ea94b2ce-2ed6-42bb-8a78-dc1da5e1908a]

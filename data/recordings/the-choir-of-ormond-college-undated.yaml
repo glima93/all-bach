@@ -1,0 +1,32 @@
+id: the-choir-of-ormond-college-undated
+performers:
+- name: The Choir of Ormond College
+  role: choir
+- name: Douglas Lawrence
+  role: conductor
+- name: Ormond College Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: IV. Gloria in excelsis Deo']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/deb3b70a-195f-4e5d-a205-0c4454fa7a79
+  title: The Choir of Ormond College Live
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5210238d-d64c-45d7-8cfa-4e29ec47c1ef
+  recordings: [9fc28485-c4b4-4b45-a193-e5f137594cf0]

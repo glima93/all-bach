@@ -1,0 +1,42 @@
+id: rheinische-kantorei-1992
+performers:
+- name: Rheinische Kantorei
+  role: choir
+- name: Das Kleine Konzert
+  role: orchestra
+- name: Hermann Max
+  role: conductor
+- name: Veronika Winter
+  role: soprano
+- name: Johanna Koslowsky
+  role: soprano
+- name: Kai Wessel
+  role: countertenor
+- name: Markus Brutscher
+  role: tenor
+- name: Hans-Georg Wimmer
+  role: bass
+- name: Stephan Schreckenberger
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1992]
+  place: Zeughaus, Neuss
+released: 1996
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/59927b8a-a422-4d70-9779-9db3b86aab53
+  title: The Voice
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: ec486daa-0575-401e-bbb4-737a1eefda7f
+  recordings: [34f515e9-aa4b-44b7-8456-d7945002fb46, 38374415-608c-499c-bc23-c421e7b9e312, d675a2be-a4a5-4cb0-86bf-4ae61f140008]

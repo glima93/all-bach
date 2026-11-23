@@ -1,0 +1,34 @@
+id: collegium-vocale-gent-1988
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Charles Brett
+  role: performer
+- name: Catherine Patriasz
+  role: performer
+- name: Howard Crook
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: Minderbroederskerk
+released: 1989
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/955c03aa-cc8f-4ec3-acb1-a0db53ca4bff
+  title: Messe in H-Moll
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [a5cf9731-a3bb-42c0-bff3-443180ea35b7, ce65842c-d4e8-4349-9456-4a61b8545721]

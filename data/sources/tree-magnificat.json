@@ -1,0 +1,171 @@
+{
+ "collection": "magnificat",
+ "collector": 7,
+ "taken": "2026-11-23",
+ "recordings": 923,
+ "performances": 155,
+ "works": [
+  {
+   "bwv": "243",
+   "id": "f82a5e63-0b6c-433d-8c55-ce990582cfe9",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "f82a5e63-0b6c-433d-8c55-ce990582cfe9",
+     "title": "Magnificat D-Dur, BWV 243"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Magnificat D-Dur, BWV 243",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "cbe8f382-8945-3b09-a33d-9782127c958c",
+     "title": "Magnificat D-Dur, BWV 243: I. Coro \"Magnificat anima mea\""
+    },
+    {
+     "id": "03e1cb04-d5eb-30d2-ab86-6db95789a397",
+     "title": "Magnificat D-Dur, BWV 243: II. Aria (Sopran II) \"Et exsultavit spiritus meus\""
+    },
+    {
+     "id": "f713689b-9954-38bf-a12c-2c42d54afb2c",
+     "title": "Magnificat D-Dur, BWV 243: III. Aria (Sopran I) \"Quia respexit\""
+    },
+    {
+     "id": "0b270ec3-70c8-335c-aae4-ea6002abd9db",
+     "title": "Magnificat D-Dur, BWV 243: IV. Coro \"Omnes generationes\""
+    },
+    {
+     "id": "63db6891-c2b1-312e-a6d4-24f0f645a616",
+     "title": "Magnificat D-Dur, BWV 243: V. Aria (Bass) \"Quia fecit mihi magna\""
+    },
+    {
+     "id": "9b603532-0dc0-375a-a93f-f2d005817592",
+     "title": "Magnificat D-Dur, BWV 243: VI. Aria (Alt, Tenor) \"Et misericordia\""
+    },
+    {
+     "id": "c7787908-77d6-3ad8-a814-922cfed39d2f",
+     "title": "Magnificat D-Dur, BWV 243: VII. Coro \"Fecit potentiam\""
+    },
+    {
+     "id": "09750988-0f4e-3c6a-874b-96f600896535",
+     "title": "Magnificat D-Dur, BWV 243: VIII. Aria (Tenor) \"Deposuit potentes\""
+    },
+    {
+     "id": "3a726447-57b3-3d6e-96f6-84e5a1b19896",
+     "title": "Magnificat D-Dur, BWV 243: IX. Aria (Alt) \"Esurientes implevit bonis\""
+    },
+    {
+     "id": "fa8db2f4-ab99-3469-ad5e-62ef2fa65001",
+     "title": "Magnificat D-Dur, BWV 243: X. Aria (Sopran I, Sopran II, Alt) \"Suscepit Israel\""
+    },
+    {
+     "id": "e3d10bfc-9228-31f8-9626-17c991fc36e9",
+     "title": "Magnificat D-Dur, BWV 243: XI. Coro \"Sicut locutus est\""
+    },
+    {
+     "id": "65d4fe0a-1499-35dd-b629-fb4e26d98103",
+     "title": "Magnificat D-Dur, BWV 243: XII. Coro \"Gloria Patri\""
+    },
+    {
+     "id": "3f809e9a-3bf6-404e-b9cd-679340847fe1",
+     "title": "Magnificat in D major, BWV 243: III. Choral Interpolation \"Vom Himmel hoch\""
+    },
+    {
+     "id": "d8d7d9e4-0292-48f6-9c40-681bfb2e7b44",
+     "title": "Magnificat in D major, BWV 243: VII. Choral Interpolation \"Freut euch und jubiliert\""
+    },
+    {
+     "id": "a5cd7ddf-efb7-4645-af1b-0f4ba5e7f2fc",
+     "title": "Magnificat in D major, BWV 243: X. Choral Interpolation \"Gloria in excelsis Deo\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "243a",
+   "id": "0a13584c-c3ac-4620-9303-7d45c963fb1d",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "0a13584c-c3ac-4620-9303-7d45c963fb1d",
+     "title": "Magnificat Es-Dur, BWV 243a"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Magnificat Es-Dur, BWV 243a",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "898f6853-bd87-34df-824a-72e6165969d6",
+     "title": "Magnificat Es-Dur, BWV 243a: I. Coro \"Magnificat anima mea Dominum\""
+    },
+    {
+     "id": "8a18c277-6fc7-301f-a73f-a01d567ca002",
+     "title": "Magnificat Es-Dur, BWV 243a: IIa. Aria (Sopran II) \"Et exsultavit\""
+    },
+    {
+     "id": "ea375876-436a-3fa2-a34a-d8f1b89f848e",
+     "title": "Magnificat Es-Dur, BWV 243a: IIb. Coro (a-cappella) \"Vom Himmel hoch\""
+    },
+    {
+     "id": "ddfbf01d-91ca-38af-8aa2-3662b0cf5d62",
+     "title": "Magnificat Es-Dur, BWV 243a: III. Aria (Sopran I) \"Quia respexit\""
+    },
+    {
+     "id": "7fd2b303-fc71-3d0c-a257-733b0d3e8a6b",
+     "title": "Magnificat Es-Dur, BWV 243a: IV. Coro \"Omnes generationes\""
+    },
+    {
+     "id": "5391e101-a602-3934-b83b-0b73cb19328c",
+     "title": "Magnificat Es-Dur, BWV 243a: Va. Aria (Bass) \"Quia fecit mihi magna\""
+    },
+    {
+     "id": "5cc54cb1-9498-3233-8587-7fc1e25d6537",
+     "title": "Magnificat Es-Dur, BWV 243a: Vb. Coro \"Freut euch und jubiliert\""
+    },
+    {
+     "id": "8a0aa9a7-2f48-3ca2-829c-33966653fd05",
+     "title": "Magnificat Es-Dur, BWV 243a: VI. Aria (Alt, Tenor) \"Et misericordia\""
+    },
+    {
+     "id": "ac23eadc-fcca-32df-a3ef-17033e68f6ad",
+     "title": "Magnificat Es-Dur, BWV 243a: VIIa. Coro \"Fecit potentiam\""
+    },
+    {
+     "id": "55add2b5-18be-31c7-b8ec-62e93e23951f",
+     "title": "Magnificat Es-Dur, BWV 243a: VIIb. Coro \"Gloria in excelsis Deo\""
+    },
+    {
+     "id": "4dd2ed36-fd65-35b2-9266-32ac13a1b6dc",
+     "title": "Magnificat Es-Dur, BWV 243a: VIII. Aria (Tenor) \"Deposuit potentes\""
+    },
+    {
+     "id": "bf8e2475-a867-35bf-8b15-f1e4be70c8eb",
+     "title": "Magnificat Es-Dur, BWV 243a: IXa. Aria (Alt) \"Esurientes implevit bonis\""
+    },
+    {
+     "id": "5a11e54c-bbc6-3390-a4e2-8ce990e8f763",
+     "title": "Magnificat Es-Dur, BWV 243a: IXb. Aria (Sopran, Bass) \"Virga Jesse floruit\""
+    },
+    {
+     "id": "fe69757a-5fb9-34ec-b3f3-1aec2c802790",
+     "title": "Magnificat Es-Dur, BWV 243a: X. Aria (Sopran I, Sopran II, Alt) \"Suscepit Israel\""
+    },
+    {
+     "id": "97230477-7736-359f-98e9-a99b37d7438c",
+     "title": "Magnificat Es-Dur, BWV 243a: XI. Coro \"Sicut locutus est\""
+    },
+    {
+     "id": "2755e4f2-0d75-3669-934b-906b57c3632d",
+     "title": "Magnificat Es-Dur, BWV 243a: XII. Coro \"Gloria Patri et filio\""
+    }
+   ],
+   "sections": []
+  }
+ ]
+}

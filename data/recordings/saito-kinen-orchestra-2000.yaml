@@ -1,0 +1,38 @@
+id: saito-kinen-orchestra-2000
+performers:
+- name: Saito Kinen Orchestra
+  role: orchestra
+- name: Tokyo Opera Singers
+  role: choir
+- name: Seiji Ozawa
+  role: conductor
+- name: Barbara Bonney
+  role: soprano
+- name: Angelika Kirchschlager
+  role: mezzo-soprano
+- name: John Mark Ainsley
+  role: tenor
+- name: Alastair Miles
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: The Harmony Hall
+released: 2002
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf57e601-a77d-4430-be31-9cd0cd71f060
+  title: Mass in B Minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c7850add-2734-43be-9118-2cd159391ff4
+  recordings: [9daae65d-2dd9-4640-8396-29ce448b79a3, a21f43a6-a595-4668-b933-035752511cb9]

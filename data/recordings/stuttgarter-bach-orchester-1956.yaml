@@ -1,0 +1,44 @@
+id: stuttgarter-bach-orchester-1956
+performers:
+- name: Stuttgarter Bach-Orchester
+  role: orchestra
+- name: Staatsorchester Stuttgart
+  role: orchestra
+- name: Stuttgarter Bach-Chor
+  role: choir
+- name: Marcel Couraud
+  role: conductor
+- name: Friederike Sailer
+  role: soprano
+- name: Margarete Bence
+  role: performer
+- name: Fritz Wunderlich
+  role: performer
+- name: August Messthaler
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1956]
+  place: Studio des Süddeutschen Rundfunks
+released: 1958
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac52836c-d5d7-4242-9119-6198c6c51c2b
+  title: Complete Studio Recordings on Deutsche Grammophon
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ef781c3e-eddb-4f61-b493-f3f5243af63f
+  recordings: [15cd2a35-0450-4253-aaeb-ce02f945d302, 28fc807d-7cd9-4705-b51d-9d9e1ba86968, dc095cbc-6c50-48bb-b6c8-5a932b12055b]

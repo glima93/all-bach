@@ -1,0 +1,31 @@
+id: bach-collegium-stuttgart-2000
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: 243a, complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/661648bf-3d60-46a5-a1d0-69530150c256
+  title: 'Sacred Vocal Works: Magnificat in E‐Flat Major, BWV 243a / BWV 232ᴵᴵ, 34a, 69a, 120a, 197a'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [b8c6f4ff-ed57-4233-8280-4a6cc869b507, f0252308-2854-4971-8167-d07e133b26ff]

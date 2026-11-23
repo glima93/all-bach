@@ -1,0 +1,32 @@
+id: dominic-miller-2003
+performers:
+- name: Dominic Miller
+  role: guitar
+- name: The Budapest Film Orchestra
+  role: orchestra
+- name: Nick Ingman
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2003]
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: IX. Qui tollis peccata mundi']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d323f8b-bad4-4d55-aaf4-c725dd505b8f
+  title: Shapes
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: b65c975f-4eaa-4bd4-9d10-704a80e92548
+  recordings: [0ca56a24-02a8-414d-8fdd-8d657851173b, 1f133597-21d0-4477-ad59-4f91465fea6a]

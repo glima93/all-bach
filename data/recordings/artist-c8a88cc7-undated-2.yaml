@@ -1,0 +1,31 @@
+id: artist-c8a88cc7-undated-2
+performers:
+- name: הפילהרמונית
+  role: orchestra
+- name: דוד ד׳אור
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3721149a-9201-4380-8100-e79ff0890c38
+  title: דוד ד׳אור והפילהרמונית
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: c8a88cc7-c93e-42b5-ba29-68859b5716e3
+  recordings: [cdbc85be-a847-424d-9f33-a1338218ffc0]

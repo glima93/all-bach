@@ -1,0 +1,70 @@
+id: english-baroque-soloists-1985
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Monteverdi Choir
+  role: choir
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Nancy Argenta
+  role: soprano
+- name: Lloyd Morgan
+  role: performer
+- name: Stephen Varcoe
+  role: bass
+- name: Patrick Collin
+  role: alto
+- name: Jane Fairfield
+  role: soprano
+- name: Jean Knibbs
+  role: soprano
+- name: Andrew Murgatroyd
+  role: tenor
+- name: Ashley Stafford
+  role: countertenor
+- name: Lisa Beznosiuk
+  role: performer
+- name: Michael Chance
+  role: performer
+- name: Sophia McKenna
+  role: performer
+- name: Lynne Dawson
+  role: soprano
+- name: Carol Hall
+  role: mezzo-soprano
+- name: Elizabeth Wilcock
+  role: performer
+- name: Howard Milner
+  role: performer
+- name: Michael Thompson
+  role: performer
+- name: Patrizia Kwella
+  role: performer
+- name: Mary Nichols
+  role: mezzo-soprano
+- name: Valerie Darke
+  role: performer
+- name: Wynford Evans
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1985]
+  place: All Saints Church
+released: null
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/57f51b0b-9102-4a3a-a257-00d735a57dfe
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [1a3909ac-a117-45f9-9fa9-3d58246027a9, 48a7fead-08dc-4621-9bb3-cecf749bbaca, e379c9d9-e57c-4afb-ae63-e2c09c4504bb]

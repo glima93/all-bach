@@ -1,0 +1,32 @@
+id: orchestre-de-chambre-de-lausanne-undated
+performers:
+- name: Orchestre de Chambre de Lausanne
+  role: orchestra
+- name: Michel Corboz
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1977
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/744f68a7-6540-412c-b95d-9a39d5d8b6f5
+  title: Hi-Fi Test / Prüfung und Erprobung von Stereo-Geräten
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9cf920f-3b1d-4577-a104-5a3d462cefa6
+  recordings: [c1ea6dce-162d-46b1-9ce1-f1f14eead194]

@@ -1,0 +1,31 @@
+id: english-chamber-orchestra-1973-2
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Johannes Somary
+  role: conductor
+- name: Amor Artis Chorale
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99bfd174-e463-4b28-abc5-4e65227480e7
+  title: Big Bach Set
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [7d70dd24-ff49-4e42-b61f-869861a7bb95]

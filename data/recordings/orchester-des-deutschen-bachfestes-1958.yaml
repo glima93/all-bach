@@ -1,0 +1,31 @@
+id: orchester-des-deutschen-bachfestes-1958
+performers:
+- name: Orchester des 35 Deutschen Bachfestes
+  role: orchestra
+- name: Hans Grischkat
+  role: conductor
+- name: Schwäbischer Singkreis
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958]
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0f808bf-9348-46e4-9d47-ddacb7d94939
+  title: Die großen geistliche Vokalwerke / Great Religious Vocal Works
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: d99f81d9-326c-48b5-acea-88059d5f53da
+  recordings: [6fb19ece-7d70-4d39-85b3-798c9d6b2210]

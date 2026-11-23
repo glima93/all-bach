@@ -1,0 +1,34 @@
+id: mikaeli-chamber-choir-1990
+performers:
+- name: Mikaeli Chamber Choir
+  role: choir
+- name: Drottningholm Baroque Ensemble
+  role: ensemble
+- name: Anders Eby
+  role: conductor
+- name: Mikaeli kammarkör
+  role: choir
+- name: Drottningholms Barockensemble
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Sankt Johannes kyrka
+released: 1992
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/41aa7342-1b79-4ed8-9104-d354a60c7665
+  title: Mass B Minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b0f254dc-46ef-488a-8aa8-8f7e015e2046
+  recordings: [8a87cdac-35b3-41a5-94ad-0eb7d74985e5]

@@ -1,0 +1,33 @@
+id: kammerorchester-des-saarlandischen-rundfunks-undated
+performers:
+- name: Kammerorchester des Saarländischen Rundfunks
+  role: orchestra
+- name: Jean‐Pierre Rampal
+  role: flute
+- name: Karl Ristenpart
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: ['VI. Aria (Alt, Tenor) "Et misericordia"', IX. Aria (Alt) "Esurientes
+      implevit bonis"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b26959e-6e3c-4514-b379-0fe1d376c076
+  title: The Complete Erato Recordings II. 1963–1969
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 42da034d-8355-4237-885c-ac00656924aa
+  recordings: [d8735519-dd70-452c-906a-7af45445f1f6]

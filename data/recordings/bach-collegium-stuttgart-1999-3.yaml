@@ -1,0 +1,30 @@
+id: bach-collegium-stuttgart-1999-3
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Stadthalle Sindelfingen
+released: 1999
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e620e01b-f420-49fe-abf3-4986bbd9a1cf
+  title: Mass in B minor BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [0440a3cd-737c-4be3-9844-918612c920d5]

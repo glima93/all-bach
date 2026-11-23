@@ -1,0 +1,53 @@
+id: blue-shroud-band-2015
+performers:
+- name: Blue Shroud Band
+  role: ensemble
+- name: Barry Guy
+  role: double bass
+- name: Benjamin Dwyer
+  role: guitar
+- name: Agustí Fernández
+  role: piano
+- name: Julius Gabriel
+  role: baritone saxophone
+- name: Michel Godard
+  role: wind instruments
+- name: Maya Homburger
+  role: violin
+- name: Ramón López
+  role: drums (drum set)
+- name: Michael Niesemann
+  role: wind instruments
+- name: Lucas Niggli
+  role: drums (drum set)
+- name: Fanny Paccoud
+  role: viola
+- name: Percy Pursglove
+  role: trumpet
+- name: Torben Snekkestad
+  role: reeds
+- name: Σαβίνα Γιαννάτου
+  role: other
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2015]
+  place: 'Polskie Radio: Studio Koncertowe PR im. Witolda Lutosławskiego'
+released: 2016
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/984d8ffd-7c7e-4d4d-8a6b-c0cb6aade8c3
+  title: The Blue Shroud
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording. With guitar, baritone saxophone, drums (drum set).
+musicbrainz:
+  artist: 91e121f9-9c69-4cc0-8288-9a7f73015618
+  recordings: [67535104-cbab-474c-a8fb-4dbc73596741]

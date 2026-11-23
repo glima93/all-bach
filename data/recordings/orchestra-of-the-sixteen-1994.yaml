@@ -1,0 +1,34 @@
+id: orchestra-of-the-sixteen-1994
+performers:
+- name: Orchestra of the Sixteen
+  role: orchestra
+- name: The Sixteen
+  role: choir
+- name: Harry Christophers
+  role: conductor
+- name: Michael George
+  role: performer
+- name: Roger Montgomery
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: St. Augustine’s Church
+released: 1994
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/31f12892-fed7-4207-9974-78a4dd9c726f
+  title: Mass in B Minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f8140db5-f8fd-4bde-9ec2-87bcdd9893b8
+  recordings: [1a1ac7f3-2e6c-498c-a9e8-b929e73e6858, 7a7ff47a-3f2a-412e-a06b-af3f077c8200, e2ca916a-43fb-4246-bdbd-ddc2b9afb52a]

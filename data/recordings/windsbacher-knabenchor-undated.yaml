@@ -1,0 +1,34 @@
+id: windsbacher-knabenchor-undated
+performers:
+- name: Windsbacher Knabenchor
+  role: choir
+- name: Trompetenensemble Läubin
+  role: trumpet
+- name: Deutsche Kammerakademie Neuss am Rhein
+  role: orchestra
+- name: Karl-Friedrich Beringer
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: IV. Gloria in excelsis Deo']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/72b8d09a-7145-4dd2-9dab-2a91f62afba5
+  title: 'Hörmal: Denkmale zum Klingen bringen: Festliche Weihnachtsmusik, Vol. 2'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ef4899a7-9e12-401e-b549-553e69a03961
+  recordings: [f75f169b-665d-4956-b2e5-5a0d3234dc12]

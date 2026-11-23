@@ -1,0 +1,29 @@
+id: lingua-ignota-undated
+performers:
+- name: Lingua Ignota
+  role: voices and instruments
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2021
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee62d149-aa60-478c-a1a1-34107d2f2770
+  title: AGNUS DEI
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5d12543f-4b37-4e6f-adb1-0e38f23e04b3
+  recordings: [fbd49bdf-dc74-4b08-b144-a6c3c3709a0a]

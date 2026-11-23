@@ -1,0 +1,35 @@
+id: romanian-national-choir-madrigal-marin-constantin-undated
+performers:
+- name: Romanian National Choir "Madrigal-Marin Constantin"
+  role: choir
+- name: London Philharmonic Orchestra
+  role: orchestra
+- name: Angela Gheorghiu
+  role: soprano
+- name: Ion Marin
+  role: conductor
+- name: Corul Naţional de Cameră „Madrigal – Marin Constantin”
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: All Hallows’ Church
+released: 2001
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/559511f2-6296-466f-9083-b020ddd1134d
+  title: 'Mysterium: Sacred Arias'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0ea8baf9-90fa-4261-8d2b-a14dfdcadd39
+  recordings: [94e761e4-dbbf-4465-9d69-155630e66ea0]

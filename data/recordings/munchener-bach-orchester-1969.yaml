@@ -1,0 +1,66 @@
+id: munchener-bach-orchester-1969
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Münchener Bach‐Chor
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Hermann Baumann
+  role: horn
+- name: Hedwig Bilgram
+  role: organ
+- name: Manfred Clement
+  role: oboe
+- name: Peter Dienstbier
+  role: bassoon
+- name: Herbert Duft
+  role: double bass
+- name: Kurt Guntner
+  role: violin
+- name: Kurt Hausmann
+  role: oboe
+- name: Mathias Holm
+  role: timpani
+- name: Fritz Kiskalt
+  role: cello
+- name: Jacques Mas
+  role: trumpet
+- name: Paul Meisen
+  role: flute
+- name: Richard Popp
+  role: bassoon
+- name: Herbert Segl
+  role: flute
+- name: Edgar Shann
+  role: oboe
+- name: Pierre Thibaud
+  role: trumpet
+- name: Josef Wiendl
+  role: trumpet
+- name: Ursula Buckel
+  role: soprano
+- name: Marga Höffgen
+  role: alto
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1969]
+  place: 東京文化会館 大ホール
+released: 1997
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dae6a316-04ef-4b9b-acfe-7b8f7b12412f
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [1cea32dc-188b-439a-9c5b-a745d9f1cad9, bb752c32-a300-405f-b230-62961404f409]

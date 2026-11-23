@@ -1,0 +1,44 @@
+id: neues-bachisches-collegium-musicum-1978
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Thomanerchor
+  role: choir
+- name: Hans-Joachim Rotzsch
+  role: conductor
+- name: Mitsuko Shirai
+  role: voice
+- name: Peter Schreier
+  role: performer
+- name: Hermann Christian Polster
+  role: performer
+- name: Doris Soffel
+  role: performer
+- name: Thomanerchor Leipzig
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978]
+  place: Paul-Gerhardt-Kirche
+released: 1981
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit Israel"', XI. Coro "Sicut locutus est",
+    XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/27936044-68c7-485e-8775-7df4569d2cfe
+  title: Magnificat BWV 243 / Kantate "Meine Seel erhebt den Herren" BWV 10
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [aafdb1ba-943b-424f-b875-ecd946350478, df0729e8-4625-472f-8c08-1ea7d04382f0]

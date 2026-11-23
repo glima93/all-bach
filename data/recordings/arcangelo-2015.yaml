@@ -1,0 +1,42 @@
+id: arcangelo-2015
+performers:
+- name: Arcangelo
+  role: orchestra
+- name: Jason Cohen
+  role: conductor
+- name: Iestyn Davies
+  role: performer
+- name: Olivia Vermeulen
+  role: performer
+- name: Joélle Harvey
+  role: performer
+- name: Thomas Walker
+  role: performer
+- name: Thomas E. Bauer
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2015]
+  place: St Mary the Virgin and St Mary Magdalen
+released: 2018
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4e204554-eda4-4f67-b35d-7d7b6a4c720f
+  title: Magnificats
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93f71f5a-9fad-48de-bd4a-25ffd625b3d6
+  recordings: [d28be67d-a52f-41ee-98ee-3ea25e57cf20]

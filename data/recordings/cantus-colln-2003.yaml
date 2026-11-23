@@ -1,0 +1,29 @@
+id: cantus-colln-2003
+performers:
+- name: Cantus Cölln
+  role: choir
+- name: Konrad Junghänel
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c663ea7f-32e3-463e-ae53-78607703dbf6
+  title: h-moll-Messe, BWV 232
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dae66f74-3955-4548-8369-b3182e759f16
+  recordings: [9f8dfe19-d414-4430-a136-efd524fad54e]

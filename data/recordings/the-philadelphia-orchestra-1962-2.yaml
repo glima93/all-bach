@@ -1,0 +1,32 @@
+id: the-philadelphia-orchestra-1962-2
+performers:
+- name: The Philadelphia Orchestra
+  role: orchestra
+- name: Eugene Ormandy
+  role: conductor
+- name: Cherry Rhodes
+  role: organ
+- name: Temple University Choirs
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: Town Hall Theatre
+released: 2023
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/54f858e1-2a80-4cbb-b3f9-6fc7426bb262
+  title: The Columbia Stereo Collection 1958–1963
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: ff3fcff7-6c85-49d6-b954-ed7011a44e5a
+  recordings: [14f63f49-483f-4746-9697-61e285fc8ee1]

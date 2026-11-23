@@ -1,0 +1,34 @@
+id: frieder-bernius-2004
+performers:
+- name: Frieder Bernius
+  role: conductor
+- name: Kammerchor Stuttgart
+  role: choir
+- name: Barockorchester Stuttgart
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2004]
+  place: Sankt-Martini-Kirche
+released: 2006
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      III. Kyrie eleison', 'I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: V. Et in terra pax', 'I. Missa: VI.
+      Laudamus te', 'I. Missa: VII. Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis
+      peccata mundi', 'I. Missa: X. Qui sedes ad dextram Patris', 'I. Missa: XI. Quoniam tu solus Sanctus', 'I.
+      Missa: XII. Cum Sancto Spiritu']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7751e10a-1612-4028-87b2-149ed7e57b15
+  title: Messe in h-Moll BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 89d9eb0e-7fcf-4f0a-9ec2-cc7bf2cd0991
+  recordings: [4f974c51-6f67-444c-a7d5-75bd3ea7db94]

@@ -1,0 +1,36 @@
+id: berliner-philharmoniker-1975
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Chor der Deutschen Oper Berlin
+  role: choir
+- name: Herbert von Karajan
+  role: conductor
+- name: Aγνή Mπάλτσα
+  role: alto
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1975, 1979]
+  place: Berliner Philharmonie
+released: 1979
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d064e11a-6640-4515-8e34-9c221ee2b88a
+  title: 'Bach: Magnificat / Strawinsky: Symphonie de Psaumes'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [79496fc9-b065-4d3e-829a-6ad8010c545c, c7d6657e-ddad-4446-ae0c-e20269ca5b00]

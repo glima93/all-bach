@@ -1,0 +1,36 @@
+id: coro-dell-accademia-nazionale-di-santa-cecilia-1998
+performers:
+- name: Coro dell’Accademia Nazionale di Santa Cecilia
+  role: choir
+- name: Orchestra dell’Accademia Nazionale di Santa Cecilia
+  role: orchestra
+- name: Roberto Gabbiani
+  role: performer
+- name: Cecilia Bartoli
+  role: mezzo-soprano
+- name: Myung-Whun Chung
+  role: performer
+- name: 정명훈
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: Auditorium Conciliazione
+released: 1998
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: X. Qui sedes ad dextram Patris']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6585d683-00ab-4855-ab8f-cd8da76c1569
+  title: Voices From Heaven
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d86cb847-d602-4b80-ac40-9579d9f6f964
+  recordings: [1b938067-e6ab-45c6-b9ce-5cafa2ee532e, aee6a594-5d2f-4f04-ac56-1fc2d70fc83d]

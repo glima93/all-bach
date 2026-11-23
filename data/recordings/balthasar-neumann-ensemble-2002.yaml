@@ -1,0 +1,44 @@
+id: balthasar-neumann-ensemble-2002
+performers:
+- name: Balthasar-Neumann-Ensemble
+  role: orchestra
+- name: Balthasar-Neumann-Chor
+  role: choir
+- name: Thomas Hengelbrock
+  role: conductor
+- name: Dorothee Mields
+  role: performer
+- name: Wolf Matthias Friedrich
+  role: performer
+- name: Constanze Backes
+  role: soprano
+- name: Hermann Oswald
+  role: performer
+- name: Bernhard Landauer
+  role: performer
+- name: Jürgen Banholzer
+  role: countertenor
+- name: Hans-Jörg Mammel
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2002]
+  place: Evangelische Peter-und-Paul-Kirche, Gönningen
+released: 2003
+original_label: null
+works:
+- {bwv: 243a, complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ad0d57d4-8b56-4073-8ddf-5b53b2f03ea5
+  title: Missa Sapientiae / Magnificat
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b7eefc42-b1f8-439d-b583-ec3d3abc3d76
+  recordings: [1801a53c-d068-443e-bb7c-72f814ad661f, b94ddc5d-f5cf-46e7-93b1-ebf4d4bcd59b, f13d7a89-ba89-4cc9-8d87-156f3f278bc1]

@@ -1,0 +1,42 @@
+id: orchester-der-wiener-staatsoper-1964
+performers:
+- name: Orchester der Wiener Staatsoper
+  role: orchestra
+- name: Chor der Wiener Staatsoper
+  role: choir
+- name: Jean-Marie Auberson
+  role: conductor
+- name: Maria Stader
+  role: soprano
+- name: Nedda Casei
+  role: performer
+- name: Waldemar Kmentt
+  role: performer
+- name: Federico Davia
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1964]
+  place: Bayrischer Hof
+released: 1996
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/67ae8843-a3f4-401d-8194-0be871ed2277
+  title: 'Eblouissante Musique Sacrée: Magnificat / Cantate Nº 57'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 60cc7738-673d-45e3-8cdb-5412e09cb1c5
+  recordings: [d304b525-3442-436c-b38f-6ab997844eff, de3fef7f-3cd4-4ad7-86b3-4e3775641ec2]

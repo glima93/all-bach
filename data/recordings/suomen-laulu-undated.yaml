@@ -1,0 +1,30 @@
+id: suomen-laulu-undated
+performers:
+- name: Suomen Laulu
+  role: choir
+- name: Heikki Klemetti
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: [III. Sanctus]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/af94a607-9b1f-427d-b4ef-040ba82d4335
+  title: Levytyksiä vuosilta 1929-1947
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bc9dd978-e202-447d-a276-579ecfa576cb
+  recordings: [49f51c5e-e2f2-43b2-9368-d983e433d602]

@@ -1,0 +1,27 @@
+id: adrianne-price-undated
+performers:
+- name: Adrianne Price
+  role: mezzo-soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Blessed Sacrament Catholic Church
+released: 2009
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [III. Aria (Sopran I) "Quia respexit"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3f113bc4-079d-4ed7-9e3a-0cd4b9fd6fd0
+  title: Sacred Classics
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: abab927a-c213-447c-a650-b114ba912cb9
+  recordings: [96c83c5a-c95c-45d7-afaa-3c6f3c21ae0c]

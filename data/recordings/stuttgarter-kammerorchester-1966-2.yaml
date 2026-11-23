@@ -1,0 +1,35 @@
+id: stuttgarter-kammerorchester-1966-2
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+- name: Hanneke van Bork
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966, 1968]
+  place: null
+released: 1969
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/24962199-7b86-4dd4-81f2-ba779dc26231
+  title: Magnificat in D major / Cantata no. 10
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [04eabfe2-c079-46b4-b6f0-358617de30bd]

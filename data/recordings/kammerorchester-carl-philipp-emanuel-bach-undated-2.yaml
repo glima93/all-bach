@@ -1,0 +1,44 @@
+id: kammerorchester-carl-philipp-emanuel-bach-undated-2
+performers:
+- name: Kammerorchester Carl Philipp Emanuel Bach
+  role: orchestra
+- name: RIAS Kammerchor
+  role: choir
+- name: Peter Schreier
+  role: conductor
+- name: Birgit Remmert
+  role: contralto
+- name: Rainer Trost
+  role: tenor
+- name: Barbara Bonney
+  role: soprano
+- name: Olaf Bär
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3666dc6c-93ad-4a90-ad39-a0628eb87c28
+  title: Magnificat in D major / Mass in A major / Mass in F major / Mass in G minor / Mass in G major
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49abd8a6-b063-477e-a27c-661fb0a5feb3
+  recordings: [c8f79823-7d03-4fd8-a44b-aed17ddb290c, f2b0d0e8-01f5-440d-a9d1-74f71827b1c4]

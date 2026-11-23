@@ -1,0 +1,48 @@
+id: freiburger-barockorchester-1996
+performers:
+- name: Freiburger Barockorchester
+  role: orchestra
+- name: Balthasar‐Neumann‐Chor
+  role: choir
+- name: Thomas Hengelbrock
+  role: conductor
+- name: Bernhard Landauer
+  role: alto
+- name: Ursula Fiedler
+  role: performer
+- name: Jürgen Banholzer
+  role: performer
+- name: Gundula Anders
+  role: soprano
+- name: Mona Spägele
+  role: performer
+- name: Hermann Oswald
+  role: performer
+- name: Stephan McLeod
+  role: performer
+- name: Johannes-Christoph Happel
+  role: performer
+- name: Knut Schoch
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Evangelische Peter-und-Paul-Kirche, Gönningen
+released: 1997
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2c95bff-490d-4100-b6e4-4686cfa4b3cf
+  title: Messe in h-moll, BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 21a558f0-22b1-4959-aa24-df7b0d7a571d
+  recordings: [07f077f3-5648-4fa2-9f6c-e21349ea5306, 3fd350d3-d777-42a1-a953-0dd9dcb2df66]

@@ -1,0 +1,30 @@
+id: orfeon-donostiarra-1989
+performers:
+- name: Orfeón Donostiarra
+  role: choir
+- name: Orquesta de Cámara Arriaga
+  role: orchestra
+- name: José Antonio Sainz Alfaro
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989]
+  place: Basílica de Santa María del Coro
+released: 1997
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e216262e-ef1d-45f7-8e4b-d4a5267ff1fd
+  title: El Orfeón Donostiarra en su centenario
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d5631c43-80b6-41aa-a40c-81f903500d84
+  recordings: [d5d08ec8-dece-4ab9-89ea-3d8d15f23ad4]

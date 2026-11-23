@@ -1,0 +1,29 @@
+id: e-nomine-undated
+performers:
+- name: E Nomine
+  role: ensemble
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [III. Aria (Sopran I) "Quia respexit"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b486f003-f2ca-4651-a42c-9e50f9365f37
+  title: Das Testament
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9db1e69b-935f-4c1d-a48c-8bcca179a25c
+  recordings: [b81cd044-351e-421f-9635-4412adbf2581]

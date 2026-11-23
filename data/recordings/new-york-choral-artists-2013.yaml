@@ -1,0 +1,35 @@
+id: new-york-choral-artists-2013
+performers:
+- name: New York Choral Artists
+  role: choir
+- name: New York Philharmonic
+  role: orchestra
+- name: Joseph Flummerfelt
+  role: performer
+- name: Philip Smith
+  role: performer
+- name: Alan Gilbert
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2013]
+  place: David Geffen Hall
+released: 2015
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: IV. Gloria in excelsis Deo', 'II. Symbolum Nicenum: II. Patrem
+      omnipotentem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44e0a8f8-7bd6-4242-b491-ed9f191d4a4d
+  title: 'The Philip Smith Collection: Album 1: Trumpet Highlights'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 466f6f52-46d8-47d2-b931-3511ba8026dc
+  recordings: [2b9e2c5f-3ec1-4cc1-bbbc-7909abcf9578]

@@ -1,0 +1,32 @@
+id: herbert-von-karajan-undated
+performers:
+- name: Herbert von Karajan
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      IV. Gloria in excelsis Deo', 'I. Missa: VI. Laudamus te', 'I. Missa: VII. Gratias agimus tibi', 'I. Missa:
+      VIII. Domine Deus', 'I. Missa: IX. Qui tollis peccata mundi', 'I. Missa: X. Qui sedes ad dextram Patris',
+    'I. Missa: XI. Quoniam tu solus Sanctus', 'I. Missa: XII. Cum Sancto Spiritu', 'II. Symbolum Nicenum: I. Credo
+      in unum Deum', 'II. Symbolum Nicenum: II. Patrem omnipotentem', 'II. Symbolum Nicenum: III. Et in unum Dominum']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dd278eee-f6d7-4179-98f6-0830ae4c1ce2
+  title: St Matthew Passion / Mass in B minor
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d2ced2f1-6b58-47cf-ae87-5943e2ab6d99
+  recordings: [2e225b02-fef4-4fcc-ad6e-0e3fb6a967e2]

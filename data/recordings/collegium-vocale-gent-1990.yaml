@@ -1,0 +1,87 @@
+id: collegium-vocale-gent-1990
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: La Chapelle Royale
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Barbara Schlick
+  role: soprano
+- name: Christine Angot
+  role: viola
+- name: Patrick Beuckels
+  role: flute
+- name: Peter Van Boxelaere
+  role: violin
+- name: Jean Chamboux
+  role: timbales
+- name: Adrian Chamorro
+  role: violin
+- name: Myriam Gevers
+  role: violin
+- name: Marc Hantaï
+  role: flute
+- name: Jonathan Impett
+  role: trumpet
+- name: Jan-Willem Jansen
+  role: organ
+- name: Stephen Keavy
+  role: trumpet
+- name: Taka Kitazato
+  role: oboe
+- name: Nicolette Moonen
+  role: violin
+- name: Martha Moore
+  role: violin
+- name: Kate Van Orden
+  role: bassoon
+- name: Léon Petré
+  role: trumpet
+- name: Marcel Ponseele
+  role: oboe
+- name: Harm Jan Schwitters
+  role: cello
+- name: 寺神戸亮
+  role: violin
+- name: Galina Zinchenko
+  role: viola
+- name: Ageet Zweistra
+  role: cello
+- name: Ensemble vocal européen de la Chapelle royale
+  role: choir
+- name: Howard Crook
+  role: tenor
+- name: Peter Kooij
+  role: bass
+- name: Gérard Lesne
+  role: alto
+- name: Agnès Mellon
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6540ef6-887d-3202-8165-e4755ba207be
+  title: Magnificat / Cantate BWV 80
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [d575654d-bcef-4cc6-8a94-cca0a1453f55]

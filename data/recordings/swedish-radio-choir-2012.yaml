@@ -1,0 +1,39 @@
+id: swedish-radio-choir-2012
+performers:
+- name: Swedish Radio Choir
+  role: choir
+- name: Jeanette Köhn
+  role: soprano
+- name: Nils Landgren
+  role: trombone
+- name: Johan Norberg
+  role: guitar
+- name: Jonas Knutsson
+  role: soprano saxophone
+- name: Eva Kruse
+  role: double bass
+- name: Radiokören
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [2012]
+  place: 'Radiohuset: Studio 2'
+released: 2013
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [III. Aria (Sopran I) "Quia respexit"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8cb73eb0-c5e5-4e28-a002-caf9f40864b7
+  title: New Eyes on Baroque
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With soprano saxophone, baritone saxophone, guitar.
+musicbrainz:
+  artist: 7bf7b9f1-3c66-48db-beee-d4b971f1362d
+  recordings: [ef4515ca-cd28-4a94-ae61-9a7a5bb4d207]

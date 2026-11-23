@@ -1,0 +1,43 @@
+id: ensemble-instrumental-de-lausanne-1972
+performers:
+- name: Ensemble Instrumental de Lausanne
+  role: orchestra
+- name: Michel Corboz
+  role: conductor
+- name: Magali Schwartz
+  role: performer
+- name: Claudine Perret
+  role: mezzo-soprano
+- name: Olivier Dufour
+  role: performer
+- name: Wally Staempfli
+  role: performer
+- name: Yvonne Perrin
+  role: soprano
+- name: Philippe Huttenlocher
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972]
+  place: Casino de Vevey
+released: 2022
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: II. Christe eleison', 'I. Missa: VI. Laudamus te', 'I. Missa:
+      VIII. Domine Deus', 'I. Missa: X. Qui sedes ad dextram Patris', 'II. Symbolum Nicenum: III. Et in unum Dominum',
+    'II. Symbolum Nicenum: VII. Et in Spiritum Sanctum Dominum', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis
+      pacem: II. Benedictus', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/52fbba97-bbaf-4e5e-be21-20abd43aa2b9
+  title: 'The Complete Erato Recordings: Baroque & Renaissance Eras'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2331c561-85db-45a5-a180-8c94bdab4f0a
+  recordings: [8f217b43-0521-4eb2-9e58-6719b19bbe1a]

@@ -1,0 +1,32 @@
+id: schwabischer-singkreis-undated
+performers:
+- name: Schwäbischer Singkreis
+  role: choir
+- name: Hans Grischkat
+  role: conductor
+- name: Arthur Hannes
+  role: spoken
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['II. Symbolum Nicenum: VI. Et resurrexit']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6760f7b-c529-43dc-be2e-23c7f0b380ac
+  title: The Story of Bach in Words and Music
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1b5d14a3-4eab-426f-bc3f-4fd1e7ca5c57
+  recordings: [87722e9e-7997-454a-b90c-584a0192ea0b]

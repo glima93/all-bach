@@ -1,0 +1,49 @@
+id: atlanta-symphony-orchestra-1988
+performers:
+- name: Atlanta Symphony Orchestra
+  role: orchestra
+- name: Atlanta Symphony Orchestra Chamber Chorus
+  role: choir
+- name: Atlanta Symphony Orchestra Chorus
+  role: choir
+- name: Robert Shaw Festival Singers
+  role: choir
+- name: Robert Shaw
+  role: conductor
+- name: Marietta Simpson
+  role: mezzo-soprano
+- name: Penelope Jensen
+  role: soprano
+- name: Dawn Upshaw
+  role: soprano
+- name: David Gordon
+  role: tenor
+- name: William Stone
+  role: baritone
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: Atlanta Symphony Hall; Woodruff Arts Center
+released: 1989
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/976da21b-7ddd-428d-8d3e-b549b1a25ccb
+  title: 'Vivaldi: Gloria / Bach: Magnificat'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: def21109-9bb8-49ed-925f-de579da669bc
+  recordings: [64a05ab6-f5c2-4d8e-a136-0a1ecde790af, 71dfc7c1-f70a-441a-9ee8-ded438cc3e9a, 858b452e-3201-4078-9877-4314eb2dab6d,
+    fad20c16-6244-498d-8b1a-4fffaaad1761]

@@ -12,6 +12,7 @@
 #   mode      how the importer reads performers (see docs/catalogue-plan.md, "Importer modes")
 #   native    chamber mode only: the solo part's instruments, the written one first
 #   mb_parent MusicBrainz parent work, when there is one; otherwise works are found by BWV number
+#   variants  versions with their own BWV letter, collected as works of their own (243a)
 #   wave      1 = instrumental, existing pipeline; 2 = needs the vocal mode; 3 = long tail
 #   run       the scheduled run that collects it (runs go in order; small collections share a run)
 #   status    done | todo | queued (for the GitHub collector) | collected | imported
@@ -75,10 +76,11 @@ collections:
    note: "The St Anne Prelude and Fugue (552) frames the set; the four Duets (802–805) are manuals-only and often played on harpsichord or piano (native)"}
 
 # ── Wave 2: vocal works (needs the vocal importer mode) ───────────────────────────────────
-- {id: mass-in-b-minor, title: "Mass in B minor", chapter: Masses and Magnificat, bwv: ["232"], mode: vocal, wave: 2, run: 22, status: queued}
-- {id: magnificat, title: "Magnificat", chapter: Masses and Magnificat, bwv: ["243"], mode: vocal, wave: 2, run: 22, status: queued,
+- {id: mass-in-b-minor, title: "Mass in B minor", chapter: Masses and Magnificat, bwv: ["232"], mode: vocal, wave: 2, run: 22, status: imported,
+   note: "Collected on 21 Nov 2026 with 0 works (the movements filled the first 25 search results); collected again on 23 Nov 2026 with collector v7"}
+- {id: magnificat, title: "Magnificat", chapter: Masses and Magnificat, bwv: ["243"], variants: ["243a"], mode: vocal, wave: 2, run: 22, status: imported,
    note: "243a is the E-flat version with Christmas interpolations"}
-- {id: passions, title: "Passions", chapter: Passions and Oratorios, bwv: ["244-247"], mode: vocal, wave: 2, run: 23, status: todo,
+- {id: passions, title: "Passions", chapter: Passions and Oratorios, bwv: ["244-247"], mode: vocal, wave: 2, run: 23, status: queued,
    note: "246 St Luke is spurious; 247 St Mark is lost (reconstructions get their own entries if MusicBrainz has them)"}
 - {id: oratorios, title: "Oratorios", chapter: Passions and Oratorios, bwv: ["248", "249", "11"], mode: vocal, wave: 2, run: 24, status: todo,
    note: "Christmas (248, six parts), Easter (249) and Ascension (11) Oratorios"}

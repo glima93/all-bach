@@ -1,0 +1,28 @@
+id: australian-intervarsity-choral-festival-choir-undated
+performers:
+- name: Australian Intervarsity Choral Festival Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '243', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0469b736-b51b-4bc3-b855-86a00a2fdc07
+  title: Australian InterVarsity Choral Festivals, The First 50 Years
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 3d55dcac-19b6-41c8-b341-16d0a3e256e0
+  recordings: [320e2911-4466-4b81-9396-84a00ac97937]

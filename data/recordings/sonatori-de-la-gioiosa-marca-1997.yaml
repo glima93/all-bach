@@ -1,0 +1,42 @@
+id: sonatori-de-la-gioiosa-marca-1997
+performers:
+- name: Sonatori de la Gioiosa Marca
+  role: orchestra
+- name: Coro della Radio Svizzera, Lugano
+  role: choir
+- name: Diego Fasolis
+  role: conductor
+- name: Roberta Invernizzi
+  role: soprano
+- name: Gloria Banditelli
+  role: performer
+- name: Klaus Mertens
+  role: performer
+- name: Lynne Dawson
+  role: soprano
+- name: Christoph Prégardien
+  role: performer
+- name: Coro della Radiotelevisione Svizzera
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: Cattedrale di San Lorenzo
+released: 1998
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8fcbfb7b-1e92-4194-8e5b-adb672ae0347
+  title: Messe BWV 232 h-moll
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a05c32e9-5a0f-4965-a7b7-5e38cdc2bc90
+  recordings: [083a3ddd-5e91-4b03-b52b-b4e71ad981c5, 93760e64-bb52-4894-a81c-a085c0e95313]

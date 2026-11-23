@@ -1,0 +1,32 @@
+id: bach-choir-of-bethlehem-2009
+performers:
+- name: Bach Choir of Bethlehem
+  role: choir
+- name: Greg Funfgeld
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: First Presbyterian Church of Bethlehem
+released: 2009
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est", XII. Coro "Gloria Patri"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1415534f-58d5-48cb-9137-b122420f7179
+  title: 'Bach: Magnificat BWV 243 / Cantata, BWV 191 / Vivaldi: Gloria, RV 589'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2f7b8c4-8f88-448f-bd0b-f69c4159d06e
+  recordings: [62c6d258-c57e-45df-b3e6-ccd763f4033d]

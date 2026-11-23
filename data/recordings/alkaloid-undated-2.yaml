@@ -1,0 +1,29 @@
+id: alkaloid-undated-2
+performers:
+- name: Alkaloid
+  role: ensemble
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/72c3edd4-3496-4b3b-9c23-dbbd9e7dad3d
+  title: Agnus Dei (BWV 232)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 0548c4ab-5ac1-4dbc-91c9-5f9bd4b33383
+  recordings: [e467d7d2-81e9-49a6-8bb7-f5bfce190704]

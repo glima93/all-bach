@@ -1,0 +1,102 @@
+id: de-nederlandse-bachvereniging-2014-2
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Jos van Veldhoven
+  role: conductor
+- name: Benny Aghassi
+  role: bassoon
+- name: Pieter-Jan Belder
+  role: organ
+- name: Neil Brough
+  role: trumpet
+- name: Deirdre Dowling
+  role: viola
+- name: Esther van der Eijk
+  role: viola
+- name: Annabelle Ferdinand
+  role: violin
+- name: Robert Franenberg
+  role: double bass
+- name: Peter Frankenberg
+  role: oboe
+- name: Mark Geelen
+  role: trumpet
+- name: Anneke van Haaften
+  role: violin
+- name: Siebe Henstra
+  role: harpsichord
+- name: Doretthe Janssens
+  role: flute
+- name: Paulien Kostense
+  role: violin
+- name: Richte van der Meer
+  role: cello
+- name: Marten Root
+  role: flute
+- name: Shunske Sato
+  role: violin
+- name: Martin Stadler
+  role: oboe
+- name: Lucia Swarts
+  role: cello
+- name: Robert Vanryne
+  role: trumpet
+- name: Annelies van der Vegt
+  role: violin
+- name: Hanneke Wierenga
+  role: violin
+- name: Peppie Wiersma
+  role: timpani
+- name: Lauren Armishaw
+  role: soprano
+- name: Hana Blažíková
+  role: soprano
+- name: Griet De Geyter
+  role: soprano
+- name: Julia Doyle
+  role: soprano
+- name: Jelle Draijer
+  role: bass
+- name: Maarten Engeltjes
+  role: alto
+- name: Thomas Hobbs
+  role: tenor
+- name: Christian Immler
+  role: bass
+- name: Leandro Marziotte
+  role: alto
+- name: Sebastian Myrus
+  role: bass
+- name: Elena Pozhidaeva
+  role: alto
+- name: Immo Schröder
+  role: tenor
+- name: Kevin Skelton
+  role: tenor
+- name: Marjon Strijk
+  role: soprano
+- name: Kristen Witmer
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Grote Kerk
+released: null
+original_label: null
+works:
+- {bwv: '243', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/dd84fa9b-3f87-40bc-ae3b-bb9a2ddc4514
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [dd84fa9b-3f87-40bc-ae3b-bb9a2ddc4514]

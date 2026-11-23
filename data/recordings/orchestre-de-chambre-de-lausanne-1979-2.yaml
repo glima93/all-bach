@@ -1,0 +1,55 @@
+id: orchestre-de-chambre-de-lausanne-1979-2
+performers:
+- name: Orchestre de Chambre de Lausanne
+  role: orchestra
+- name: Ensemble Vocal de Lausanne
+  role: choir
+- name: Ensemble Instrumental de Lausanne
+  role: orchestra
+- name: Michel Corboz
+  role: conductor
+- name: Rachel Yakar
+  role: mezzo-soprano
+- name: Jennifer Smith
+  role: soprano
+- name: Anthony Rolfe Johnson
+  role: performer
+- name: Birgit Finnilä
+  role: performer
+- name: Philippe Huttenlocher
+  role: performer
+- name: Mario Alberti
+  role: trumpet
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979]
+  place: Temple de Lutry
+released: 2000
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      III. Kyrie eleison', 'I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: V. Et in terra pax', 'I. Missa: VI.
+      Laudamus te', 'I. Missa: VII. Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis
+      peccata mundi', 'I. Missa: X. Qui sedes ad dextram Patris', 'I. Missa: XII. Cum Sancto Spiritu', 'II. Symbolum
+      Nicenum: I. Credo in unum Deum', 'II. Symbolum Nicenum: II. Patrem omnipotentem', 'II. Symbolum Nicenum: III.
+      Et in unum Dominum', 'II. Symbolum Nicenum: IV. Et incarnatus est', 'II. Symbolum Nicenum: V. Crucifixus',
+    'II. Symbolum Nicenum: VI. Et resurrexit', 'II. Symbolum Nicenum: VII. Et in Spiritum Sanctum Dominum', 'II.
+      Symbolum Nicenum: VIII. Confiteor', 'II. Symbolum Nicenum: IX. Et expecto', III. Sanctus, 'IV. Osanna, Benedictus,
+      Agnus Dei, Dona nobis pacem: I. Osanna in excelsis', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem:
+      II. Benedictus', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: III. Osanna repetatur', 'IV. Osanna,
+      Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem:
+      V. Dona nobis pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/52fbba97-bbaf-4e5e-be21-20abd43aa2b9
+  title: 'The Complete Erato Recordings: Baroque & Renaissance Eras'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9cf920f-3b1d-4577-a104-5a3d462cefa6
+  recordings: [9b2acb89-b3b9-4416-89e1-cd0f57b509ba, 9cd2af4b-b40a-4c94-b1b5-b924daa80399, bc389c76-b955-4147-a2f9-fbd87624ecf3]

@@ -1,0 +1,49 @@
+id: symphonieorchester-des-bayerischen-rundfunks-1957-2
+performers:
+- name: Symphonieorchester des Bayerischen Rundfunks
+  role: orchestra
+- name: Chor des Bayerischen Rundfunks
+  role: choir
+- name: Eugen Jochum
+  role: conductor
+- name: Lois Marshall
+  role: soprano
+- name: Hertha Töpper
+  role: alto
+- name: Peter Pears
+  role: performer
+- name: Kim Borg
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1957]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: I. Kyrie eleison', 'I. Missa: II. Christe eleison', 'I. Missa:
+      III. Kyrie eleison', 'I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: V. Et in terra pax', 'I. Missa: VI.
+      Laudamus te', 'I. Missa: VII. Gratias agimus tibi', 'I. Missa: VIII. Domine Deus', 'I. Missa: IX. Qui tollis
+      peccata mundi', 'I. Missa: X. Qui sedes ad dextram Patris', 'I. Missa: XI. Quoniam tu solus Sanctus', 'I.
+      Missa: XII. Cum Sancto Spiritu', 'II. Symbolum Nicenum: I. Credo in unum Deum', 'II. Symbolum Nicenum: III.
+      Et in unum Dominum', 'II. Symbolum Nicenum: IV. Et incarnatus est', 'II. Symbolum Nicenum: V. Crucifixus',
+    'II. Symbolum Nicenum: VIII. Confiteor', 'II. Symbolum Nicenum: IX. Et expecto', III. Sanctus, 'IV. Osanna,
+      Benedictus, Agnus Dei, Dona nobis pacem: I. Osanna in excelsis', 'IV. Osanna, Benedictus, Agnus Dei, Dona
+      nobis pacem: II. Benedictus', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: III. Osanna repetatur',
+    'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: IV. Agnus Dei', 'IV. Osanna, Benedictus, Agnus Dei, Dona
+      nobis pacem: V. Dona nobis pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8a9c0f4-aa1d-4179-b6cd-7a71a31f2133
+  title: Mass in B Minor / Mass in F
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 59cf9a49-c3b2-4388-8717-4fb836cc7269
+  recordings: [070e33b3-9b0c-4fcf-9274-ae3c365c8ac6, 8a5f21a2-e9bc-42a7-8a60-7ddab6664b97]

@@ -1,0 +1,32 @@
+id: collegium-vocale-gent-2002
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Ingeborg Danz
+  role: performer
+- name: Mark Padmore
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2002]
+  place: Arsenal de Metz
+released: 2003
+original_label: null
+works:
+- {bwv: 243a, complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/04275932-334d-4073-9a15-9872bc1cb872
+  title: Leipziger Weihnachtskantaten - Cantates De Noël À Leipzig
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [70cb3f16-8d9a-4e26-bde8-048fd8be721a]

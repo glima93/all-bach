@@ -1,0 +1,44 @@
+id: amsterdam-baroque-orchestra-1996
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Ton Koopman
+  role: conductor
+- name: Lisa Larsson
+  role: soprano
+- name: Bogna Bartosz
+  role: performer
+- name: Elisabeth von Magnus
+  role: soprano
+- name: Gerd Türk
+  role: performer
+- name: Klaus Mertens
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Waalse Kerk
+released: 1998
+original_label: null
+works:
+- {bwv: '243', complete: false, movements: [I. Coro "Magnificat anima mea", II. Aria (Sopran II) "Et exsultavit
+      spiritus meus", III. Aria (Sopran I) "Quia respexit", IV. Coro "Omnes generationes", V. Aria (Bass) "Quia
+      fecit mihi magna", 'VI. Aria (Alt, Tenor) "Et misericordia"', VII. Coro "Fecit potentiam", VIII. Aria (Tenor)
+      "Deposuit potentes", IX. Aria (Alt) "Esurientes implevit bonis", 'X. Aria (Sopran I, Sopran II, Alt) "Suscepit
+      Israel"', XI. Coro "Sicut locutus est"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/31bd505e-7682-4e5f-8a76-38aa35c1d6af
+  title: Easter Oratorio BWV 249 / Magnificat BWV 243
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [194d38d5-30ec-425d-9e17-a2f37caf4ef6, 42fb77ed-3464-42d5-9395-8398e7f90988, f8eb9154-bd43-46c6-b12c-75f088084d69]

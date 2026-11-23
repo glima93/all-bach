@@ -1,0 +1,30 @@
+id: philharmonia-orchestra-1972
+performers:
+- name: Philharmonia Orchestra
+  role: orchestra
+- name: Carlo Maria Giulini
+  role: conductor
+- name: Philharmonia Chorus
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972]
+  place: St Paul’s Cathedral
+released: 2001
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4089d17f-42f0-4124-b4fe-0f47488b2c84
+  title: Mass in B minor
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [9566c33d-4b58-4218-963c-892575f3cb91]

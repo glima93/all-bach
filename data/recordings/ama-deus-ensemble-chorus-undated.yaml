@@ -1,0 +1,34 @@
+id: ama-deus-ensemble-chorus-undated
+performers:
+- name: Ama Deus Ensemble Chorus
+  role: choir
+- name: Ama Deus Ensemble
+  role: orchestra
+- name: Valentin Radu
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '232', complete: false, movements: ['I. Missa: IV. Gloria in excelsis Deo', 'I. Missa: XII. Cum Sancto Spiritu',
+    'II. Symbolum Nicenum: I. Credo in unum Deum', 'IV. Osanna, Benedictus, Agnus Dei, Dona nobis pacem: V. Dona
+      nobis pacem']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2f2f4fbf-2ba1-4a66-946e-368cb0d51b86
+  title: 100 Heavenly Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ebb3f4a4-b649-410f-9e95-bc62e3d03d3f
+  recordings: [ec72be23-bfbd-4793-9e3f-25744b691c27]

@@ -1,0 +1,36 @@
+id: chor-des-bayerischen-rundfunks-1980
+performers:
+- name: Chor des Bayerischen Rundfunks
+  role: choir
+- name: Symphonieorchester des Bayerischen Rundfunks
+  role: orchestra
+- name: Eugen Jochum
+  role: conductor
+- name: Helen Donath
+  role: soprano
+- name: Brigitte Fassbaender
+  role: soprano
+- name: Claes‐Håkan Ahnsjö
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980]
+  place: Herkulessaal
+released: 1991
+original_label: null
+works:
+- {bwv: '232', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/95c89fe9-a121-4930-8c79-bbf1f423a6b1
+  title: Mass in B minor, BWV 232
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 9a6cdfe0-82ec-4aea-93a5-bcd473d8437d
+  recordings: [0222b4ea-e156-47b4-8311-f60325e2818a, 4c6b5e88-363b-426f-afbf-ae2596c0b384, ef007438-83e8-4697-ac2e-3f6cfa527b1f]
