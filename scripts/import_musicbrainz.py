@@ -968,6 +968,7 @@ JOIN_BY_SNAPSHOT["magnificat"] = {
     "68360034-83e8-4a36-bb50-7369fc305d3a": ("c0c1bc22-8c50-4ad9-9e68-d4465c95ee13", "Rilling's 1979 recording on 1 heure 1 vie avec Bach ('Albert Krause' is Adalbert Kraus); it has the Christmas interpolations, as the 1979 set does"),
 }
 EXCLUDE_BY_SNAPSHOT["magnificat"] = {
+    "8308e61d-bf6b-4381-867d-46bf5a599517": "The Ultimate Bach Album credits the opening chorus to the Ama Deus Chorus and to Rilling at once; the two cannot both be right, and both have their own recordings in this snapshot",
     "b90999c6-93ba-49e2-898f-44a657597135": "Quadromania reissues Rilling's 1979 recording (Augér, Murray, Watts, Schöne; bach-cantatas.com) under a wrong 1967 date and with Wenk from other tracks; joining it would carry the wrong year into the 1979 set",
     "2c8fbdee-47ce-4cc0-81f0-63b42f0463c9": "Philip Smith's Orchestral Excerpts for Trumpet: a study recording of the trumpet part with spoken commentary, not a performance",
 }
@@ -975,6 +976,22 @@ EXCLUDE_BY_SNAPSHOT["magnificat"] = {
 OVERRIDE_BY_SNAPSHOT["magnificat"] = {
     "7b2db7d7-d998-4385-8594-82d7b6de4be9": ({"instrument": "viola", "arrangement": True},
         "Cantus (2015): Adrien La Marca plays the aria 'Et misericordia' on the viola, with his brother's cello and Les Ambassadeurs; no singer is credited"),
+    "36e0a22e-e1c2-4b65-903e-4d04a3a9f651": ({"performers": [
+        {"name": "Bach Collegium Japan", "role": "ensemble"}, {"name": "Masaaki Suzuki", "role": "conductor"},
+        {"name": "Miah Persson", "role": "soprano"}, {"name": "Akira Tachikawa", "role": "countertenor"},
+        {"name": "Gerd Türk", "role": "tenor"}, {"name": "Chiyuki Urano", "role": "bass"}]},
+        "Suzuki is credited as Masaaki Suzuki and as 鈴木雅明 (the conductor credit); the soloists' voices are not in MusicBrainz"),
+    "169428d2-718d-4bb8-9f61-9e630acfc991": ({"performers": [
+        {"name": "Academy of St Martin in the Fields", "role": "orchestra"}, {"name": "Academy of St Martin in the Fields Chorus", "role": "choir"},
+        {"name": "Sir Neville Marriner", "role": "conductor"}, {"name": "Barbara Hendricks", "role": "soprano"},
+        {"name": "Ann Murray", "role": "mezzo-soprano"}, {"name": "Jean Rigby", "role": "alto"},
+        {"name": "Uwe Heilmann", "role": "tenor"}, {"name": "Jorma Hynninen", "role": "baritone"}]},
+        "Marriner's Philips Magnificat (Abbey Road, Dec 1990; MusicWeb): Ledger, Felicity Palmer, Stephen Roberts and Helen Watts belong to another recording on the reissue"),
+    "84d4373c-f49d-41b2-ba86-da05f96bdb60": ({"performers": [
+        {"name": "Pro Arte Kammerorchester München", "role": "orchestra"}, {"name": "Kurt Redel", "role": "conductor"},
+        {"name": "Margarethe Bence", "role": "alto"}, {"name": "Helmut Krebs", "role": "tenor"},
+        {"name": "Jean-Pierre Rampal", "role": "flute"}]},
+        "Rampal's Complete Erato Recordings vol. 1: the two arias are sung (Bence, Krebs, Redel's Pro Arte orchestra; MusicWeb), with Rampal in the flute obbligato"),
 }
 
 OVERRIDE_BY_SNAPSHOT["clavier-ubung-iii"] = {
@@ -1366,6 +1383,18 @@ def works_block(perf: dict, bwvs: list[str], moves: dict[str, list[str]]) -> lis
     return out
 
 
+# Vocal works (run 22): a compilation linked in MusicBrainz to the whole work ("Laudate Dominum: famous arias and
+# choruses") holds a selection, not the complete work, but which movements is not known. A release whose title
+# names no large vocal work is such a compilation: the file keeps the whole work and says so in the notes.
+VOCAL_RELEASE = re.compile(r"magnificat|messe|\bmass\b|missa|passion|oratori|bwv\s*\d", re.I)
+SELECTION_NOTE = "Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements."
+
+
+def vocal_selection(perf: dict, works: list) -> bool:
+    return bool(perf["releases"]) and any(w["complete"] for w in works) \
+        and not any(VOCAL_RELEASE.search(r["title"]) for r in perf["releases"])
+
+
 def mb_links(perf: dict) -> list[dict]:
     links = [{"platform": "musicbrainz", "kind": "release",
               "url": f"https://musicbrainz.org/release/{r['id']}", "title": r["title"]} for r in perf["releases"]]
@@ -1464,6 +1493,15 @@ def chamber_of(perf: dict, lead: list[str]) -> tuple[str, str, bool, list[str]]:
     return main, practice, False, []
 
 
+def name_key(name: str) -> str:
+    """A name as compared across credits (run 22): "Sir John Eliot Gardiner" is "John Eliot Gardiner", King’s is
+    King's, "St. Martin" is "St Martin", and the Unicode hyphen MusicBrainz uses (Bach‐Collegium) is a hyphen."""
+    s = name.lower().replace("’", "'").replace("‐", "-").replace("‑", "-")
+    s = re.sub(r"^(sir|dame|lord|dr\.?|prof\.?)\s+", "", s)
+    s = re.sub(r"\bst\.", "st", s)
+    return " ".join(s.split())
+
+
 def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: set[str], same_performer: int,
               mode: str = "classic", lead: list[str] | None = None, scoring: str | None = None) -> dict:
     ensemble_work = mode in ("ensemble", "vocal", "chamber") or (mode == "open" and is_group(perf))
@@ -1491,10 +1529,11 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
     types = perf.get("types") or []
     # A credit in another script than the role list (정경화 credited, "Kyung-Wha Chung" in the roles): when one name
     # and one role are left unmatched, they belong together.
-    lost = [n for n in perf["names"] if not (roles.get(n.lower()) or roles.get(n))]
-    spare = [k for k in roles if k not in {n.lower() for n in perf["names"]} | set(perf["names"])]
+    by_key = {name_key(k): v for k, v in roles.items()}
+    lost = [n for n in perf["names"] if not (roles.get(n.lower()) or roles.get(n) or by_key.get(name_key(n)))]
+    spare = [k for k in roles if name_key(k) not in {name_key(n) for n in perf["names"]}]
     for i, name in enumerate(perf["names"]):
-        role = roles.get(name.lower()) or roles.get(name)
+        role = roles.get(name.lower()) or roles.get(name) or by_key.get(name_key(name))
         if role in NOT_INSTRUMENTS:
             role = None  # "solo": the instrument is named below
         if not role and len(lost) == 1 and len(spare) == 1:
@@ -1503,7 +1542,15 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
             role = TYPE_ROLE[types[i]]
         if not role:
             role = instrument.replace("-", " ") if solo and instrument not in ("unknown", "other", "ensemble") else "performer"
+        if any(name_key(p["name"]) == name_key(name) for p in performers):
+            continue  # the same performer credited twice under two spellings (King's and King’s College)
         performers.append({"name": name, "role": role})
+    if mode == "vocal":
+        # The choir, orchestra and conductor of a vocal work credited only in the relationships (King's College
+        # Choir on Ledger's 1976 recording) are performers too.
+        for k in spare:
+            if roles[k] in ("choir", "orchestra", "conductor") and not any(name_key(p["name"]) == name_key(k) for p in performers):
+                performers.append({"name": k, "role": roles[k]})
     rec = {
         "id": "",
         "performers": performers,
@@ -1614,6 +1661,8 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
             rec["notes"] = ((rec["notes"] or "") + f" Played on {', '.join(perf['ins'][:3])}.").strip()
         elif others:
             rec["notes"] = ((rec["notes"] or "") + f" With {', '.join(others[:3])}.").strip()
+    if mode == "vocal" and vocal_selection(perf, rec["works"]):
+        rec["notes"] = ((rec["notes"] or "") + " " + SELECTION_NOTE).strip()
     rec["help_wanted"] = help_items(rec, same_performer)
     return rec
 
