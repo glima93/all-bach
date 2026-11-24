@@ -1,0 +1,32 @@
+id: aksel-rykkvin-undated-2
+performers:
+- name: Aksel Rykkvin
+  role: treble
+- name: Nigel Short
+  role: conductor
+- name: Orchestra of the Age of Enlightenment
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: [Teil I. No. 9 Aria (Sopran) "Ich folge dir gleichfalls"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fddeee50-bf9a-4ca4-9cf1-4b63017fe599
+  title: Arias by Bach, Handel and Mozart
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1a2262d2-957a-4f62-be20-c9417b13102c
+  recordings: [a841f293-d4ba-467a-af4d-d4475cd4015f]

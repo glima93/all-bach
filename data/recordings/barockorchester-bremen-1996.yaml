@@ -1,0 +1,56 @@
+id: barockorchester-bremen-1996
+performers:
+- name: Barockorchester Bremen
+  role: orchestra
+- name: Wolfgang Helbich
+  role: conductor
+- name: Rufus Müller
+  role: tenor
+- name: Stephan Schreckenberger
+  role: performer
+- name: Mona Spägele
+  role: performer
+- name: Christiane Iven
+  role: performer
+- name: Harry Van Berne
+  role: performer
+- name: Barockorchester Antico Bremen
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Walpurgiskirche Alsfeld
+released: 1997
+original_label: null
+works:
+- {bwv: '246', complete: false, movements: [2. Recitative "Es was aber nahe das Fest des süßen Brot'" (Evangelist),
+    4. Recitative "Und sie wurden froh" (Evangelist), '6. Recitative "Und er versprach es, und suchte Gelegenheit"
+      (Evangelist)', '8. Recitative "Es kam nun der Tag des süßen Brot''" (Evangelist, Jesus, Chor der Jünger Jesu)',
+    '10. Recitative "Und er wird euch einen großen gepflasterten Saal zeigen" (Jesus, Evangelist)', '12. Recitative
+      "Denn ich sage euch" (Jesus, Evangelist)', '13. Aria (Soprano) "Dein Leib, das Manna meiner Seele"', '14.
+      Recitative "Desselbigen gleichen auch den Kelch" (Evangelist, Jesus)', 15. Aria (Alto) "Du giebst mir Blut",
+    '16. Recitative "Doch siehe, die Hand meines Verräters" (Jesus, Evangelist)', '18. Recitative "Es erhub sich
+      auch ein Zank unter ihnen" (Evangelist, Jesus)', 20. Recitative "Und ich will euch das Reich bescheiden" (Jesus),
+    '22. Recitative "Der Herr aber sprach" (Evangelist, Jesus, Petrus)', '24. Recitative "Da sprach er zu ihnen"
+      (Evangelist, Jesus)', '26. Recitative "Er aber sprach zu ihnen" (Evangelist, Jesus)', '28. Recitative "Und
+      er riß sich von ihnen bei einem Steinwurf" (Evangelist, Jesus)', 30. Recitative "Es erschien ihm aber ein
+      Engel vom Himmel" (Evangelist), '32. Recitative "Und er stund auf von dem Gebet" (Evangelist, Jesus)', '34.
+      Recitative "Da er aber noch redet''" (Evangelist, Jesus)', '36. Recitative "Da aber sahen, die um ihn waren"
+      (Evangelist)', '38. Recitative "Und einer aus ihnen schlug des Hohenpriesters Knecht" (Evangelist, Jesus)',
+    '40. Recitative "Jesus aber sprach zu den Hohenpriestern" (Evangelist, Jesus)', '42. Recitative "Da zündeten
+      sie ein Feuer an" (Evangelist, erste Magd, Petrus, zweite Magd, Knecht)', 44. Recitative "Und Petrus gedachte
+      an des Herren Wort" (Evangelist), 45. Aria (Tenor) "Den Fels hat Moses' Stab geschlagen"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d58ab5e5-bf14-4d67-b317-8ad4a108ad06
+  title: Apocryphal St. Luke Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: db1847d1-b2d9-4350-9801-4b83a43da091
+  recordings: [76a50b7f-d984-4050-bc4b-fafee1d7eae2]

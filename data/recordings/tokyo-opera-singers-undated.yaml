@@ -1,0 +1,97 @@
+id: tokyo-opera-singers-undated
+performers:
+- name: Tokyo Opera Singers
+  role: choir
+- name: Saito Kinen Orchestra
+  role: orchestra
+- name: SKF Matsumoto Children’s Choir
+  role: choir
+- name: Seiji Ozawa
+  role: performer
+- name: John Mark Ainsley
+  role: performer
+- name: Nathalie Stutzmann
+  role: performer
+- name: Michael Volle
+  role: performer
+- name: Thomas Quasthoff
+  role: performer
+- name: Stanford Olsen
+  role: performer
+- name: Katsunori Kono
+  role: performer
+- name: Christiane Oelze
+  role: performer
+- name: Kazuhide Omori
+  role: performer
+- name: Makoto Narita
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, II. Rezitativ (Evangelist, Jesus) "Da Jesus diese Rede vollendet
+      hatte"', 'Teil I, III. Choral "Herzliebster Jesu, was hast du verbrochen"', 'Teil I, IVa. "Da versammelten
+      sich die Hohenpriester" (Evangelista)', 'Teil I, IVb. Cori "Ja nicht auf das Fest"', 'Teil I, IVc. "Da nun
+      Jesus war zu Bethanien" (Evangelista)', 'Teil I, IVd. Coro "Wozu dienet dieser Unrat"', 'Teil I, IVe. "Da
+      das Jesus merkete" (Evangelista, Jesus)', 'Teil I, VII. Rezitativ (Evangelist, Judas) "Da ging hin der Zwölfen
+      einer"', 'Teil I, VIII. Arie (Sopran) "Blute nur, du liebes Herz"', 'Teil I, IXa. "Aber am ersten Tage der
+      süssen Brot" (Evangelista)', 'Teil I, X. Choral "Ich bin''s, ich sollte büßen"', 'Teil I, XIV. Rezitativ (Evangelist,
+      Jesus) "Und da sie den Lobgesang gesprochen hatten"', 'Teil I, XV. Choral "Erkenne mich, mein Hüter"', 'Teil
+      I, XVI. Rezitativ (Evangelist, Petrus, Jesus) "Petrus aber antwortete und sprach zu ihm"', 'Teil I, XVII.
+      Choral "Ich will hier bei dir stehen"', 'Teil I, XVIII. Rezitativ (Evangelist, Jesus) "Da kam Jesus mit ihnen
+      zu einem Hofe"', 'Teil I, XIX. Accompagnato-Rezitativ (Tenor) und Choral (Chor II) "O Schmerz! Hier zittert
+      das gequälte Herz"', 'Teil I, XXI. Rezitativ (Evangelist, Jesus) "Und ging hin ein wenig"', 'Teil I, XXII.
+      Accompagnato-Rezitativ (Bass) "Der Heiland fällt vor seinem Vater nieder"', 'Teil I, XXIII. Arie (Bass) "Gerne
+      will ich mich bequemen"', 'Teil I, XXIV. Rezitativ (Evangelist, Jesus) "Und er kam zu seinen Jüngern"', 'Teil
+      I, XXV. Choral "Was mein Gott will, das g''scheh allzeit"', 'Teil I, XXVI. Rezitativ (Evangelist, Jesus) "Und
+      er kam und fand sie aber schlafend"', 'Teil I, XXVIII. Rezitativ (Evangelist, Jesus) "Und siehe, einer aus
+      denen, die mit Jesu waren"', 'Teil I, XXIX. Choral "O Mensch, bewein dein Sünde groß"', 'Teil II, XXX. Arie
+      (Alt) und Chor "Ach! nun ist mein Jesus hin"', 'Teil II, XXXI. Rezitativ (Evangelist) "Die aber Jesum gegriffen
+      hatten"', 'Teil II, XXXII. Choral "Mir hat die Welt trüglich gericht''"', 'Teil II, XXXIII. Rezitativ (Evangelist,
+      2 Zeugen, Hohepriester) "Und wiewohl viel falsche Zeugen herzutraten"', 'Teil II, XXXIV. Accompagnato-Rezitativ
+      (Tenor) "Mein Jesus schweigt zu falschen Lügen stille"', 'Teil II, XXXV. Arie (Tenor) "Geduld! Wenn mich falsche
+      Zungen stechen"', 'Teil II, XXXVIa. "Und der Hohepriester antwortete" (Evangelista, Pontifex, Jesus)', 'Teil
+      II, XXXVIb. "Er ist des Todes schuldig" (Chori)', 'Teil II, XXXVIc. "Da speieten sie aus" (Evangelista)',
+    'Teil II, XXXVId. "Weissage uns, Christe" (Chori)', 'Teil II, XXXVII. Choral "Wer hat dich so geschlagen"',
+    'Teil II, XXXVIIIa. "Petrus aber saß draußen im Palast" (Evangelista, Ancilla I & II, Petrus)', 'Teil II, XXXVIIIb.
+      "Wahrlich, du bist auch einer von denen" (Chorus)', 'Teil II, XXXVIIIc. "Da hub er an, sich zu verfluchen"
+      (Evangelista, Petrus)', 'Teil II, XLIa. "Des Morgens aber hielten alle Hohepriester" (Evangelista, Judas)',
+    'Teil II, XLIb. "Was gehet uns das an" (Chori)', 'Teil II, XLIc. "Und er warf die Silberlinge in den Tempel"
+      (Evangelista, Pontifex I & II)', 'Teil II, XLIII. "Sie hielten aber einen Rat" (Evangelista, Pilatus, Jesus)',
+    'Teil II, XLIV. Choral "Befiehl du deine Wege"', 'Teil II, XLVa. "Auf das Fest aber hatte der Landpfleger Gewohnheit"
+      (Evangelista, Pilatus, Uxor Pilati, Chori)', 'Teil II, XLVI. Choral "Wie wunderbarlich ist doch diese Strafe"',
+    'Teil II, XLVII. "Der Landpfleger sagte" (Evangelista, Pilatus)', 'Teil II, XLVIII. Recitativo (Soprano) "Er
+      hat uns allen wohlgetan"', 'Teil II, XLIX. Aria (Soprano) "Aus Liebe will mein Heiland sterben"', 'Teil II,
+      La. "Sie schrieen aber noch mehr" (Evangelista)', 'Teil II, LI. Recitativo (Alto) "Erbarm es Gott"', 'Teil
+      II, LII. Aria (Alto) "Können Tränen meiner Wangen"', 'Teil II, LIIIa. "Da nahmen die Kriegsknechte" (Evangelista)',
+    'Teil II, LIV. Choral "O Haupt voll Blut und Wunden"', 'Teil II, LV. "Und da sie ihn verspottet hatten" (Evangelista)',
+    'Teil II, LVI. Recitativo (Basso) "Ja freilich will in uns das Fleisch und Blut"', 'Teil II, LVII. Aria (Basso)
+      "Komm, süßes Kreuz, so will ich sagen"', 'Teil II, LVIIIa. "Und da sie an die Stätte kamen" (Evangelista)',
+    'Teil II, LIX. Recitativo (Alto) "Ach Golgotha"', 'Teil II, LX. Aria (Alto) "Sehet, Jesus hat die Hand", Coro
+      "Wohin?"', 'Teil II, LXIa. "Und von der sechsten Stunde an" (Evangelista, Jesus)', 'Teil II, LXII. Choral
+      "Wenn ich einmal soll scheiden"', 'Teil II, LXIIIa. "Und siehe da, der Vorhang im Tempel zerriß" (Evangelista)',
+    'Teil II, LXIV. Recitativo (Basso) "Am Abend, da es kühle war"', 'Teil II, LXV. Aria (Basso) "Mache dich, mein
+      Herze, rein"', 'Teil II, LXVIa. "Und Joseph nahm den Leib" (Evangelista)', 'Teil II, LXVII. Recitativo (Soprano,
+      Alto, Tenore, Basso) "Nun ist der Herr zur Ruh gebracht" - Coro "Mein Jesu, gute Nacht"', 'Teil II, LXVIII.
+      Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b12d5e2f-7890-48d3-a5b2-9d6ae779b6dc
+  title: 'Matthäus Passion: St. Matthew Passion, Passion selon saint Matthieu'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0990a72f-710c-433b-9c34-2fc3c392e4dd
+  recordings: [6da13a28-6882-4568-97f1-56be1a38f150, 8fb39d6c-9878-4f69-a006-5565011095bd, af299b4d-893c-45a0-b10d-9c03d047f66f,
+    c55f1d1a-80d7-497e-aaaa-7bfca0ac13b1]

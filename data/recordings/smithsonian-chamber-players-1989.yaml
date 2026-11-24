@@ -1,0 +1,49 @@
+id: smithsonian-chamber-players-1989
+performers:
+- name: Smithsonian Chamber Players
+  role: orchestra
+- name: Kenneth Slowik
+  role: conductor
+- name: Julianne Baird
+  role: soprano
+- name: Tony Boutté
+  role: tenor
+- name: Jane Bryden
+  role: soprano
+- name: Jennifer Lane
+  role: alto
+- name: Steven Rickards
+  role: countertenor
+- name: David Ripley
+  role: bass
+- name: Patrick Romano
+  role: tenor
+- name: Paul Rowe
+  role: bass
+- name: Jeffrey Thomas
+  role: tenor
+- name: James Weaver
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4c2cc839-d59e-4554-8574-131afa2da9b4
+  title: St. John Passion, BWV 245
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8d04dbb6-80ad-4245-8a59-82ffc682d045
+  recordings: [77399220-05be-449f-89bb-b41716ca17b5]

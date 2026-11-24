@@ -1,0 +1,32 @@
+id: ensemble-les-surprises-2017-3
+performers:
+- name: Ensemble Les Surprises
+  role: ensemble
+- name: Maïlys de Villoutreys
+  role: soprano
+- name: Isabelle Desbats
+  role: cor anglais
+- name: Serge Krichewsky
+  role: cor anglais
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Abbaye aux Dames
+released: 2018
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XLIX. Aria (Soprano) "Aus Liebe will mein Heiland sterben"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5712d759-94d5-4004-9e4d-925dcf21192a
+  title: Bach Inspiration
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 14827f29-8cf5-4ce2-ab75-2909ec7df50a
+  recordings: [19afb37f-5f2a-42e3-9410-f8008b8953ce]

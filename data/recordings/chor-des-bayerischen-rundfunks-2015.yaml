@@ -1,0 +1,47 @@
+id: chor-des-bayerischen-rundfunks-2015
+performers:
+- name: Chor des Bayerischen Rundfunks
+  role: choir
+- name: Concerto Köln
+  role: orchestra
+- name: Peter Dijkstra
+  role: conductor
+- name: Krešimir Stražanac
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2015]
+  place: Herkulessaal
+released: 2016
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"', Teil I. No. 2b Coro
+      "Jesum von Nazareth", 'Teil I, No. 2d Coro "Jesum von Nazareth"', Teil I. No. 3 Choral "O große Lieb", 'Teil
+      I. No. 5 Choral "Dein Will gescheh, Herr Gott, zugleich"', Teil I. No. 11 Choral "Wer hat dich so geschlagen",
+    'Teil I. No. 12b Coro "Bist du nicht seiner Jünger einer?"', 'Teil I. No. 14 Choral "Petrus, der nicht denkt
+      zurück"', 'Teil II. No. 15 Choral "Christus, der uns selig macht"', 'Teil II, No. 16b. Coro "Wäre dieser nicht
+      ein Übeltäter"', 'Teil II, No. 16d. Coro "Wir dürfen niemand töten"', Teil II. No. 17 Choral "Ach großer König",
+    'Teil II, No. 18b. Coro "Nicht diesen, sondern Barrabam"', 'Teil II, No. 21b. Coro "Sei gegrüßet, lieber Jüdenkönig"',
+    'Teil II, No. 21d. Coro "Kreuzige, kreuzige!"', 'Teil II, No. 21f. Coro "Wir haben ein Gesetz"', 'Teil II. No.
+      22 Choral "Durch dein Gefängnis, Gottes Sohn"', 'Teil II, No. 23b. Coro "Lässest du diesen los"', 'Teil II,
+      No. 23d. Coro "Weg, Weg mit dem, kreuzige ihn!"', 'Teil II, No. 23f. Coro "Wir haben keinen König"', 'Teil
+      II. No. 24 Aria (Bass, Chorus) "Eilt, ihr angefochtnen Seelen"', 'Teil II, No. 25b. Coro "Schreibe nicht:
+      der Juden König"', Teil II. No. 26 Choral "In meines Herzens Grunde", 'Teil II, No. 27b. Coro "Lasset uns
+      den nicht zerteilen"', '.1: Teil II. No. 28 Choral "Er nahm alles wohl in acht"', 'Teil II. No. 32 Aria (Bass,
+      Chorus) "Mein teurer Heiland, laß dich fragen"', 'Teil II. No. 37 Choral "O hilf, Christe, Gottes Sohn"',
+    'Teil II. No. 39 Chorus "Ruht wohl, ihr heiligen Gebeine"', 'Teil II. No. 40 Choral "Ach Herr, laß dein lieb
+      Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5de1a8d5-8ff3-48d3-a277-df3193904751
+  title: Bach Soli Deo Gloria
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 9a6cdfe0-82ec-4aea-93a5-bcd473d8437d
+  recordings: [73fd4b76-501b-4427-9028-1e3046e29b20]

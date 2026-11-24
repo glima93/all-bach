@@ -1,0 +1,31 @@
+id: university-of-tubingen-collegium-musicum-orchestra-1970
+performers:
+- name: University of Tübingen Collegium Musicum Orchestra
+  role: orchestra
+- name: Gerhard Rehm
+  role: conductor
+- name: Balinger Kantorei
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '246', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3126a3ca-6752-3884-b9b6-6c49789c20fe
+  title: 'Bach Edition, Volume 10: Passions/Passionen'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bdb5737c-6da0-47c3-a0fb-f0bbf6c6a28e
+  recordings: [fc8f23d2-9930-469d-ab64-2aae826fab12]

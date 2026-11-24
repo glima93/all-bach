@@ -1,0 +1,33 @@
+id: the-brandenburg-consort-1994
+performers:
+- name: The Brandenburg Consort
+  role: orchestra
+- name: Stephen Cleobury
+  role: conductor
+- name: Emma Kirkby
+  role: performer
+- name: Choir of King’s College, Cambridge
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994, 1996]
+  place: King’s College Chapel
+released: 1996
+original_label: null
+works:
+- {bwv: '244', complete: true}
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3126a3ca-6752-3884-b9b6-6c49789c20fe
+  title: 'Bach Edition, Volume 10: Passions/Passionen'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22b1e838-fbd1-4b60-a4c6-5314625f1697
+  recordings: [cf05d939-62e7-4cda-8883-4f94838f2496]

@@ -1,0 +1,44 @@
+id: groot-omroepkoor-undated
+performers:
+- name: Groot Omroepkoor
+  role: choir
+- name: Koninklijk Concertgebouworkest
+  role: orchestra
+- name: Eugen Jochum
+  role: conductor
+- name: Giebel
+  role: performer
+- name: Höffgen
+  role: performer
+- name: Haefliger
+  role: performer
+- name: Berry
+  role: performer
+- name: Van Kesteren
+  role: performer
+- name: Crass
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1965
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9237585b-2b2e-48c8-9495-eb5e865336f0
+  title: 'Classic CD Issue 49: Joanna MacGregor'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 0a457ef1-2e19-4d2a-aeca-68866b24cb06
+  recordings: [c4ad6917-55f6-41c1-8002-2d40ea3a6d96]

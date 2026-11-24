@@ -1,0 +1,57 @@
+id: thomanerchor-leipzig-undated-2
+performers:
+- name: Thomanerchor Leipzig
+  role: voice
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Günther Ramin
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1941
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, II. Rezitativ (Evangelist, Jesus) "Da Jesus diese Rede vollendet hatte"', 'Teil I, III. Choral "Herzliebster
+      Jesu, was hast du verbrochen"', 'Teil I, IVa. "Da versammelten sich die Hohenpriester" (Evangelista)', 'Teil
+      I, V. Accompagnato-Rezitativ (Alt) "Du lieber Heiland du"', 'Teil I, VII. Rezitativ (Evangelist, Judas) "Da
+      ging hin der Zwölfen einer"', 'Teil I, VIII. Arie (Sopran) "Blute nur, du liebes Herz"', 'Teil I, X. Choral
+      "Ich bin''s, ich sollte büßen"', 'Teil I, XV. Choral "Erkenne mich, mein Hüter"', 'Teil I, XVI. Rezitativ
+      (Evangelist, Petrus, Jesus) "Petrus aber antwortete und sprach zu ihm"', 'Teil I, XVII. Choral "Ich will hier
+      bei dir stehen"', 'Teil I, XVIII. Rezitativ (Evangelist, Jesus) "Da kam Jesus mit ihnen zu einem Hofe"', 'Teil
+      I, XIX. Accompagnato-Rezitativ (Tenor) und Choral (Chor II) "O Schmerz! Hier zittert das gequälte Herz"',
+    'Teil I, XX. Arie (Tenor) und Chor II "Ich will bei meinen Jesu wachen"', 'Teil I, XXI. Rezitativ (Evangelist,
+      Jesus) "Und ging hin ein wenig"', 'Teil I, XXVIIa. Arie (Sopran, Alt) und Chor "So ist mein Jesus nun gefangen"',
+    'Teil I, XXIX. Choral "O Mensch, bewein dein Sünde groß"', 'Teil II, XXX. Arie (Alt) und Chor "Ach! nun ist
+      mein Jesus hin"', 'Teil II, XXXVII. Choral "Wer hat dich so geschlagen"', 'Teil II, XXXVIIIa. "Petrus aber
+      saß draußen im Palast" (Evangelista, Ancilla I & II, Petrus)', 'Teil II, XXXIX. Aria (Alto) "Erbarme dich,
+      mein Gott"', 'Teil II, XL. Choral "Bin ich gleich von dir gewichen"', 'Teil II, XLIa. "Des Morgens aber hielten
+      alle Hohepriester" (Evangelista, Judas)', 'Teil II, XLII. Aria (Basso) "Gebt mir meinen Jesum wieder"', 'Teil
+      II, XLVa. "Auf das Fest aber hatte der Landpfleger Gewohnheit" (Evangelista, Pilatus, Uxor Pilati, Chori)',
+    'Teil II, XLVIII. Recitativo (Soprano) "Er hat uns allen wohlgetan"', 'Teil II, LI. Recitativo (Alto) "Erbarm
+      es Gott"', 'Teil II, LIIIa. "Da nahmen die Kriegsknechte" (Evangelista)', 'Teil II, LIV. Choral "O Haupt voll
+      Blut und Wunden"', 'Teil II, LV. "Und da sie ihn verspottet hatten" (Evangelista)', 'Teil II, LIX. Recitativo
+      (Alto) "Ach Golgotha"', 'Teil II, LXIa. "Und von der sechsten Stunde an" (Evangelista, Jesus)', 'Teil II,
+      LXII. Choral "Wenn ich einmal soll scheiden"', 'Teil II, LXIIIa. "Und siehe da, der Vorhang im Tempel zerriß"
+      (Evangelista)', 'Teil II, LXIV. Recitativo (Basso) "Am Abend, da es kühle war"', 'Teil II, LXVIa. "Und Joseph
+      nahm den Leib" (Evangelista)', 'Teil II, LXVII. Recitativo (Soprano, Alto, Tenore, Basso) "Nun ist der Herr
+      zur Ruh gebracht" - Coro "Mein Jesu, gute Nacht"', 'Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+- {bwv: '245', complete: false, movements: ['Teil II. No. 40 Choral "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1cb6bba4-d2be-46e9-b4d4-86fc5e0e7945
+  title: Matthaus - Passion
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 995a8150-123b-4f04-8c2c-904a262dd607
+  recordings: [7827c893-8225-465b-bc83-f766feca6aa2]

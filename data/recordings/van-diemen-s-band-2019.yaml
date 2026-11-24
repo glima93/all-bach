@@ -1,0 +1,30 @@
+id: van-diemen-s-band-2019
+performers:
+- name: Van Diemen’s Band
+  role: ensemble
+- name: David Greco
+  role: baritone
+- name: Julia Fredersdorff
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2019]
+  place: ABC Studios Ultimo
+released: 2020
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil II. No. 19 Arioso (Bass) "Betrachte, meine Seel"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eea3397e-cb7e-4bd5-a80c-69d635f4602d
+  title: Bass Cantatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29b39558-f0f4-426e-b38d-068b227c2d4b
+  recordings: [ab5b85b4-0535-4b3d-ac6d-7a8c6afafbf6]

@@ -1,0 +1,28 @@
+id: de-nederlandse-bachvereniging-1997
+performers:
+- name: De Nederlandse Bachvereniging
+  role: orchestra
+- name: Jos van Veldhoven
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: Muziekcentrum Vredenburg
+released: 1997
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3c4ec805-da63-4e0c-b095-ed424336b1e2
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [a14052c1-90e9-47ad-9ed1-f3a466dbc3e7]

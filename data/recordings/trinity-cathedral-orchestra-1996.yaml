@@ -1,0 +1,30 @@
+id: trinity-cathedral-orchestra-1996
+performers:
+- name: Trinity Cathedral Orchestra
+  role: orchestra
+- name: Eric Milnes
+  role: conductor
+- name: Trinity Cathedral Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Trinity Episcopal Cathedral
+released: 1996
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/42385f5d-337e-4eb0-9fe5-7683ae9a3058
+  title: St. John Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 5e1e3a26-b718-492e-829c-ca57f733488c
+  recordings: [3aca5588-c2b9-4e58-a923-11199bd06bad]

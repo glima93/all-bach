@@ -1154,6 +1154,34 @@ OVERRIDE_BY_SNAPSHOT["clavier-ubung-iii"] = {
         "Jacques Loussier's Play Bach No. 4: a jazz piano trio arrangement (as his other files), not the organ"),
 }
 
+# Run 23: the Passions.
+EXCLUDE_BY_SNAPSHOT["passions"] = {
+    "3639860c-6d11-44fb-8330-9b9d540aa45e": "Douglas E. Bush's Orgelbüchlein (Cathedral of the Madeleine): the organ preludes on 'Christus, der uns selig macht' (BWV 620) and 'Vater unser' (BWV 636) linked to the St John Passion chorales on the same hymns",
+    "210425d3-bb1e-46f6-9c3a-73a53c4861d1": "Thierry Mechler alone on the organ (The Art of the Disc): the organ prelude 'O Mensch, bewein dein Sünde groß' BWV 622 linked to the St Matthew Passion chorale on the same hymn",
+    "c10fa454-1c7f-451f-92a9-2e21ee94b263": "Virgil Fox alone on the organ (The Bach Gamut, Volume I) linked to the whole St Matthew Passion: an organ piece, not a performance of BWV 244",
+    "47c67214-4247-4ddd-970b-db33b9256d2a": "the Richter half of Bach 2000: St Matthew Passion: Six Excerpts Illustrating Performance Practice, a study disc (see the Koopman row)",
+    "ae3603c8-784d-4580-abc9-f5292f1fb8dd": "The Moscow Symphony Orchestra alone, without choir or singers, linked to the whole St Matthew Passion on The Essential Bach: a doubtful link, not an identifiable performance (checker, run 23)",
+    "359c92d3-c82a-46b0-9b75-2262023468d6": "Bach 2000: St Matthew Passion: Six Excerpts Illustrating Performance Practice sets excerpts of Koopman's and Richter's recordings side by side for study; not a performance of its own",
+}
+JOIN_BY_SNAPSHOT["passions"] = {
+    "e600212f-cbc3-4fdd-bc4a-debb21ff4c8f": ("d3c53f2a-82b7-4144-946d-423f7ffba706", "Koopman's St Mark Passion reconstruction (Erato, Waalse Kerk, 1999): the recitatives and arias (a row first issued on the Simply Baroque compilation) and the choruses and chorales on the Markus-Passion release are one set; together they are the 67 numbers"),
+}
+OVERRIDE_BY_SNAPSHOT["passions"] = {
+    "d3c53f2a-82b7-4144-946d-423f7ffba706": ({"movements": [f"247:{i}" for i in range(67)], "years": [1999], "place": "Waalse Kerk",
+                                               "performers": [{"name": "Amsterdam Baroque Choir", "role": "choir"}, {"name": "Amsterdam Baroque Orchestra", "role": "orchestra"},
+                                                              {"name": "Ton Koopman", "role": "conductor"}, {"name": "Christoph Prégardien", "role": "performer"},
+                                                              {"name": "Peter Kooij", "role": "performer"}, {"name": "Paul Mertens", "role": "performer"},
+                                                              {"name": "Bernhard Landauer", "role": "performer"}, {"name": "Paul Agnew", "role": "performer"},
+                                                              {"name": "Sibylla Rubens", "role": "performer"}]},
+        "Koopman's St Mark Passion: the Erbarme dich, the 1998 date, the Stadsgehoorzaal and Yo-Yo Ma's cello come with the Simply Baroque compilation row joined in; they belong to other recordings on it"),
+    "4bfdcaae-e68b-4d2c-9fcf-dc661eb0617c": ({"arrangement": True},
+        "Winter Gardens (Orchestre de chambre de Paris, Goetzel): the aria played on the trumpet by Lucienne Renaudin Vary (checker, run 23)"),
+    "0859ce32-b649-4cf4-a504-63e5bde8df5a": ({"arrangement": True},
+        "Megumi Kanda's Gloria: a St Matthew Passion aria played on the trombone with cello and organ, not sung"),
+    "012dc86a-aa2b-404b-9c19-4dbfb0ba4af7": ({"movements": [f"244:{i}" for i in range(103) if i not in (15, 67, 75, 83, 91)]},
+        "Neuhold's St Matthew Passion (Corpus Christi): one chorus is linked to the St Luke Passion's 'Er hat andern geholfen' (BWV 246 no. 82); it is the St Matthew chorus, and the set has no BWV 246"),
+}
+
 INSTRUMENTS = {
     "cello": "cello", "violoncello": "cello",
     "baroque cello": "baroque-cello", "baroque violoncello": "baroque-cello",
@@ -1233,7 +1261,8 @@ ARRANGED_NAMES = re.compile(r"brass|blechbl|\bsax(ophone?)?\b(?<!manfred sax)|sw
                             r"\ble orme\b|softcore|camarata|mantovani|rond. veneziano|stringfever|colliery|crusaders|"
                             r"percussion|duckmandu|galliano|trombone|alfee|moorhouse|anugama|dan gibson|syrinx|"
                             r"early learning centre|malmsteen|alkaloid|allegaeon|drinkall|\bfragile\b|ritenour|max richter|pieranunzi|alperin|dellarole|allhoff|joachim k.hn|"
-                            r"glorvigen|horacio franco|mehmari|symphonette|ayasa|vomitron|\bdj\b|myleene klass|richard souther|\be nomine\b|thijs van leer|lingua ignota|dominic miller|david d.or|דוד ד׳אור", re.I)
+                            r"glorvigen|horacio franco|mehmari|symphonette|ayasa|vomitron|\bdj\b|myleene klass|richard souther|\be nomine\b|thijs van leer|lingua ignota|dominic miller|david d.or|דוד ד׳אור|"
+                            r"sarband|dance of joy|haitham haidar|\btarja\b", re.I)
 # In orchestral works only: names of groups that are not orchestras, so play the music arranged.
 ARRANGED_GROUP_NAMES = re.compile(r"quartet|quartett|quatuor|quartetto|\bcellos\b|(?<!hanover )\bband\b|"
                                   r"trumpet ensemble|brass|\btrio\b", re.I)
@@ -1258,7 +1287,7 @@ GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|solois
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
                                r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki|dangerous liaisons|פסקול|motion picture|movies go baroque|bach minimaliste|"
-                               r"concertos? for recorder|bachbusters|remix|l.alphabet des grands musiciens|production music|bedtime|majors for minors|f.r inl.rning|classical background|orchestral excerpts|sing & moovie|サウンドトラック", re.I)
+                               r"concertos? for recorder|bachbusters|remix|l.alphabet des grands musiciens|production music|bedtime|majors for minors|f.r inl.rning|classical background|orchestral excerpts|sing & moovie|サウンドトラック|inspector morse|l.arm.e du crime", re.I)
 
 # Open-score works (mode "open", the Art of Fugue): keyboards, strings, viols and orchestra are native (plan note);
 # winds, brass, saxophones, recorders, guitars and crossover groups play it arranged. Credits, then group names.
@@ -1514,9 +1543,15 @@ VOCAL_RELEASE = re.compile(r"magnificat|messe|\bmass\b|missa|passion|oratori|bwv
 SELECTION_NOTE = "Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements."
 
 
+# A release that names the work but calls itself highlights (run 23: "Johannes Passion: Highlights", "Johannes-Passion,
+# Cross Section") is a selection too.
+HIGHLIGHTS_RELEASE = re.compile(r"highlights?|cross[- ]section|querschnitt|ausz[üu]ge|excerpts?|extraits", re.I)
+
+
 def vocal_selection(perf: dict, works: list) -> bool:
     return bool(perf["releases"]) and any(w["complete"] for w in works) \
-        and not any(VOCAL_RELEASE.search(r["title"]) for r in perf["releases"])
+        and (not any(VOCAL_RELEASE.search(r["title"]) for r in perf["releases"])
+             or all(HIGHLIGHTS_RELEASE.search(r["title"]) for r in perf["releases"]))
 
 
 # Versions of one work that can share a snapshot: later version -> earlier version.

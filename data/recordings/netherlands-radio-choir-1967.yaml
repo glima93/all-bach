@@ -1,0 +1,36 @@
+id: netherlands-radio-choir-1967
+performers:
+- name: Netherlands Radio Choir
+  role: choir
+- name: Royal Concertgebouw Orchestra
+  role: orchestra
+- name: Eugen Jochum
+  role: conductor
+- name: Nederlands Radio Koor
+  role: choir
+- name: Groot Omroepkoor
+  role: choir
+- name: Koninklijk Concertgebouworkest
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1967]
+  place: 'Concertgebouw: Grote Zaal'
+released: 1998
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil II. No. 39 Chorus "Ruht wohl, ihr heiligen Gebeine"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2a2f830a-1493-4f35-b3ce-aec401131a66
+  title: St. John Passion / Wachet Auf, Ruft uns die Stimme
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0a457ef1-2e19-4d2a-aeca-68866b24cb06
+  recordings: [98da0d49-bc65-445a-94cf-f033834fb0b3]

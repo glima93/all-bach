@@ -1,0 +1,33 @@
+id: vienna-cantata-orchestra-1967
+performers:
+- name: Vienna Cantata Orchestra
+  role: orchestra
+- name: Marilyn Horne
+  role: mezzo-soprano
+- name: Henry Lewis
+  role: conductor
+- name: Alfred Staar
+  role: violin
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1967]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b3464a95-7750-477b-a477-926e9aaba32f
+  title: Where’er You Walk
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cfebd841-5c53-4cfc-978e-1f591fde17bd
+  recordings: [4a2de870-04a3-4a11-9b11-b367672f8c14]

@@ -1,0 +1,32 @@
+id: akademie-chamber-choir-undated
+performers:
+- name: Akademie Chamber Choir
+  role: choir
+- name: Wiener Kammerorchester
+  role: orchestra
+- name: Ferdinand Grossmann
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2f2f4fbf-2ba1-4a66-946e-368cb0d51b86
+  title: 100 Heavenly Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49d963b8-fdf3-4180-a443-f7bf69e2a646
+  recordings: [8afc303c-42fb-4f75-a79a-5c72084dee9b]

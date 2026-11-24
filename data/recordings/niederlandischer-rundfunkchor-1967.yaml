@@ -1,0 +1,54 @@
+id: niederlandischer-rundfunkchor-1967
+performers:
+- name: Niederländischer Rundfunkchor
+  role: choir
+- name: Royal Concertgebouw Orchestra
+  role: orchestra
+- name: Eugen Jochum
+  role: conductor
+- name: Franz Crass
+  role: performer
+- name: Ernst Haefliger
+  role: performer
+- name: Walter Berry
+  role: performer
+- name: Koninklijk Concertgebouworkest
+  role: orchestra
+- name: Nederlands Radio Koor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1967]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"', Teil I. No. 3 Choral
+      "O große Lieb", Teil I. No. 11 Choral "Wer hat dich so geschlagen", 'Teil II. No. 15 Choral "Christus, der
+      uns selig macht"', Teil II. No. 17 Choral "Ach großer König", Teil II. No. 21a "Und die Kriegsknechte flochten"
+      (Evangelista), 'Teil II, No. 21b. Coro "Sei gegrüßet, lieber Jüdenkönig"', 'Teil II, No. 21c. Recitativo "Und
+      gaben ihm Backenstreiche" (Evangelista, Pilatus)', 'Teil II, No. 21d. Coro "Kreuzige, kreuzige!"', 'Teil II,
+      No. 21e. Recitativo "Pilatus sprach zu ihnen" (Evangelista, Pilatus)', 'Teil II, No. 21f. Coro "Wir haben
+      ein Gesetz"', 'Teil II, No. 21g. Recitativo "Da Pilatus das Wort hörete" (Evangelista, Pilatus, Jesus)', 'Teil
+      II. No. 22 Choral "Durch dein Gefängnis, Gottes Sohn"', Teil II. No. 23a Recitativo "Die Juden aber schrieen"
+      (Evangelista), 'Teil II, No. 23b. Coro "Lässest du diesen los"', 'Teil II, No. 23c. Recitativo "Da Pilatus
+      das Wort hörete" (Evangelista, Pilatus)', 'Teil II, No. 23d. Coro "Weg, Weg mit dem, kreuzige ihn!"', 'Teil
+      II, No. 23e. Recitativo "Spricht Pilatus zu ihnen" (Evangelista, Pilatus)', 'Teil II, No. 23f. Coro "Wir haben
+      keinen König"', 'Teil II, No. 23g. Recitativo "Da überantwortete er ihn" (Evangelista)', 'Teil II. No. 24
+      Aria (Bass, Chorus) "Eilt, ihr angefochtnen Seelen"', Teil II. No. 26 Choral "In meines Herzens Grunde", 'Teil
+      II. No. 40 Choral "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3d0d1ee0-039b-4ae3-bbeb-7f626288fd60
+  title: 'Johannes-Passion: Chöre und Arien'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ce4eb69f-6485-4d10-a1fb-a4047bd2f68c
+  recordings: [b1c7231c-4817-4429-bf3d-1b4536f94acd]

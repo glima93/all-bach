@@ -1,0 +1,44 @@
+id: franz-liszt-academy-chamber-orchestra-1971
+performers:
+- name: Franz Liszt Academy Chamber Orchestra
+  role: orchestra
+- name: Franz Liszt Academy Chamber Choir
+  role: choir
+- name: György Lehel
+  role: conductor
+- name: Bruce Abel
+  role: performer
+- name: Liszt Ferenc Kamarazenekar
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1971]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"', Teil I. No. 3 Choral
+      "O große Lieb", 'Teil I. No. 5 Choral "Dein Will gescheh, Herr Gott, zugleich"', Teil I. No. 7 Aria (Alt)
+      "Von den Stricken meiner Sünden", Teil I. No. 11 Choral "Wer hat dich so geschlagen", 'Teil I. No. 14 Choral
+      "Petrus, der nicht denkt zurück"', Teil II. No. 17 Choral "Ach großer König", 'Teil II. No. 19 Arioso (Bass)
+      "Betrachte, meine Seel"', 'Teil II. No. 22 Choral "Durch dein Gefängnis, Gottes Sohn"', 'Teil II. No. 24 Aria
+      (Bass, Chorus) "Eilt, ihr angefochtnen Seelen"', Teil II. No. 26 Choral "In meines Herzens Grunde", '.1: Teil
+      II. No. 28 Choral "Er nahm alles wohl in acht"', Teil II. No. 30 Aria (Alt) "Es ist vollbracht!", 'Teil II.
+      No. 32 Aria (Bass, Chorus) "Mein teurer Heiland, laß dich fragen"', 'Teil II. No. 34 Arioso (Tenor) "Mein
+      Herz, in dem die ganze Welt"', 'Teil II. No. 37 Choral "O hilf, Christe, Gottes Sohn"', 'Teil II. No. 39 Chorus
+      "Ruht wohl, ihr heiligen Gebeine"', 'Teil II. No. 40 Choral "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/80580f1e-63f0-4fee-b722-3380c5a86e36
+  title: 100 Must-Have Bach Masterpieces
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1a935ca0-550a-4922-b480-c6dcfe3a2350
+  recordings: [1f527e05-bb5d-46c0-a8bd-737c22591256, 42770ae2-ef86-47ed-a28e-46e37a3cee75]

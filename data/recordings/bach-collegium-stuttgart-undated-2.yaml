@@ -1,0 +1,62 @@
+id: bach-collegium-stuttgart-undated-2
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Ingeborg Danz
+  role: performer
+- name: Juliane Banse
+  role: performer
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Stadthalle Sindelfingen
+released: 1994
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, IVa. "Da versammelten sich die Hohenpriester" (Evangelista)',
+    'Teil I, IVb. Cori "Ja nicht auf das Fest"', 'Teil I, IVc. "Da nun Jesus war zu Bethanien" (Evangelista)', 'Teil
+      I, IVd. Coro "Wozu dienet dieser Unrat"', 'Teil I, IVe. "Da das Jesus merkete" (Evangelista, Jesus)', 'Teil
+      I, IXa. "Aber am ersten Tage der süssen Brot" (Evangelista)', 'Teil I, IXb. Coro "Wo willst du, dass wir dir
+      bereiten"', 'Teil I, IXc. "Er sprach: Gehet hin in die Stadt" (Evangelista, Jesus)', 'Teil I, IXd. "Und sie
+      wurden sehr betrübt" (Evangelista)', 'Teil I, IXe. Coro "Herr, bin ichs"', 'Teil II, XXXVIa. "Und der Hohepriester
+      antwortete" (Evangelista, Pontifex, Jesus)', 'Teil II, XXXVIb. "Er ist des Todes schuldig" (Chori)', 'Teil
+      II, XXXVIc. "Da speieten sie aus" (Evangelista)', 'Teil II, XXXVId. "Weissage uns, Christe" (Chori)', 'Teil
+      II, XXXVIIIa. "Petrus aber saß draußen im Palast" (Evangelista, Ancilla I & II, Petrus)', 'Teil II, XXXVIIIb.
+      "Wahrlich, du bist auch einer von denen" (Chorus)', 'Teil II, XXXVIIIc. "Da hub er an, sich zu verfluchen"
+      (Evangelista, Petrus)', 'Teil II, XLIa. "Des Morgens aber hielten alle Hohepriester" (Evangelista, Judas)',
+    'Teil II, XLIb. "Was gehet uns das an" (Chori)', 'Teil II, XLIc. "Und er warf die Silberlinge in den Tempel"
+      (Evangelista, Pontifex I & II)', 'Teil II, XLVa. "Auf das Fest aber hatte der Landpfleger Gewohnheit" (Evangelista,
+      Pilatus, Uxor Pilati, Chori)', 'Teil II, XLVb. "Laß ihn kreuzigen" (Chori)', 'Teil II, La. "Sie schrieen aber
+      noch mehr" (Evangelista)', 'Teil II, Lb. "Laß ihn kreuzigen" (Chori)', 'Teil II, Lc. "Da aber Pilatus sahe"
+      (Evangelista, Pilatus)', 'Teil II, Ld. "Sein Blut komme über uns" (Chori)', 'Teil II, Le. "Da gab er ihnen
+      Barrabam los" (Evangelista)', 'Teil II, LVIIIa. "Und da sie an die Stätte kamen" (Evangelista)', 'Teil II,
+      LVIIIb. "Der du den Tempel Gottes zerbrichst" (Chori)', 'Teil II, LVIIIc. "Desgleichen auch die Hohenpriester"
+      (Evangelista)', 'Teil II, LVIIId. "Andern hat er geholfen" (Chori)', 'Teil II, LVIIIe. "Desgleichen schmäheten
+      ihn auch die Mörder" (Evangelista)', 'Teil II, LXIa. "Und von der sechsten Stunde an" (Evangelista, Jesus)',
+    'Teil II, LXIb. "Der rufet dem Elias" (Chorus)', 'Teil II, LXIc. "Und bald lief einer unter ihnen" (Evangelista)',
+    'Teil II, LXId. "Halt! Laß sehen" (Chorus)', 'Teil II, LXIe. "Aber Jesus schriee abermal" (Evangelista)', 'Teil
+      II, LXIIIa. "Und siehe da, der Vorhang im Tempel zerriß" (Evangelista)', 'Teil II, LXIIIb. "Wahrlich, dieser
+      ist Gottes Sohn gewesen" (Chori in unisono)', 'Teil II, LXIIIc. "Und es waren viel Weiber da" (Evangelista)']}
+- {bwv: '245', complete: false, movements: ['Teil I. No. 4 "Auf daß das Wort erfüllet werde" (Evangelista, Jesus)',
+    Teil I. No. 7 Aria (Alt) "Von den Stricken meiner Sünden", Teil I. No. 9 Aria (Sopran) "Ich folge dir gleichfalls",
+    'Teil I. No. 10 "Derselbige Jünger war" (Evangelista, Ancilla, Servus, Petrus, Jesus)']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8851bb81-d750-4ddd-b93d-a31385abddd3
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [9457bba2-e190-4141-9e44-d3187de8fa63]

@@ -1,0 +1,80 @@
+id: stuttgarter-kammerorchester-1974
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Stuttgarter Hymnus-Chorknaben
+  role: choir
+- name: Karl Münchinger
+  role: conductor
+- name: Dieter Ellenbeck
+  role: performer
+- name: Walter Berry
+  role: performer
+- name: Hans Georg Ahrens
+  role: performer
+- name: Manfred Ackermann
+  role: performer
+- name: Elly Ameling
+  role: performer
+- name: Werner Hollweg
+  role: performer
+- name: Julia Hamari
+  role: performer
+- name: Wolfgang Isenhardt
+  role: performer
+- name: Gerhard Wilhelm
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974]
+  place: Schloss Ludwigsburg
+released: 1998
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"', 'Teil I. No. 2a Recitativo
+      "Jesus ging mit seinen Jüngern" (Evangelista, Jesus)', Teil I. No. 2b Coro "Jesum von Nazareth", 'Teil I,
+      No. 2c Recitativo "Jesus spricht zu ihnen" (Evangelista, Jesus)', 'Teil I, No. 2d Coro "Jesum von Nazareth"',
+    'Teil I, No. 2e Recitativo "Jesus antwortete" (Evangelista, Jesus)', Teil I. No. 3 Choral "O große Lieb", 'Teil
+      I. No. 4 "Auf daß das Wort erfüllet werde" (Evangelista, Jesus)', Teil I. No. 7 Aria (Alt) "Von den Stricken
+      meiner Sünden", Teil I. No. 9 Aria (Sopran) "Ich folge dir gleichfalls", 'Teil I. No. 10 "Derselbige Jünger
+      war" (Evangelista, Ancilla, Servus, Petrus, Jesus)', Teil I. No. 11 Choral "Wer hat dich so geschlagen", Teil
+      I. No. 12a Recitativo "Und Hannas sandte ihn gebunden" (Evangelista), 'Teil I. No. 12b Coro "Bist du nicht
+      seiner Jünger einer?"', 'Teil I. No. 12c Recitativo "Er leugnete aber und sprach" (Evangelista, Petrus, Servus)',
+    'Teil I. No. 13 Aria (Tenor) "Ach, mein Sinn"', 'Teil I. No. 14 Choral "Petrus, der nicht denkt zurück"', 'Teil
+      II. No. 15 Choral "Christus, der uns selig macht"', 'Teil II. No. 16a Recitativo "Da führeten sie Jesum" (Evangelista,
+      Pilatus)', 'Teil II, No. 16b. Coro "Wäre dieser nicht ein Übeltäter"', 'Teil II, No. 16c. Recitativo "Da sprach
+      Pilatus zu ihnen" (Evangelista, Pilatus)', 'Teil II, No. 16d. Coro "Wir dürfen niemand töten"', 'Teil II,
+      No. 16e. Recitativo "Auf daß erfüllet würde das Wort" (Evangelista, Pilatus, Jesus)', Teil II. No. 17 Choral
+      "Ach großer König", 'Teil II. No. 18a Recitativo "Da sprach Pilatus zu ihm" (Evangelista, Pilatus, Jesus)',
+    'Teil II, No. 18b. Coro "Nicht diesen, sondern Barrabam"', 'Teil II, No. 18c. Recitativo "Barrabas aber war
+      ein Mörder" (Evangelista)', 'Teil II. No. 19 Arioso (Bass) "Betrachte, meine Seel"', 'Teil II. No. 20 Aria
+      (Tenor) "Erwäge, wie sein blutgefärbter Rücken"', Teil II. No. 21a "Und die Kriegsknechte flochten" (Evangelista),
+    'Teil II. No. 22 Choral "Durch dein Gefängnis, Gottes Sohn"', Teil II. No. 23a Recitativo "Die Juden aber schrieen"
+      (Evangelista), 'Teil II, No. 23b. Coro "Lässest du diesen los"', 'Teil II, No. 23c. Recitativo "Da Pilatus
+      das Wort hörete" (Evangelista, Pilatus)', 'Teil II, No. 23d. Coro "Weg, Weg mit dem, kreuzige ihn!"', 'Teil
+      II, No. 23e. Recitativo "Spricht Pilatus zu ihnen" (Evangelista, Pilatus)', 'Teil II, No. 23f. Coro "Wir haben
+      keinen König"', 'Teil II, No. 23g. Recitativo "Da überantwortete er ihn" (Evangelista)', 'Teil II. No. 24
+      Aria (Bass, Chorus) "Eilt, ihr angefochtnen Seelen"', Teil II. No. 25a Recitativo "Allda kreuzigten sie ihn"
+      (Evangelista), Teil II. No. 26 Choral "In meines Herzens Grunde", Teil II. No. 27a Recitativo "Die Kriegsknechte
+      aber" (Evangelista), 'Teil II, No. 27b. Coro "Lasset uns den nicht zerteilen"', 'Teil II, No. 27c. Recitativo
+      "Auf daß erfüllet würde die Schrift" (Evangelista, Jesus)', '.1: Teil II. No. 28 Choral "Er nahm alles wohl
+      in acht"', 'Teil II. No. 29 "Und von Stund an" (Evangelista, Jesus)', Teil II. No. 30 Aria (Alt) "Es ist vollbracht!",
+    'Teil II. No. 32 Aria (Bass, Chorus) "Mein teurer Heiland, laß dich fragen"', 'Teil II. No. 33 "Und siehe da,
+      der Vorhang" (Evangelista)', 'Teil II. No. 35 Aria (Sopran) "Zerfließe, mein Herze"', Teil II. No. 36 "Die
+      Juden aber" (Evangelista), 'Teil II. No. 37 Choral "O hilf, Christe, Gottes Sohn"', Teil II. No. 38 "Darnach
+      bat Pilatum" (Evangelista), 'Teil II. No. 39 Chorus "Ruht wohl, ihr heiligen Gebeine"', 'Teil II. No. 40 Choral
+      "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/00f5bc0e-bad7-405a-8ac4-3605194e7d1d
+  title: Sacred Masterworks
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [0727890e-546d-49c1-a853-4346ec900323, e0761d14-dea8-4583-b5db-ffc8a3c47d3b]

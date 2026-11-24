@@ -1,0 +1,37 @@
+id: jeunesses-musicales-hungary-egyesulet-undated
+performers:
+- name: Jeunesses Musicales Hungary Egyesület
+  role: choir
+- name: Liszt Ferenc Kamarazenekar
+  role: orchestra
+- name: Frigyes Sándor
+  role: conductor
+- name: Zeger Vandersteene
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, XIX. Accompagnato-Rezitativ (Tenor) und Choral (Chor II) "O Schmerz! Hier zittert das gequälte Herz"',
+    'Teil I, XX. Arie (Tenor) und Chor II "Ich will bei meinen Jesu wachen"', 'Teil II, LIV. Choral "O Haupt voll
+      Blut und Wunden"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0602bb00-38ad-4bb4-bc0e-09139fce5c56
+  title: 'Passion & Ostern: Höhepunkte geistlicher Musik'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 019c9912-8f79-4209-b6fc-ebc4462eb823
+  recordings: [74040d0d-2422-4348-a6d7-6bfdbada5077]

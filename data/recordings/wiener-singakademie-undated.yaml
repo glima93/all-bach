@@ -1,0 +1,43 @@
+id: wiener-singakademie-undated
+performers:
+- name: Wiener Singakademie
+  role: choir
+- name: Wiener Sängerknaben
+  role: choir
+- name: Wiener Philharmoniker
+  role: orchestra
+- name: Hans Gillesberger
+  role: performer
+- name: Anton Dermota
+  role: tenor
+- name: Anton Heiller
+  role: harpsichord
+- name: Franz Schütz
+  role: organ
+- name: Wilhelm Furtwängler
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: 'Konzerthaus: Großer Saal'
+released: 2021
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LVIIIa. "Und da sie an die Stätte kamen" (Evangelista)', 'Teil
+      II, LVIIIb. "Der du den Tempel Gottes zerbrichst" (Chori)', 'Teil II, LVIIIc. "Desgleichen auch die Hohenpriester"
+      (Evangelista)', 'Teil II, LVIIId. "Andern hat er geholfen" (Chori)']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7e64fa73-60df-4b63-8368-ddb6af023c13
+  title: 'Bach, JS: Matthäus‐Passion, BWV 244 (Live)'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 282f51ac-5602-477a-82e4-49611c97f382
+  recordings: [9111ddcc-8af8-4a34-a8bf-b4568dcb79e1]

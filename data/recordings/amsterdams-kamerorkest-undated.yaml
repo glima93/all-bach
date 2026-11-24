@@ -1,0 +1,40 @@
+id: amsterdams-kamerorkest-undated
+performers:
+- name: Amsterdams Kamerorkest
+  role: orchestra
+- name: Holland Bach Choir
+  role: choir
+- name: Charles de Wolff
+  role: conductor
+- name: Hermann Christian Polster
+  role: performer
+- name: Barbara Schlick
+  role: soprano
+- name: Peter Bartels
+  role: performer
+- name: Hilke Helling
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/38823312-fda6-4d15-9d06-f90c977794c4
+  title: 'Johannes Passion: Highlights'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: f17edbf1-8415-4063-ae24-2271f9c499cd
+  recordings: [8739c73b-699e-447f-91d3-b872d35e8d1f, d4a5c03f-65f4-4cc2-a338-0c133a5d32ac]

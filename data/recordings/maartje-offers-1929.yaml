@@ -1,0 +1,30 @@
+id: maartje-offers-1929
+performers:
+- name: Maartje Offers
+  role: contralto
+- name: Sir John Barbirolli
+  role: conductor
+- name: '[unknown]'
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1929]
+  place: Kingsway Hall
+released: 2020
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, V. Accompagnato-Rezitativ (Alt) "Du lieber Heiland du"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/290f4b53-8292-470b-b669-5a3b9dda5b24
+  title: The Complete Warner Recordings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a5d99086-13f1-445b-b50b-7b400cd34da3
+  recordings: [5ed524ac-943a-4119-b75e-bafe2f2ca470]

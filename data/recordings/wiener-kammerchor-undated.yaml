@@ -1,0 +1,50 @@
+id: wiener-kammerchor-undated
+performers:
+- name: Wiener Kammerchor
+  role: choir
+- name: Orchester der Wiener Staatsoper
+  role: orchestra
+- name: Yorkshire Baroque Soloists
+  role: orchestra
+- name: Hugues Cuénod
+  role: tenor
+- name: Magda László
+  role: soprano
+- name: Heinz Rehfuss
+  role: bass-baritone
+- name: Hilde Rössel-Majdan
+  role: contralto
+- name: Eberhard Wächter
+  role: baritone
+- name: Hermann Scherchen
+  role: conductor
+- name: Peter Harvey
+  role: baritone
+- name: Peter Seymour
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: 'Konzerthaus: Mozart‐Saal; National Centre for Early Music'
+released: 2018
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, XXVI. Rezitativ (Evangelist, Jesus) "Und er kam und fand sie
+      aber schlafend"', 'Teil I, XXVIIa. Arie (Sopran, Alt) und Chor "So ist mein Jesus nun gefangen"', 'Teil I,
+      XXVIIb. "Sind Blitze, sind Donner in Wolken verschwunden" (Chori)', 'Teil II, XXX. Arie (Alt) und Chor "Ach!
+      nun ist mein Jesus hin"', 'Teil II, LVII. Aria (Basso) "Komm, süßes Kreuz, so will ich sagen"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0f23c2a9-520d-4cf4-9fed-3d6780301940
+  recordings: [57e4ac35-b6b4-46a4-b87f-2b8749b70251, cecd1bd7-fd12-40f5-9688-7db3091c2b84]

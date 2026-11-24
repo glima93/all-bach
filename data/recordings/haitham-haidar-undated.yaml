@@ -1,0 +1,39 @@
+id: haitham-haidar-undated
+performers:
+- name: Haitham Haidar
+  role: performer
+- name: Tanya LaPerrière
+  role: performer
+- name: Sylvain Bergeron
+  role: performer
+- name: Abdul‐Wahab Kayyali
+  role: performer
+- name: Amanda Keesmaat
+  role: performer
+- name: Abraham Ross
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/98a7cace-0af8-4ab8-af3c-686c62e62b3d
+  title: Zaytoun
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5528fe10-9a29-4882-8076-5cb8bb03c755
+  recordings: [0e73117a-7651-4ba6-b0fe-748439d32d4e]

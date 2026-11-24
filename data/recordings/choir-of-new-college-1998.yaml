@@ -1,0 +1,32 @@
+id: choir-of-new-college-1998
+performers:
+- name: Choir of New College, Oxford
+  role: choir
+- name: Capricorn Ensemble
+  role: ensemble
+- name: Edward Higginbottom
+  role: conductor
+- name: Choir of New College Oxford
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: New College Chapel
+released: 1998
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil II. No. 39 Chorus "Ruht wohl, ihr heiligen Gebeine"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4ef516e3-5efe-3a24-858e-4a8ccb2f8469
+  title: Agnus Dei II
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 430770c6-7720-4086-b5b6-045a6edad385
+  recordings: [e675ce5f-b74d-4ddc-8b5c-7d696b397011]

@@ -1,0 +1,38 @@
+id: munchener-kammerorchester-2009
+performers:
+- name: Münchener Kammerorchester
+  role: orchestra
+- name: Alexander Liebreich
+  role: conductor
+- name: Rosario Conte
+  role: theorbo
+- name: Kristin von der Goltz
+  role: cello
+- name: Hilary Hahn
+  role: violin
+- name: 北谷直樹
+  role: harpsichord
+- name: Matthias Goerne
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: Himmelfahrtskirche
+released: 2010
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XLII. Aria (Basso) "Gebt mir meinen Jesum wieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/893fc1cf-7e80-4609-aac0-965f3b8472f9
+  title: Violin and Voice
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6cd8706c-2bf1-4406-8377-187136acb110
+  recordings: [6805a668-62cf-40fd-bbb3-a4e9c0a499ec]

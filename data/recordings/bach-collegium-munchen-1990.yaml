@@ -1,0 +1,54 @@
+id: bach-collegium-munchen-1990
+performers:
+- name: Bach Collegium München
+  role: orchestra
+- name: Enoch zu Guttenberg
+  role: conductor
+- name: Claes‐Håkan Ahnsjö
+  role: performer
+- name: Anton Scharinger
+  role: performer
+- name: Nathalie Stutzmann
+  role: performer
+- name: Robert Swensen
+  role: performer
+- name: Jard van Nes
+  role: mezzo-soprano
+- name: Inga Nielsen
+  role: performer
+- name: Christa Schneider
+  role: performer
+- name: Karl Prokopetz
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990, 1991]
+  place: Klosterkirche Alpirsbach
+released: 1992
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+- {bwv: '245', complete: false, movements: ['Teil I. No. 4 "Auf daß das Wort erfüllet werde" (Evangelista, Jesus)',
+    Teil I. No. 6 "Die Schar aber und der Oberhauptmann" (Evangelista), Teil I. No. 7 Aria (Alt) "Von den Stricken
+      meiner Sünden", Teil I. No. 8 "Simon Petrus aber folgete Jesu nach" (Evangelista), Teil I. No. 9 Aria (Sopran)
+      "Ich folge dir gleichfalls", 'Teil I. No. 10 "Derselbige Jünger war" (Evangelista, Ancilla, Servus, Petrus,
+      Jesus)', 'Teil I. No. 13 Aria (Tenor) "Ach, mein Sinn"', 'Teil II. No. 19 Arioso (Bass) "Betrachte, meine
+      Seel"', 'Teil II. No. 20 Aria (Tenor) "Erwäge, wie sein blutgefärbter Rücken"', 'Teil II. No. 29 "Und von
+      Stund an" (Evangelista, Jesus)', Teil II. No. 30 Aria (Alt) "Es ist vollbracht!", Teil II. No. 31 "Und neiget
+      sein Haupt" (Evangelista), 'Teil II. No. 33 "Und siehe da, der Vorhang" (Evangelista)', 'Teil II. No. 34 Arioso
+      (Tenor) "Mein Herz, in dem die ganze Welt"', 'Teil II. No. 35 Aria (Sopran) "Zerfließe, mein Herze"', Teil
+      II. No. 36 "Die Juden aber" (Evangelista), Teil II. No. 38 "Darnach bat Pilatum" (Evangelista)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9c018c20-393e-417b-a93f-c9204f4cd4ab
+  title: Tears from Heaven
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: f5bd246e-b29d-469d-8ca6-1bdef5b09fc7
+  recordings: [3781661f-8d7f-4a38-afb3-24225ad79308]

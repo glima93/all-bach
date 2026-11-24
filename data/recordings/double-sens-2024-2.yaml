@@ -1,0 +1,30 @@
+id: double-sens-2024-2
+performers:
+- name: Double Sens
+  role: orchestra
+- name: Philippe Jaroussky
+  role: countertenor
+- name: Nemanja Radulović
+  role: violin
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2024]
+  place: RIFFX 1 Studio
+released: 2024
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/65ccfe87-28e7-49be-b53b-c547887d8d8a
+  title: J. S. Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b42376e9-44c0-4f99-824a-321d0de23c26
+  recordings: [83d22801-0dfa-4480-9b2c-912fc55cf058]

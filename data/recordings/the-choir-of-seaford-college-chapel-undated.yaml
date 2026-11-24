@@ -1,0 +1,30 @@
+id: the-choir-of-seaford-college-chapel-undated
+performers:
+- name: The Choir of Seaford College Chapel
+  role: choir
+- name: Philip Hill
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XLIV. Choral "Befiehl du deine Wege"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3b977774-e752-4576-9915-5875a252d32f
+  title: 'Pie Jesu: Choral Favourites'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49ba43ec-ebff-4ebb-952b-744dac47032f
+  recordings: [021fae70-0a43-4155-a83f-2f8823f8b882]

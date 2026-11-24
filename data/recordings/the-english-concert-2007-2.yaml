@@ -1,0 +1,44 @@
+id: the-english-concert-2007-2
+performers:
+- name: The English Concert
+  role: orchestra
+- name: David Daniels
+  role: countertenor
+- name: Harry Bicket
+  role: conductor
+- name: Lisa Beznosiuk
+  role: performer
+- name: Guy Williams
+  role: performer
+- name: Nadja Zwiener
+  role: performer
+- name: Hannah McLaughlin
+  role: performer
+- name: Katharina Spreckelsen
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: St Jude‐on‐the‐Hill
+released: 2008
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, V. Accompagnato-Rezitativ (Alt) "Du lieber Heiland du"', 'Teil
+      I, VI. Arie (Alt) "Buß und Reu"', 'Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"', 'Teil II, LI. Recitativo
+      (Alto) "Erbarm es Gott"', 'Teil II, LII. Aria (Alto) "Können Tränen meiner Wangen"']}
+- {bwv: '245', complete: false, movements: [Teil I. No. 7 Aria (Alt) "Von den Stricken meiner Sünden", Teil II.
+      No. 30 Aria (Alt) "Es ist vollbracht!"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d661e65e-c65d-43f5-b329-8f7955b4b6c4
+  title: Sacred Arias and Cantatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8af55e27-c6ad-44f3-a6d2-53df5462798c
+  recordings: [8ad09aa2-a359-48e5-a4dd-bfa7a8984157]

@@ -1,0 +1,29 @@
+id: staatskapelle-dresden-1985
+performers:
+- name: Staatskapelle Dresden
+  role: orchestra
+- name: Lucia Popp
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, XIII. Arie (Sopran) "Ich will dir mein Herze schenken"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/36117ab6-6c68-40df-8840-2d9aac787ff6
+  title: Hallelujah - Geistliche Chöre und Arien
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62250633-e888-49bb-ab9f-d6f14ef21012
+  recordings: [c6d65778-6844-478e-9847-d5a94946823a]

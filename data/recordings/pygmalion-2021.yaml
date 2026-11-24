@@ -1,0 +1,50 @@
+id: pygmalion-2021
+performers:
+- name: Pygmalion
+  role: ensemble
+- name: Maîtrise de Radio France
+  role: choir
+- name: Raphaël Pichon
+  role: conductor
+- name: Julian Prégardien
+  role: tenor
+- name: Stéphane Degout
+  role: bass
+- name: Christian Immler
+  role: performer
+- name: Lucile Richardot
+  role: performer
+- name: Sabine Devieilhe
+  role: performer
+- name: Emiliano Gonzalez‐Toro
+  role: performer
+- name: Tim Mead
+  role: performer
+- name: Hana Blažíková
+  role: performer
+- name: Reinoud Van Mechelen
+  role: performer
+- name: Ensemble Pygmalion
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: 'Philharmonie de Paris: Grande Salle Pierre Boulez'
+released: 2022
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e96e453-a49e-410b-9b0f-f1592d82bb25
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a62aaaee-e9ec-403f-b7f1-274a5e46adb1
+  recordings: [35ffb7aa-fa91-4241-bbeb-cde0b301f673, 8cbed360-8549-4014-aecc-5ed7478bbfb2]

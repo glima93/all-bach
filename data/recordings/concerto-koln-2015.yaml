@@ -1,0 +1,74 @@
+id: concerto-koln-2015
+performers:
+- name: Concerto Köln
+  role: orchestra
+- name: Peter Dijkstra
+  role: conductor
+- name: Julian Prégardien
+  role: tenor
+- name: Krešimir Stražanac
+  role: performer
+- name: Tareq Nazmi
+  role: bass
+- name: Tilman Lichdi
+  role: performer
+- name: Benjamin Appl
+  role: performer
+- name: Ulrike Malotta
+  role: performer
+- name: Christina Landshamer
+  role: performer
+- name: Andreas Burkhart
+  role: performer
+- name: Simona Brüninghaus
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2015, 2018]
+  place: Herkulessaal
+released: 2016
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XLII. Aria (Basso) "Gebt mir meinen Jesum wieder"', 'Teil
+      II, LXIV. Recitativo (Basso) "Am Abend, da es kühle war"', 'Teil II, LXV. Aria (Basso) "Mache dich, mein Herze,
+      rein"']}
+- {bwv: '245', complete: false, movements: ['Teil I. No. 2a Recitativo "Jesus ging mit seinen Jüngern" (Evangelista,
+      Jesus)', 'Teil I, No. 2c Recitativo "Jesus spricht zu ihnen" (Evangelista, Jesus)', 'Teil I, No. 2e Recitativo
+      "Jesus antwortete" (Evangelista, Jesus)', 'Teil I. No. 4 "Auf daß das Wort erfüllet werde" (Evangelista, Jesus)',
+    Teil I. No. 6 "Die Schar aber und der Oberhauptmann" (Evangelista), Teil I. No. 7 Aria (Alt) "Von den Stricken
+      meiner Sünden", Teil I. No. 8 "Simon Petrus aber folgete Jesu nach" (Evangelista), Teil I. No. 9 Aria (Sopran)
+      "Ich folge dir gleichfalls", 'Teil I. No. 10 "Derselbige Jünger war" (Evangelista, Ancilla, Servus, Petrus,
+      Jesus)', Teil I. No. 12a Recitativo "Und Hannas sandte ihn gebunden" (Evangelista), 'Teil I. No. 12c Recitativo
+      "Er leugnete aber und sprach" (Evangelista, Petrus, Servus)', 'Teil I. No. 13 Aria (Tenor) "Ach, mein Sinn"',
+    'Teil II. No. 16a Recitativo "Da führeten sie Jesum" (Evangelista, Pilatus)', 'Teil II, No. 16c. Recitativo
+      "Da sprach Pilatus zu ihnen" (Evangelista, Pilatus)', 'Teil II, No. 16e. Recitativo "Auf daß erfüllet würde
+      das Wort" (Evangelista, Pilatus, Jesus)', 'Teil II. No. 18a Recitativo "Da sprach Pilatus zu ihm" (Evangelista,
+      Pilatus, Jesus)', 'Teil II, No. 18c. Recitativo "Barrabas aber war ein Mörder" (Evangelista)', 'Teil II. No.
+      19 Arioso (Bass) "Betrachte, meine Seel"', 'Teil II. No. 20 Aria (Tenor) "Erwäge, wie sein blutgefärbter Rücken"',
+    Teil II. No. 21a "Und die Kriegsknechte flochten" (Evangelista), 'Teil II, No. 21c. Recitativo "Und gaben ihm
+      Backenstreiche" (Evangelista, Pilatus)', 'Teil II, No. 21e. Recitativo "Pilatus sprach zu ihnen" (Evangelista,
+      Pilatus)', 'Teil II, No. 21g. Recitativo "Da Pilatus das Wort hörete" (Evangelista, Pilatus, Jesus)', Teil
+      II. No. 23a Recitativo "Die Juden aber schrieen" (Evangelista), 'Teil II, No. 23c. Recitativo "Da Pilatus
+      das Wort hörete" (Evangelista, Pilatus)', 'Teil II, No. 23e. Recitativo "Spricht Pilatus zu ihnen" (Evangelista,
+      Pilatus)', 'Teil II, No. 23g. Recitativo "Da überantwortete er ihn" (Evangelista)', Teil II. No. 25a Recitativo
+      "Allda kreuzigten sie ihn" (Evangelista), 'Teil II, No. 25c. Recitativo "Pilatus antwortet" (Evangelista,
+      Pilatus)', Teil II. No. 27a Recitativo "Die Kriegsknechte aber" (Evangelista), 'Teil II, No. 27c. Recitativo
+      "Auf daß erfüllet würde die Schrift" (Evangelista, Jesus)', 'Teil II. No. 29 "Und von Stund an" (Evangelista,
+      Jesus)', Teil II. No. 30 Aria (Alt) "Es ist vollbracht!", Teil II. No. 31 "Und neiget sein Haupt" (Evangelista),
+    'Teil II. No. 33 "Und siehe da, der Vorhang" (Evangelista)', 'Teil II. No. 34 Arioso (Tenor) "Mein Herz, in
+      dem die ganze Welt"', 'Teil II. No. 35 Aria (Sopran) "Zerfließe, mein Herze"', Teil II. No. 36 "Die Juden
+      aber" (Evangelista), Teil II. No. 38 "Darnach bat Pilatum" (Evangelista)]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5de1a8d5-8ff3-48d3-a277-df3193904751
+  title: Bach Soli Deo Gloria
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 16a29583-0a91-415c-ac87-6ee5c6c2c406
+  recordings: [1e738edc-fad2-414f-b432-f03e6e0a29e3]

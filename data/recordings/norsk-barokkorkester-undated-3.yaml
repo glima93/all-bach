@@ -1,0 +1,31 @@
+id: norsk-barokkorkester-undated-3
+performers:
+- name: Norsk Barokkorkester
+  role: orchestra
+- name: Catherine King
+  role: alto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, VI. Arie (Alt) "Buß und Reu"', 'Teil II, XXXIX. Aria (Alto)
+      "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b6bb040-fc8e-424a-a939-b302295d5b26
+  title: Alto Arias
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f2458365-5aaa-4069-9d45-9aa09745ed8a
+  recordings: [ecf3e923-8410-4639-9b6d-9b6899193eb1]

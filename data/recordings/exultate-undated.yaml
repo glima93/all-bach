@@ -1,0 +1,30 @@
+id: exultate-undated
+performers:
+- name: Exultate
+  role: orchestra
+- name: Thomas D. Rossin
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b1893afa-1ed7-4595-8692-85f11fd2073b
+  title: The Seven Last Words of Christ
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c29cd925-5658-4499-bc7c-37ccf2377498
+  recordings: [bbc1e72c-1ed4-431e-9f95-73ab9bacd175]

@@ -1,0 +1,33 @@
+id: orfeon-donostiarra-1972
+performers:
+- name: Orfeón Donostiarra
+  role: choir
+- name: Orquesta Nacional
+  role: orchestra
+- name: Rafael Frühbeck de Burgos
+  role: conductor
+- name: Orquesta Nacional de España
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972]
+  place: Teatro Real
+released: 1997
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LIV. Choral "O Haupt voll Blut und Wunden"', 'Teil II, LXVIII.
+      Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e216262e-ef1d-45f7-8e4b-d4a5267ff1fd
+  title: El Orfeón Donostiarra en su centenario
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d5631c43-80b6-41aa-a40c-81f903500d84
+  recordings: [6f68263d-d592-4443-95b3-3e1595624022]

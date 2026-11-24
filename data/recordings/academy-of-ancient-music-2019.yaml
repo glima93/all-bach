@@ -1,0 +1,63 @@
+id: academy-of-ancient-music-2019
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Stephen Cleobury
+  role: conductor
+- name: James Gilchrist
+  role: tenor
+- name: Matthew Rose
+  role: bass
+- name: William Gaunt
+  role: performer
+- name: David Allsopp
+  role: performer
+- name: Sophie Bevan
+  role: performer
+- name: Mark le Brocq
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: King’s College Chapel
+released: 2020
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, II. Rezitativ (Evangelist, Jesus) "Da Jesus diese Rede vollendet
+      hatte"', 'Teil I, V. Accompagnato-Rezitativ (Alt) "Du lieber Heiland du"', 'Teil I, VI. Arie (Alt) "Buß und
+      Reu"', 'Teil I, VII. Rezitativ (Evangelist, Judas) "Da ging hin der Zwölfen einer"', 'Teil I, VIII. Arie (Sopran)
+      "Blute nur, du liebes Herz"', 'Teil I, XI. Rezitativ (Evangelist, Jesus, Judas) "Er antwortete und sprach"',
+    'Teil I, XII. Accompagnato-Rezitativ (Sopran) "Wiewohl mein Herz in Tränen schwimmt"', 'Teil I, XIII. Arie (Sopran)
+      "Ich will dir mein Herze schenken"', 'Teil I, XIV. Rezitativ (Evangelist, Jesus) "Und da sie den Lobgesang
+      gesprochen hatten"', 'Teil I, XVI. Rezitativ (Evangelist, Petrus, Jesus) "Petrus aber antwortete und sprach
+      zu ihm"', 'Teil I, XVIII. Rezitativ (Evangelist, Jesus) "Da kam Jesus mit ihnen zu einem Hofe"', 'Teil I,
+      XXI. Rezitativ (Evangelist, Jesus) "Und ging hin ein wenig"', 'Teil I, XXII. Accompagnato-Rezitativ (Bass)
+      "Der Heiland fällt vor seinem Vater nieder"', 'Teil I, XXIII. Arie (Bass) "Gerne will ich mich bequemen"',
+    'Teil I, XXIV. Rezitativ (Evangelist, Jesus) "Und er kam zu seinen Jüngern"', 'Teil I, XXVI. Rezitativ (Evangelist,
+      Jesus) "Und er kam und fand sie aber schlafend"', 'Teil I, XXVIII. Rezitativ (Evangelist, Jesus) "Und siehe,
+      einer aus denen, die mit Jesu waren"', 'Teil II, XXXI. Rezitativ (Evangelist) "Die aber Jesum gegriffen hatten"',
+    'Teil II, XXXIII. Rezitativ (Evangelist, 2 Zeugen, Hohepriester) "Und wiewohl viel falsche Zeugen herzutraten"',
+    'Teil II, XXXIV. Accompagnato-Rezitativ (Tenor) "Mein Jesus schweigt zu falschen Lügen stille"', 'Teil II, XXXV.
+      Arie (Tenor) "Geduld! Wenn mich falsche Zungen stechen"', 'Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein
+      Gott"', 'Teil II, XLII. Aria (Basso) "Gebt mir meinen Jesum wieder"', 'Teil II, XLIII. "Sie hielten aber einen
+      Rat" (Evangelista, Pilatus, Jesus)', 'Teil II, XLVII. "Der Landpfleger sagte" (Evangelista, Pilatus)', 'Teil
+      II, XLVIII. Recitativo (Soprano) "Er hat uns allen wohlgetan"', 'Teil II, XLIX. Aria (Soprano) "Aus Liebe
+      will mein Heiland sterben"', 'Teil II, LI. Recitativo (Alto) "Erbarm es Gott"', 'Teil II, LII. Aria (Alto)
+      "Können Tränen meiner Wangen"', 'Teil II, LV. "Und da sie ihn verspottet hatten" (Evangelista)', 'Teil II,
+      LVI. Recitativo (Basso) "Ja freilich will in uns das Fleisch und Blut"', 'Teil II, LVII. Aria (Basso) "Komm,
+      süßes Kreuz, so will ich sagen"', 'Teil II, LIX. Recitativo (Alto) "Ach Golgotha"', 'Teil II, LXIV. Recitativo
+      (Basso) "Am Abend, da es kühle war"', 'Teil II, LXV. Aria (Basso) "Mache dich, mein Herze, rein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e817ef33-40a7-4fe3-8561-84adc8da660d
+  title: St Matthew Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [86b7c524-fd2f-4289-a6ef-d102cca71ef0]

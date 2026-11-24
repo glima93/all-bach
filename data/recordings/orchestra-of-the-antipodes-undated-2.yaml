@@ -1,0 +1,34 @@
+id: orchestra-of-the-antipodes-undated-2
+performers:
+- name: Orchestra of the Antipodes
+  role: orchestra
+- name: Teddy Tahu Rhodes
+  role: performer
+- name: Antony Walker
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XLII. Aria (Basso) "Gebt mir meinen Jesum wieder"', 'Teil
+      II, LXV. Aria (Basso) "Mache dich, mein Herze, rein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a8ae2770-1403-4b79-9506-ca7a1b149b21
+  title: The Voice
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bb991732-f9ac-4396-bc66-e13793250056
+  recordings: [2b45c55d-fa6a-42f3-bcb8-e6d25e2d0eb3]

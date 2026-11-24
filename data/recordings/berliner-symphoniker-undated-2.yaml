@@ -1,0 +1,32 @@
+id: berliner-symphoniker-undated-2
+performers:
+- name: Berliner Symphoniker
+  role: orchestra
+- name: Ferdinand Lang
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LIV. Choral "O Haupt voll Blut und Wunden"', 'Teil II, LXVIII.
+      Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aba41388-b569-4134-982c-0a23b582dbb4
+  title: The Best of Bach
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ebd26f0-5067-417e-8544-981fb945169a
+  recordings: [8c14782a-d5a0-4ae6-9785-36a0a467b567]

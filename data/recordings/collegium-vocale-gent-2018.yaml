@@ -1,0 +1,40 @@
+id: collegium-vocale-gent-2018
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Maximilian Schmitt
+  role: performer
+- name: Krešimir Stražanac
+  role: performer
+- name: Peter Kooij
+  role: performer
+- name: Stephan Gähler
+  role: performer
+- name: Philipp Kaven
+  role: performer
+- name: Magdalena Podkościelna
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: deSingel Internationale Kunstcampus
+released: 2020
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a17cea30-ac38-4afa-bb06-ffdf2bba7688
+  title: Johannes‐Passion, BWV 245
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [ff39a999-5d93-4174-a9b8-0af71884de42]

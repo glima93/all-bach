@@ -1,0 +1,47 @@
+id: choir-of-king-s-college-undated-2
+performers:
+- name: Choir of King’s College, Cambridge
+  role: choir
+- name: The Brandenburg Consort
+  role: orchestra
+- name: Stephen Cleobury
+  role: conductor
+- name: Michael Chance
+  role: alto
+- name: The Choir of Jesus College Cambridge
+  role: choir
+- name: Rogers Covey‐Crump
+  role: tenor
+- name: Michael George
+  role: bass
+- name: Martyn Hill
+  role: tenor
+- name: Emma Kirkby
+  role: soprano
+- name: David Thomas
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: King’s College Chapel
+released: 2010
+original_label: null
+works:
+- {bwv: '244', complete: true}
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cf74e971-b791-4c23-ab2d-2189e6f8195a
+  title: Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 67af7195-bcc0-413e-969b-b26f8a41d5ff
+  recordings: [50e0e3d1-dd63-4308-85ed-ac3e1a914ef0]

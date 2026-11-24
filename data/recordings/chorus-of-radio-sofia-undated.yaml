@@ -1,0 +1,33 @@
+id: chorus-of-radio-sofia-undated
+performers:
+- name: Chorus of Radio Sofia
+  role: choir
+- name: Sofia Radio Symphony Orchestra
+  role: orchestra
+- name: Ivan Marinov
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, XXIX. Choral "O Mensch, bewein dein Sünde groß"', 'Teil II,
+      LIV. Choral "O Haupt voll Blut und Wunden"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0aaeab9-7595-4661-a27f-990411796ca4
+  title: 'The Masterpiece Collection, Volume 1: Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a4a063d-9426-4a43-af92-3f80f5837af0
+  recordings: [13d96c1f-c988-4f62-abb4-b97cf89278f1]

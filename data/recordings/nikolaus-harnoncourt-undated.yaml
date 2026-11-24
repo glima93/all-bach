@@ -1,0 +1,28 @@
+id: nikolaus-harnoncourt-undated
+performers:
+- name: Nikolaus Harnoncourt
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LIV. Choral "O Haupt voll Blut und Wunden"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/35af93ce-78d4-4af6-8e5a-caf4b84a696b
+  title: Divine Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 98b95966-64db-4631-8b9f-8aa66f32cc98
+  recordings: [1ebb5fa7-3ec1-422a-8a97-89796c8aa3b3]

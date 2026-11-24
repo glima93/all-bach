@@ -1,0 +1,59 @@
+id: bach-ensemble-of-the-europachorakademie-2000
+performers:
+- name: Bach Ensemble of the EuropaChorAkademie
+  role: choir
+- name: Polnische Kammerphilharmonie
+  role: orchestra
+- name: Aurelius Sängerknaben Calw
+  role: choir
+- name: Joshard Daus
+  role: conductor
+- name: Andreas Wagner
+  role: performer
+- name: Hedwig Fassbender
+  role: performer
+- name: Britta Stallmeister
+  role: performer
+- name: Andreas Scheibner
+  role: performer
+- name: Friedemann Kunder
+  role: performer
+- name: EuropaChorAkademie
+  role: orchestra
+- name: Polska Filharmonia Kameralna
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, III. Choral "Herzliebster Jesu, was hast du verbrochen"', 'Teil I, VIII. Arie (Sopran) "Blute nur, du liebes
+      Herz"', 'Teil I, XIX. Accompagnato-Rezitativ (Tenor) und Choral (Chor II) "O Schmerz! Hier zittert das gequälte
+      Herz"', 'Teil I, XX. Arie (Tenor) und Chor II "Ich will bei meinen Jesu wachen"', 'Teil I, XXVIIa. Arie (Sopran,
+      Alt) und Chor "So ist mein Jesus nun gefangen"', 'Teil I, XXVIIb. "Sind Blitze, sind Donner in Wolken verschwunden"
+      (Chori)', 'Teil I, XXIX. Choral "O Mensch, bewein dein Sünde groß"', 'Teil II, XXXIX. Aria (Alto) "Erbarme
+      dich, mein Gott"', 'Teil II, XLII. Aria (Basso) "Gebt mir meinen Jesum wieder"', 'Teil II, LII. Aria (Alto)
+      "Können Tränen meiner Wangen"', 'Teil II, LIV. Choral "O Haupt voll Blut und Wunden"', 'Teil II, LXIa. "Und
+      von der sechsten Stunde an" (Evangelista, Jesus)', 'Teil II, LXII. Choral "Wenn ich einmal soll scheiden"',
+    'Teil II, LXIIIa. "Und siehe da, der Vorhang im Tempel zerriß" (Evangelista)', 'Teil II, LXIIIb. "Wahrlich,
+      dieser ist Gottes Sohn gewesen" (Chori in unisono)', 'Teil II, LXV. Aria (Basso) "Mache dich, mein Herze,
+      rein"', 'Teil II, LXVII. Recitativo (Soprano, Alto, Tenore, Basso) "Nun ist der Herr zur Ruh gebracht" - Coro
+      "Mein Jesu, gute Nacht"', 'Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44f53f7b-7a0c-4796-b06c-1077327b13ff
+  title: Baroque Masterpieces
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: c2fe5b7b-73ad-4dd1-a527-e564e4401721
+  recordings: [95fc6b49-d5cf-4795-b517-00495f82fa3b, a38cc3b1-0e81-4099-ba4f-9b89a478a6be]

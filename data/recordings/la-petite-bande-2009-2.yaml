@@ -1,0 +1,44 @@
+id: la-petite-bande-2009-2
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Sigiswald Kuijken
+  role: conductor
+- name: Christoph Genz
+  role: tenor
+- name: Jan Van der Crabben
+  role: bass
+- name: Marcus Niedermeyr
+  role: bass
+- name: Patrizia Hardt
+  role: alto
+- name: Bernard Hunziker
+  role: tenor
+- name: Petra Noskaiová
+  role: alto
+- name: Marie Kuijken
+  role: soprano
+- name: Gerlinde Sämann
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: Predikherenkerk
+released: 2009
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5988d8c2-b06b-4770-8cfa-a3aecd2dccee
+  title: Matthäus-Passion BWV 244
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [ebe448a5-493f-4f95-90de-68ab2a2218a6]

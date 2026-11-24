@@ -1,0 +1,52 @@
+id: the-thames-chamber-orchestra-1978
+performers:
+- name: The Thames Chamber Orchestra
+  role: orchestra
+- name: Sir David Willcocks
+  role: conductor
+- name: Alfreda Hodgson
+  role: contralto
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978]
+  place: Kingsway Hall
+released: 1979
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, La. "Sie schrieen aber noch mehr" (Evangelista)', 'Teil II,
+      Lb. "Laß ihn kreuzigen" (Chori)', 'Teil II, Lc. "Da aber Pilatus sahe" (Evangelista, Pilatus)', 'Teil II,
+      Ld. "Sein Blut komme über uns" (Chori)', 'Teil II, Le. "Da gab er ihnen Barrabam los" (Evangelista)', 'Teil
+      II, LI. Recitativo (Alto) "Erbarm es Gott"', 'Teil II, LII. Aria (Alto) "Können Tränen meiner Wangen"', 'Teil
+      II, LIIIa. "Da nahmen die Kriegsknechte" (Evangelista)', 'Teil II, LIIIb. "Gegrüßet seist du, Jüdenkönig"
+      (Chori)', 'Teil II, LIIIc. "Und speieten ihn an" (Evangelista)', 'Teil II, LIV. Choral "O Haupt voll Blut
+      und Wunden"', 'Teil II, LV. "Und da sie ihn verspottet hatten" (Evangelista)', 'Teil II, LVI. Recitativo (Basso)
+      "Ja freilich will in uns das Fleisch und Blut"', 'Teil II, LVII. Aria (Basso) "Komm, süßes Kreuz, so will
+      ich sagen"', 'Teil II, LVIIIa. "Und da sie an die Stätte kamen" (Evangelista)', 'Teil II, LVIIIb. "Der du
+      den Tempel Gottes zerbrichst" (Chori)', 'Teil II, LVIIIc. "Desgleichen auch die Hohenpriester" (Evangelista)',
+    'Teil II, LVIIId. "Andern hat er geholfen" (Chori)', 'Teil II, LVIIIe. "Desgleichen schmäheten ihn auch die
+      Mörder" (Evangelista)', 'Teil II, LIX. Recitativo (Alto) "Ach Golgotha"', 'Teil II, LX. Aria (Alto) "Sehet,
+      Jesus hat die Hand", Coro "Wohin?"', 'Teil II, LXIa. "Und von der sechsten Stunde an" (Evangelista, Jesus)',
+    'Teil II, LXIb. "Der rufet dem Elias" (Chorus)', 'Teil II, LXIc. "Und bald lief einer unter ihnen" (Evangelista)',
+    'Teil II, LXId. "Halt! Laß sehen" (Chorus)', 'Teil II, LXIe. "Aber Jesus schriee abermal" (Evangelista)', 'Teil
+      II, LXII. Choral "Wenn ich einmal soll scheiden"', 'Teil II, LXIIIa. "Und siehe da, der Vorhang im Tempel
+      zerriß" (Evangelista)', 'Teil II, LXIIIb. "Wahrlich, dieser ist Gottes Sohn gewesen" (Chori in unisono)',
+    'Teil II, LXIIIc. "Und es waren viel Weiber da" (Evangelista)', 'Teil II, LXIV. Recitativo (Basso) "Am Abend,
+      da es kühle war"', 'Teil II, LXV. Aria (Basso) "Mache dich, mein Herze, rein"', 'Teil II, LXVIa. "Und Joseph
+      nahm den Leib" (Evangelista)', 'Teil II, LXVIb. "Herr, wir haben gedacht" (Chori)', 'Teil II, LXVIc. "Pilatus
+      sprach zu ihnen" (Evangelista, Pilatus)', 'Teil II, LXVII. Recitativo (Soprano, Alto, Tenore, Basso) "Nun
+      ist der Herr zur Ruh gebracht" - Coro "Mein Jesu, gute Nacht"', 'Teil II, LXVIII. Coro "Wir setzen uns mit
+      Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/86b7828c-b3c1-4ded-94f2-26300a20340d
+  title: St. Matthew Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1993499b-d73c-46c2-a742-2e505dd45a30
+  recordings: [08bc33b8-b2fb-463a-b254-956f9b335b16]

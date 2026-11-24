@@ -1,0 +1,34 @@
+id: aksel-schitz-undated
+performers:
+- name: Aksel Schiøtz
+  role: tenor
+- name: Mogens Steen Andreassen
+  role: oboe
+- name: Mogens Wöldike
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, XIX. Accompagnato-Rezitativ (Tenor) und Choral (Chor II) "O
+      Schmerz! Hier zittert das gequälte Herz"', 'Teil I, XX. Arie (Tenor) und Chor II "Ich will bei meinen Jesu
+      wachen"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de1b7b8c-f8d0-40b2-a656-a627826f7b40
+  title: Classic CD 83
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f3d91f42-e102-4b73-8963-b343adfcce60
+  recordings: [e56cdb73-4b5d-4a9e-a331-494cfba6ce5d]

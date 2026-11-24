@@ -1,0 +1,41 @@
+id: berliner-philharmoniker-2010
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Rundfunkchor Berlin
+  role: choir
+- name: Staats‐ und Domchor Berlin
+  role: choir
+- name: Sir Simon Rattle
+  role: conductor
+- name: Mark Padmore
+  role: tenor
+- name: Magdalena Kožená
+  role: alto
+- name: Camilla Tilling
+  role: performer
+- name: Christian Gerhaher
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3ac1bb0b-9a46-493a-94e8-655001edf5e8
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [02943846-1cf5-4c2e-b29e-b5d0d115216e, ce1361a9-6df3-4bd5-8a3a-c2c050d0ebb7, e33d1890-d581-4787-b2ed-046afd2b87c4]

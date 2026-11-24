@@ -1,0 +1,138 @@
+id: de-nederlandse-bachvereniging-2014-3
+performers:
+- name: De Nederlandse Bachvereniging
+  role: orchestra
+- name: Kampen Boys Choir
+  role: choir
+- name: Jos van Veldhoven
+  role: conductor
+- name: Peter Affourtit
+  role: violin
+- name: Benny Aghassi
+  role: bassoon
+- name: Sarah Aßmann
+  role: oboe
+- name: Pieter-Jan Belder
+  role: organ
+- name: Marieke Bouche
+  role: violin
+- name: Leo van Doeselaar
+  role: organ
+- name: Robert Franenberg
+  role: double bass
+- name: Peter Frankenberg
+  role: oboe
+- name: Fernando Santiago García
+  role: cello
+- name: Hen Goldsobel
+  role: double bass
+- name: Matthew Greco
+  role: violin
+- name: Anneke van Haaften
+  role: violin
+- name: Siebe Henstra
+  role: harpsichord
+- name: Femke Huizinga
+  role: viola
+- name: Joanna Huszcza
+  role: violin
+- name: Fred Jacobs
+  role: theorbo
+- name: Doretthe Janssens
+  role: flute
+- name: Barbara Kernig
+  role: cello
+- name: Rie Kimura
+  role: violin
+- name: Oeds van Middelkoop
+  role: flute
+- name: Diego Nadra
+  role: oboe
+- name: Emilio Percan
+  role: violin
+- name: Marten Root
+  role: flute
+- name: Eunjung Anna Ryu
+  role: violin
+- name: Shunske Sato
+  role: violin
+- name: Martin Stadler
+  role: oboe
+- name: Lucia Swarts
+  role: cello
+- name: Staas Swierstra
+  role: viola
+- name: Annelies van der Vegt
+  role: violin
+- name: Mieneke van der Velden
+  role: viola da gamba
+- name: Bernadette Verhagen
+  role: viola
+- name: Jan Willem Vis
+  role: viola
+- name: Wanda Visser
+  role: violin
+- name: Hanneke Wierenga
+  role: violin
+- name: Aysha Wills
+  role: flute
+- name: Sayuri Yamagata
+  role: violin
+- name: Lore Binon
+  role: soprano
+- name: Annelies Brants
+  role: soprano
+- name: Victoria Cassano
+  role: alto
+- name: Charles Daniels
+  role: tenor
+- name: Griet De Geyter
+  role: soprano
+- name: Yves Van Handenhove
+  role: tenor
+- name: Thomas Hobbs
+  role: tenor
+- name: Benjamin Hulett
+  role: tenor
+- name: Tim Mead
+  role: alto
+- name: Lionel Meunier
+  role: bass
+- name: João Moreira
+  role: tenor
+- name: Sebastian Myrus
+  role: bass
+- name: Bernadett Nagy
+  role: alto
+- name: Sebastian Noack
+  role: bass
+- name: Alex Potter
+  role: alto
+- name: Sarah Van Mol
+  role: soprano
+- name: Hilde Van Ruymbeke
+  role: soprano
+- name: Andreas Wolf
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Grote Kerk
+released: null
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/91972151-c63f-4bd2-b1fd-5a432d80952c
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [91972151-c63f-4bd2-b1fd-5a432d80952c]

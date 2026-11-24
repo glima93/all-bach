@@ -1,0 +1,43 @@
+id: bachchor-mainz-undated
+performers:
+- name: Bachchor Mainz
+  role: choir
+- name: Bachorchester Mainz
+  role: orchestra
+- name: Petra Morath-Pusinelli
+  role: performer
+- name: Ralf Otto
+  role: performer
+- name: Jan Čižmář
+  role: performer
+- name: Hille Perl
+  role: performer
+- name: Joachim Held
+  role: performer
+- name: Sabine Bauer
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LIV. Choral "O Haupt voll Blut und Wunden"']}
+- {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b090bb05-7aeb-4809-9afb-86fe17381870
+  title: The Essential J.S. Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ca5d2a37-5d3d-428c-9504-86988cca968d
+  recordings: [5ed2f858-6df5-4042-8fbf-1cd4871974a8]

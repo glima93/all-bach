@@ -1,0 +1,42 @@
+id: english-baroque-soloists-2003
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Monteverdi Choir
+  role: choir
+- name: John Eliot Gardiner
+  role: conductor
+- name: Mark Padmore
+  role: tenor
+- name: Hanno Müller‐Brachmann
+  role: bass
+- name: Peter Harvey
+  role: performer
+- name: Bernarda Fink
+  role: performer
+- name: Joanne Lunn
+  role: performer
+- name: Katherine Fuge
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Kaiserdom
+released: 2011
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d46ccb0a-194e-4b9d-8ff0-5cdc71b7d647
+  title: St John Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [226f495c-38da-4aec-b9df-6f82e99912a9, e2577ff7-0802-43cd-b959-9cb702e84d73]

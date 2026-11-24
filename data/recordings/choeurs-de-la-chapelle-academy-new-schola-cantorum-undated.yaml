@@ -1,0 +1,28 @@
+id: choeurs-de-la-chapelle-academy-new-schola-cantorum-undated
+performers:
+- name: Choeurs De La Chapelle Academy New Schola Cantorum
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil II. No. 39 Chorus "Ruht wohl, ihr heiligen Gebeine"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/618bc371-5c23-49fe-8d65-2a63a2d85406
+  title: 'La Voix des cathédrales : Les plus belles pages de la musique sacrée'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4f6d3c66-9067-44a1-9260-f49eca95c217
+  recordings: [8982d3ad-da47-413d-a907-02b876505233]

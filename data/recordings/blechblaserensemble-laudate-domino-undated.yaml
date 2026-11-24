@@ -1,0 +1,31 @@
+id: blechblaserensemble-laudate-domino-undated
+performers:
+- name: Blechbläserensemble Laudate Domino
+  role: ensemble
+- name: Gerson Raabe
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil II. No. 40 Choral "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e3bdcd4-5bd9-4336-bdd2-b246347a4111
+  title: Works for Brass Instruments
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3dfd90f0-91a2-4e21-b8ff-cbbd920c389c
+  recordings: [79416808-6c31-467e-bd1e-8e20cf2b54d4]

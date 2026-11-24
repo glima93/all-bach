@@ -1,0 +1,30 @@
+id: atlanta-symphony-orchestra-chorus-1985
+performers:
+- name: Atlanta Symphony Orchestra Chorus
+  role: choir
+- name: Atlanta Symphony Orchestra
+  role: orchestra
+- name: Robert Shaw
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985]
+  place: Atlanta Symphony Hall
+released: 1985
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LIV. Choral "O Haupt voll Blut und Wunden"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ae2d6684-9c50-4d23-9ff3-d76042713b9d
+  title: Choral Masterpieces
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: de0f4f76-7a52-4735-bfc1-56b7e4574619
+  recordings: [76247c76-ae0c-42fd-85ab-b7ee264dfae1]

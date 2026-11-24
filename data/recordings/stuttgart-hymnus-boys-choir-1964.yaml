@@ -1,0 +1,36 @@
+id: stuttgart-hymnus-boys-choir-1964
+performers:
+- name: Stuttgart Hymnus Boys Choir
+  role: choir
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Fritz Wunderlich
+  role: tenor
+- name: Karl Münchinger
+  role: conductor
+- name: Stuttgarter Hymnus-Chorknaben
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1964]
+  place: Evangelisches Schloßkirche
+released: 1990
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, XIX. Accompagnato-Rezitativ (Tenor) und Choral (Chor II) "O
+      Schmerz! Hier zittert das gequälte Herz"', 'Teil II, XXXV. Arie (Tenor) "Geduld! Wenn mich falsche Zungen
+      stechen"', 'Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/653c4d32-4d55-4790-9916-5bbf41b9d22f
+  title: 'Matthäus-Passion: Gesamtaufnahme'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 44d64561-c3b5-4364-9964-f4f4cf58180a
+  recordings: [d2a3e28a-ecff-4ca8-9265-68a3f8973723]

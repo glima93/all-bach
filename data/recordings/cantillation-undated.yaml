@@ -1,0 +1,33 @@
+id: cantillation-undated
+performers:
+- name: Cantillation
+  role: choir
+- name: Anthony Walker
+  role: conductor
+- name: Antony Walker
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XLIV. Choral "Befiehl du deine Wege"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bd56f35d-5405-4860-ad9c-abeb9f4c77a3
+  title: My First Bach Album
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cc34fcae-b382-4fab-9371-93d828cbcea6
+  recordings: [50e8d5bf-237c-4f4d-a2ba-48793646fbc7]

@@ -1,0 +1,47 @@
+id: berliner-philharmoniker-undated-3
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Wiener Singverein
+  role: choir
+- name: Herbert von Karajan
+  role: conductor
+- name: Walter Berry
+  role: performer
+- name: Gundula Janowitz
+  role: performer
+- name: Christa Ludwig
+  role: alto
+- name: Horst Laubenthal
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1980
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, V. Accompagnato-Rezitativ (Alt) "Du lieber Heiland du"', 'Teil I, VI. Arie (Alt) "Buß und Reu"', 'Teil
+      I, VIII. Arie (Sopran) "Blute nur, du liebes Herz"', 'Teil I, XX. Arie (Tenor) und Chor II "Ich will bei meinen
+      Jesu wachen"', 'Teil I, XXV. Choral "Was mein Gott will, das g''scheh allzeit"', 'Teil II, XXXIX. Aria (Alto)
+      "Erbarme dich, mein Gott"', 'Teil II, LXII. Choral "Wenn ich einmal soll scheiden"', 'Teil II, LXV. Aria (Basso)
+      "Mache dich, mein Herze, rein"', 'Teil II, LXVII. Recitativo (Soprano, Alto, Tenore, Basso) "Nun ist der Herr
+      zur Ruh gebracht" - Coro "Mein Jesu, gute Nacht"', 'Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c2228afa-476d-469b-aecd-b2b181485d36
+  title: 'La Passion selon Saint-Matthieu, BWV 244 : Chœurs et airs'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [058c04f9-5db0-4140-bc11-20abb5ac9668, a2dbbde2-179f-45d5-8253-10416938fdbe]

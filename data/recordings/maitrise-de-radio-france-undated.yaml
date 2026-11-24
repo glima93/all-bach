@@ -1,0 +1,35 @@
+id: maitrise-de-radio-france-undated
+performers:
+- name: Maîtrise de Radio France
+  role: choir
+- name: Pygmalion
+  role: ensemble
+- name: Julian Prégardien
+  role: tenor
+- name: Raphaël Pichon
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, II. Rezitativ (Evangelist, Jesus) "Da Jesus diese Rede vollendet hatte"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50952710-9cc7-4dfd-a42c-1122f3766039
+  title: 'CD Test : 12 plages pour évaluer votre système - L''art du son'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29df4b64-272b-411b-886d-ab656d809952
+  recordings: [55b7a27a-d5bd-47f0-a41c-e31e185467fc]

@@ -1,0 +1,36 @@
+id: kolner-kammerorchester-undated-2
+performers:
+- name: Kölner Kammerorchester
+  role: orchestra
+- name: Helmut Müller‐Brühl
+  role: conductor
+- name: Claudia Couwenbergh
+  role: performer
+- name: Marianne Beate Kielland
+  role: performer
+- name: Hanno Müller‐Brachmann
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/060f5d2c-c0ef-46a0-b760-75d49e5fd582
+  title: Matthäuspassion
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b93816c3-b729-439c-95f3-d9976e0620cc
+  recordings: [97f68d26-688f-4e0a-aa27-1458bcad2142]

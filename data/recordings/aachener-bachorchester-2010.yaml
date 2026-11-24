@@ -1,0 +1,40 @@
+id: aachener-bachorchester-2010
+performers:
+- name: Aachener Bachorchester
+  role: orchestra
+- name: Aachener Bachverein
+  role: choir
+- name: Georg Hage
+  role: conductor
+- name: Andreas Post
+  role: tenor
+- name: Manfred Bittner
+  role: bass
+- name: Simon Schnorr
+  role: performer
+- name: Elisabeth Popien
+  role: performer
+- name: Silke Schwarz
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: Pfarrkirche St. Michael in Burtscheid
+released: 2010
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/acba6a46-83a6-4f97-91b7-66a559259a18
+  title: Johannes-Passion, Cross Section
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Live recording. Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 73689ba6-1b9c-43d1-97ea-957d0ea24729
+  recordings: [b82c8bbe-e939-4209-8ce1-4dec0def110b, ff06b624-6768-4260-b8c1-5a2f4da56128]

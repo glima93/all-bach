@@ -1,0 +1,28 @@
+id: budapest-chamber-chorus-undated
+performers:
+- name: Budapest Chamber Chorus
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ae73761a-08bf-4bad-aacd-c4bcbc8f2e4d
+  title: Bach (Red Classics)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ee810c0-67bf-4485-89b6-b1b7117b0053
+  recordings: [d787497a-0493-418b-b9a3-681eef29a092]

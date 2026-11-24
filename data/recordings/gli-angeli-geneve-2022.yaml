@@ -1,0 +1,28 @@
+id: gli-angeli-geneve-2022
+performers:
+- name: Gli Angeli Genève
+  role: orchestra
+- name: Stephan MacLeod
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2022]
+  place: Landgasthof Riehen
+released: 2023
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/379a32b9-45bb-4cf6-9016-119325b77e0c
+  title: Johannes-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b13e3667-91b4-47d6-b871-0986865aa4c1
+  recordings: [7c6fc9ce-9280-4f8e-ac6a-5db668ccb655]

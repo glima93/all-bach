@@ -1,0 +1,28 @@
+id: les-petits-chanteurs-a-la-croix-brulee-1978
+performers:
+- name: Les Petits Chanteurs à la croix brûlée
+  role: choir
+- name: Jean Galard
+  role: organ
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978]
+  place: Église des Billettes
+released: 1978
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil II. No. 40 Choral "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb46573d-786e-49e3-b0ce-c2a2fc15db60
+  title: Les Petits Chanteurs à la Croix Brûlée
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 96561ffb-25ba-4918-a7a5-c7dc76cda3a6
+  recordings: [b72ad618-0bfa-4245-aa18-4fa31df9d556]

@@ -1,0 +1,42 @@
+id: amsterdam-baroque-choir-1999
+performers:
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Ton Koopman
+  role: conductor
+- name: Christoph Prégardien
+  role: performer
+- name: Peter Kooij
+  role: performer
+- name: Paul Mertens
+  role: performer
+- name: Bernhard Landauer
+  role: performer
+- name: Paul Agnew
+  role: performer
+- name: Sibylla Rubens
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Waalse Kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '247', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8d4840e-e385-46df-a56d-6545da57e568
+  title: Markus-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7573ab88-b3ee-424a-84ec-3f8581385e5d
+  recordings: [d3c53f2a-82b7-4144-946d-423f7ffba706, e600212f-cbc3-4fdd-bc4a-debb21ff4c8f]

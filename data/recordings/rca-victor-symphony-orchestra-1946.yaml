@@ -1,0 +1,33 @@
+id: rca-victor-symphony-orchestra-1946
+performers:
+- name: RCA Victor Symphony Orchestra
+  role: orchestra
+- name: Marian Anderson
+  role: contralto
+- name: Robert Shaw
+  role: conductor
+- name: Joseph Fuchs
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1946]
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6b5dd764-edab-4a4e-ae90-52560b2c554a
+  title: Bach - Brahms - Schubert
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b3ad270-1e27-4086-9d15-a9fba99009d7
+  recordings: [77af9a0b-8861-4d34-a1f2-6493826e18e2]

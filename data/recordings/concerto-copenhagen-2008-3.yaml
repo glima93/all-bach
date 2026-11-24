@@ -1,0 +1,31 @@
+id: concerto-copenhagen-2008-3
+performers:
+- name: Concerto Copenhagen
+  role: orchestra
+- name: Anne Sofie von Otter
+  role: mezzo-soprano
+- name: Lars Ulrik Mortensen
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/40e619a9-9834-4530-b582-96dea82c370e
+  title: Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7dfcbf3a-84c1-4fcd-8428-03589244b125
+  recordings: [6641c859-c0b5-4880-a20b-44e7600190ac]

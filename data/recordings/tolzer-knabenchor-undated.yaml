@@ -1,0 +1,37 @@
+id: tolzer-knabenchor-undated
+performers:
+- name: Tölzer Knabenchor
+  role: choir
+- name: La Petite Bande
+  role: orchestra
+- name: Gustav Leonhardt
+  role: conductor
+- name: Gerhard Schmidt‐Gaden
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      II, La. "Sie schrieen aber noch mehr" (Evangelista)', 'Teil II, Lc. "Da aber Pilatus sahe" (Evangelista, Pilatus)',
+    'Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b49f6b16-8d60-4b0f-83e7-7af3f08dfe84
+  title: Trésors d’Adagios
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5d0be92a-f79e-4ea9-a61a-493b5573eece
+  recordings: [a65937c7-d8c4-47f1-8992-2df2e8cbd38f]

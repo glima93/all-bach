@@ -1,0 +1,30 @@
+id: bach-choir-of-bethlehem-2011
+performers:
+- name: Bach Choir of Bethlehem
+  role: choir
+- name: Bethlehem Bach Festival Orchestra
+  role: orchestra
+- name: Greg Funfgeld
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2011]
+  place: First Presbyterian Church of Bethlehem
+released: 2012
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f00f0dd7-5088-4624-857c-a5b05a116540
+  title: Saint John Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2f7b8c4-8f88-448f-bd0b-f69c4159d06e
+  recordings: [b2992d92-b780-407a-a8b8-932c921bbfe2]

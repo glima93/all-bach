@@ -1,0 +1,66 @@
+id: rundfunkchor-leipzig-undated
+performers:
+- name: Rundfunkchor Leipzig
+  role: choir
+- name: Staatskapelle Dresden
+  role: orchestra
+- name: Peter Schreier
+  role: conductor
+- name: Robert Holl
+  role: bass
+- name: Gothart Stier
+  role: performer
+- name: Egbert Junghanns
+  role: performer
+- name: Ekkehard Wagner
+  role: performer
+- name: Andreas Scheibner
+  role: performer
+- name: Olaf Bär
+  role: bass
+- name: Roberta Alexander
+  role: soprano
+- name: Marjana Lipovšek
+  role: alto
+- name: MDR Rundfunkchor Leipzig
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Lukaskirche
+released: 1988
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil I. No. 4 "Auf daß das Wort erfüllet werde" (Evangelista, Jesus)',
+    Teil I. No. 6 "Die Schar aber und der Oberhauptmann" (Evangelista), Teil I. No. 12a Recitativo "Und Hannas sandte
+      ihn gebunden" (Evangelista), 'Teil I. No. 12b Coro "Bist du nicht seiner Jünger einer?"', 'Teil I. No. 12c
+      Recitativo "Er leugnete aber und sprach" (Evangelista, Petrus, Servus)', Teil II. No. 25a Recitativo "Allda
+      kreuzigten sie ihn" (Evangelista), 'Teil II, No. 25b. Coro "Schreibe nicht: der Juden König"', 'Teil II, No.
+      25c. Recitativo "Pilatus antwortet" (Evangelista, Pilatus)', Teil II. No. 26 Choral "In meines Herzens Grunde",
+    Teil II. No. 27a Recitativo "Die Kriegsknechte aber" (Evangelista), 'Teil II, No. 27b. Coro "Lasset uns den
+      nicht zerteilen"', 'Teil II, No. 27c. Recitativo "Auf daß erfüllet würde die Schrift" (Evangelista, Jesus)',
+    '.1: Teil II. No. 28 Choral "Er nahm alles wohl in acht"', 'Teil II. No. 29 "Und von Stund an" (Evangelista,
+      Jesus)', Teil II. No. 30 Aria (Alt) "Es ist vollbracht!", Teil II. No. 31 "Und neiget sein Haupt" (Evangelista),
+    'Teil II. No. 32 Aria (Bass, Chorus) "Mein teurer Heiland, laß dich fragen"', 'Teil II. No. 33 "Und siehe da,
+      der Vorhang" (Evangelista)', 'Teil II. No. 34 Arioso (Tenor) "Mein Herz, in dem die ganze Welt"', 'Teil II.
+      No. 35 Aria (Sopran) "Zerfließe, mein Herze"', Teil II. No. 36 "Die Juden aber" (Evangelista), 'Teil II. No.
+      37 Choral "O hilf, Christe, Gottes Sohn"', Teil II. No. 38 "Darnach bat Pilatum" (Evangelista), 'Teil II.
+      No. 39 Chorus "Ruht wohl, ihr heiligen Gebeine"', 'Teil II. No. 40 Choral "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1260f1ab-4b50-4355-99e5-c8149a1f5e2d
+  title: 'Johannes-Passion: 3 Arien, Version 1725'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 25644cee-ce2d-4f88-ba4e-c1677a57592d
+  recordings: [234eecd2-3c6d-421d-812a-86225242718a, 262d7ff3-ea73-4bca-919b-0ba8aa90af0d, 43baf9e4-9153-41ab-85aa-35aa323bf9ae,
+    599f2853-a042-421c-b880-d27f1c271735, aa299f9f-801f-4cc0-8aa2-011af851b3d6, f56d67c0-f801-4cef-a13c-4f1a12c4e13f,
+    f6234042-e50d-4e02-a554-2848dd74da49]

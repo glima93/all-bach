@@ -1,0 +1,122 @@
+id: monteverdi-choir-undated
+performers:
+- name: Monteverdi Choir
+  role: choir
+- name: English Baroque Soloists
+  role: orchestra
+- name: Trinity Boys Choir
+  role: choir
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Nick Pritchard
+  role: performer
+- name: James Gilchrist
+  role: performer
+- name: William Thomas
+  role: performer
+- name: Alex Ashworth
+  role: performer
+- name: Stephan Loges
+  role: performer
+- name: Reginald Mobley
+  role: performer
+- name: Rupert Reid
+  role: performer
+- name: Peter Davoren
+  role: performer
+- name: Hugo Hymas
+  role: performer
+- name: Ashley Riches
+  role: performer
+- name: Alexander Chance
+  role: performer
+- name: Julia Doyle
+  role: performer
+- name: Barbara Bonney
+  role: performer
+- name: Michael Chance
+  role: performer
+- name: Hannah Morrison
+  role: performer
+- name: Andrew Tortise
+  role: performer
+- name: Charlotte Ashley
+  role: performer
+- name: Eleanor Minney
+  role: performer
+- name: Alison Hill
+  role: performer
+- name: Angharad Rowlands
+  role: performer
+- name: Jonathan Sells
+  role: performer
+- name: Lawrence Wallington
+  role: performer
+- name: Jessica Cale
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, III. Choral "Herzliebster Jesu, was hast du verbrochen"', 'Teil I, IVa. "Da versammelten sich die Hohenpriester"
+      (Evangelista)', 'Teil I, IVb. Cori "Ja nicht auf das Fest"', 'Teil I, IVc. "Da nun Jesus war zu Bethanien"
+      (Evangelista)', 'Teil I, IVd. Coro "Wozu dienet dieser Unrat"', 'Teil I, IVe. "Da das Jesus merkete" (Evangelista,
+      Jesus)', 'Teil I, IXa. "Aber am ersten Tage der süssen Brot" (Evangelista)', 'Teil I, IXb. Coro "Wo willst
+      du, dass wir dir bereiten"', 'Teil I, IXc. "Er sprach: Gehet hin in die Stadt" (Evangelista, Jesus)', 'Teil
+      I, IXd. "Und sie wurden sehr betrübt" (Evangelista)', 'Teil I, IXe. Coro "Herr, bin ichs"', 'Teil I, X. Choral
+      "Ich bin''s, ich sollte büßen"', 'Teil I, XV. Choral "Erkenne mich, mein Hüter"', 'Teil I, XVII. Choral "Ich
+      will hier bei dir stehen"', 'Teil I, XIX. Accompagnato-Rezitativ (Tenor) und Choral (Chor II) "O Schmerz!
+      Hier zittert das gequälte Herz"', 'Teil I, XX. Arie (Tenor) und Chor II "Ich will bei meinen Jesu wachen"',
+    'Teil I, XXV. Choral "Was mein Gott will, das g''scheh allzeit"', 'Teil I, XXVIIa. Arie (Sopran, Alt) und Chor
+      "So ist mein Jesus nun gefangen"', 'Teil I, XXVIIb. "Sind Blitze, sind Donner in Wolken verschwunden" (Chori)',
+    'Teil I, XXIX. Choral "O Mensch, bewein dein Sünde groß"', 'Teil II, XXX. Arie (Alt) und Chor "Ach! nun ist
+      mein Jesus hin"', 'Teil II, XXXII. Choral "Mir hat die Welt trüglich gericht''"', 'Teil II, XXXVIa. "Und der
+      Hohepriester antwortete" (Evangelista, Pontifex, Jesus)', 'Teil II, XXXVIb. "Er ist des Todes schuldig" (Chori)',
+    'Teil II, XXXVIc. "Da speieten sie aus" (Evangelista)', 'Teil II, XXXVId. "Weissage uns, Christe" (Chori)',
+    'Teil II, XXXVII. Choral "Wer hat dich so geschlagen"', 'Teil II, XXXVIIIa. "Petrus aber saß draußen im Palast"
+      (Evangelista, Ancilla I & II, Petrus)', 'Teil II, XXXVIIIb. "Wahrlich, du bist auch einer von denen" (Chorus)',
+    'Teil II, XXXVIIIc. "Da hub er an, sich zu verfluchen" (Evangelista, Petrus)', 'Teil II, XL. Choral "Bin ich
+      gleich von dir gewichen"', 'Teil II, XLIa. "Des Morgens aber hielten alle Hohepriester" (Evangelista, Judas)',
+    'Teil II, XLIb. "Was gehet uns das an" (Chori)', 'Teil II, XLIc. "Und er warf die Silberlinge in den Tempel"
+      (Evangelista, Pontifex I & II)', 'Teil II, XLIV. Choral "Befiehl du deine Wege"', 'Teil II, XLVa. "Auf das
+      Fest aber hatte der Landpfleger Gewohnheit" (Evangelista, Pilatus, Uxor Pilati, Chori)', 'Teil II, XLVb. "Laß
+      ihn kreuzigen" (Chori)', 'Teil II, XLVI. Choral "Wie wunderbarlich ist doch diese Strafe"', 'Teil II, La.
+      "Sie schrieen aber noch mehr" (Evangelista)', 'Teil II, Lb. "Laß ihn kreuzigen" (Chori)', 'Teil II, Lc. "Da
+      aber Pilatus sahe" (Evangelista, Pilatus)', 'Teil II, Ld. "Sein Blut komme über uns" (Chori)', 'Teil II, Le.
+      "Da gab er ihnen Barrabam los" (Evangelista)', 'Teil II, LIIIa. "Da nahmen die Kriegsknechte" (Evangelista)',
+    'Teil II, LIIIb. "Gegrüßet seist du, Jüdenkönig" (Chori)', 'Teil II, LIIIc. "Und speieten ihn an" (Evangelista)',
+    'Teil II, LIV. Choral "O Haupt voll Blut und Wunden"', 'Teil II, LVIIIa. "Und da sie an die Stätte kamen" (Evangelista)',
+    'Teil II, LVIIIb. "Der du den Tempel Gottes zerbrichst" (Chori)', 'Teil II, LVIIIc. "Desgleichen auch die Hohenpriester"
+      (Evangelista)', 'Teil II, LVIIId. "Andern hat er geholfen" (Chori)', 'Teil II, LVIIIe. "Desgleichen schmäheten
+      ihn auch die Mörder" (Evangelista)', 'Teil II, LX. Aria (Alto) "Sehet, Jesus hat die Hand", Coro "Wohin?"',
+    'Teil II, LXIa. "Und von der sechsten Stunde an" (Evangelista, Jesus)', 'Teil II, LXIb. "Der rufet dem Elias"
+      (Chorus)', 'Teil II, LXIc. "Und bald lief einer unter ihnen" (Evangelista)', 'Teil II, LXId. "Halt! Laß sehen"
+      (Chorus)', 'Teil II, LXIe. "Aber Jesus schriee abermal" (Evangelista)', 'Teil II, LXII. Choral "Wenn ich einmal
+      soll scheiden"', 'Teil II, LXIIIa. "Und siehe da, der Vorhang im Tempel zerriß" (Evangelista)', 'Teil II,
+      LXIIIb. "Wahrlich, dieser ist Gottes Sohn gewesen" (Chori in unisono)', 'Teil II, LXIIIc. "Und es waren viel
+      Weiber da" (Evangelista)', 'Teil II, LXVIa. "Und Joseph nahm den Leib" (Evangelista)', 'Teil II, LXVIb. "Herr,
+      wir haben gedacht" (Chori)', 'Teil II, LXVIc. "Pilatus sprach zu ihnen" (Evangelista, Pilatus)', 'Teil II,
+      LXVII. Recitativo (Soprano, Alto, Tenore, Basso) "Nun ist der Herr zur Ruh gebracht" - Coro "Mein Jesu, gute
+      Nacht"', 'Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/01ef4f68-61ec-4f36-9707-0a668434789b
+  title: St Matthew Passion
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a3016390-1ea7-41e2-afac-8d3d3d021fe0
+  recordings: [c664b922-40d1-422c-975c-60d8eccc4fa5, f2d53812-68e2-48f1-8de5-98061024ae2b]

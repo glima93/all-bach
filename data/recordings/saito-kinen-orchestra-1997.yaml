@@ -1,0 +1,66 @@
+id: saito-kinen-orchestra-1997
+performers:
+- name: Saito Kinen Orchestra
+  role: orchestra
+- name: Tokyo Opera Singers
+  role: choir
+- name: SKF Matsumoto Children’s Choir
+  role: choir
+- name: Seiji Osawa
+  role: performer
+- name: Nathalie Stutzmann
+  role: alto
+- name: Christiane Oelze
+  role: performer
+- name: John Mark Ainsley
+  role: performer
+- name: Michael Volle
+  role: performer
+- name: Thomas Quasthoff
+  role: performer
+- name: Stanford Olsen
+  role: tenor
+- name: 小澤征爾
+  role: conductor
+- name: サイトウ・キネン・オーケストラ
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, V. Accompagnato-Rezitativ (Alt) "Du lieber Heiland du"', 'Teil I, VI. Arie (Alt) "Buß und Reu"', 'Teil
+      I, XI. Rezitativ (Evangelist, Jesus, Judas) "Er antwortete und sprach"', 'Teil I, XII. Accompagnato-Rezitativ
+      (Sopran) "Wiewohl mein Herz in Tränen schwimmt"', 'Teil I, XIII. Arie (Sopran) "Ich will dir mein Herze schenken"',
+    'Teil I, XX. Arie (Tenor) und Chor II "Ich will bei meinen Jesu wachen"', 'Teil I, XXVIIa. Arie (Sopran, Alt)
+      und Chor "So ist mein Jesus nun gefangen"', 'Teil I, XXVIIb. "Sind Blitze, sind Donner in Wolken verschwunden"
+      (Chori)', 'Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"', 'Teil II, XL. Choral "Bin ich gleich von
+      dir gewichen"', 'Teil II, XLII. Aria (Basso) "Gebt mir meinen Jesum wieder"', 'Teil II, XLIX. Aria (Soprano)
+      "Aus Liebe will mein Heiland sterben"', 'Teil II, LIX. Recitativo (Alto) "Ach Golgotha"', 'Teil II, LX. Aria
+      (Alto) "Sehet, Jesus hat die Hand", Coro "Wohin?"', 'Teil II, LXIa. "Und von der sechsten Stunde an" (Evangelista,
+      Jesus)', 'Teil II, LXIb. "Der rufet dem Elias" (Chorus)', 'Teil II, LXIc. "Und bald lief einer unter ihnen"
+      (Evangelista)', 'Teil II, LXId. "Halt! Laß sehen" (Chorus)', 'Teil II, LXIe. "Aber Jesus schriee abermal"
+      (Evangelista)', 'Teil II, LXII. Choral "Wenn ich einmal soll scheiden"', 'Teil II, LXIIIa. "Und siehe da,
+      der Vorhang im Tempel zerriß" (Evangelista)', 'Teil II, LXIIIb. "Wahrlich, dieser ist Gottes Sohn gewesen"
+      (Chori in unisono)', 'Teil II, LXIIIc. "Und es waren viel Weiber da" (Evangelista)', 'Teil II, LXIV. Recitativo
+      (Basso) "Am Abend, da es kühle war"', 'Teil II, LXV. Aria (Basso) "Mache dich, mein Herze, rein"', 'Teil II,
+      LXVII. Recitativo (Soprano, Alto, Tenore, Basso) "Nun ist der Herr zur Ruh gebracht" - Coro "Mein Jesu, gute
+      Nacht"', 'Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b12d5e2f-7890-48d3-a5b2-9d6ae779b6dc
+  title: 'Matthäus Passion: St. Matthew Passion, Passion selon saint Matthieu'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c7850add-2734-43be-9118-2cd159391ff4
+  recordings: [212af2f0-24aa-4eca-8ba5-71007dd6d5d7, 9a1d9868-e890-4a9a-ad43-f9ec0c5f37c9, a1eb9e7b-1087-4e5c-bad0-6faecd690625]

@@ -1,0 +1,30 @@
+id: arion-orchestre-baroque-undated
+performers:
+- name: Arion Orchestre Baroque
+  role: orchestra
+- name: Alexander Weimann
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6681f4dc-abcb-4538-aad6-b97f9e6c0daf
+  title: Johannes-Passion
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1f38d32a-f9bf-473e-9efc-31d102b08745
+  recordings: [080c059e-68b9-40db-98c4-28165f7be7b6]

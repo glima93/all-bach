@@ -1,0 +1,36 @@
+id: scholars-baroque-ensemble-1993
+performers:
+- name: Scholars Baroque Ensemble
+  role: orchestra
+- name: Robin Doveton
+  role: performer
+- name: David van Asch
+  role: performer
+- name: Julian Podger
+  role: performer
+- name: Adrian Peacock
+  role: performer
+- name: Angus Davidson
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: All Saints’ Church
+released: 1994
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cafc7cd8-b9fb-4cb4-95dc-fda3fdd9eeda
+  title: St. John Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e7772065-1751-477c-aa79-34578135dda1
+  recordings: [e202ff13-36c9-4adc-a981-f37893609c79]

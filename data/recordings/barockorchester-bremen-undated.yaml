@@ -1,0 +1,67 @@
+id: barockorchester-bremen-undated
+performers:
+- name: Barockorchester Bremen
+  role: orchestra
+- name: Alsfelder Vokalensemble
+  role: choir
+- name: Wolfgang Helbich
+  role: conductor
+- name: Rufus Müller
+  role: tenor
+- name: Stephan Schreckenberger
+  role: performer
+- name: Barockorchester Antico Bremen
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Walpurgiskirche Alsfeld
+released: 1997
+original_label: null
+works:
+- {bwv: '246', complete: false, movements: [47. Recitative "Die Männer aber" (Evangelist), '48. Chorus "Weissage,
+      wer ist''s, der dich schlug?" (Chor der Männer)', 49. Chorale "Dass du nicht ewig Schande mögest tragen",
+    50. Recitative "Und viel and're Lästerungen sagten" (Evangelist), '51. Chorus "Bist du Christus? Sage es uns!"
+      (Chor der Ältesten)', '52. Recitative "Er aber sprach zu ihnen" (Evangelist, Jesus))', '53. Chorus "Bist du
+      denn Gottes Sohn?" (Chor der Ältesten)', '54. Chorale "Du König der Ehren, Jesu Christ"', '55. Recitative
+      "Er sprach zu ihnen:" (Evangelist, Jesus)', '56. Chorus "Was, was dürfen wir weiter Zeugnis?" (Chor der Ältesten)',
+    57. Recitative "Und der ganze Haufe stund uaf" (Evangelist), 58. Chorus "Diesen finden wir" (Chor der Ältesten),
+    '59. Recitative "Pilatus aber fragte ihn" (Evangelist, Pilatus, Jesus)', 60. Chorale "Dein göttlich' Macht",
+    '61. Recitative "Pilatus sprach zu dem Hohenpriestern" (Evangelist, Pilatus)', 62. Chorale "Ich bin's", 63.
+      Recitative "Sie aber hielten an" (Evangelist), 64. Chorus "Er hat das Volk erreget damit" (Chor des Volkes),
+    65. Recitative "Da aber Pilatus Galiläa hörten" (Evangelist), 66. Aria (Tenor) "Das Lamm verstummt", 67. Recitative
+      "Die Hohenpriester aber" (Evangelist), 68. Chorale "Was kann die Unschuld besser kleiden", '69. Recitative
+      "Auf dem Tag wurden Pilatus" ( (Evangelist, Pilatus)', '70. Chorale "Ei, was hat er denn getan"', 71. Recitative
+      "Denn er musste ihnen Einen" (Evangelist), '72. Chorus "Hinweg, hinweg mit diesem" (Chor des Volkes)', 73.
+      Recitative "Welcher war um eines Aufruhrs" (Evangelist), 74. Chorus "Kreuzige ihn!" (Chor des Volkes), '75.
+      Recitative "Er aber sprach zum dritten Mal zu ihnen" (Evangelist, Pilatus)', 76. Chorale "Es wird in der Sünder
+      Hände", 77. Recitative "Und als sie Jesum hinführeten" (Evangelist), '78. Terzetto (Soprano I/II, Alto)" Weh
+      und Schmerz"', 79. Recitative "Jesus aber wandte sich um" (Evangelist), 80. Chorale "Sein' allererste Sorge
+      war", 81. Recitative "Und sie theileten seine Kleider" (Evangelist), 82. Chorus "Er hat andern geholfen" (Chor
+      des Volkes), 83. Recitative "Es verspotteten ihn auch die Kriegsknechte" (Evangelist), '84. Chorus "Bist du
+      der Jüden König?" (Chor der Kriegsknechte)s', 85. Chorale "Ich bin krank", 86. Recitative "Es war auch oben
+      über ihn geschrieben" (Evangelist), 87. Chorale "Das Kreuz ist der Königsthron", '88. Recitative "Aber der
+      Übelthäter einer" (Evangelist, der verstockte Mörder, der reuige Mörder))', 89. Chorale "Tausendmal gedenk'
+      ich dein", '90. Recitative "Und Jesus sprach zu ihm" (Evangelist, Jesus)', '91. Chorale "Freu'' dich sehr,
+      o meine Seele"', 92. Recitative "Und es war um die sechste Stunde" (Evangelist), 93. Aria (Soprano) "Selbst
+      der Bau der Welt erschüttert", 94. Recitative "Und Jesus rief laut" (Evangelist), 95. Sinfonia, 96. Chorale
+      "Derselbe mein Herr Jesu Christ", 97. Sinfonia da capo, '98. Recitative "Da aber der Hauptmann sahe" (Evangelist,
+      Hauptmann)', 99. Chorale "Straf' mich nicht in deinem Zorn", 100. Recitative "Es stunden aber alle seine Verwandten"
+      (Evangelist), 101. Aria (Tenor) "Lasst mich ihn nur noch einmal küssen", 102. Recitative "Und nahm ihn ab"
+      (Evangelist), '103. Chorale "Nun ruh, Erlöser in der Gruft"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d58ab5e5-bf14-4d67-b317-8ad4a108ad06
+  title: Apocryphal St. Luke Passion
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: db1847d1-b2d9-4350-9801-4b83a43da091
+  recordings: [7af69be7-368e-4ba1-ab90-48c67319632d, a6a97998-fe49-48cb-9503-a4e4c716e4c3]

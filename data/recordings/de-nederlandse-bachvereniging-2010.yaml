@@ -1,0 +1,34 @@
+id: de-nederlandse-bachvereniging-2010
+performers:
+- name: De Nederlandse Bachvereniging
+  role: orchestra
+- name: Koor van de Nederlandse Bachvereniging
+  role: choir
+- name: Kampen Boys Choir
+  role: choir
+- name: Jos van Veldhoven
+  role: conductor
+- name: Gerd Türk
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2010]
+  place: Grote Kerk
+released: 2011
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8e3fb19a-15f3-4c98-a1eb-2a1d3af77b71
+  title: St. Matthew Passion, BWV 244
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [53b1120f-4b98-43b0-80c0-f3dcf5a2a75d, d785308b-a227-4fa4-9d88-acaf40a4e4b4, f7438059-8814-48d7-a7b1-d09b06d7dc05]

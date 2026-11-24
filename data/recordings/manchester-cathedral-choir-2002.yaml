@@ -1,0 +1,32 @@
+id: manchester-cathedral-choir-2002
+performers:
+- name: Manchester Cathedral Choir
+  role: choir
+- name: Emily Gray
+  role: soprano
+- name: Jeffrey Makinson
+  role: organ
+- name: Christopher Stokes
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002]
+  place: Manchester Cathedral
+released: 2002
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LIV. Choral "O Haupt voll Blut und Wunden"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a1841f22-4c3d-4090-a4ac-fa4637718629
+  title: 'Passiontide: Music for Solace and Reflection'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5376a4bc-ccb8-4c48-86cd-fde24c17d432
+  recordings: [d8f8cfee-a93d-4d50-b146-dc4620c635bd]

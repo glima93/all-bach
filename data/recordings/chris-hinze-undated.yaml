@@ -1,0 +1,35 @@
+id: chris-hinze-undated
+performers:
+- name: Chris Hinze
+  role: flute
+- name: Louis Van Dyke
+  role: performer
+- name: Jan Goudswaard
+  role: guitar
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Dureco Studio
+released: 1974
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, XIX. Accompagnato-Rezitativ (Tenor) und Choral (Chor II) "O
+      Schmerz! Hier zittert das gequälte Herz"', 'Teil I, XXVIIa. Arie (Sopran, Alt) und Chor "So ist mein Jesus
+      nun gefangen"', 'Teil I, XXVIIb. "Sind Blitze, sind Donner in Wolken verschwunden" (Chori)', 'Teil II, LIV.
+      Choral "O Haupt voll Blut und Wunden"', 'Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fec30ec2-4d66-4b6c-91de-77b7a78db3b4
+  title: Sketches on Bach
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: b634de24-1d82-4152-a959-ed9cc5fd1aba
+  recordings: [b3207be3-7c97-4dbd-90e5-e3be8f8803ea]

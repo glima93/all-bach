@@ -1,0 +1,30 @@
+id: collegium-novum-2001
+performers:
+- name: Collegium Novum
+  role: orchestra
+- name: Edward Higginbottom
+  role: conductor
+- name: Choir of New College Oxford
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2001, 2002]
+  place: New College Chapel
+released: 2003
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17232a2e-21a8-4021-b019-51c3e1b7319f
+  title: St John Passion, BWV 245
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3b68b812-9429-4f03-95a0-4bd6d6ac79c0
+  recordings: [7ce35518-7fd1-48ea-a9f7-dc82bba9a737]
