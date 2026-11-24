@@ -1,0 +1,32 @@
+id: national-symphony-orchestra-1946
+performers:
+- name: National Symphony Orchestra
+  role: orchestra
+- name: Kathleen Ferrier
+  role: alto
+- name: David McCallum
+  role: performer
+- name: Sir Malcolm Sargent
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1946]
+  place: Kingsway Hall
+released: 1990
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7553b5d4-0255-46a8-afab-bcb3633f65be
+  title: The World of Kathleen Ferrier
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0ac37373-df8a-4dd8-a0e9-9324f1a066d7
+  recordings: [843e7cbb-65a7-44a6-9f94-b59c271c6e09]

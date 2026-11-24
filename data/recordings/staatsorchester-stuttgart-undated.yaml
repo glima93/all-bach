@@ -1,0 +1,28 @@
+id: staatsorchester-stuttgart-undated
+performers:
+- name: Staatsorchester Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil II. No. 40 Choral "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/af2bb438-229e-4878-a56e-9d18bde253dd
+  title: 'Ich bete an die Macht der Liebe: Große geistliche Chöre'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1487b19f-f421-40ab-a24b-379099776466
+  recordings: [9d191d82-5a9c-4bc6-bd95-a65b127dbc19]

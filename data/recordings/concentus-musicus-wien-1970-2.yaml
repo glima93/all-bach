@@ -1,0 +1,52 @@
+id: concentus-musicus-wien-1970-2
+performers:
+- name: Concentus Musicus Wien
+  role: orchestra
+- name: Choir of King’s College, Cambridge
+  role: choir
+- name: Regensburger Domchor
+  role: choir
+- name: Nikolaus Harnoncourt
+  role: conductor
+- name: Kurt Equiluz
+  role: tenor
+- name: Solist der Wiener Sängerknaben
+  role: performer
+- name: Paul Esswood
+  role: performer
+- name: Nigel Rogers
+  role: performer
+- name: Karl Ridderbusch
+  role: bass
+- name: Michael Schopper
+  role: performer
+- name: Max van Egmond
+  role: performer
+- name: Sir David Willcocks
+  role: conductor
+- name: Tom Sutcliffe
+  role: performer
+- name: Regensburger Domspatzen
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1970]
+  place: Casino Zögernitz
+released: 1971
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d0189251-09d7-47d3-945c-b57bfad5e1ec
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9b891046-35af-4eb0-a058-eba4c9b8d01f
+  recordings: [75818960-ca5a-44a2-92ae-ace3e7983329, 8002bf7a-ebb7-4f3d-9f50-50ad3862d6af, f16d4cc3-19aa-4ea0-8fa1-ef31327da1a6]

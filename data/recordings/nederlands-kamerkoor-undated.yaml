@@ -1,0 +1,48 @@
+id: nederlands-kamerkoor-undated
+performers:
+- name: Nederlands Kamerkoor
+  role: choir
+- name: Roden Boys Choir
+  role: choir
+- name: Holland Baroque Society
+  role: orchestra
+- name: Reinbert de Leeuw
+  role: conductor
+- name: Benedikt Kristjansson
+  role: performer
+- name: Andreas Wolf
+  role: performer
+- name: Delphine Galou
+  role: performer
+- name: Joanne Lunn
+  role: performer
+- name: Tomáš Král
+  role: performer
+- name: Christopher Watson
+  role: performer
+- name: Roder Jongenskoor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/732c1da6-98e3-4361-a679-79cb35ad5fe6
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 076a10cd-a7ba-4d79-9ee5-a52ac1e4af57
+  recordings: [a6c9e953-c9f5-483d-a313-4d6797456fb6]

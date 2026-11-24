@@ -1,0 +1,60 @@
+id: orchestre-de-chambre-de-lausanne-1977
+performers:
+- name: Orchestre de Chambre de Lausanne
+  role: orchestra
+- name: Ensemble Vocal de Lausanne
+  role: choir
+- name: Michel Corboz
+  role: conductor
+- name: Philippe Corboz
+  role: performer
+- name: Pablo Loerkens
+  role: performer
+- name: Fritz Widmer
+  role: performer
+- name: Philippe Huttenlocher
+  role: performer
+- name: Kurt Equiluz
+  role: tenor
+- name: Ruud van der Meer
+  role: bass
+- name: Werner Krenn
+  role: performer
+- name: Birgit Finnilä
+  role: performer
+- name: Felicity Palmer
+  role: performer
+- name: Markus Haeberling
+  role: performer
+- name: Pierre Wavre
+  role: performer
+- name: Jean-Paul Goy
+  role: performer
+- name: Béla Baniak
+  role: performer
+- name: Marcel Gross
+  role: performer
+- name: Matthias Spaeter
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: Salle de spectacles de Chisaz
+released: 2000
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7ed14d74-b296-408a-ab04-6b15326b1688
+  title: Johannes-Passion, BWV 245
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9cf920f-3b1d-4577-a104-5a3d462cefa6
+  recordings: [1a1f2fc2-19f2-468e-9c6a-edf4f488dbcd, 324e470c-79d0-48c7-be1b-15d683263d83]

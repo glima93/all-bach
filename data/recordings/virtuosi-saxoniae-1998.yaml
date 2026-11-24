@@ -1,0 +1,44 @@
+id: virtuosi-saxoniae-1998
+performers:
+- name: Virtuosi Saxoniae
+  role: orchestra
+- name: Hallenser Madrigalisten
+  role: choir
+- name: Ludwig Güttler
+  role: conductor
+- name: Christoph Genz
+  role: tenor
+- name: Andreas Scheibner
+  role: performer
+- name: Hans-Jürgen Richter
+  role: performer
+- name: Egbert Junghanns
+  role: bass
+- name: Annette Markert
+  role: performer
+- name: Christiane Oelze
+  role: performer
+- name: Sylke Schwab
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: Lukaskirche
+released: 2003
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/633a5163-6112-48c3-9876-499ea6d69f9e
+  title: Johannes-Passion BWV 245
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 50415566-1dfc-4185-a900-d257bce41b55
+  recordings: [9e8bc633-7c47-49a1-902a-9d897be635b6, b75da800-c00e-4861-a7df-10864a43b657]

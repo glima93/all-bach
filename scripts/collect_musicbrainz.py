@@ -51,7 +51,11 @@ API = "https://musicbrainz.org/ws/2/"
 # at all (collected 21 Nov 2026: 0 works). Its parent-work title is then found further down. When the search
 # still finds only movements ("BWV 232: …"), the work they are part of is climbed to and taken. Recordings
 # linked to a section of a work (the Missa, the Symbolum Nicenum of BWV 232) count for every movement in it.
-COLLECTOR_VERSION = 7
+# Version 8 (24 Nov 2026): in vocal collections with several works (the Passions, run 23), one ensemble's
+# recordings of two works within three years were grouped as one performance (Kuijken's 1987 St John with
+# Leonhardt's 1989 St Matthew, both La Petite Bande), with the years and singers of both. Vocal performances
+# are now grouped per work; versions of one work (BWV 243 and 243a) still group together.
+COLLECTOR_VERSION = 8
 UA = "AllBach/0.2 ( https://github.com/glima93/all-bach )"
 GROUPS = ["Orchestra", "Group", "Choir"]
 # Modes whose performances are grouped by the orchestra, ensemble or choir when one is credited.
@@ -341,13 +345,15 @@ def year_of(d) -> int | None:
     return int(d[:4]) if d and re.match(r"^\d{4}", d) else None
 
 
-def group(works: list[dict], recs_by_leaf, whole_recs, grouped: bool) -> list[dict]:
-    """Performances, exactly as musicbrainz-collect.js groups them (see data/sources/README.md)."""
+def group(works: list[dict], recs_by_leaf, whole_recs, grouped: bool, per_work: bool = False) -> list[dict]:
+    """Performances, as musicbrainz-collect.js groups them (see data/sources/README.md); with `per_work`
+    (vocal collections, collector version 8) each work, versions included, is grouped on its own."""
     recs: dict[str, dict] = {}
 
     def add(row, wi, pis):
         rid, a, n, t, y, y2, live, f = row
-        e = recs.setdefault(rid, {"id": rid, "a": a, "n": n, "t": t, "ys": [], "l": 0, "f": None, "mv": []})
+        work = re.sub(r"[a-z]$", "", str(works[wi]["bwv"])) if per_work else ""
+        e = recs.setdefault((rid, work), {"id": rid, "work": work, "a": a, "n": n, "t": t, "ys": [], "l": 0, "f": None, "mv": []})
         for yy in (y, y2):
             if yy and yy not in e["ys"]:
                 e["ys"].append(yy)
@@ -373,7 +379,7 @@ def group(works: list[dict], recs_by_leaf, whole_recs, grouped: bool) -> list[di
 
     def key(r):
         g = [x for x, t in zip(r["a"], r["t"]) if t in GROUPS] if grouped else []
-        return "+".join(sorted(g or r["a"])) or "?" + "+".join(r["n"])
+        return r["work"] + "|" + ("+".join(sorted(g or r["a"])) or "?" + "+".join(r["n"]))
 
     by_artist: dict[str, list] = {}
     for r in recs.values():
@@ -479,7 +485,7 @@ def collect(col: dict, args) -> bool:
         mode = col.get("mode", "ensemble")
         grouped = mode in GROUPED_MODES
         whole = (lambda w: c.recordings(w["id"]) if w["has_parts"] else []) if c.whole else (lambda w: [])
-        perfs = group(works, c.recordings, whole, grouped)
+        perfs = group(works, c.recordings, whole, grouped, per_work=mode == "vocal")
         print(f"{col['id']}: {len(works)} works, {len(perfs)} performances; fetching details", flush=True)
         for i, p in enumerate(perfs, 1):
             c.detail(p["rep"])

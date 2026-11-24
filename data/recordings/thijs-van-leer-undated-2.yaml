@@ -1,0 +1,29 @@
+id: thijs-van-leer-undated-2
+performers:
+- name: Thijs van Leer
+  role: voices and instruments
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 1972
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7b9365d9-8019-462b-8043-80a632ae138f
+  title: Introspection
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df5689df-ee1c-4ed8-801c-6c5494e95981
+  recordings: [7196f13b-820f-4e23-9a24-613faf01deb5]

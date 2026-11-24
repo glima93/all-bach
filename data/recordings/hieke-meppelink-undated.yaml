@@ -1,0 +1,34 @@
+id: hieke-meppelink-undated
+performers:
+- name: Hieke Meppelink
+  role: soprano
+- name: Jan Willem de Vriend
+  role: conductor
+- name: Combattimento Consort Amsterdam
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, VIII. Arie (Sopran) "Blute nur, du liebes Herz"', 'Teil I,
+      XIII. Arie (Sopran) "Ich will dir mein Herze schenken"', 'Teil II, XLIX. Aria (Soprano) "Aus Liebe will mein
+      Heiland sterben"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f3c47228-068a-4168-9060-e575ebc16eb8
+  title: If Music Be the Food of Love
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b2588f27-5647-4663-9bbd-3b3edb9a9859
+  recordings: [e160627c-0689-47be-9998-00ea8f77ac61]

@@ -1,0 +1,55 @@
+id: chamber-chorus-of-the-liszt-ferenc-academy-of-music-undated
+performers:
+- name: Chamber Chorus of the Liszt Ferenc Academy of Music
+  role: choir
+- name: Liszt Ferenc Chamber Orchestra
+  role: orchestra
+- name: György Lehel
+  role: conductor
+- name: Mihály Eisenbacher
+  role: oboe da caccia
+- name: Mária Frank
+  role: cello
+- name: Attila Lajos
+  role: flute
+- name: Gábor Lehotka
+  role: organ
+- name: Zsuzsa Pertis
+  role: harpsichord
+- name: Péter Pongrácz
+  role: oboe
+- name: László Som
+  role: double bass
+- name: Lajos Tóth
+  role: oboe
+- name: Franz Liszt Academy Chamber Choir
+  role: choir
+- name: Liszt Ferenc Kamarazenekar
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"', Teil I. No. 11 Choral
+      "Wer hat dich so geschlagen", 'Teil I. No. 12b Coro "Bist du nicht seiner Jünger einer?"', 'Teil I. No. 14
+      Choral "Petrus, der nicht denkt zurück"', 'Teil II. No. 24 Aria (Bass, Chorus) "Eilt, ihr angefochtnen Seelen"',
+    'Teil II. No. 39 Chorus "Ruht wohl, ihr heiligen Gebeine"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ae647725-ffd2-488c-becc-183a54c1b602
+  title: 'St John Passion: Selection'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24357959-0971-4ee2-8a38-120c3339a933
+  recordings: [8187f5e1-9d27-4e1a-a727-61dd6e604d74]

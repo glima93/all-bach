@@ -1,0 +1,36 @@
+id: ensemble-vanitas-1998
+performers:
+- name: Ensemble Vanitas
+  role: orchestra
+- name: Diego Fasolis
+  role: conductor
+- name: Coro
+  role: choir
+- name: Orchestra del Festival Barocca di Lugano
+  role: orchestra
+- name: Coro della Radiotelevisione Svizzera
+  role: choir
+- name: I Barocchisti
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Cattedrale di San Lorenzo
+released: 1999
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0de16bb5-93d7-4fee-bd89-d3e2bd7ff66d
+  title: Johannes-Passion, BWV 245
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: a38842ac-d8f3-40db-b9db-09dcbd9d641f
+  recordings: [134b6c27-ff09-40ad-95b5-1298edc876be, 3a382dae-e5ab-4968-92e5-1f7dc260a475]

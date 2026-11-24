@@ -1,0 +1,52 @@
+id: staatskapelle-dresden-1982
+performers:
+- name: Staatskapelle Dresden
+  role: orchestra
+- name: Rundfunkchor Leipzig
+  role: choir
+- name: Peter Schreier
+  role: conductor
+- name: Robert Holl
+  role: bass
+- name: Egbert Junghanns
+  role: baritone
+- name: Ekkehard Wagner
+  role: tenor
+- name: Marjana Lipovšek
+  role: alto
+- name: Roberta Alexander
+  role: soprano
+- name: Gothart Stier
+  role: performer
+- name: Andreas Scheibner
+  role: performer
+- name: Olaf Bär
+  role: bass
+- name: MDR Rundfunkchor Leipzig
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1982]
+  place: Lukaskirche
+released: 1988
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1260f1ab-4b50-4355-99e5-c8149a1f5e2d
+  title: 'Johannes-Passion: 3 Arien, Version 1725'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62250633-e888-49bb-ab9f-d6f14ef21012
+  recordings: [234eecd2-3c6d-421d-812a-86225242718a, 262d7ff3-ea73-4bca-919b-0ba8aa90af0d, 43baf9e4-9153-41ab-85aa-35aa323bf9ae,
+    51b6e038-13a6-4d02-8184-90327a719aec, 599f2853-a042-421c-b880-d27f1c271735, 6b4e6c91-c7d1-4148-83bc-df44669a4064,
+    74660267-1bc2-40fe-b4f3-75d3b02b35fc, 75a37044-9611-4647-9e8a-0ac208478167, aa299f9f-801f-4cc0-8aa2-011af851b3d6,
+    be2388f6-2379-4237-b558-a4b85933ec75, d962a549-ac7c-411b-846d-f7abce558b75, dde8c817-d729-4ce6-bbec-cf353674c0fd,
+    f1aa791c-0848-4a1c-9c95-ef219ff732fe, f56d67c0-f801-4cef-a13c-4f1a12c4e13f, f6234042-e50d-4e02-a554-2848dd74da49]

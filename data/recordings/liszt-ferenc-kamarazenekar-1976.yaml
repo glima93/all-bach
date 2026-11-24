@@ -1,0 +1,59 @@
+id: liszt-ferenc-kamarazenekar-1976
+performers:
+- name: Liszt Ferenc Kamarazenekar
+  role: orchestra
+- name: Chorale des Jeunesses Musicales de France
+  role: choir
+- name: Jeunesses Musicales Hungary Egyesület
+  role: choir
+- name: Frigyes Sándor
+  role: conductor
+- name: Zeger Vandersteene
+  role: performer
+- name: Julia Hamari
+  role: performer
+- name: János Sándor
+  role: performer
+- name: Kalmár Magda
+  role: performer
+- name: Ernst Gerold Schramm
+  role: performer
+- name: Dénes Gulyás
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, III. Choral "Herzliebster Jesu, was hast du verbrochen"', 'Teil I, XV. Choral "Erkenne mich, mein Hüter"',
+    'Teil I, XIX. Accompagnato-Rezitativ (Tenor) und Choral (Chor II) "O Schmerz! Hier zittert das gequälte Herz"',
+    'Teil I, XX. Arie (Tenor) und Chor II "Ich will bei meinen Jesu wachen"', 'Teil I, XXV. Choral "Was mein Gott
+      will, das g''scheh allzeit"', 'Teil I, XXVIIa. Arie (Sopran, Alt) und Chor "So ist mein Jesus nun gefangen"',
+    'Teil I, XXVIIb. "Sind Blitze, sind Donner in Wolken verschwunden" (Chori)', 'Teil I, XXIX. Choral "O Mensch,
+      bewein dein Sünde groß"', 'Teil II, XXX. Arie (Alt) und Chor "Ach! nun ist mein Jesus hin"', 'Teil II, XXXVII.
+      Choral "Wer hat dich so geschlagen"', 'Teil II, XL. Choral "Bin ich gleich von dir gewichen"', 'Teil II, XLIV.
+      Choral "Befiehl du deine Wege"', 'Teil II, LIIIa. "Da nahmen die Kriegsknechte" (Evangelista)', 'Teil II,
+      LIIIb. "Gegrüßet seist du, Jüdenkönig" (Chori)', 'Teil II, LIIIc. "Und speieten ihn an" (Evangelista)', 'Teil
+      II, LIV. Choral "O Haupt voll Blut und Wunden"', 'Teil II, LVIIIb. "Der du den Tempel Gottes zerbrichst" (Chori)',
+    'Teil II, LXII. Choral "Wenn ich einmal soll scheiden"', 'Teil II, LXVII. Recitativo (Soprano, Alto, Tenore,
+      Basso) "Nun ist der Herr zur Ruh gebracht" - Coro "Mein Jesu, gute Nacht"', 'Teil II, LXVIII. Coro "Wir setzen
+      uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/33a4459a-7e33-4db1-aa39-135e9991c73e
+  title: 'St. Matthew Passion Excerpts ("Jeunesses Musicales" Chorus, Franz Liszt Chamber Orchestra feat. conductor:
+    Frigyes Sándor)'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1a935ca0-550a-4922-b480-c6dcfe3a2350
+  recordings: [4562a1e2-5acd-474d-a44a-03c7029072b8, 74040d0d-2422-4348-a6d7-6bfdbada5077, ae514574-7099-49b6-aeb8-f0ef97eb63c3]

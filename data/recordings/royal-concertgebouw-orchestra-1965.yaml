@@ -1,0 +1,45 @@
+id: royal-concertgebouw-orchestra-1965
+performers:
+- name: Royal Concertgebouw Orchestra
+  role: orchestra
+- name: Eugen Jochum
+  role: conductor
+- name: Marga Höffgen
+  role: performer
+- name: Agnes Giebel
+  role: performer
+- name: Groot Omroepkoor
+  role: choir
+- name: Haefliger
+  role: performer
+- name: Berry
+  role: performer
+- name: Van Kesteren
+  role: performer
+- name: Crass
+  role: performer
+- name: Koninklijk Concertgebouworkest
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1965]
+  place: null
+released: 1965
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9a32500a-cf8b-4c4d-addb-3f2f785c1a2c
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad8260b2-2767-4e9b-9ece-7977fbcedadf
+  recordings: [878d969c-7d61-4126-82df-f05be681e88c, c4ad6917-55f6-41c1-8002-2d40ea3a6d96]

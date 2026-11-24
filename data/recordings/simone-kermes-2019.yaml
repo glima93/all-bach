@@ -1,0 +1,28 @@
+id: simone-kermes-2019
+performers:
+- name: Simone Kermes
+  role: soprano
+- name: Amici Veneziani
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2019]
+  place: L’Albergo dell’Academia
+released: 2020
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/586a3726-a025-4f0a-8c0d-8ee1c67fa999
+  title: Inferno e paradiso
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1e48e74f-7162-4232-80e0-fe8998fd9dfc
+  recordings: [9f635f0e-8516-4c04-8c19-994d17a287c0]

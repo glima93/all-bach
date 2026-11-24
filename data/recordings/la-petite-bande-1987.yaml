@@ -1,0 +1,30 @@
+id: la-petite-bande-1987
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Sigiswald Kuijken
+  role: conductor
+- name: René Jacobs
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1987]
+  place: Doopsgezinde kerk
+released: 1988
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7e02f211-3807-4f4a-8003-03b850269733
+  title: Johannes-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [bce1d568-b869-43cb-b356-96ef0f9739bd]

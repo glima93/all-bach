@@ -1,0 +1,42 @@
+id: the-brandenburg-consort-1996
+performers:
+- name: The Brandenburg Consort
+  role: orchestra
+- name: Stephen Cleobury
+  role: conductor
+- name: Choir of King’s College, Cambridge
+  role: choir
+- name: Paul Agnew
+  role: tenor
+- name: John Mark Ainsley
+  role: tenor
+- name: Catherine Bott
+  role: soprano
+- name: Michael Chance
+  role: alto
+- name: Stephen Richardson
+  role: bass
+- name: Stephen Varcoe
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: King’s College Chapel
+released: 1996
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c8405958-55d4-458b-b106-433da5e0169f
+  title: St. John Passion, BWV 245 (The Choir of King's College, Cambridge)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 22b1e838-fbd1-4b60-a4c6-5314625f1697
+  recordings: [8ce28c7d-172f-443f-92aa-164bf30537c6, 90e2128b-06d5-42bb-9c56-cbba751161a3]

@@ -1,0 +1,30 @@
+id: national-philharmonic-orchestra-undated-3
+performers:
+- name: National Philharmonic Orchestra
+  role: orchestra
+- name: Charles Gerhardt
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LIV. Choral "O Haupt voll Blut und Wunden"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cacf3188-af65-4a29-95e3-fd4afbef5342
+  title: 'Klenoty Klasické Hudby: Johann Sebastian Bach'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a94c0f47-7caa-42b6-b9b3-4708f6fbe7de
+  recordings: [27b5a385-d33c-44d8-a246-fcb1c2f36729]

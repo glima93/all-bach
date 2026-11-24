@@ -1,0 +1,40 @@
+id: bachchor-mainz-undated-2
+performers:
+- name: Bachchor Mainz
+  role: choir
+- name: Bachorchester Mainz
+  role: orchestra
+- name: Hille Perl
+  role: performer
+- name: Joachim Held
+  role: performer
+- name: Sabine Bauer
+  role: performer
+- name: Petra Morath-Pusinelli
+  role: performer
+- name: Ralf Otto
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Christuskirche
+released: 2018
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f4e923d0-219b-4e38-846d-ff0e2177e383
+  title: St. John Passion
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ca5d2a37-5d3d-428c-9504-86988cca968d
+  recordings: [d1549a03-e72e-4c1a-89b1-f3ccafbfb9fe]

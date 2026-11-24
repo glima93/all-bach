@@ -1,0 +1,32 @@
+id: eugen-cicero-1965
+performers:
+- name: Eugen Cicero
+  role: piano
+- name: Charly Antolini
+  role: drums (drum set)
+- name: Peter Witte
+  role: double bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1965]
+  place: null
+released: 1965
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f1b2004e-9290-4fa8-98a0-d6af30b38ab3
+  title: Rokoko-Jazz
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With drums (drum set).
+musicbrainz:
+  artist: 86e2f349-3a2d-42ef-9511-5abf76b7a785
+  recordings: [d0502588-a9f5-423a-9148-df98d7cb60f3]

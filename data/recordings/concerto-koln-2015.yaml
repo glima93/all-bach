@@ -1,0 +1,46 @@
+id: concerto-koln-2015
+performers:
+- name: Concerto Köln
+  role: orchestra
+- name: Chor des Bayerischen Rundfunks
+  role: choir
+- name: Peter Dijkstra
+  role: conductor
+- name: Krešimir Stražanac
+  role: performer
+- name: Julian Prégardien
+  role: tenor
+- name: Tareq Nazmi
+  role: bass
+- name: Tilman Lichdi
+  role: performer
+- name: Ulrike Malotta
+  role: performer
+- name: Christina Landshamer
+  role: performer
+- name: Andreas Burkhart
+  role: performer
+- name: Simona Brüninghaus
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2015]
+  place: Herkulessaal
+released: 2016
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5de1a8d5-8ff3-48d3-a277-df3193904751
+  title: Bach Soli Deo Gloria
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Live recording. Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 16a29583-0a91-415c-ac87-6ee5c6c2c406
+  recordings: [1e738edc-fad2-414f-b432-f03e6e0a29e3, 73fd4b76-501b-4427-9028-1e3046e29b20]

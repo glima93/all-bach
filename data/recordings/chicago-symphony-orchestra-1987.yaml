@@ -1,0 +1,50 @@
+id: chicago-symphony-orchestra-1987
+performers:
+- name: Chicago Symphony Orchestra
+  role: orchestra
+- name: Chicago Symphony Chorus
+  role: choir
+- name: Glen Ellyn Children’s Chorus
+  role: choir
+- name: Sir Georg Solti
+  role: conductor
+- name: Hans Peter Blochwitz
+  role: tenor
+- name: Kiri Te Kanawa
+  role: performer
+- name: Tom Krause
+  role: performer
+- name: Olaf Bär
+  role: bass
+- name: Anthony Rolfe Johnson
+  role: performer
+- name: Anne Sofie von Otter
+  role: voice
+- name: Margaret Hillis
+  role: performer
+- name: Doreen Rao
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1987]
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f07f2666-c895-4e7c-8c28-62cee1060617
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 509c772e-1164-4457-8d09-0553cfa77d64
+  recordings: [42c3378d-9a0e-4dc8-ae9a-51a48af9d41e, 5344da28-ebb4-450b-90d2-97d1a7c2b317, 57febb6b-ac98-44a2-b0ae-0e6804f1cfb8,
+    b0346169-d4f6-416f-8a8e-1496bd76a160, c3f17c93-a132-48a8-a361-9be495b33a70]

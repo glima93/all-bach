@@ -1,0 +1,30 @@
+id: bach-collegium-munchen-1990
+performers:
+- name: Bach Collegium München
+  role: orchestra
+- name: Jard van Nes
+  role: mezzo-soprano
+- name: Enoch zu Guttenberg
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: Klosterkirche Alpirsbach
+released: 1997
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9c018c20-393e-417b-a93f-c9204f4cd4ab
+  title: Tears from Heaven
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: f5bd246e-b29d-469d-8ca6-1bdef5b09fc7
+  recordings: [3781661f-8d7f-4a38-afb3-24225ad79308]

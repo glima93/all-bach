@@ -1,0 +1,54 @@
+id: berliner-philharmoniker-1971
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Wiener Singverein
+  role: choir
+- name: Chor der Deutschen Oper Berlin
+  role: choir
+- name: Staats‐ und Domchor Berlin
+  role: choir
+- name: Chor der Deutschen Staatsoper Berlin
+  role: choir
+- name: Herbert von Karajan
+  role: conductor
+- name: Christa Ludwig
+  role: alto
+- name: Peter Schreier
+  role: tenor
+- name: Anton Diakov
+  role: bass
+- name: Walter Berry
+  role: performer
+- name: Gundula Janowitz
+  role: performer
+- name: Horst Laubenthal
+  role: performer
+- name: Dietrich Fischer‐Dieskau
+  role: baritone
+- name: Helmuth Froschauer
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1971, 1972]
+  place: Jesus‐Christus‐Kirche
+released: 1973
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd450e42-f9d1-47be-9dd7-7e324fdc6b0c
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [058c04f9-5db0-4140-bc11-20abb5ac9668, 148ea28c-f322-4bf5-b910-de7442dfc202, 547b6b58-c0a2-4cba-83d8-f23a539632f1,
+    a2dbbde2-179f-45d5-8253-10416938fdbe, cc970d73-1e24-4d5e-b068-f177972e5ac3, d36e1e56-7593-4fcc-8ad1-6e5f3313867b,
+    f6d71317-b6f2-4b4c-868b-408867540a16]

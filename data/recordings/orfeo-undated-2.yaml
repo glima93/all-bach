@@ -1,0 +1,30 @@
+id: orfeo-undated-2
+performers:
+- name: Orfeo 55
+  role: orchestra
+- name: Nathalie Stutzmann
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b86a562e-d20a-4aed-a8d7-c609d8c1cfa5
+  title: Une cantate imaginaire
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 59b09f23-02cd-4ed1-8aa3-65ac810ce142
+  recordings: [1b6dfe48-c510-46ea-8696-f23ed2441861]

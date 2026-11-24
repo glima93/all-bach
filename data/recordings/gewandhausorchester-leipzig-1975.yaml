@@ -1,0 +1,30 @@
+id: gewandhausorchester-leipzig-1975
+performers:
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Hans-Joachim Rotzsch
+  role: conductor
+- name: Thomanerchor Leipzig
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1975, 1976]
+  place: Lukaskirche
+released: 1998
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d7a7176a-627b-41f2-a239-a1fe4184eaf5
+  title: Johannes-Passion BWV 245
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [c5a65381-40c6-4ee3-b9e0-674486220e5c]

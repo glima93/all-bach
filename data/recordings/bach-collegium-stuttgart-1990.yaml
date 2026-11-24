@@ -1,0 +1,31 @@
+id: bach-collegium-stuttgart-1990
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Christine Schäfer
+  role: soprano
+- name: Eckhard Weyand
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: Lukaskirche
+released: null
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: [Teil I. No. 9 Aria (Sopran) "Ich folge dir gleichfalls", 'Teil II. No.
+      35 Aria (Sopran) "Zerfließe, mein Herze"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1a53d435-edeb-4cb5-84ec-6f8a968f3690
+  title: Christine Schäfer, Soprano
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [71569b82-c813-472a-9552-10205b68a326]

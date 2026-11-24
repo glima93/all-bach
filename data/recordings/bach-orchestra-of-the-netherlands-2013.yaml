@@ -1,0 +1,46 @@
+id: bach-orchestra-of-the-netherlands-2013
+performers:
+- name: Bach Orchestra of the Netherlands
+  role: orchestra
+- name: Bach Choir of the Netherlands
+  role: choir
+- name: Pieter Jan Leusink
+  role: conductor
+- name: Robert Luts
+  role: tenor
+- name: Sytse Buwalda
+  role: performer
+- name: Henk van Heijnsbergen
+  role: performer
+- name: Olga Zinovieva
+  role: performer
+- name: Martinus Leusink
+  role: performer
+- name: Joep Van Geffen
+  role: performer
+- name: Jasper Schweppe
+  role: performer
+- name: Jana Mamonova
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2013]
+  place: Sint-Nicolaaskerk
+released: 2013
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f106b7fc-b89b-4157-bb01-29523e4eaca6
+  title: Matthäus Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 778b6402-117b-4a85-ae99-970809cef160
+  recordings: [3d84fbbd-6749-4e12-a5e2-3df2e851c91a, 5d12b8aa-0b0d-4677-aca1-a6a96fec3700, 631ce84b-a75c-4329-9a59-461b779116bc]

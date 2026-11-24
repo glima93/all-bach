@@ -1,0 +1,30 @@
+id: teddy-tahu-rhodes-2003
+performers:
+- name: Teddy Tahu Rhodes
+  role: baritone
+- name: Antony Walker
+  role: conductor
+- name: Sinfonia Australis
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2003]
+  place: Eugene Goossens Hall, ABC Centre
+released: 2006
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LXV. Aria (Basso) "Mache dich, mein Herze, rein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b2d0a969-1a26-42db-9510-aee4e26606da
+  title: Contented Rest
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 797c6813-c41c-4a0f-9194-da0fbe6da537
+  recordings: [28695837-3bac-4e80-9678-52b8461e846d]

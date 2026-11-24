@@ -80,9 +80,9 @@ collections:
    note: "Collected on 21 Nov 2026 with 0 works (the movements filled the first 25 search results); collected again on 23 Nov 2026 with collector v7"}
 - {id: magnificat, title: "Magnificat", chapter: Masses and Magnificat, bwv: ["243"], variants: ["243a"], mode: vocal, wave: 2, run: 22, status: imported,
    note: "243a is the E-flat version with Christmas interpolations"}
-- {id: passions, title: "Passions", chapter: Passions and Oratorios, bwv: ["244-247"], mode: vocal, wave: 2, run: 23, status: queued,
+- {id: passions, title: "Passions", chapter: Passions and Oratorios, bwv: ["244-247"], mode: vocal, wave: 2, run: 23, status: imported,
    note: "246 St Luke is spurious; 247 St Mark is lost (reconstructions get their own entries if MusicBrainz has them)"}
-- {id: oratorios, title: "Oratorios", chapter: Passions and Oratorios, bwv: ["248", "249", "11"], mode: vocal, wave: 2, run: 24, status: todo,
+- {id: oratorios, title: "Oratorios", chapter: Passions and Oratorios, bwv: ["248", "249", "11"], mode: vocal, wave: 2, run: 24, status: queued,
    note: "Christmas (248, six parts), Easter (249) and Ascension (11) Oratorios"}
 - {id: motets, title: "Motets", chapter: Motets, bwv: ["225-231", "118"], mode: vocal, wave: 2, run: 25, status: todo,
    note: "118 sits in the cantata numbers but is a motet in all but name; 231 is a reworking of a movement of cantata 28"}

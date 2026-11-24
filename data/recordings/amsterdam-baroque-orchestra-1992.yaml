@@ -1,0 +1,45 @@
+id: amsterdam-baroque-orchestra-1992
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: De Nederlandse Bachvereniging
+  role: choir
+- name: Sacramentskoor Breda
+  role: soprano
+- name: Ton Koopman
+  role: conductor
+- name: Kai Wessel
+  role: countertenor
+- name: Guy de Mey
+  role: tenor
+- name: Peter Kooij
+  role: bass
+- name: Klaus Mertens
+  role: performer
+- name: Barbara Schlick
+  role: performer
+- name: Christoph Prégardien
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1992]
+  place: Nederlandse Hervormde Kerk
+released: 1993
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2af0dd60-78b7-463f-ba3b-65872ca151b4
+  title: Matthäus Passion, BWV 244
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [10ec6946-79b3-419f-bacf-690aa6dc6b6f, 8d7dd3a1-f83e-49ad-b48a-996dc4794d8b, ece195cf-e337-4ade-9b05-072ac4f87b06,
+    fb7847ba-ae1d-4aae-a2b4-beefb0113a25]

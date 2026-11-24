@@ -1,0 +1,44 @@
+id: berliner-symphoniker-1961
+performers:
+- name: Berliner Symphoniker
+  role: orchestra
+- name: Karl Forster
+  role: conductor
+- name: Fritz Wunderlich
+  role: performer
+- name: Dietrich Fischer‐Dieskau
+  role: performer
+- name: Josef Traxel
+  role: performer
+- name: Christa Ludwig
+  role: mezzo-soprano
+- name: Elisabeth Grümmer
+  role: performer
+- name: Karl Christian Kohn
+  role: performer
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Chor der St. Hedwigs‐Kathedrale Berlin
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: Grunewaldkirche
+released: 1991
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/20ae3ff6-75c2-4e07-b858-c53adf79ee0b
+  title: Johannes-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4ebd26f0-5067-417e-8544-981fb945169a
+  recordings: [1880d33c-5edf-4902-9b41-061e3a568bd4, 752ab3c0-100f-4157-ada9-11b21c43815d, f1b7309d-eaa1-40d0-94af-88ca6f4ccfc6]

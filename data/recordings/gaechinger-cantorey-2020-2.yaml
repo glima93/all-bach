@@ -1,0 +1,60 @@
+id: gaechinger-cantorey-2020-2
+performers:
+- name: Gaechinger Cantorey
+  role: choir
+- name: Hans-Christoph Rademann
+  role: conductor
+- name: Patrick Grahl
+  role: performer
+- name: Peter Harvey
+  role: performer
+- name: Krešimir Stražanac
+  role: performer
+- name: Marie Henriette Reinhold
+  role: performer
+- name: Isabel Schicketanz
+  role: performer
+- name: Benedikt Kristjánsson
+  role: performer
+- name: Florian Schmitt-Bohn
+  role: performer
+- name: Tobias Ay
+  role: performer
+- name: Andrey Akhmetov
+  role: performer
+- name: Jonathan Mayenschein
+  role: performer
+- name: Christoph Pfaller
+  role: performer
+- name: Mirjam Striegel
+  role: performer
+- name: Lore Agusti
+  role: performer
+- name: Philipp Goldmann
+  role: performer
+- name: Anja Scherg
+  role: performer
+- name: Gächinger Kantorei Stuttgart
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Forum am Schlosspark
+released: 2021
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e3f1027-fd6f-4e15-bbec-9247be5ac613
+  title: St. Matthew Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [5a73ca9a-ca9f-4c3a-8de2-cd98db9458d2]

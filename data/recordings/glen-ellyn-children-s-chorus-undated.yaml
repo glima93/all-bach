@@ -1,0 +1,31 @@
+id: glen-ellyn-children-s-chorus-undated
+performers:
+- name: Glen Ellyn Children’s Chorus
+  role: choir
+- name: Doreen Rao
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, XXIX. Choral "O Mensch, bewein dein Sünde groß"', 'Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d5bc0c1f-7548-46cf-9cfc-b3ff6d1bf708
+  title: 'Hallelujah: Famous Choruses'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32bfa52d-cb3a-4ed8-a951-e9df81e8dcc3
+  recordings: [c2995c94-ca37-44e3-ad77-0cad9b6292b5]

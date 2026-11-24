@@ -1,0 +1,82 @@
+id: orchester-der-j-s-bach-stiftung-2018
+performers:
+- name: Orchester der J. S. Bach-Stiftung
+  role: orchestra
+- name: Chor der J. S. Bach-Stiftung
+  role: choir
+- name: Rudolf Lutz
+  role: conductor
+- name: Daniel Johannsen
+  role: tenor
+- name: Peter Harvey
+  role: bass
+- name: Johannes Kaleschke
+  role: performer
+- name: Alex Potter
+  role: performer
+- name: Julia Doyle
+  role: performer
+- name: Guro Hjemli
+  role: performer
+- name: Daniel Pérez
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"', 'Teil I. No. 2a Recitativo
+      "Jesus ging mit seinen Jüngern" (Evangelista, Jesus)', Teil I. No. 2b Coro "Jesum von Nazareth", 'Teil I,
+      No. 2c Recitativo "Jesus spricht zu ihnen" (Evangelista, Jesus)', 'Teil I, No. 2d Coro "Jesum von Nazareth"',
+    'Teil I, No. 2e Recitativo "Jesus antwortete" (Evangelista, Jesus)', Teil I. No. 3 Choral "O große Lieb", 'Teil
+      I. No. 4 "Auf daß das Wort erfüllet werde" (Evangelista, Jesus)', 'Teil I. No. 5 Choral "Dein Will gescheh,
+      Herr Gott, zugleich"', Teil I. No. 6 "Die Schar aber und der Oberhauptmann" (Evangelista), Teil I. No. 7 Aria
+      (Alt) "Von den Stricken meiner Sünden", Teil I. No. 8 "Simon Petrus aber folgete Jesu nach" (Evangelista),
+    Teil I. No. 9 Aria (Sopran) "Ich folge dir gleichfalls", 'Teil I. No. 10 "Derselbige Jünger war" (Evangelista,
+      Ancilla, Servus, Petrus, Jesus)', Teil I. No. 11 Choral "Wer hat dich so geschlagen", Teil I. No. 12a Recitativo
+      "Und Hannas sandte ihn gebunden" (Evangelista), 'Teil I. No. 12b Coro "Bist du nicht seiner Jünger einer?"',
+    'Teil I. No. 12c Recitativo "Er leugnete aber und sprach" (Evangelista, Petrus, Servus)', 'Teil I. No. 13 Aria
+      (Tenor) "Ach, mein Sinn"', 'Teil I. No. 14 Choral "Petrus, der nicht denkt zurück"', 'Teil II. No. 15 Choral
+      "Christus, der uns selig macht"', Teil II. No. 17 Choral "Ach großer König", 'Teil II. No. 18a Recitativo
+      "Da sprach Pilatus zu ihm" (Evangelista, Pilatus, Jesus)', 'Teil II, No. 18b. Coro "Nicht diesen, sondern
+      Barrabam"', 'Teil II, No. 18c. Recitativo "Barrabas aber war ein Mörder" (Evangelista)', 'Teil II. No. 19
+      Arioso (Bass) "Betrachte, meine Seel"', 'Teil II. No. 20 Aria (Tenor) "Erwäge, wie sein blutgefärbter Rücken"',
+    Teil II. No. 21a "Und die Kriegsknechte flochten" (Evangelista), 'Teil II, No. 21b. Coro "Sei gegrüßet, lieber
+      Jüdenkönig"', 'Teil II, No. 21c. Recitativo "Und gaben ihm Backenstreiche" (Evangelista, Pilatus)', 'Teil
+      II, No. 21d. Coro "Kreuzige, kreuzige!"', 'Teil II, No. 21e. Recitativo "Pilatus sprach zu ihnen" (Evangelista,
+      Pilatus)', 'Teil II, No. 21f. Coro "Wir haben ein Gesetz"', 'Teil II, No. 21g. Recitativo "Da Pilatus das
+      Wort hörete" (Evangelista, Pilatus, Jesus)', 'Teil II. No. 22 Choral "Durch dein Gefängnis, Gottes Sohn"',
+    Teil II. No. 23a Recitativo "Die Juden aber schrieen" (Evangelista), 'Teil II, No. 23b. Coro "Lässest du diesen
+      los"', 'Teil II, No. 23c. Recitativo "Da Pilatus das Wort hörete" (Evangelista, Pilatus)', 'Teil II, No. 23d.
+      Coro "Weg, Weg mit dem, kreuzige ihn!"', 'Teil II, No. 23e. Recitativo "Spricht Pilatus zu ihnen" (Evangelista,
+      Pilatus)', 'Teil II, No. 23f. Coro "Wir haben keinen König"', 'Teil II, No. 23g. Recitativo "Da überantwortete
+      er ihn" (Evangelista)', 'Teil II. No. 24 Aria (Bass, Chorus) "Eilt, ihr angefochtnen Seelen"', Teil II. No.
+      25a Recitativo "Allda kreuzigten sie ihn" (Evangelista), 'Teil II, No. 25b. Coro "Schreibe nicht: der Juden
+      König"', 'Teil II, No. 25c. Recitativo "Pilatus antwortet" (Evangelista, Pilatus)', Teil II. No. 26 Choral
+      "In meines Herzens Grunde", Teil II. No. 27a Recitativo "Die Kriegsknechte aber" (Evangelista), 'Teil II,
+      No. 27b. Coro "Lasset uns den nicht zerteilen"', 'Teil II, No. 27c. Recitativo "Auf daß erfüllet würde die
+      Schrift" (Evangelista, Jesus)', '.1: Teil II. No. 28 Choral "Er nahm alles wohl in acht"', 'Teil II. No. 29
+      "Und von Stund an" (Evangelista, Jesus)', Teil II. No. 30 Aria (Alt) "Es ist vollbracht!", Teil II. No. 31
+      "Und neiget sein Haupt" (Evangelista), 'Teil II. No. 32 Aria (Bass, Chorus) "Mein teurer Heiland, laß dich
+      fragen"', 'Teil II. No. 33 "Und siehe da, der Vorhang" (Evangelista)', 'Teil II. No. 34 Arioso (Tenor) "Mein
+      Herz, in dem die ganze Welt"', 'Teil II. No. 35 Aria (Sopran) "Zerfließe, mein Herze"', Teil II. No. 36 "Die
+      Juden aber" (Evangelista), 'Teil II. No. 37 Choral "O hilf, Christe, Gottes Sohn"', Teil II. No. 38 "Darnach
+      bat Pilatum" (Evangelista), 'Teil II. No. 39 Chorus "Ruht wohl, ihr heiligen Gebeine"', 'Teil II. No. 40 Choral
+      "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3b86fb4e-9ebc-4850-a197-992bdf0046df
+  title: Johannespassion, BWV 245
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ec77a1b-c25e-4ef9-9f3e-8cc1e497bcaf
+  recordings: [6954cc9d-4164-4df5-9db6-40d81c4f169b, b4af2a77-313d-4c4e-a661-b1a6fa28c34c]

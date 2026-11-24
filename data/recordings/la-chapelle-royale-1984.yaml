@@ -1,0 +1,34 @@
+id: la-chapelle-royale-1984
+performers:
+- name: La Chapelle Royale
+  role: orchestra
+- name: Collegium Vocale Gent
+  role: choir
+- name: Ensemble vocal européen de la Chapelle royale
+  role: choir
+- name: Philippe Herreweghe
+  role: conductor
+- name: Howard Crook
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: Sint-Gilliskerk
+released: 1985
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a6743192-e5b0-40cc-b240-1b272e7d0ecc
+  title: Matthäus-Passion, BWV 244
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 30b7cd73-6e32-4a78-bf1f-bb0129b44184
+  recordings: [7de7af38-fe5b-4b50-9e58-4737c4a2c9a2, da9c7675-cad4-43e3-8fbf-98682b88103b]

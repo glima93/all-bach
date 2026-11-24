@@ -1,0 +1,40 @@
+id: ricercar-consort-2010
+performers:
+- name: Ricercar Consort
+  role: ensemble
+- name: Philippe Pierlot
+  role: conductor
+- name: Hans-Jörg Mammel
+  role: performer
+- name: Matthias Vieweg
+  role: performer
+- name: Jan Kobow
+  role: performer
+- name: Carlos Mena
+  role: performer
+- name: Maria Keohane
+  role: performer
+- name: Stephan MacLeod
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2010]
+  place: Salle Philharmonique de Liège
+released: 2011
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4dcc02d7-ab83-4c3a-bdb5-98196f51da1e
+  title: Passio Secundum Johannem - Passion Selon Saint Jean - Johannes-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6264b98d-4ddc-4b96-a79d-18f53394a99e
+  recordings: [0c417f49-f268-4e50-be04-6348effcd06b, c76d0b89-f6ac-4582-842e-c89301664ec0]

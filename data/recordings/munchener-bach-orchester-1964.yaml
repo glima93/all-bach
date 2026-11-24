@@ -1,0 +1,46 @@
+id: munchener-bach-orchester-1964
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Münchener Bach‐Chor
+  role: choir
+- name: Münchener Chorknaben
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Ernst Haefliger
+  role: tenor
+- name: Kieth Engen
+  role: performer
+- name: Hermann Prey
+  role: bass
+- name: Hedwig Bilgram
+  role: organ
+- name: Evelyn Lear
+  role: performer
+- name: Hertha Töpper
+  role: performer
+- name: Fritz Rothschuh
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1964]
+  place: Herkulessaal
+released: 1992
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7715f769-16be-4cdf-8578-716e33186df4
+  title: Johannes Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [04c624a3-650d-404a-8e08-9c59c174f911, 1ed7d447-af74-454f-9727-e75b5959a55f, 976430b4-b2da-4f1c-bf54-12dfc9c9e737]

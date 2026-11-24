@@ -1,0 +1,56 @@
+id: english-baroque-soloists-1986
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Michael Chance
+  role: performer
+- name: Neill Archer
+  role: performer
+- name: Cornelius Hauptmann
+  role: performer
+- name: Pavlo Beznosiuk
+  role: performer
+- name: Roy Goodman
+  role: performer
+- name: Richard Campbell
+  role: performer
+- name: Valerie Darke
+  role: performer
+- name: Anthony Robson
+  role: performer
+- name: Jakob Lindberg
+  role: performer
+- name: Rufus Müller
+  role: performer
+- name: Nancy Argenta
+  role: performer
+- name: Lisa Beznosiuk
+  role: performer
+- name: Richard Earle
+  role: performer
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1986]
+  place: All Saints Church
+released: 1986
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8e46b5f1-9f7b-4313-96c1-8e2b1423b51b
+  title: St. John Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [458b1a70-7c46-442d-a076-6abaac743c00, b471580c-7a54-454a-b65d-4f986a4321bc]

@@ -1,0 +1,47 @@
+id: munchener-bach-orchester-1979
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Münchener Bach‐Chor
+  role: choir
+- name: Regensburger Domspatzen
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Peter Schreier
+  role: tenor
+- name: Dame Janet Baker
+  role: mezzo-soprano
+- name: Dietrich Fischer‐Dieskau
+  role: bass
+- name: Edith Mathis
+  role: performer
+- name: Matti Salminen
+  role: performer
+- name: Jörg Demus
+  role: performer
+- name: Georg Ratzinger
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979]
+  place: Herkulessaal
+released: 1980
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0a2630d-77ba-418e-8646-ef0f1e00ac2a
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [73a51a67-7906-44d7-a261-bc970389a97c, 7c51574a-5ed4-4425-85cd-a3013cd29cc9, 95453f85-3211-43a2-b13d-613569f90ac4,
+    b0184803-c100-4b08-aaa6-dcbee21fc3cb, cd47f64b-2a5e-42c3-bbcd-e354d10c6b3d]

@@ -1,0 +1,35 @@
+id: chor-der-st-hedwigs-kathedrale-berlin-undated
+performers:
+- name: Chor der St. Hedwigs‐Kathedrale Berlin
+  role: choir
+- name: Berliner Symphoniker
+  role: orchestra
+- name: Lisa Otto
+  role: soprano
+- name: Karl Forster
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: [Teil I. No. 9 Aria (Sopran) "Ich folge dir gleichfalls", 'Teil II. No.
+      40 Choral "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/79da259a-4fe1-4714-86de-681b743abb45
+  title: Sacred Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 54c24b45-17a0-493b-a444-c20a65ed6ef5
+  recordings: [544dc482-046d-499f-acb3-64b1ddf38c01]

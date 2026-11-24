@@ -1,0 +1,30 @@
+id: cantata-collective-undated
+performers:
+- name: Cantata Collective
+  role: choir
+- name: Nicholas McGegan
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2023
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d2ddbaa0-996c-4674-b495-61422a39e3f6
+  title: St. John Passion
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 32634c19-2c47-4256-8593-8eea32315c27
+  recordings: [700d6346-9df8-4170-a4db-e27ee4cd66a3]

@@ -1,0 +1,29 @@
+id: thomas-quasthoff-undated
+performers:
+- name: Thomas Quasthoff
+  role: bass-baritone
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil II. No. 24 Aria (Bass, Chorus) "Eilt, ihr angefochtnen Seelen"',
+    'Teil II. No. 32 Aria (Bass, Chorus) "Mein teurer Heiland, laß dich fragen"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c9044b30-137e-427c-a883-fbd0b4a5d85e
+  title: A Portrait
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c7e94da5-87ea-4a91-adc8-26e2ae904e10
+  recordings: [1f0d8c84-0920-486d-946b-8658f3f1aa2d]

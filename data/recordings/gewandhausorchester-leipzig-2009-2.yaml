@@ -1,0 +1,32 @@
+id: gewandhausorchester-leipzig-2009-2
+performers:
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Riccardo Chailly
+  role: conductor
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Tölzer Knabenchor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: Gewandhaus
+released: 2010
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b6b36b5b-6563-4707-a4cd-7368c128ba2f
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [697fc0ce-4e96-490e-9cd7-fc36044b5378]

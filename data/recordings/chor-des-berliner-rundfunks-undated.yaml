@@ -1,0 +1,39 @@
+id: chor-des-berliner-rundfunks-undated
+performers:
+- name: Chor des Berliner Rundfunks
+  role: choir
+- name: Orchester des Berliner Rundfunks
+  role: orchestra
+- name: Dietrich Knothe
+  role: conductor
+- name: Berliner Rundfunk Sinfonie Chor
+  role: choir
+- name: Rundfunk‐Sinfonieorchester Berlin
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, III. Choral "Herzliebster Jesu, was hast du verbrochen"', 'Teil I, XXV. Choral "Was mein Gott will, das
+      g''scheh allzeit"', 'Teil II, LXII. Choral "Wenn ich einmal soll scheiden"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a28864d7-49ae-4668-897c-3421838cf57e
+  title: 'Vokalmusik 3: Oratorien'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 17b79dab-c8cf-47f6-bcfc-5d6c9a5c9a8b
+  recordings: [93d398f7-2f08-42c2-90ec-924e8f1f99ab]

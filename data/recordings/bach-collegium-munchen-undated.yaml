@@ -1,0 +1,33 @@
+id: bach-collegium-munchen-undated
+performers:
+- name: Bach Collegium München
+  role: orchestra
+- name: Hansjörg Albrecht
+  role: conductor
+- name: Münchener Bach‐Chor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e5816628-cc20-411e-b0ee-a970f4666387
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f5bd246e-b29d-469d-8ca6-1bdef5b09fc7
+  recordings: [f93867a7-f62b-41fa-8273-c8fa06764cd4]

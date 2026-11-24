@@ -1,0 +1,31 @@
+id: collegium-vocale-gent-undated
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil II. No. 39 Chorus "Ruht wohl, ihr heiligen Gebeine"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1ec9ce3d-b31c-471b-b3bb-eb1e506f47fb
+  title: 'Century: La musique des siècles, Volume 14: L''Allemagne du baroque tardif'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [3cdc673e-3605-4938-a36d-0a21c9f32607]

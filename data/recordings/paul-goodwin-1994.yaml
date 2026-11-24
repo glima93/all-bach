@@ -1,0 +1,38 @@
+id: paul-goodwin-1994
+performers:
+- name: Paul Goodwin
+  role: conductor
+- name: Rufus Müller
+  role: tenor
+- name: Stephen Varcoe
+  role: bass
+- name: Nancy Argenta
+  role: soprano
+- name: Jamie MacDougall
+  role: tenor
+- name: Richard Jackson
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: St. George's Theatre
+released: 1994
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0d437700-4e18-4645-aa0b-6cf0bbf6c032
+  title: Mattheus Passion BWV 244
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4308054c-00c8-42d8-aa6e-80cf027ee865
+  recordings: [05ccf815-8525-433f-8e05-801f664f12a1, 0e83bfc6-58f8-48fd-81b9-e44067be31e9, 5be4badb-a9c9-45f7-a2da-1ee915ecfb5f,
+    7176a04e-77c6-4fff-a26c-a60c0bbcc159, 746c2e65-cee9-433b-b7f5-c7ad75fb4d5a, 9c1b3b2f-ac2b-4d88-8c10-25d2474351e4,
+    d074804f-6e35-4a45-9e62-e4a4d58c6f9c]

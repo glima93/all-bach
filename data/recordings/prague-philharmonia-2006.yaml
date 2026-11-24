@@ -1,0 +1,34 @@
+id: prague-philharmonia-2006
+performers:
+- name: Prague Philharmonia
+  role: orchestra
+- name: Hyunah Yu
+  role: soprano
+- name: Shuntaro Sato
+  role: conductor
+- name: Pražská komorní filharmonie
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2006]
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XLVIII. Recitativo (Soprano) "Er hat uns allen wohlgetan"',
+    'Teil II, XLIX. Aria (Soprano) "Aus Liebe will mein Heiland sterben"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f702243-d399-4d64-9228-f336a0720e89
+  title: 'Bach, Mozart: Arias'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ee5f17c2-2067-4c2d-b2f5-14719d889014
+  recordings: [3817537b-8793-4351-ad2d-5fe772e1f46f]

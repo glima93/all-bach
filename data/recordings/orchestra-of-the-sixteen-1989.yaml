@@ -1,0 +1,44 @@
+id: orchestra-of-the-sixteen-1989
+performers:
+- name: Orchestra of The Sixteen
+  role: orchestra
+- name: The Sixteen Choir
+  role: choir
+- name: Harry Christophers
+  role: conductor
+- name: Ian Partridge
+  role: tenor
+- name: Michael George
+  role: performer
+- name: David Wilson‐Johnson
+  role: bass
+- name: Patrizia Kwella
+  role: performer
+- name: David James
+  role: alto
+- name: William Kendall
+  role: performer
+- name: The Sixteen
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: St John’s, Smith Square
+released: 1990
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b6b9c5e-3f75-4355-b8cc-34437f151fc6
+  title: Johannes Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f8140db5-f8fd-4bde-9ec2-87bcdd9893b8
+  recordings: [4e5a9d35-d930-4e06-8894-ebe11a2927ae, a17c684e-25b1-4ac7-bbb5-dd0d856c4d64, b5b9b813-14b3-470d-a003-6e445423b1c8]

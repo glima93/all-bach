@@ -1,0 +1,32 @@
+id: piia-komsi-undated
+performers:
+- name: Piia Komsi
+  role: soprano
+- name: Anna Aminoff
+  role: flute
+- name: Pertti Eerola
+  role: organ
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XLIX. Aria (Soprano) "Aus Liebe will mein Heiland sterben"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c9007908-4798-4284-b333-12e4edf2aaef
+  title: Solaris (Solace in Song)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5734164a-3b66-46e3-811b-7dece9030db3
+  recordings: [e38ba7f6-3d24-47f7-9a58-7894e77f5f53]

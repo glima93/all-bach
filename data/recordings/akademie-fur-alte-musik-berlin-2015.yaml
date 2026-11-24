@@ -1,0 +1,30 @@
+id: akademie-fur-alte-musik-berlin-2015
+performers:
+- name: Akademie für Alte Musik Berlin
+  role: orchestra
+- name: RIAS Kammerchor
+  role: choir
+- name: René Jacobs
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2015]
+  place: Teldex Studio
+released: 2016
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/786d2187-d00b-4e85-9551-931f18f1fc80
+  title: Johannes-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad1b876d-1f4a-4126-8965-7e35076b9962
+  recordings: [73cfc993-58e4-4f7d-8e21-a33cdf4de529]

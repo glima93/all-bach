@@ -1,0 +1,44 @@
+id: dominik-worner-undated
+performers:
+- name: Dominik Wörner
+  role: bass-baritone
+- name: Aki Noda-Meurice
+  role: organ
+- name: Yasunori Imamura
+  role: lute
+- name: Haralt Martens
+  role: violone
+- name: Zsuzsa Csige
+  role: transverse flute
+- name: Karl Kaiser
+  role: transverse flute
+- name: Christoph Hesse
+  role: viola d'amore
+- name: Johanna Weber
+  role: viola d'amore
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LVI. Recitativo (Basso) "Ja freilich will in uns das Fleisch
+      und Blut"', 'Teil II, LVII. Aria (Basso) "Komm, süßes Kreuz, so will ich sagen"']}
+- {bwv: '245', complete: false, movements: ['Teil II. No. 19 Arioso (Bass) "Betrachte, meine Seel"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8f08951d-3dd2-4194-bb11-c55ed3824494
+  title: Complete Works for Lute
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0746412-8d2f-4814-9aca-b6b0a2f2c1c2
+  recordings: [1a5583b8-b3e5-4a7b-975e-01f8c00a2d57, a132708f-1544-4cd2-a0c6-17e35d08cc04, a9f62732-aa95-4240-9bc7-2eef4c70b03f]

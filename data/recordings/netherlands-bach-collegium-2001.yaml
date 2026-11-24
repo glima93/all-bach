@@ -1,0 +1,40 @@
+id: netherlands-bach-collegium-2001
+performers:
+- name: Netherlands Bach Collegium
+  role: orchestra
+- name: Pieter Jan Leusink
+  role: conductor
+- name: Marcel Beekman
+  role: performer
+- name: Robbert Muuse
+  role: performer
+- name: Martinus Leusink
+  role: performer
+- name: Bas Ramselaar
+  role: performer
+- name: Sytse Buwalda
+  role: performer
+- name: Marjon Strijk
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: Sint-Nicolaaskerk
+released: 2001
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4793e561-0401-40b2-b5a2-f2d8362aeee1
+  title: Johannes Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a422d36-6a96-47fa-90c8-7a0a3413f3c7
+  recordings: [5b7ee6dd-e146-4083-9184-1f0e4cf376c3]

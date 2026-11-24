@@ -1,0 +1,76 @@
+id: orchestra-undated
+performers:
+- name: Orchestra
+  role: orchestra
+- name: Choirs of Radio Sofia
+  role: choir
+- name: Ivan Marinov
+  role: conductor
+- name: Sofia Radio Symphony Orchestra
+  role: orchestra
+- name: Chorus of Radio Sofia
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, II. Rezitativ (Evangelist, Jesus) "Da Jesus diese Rede vollendet hatte"', 'Teil I, IVa. "Da versammelten
+      sich die Hohenpriester" (Evangelista)', 'Teil I, V. Accompagnato-Rezitativ (Alt) "Du lieber Heiland du"',
+    'Teil I, VI. Arie (Alt) "Buß und Reu"', 'Teil I, VII. Rezitativ (Evangelist, Judas) "Da ging hin der Zwölfen
+      einer"', 'Teil I, VIII. Arie (Sopran) "Blute nur, du liebes Herz"', 'Teil I, IXa. "Aber am ersten Tage der
+      süssen Brot" (Evangelista)', 'Teil I, XI. Rezitativ (Evangelist, Jesus, Judas) "Er antwortete und sprach"',
+    'Teil I, XII. Accompagnato-Rezitativ (Sopran) "Wiewohl mein Herz in Tränen schwimmt"', 'Teil I, XIII. Arie (Sopran)
+      "Ich will dir mein Herze schenken"', 'Teil I, XIV. Rezitativ (Evangelist, Jesus) "Und da sie den Lobgesang
+      gesprochen hatten"', 'Teil I, XV. Choral "Erkenne mich, mein Hüter"', 'Teil I, XVI. Rezitativ (Evangelist,
+      Petrus, Jesus) "Petrus aber antwortete und sprach zu ihm"', 'Teil I, XVII. Choral "Ich will hier bei dir stehen"',
+    'Teil I, XVIII. Rezitativ (Evangelist, Jesus) "Da kam Jesus mit ihnen zu einem Hofe"', 'Teil I, XIX. Accompagnato-Rezitativ
+      (Tenor) und Choral (Chor II) "O Schmerz! Hier zittert das gequälte Herz"', 'Teil I, XX. Arie (Tenor) und Chor
+      II "Ich will bei meinen Jesu wachen"', 'Teil I, XXI. Rezitativ (Evangelist, Jesus) "Und ging hin ein wenig"',
+    'Teil I, XXII. Accompagnato-Rezitativ (Bass) "Der Heiland fällt vor seinem Vater nieder"', 'Teil I, XXIII. Arie
+      (Bass) "Gerne will ich mich bequemen"', 'Teil I, XXIV. Rezitativ (Evangelist, Jesus) "Und er kam zu seinen
+      Jüngern"', 'Teil I, XXVI. Rezitativ (Evangelist, Jesus) "Und er kam und fand sie aber schlafend"', 'Teil I,
+      XXVIIa. Arie (Sopran, Alt) und Chor "So ist mein Jesus nun gefangen"', 'Teil I, XXVIIb. "Sind Blitze, sind
+      Donner in Wolken verschwunden" (Chori)', 'Teil I, XXVIII. Rezitativ (Evangelist, Jesus) "Und siehe, einer
+      aus denen, die mit Jesu waren"', 'Teil I, XXIX. Choral "O Mensch, bewein dein Sünde groß"', 'Teil II, XXX.
+      Arie (Alt) und Chor "Ach! nun ist mein Jesus hin"', 'Teil II, XXXI. Rezitativ (Evangelist) "Die aber Jesum
+      gegriffen hatten"', 'Teil II, XXXIII. Rezitativ (Evangelist, 2 Zeugen, Hohepriester) "Und wiewohl viel falsche
+      Zeugen herzutraten"', 'Teil II, XXXIV. Accompagnato-Rezitativ (Tenor) "Mein Jesus schweigt zu falschen Lügen
+      stille"', 'Teil II, XXXVIa. "Und der Hohepriester antwortete" (Evangelista, Pontifex, Jesus)', 'Teil II, XXXVII.
+      Choral "Wer hat dich so geschlagen"', 'Teil II, XXXVIIIa. "Petrus aber saß draußen im Palast" (Evangelista,
+      Ancilla I & II, Petrus)', 'Teil II, XL. Choral "Bin ich gleich von dir gewichen"', 'Teil II, XLIa. "Des Morgens
+      aber hielten alle Hohepriester" (Evangelista, Judas)', 'Teil II, XLII. Aria (Basso) "Gebt mir meinen Jesum
+      wieder"', 'Teil II, XLIII. "Sie hielten aber einen Rat" (Evangelista, Pilatus, Jesus)', 'Teil II, XLVa. "Auf
+      das Fest aber hatte der Landpfleger Gewohnheit" (Evangelista, Pilatus, Uxor Pilati, Chori)', 'Teil II, XLVI.
+      Choral "Wie wunderbarlich ist doch diese Strafe"', 'Teil II, XLVII. "Der Landpfleger sagte" (Evangelista,
+      Pilatus)', 'Teil II, XLVIII. Recitativo (Soprano) "Er hat uns allen wohlgetan"', 'Teil II, XLIX. Aria (Soprano)
+      "Aus Liebe will mein Heiland sterben"', 'Teil II, La. "Sie schrieen aber noch mehr" (Evangelista)', 'Teil
+      II, LI. Recitativo (Alto) "Erbarm es Gott"', 'Teil II, LII. Aria (Alto) "Können Tränen meiner Wangen"', 'Teil
+      II, LIV. Choral "O Haupt voll Blut und Wunden"', 'Teil II, LVI. Recitativo (Basso) "Ja freilich will in uns
+      das Fleisch und Blut"', 'Teil II, LVII. Aria (Basso) "Komm, süßes Kreuz, so will ich sagen"', 'Teil II, LVIIIa.
+      "Und da sie an die Stätte kamen" (Evangelista)', 'Teil II, LX. Aria (Alto) "Sehet, Jesus hat die Hand", Coro
+      "Wohin?"', 'Teil II, LXIa. "Und von der sechsten Stunde an" (Evangelista, Jesus)', 'Teil II, LXII. Choral
+      "Wenn ich einmal soll scheiden"', 'Teil II, LXIIIa. "Und siehe da, der Vorhang im Tempel zerriß" (Evangelista)',
+    'Teil II, LXIV. Recitativo (Basso) "Am Abend, da es kühle war"', 'Teil II, LXV. Aria (Basso) "Mache dich, mein
+      Herze, rein"', 'Teil II, LXVIa. "Und Joseph nahm den Leib" (Evangelista)', 'Teil II, LXVII. Recitativo (Soprano,
+      Alto, Tenore, Basso) "Nun ist der Herr zur Ruh gebracht" - Coro "Mein Jesu, gute Nacht"', 'Teil II, LXVIII.
+      Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/08c62bac-feea-469e-b3d4-b390d281322d
+  title: Matthäus Passion BWV244
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85134cd6-1809-41b2-8fc8-5a96954f81d8
+  recordings: [13d96c1f-c988-4f62-abb4-b97cf89278f1, 25e56f9c-48a1-4eea-a274-2349adc35f9e]

@@ -1,0 +1,30 @@
+id: orchestre-de-chambre-de-pforzheim-1960
+performers:
+- name: Orchestre de Chambre de Pforzheim
+  role: orchestra
+- name: Fritz Werner
+  role: conductor
+- name: Südwestdeutsches Kammerorchester Pforzheim
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: Bartholomäuskirche
+released: null
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dabc2cf4-89c9-4592-a78b-81cd36830f80
+  title: Passion selon Saint-Jean
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7728bbd6-1fd8-4027-9203-1e480fb56dbe
+  recordings: [ead61f51-f33c-4cd9-b6ed-dd913792a89b]

@@ -1,0 +1,28 @@
+id: kammersveit-langholtskirkju-1987
+performers:
+- name: Kammersveit Langholtskirkju
+  role: orchestra
+- name: Jón Stefánsson
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1987]
+  place: Langholtskirkja
+released: 1987
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4a84cdba-bf22-49fc-b676-efeedfeb6063
+  title: Johannes-Passion BWV 245
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8dd35c5a-ddb1-4857-b2a8-13a7918bef2c
+  recordings: [b07e771a-6983-49be-a37c-57691239fda0]

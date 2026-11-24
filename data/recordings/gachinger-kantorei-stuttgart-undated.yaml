@@ -1,0 +1,43 @@
+id: gachinger-kantorei-stuttgart-undated
+performers:
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Ingeborg Danz
+  role: performer
+- name: Michael Schade
+  role: performer
+- name: Matthias Goerne
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XLIX. Aria (Soprano) "Aus Liebe will mein Heiland sterben"',
+    'Teil II, LIV. Choral "O Haupt voll Blut und Wunden"', 'Teil II, LIX. Recitativo (Alto) "Ach Golgotha"', 'Teil
+      II, LX. Aria (Alto) "Sehet, Jesus hat die Hand", Coro "Wohin?"', 'Teil II, LXIa. "Und von der sechsten Stunde
+      an" (Evangelista, Jesus)', 'Teil II, LXIb. "Der rufet dem Elias" (Chorus)', 'Teil II, LXIc. "Und bald lief
+      einer unter ihnen" (Evangelista)', 'Teil II, LXId. "Halt! Laß sehen" (Chorus)', 'Teil II, LXIe. "Aber Jesus
+      schriee abermal" (Evangelista)', 'Teil II, LXII. Choral "Wenn ich einmal soll scheiden"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c7439cba-9dde-4592-bc57-43d5cfa82ad3
+  title: Faszinierende Flöte
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [ca8e3b96-6281-4088-82e2-4c494a6d088d]

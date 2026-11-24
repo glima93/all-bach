@@ -1,0 +1,30 @@
+id: capella-istropolitana-undated-3
+performers:
+- name: Capella Istropolitana
+  role: orchestra
+- name: Richard Edlinger
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LIV. Choral "O Haupt voll Blut und Wunden"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7158287a-b98e-46fc-bfb2-0f25bc422dc8
+  title: Музыка Барокко. Фавориты Эпохи
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2e7119b5-a3a0-4d78-b8c8-55778f8b618c
+  recordings: [b398e0a7-83cc-4ac2-8159-280cbbe44f8b]

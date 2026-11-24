@@ -1,0 +1,31 @@
+id: orquesta-sinfonica-de-radio-television-espanola-2000-2
+performers:
+- name: Orquesta Sinfónica de Radio Televisión Española
+  role: orchestra
+- name: Coro de Radio Televisión Española
+  role: choir
+- name: Enrique García Asensio
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, LXVIII. Coro "Wir setzen uns mit Tränen nieder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e079c4c1-2c78-4168-b40f-08a17ccbf246
+  title: Clásicos populares V
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cc0b6db0-9a21-431f-8a9a-a52a9e4b00f9
+  recordings: [22455dee-fd77-4a6f-8cf2-dce5837e688f]

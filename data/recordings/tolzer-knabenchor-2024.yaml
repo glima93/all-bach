@@ -1,0 +1,42 @@
+id: tolzer-knabenchor-2024
+performers:
+- name: Tölzer Knabenchor
+  role: choir
+- name: Orchestre de l’Opéra Royal
+  role: orchestra
+- name: Linard Vrielink
+  role: tenor
+- name: Moritz Kallenberg
+  role: tenor
+- name: Nicolas Brooymans
+  role: bass
+- name: Halidou Nombre
+  role: bass-baritone
+- name: Gaétan Jarry
+  role: conductor
+- name: Anne Camillo
+  role: viola d'amore
+- name: Fiona-Émilie Poupard
+  role: viola d'amore
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2024]
+  place: Chapelle royale du château de Versailles
+released: 2026
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/867b20c7-b496-4716-b6a8-9d0f92a44b7d
+  title: Johannes‐Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 5d0be92a-f79e-4ea9-a61a-493b5573eece
+  recordings: [77f15ac8-c08d-4df7-87a3-94d25b048792]

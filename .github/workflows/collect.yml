@@ -11,6 +11,11 @@ on:
     branches: [main]
     paths: [data/plan/collections.yaml]
   workflow_dispatch:
+    inputs:
+      collection:
+        description: "Collect only this collection id, whatever its status (empty: every queued one)"
+        required: false
+        default: ""
 
 concurrency:
   group: musicbrainz           # MusicBrainz limits requests by IP: one collector at a time
@@ -37,7 +42,14 @@ jobs:
           key: mb-${{ github.run_id }}
           restore-keys: mb-
       - name: Collect
-        run: python scripts/collect_musicbrainz.py --queued --budget-minutes 320
+        env:
+          ONLY: ${{ github.event.inputs.collection }}
+        run: |
+          if [ -n "$ONLY" ]; then
+            python scripts/collect_musicbrainz.py --collection "$ONLY" --budget-minutes 320
+          else
+            python scripts/collect_musicbrainz.py --queued --budget-minutes 320
+          fi
       - uses: actions/cache/save@v4
         if: always()
         with:

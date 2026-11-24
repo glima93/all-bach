@@ -1,0 +1,43 @@
+id: bach-collegium-stuttgart-1996
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: Michael Schade
+  role: tenor
+- name: Matthias Goerne
+  role: bass
+- name: Ingeborg Danz
+  role: performer
+- name: Juliane Banse
+  role: performer
+- name: Andreas Schmidt
+  role: performer
+- name: James Taylor
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Stadthalle Sindelfingen
+released: 1999
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fc216143-717d-4724-a132-de679ca42799
+  title: St. John Passion, BWV 245
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [16ffd0eb-6317-4f2a-b33d-c2ff122d6d85, 5ba48289-adf5-4a65-b39e-4d10b3e24710, 7d914828-e6b1-49a6-8111-4f88f357dd5c,
+    f148fac8-b9a6-40bf-98a8-81f018a90b6e]

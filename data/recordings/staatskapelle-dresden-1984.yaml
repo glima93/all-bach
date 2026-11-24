@@ -1,0 +1,43 @@
+id: staatskapelle-dresden-1984
+performers:
+- name: Staatskapelle Dresden
+  role: orchestra
+- name: MDR Rundfunkchor Leipzig
+  role: choir
+- name: Dresdner Kapellknaben
+  role: choir
+- name: Peter Schreier
+  role: conductor
+- name: Marjana Lipovšek
+  role: performer
+- name: Eberhard Büchner
+  role: performer
+- name: Theo Adam
+  role: bass
+- name: Lucia Popp
+  role: performer
+- name: Robert Holl
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82fb86b9-101b-43c6-af4d-277ce6bae10f
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62250633-e888-49bb-ab9f-d6f14ef21012
+  recordings: [25ec670b-835f-4e76-9d3e-6955bf86bfcf, ee579208-33a3-453a-94ab-7eb3bcd76de7, f6571f70-3f59-4f6a-aff6-71e3a5148f04]

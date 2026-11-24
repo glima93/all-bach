@@ -1,0 +1,59 @@
+id: orchester-der-j-s-bach-stiftung-2012
+performers:
+- name: Orchester der J. S. Bach-Stiftung
+  role: orchestra
+- name: Chor der J. S. Bach-Stiftung
+  role: choir
+- name: Rudolf Lutz
+  role: conductor
+- name: Charles Daniels
+  role: tenor
+- name: Wolf Matthias Friedrich
+  role: performer
+- name: Margot Oitzinger
+  role: performer
+- name: Joanne Lunn
+  role: performer
+- name: Philippe Rayot
+  role: performer
+- name: Chasper Mani
+  role: performer
+- name: Valentin Parli
+  role: performer
+- name: Manuel Walser
+  role: performer
+- name: Peter Harvey
+  role: bass
+- name: Jan Börner
+  role: performer
+- name: Walter Siegel
+  role: performer
+- name: Mirjam Berli
+  role: performer
+- name: Susanne Frei
+  role: performer
+- name: Guro Hjemli
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2012]
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ba49c62e-1b17-4a16-8ca1-62a00532827f
+  title: Matthäuspassion, BWV 244
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7ec77a1b-c25e-4ef9-9f3e-8cc1e497bcaf
+  recordings: [0c89e91e-6c1a-4e66-8a58-cf595a0266ca, 818a74a4-8fb9-4c1f-b22a-0baaad9b8f0f]

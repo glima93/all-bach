@@ -1,0 +1,32 @@
+id: bach-collegium-stuttgart-1984
+performers:
+- name: Bach Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Gedächtniskirche Stuttgart
+released: 1985
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/37f37e3b-d7ed-467b-a715-be5df509e0e7
+  title: Johannes-Passion, BWV 245
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [021f6d5f-b51a-4e44-81ca-ab0fadfd0848]

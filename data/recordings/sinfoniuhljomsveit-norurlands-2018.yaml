@@ -1,0 +1,40 @@
+id: sinfoniuhljomsveit-norurlands-2018
+performers:
+- name: Sinfóníuhljómsveit Norðurlands
+  role: orchestra
+- name: Hörður Áskelsson
+  role: conductor
+- name: Elmar Gilbertsson
+  role: voice
+- name: Hildigunnur Einarsdóttir
+  role: voice
+- name: Kristinn Sigmundsson
+  role: bass
+- name: Hannah Morrison
+  role: soprano
+- name: Oddur Arnþór Jónsson
+  role: voice
+- name: Valdemar Villadsen
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018]
+  place: Hallgrímskirkja
+released: 2018
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6789d013-7d92-4e73-baeb-fcaea0e4bcf1
+  title: '2018-03-30: Hallgrímskirkja, Reykjavík, Iceland'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Live recording. Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 97edfc34-4682-4a18-8497-20b37dc3536c
+  recordings: [4c9be927-0a8e-4c06-8b4c-df7f5b030244]

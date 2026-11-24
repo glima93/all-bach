@@ -1,0 +1,30 @@
+id: philharmonia-orchestra-1950-2
+performers:
+- name: Philharmonia Orchestra
+  role: orchestra
+- name: Kirsten Flagstad
+  role: soprano
+- name: Walter Süsskind
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1950]
+  place: 'Abbey Road Studios: Studio 1'
+released: 2007
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f456b805-f42c-3848-8da4-21423086bb45
+  title: Dido and Aeneas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5610302e-bfd9-421c-80e2-03d790a0f5e5
+  recordings: [0b4dc51c-63b0-4f93-910b-3ea70b741363]

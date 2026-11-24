@@ -1,0 +1,31 @@
+id: musica-florea-1996-3
+performers:
+- name: Musica Florea
+  role: orchestra
+- name: Magdalena Kožená
+  role: mezzo-soprano
+- name: Marek Štryncl
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Concert Hall, Kromeriz
+released: 1997
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"']}
+- {bwv: '245', complete: false, movements: ['Teil II. No. 35 Aria (Sopran) "Zerfließe, mein Herze"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e40a543-fc04-4278-96a4-9a2e8cb1c5be
+  title: Bach Arias
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b8812130-8da9-4b13-a64e-a46f02ed2778
+  recordings: [79048411-4538-415e-ac19-65d585836ecc, d43e7adf-4abb-4c0d-a518-23bbb90f255f]

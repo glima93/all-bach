@@ -1,0 +1,47 @@
+id: hungarian-state-symphony-orchestra-1993
+performers:
+- name: Hungarian State Symphony Orchestra
+  role: orchestra
+- name: Géza Oberfrank
+  role: conductor
+- name: Ibolya Verebics
+  role: soprano
+- name: Hungarian Festival Chorus
+  role: choir
+- name: Children’s Choir of the Hungarian Radio
+  role: choir
+- name: Ágnes Mester
+  role: performer
+- name: János Reményi
+  role: performer
+- name: Péter Köves
+  role: bass
+- name: József Mukk
+  role: tenor
+- name: Németh Judit
+  role: alto
+- name: Nemzeti Filharmonikus Zenekar
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993]
+  place: Instituto Italiano di Cultura
+released: 1993
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3066b940-6b1f-4f77-9bbd-3ed944dea3ec
+  title: St. Matthew Passion (Highlights)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 3447ebe5-5a59-4773-aa41-9cd351510c24
+  recordings: [782198bf-8381-4c2a-9c39-0007c60fb2e5, 85a47189-89ee-44cf-b277-fb9502841124, b841d937-37e6-49d7-becb-40a56a84c6ec,
+    c83daed4-3920-46cb-8bbc-92f9203b0fe7, f71d54ad-8698-430c-9a2f-5e4cb4f2ccba]

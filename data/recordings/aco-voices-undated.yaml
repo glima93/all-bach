@@ -1,0 +1,32 @@
+id: aco-voices-undated
+performers:
+- name: ACO Voices
+  role: choir
+- name: Australian Chamber Orchestra
+  role: orchestra
+- name: Richard Tognetti
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil II. No. 40 Choral "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e28c3265-d90f-4ef4-9eb0-d0a9127c1af4
+  title: Celebrating 20 Years Together
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 519aa474-2554-4bb0-b1ff-a769ae9dd636
+  recordings: [47b9f42e-88fd-4d57-b519-1461e489bd42]

@@ -1,0 +1,32 @@
+id: the-choir-of-ormond-college-undated-2
+performers:
+- name: The Choir of Ormond College
+  role: choir
+- name: Douglas Lawrence
+  role: conductor
+- name: Ormond College Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/deb3b70a-195f-4e5d-a205-0c4454fa7a79
+  title: The Choir of Ormond College Live
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5210238d-d64c-45d7-8cfa-4e29ec47c1ef
+  recordings: [aae7920a-acce-45fe-8fd4-67408d6e0fe5]

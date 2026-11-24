@@ -1,0 +1,32 @@
+id: yorkshire-baroque-soloists-undated-2
+performers:
+- name: Yorkshire Baroque Soloists
+  role: orchestra
+- name: Peter Harvey
+  role: baritone
+- name: Peter Seymour
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: National Centre for Early Music
+released: 2018
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil II, XXX. Arie (Alt) und Chor "Ach! nun ist mein Jesus hin"', 'Teil
+      II, LVII. Aria (Basso) "Komm, süßes Kreuz, so will ich sagen"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9bd56f18-8bff-40c5-9511-a1d58c68ef85
+  recordings: [cecd1bd7-fd12-40f5-9688-7db3091c2b84]

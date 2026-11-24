@@ -1,0 +1,47 @@
+id: sudwestdeutsches-kammerorchester-pforzheim-1958
+performers:
+- name: Südwestdeutsches Kammerorchester Pforzheim
+  role: orchestra
+- name: Heinrich-Schütz-Chor Heilbronn
+  role: choir
+- name: Jean‐Pierre Rampal
+  role: flute
+- name: Fritz Werner
+  role: conductor
+- name: Agnes Giebel
+  role: performer
+- name: Renate Günther
+  role: alto
+- name: Hermann Werdermann
+  role: performer
+- name: Helmut Krebs
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958]
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
+      I, V. Accompagnato-Rezitativ (Alt) "Du lieber Heiland du"', 'Teil I, VI. Arie (Alt) "Buß und Reu"', 'Teil
+      I, XXVIIa. Arie (Sopran, Alt) und Chor "So ist mein Jesus nun gefangen"', 'Teil I, XXVIIb. "Sind Blitze, sind
+      Donner in Wolken verschwunden" (Chori)', 'Teil I, XXIX. Choral "O Mensch, bewein dein Sünde groß"', 'Teil
+      II, XLIX. Aria (Soprano) "Aus Liebe will mein Heiland sterben"', 'Teil II, LVI. Recitativo (Basso) "Ja freilich
+      will in uns das Fleisch und Blut"', 'Teil II, LXVII. Recitativo (Soprano, Alto, Tenore, Basso) "Nun ist der
+      Herr zur Ruh gebracht" - Coro "Mein Jesu, gute Nacht"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a448ecc0-54b6-44e2-a003-62e4adb98edd
+  title: The Complete Erato Recordings Vol. 1 (1958 - 1963)
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7728bbd6-1fd8-4027-9203-1e480fb56dbe
+  recordings: [10118880-f431-4bdc-ad6c-5b45d9627a53, 88fede43-7ccb-4da9-b71a-7a9b9100d875]

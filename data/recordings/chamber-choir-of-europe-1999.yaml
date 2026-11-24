@@ -1,0 +1,42 @@
+id: chamber-choir-of-europe-1999
+performers:
+- name: Chamber Choir of Europe
+  role: choir
+- name: Nicol Matt
+  role: conductor
+- name: Freiburger Barockorchester
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '244', complete: false, movements: ['Teil I, III. Choral "Herzliebster Jesu, was hast du verbrochen"', 'Teil
+      I, X. Choral "Ich bin''s, ich sollte büßen"', 'Teil I, XV. Choral "Erkenne mich, mein Hüter"', 'Teil I, XXV.
+      Choral "Was mein Gott will, das g''scheh allzeit"', 'Teil II, XXXII. Choral "Mir hat die Welt trüglich gericht''"',
+    'Teil II, XXXVII. Choral "Wer hat dich so geschlagen"', 'Teil II, XL. Choral "Bin ich gleich von dir gewichen"',
+    'Teil II, XLVI. Choral "Wie wunderbarlich ist doch diese Strafe"', 'Teil II, LIV. Choral "O Haupt voll Blut
+      und Wunden"']}
+- {bwv: '245', complete: false, movements: [Teil I. No. 3 Choral "O große Lieb", 'Teil I. No. 5 Choral "Dein Will
+      gescheh, Herr Gott, zugleich"', Teil I. No. 11 Choral "Wer hat dich so geschlagen", 'Teil I. No. 14 Choral
+      "Petrus, der nicht denkt zurück"', 'Teil II. No. 15 Choral "Christus, der uns selig macht"', Teil II. No.
+      17 Choral "Ach großer König", 'Teil II. No. 22 Choral "Durch dein Gefängnis, Gottes Sohn"', Teil II. No. 26
+      Choral "In meines Herzens Grunde", '.1: Teil II. No. 28 Choral "Er nahm alles wohl in acht"', 'Teil II. No.
+      37 Choral "O hilf, Christe, Gottes Sohn"', 'Teil II. No. 40 Choral "Ach Herr, laß dein lieb Engelein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/209df44d-1205-4506-8536-0a0f467fb7e7
+  title: 'Bach Edition, Volume 23: Chorale / Chorales'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3550ab78-4fa4-465d-9cd1-fba1543a949d
+  recordings: [083f1d81-8ed7-41be-bf18-b6711b966288, ccd3dec4-b846-4379-8c80-bb66d5f8e46b]
