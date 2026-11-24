@@ -1,0 +1,429 @@
+{
+ "collection": "oratorios",
+ "collector": 8,
+ "taken": "2026-11-24",
+ "recordings": 4420,
+ "performances": 282,
+ "works": [
+  {
+   "bwv": "248",
+   "id": "2fc5f337-e5f6-41d0-9c91-95d42908f2ba",
+   "also": [],
+   "skipped": {
+    "86578044-9357-4fe0-b1d7-73d4985042ef": "arrangement of Weihnachts-Oratorium, BWV 248",
+    "84fa8e24-8957-4631-bdc6-7a14c0016e75": "arrangement of Weihnachts-Oratorium, BWV 248: Teil II, X. Sinfonia"
+   },
+   "candidates": [
+    {
+     "id": "2fc5f337-e5f6-41d0-9c91-95d42908f2ba",
+     "title": "Weihnachts-Oratorium, BWV 248"
+    },
+    {
+     "id": "86578044-9357-4fe0-b1d7-73d4985042ef",
+     "title": "Weihnachts-Oratorium, BWV 248"
+    },
+    {
+     "id": "84fa8e24-8957-4631-bdc6-7a14c0016e75",
+     "title": "Symphonie pastorale (Hirtenmusik aus dem Weihnachtsoratorium, BWV 248)"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Weihnachts-Oratorium, BWV 248",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "07472580-468d-3de2-bb69-8f5917c2e731",
+     "title": "Weihnachts‐Oratorium, BWV 248: Teil I, I. Coro „Jauchzet, frohlocket“"
+    },
+    {
+     "id": "bb073249-7ccc-352e-88dc-5683db273e4c",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil I, II. Recitativo „Es begab sich aber zu der Zeit“ (Evangelista)"
+    },
+    {
+     "id": "ba7387a8-6f90-3030-88f5-bfbdcf8cb76f",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil I, III. Recitativo (Alto) „Nun wird mein liebster Bräutigam“"
+    },
+    {
+     "id": "65463cd5-f6cc-3ec0-89ea-94c8d5192f2e",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil I, IV. Aria (Alto) „Bereite dich, Zion“"
+    },
+    {
+     "id": "89bc1959-05c0-3a28-ae2f-f84529ee3e47",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil I, V. Choral „Wie soll ich dich empfangen“"
+    },
+    {
+     "id": "22c4142b-b363-3545-b34a-bbdc2253568d",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil I, VI. Recitativo „Und sie gebar ihren ersten Sohn“ (Evangelista)"
+    },
+    {
+     "id": "6601e95f-7909-47d3-ba84-46efd7b0ea73",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil I, VII. Choral (Soprano) con Recitativo (Basso) „Er ist auf Erden kommen arm“"
+    },
+    {
+     "id": "9d92892b-3e96-34a6-a944-6e0b9ee74ae8",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil I, VIII. Aria (Basso) „Großer Herr, o starker König“"
+    },
+    {
+     "id": "247727a1-655b-354b-831c-3b009fc8d7d2",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil I, IX. Choral „Ach mein herzliebes Jesulein“"
+    },
+    {
+     "id": "bd0cf9fe-f1b5-3ee3-bed8-6143b9c81260",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, X. Sinfonia"
+    },
+    {
+     "id": "05435a9d-07e3-3642-a30a-1d187de86b35",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XI. Recitativo „Und es waren Hirten in derselben Gegend“ (Evangelista)"
+    },
+    {
+     "id": "f9fdf85a-ec9b-3b51-ba7c-be778bca12d3",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XII. Choral „Brich an, o schönes Morgenlicht“"
+    },
+    {
+     "id": "43f39a53-06b3-4cdb-837e-b46d875bd5ec",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XIII. Recitativo „Und der Engel sprach zu ihnen“ (Evangelista, Angelus)"
+    },
+    {
+     "id": "927f8f81-766d-3bfd-97c5-4dc02ce8222a",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XIV. Recitativo (Basso) „Was Gott dem Abraham verheißen“"
+    },
+    {
+     "id": "6e20143e-491d-343e-8110-2d01a8a18dc7",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XV. Aria (Tenore) „Frohe Hirten, eilt, ach eilet“"
+    },
+    {
+     "id": "a1f8aa44-0613-36f0-9b4b-9faf191fc3c8",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XVI. Recitativo „Und das habt zum Zeichen“ (Evangelista)"
+    },
+    {
+     "id": "bbf424e3-e55e-31c1-ac5b-a0978c1b11ea",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XVII. Choral „Schaut hin, dort liegt im finstern Stall“"
+    },
+    {
+     "id": "43e6b5b0-d964-31cf-8329-424b0f8911af",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XVIII. Recitativo (Basso) „So geht denn hin“"
+    },
+    {
+     "id": "0f65a501-1343-3357-b369-b2d9f3a77a7e",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XIX. Aria (Alto) „Schlafe, mein Liebster“"
+    },
+    {
+     "id": "d0670af2-ab4c-31d3-8294-2f5c523b04cb",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XX. Recitativo „Und alsobald war da bei dem Engel“ (Evangelista)"
+    },
+    {
+     "id": "87638b13-f50a-3aed-8319-08a9b33ab4a8",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XXI. Coro „Ehre sei Gott in der Höhe“"
+    },
+    {
+     "id": "d3743f17-2306-3c6a-9447-fb6c2631087e",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XXII. Recitativo (Basso) „So recht, ihr Engel“"
+    },
+    {
+     "id": "f2cc9bcd-5ae6-3dca-b83b-c85c5d0b042d",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil II, XXIII. Choral „Wir singen dir in deinem Heer“"
+    },
+    {
+     "id": "abf0bcd5-3b3a-3f66-a51d-d9b0a2d009c0",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXIV. Coro „Herrscher des Himmels, erhöre das Lallen“"
+    },
+    {
+     "id": "b574e856-79b8-4bd7-a2cd-59750638e24e",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXV. Recitativo „Und da die Engel“ (Evangelista)"
+    },
+    {
+     "id": "c0961ffb-53ee-35c9-92d3-13db66bcb528",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXVI. Coro „Lasset uns nun gehen“"
+    },
+    {
+     "id": "4c856b60-c526-31bc-89bc-57fd58b3d45b",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXVII. Recitativo (Basso) „Er hat sein Volk getröst“"
+    },
+    {
+     "id": "7d30d84f-6427-34bb-ae48-8c4b58306325",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXVIII. Choral „Dies hat er alles uns getan“"
+    },
+    {
+     "id": "007a9198-d59b-3b8f-a5bd-a4613e2d5fa1",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXIX. Aria duetto (Soprano, Basso) „Herr, dein Mitleid“"
+    },
+    {
+     "id": "9a3a2325-d651-3d56-aaa8-ff00872d6bb1",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXX. Recitativo „Und sie kamen eilend“ (Evangelista)"
+    },
+    {
+     "id": "7a4c26c5-1c78-3679-985c-f4bc474dceab",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXXI. Aria (Alto) „Schließe, mein Herze“"
+    },
+    {
+     "id": "f8eb34eb-654c-3024-9372-df8c6149a731",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXXII. Recitativo (Alto) „Ja, ja, mein Herz soll es bewahren“"
+    },
+    {
+     "id": "ad4f30fd-3b2f-357e-8327-258fe85c5ca4",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXXIII. Choral „Ich will dich mit Fleiß bewahren“"
+    },
+    {
+     "id": "dabf40b2-ba20-3aeb-98ea-e2888d95891a",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXXIV. Recitativo „Und die Hirten kehrten wieder um“ (Evangelista)"
+    },
+    {
+     "id": "36da65ff-d439-3be4-ac46-1dd6b7964f98",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXXV. Choral \"Seid froh dieweil\""
+    },
+    {
+     "id": "b06d0964-4771-3536-991c-bba1d554dcbf",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil III, XXIV (da capo). Coro da capo „Herrscher des Himmels, erhöre das Lallen“"
+    },
+    {
+     "id": "36332bfe-027e-373e-88fd-373d3e0bd7ef",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil IV, XXXVI. Coro „Fallt mit Danken, fallt mit Loben“"
+    },
+    {
+     "id": "529809c0-f81f-3c12-bd8d-3dac461a6329",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil IV, XXXVII. Recitativo „Und da acht Tage um waren“ (Evangelista)"
+    },
+    {
+     "id": "b7390018-f591-3063-ae56-709d92fe75af",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil IV, XXXVIII. Recitativo (Basso) con Chorale (Soprano) „Immanuel, o süßes Wort“"
+    },
+    {
+     "id": "a70da700-6e85-398e-b289-3ff5c3eca5ee",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil IV, XXXIX. (Soprano) „Flößt, mein Heiland, flößt dein Namen“"
+    },
+    {
+     "id": "2794fa76-da1e-41a9-b029-fd708244fe4c",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil IV, XL. Recitativo (Basso) con Chorale (Soprano) „Wohlan, dein Name soll allein“"
+    },
+    {
+     "id": "a3284bc2-8003-3e1b-90b8-b8451e7aec35",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil IV, XLI. Aria (Tenore) „Ich will nur dir zu Ehren leben“"
+    },
+    {
+     "id": "6adff70b-d38b-323e-a037-c301a8059471",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil IV, XLII. Choral „Jesus richte mein Beginnen“"
+    },
+    {
+     "id": "a71c1058-70dc-321f-b937-b27f24f3a3ca",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil V, XLIII. Coro „Ehre sei dir, Gott, gesungen“"
+    },
+    {
+     "id": "da96fafe-ac76-3bb4-9211-91261555ee18",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil V, XLIV. Recitativo „Da Jesus geboren war zu Bethlehem“ (Evangelista)"
+    },
+    {
+     "id": "1ff6dde0-8fd8-3d72-849b-b09a6d6cac79",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil V, XLV. Coro e Recitativo (Alto) „Wo ist der neugeborne König“"
+    },
+    {
+     "id": "b214b27c-1216-3e91-9ab2-7a9f6dc18248",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil V, XLVI. Choral „Dein Glanz all Finsternis verzehrt“"
+    },
+    {
+     "id": "5bf6ae31-b484-39e7-9f12-ee6cafc146b8",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil V, XLVII. Aria (Basso) „Erleucht auch meine finstre Sinnen“"
+    },
+    {
+     "id": "3753e527-7347-32b9-9ec3-b7b1312e6c30",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil V, XLVIII. Recitativo „Da das der König Herodes hörte“ (Evangelista)"
+    },
+    {
+     "id": "0b37c500-2fe9-363c-85d6-619265aec54f",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil V, XLIX. Recitativo (Alto) „Warum wollt ihr erschrecken“"
+    },
+    {
+     "id": "bd15cb00-79c9-3105-8253-dbcd809e7ab3",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil V, L. Recitativo „Und ließ versammeln alle Hohepriester“ (Evangelista)"
+    },
+    {
+     "id": "cbeb999e-862c-4077-b16c-1b1afcee61ae",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil V, LI. Aria Terzetto (Soprano, Alto, Tenore) „Ach, wenn wird die Zeit erscheinen“"
+    },
+    {
+     "id": "a7a8ae46-04c5-3959-b8ed-e5a9c32492cd",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil V, LII. Recitativo (Alto) „Mein Liebster herrschet schon“"
+    },
+    {
+     "id": "2d4a4569-2673-330d-b059-2e6305df1350",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil V, LIII. Choral „Zwar ist solche Herzensstube“"
+    },
+    {
+     "id": "e66b12d5-bc9a-3859-924c-1aec1c66fc28",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil VI, LIV. Coro „Herr, wenn die stolzen Feinde schnauben“"
+    },
+    {
+     "id": "d8791eea-7093-3c17-a093-b28b32290794",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil VI, LV. Recitativo „Da berief Herodes die Weisen heimlich“ (Evangelista)"
+    },
+    {
+     "id": "35243269-fe02-4406-a7c2-903b8a4b3022",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil VI, LVI. Recitativo (Soprano) „Du Falscher, suche nur den Herrn zu fällen“"
+    },
+    {
+     "id": "fe3e5e11-188a-3a82-ad80-13b744f665c5",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil VI, LVII. Aria (Soprano) „Nur ein Wink von seinen Händen“"
+    },
+    {
+     "id": "a9777aea-0b0c-3214-9bec-e7daff1cac37",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil VI, LVIII. Recitativo „Als sie nun den König gehöret hatten“ (Evangelista)"
+    },
+    {
+     "id": "8b412eaf-f804-335d-8c2f-23f0515036bd",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil VI, LIX. Choral „Ich steh an deiner Krippen hier“"
+    },
+    {
+     "id": "8455059b-9595-37e0-a6f9-302f7d07bb03",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil VI, LX. Recitativo „Und Gott befahl ihnen im Traum“ (Evangelista)"
+    },
+    {
+     "id": "8d453f0e-54f0-34c9-abfc-0bd4becf69cd",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil VI, LXI. Recitativo (Tenore) „So geht! Genug, mein Schatz geht nicht von hier“"
+    },
+    {
+     "id": "651900a1-2185-3a6f-8bd4-5dee8d5c36ba",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil VI, LXII. Aria (Tenore) „Nun mögt ihr stolzen Feinde schrecken“"
+    },
+    {
+     "id": "2ad4a15c-10ce-466c-95c9-c6863c6ad3a8",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil VI, LXIII. Recitativo (Soprano, Alto, Tenore, Basso) „Was will der Höllen Schrecken nun“"
+    },
+    {
+     "id": "f11b1160-0073-3f2f-b38d-d3c45e0b9bfc",
+     "title": "Weihnachts-Oratorium, BWV 248: Teil VI, LXIV. Choral „Nun seid ihr wohl gerochen“"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "249",
+   "id": "aa43fb56-f149-4a44-85f1-ea4cca667da0",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "aa43fb56-f149-4a44-85f1-ea4cca667da0",
+     "title": "Oster-Oratorium, BWV 249"
+    },
+    {
+     "id": "66349fc8-925e-4093-a645-63d56ef096a4",
+     "title": "Concerto for 3 trumpets, timpani, 3 oboes, bassoon, strings & continuo in D major (after BWV 249), BWV deest"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Oster-Oratorium, BWV 249",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "756ca8c1-3dff-3f95-9989-15daabc647d3",
+     "title": "Oster-Oratorium, BWV 249: I. Sinfonia"
+    },
+    {
+     "id": "5a7467cb-eadc-3d66-8617-ea9689c096de",
+     "title": "Oster-Oratorium, BWV 249: II. Adagio"
+    },
+    {
+     "id": "9c06cb30-6011-37b9-8938-ea9ba1c725c5",
+     "title": "Oster-Oratorium, BWV 249: III. Coro \"Kommt, eilet und laufet\""
+    },
+    {
+     "id": "4726a1d4-7b99-36b3-846c-75babc3103fc",
+     "title": "Oster-Oratorium, BWV 249: IV. Recitativo (Sopran, Alt, Tenor, Bass) \"O kalter Männer Sinn\""
+    },
+    {
+     "id": "af34cc19-a29e-3ccd-9568-c758285a310b",
+     "title": "Oster-Oratorium, BWV 249: V. Aria (Sopran) \"Seele, deine Spezereien\""
+    },
+    {
+     "id": "af8d724c-8541-3fd1-8a8a-e250a36f652f",
+     "title": "Oster-Oratorium, BWV 249: VI. Recitativo (Alt, Tenor, Bass) \"Hier ist die Gruft\""
+    },
+    {
+     "id": "d3f19f3a-2c39-3dda-99c4-dc83ab40ac37",
+     "title": "Oster-Oratorium, BWV 249: VII. Aria (Tenor) \"Sanfte soll mein Todeskummer\""
+    },
+    {
+     "id": "4aa86021-d070-351f-ba3d-5c7ed0e004b5",
+     "title": "Oster-Oratorium, BWV 249: VIII. Recitativo (Sopran, Alt) \"Indessen seufzen wir\""
+    },
+    {
+     "id": "8128474a-0ac0-335f-b855-ac8967bc4ee8",
+     "title": "Oster-Oratorium, BWV 249: IX. Aria (Alt) \"Saget, saget mir geschwinde\""
+    },
+    {
+     "id": "3f85eb07-7ab6-3710-af23-66a555263489",
+     "title": "Oster-Oratorium, BWV 249: X. Recitativo (Bass) \"Wir sind erfreut\""
+    },
+    {
+     "id": "750a8397-7c4c-3f2e-b510-c054026953f7",
+     "title": "Oster-Oratorium, BWV 249: XI. Coro \"Preis und Dank\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "11",
+   "id": "47bf994c-212e-4fe9-989c-b79316ec334f",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "47bf994c-212e-4fe9-989c-b79316ec334f",
+     "title": "Himmelfahrts-Oratorium, BWV 11"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Himmelfahrts-Oratorium, BWV 11",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "2b963881-0b36-3de8-b7ea-c99bc2e0f563",
+     "title": "Himmelfahrts-Oratorium, BWV 11: I. Coro \"Lobet Gott in seinen Reichen\""
+    },
+    {
+     "id": "66e59985-1d5a-3b94-aba7-24075782071b",
+     "title": "Himmelfahrts-Oratorium, BWV 11: II. \"Der Herr Jesu hub seine Hände auf\" (Evangelista)"
+    },
+    {
+     "id": "6f1949b7-f474-3283-b4b5-5167544dd31b",
+     "title": "Himmelfahrts-Oratorium, BWV 11: III. Recitativo (Bass) \"Ach, Jesu, ist dein Abschied schon so nah\""
+    },
+    {
+     "id": "0a7fa7ee-fa4c-3a5f-8bf4-a5aa37b7d915",
+     "title": "Himmelfahrts-Oratorium, BWV 11: IV. Aria (Alt) \"Ach bleibe doch, mein liebstes Leben\""
+    },
+    {
+     "id": "68b64b69-f751-36e1-8ffb-c73c2a4371b4",
+     "title": "Himmelfahrts-Oratorium, BWV 11: V. \"Und ward aufgehoben zusehends\" (Evangelista)"
+    },
+    {
+     "id": "280dade5-dd09-35e3-a640-73b44e39b0ec",
+     "title": "Himmelfahrts-Oratorium, BWV 11: VI. Choral \"Nun lieget alles unter dir\""
+    },
+    {
+     "id": "150392c7-888d-38d2-9613-8f6f7ef68511",
+     "title": "Himmelfahrts-Oratorium, BWV 11: VII. \"Und da sie ihm nachsahen\" (Evangelista)"
+    },
+    {
+     "id": "10d82210-75bf-4cd8-bcf8-c54f6fddfd2b",
+     "title": "Himmelfahrts-Oratorium, BWV 11: VIII. Recitativo (Alto) \"Ach ja! so komme bald zurück\""
+    },
+    {
+     "id": "2a8f0697-1100-4872-80f7-0ff2b1da8850",
+     "title": "Himmelfahrts-Oratorium, BWV 11: IX. \"Sie aber beteten ihn an\" (Evangelista)"
+    },
+    {
+     "id": "a89ecc37-20f3-3da9-af78-5aee999e0a56",
+     "title": "Himmelfahrts-Oratorium, BWV 11: X. Aria (Sopran) \"Jesu, deine Gnadenblicke\""
+    },
+    {
+     "id": "5518c8ae-7154-396f-a768-30c541e11301",
+     "title": "Himmelfahrts-Oratorium, BWV 11: XI. Choral \"Wenn soll es doch geschehen\""
+    }
+   ],
+   "sections": []
+  }
+ ]
+}

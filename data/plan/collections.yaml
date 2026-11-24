@@ -82,7 +82,7 @@ collections:
    note: "243a is the E-flat version with Christmas interpolations"}
 - {id: passions, title: "Passions", chapter: Passions and Oratorios, bwv: ["244-247"], mode: vocal, wave: 2, run: 23, status: imported,
    note: "246 St Luke is spurious; 247 St Mark is lost (reconstructions get their own entries if MusicBrainz has them)"}
-- {id: oratorios, title: "Oratorios", chapter: Passions and Oratorios, bwv: ["248", "249", "11"], mode: vocal, wave: 2, run: 24, status: queued,
+- {id: oratorios, title: "Oratorios", chapter: Passions and Oratorios, bwv: ["248", "249", "11"], mode: vocal, wave: 2, run: 24, status: collected,
    note: "Christmas (248, six parts), Easter (249) and Ascension (11) Oratorios"}
 - {id: motets, title: "Motets", chapter: Motets, bwv: ["225-231", "118"], mode: vocal, wave: 2, run: 25, status: todo,
    note: "118 sits in the cantata numbers but is a motet in all but name; 231 is a reworking of a movement of cantata 28"}
