@@ -4,10 +4,10 @@ performers:
   role: orchestra
 - name: Ferdinand Grossmann
   role: conductor
-- name: Mogens Wöldike
-  role: choir
 - name: Wiener Kammerchor
   role: choir
+- name: Mogens Wöldike
+  role: performer
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false

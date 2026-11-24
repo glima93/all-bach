@@ -7,7 +7,7 @@ performers:
 - name: Freiburger Barockorchester
   role: orchestra
 instrument: voices-and-instruments
-performance_practice: unknown
+performance_practice: historical
 arrangement: false
 recorded:
   years: [1999]
@@ -39,4 +39,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 3550ab78-4fa4-465d-9cd1-fba1543a949d
-  recordings: [ccd3dec4-b846-4379-8c80-bb66d5f8e46b]
+  recordings: [083f1d81-8ed7-41be-bf18-b6711b966288, ccd3dec4-b846-4379-8c80-bb66d5f8e46b]

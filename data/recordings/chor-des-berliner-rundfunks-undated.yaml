@@ -4,22 +4,14 @@ performers:
   role: choir
 - name: Orchester des Berliner Rundfunks
   role: orchestra
-- name: Das Kleine Konzert
-  role: orchestra
 - name: Dietrich Knothe
   role: conductor
-- name: Hermann Max
-  role: conductor
-- name: Ralf Popken
-  role: tenor
-- name: Martina Lins
-  role: performer
-- name: Rundfunk‐Sinfonieorchester Berlin
-  role: orchestra
 - name: Berliner Rundfunk Sinfonie Chor
   role: choir
+- name: Rundfunk‐Sinfonieorchester Berlin
+  role: orchestra
 instrument: voices-and-instruments
-performance_practice: historical
+performance_practice: unknown
 arrangement: false
 recorded:
   years: []
@@ -30,8 +22,6 @@ works:
 - {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
       I, III. Choral "Herzliebster Jesu, was hast du verbrochen"', 'Teil I, XXV. Choral "Was mein Gott will, das
       g''scheh allzeit"', 'Teil II, LXII. Choral "Wenn ich einmal soll scheiden"']}
-- {bwv: '245', complete: false, movements: [Teil I. No. 7 Aria (Alt) "Von den Stricken meiner Sünden", Teil II.
-      No. 30 Aria (Alt) "Es ist vollbracht!", 'Teil II. No. 35 Aria (Sopran) "Zerfließe, mein Herze"']}
 links:
 - platform: musicbrainz
   kind: release
@@ -46,4 +36,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 17b79dab-c8cf-47f6-bcfc-5d6c9a5c9a8b
-  recordings: [93d398f7-2f08-42c2-90ec-924e8f1f99ab, e9f5d459-486e-4237-8257-96585339aa98]
+  recordings: [93d398f7-2f08-42c2-90ec-924e8f1f99ab]

@@ -2,25 +2,37 @@ id: akademie-fur-alte-musik-berlin-2012
 performers:
 - name: Akademie für Alte Musik Berlin
   role: orchestra
-- name: Knaben des Staats‐ und Domchores Berlin
-  role: choir
 - name: RIAS Kammerchor
+  role: choir
+- name: Staats‐ und Domchor Berlin
   role: choir
 - name: René Jacobs
   role: conductor
-- name: Werner Güra
-  role: tenor
-- name: Johannes Weisser
-  role: bass
+- name: Werner Güra,
+  role: performer
 - name: Konstantin Wolff
   role: performer
+- name: Johannes Weisser
+  role: bass
 - name: Bernarda Fink
+  role: alto
+- name: Arttu Kataja
   role: performer
 - name: Sunhae Im
   role: performer
-- name: Arttu Kataja
+- name: Ingolf Horenburg Seidel
+  role: performer
+- name: Andrew Redmond
   role: performer
 - name: Johannes Schendel
+  role: performer
+- name: Topi Lehtipuu
+  role: performer
+- name: Ulrike Bartsch
+  role: performer
+- name: Katharina Hohlfeld
+  role: performer
+- name: Anja Petersen
   role: performer
 - name: Marie‐Claude Chappuis
   role: performer
@@ -28,16 +40,10 @@ performers:
   role: performer
 - name: Christina Roterberg
   role: performer
-- name: Andrew Redmond
-  role: performer
 - name: Jakob Huppmann
   role: performer
 - name: Christian Mücke
   role: performer
-- name: Ingolf Horenburg
-  role: performer
-- name: Staats‐ und Domchor Berlin
-  role: choir
 instrument: voices-and-instruments
 performance_practice: historical
 arrangement: false
@@ -47,37 +53,7 @@ recorded:
 released: 2013
 original_label: null
 works:
-- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
-      I, II. Rezitativ (Evangelist, Jesus) "Da Jesus diese Rede vollendet hatte"', 'Teil I, IVa. "Da versammelten
-      sich die Hohenpriester" (Evangelista)', 'Teil I, IVb. Cori "Ja nicht auf das Fest"', 'Teil I, IVc. "Da nun
-      Jesus war zu Bethanien" (Evangelista)', 'Teil I, IVd. Coro "Wozu dienet dieser Unrat"', 'Teil I, IVe. "Da
-      das Jesus merkete" (Evangelista, Jesus)', 'Teil I, V. Accompagnato-Rezitativ (Alt) "Du lieber Heiland du"',
-    'Teil I, VI. Arie (Alt) "Buß und Reu"', 'Teil I, VII. Rezitativ (Evangelist, Judas) "Da ging hin der Zwölfen
-      einer"', 'Teil I, VIII. Arie (Sopran) "Blute nur, du liebes Herz"', 'Teil I, XI. Rezitativ (Evangelist, Jesus,
-      Judas) "Er antwortete und sprach"', 'Teil I, XII. Accompagnato-Rezitativ (Sopran) "Wiewohl mein Herz in Tränen
-      schwimmt"', 'Teil I, XIII. Arie (Sopran) "Ich will dir mein Herze schenken"', 'Teil I, XIV. Rezitativ (Evangelist,
-      Jesus) "Und da sie den Lobgesang gesprochen hatten"', 'Teil I, XV. Choral "Erkenne mich, mein Hüter"', 'Teil
-      I, XVI. Rezitativ (Evangelist, Petrus, Jesus) "Petrus aber antwortete und sprach zu ihm"', 'Teil I, XVIII.
-      Rezitativ (Evangelist, Jesus) "Da kam Jesus mit ihnen zu einem Hofe"', 'Teil I, XXI. Rezitativ (Evangelist,
-      Jesus) "Und ging hin ein wenig"', 'Teil I, XXII. Accompagnato-Rezitativ (Bass) "Der Heiland fällt vor seinem
-      Vater nieder"', 'Teil I, XXIII. Arie (Bass) "Gerne will ich mich bequemen"', 'Teil I, XXIV. Rezitativ (Evangelist,
-      Jesus) "Und er kam zu seinen Jüngern"', 'Teil I, XXV. Choral "Was mein Gott will, das g''scheh allzeit"',
-    'Teil I, XXVI. Rezitativ (Evangelist, Jesus) "Und er kam und fand sie aber schlafend"', 'Teil I, XXVIII. Rezitativ
-      (Evangelist, Jesus) "Und siehe, einer aus denen, die mit Jesu waren"', 'Teil II, XXXI. Rezitativ (Evangelist)
-      "Die aber Jesum gegriffen hatten"', 'Teil II, XXXIII. Rezitativ (Evangelist, 2 Zeugen, Hohepriester) "Und
-      wiewohl viel falsche Zeugen herzutraten"', 'Teil II, XXXIV. Accompagnato-Rezitativ (Tenor) "Mein Jesus schweigt
-      zu falschen Lügen stille"', 'Teil II, XXXV. Arie (Tenor) "Geduld! Wenn mich falsche Zungen stechen"', 'Teil
-      II, XXXVII. Choral "Wer hat dich so geschlagen"', 'Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"',
-    'Teil II, XLII. Aria (Basso) "Gebt mir meinen Jesum wieder"', 'Teil II, XLIII. "Sie hielten aber einen Rat"
-      (Evangelista, Pilatus, Jesus)', 'Teil II, XLIV. Choral "Befiehl du deine Wege"', 'Teil II, XLVII. "Der Landpfleger
-      sagte" (Evangelista, Pilatus)', 'Teil II, XLVIII. Recitativo (Soprano) "Er hat uns allen wohlgetan"', 'Teil
-      II, XLIX. Aria (Soprano) "Aus Liebe will mein Heiland sterben"', 'Teil II, LI. Recitativo (Alto) "Erbarm es
-      Gott"', 'Teil II, LII. Aria (Alto) "Können Tränen meiner Wangen"', 'Teil II, LIV. Choral "O Haupt voll Blut
-      und Wunden"', 'Teil II, LV. "Und da sie ihn verspottet hatten" (Evangelista)', 'Teil II, LVI. Recitativo (Basso)
-      "Ja freilich will in uns das Fleisch und Blut"', 'Teil II, LVII. Aria (Basso) "Komm, süßes Kreuz, so will
-      ich sagen"', 'Teil II, LIX. Recitativo (Alto) "Ach Golgotha"', 'Teil II, LXIV. Recitativo (Basso) "Am Abend,
-      da es kühle war"', 'Teil II, LXV. Aria (Basso) "Mache dich, mein Herze, rein"', 'Teil II, LXVIII. Coro "Wir
-      setzen uns mit Tränen nieder"']}
+- {bwv: '244', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -89,4 +65,5 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: ad1b876d-1f4a-4126-8965-7e35076b9962
-  recordings: [5fd64e4e-0856-40d5-9de5-f60f57a51ed1, c7b95177-9404-4d98-ad49-9576adb73e90, e1097170-34ac-435c-bd41-4215c5eecd91]
+  recordings: [10f9c87a-e54f-4756-bcc6-479cf24a203b, 5fd64e4e-0856-40d5-9de5-f60f57a51ed1, 7b9393b1-9ba3-463a-9259-64f2d4ee73b7,
+    c7b95177-9404-4d98-ad49-9576adb73e90, e1097170-34ac-435c-bd41-4215c5eecd91]

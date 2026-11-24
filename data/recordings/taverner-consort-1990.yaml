@@ -8,8 +8,10 @@ performers:
   role: choir
 - name: Andrew Parrott
   role: conductor
-- name: Caroline Trevor
-  role: alto
+- name: Rogers Covey‐Crump
+  role: performer
+- name: David Thomas
+  role: performer
 instrument: voices-and-instruments
 performance_practice: historical
 arrangement: false
@@ -71,4 +73,4 @@ notes: null
 musicbrainz:
   artist: 8d37a750-4b6f-4aa9-aefa-796edc82eb31
   recordings: [304e0f30-dd05-443d-982c-8463f5ff1295, 677490f9-5a56-4ce6-902c-d80b5d767913, 7cf56d04-a5d8-44f3-bf87-28085021ab63,
-    9eb7b6c9-8ff4-4740-b444-02b71e7bc498, f09f221a-a8eb-46cf-9a43-61accae6f752]
+    9bdcb6fe-e1c5-4fb2-a28e-4ee10154b627, 9eb7b6c9-8ff4-4740-b444-02b71e7bc498, f09f221a-a8eb-46cf-9a43-61accae6f752]

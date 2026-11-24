@@ -6,6 +6,8 @@ performers:
   role: choir
 - name: Wiener Sängerknaben
   role: choir
+- name: Wiener Singverein
+  role: choir
 - name: Wilhelm Furtwängler
   role: conductor
 - name: Anton Dermota
@@ -18,12 +20,12 @@ performers:
   role: performer
 - name: Marga Höffgen
   role: performer
+- name: Hans Gillesberger
+  role: performer
 - name: Anton Heiller
   role: harpsichord
 - name: Franz Schütz
   role: organ
-- name: Hans Gillesberger
-  role: performer
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false
@@ -96,4 +98,5 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: d770374d-05e9-4ed3-a068-3fbd4e6e4dd6
-  recordings: [1bf10bf0-0896-4fae-8755-c3da711a7df5, 2e470cd4-46e7-48c5-a933-587b42ebc8cc, b8850d97-d3e9-45dd-b68d-5458be88b54a]
+  recordings: [1bf10bf0-0896-4fae-8755-c3da711a7df5, 2e470cd4-46e7-48c5-a933-587b42ebc8cc, 7ae6d400-efb8-43b3-800a-fc2109c28311,
+    9111ddcc-8af8-4a34-a8bf-b4568dcb79e1, b8850d97-d3e9-45dd-b68d-5458be88b54a]

@@ -6,6 +6,10 @@ performers:
   role: orchestra
 - name: Kenneth Dowley
   role: conductor
+- name: Westminister Choir
+  role: voice
+- name: Westminister Orchestra
+  role: orchestra
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false
@@ -29,4 +33,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 0d671b3d-7899-45fc-ae15-3d58fdf89220
-  recordings: [ec46fe4a-3468-4b2b-a758-9f32d5b524b5]
+  recordings: [9bc98f66-a673-462c-b68e-340d36b0e48e, ec46fe4a-3468-4b2b-a758-9f32d5b524b5]

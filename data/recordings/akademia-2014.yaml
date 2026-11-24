@@ -5,7 +5,7 @@ performers:
 - name: Françoise Lasserre
   role: conductor
 instrument: voices-and-instruments
-performance_practice: unknown
+performance_practice: historical
 arrangement: false
 recorded:
   years: [2014]
@@ -40,4 +40,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: e680d7a9-8adc-4fbf-9400-1abbc12b4537
-  recordings: [dd7253be-2191-4ae0-a60e-099ea70abd6f]
+  recordings: [30ce6553-a793-41c7-ad54-4183fbfccee4, dd7253be-2191-4ae0-a60e-099ea70abd6f]

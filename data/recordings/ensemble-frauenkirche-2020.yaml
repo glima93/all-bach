@@ -1,0 +1,50 @@
+id: ensemble-frauenkirche-2020
+performers:
+- name: Ensemble Frauenkirche
+  role: orchestra
+- name: Kammerchor der Frauenkirche Dresden
+  role: choir
+- name: Matthias Grünert
+  role: conductor
+- name: Tilman Lichdi
+  role: tenor
+- name: Thomas Laske
+  role: performer
+- name: Philipp Meierhöfer
+  role: bass
+- name: Britta Schwarz
+  role: performer
+- name: Catalina Bertucci
+  role: performer
+- name: Sebastian Noack
+  role: performer
+- name: Wolfram Lattke
+  role: performer
+- name: Tobias Hunger
+  role: performer
+- name: Geneviève Tschumi
+  role: performer
+- name: Hanna Zumsande
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2020]
+  place: Frauenkirche Dresden
+released: 2021
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dc169844-c534-4fc7-9f7d-66565e46a644
+  title: Matthäus-Passion, BWV 244
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3392fb9d-df95-4fc5-9c80-7498bdbc59b2
+  recordings: [1190624b-8a0d-4d12-bb92-ba5ded356403, 1dcb574c-827e-4b8e-b0e8-28fe315c4059]

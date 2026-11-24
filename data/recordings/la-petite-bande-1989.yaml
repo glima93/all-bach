@@ -1,0 +1,39 @@
+id: la-petite-bande-1989
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Tölzer Knabenchor
+  role: choir
+- name: Gustav Leonhardt
+  role: conductor
+- name: Christoph Prégardien
+  role: performer
+- name: René Jacobs
+  role: contralto
+- name: Gerhard Schmidt‐Gaden
+  role: performer
+- name: Klaus Mertens
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: Doopsgezinde kerk
+released: 1990
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b40d1ae-9b7e-4b8f-8cc4-a72c966565fb
+  title: Matthäus-Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [34d57b83-2787-4a6b-8c2a-1c5c54bb681c, a36dc532-da1a-4c38-a813-b56b5e9c0c61, a65937c7-d8c4-47f1-8992-2df2e8cbd38f,
+    fac6a29c-5245-4eb0-907b-efa581019fb1]

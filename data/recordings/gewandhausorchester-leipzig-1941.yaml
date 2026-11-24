@@ -2,13 +2,7 @@ id: gewandhausorchester-leipzig-1941
 performers:
 - name: Gewandhausorchester Leipzig
   role: orchestra
-- name: RCA Victor Symphony Orchestra
-  role: orchestra
 - name: Günther Ramin
-  role: conductor
-- name: Marian Anderson
-  role: alto
-- name: Charles O’Connell
   role: conductor
 - name: Thomanerchor Leipzig
   role: choir
@@ -64,7 +58,6 @@ works:
       "Und Joseph nahm den Leib" (Evangelista)', 'Teil II, LXVII. Recitativo (Soprano, Alto, Tenore, Basso) "Nun
       ist der Herr zur Ruh gebracht" - Coro "Mein Jesu, gute Nacht"', 'Teil II, LXVIII. Coro "Wir setzen uns mit
       Tränen nieder"']}
-- {bwv: '245', complete: false, movements: [Teil II. No. 30 Aria (Alt) "Es ist vollbracht!"]}
 links:
 - platform: musicbrainz
   kind: release
@@ -76,4 +69,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: c51f9557-009f-420b-a933-47889780aad3
-  recordings: [19c22cb1-6e21-4668-a6c7-77e3d983c32b, 98d34d2b-9529-4db1-b3c5-c83d073e2aa5]
+  recordings: [19c22cb1-6e21-4668-a6c7-77e3d983c32b]

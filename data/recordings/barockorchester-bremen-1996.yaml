@@ -13,7 +13,9 @@ performers:
 - name: Christiane Iven
   role: performer
 - name: Harry Van Berne
-  role: performer
+  role: tenor
+- name: Alsfelder Vokalensemble
+  role: choir
 - name: Barockorchester Antico Bremen
   role: orchestra
 instrument: voices-and-instruments
@@ -25,23 +27,7 @@ recorded:
 released: 1997
 original_label: null
 works:
-- {bwv: '246', complete: false, movements: [2. Recitative "Es was aber nahe das Fest des süßen Brot'" (Evangelist),
-    4. Recitative "Und sie wurden froh" (Evangelist), '6. Recitative "Und er versprach es, und suchte Gelegenheit"
-      (Evangelist)', '8. Recitative "Es kam nun der Tag des süßen Brot''" (Evangelist, Jesus, Chor der Jünger Jesu)',
-    '10. Recitative "Und er wird euch einen großen gepflasterten Saal zeigen" (Jesus, Evangelist)', '12. Recitative
-      "Denn ich sage euch" (Jesus, Evangelist)', '13. Aria (Soprano) "Dein Leib, das Manna meiner Seele"', '14.
-      Recitative "Desselbigen gleichen auch den Kelch" (Evangelist, Jesus)', 15. Aria (Alto) "Du giebst mir Blut",
-    '16. Recitative "Doch siehe, die Hand meines Verräters" (Jesus, Evangelist)', '18. Recitative "Es erhub sich
-      auch ein Zank unter ihnen" (Evangelist, Jesus)', 20. Recitative "Und ich will euch das Reich bescheiden" (Jesus),
-    '22. Recitative "Der Herr aber sprach" (Evangelist, Jesus, Petrus)', '24. Recitative "Da sprach er zu ihnen"
-      (Evangelist, Jesus)', '26. Recitative "Er aber sprach zu ihnen" (Evangelist, Jesus)', '28. Recitative "Und
-      er riß sich von ihnen bei einem Steinwurf" (Evangelist, Jesus)', 30. Recitative "Es erschien ihm aber ein
-      Engel vom Himmel" (Evangelist), '32. Recitative "Und er stund auf von dem Gebet" (Evangelist, Jesus)', '34.
-      Recitative "Da er aber noch redet''" (Evangelist, Jesus)', '36. Recitative "Da aber sahen, die um ihn waren"
-      (Evangelist)', '38. Recitative "Und einer aus ihnen schlug des Hohenpriesters Knecht" (Evangelist, Jesus)',
-    '40. Recitative "Jesus aber sprach zu den Hohenpriestern" (Evangelist, Jesus)', '42. Recitative "Da zündeten
-      sie ein Feuer an" (Evangelist, erste Magd, Petrus, zweite Magd, Knecht)', 44. Recitative "Und Petrus gedachte
-      an des Herren Wort" (Evangelist), 45. Aria (Tenor) "Den Fels hat Moses' Stab geschlagen"]}
+- {bwv: '246', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -53,4 +39,5 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: db1847d1-b2d9-4350-9801-4b83a43da091
-  recordings: [76a50b7f-d984-4050-bc4b-fafee1d7eae2]
+  recordings: [26b49203-f385-46d4-9c7b-65132f114a4d, 76a50b7f-d984-4050-bc4b-fafee1d7eae2, 7af69be7-368e-4ba1-ab90-48c67319632d,
+    a6a97998-fe49-48cb-9503-a4e4c716e4c3]

@@ -4,6 +4,8 @@ performers:
   role: orchestra
 - name: Chorale des Jeunesses Musicales de France
   role: choir
+- name: Jeunesses Musicales Hungary Egyesület
+  role: choir
 - name: Frigyes Sándor
   role: conductor
 - name: Zeger Vandersteene
@@ -54,4 +56,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 1a935ca0-550a-4922-b480-c6dcfe3a2350
-  recordings: [4562a1e2-5acd-474d-a44a-03c7029072b8, ae514574-7099-49b6-aeb8-f0ef97eb63c3]
+  recordings: [4562a1e2-5acd-474d-a44a-03c7029072b8, 74040d0d-2422-4348-a6d7-6bfdbada5077, ae514574-7099-49b6-aeb8-f0ef97eb63c3]

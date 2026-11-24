@@ -1,0 +1,44 @@
+id: gewandhausorchester-leipzig-2007-2
+performers:
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Thomanerchor
+  role: choir
+- name: Georg Christoph Biller
+  role: conductor
+- name: Marcus Ullmann
+  role: tenor
+- name: Gotthold Schwarz
+  role: bass
+- name: Henryk Böhm
+  role: performer
+- name: Günther Ramin
+  role: performer
+- name: Ruth Holton
+  role: performer
+- name: Matthias Rexroth
+  role: performer
+- name: Thomanerchor Leipzig
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: Thomaskirche
+released: 2007
+original_label: null
+works:
+- {bwv: '245', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d4ca9979-56b5-4f12-a492-d93c8170ce89
+  title: Johannes-Passion BWV 245
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [c4f03161-def8-4fc4-b05b-4453b4b9eba5, d3654123-4fc7-4194-8704-910f39895d75]

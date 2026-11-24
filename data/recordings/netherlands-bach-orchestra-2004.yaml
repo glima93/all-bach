@@ -1,0 +1,42 @@
+id: netherlands-bach-orchestra-2004
+performers:
+- name: Netherlands Bach Orchestra
+  role: ensemble
+- name: Holland Boys Choir
+  role: choir
+- name: Pieter Jan Leusink
+  role: conductor
+- name: Robert Luts
+  role: tenor
+- name: Sytse Buwalda
+  role: performer
+- name: Martinus Leusink
+  role: performer
+- name: Orlanda Velez Isidro
+  role: performer
+- name: Henk van Heijnsbergen
+  role: bass
+- name: Han de Vries
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2004]
+  place: Sint-Eusebiuskerk
+released: 2005
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/69440d27-96f2-4d80-a6bc-1387a1b5bf3b
+  title: Matthäus Passion
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a422d36-6a96-47fa-90c8-7a0a3413f3c7
+  recordings: [447e85bb-3ed5-4925-9cc4-492c406b93d9, 59317d4b-9b26-4624-95e5-d236a10758de]

@@ -4,17 +4,11 @@ performers:
   role: choir
 - name: Bachorchester Mainz
   role: orchestra
+- name: Jan Čižmář
+  role: performer
 - name: Petra Morath-Pusinelli
   role: performer
 - name: Ralf Otto
-  role: performer
-- name: Jan Čižmář
-  role: performer
-- name: Hille Perl
-  role: performer
-- name: Joachim Held
-  role: performer
-- name: Sabine Bauer
   role: performer
 instrument: voices-and-instruments
 performance_practice: unknown
@@ -22,11 +16,10 @@ arrangement: false
 recorded:
   years: []
   place: null
-released: 2018
+released: 2025
 original_label: null
 works:
 - {bwv: '244', complete: false, movements: ['Teil II, LIV. Choral "O Haupt voll Blut und Wunden"']}
-- {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"']}
 links:
 - platform: musicbrainz
   kind: release
@@ -35,6 +28,7 @@ links:
 status: draft
 help_wanted:
 - Recording year
+- Check whether this is the same performance as another entry by this performer
 - Recording place
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null

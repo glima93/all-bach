@@ -6,17 +6,28 @@ performers:
   role: soprano
 - name: Philippe Herreweghe
   role: conductor
+- name: Ian Bostridge
+  role: tenor
+- name: Franz-Josef Selig
+  role: bass
+- name: Andreas Scholl
+  role: alto
+- name: Dietrich Henschel
+  role: bass
+- name: Sibylla Rubens
+  role: soprano
+- name: Werner Güra
+  role: tenor
 instrument: voices-and-instruments
 performance_practice: historical
 arrangement: false
 recorded:
   years: [1998]
-  place: Grande Salle
+  place: Grande Salle; Arsenal de Metz
 released: 1999
 original_label: null
 works:
-- {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
-      I, XXIX. Choral "O Mensch, bewein dein Sünde groß"']}
+- {bwv: '244', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -28,4 +39,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 95790653-fbba-495b-8701-c857a815880d
-  recordings: [15ca3a6e-eb90-42ac-b2fe-e4cbc82203f0]
+  recordings: [15ca3a6e-eb90-42ac-b2fe-e4cbc82203f0, 245681bb-2364-4e35-8464-efaaa5b7e8be, 801e3c92-04ab-4232-bfd3-00c5b8f06ee4]

@@ -8,23 +8,13 @@ performers:
   role: conductor
 - name: Martin Petzold
   role: tenor
-- name: Marcus Ullmann
-  role: performer
-- name: Gotthold Schwarz
-  role: performer
 - name: Matthias Weichert
   role: bass
 - name: Britta Schwarz
   role: performer
-- name: Henryk Böhm
-  role: performer
 - name: Ute Selbig
   role: performer
 - name: Thomas Laske
-  role: performer
-- name: Ruth Holton
-  role: performer
-- name: Matthias Rexroth
   role: performer
 - name: Thomanerchor Leipzig
   role: choir
@@ -32,7 +22,7 @@ instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false
 recorded:
-  years: [2006, 2007]
+  years: [2006]
   place: Thomaskirche
 released: 2006
 original_label: null
@@ -101,7 +91,6 @@ works:
       II, LXVIc. "Pilatus sprach zu ihnen" (Evangelista, Pilatus)', 'Teil II, LXVII. Recitativo (Soprano, Alto,
       Tenore, Basso) "Nun ist der Herr zur Ruh gebracht" - Coro "Mein Jesu, gute Nacht"', 'Teil II, LXVIII. Coro
       "Wir setzen uns mit Tränen nieder"']}
-- {bwv: '245', complete: true}
 links:
 - platform: musicbrainz
   kind: release

@@ -2,9 +2,9 @@ id: concentus-musicus-wien-1970-2
 performers:
 - name: Concentus Musicus Wien
   role: orchestra
-- name: Männerstimmen des King's College Choir, Cambridge (Alt, Tenor, Bass)
+- name: Choir of King’s College, Cambridge
   role: choir
-- name: Knabenstimmen des Regensburger Domchors
+- name: Regensburger Domchor
   role: choir
 - name: Nikolaus Harnoncourt
   role: conductor
@@ -26,6 +26,8 @@ performers:
   role: conductor
 - name: Tom Sutcliffe
   role: performer
+- name: Regensburger Domspatzen
+  role: choir
 instrument: voices-and-instruments
 performance_practice: historical
 arrangement: false
@@ -47,4 +49,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 9b891046-35af-4eb0-a058-eba4c9b8d01f
-  recordings: [8002bf7a-ebb7-4f3d-9f50-50ad3862d6af, f16d4cc3-19aa-4ea0-8fa1-ef31327da1a6]
+  recordings: [75818960-ca5a-44a2-92ae-ace3e7983329, 8002bf7a-ebb7-4f3d-9f50-50ad3862d6af, f16d4cc3-19aa-4ea0-8fa1-ef31327da1a6]

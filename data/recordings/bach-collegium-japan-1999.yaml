@@ -1,0 +1,32 @@
+id: bach-collegium-japan-1999
+performers:
+- name: Bach Collegium Japan
+  role: orchestra
+- name: Masaaki Suzuki
+  role: performer
+- name: 鈴木雅明
+  role: conductor
+- name: Bach Collegium Japan Chorus
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: 神戸松蔭女子学院大学チャペル
+released: 1999
+original_label: null
+works:
+- {bwv: '244', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/76350c7f-1008-44c7-b10f-ba8c26599f78
+  title: Matthäus-Passion, BWV 244
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [d7d59b22-0a0d-41b1-94cf-888e2c1cb6cd]

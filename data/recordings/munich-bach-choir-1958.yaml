@@ -2,19 +2,55 @@ id: munich-bach-choir-1958
 performers:
 - name: Munich Bach Choir
   role: choir
-- name: Münchener Chorknaben
-  role: soprano
-- name: Munich Bach Orchestra
-  role: orchestra
-- name: Karl Richter
-  role: conductor
-- name: Fritz Rothschuh
-  role: performer
-- name: Hedwig Bilgram
-  role: organ
 - name: Münchener Bach‐Orchester
   role: orchestra
+- name: Münchener Chorknaben
+  role: soprano
+- name: Solistengemeinschaft der Bachwoche
+  role: ensemble
+- name: Munich Boys Choir
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Ernst Haefliger
+  role: tenor
+- name: Kieth Engen
+  role: bass
+- name: Dietrich Fischer‐Dieskau
+  role: baritone
+- name: Hertha Töpper
+  role: mezzo-soprano
+- name: Irmgard Seefried
+  role: soprano
+- name: Hedwig Bilgram
+  role: organ
+- name: Max Proebstl
+  role: bass
+- name: Otto Büchner
+  role: violin
+- name: Wolfgang Haag
+  role: transverse flute
+- name: Kurt Hausmann
+  role: oboe d'amore
+- name: Karl Kolbinger
+  role: bassoon
+- name: Franz Ortner
+  role: double bass
+- name: Edgar Shann
+  role: oboe
+- name: Walther Theurer
+  role: transverse flute
+- name: Ekkehard Tietze
+  role: organ
+- name: Oswald Uhl
+  role: viola da gamba
+- name: Fritz Rothschuh
+  role: performer
+- name: Antonia Fahberg
+  role: soprano
 - name: Münchener Bach‐Chor
+  role: choir
+- name: Münchner Knabenchor
   role: choir
 instrument: voices-and-instruments
 performance_practice: unknown
@@ -26,16 +62,80 @@ released: 1977
 original_label: null
 works:
 - {bwv: '244', complete: false, movements: ['Teil I, I. Chor I & II "Kommt, ihr Töchter, helft mir klagen"', 'Teil
-      I, XXIX. Choral "O Mensch, bewein dein Sünde groß"', 'Teil II, XXXII. Choral "Mir hat die Welt trüglich gericht''"']}
+      I, II. Rezitativ (Evangelist, Jesus) "Da Jesus diese Rede vollendet hatte"', 'Teil I, III. Choral "Herzliebster
+      Jesu, was hast du verbrochen"', 'Teil I, IVa. "Da versammelten sich die Hohenpriester" (Evangelista)', 'Teil
+      I, IVb. Cori "Ja nicht auf das Fest"', 'Teil I, IVc. "Da nun Jesus war zu Bethanien" (Evangelista)', 'Teil
+      I, IVd. Coro "Wozu dienet dieser Unrat"', 'Teil I, IVe. "Da das Jesus merkete" (Evangelista, Jesus)', 'Teil
+      I, V. Accompagnato-Rezitativ (Alt) "Du lieber Heiland du"', 'Teil I, VI. Arie (Alt) "Buß und Reu"', 'Teil
+      I, VII. Rezitativ (Evangelist, Judas) "Da ging hin der Zwölfen einer"', 'Teil I, VIII. Arie (Sopran) "Blute
+      nur, du liebes Herz"', 'Teil I, IXa. "Aber am ersten Tage der süssen Brot" (Evangelista)', 'Teil I, IXb. Coro
+      "Wo willst du, dass wir dir bereiten"', 'Teil I, IXc. "Er sprach: Gehet hin in die Stadt" (Evangelista, Jesus)',
+    'Teil I, IXd. "Und sie wurden sehr betrübt" (Evangelista)', 'Teil I, IXe. Coro "Herr, bin ichs"', 'Teil I, X.
+      Choral "Ich bin''s, ich sollte büßen"', 'Teil I, XI. Rezitativ (Evangelist, Jesus, Judas) "Er antwortete und
+      sprach"', 'Teil I, XII. Accompagnato-Rezitativ (Sopran) "Wiewohl mein Herz in Tränen schwimmt"', 'Teil I,
+      XIII. Arie (Sopran) "Ich will dir mein Herze schenken"', 'Teil I, XIV. Rezitativ (Evangelist, Jesus) "Und
+      da sie den Lobgesang gesprochen hatten"', 'Teil I, XV. Choral "Erkenne mich, mein Hüter"', 'Teil I, XVI. Rezitativ
+      (Evangelist, Petrus, Jesus) "Petrus aber antwortete und sprach zu ihm"', 'Teil I, XVII. Choral "Ich will hier
+      bei dir stehen"', 'Teil I, XVIII. Rezitativ (Evangelist, Jesus) "Da kam Jesus mit ihnen zu einem Hofe"', 'Teil
+      I, XIX. Accompagnato-Rezitativ (Tenor) und Choral (Chor II) "O Schmerz! Hier zittert das gequälte Herz"',
+    'Teil I, XX. Arie (Tenor) und Chor II "Ich will bei meinen Jesu wachen"', 'Teil I, XXI. Rezitativ (Evangelist,
+      Jesus) "Und ging hin ein wenig"', 'Teil I, XXII. Accompagnato-Rezitativ (Bass) "Der Heiland fällt vor seinem
+      Vater nieder"', 'Teil I, XXIII. Arie (Bass) "Gerne will ich mich bequemen"', 'Teil I, XXIV. Rezitativ (Evangelist,
+      Jesus) "Und er kam zu seinen Jüngern"', 'Teil I, XXV. Choral "Was mein Gott will, das g''scheh allzeit"',
+    'Teil I, XXVI. Rezitativ (Evangelist, Jesus) "Und er kam und fand sie aber schlafend"', 'Teil I, XXVIIa. Arie
+      (Sopran, Alt) und Chor "So ist mein Jesus nun gefangen"', 'Teil I, XXVIIb. "Sind Blitze, sind Donner in Wolken
+      verschwunden" (Chori)', 'Teil I, XXVIII. Rezitativ (Evangelist, Jesus) "Und siehe, einer aus denen, die mit
+      Jesu waren"', 'Teil I, XXIX. Choral "O Mensch, bewein dein Sünde groß"', 'Teil II, XXX. Arie (Alt) und Chor
+      "Ach! nun ist mein Jesus hin"', 'Teil II, XXXI. Rezitativ (Evangelist) "Die aber Jesum gegriffen hatten"',
+    'Teil II, XXXII. Choral "Mir hat die Welt trüglich gericht''"', 'Teil II, XXXIII. Rezitativ (Evangelist, 2 Zeugen,
+      Hohepriester) "Und wiewohl viel falsche Zeugen herzutraten"', 'Teil II, XXXIV. Accompagnato-Rezitativ (Tenor)
+      "Mein Jesus schweigt zu falschen Lügen stille"', 'Teil II, XXXV. Arie (Tenor) "Geduld! Wenn mich falsche Zungen
+      stechen"', 'Teil II, XXXVIa. "Und der Hohepriester antwortete" (Evangelista, Pontifex, Jesus)', 'Teil II,
+      XXXVIb. "Er ist des Todes schuldig" (Chori)', 'Teil II, XXXVIc. "Da speieten sie aus" (Evangelista)', 'Teil
+      II, XXXVId. "Weissage uns, Christe" (Chori)', 'Teil II, XXXVII. Choral "Wer hat dich so geschlagen"', 'Teil
+      II, XXXVIIIa. "Petrus aber saß draußen im Palast" (Evangelista, Ancilla I & II, Petrus)', 'Teil II, XXXVIIIb.
+      "Wahrlich, du bist auch einer von denen" (Chorus)', 'Teil II, XXXVIIIc. "Da hub er an, sich zu verfluchen"
+      (Evangelista, Petrus)', 'Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein Gott"', 'Teil II, XL. Choral "Bin
+      ich gleich von dir gewichen"', 'Teil II, XLIa. "Des Morgens aber hielten alle Hohepriester" (Evangelista,
+      Judas)', 'Teil II, XLIb. "Was gehet uns das an" (Chori)', 'Teil II, XLIc. "Und er warf die Silberlinge in
+      den Tempel" (Evangelista, Pontifex I & II)', 'Teil II, XLII. Aria (Basso) "Gebt mir meinen Jesum wieder"',
+    'Teil II, XLIII. "Sie hielten aber einen Rat" (Evangelista, Pilatus, Jesus)', 'Teil II, XLIV. Choral "Befiehl
+      du deine Wege"', 'Teil II, XLVa. "Auf das Fest aber hatte der Landpfleger Gewohnheit" (Evangelista, Pilatus,
+      Uxor Pilati, Chori)', 'Teil II, XLVb. "Laß ihn kreuzigen" (Chori)', 'Teil II, XLVI. Choral "Wie wunderbarlich
+      ist doch diese Strafe"', 'Teil II, XLVII. "Der Landpfleger sagte" (Evangelista, Pilatus)', 'Teil II, XLVIII.
+      Recitativo (Soprano) "Er hat uns allen wohlgetan"', 'Teil II, XLIX. Aria (Soprano) "Aus Liebe will mein Heiland
+      sterben"', 'Teil II, La. "Sie schrieen aber noch mehr" (Evangelista)', 'Teil II, Lb. "Laß ihn kreuzigen" (Chori)',
+    'Teil II, Lc. "Da aber Pilatus sahe" (Evangelista, Pilatus)', 'Teil II, Ld. "Sein Blut komme über uns" (Chori)',
+    'Teil II, Le. "Da gab er ihnen Barrabam los" (Evangelista)', 'Teil II, LI. Recitativo (Alto) "Erbarm es Gott"',
+    'Teil II, LII. Aria (Alto) "Können Tränen meiner Wangen"', 'Teil II, LIIIa. "Da nahmen die Kriegsknechte" (Evangelista)',
+    'Teil II, LIIIb. "Gegrüßet seist du, Jüdenkönig" (Chori)', 'Teil II, LIIIc. "Und speieten ihn an" (Evangelista)',
+    'Teil II, LIV. Choral "O Haupt voll Blut und Wunden"', 'Teil II, LV. "Und da sie ihn verspottet hatten" (Evangelista)',
+    'Teil II, LVI. Recitativo (Basso) "Ja freilich will in uns das Fleisch und Blut"', 'Teil II, LVII. Aria (Basso)
+      "Komm, süßes Kreuz, so will ich sagen"', 'Teil II, LVIIIa. "Und da sie an die Stätte kamen" (Evangelista)',
+    'Teil II, LVIIIb. "Der du den Tempel Gottes zerbrichst" (Chori)', 'Teil II, LVIIIc. "Desgleichen auch die Hohenpriester"
+      (Evangelista)', 'Teil II, LVIIId. "Andern hat er geholfen" (Chori)', 'Teil II, LVIIIe. "Desgleichen schmäheten
+      ihn auch die Mörder" (Evangelista)', 'Teil II, LIX. Recitativo (Alto) "Ach Golgotha"', 'Teil II, LX. Aria
+      (Alto) "Sehet, Jesus hat die Hand", Coro "Wohin?"', 'Teil II, LXIa. "Und von der sechsten Stunde an" (Evangelista,
+      Jesus)', 'Teil II, LXII. Choral "Wenn ich einmal soll scheiden"', 'Teil II, LXIIIa. "Und siehe da, der Vorhang
+      im Tempel zerriß" (Evangelista)', 'Teil II, LXIIIb. "Wahrlich, dieser ist Gottes Sohn gewesen" (Chori in unisono)',
+    'Teil II, LXIIIc. "Und es waren viel Weiber da" (Evangelista)', 'Teil II, LXIV. Recitativo (Basso) "Am Abend,
+      da es kühle war"', 'Teil II, LXV. Aria (Basso) "Mache dich, mein Herze, rein"', 'Teil II, LXVIa. "Und Joseph
+      nahm den Leib" (Evangelista)', 'Teil II, LXVIb. "Herr, wir haben gedacht" (Chori)', 'Teil II, LXVIc. "Pilatus
+      sprach zu ihnen" (Evangelista, Pilatus)', 'Teil II, LXVII. Recitativo (Soprano, Alto, Tenore, Basso) "Nun
+      ist der Herr zur Ruh gebracht" - Coro "Mein Jesu, gute Nacht"', 'Teil II, LXVIII. Coro "Wir setzen uns mit
+      Tränen nieder"']}
 links:
 - platform: musicbrainz
   kind: release
-  url: https://musicbrainz.org/release/ffc387a1-e230-4fd4-940d-2a20174aff29
-  title: Coros y arias de "La Pasión según San Mateo"
+  url: https://musicbrainz.org/release/6996562e-94c4-425c-9716-4485ccdc73b1
+  title: 'J.S. Bach: Matthäus-Passion'
 status: draft
 help_wanted:
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:
   artist: 6257766f-1331-4a57-8009-763febe5dcc9
-  recordings: [480533e7-4e4a-4c03-95b0-72abb3ec3fa8]
+  recordings: [1b1bae98-b561-49e2-9fba-57cd48a705b7, 1bf3d8d9-cb99-4120-995a-b348fdf99b36, 480533e7-4e4a-4c03-95b0-72abb3ec3fa8,
+    5fb4eac7-001d-49f1-b205-70dd807fb899, 727312b4-96b0-4481-bcba-39514e4c1982, 8be3addc-67af-4668-84fe-b29c23b559c5,
+    ce9a2a1c-de24-473f-9f98-be99f7941b06, dd3b1b0a-e1ba-4f43-89a5-319aad3a1aa6, dff28e3f-4e9f-4b8a-84fc-b2a75b3b9711,
+    e8ffc24f-46e8-460b-9ed9-0f037580e250]

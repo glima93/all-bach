@@ -2,14 +2,14 @@ id: concentus-musicus-wien-2000
 performers:
 - name: Concentus Musicus Wien
   role: orchestra
-- name: Wiener Sängerknaben
-  role: choir
 - name: Arnold Schoenberg Chor
+  role: choir
+- name: Wiener Sängerknaben
   role: choir
 - name: Nikolaus Harnoncourt
   role: conductor
 - name: Bernarda Fink
-  role: performer
+  role: contralto
 - name: Dietrich Henschel
   role: performer
 - name: Norbert Balatsch
@@ -39,4 +39,5 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 9b891046-35af-4eb0-a058-eba4c9b8d01f
-  recordings: [2d889928-2385-4920-84a5-3d5c621ccc6d, 43b35906-4e33-4840-b14d-84fcc68f7e83]
+  recordings: [257e7dd2-0c75-4cf1-9779-af9de998603d, 2d889928-2385-4920-84a5-3d5c621ccc6d, 43b35906-4e33-4840-b14d-84fcc68f7e83,
+    55cd3815-4fe8-4282-96ed-9dcf5bb98e82]

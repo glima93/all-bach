@@ -14,12 +14,11 @@ instrument: voices-and-instruments
 performance_practice: historical
 arrangement: false
 recorded:
-  years: [1998, 1999]
+  years: [1998]
   place: 神戸松蔭女子学院大学チャペル
 released: 1999
 original_label: null
 works:
-- {bwv: '244', complete: true}
 - {bwv: '245', complete: false, movements: ['Teil I. No. 1 Chorus "Herr, unser Herrscher"', 'Teil I. No. 2a Recitativo
       "Jesus ging mit seinen Jüngern" (Evangelista, Jesus)', Teil I. No. 2b Coro "Jesum von Nazareth", 'Teil I,
       No. 2c Recitativo "Jesus spricht zu ihnen" (Evangelista, Jesus)', 'Teil I, No. 2d Coro "Jesum von Nazareth"',

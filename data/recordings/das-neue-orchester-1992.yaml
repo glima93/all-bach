@@ -5,9 +5,11 @@ performers:
 - name: Christoph Spering
   role: conductor
 - name: Angela Kazimierczuk
-  role: performer
+  role: soprano
+- name: Chorus Musicus Köln
+  role: choir
 instrument: voices-and-instruments
-performance_practice: unknown
+performance_practice: historical
 arrangement: false
 recorded:
   years: [1992]
@@ -76,4 +78,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: a133824f-840d-478c-90b8-6b445e621c25
-  recordings: [bc7e4b2f-751b-420a-ad0f-87581a15c083]
+  recordings: [12877f52-989b-4e40-8cab-e212642486ac, bc7e4b2f-751b-420a-ad0f-87581a15c083]

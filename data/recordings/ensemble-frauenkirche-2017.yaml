@@ -8,42 +8,23 @@ performers:
   role: conductor
 - name: Tilman Lichdi
   role: tenor
-- name: Falko Hönisch
-  role: baritone
 - name: Andreas Scheibner
   role: performer
-- name: Thomas Laske
-  role: performer
-- name: Philipp Meierhöfer
-  role: performer
-- name: Britta Schwarz
-  role: performer
-- name: Catalina Bertucci
-  role: performer
-- name: Sebastian Noack
-  role: performer
+- name: Falko Hönisch
+  role: baritone
 - name: Camilla Nylund
   role: performer
-- name: Wolfram Lattke
-  role: performer
-- name: Tobias Hunger
-  role: performer
-- name: Geneviève Tschumi
-  role: performer
 - name: Nicole Pieper
-  role: performer
-- name: Hanna Zumsande
   role: performer
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false
 recorded:
-  years: [2017, 2020]
+  years: [2017]
   place: Frauenkirche Dresden
 released: 2018
 original_label: null
 works:
-- {bwv: '244', complete: true}
 - {bwv: '245', complete: true}
 links:
 - platform: musicbrainz

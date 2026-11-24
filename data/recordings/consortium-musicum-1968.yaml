@@ -4,6 +4,8 @@ performers:
   role: orchestra
 - name: South German Madrigal Choir
   role: choir
+- name: Consortium Classicum
+  role: orchestra
 - name: Wolfgang Gönnenwein
   role: conductor
 - name: Theo Altmeyer
@@ -20,25 +22,11 @@ performers:
   role: performer
 - name: Nicolai Gedda
   role: performer
-- name: Siegmund Nimsgern
-  role: performer
-- name: Kurt Moll
-  role: performer
 - name: Siegfried Haertel
   role: performer
-- name: Brigitte Fassbaender
-  role: performer
-- name: Elly Ameling
-  role: performer
-- name: Kurt Equiluz
+- name: Vera Scherr
   role: performer
 - name: Susanne Dürr
-  role: performer
-- name: Martin Hermann
-  role: performer
-- name: Helmut Kühnle
-  role: performer
-- name: Vera Scherr
   role: performer
 - name: Liselotte Renner
   role: performer
@@ -50,13 +38,12 @@ instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false
 recorded:
-  years: [1968, 1969]
+  years: [1968]
   place: Johanneskirche
 released: 1988
 original_label: null
 works:
 - {bwv: '244', complete: true}
-- {bwv: '245', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -68,4 +55,5 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 3c0c90b7-6be5-48b6-a684-e6b03f7c3764
-  recordings: [5891f5d8-42d2-4640-baeb-b7a8c17bd8d1, 9f2601d4-f01d-4c7d-83cd-21a47df2cacb]
+  recordings: [07be2ff8-b0aa-4975-a0f8-42cb52e4f7d6, 0be73f93-eb3e-46c0-bdee-4af37fdaccdb, 5891f5d8-42d2-4640-baeb-b7a8c17bd8d1,
+    9f2601d4-f01d-4c7d-83cd-21a47df2cacb]

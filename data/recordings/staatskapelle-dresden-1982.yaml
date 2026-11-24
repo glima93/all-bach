@@ -2,53 +2,38 @@ id: staatskapelle-dresden-1982
 performers:
 - name: Staatskapelle Dresden
   role: orchestra
+- name: Rundfunkchor Leipzig
+  role: choir
 - name: Peter Schreier
   role: conductor
-- name: Theo Adam
-  role: performer
 - name: Robert Holl
-  role: performer
+  role: bass
+- name: Egbert Junghanns
+  role: baritone
+- name: Ekkehard Wagner
+  role: tenor
 - name: Marjana Lipovšek
+  role: alto
+- name: Roberta Alexander
+  role: soprano
+- name: Gothart Stier
   role: performer
-- name: Lucia Popp
+- name: Andreas Scheibner
   role: performer
-- name: Eberhard Büchner
-  role: performer
+- name: Olaf Bär
+  role: bass
+- name: MDR Rundfunkchor Leipzig
+  role: choir
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false
 recorded:
-  years: [1982, 1984]
+  years: [1982]
   place: Lukaskirche
-released: 1985
+released: 1988
 original_label: null
 works:
-- {bwv: '244', complete: false, movements: ['Teil I, II. Rezitativ (Evangelist, Jesus) "Da Jesus diese Rede vollendet
-      hatte"', 'Teil I, V. Accompagnato-Rezitativ (Alt) "Du lieber Heiland du"', 'Teil I, VI. Arie (Alt) "Buß und
-      Reu"', 'Teil I, VII. Rezitativ (Evangelist, Judas) "Da ging hin der Zwölfen einer"', 'Teil I, VIII. Arie (Sopran)
-      "Blute nur, du liebes Herz"', 'Teil I, XI. Rezitativ (Evangelist, Jesus, Judas) "Er antwortete und sprach"',
-    'Teil I, XII. Accompagnato-Rezitativ (Sopran) "Wiewohl mein Herz in Tränen schwimmt"', 'Teil I, XIII. Arie (Sopran)
-      "Ich will dir mein Herze schenken"', 'Teil I, XIV. Rezitativ (Evangelist, Jesus) "Und da sie den Lobgesang
-      gesprochen hatten"', 'Teil I, XVI. Rezitativ (Evangelist, Petrus, Jesus) "Petrus aber antwortete und sprach
-      zu ihm"', 'Teil I, XVIII. Rezitativ (Evangelist, Jesus) "Da kam Jesus mit ihnen zu einem Hofe"', 'Teil I,
-      XXI. Rezitativ (Evangelist, Jesus) "Und ging hin ein wenig"', 'Teil I, XXII. Accompagnato-Rezitativ (Bass)
-      "Der Heiland fällt vor seinem Vater nieder"', 'Teil I, XXIII. Arie (Bass) "Gerne will ich mich bequemen"',
-    'Teil I, XXIV. Rezitativ (Evangelist, Jesus) "Und er kam zu seinen Jüngern"', 'Teil I, XXVI. Rezitativ (Evangelist,
-      Jesus) "Und er kam und fand sie aber schlafend"', 'Teil I, XXVIII. Rezitativ (Evangelist, Jesus) "Und siehe,
-      einer aus denen, die mit Jesu waren"', 'Teil II, XXXI. Rezitativ (Evangelist) "Die aber Jesum gegriffen hatten"',
-    'Teil II, XXXIII. Rezitativ (Evangelist, 2 Zeugen, Hohepriester) "Und wiewohl viel falsche Zeugen herzutraten"',
-    'Teil II, XXXIV. Accompagnato-Rezitativ (Tenor) "Mein Jesus schweigt zu falschen Lügen stille"', 'Teil II, XXXV.
-      Arie (Tenor) "Geduld! Wenn mich falsche Zungen stechen"', 'Teil II, XXXIX. Aria (Alto) "Erbarme dich, mein
-      Gott"', 'Teil II, XLII. Aria (Basso) "Gebt mir meinen Jesum wieder"', 'Teil II, XLIII. "Sie hielten aber einen
-      Rat" (Evangelista, Pilatus, Jesus)', 'Teil II, XLVII. "Der Landpfleger sagte" (Evangelista, Pilatus)', 'Teil
-      II, XLVIII. Recitativo (Soprano) "Er hat uns allen wohlgetan"', 'Teil II, XLIX. Aria (Soprano) "Aus Liebe
-      will mein Heiland sterben"', 'Teil II, LI. Recitativo (Alto) "Erbarm es Gott"', 'Teil II, LII. Aria (Alto)
-      "Können Tränen meiner Wangen"', 'Teil II, LV. "Und da sie ihn verspottet hatten" (Evangelista)', 'Teil II,
-      LVI. Recitativo (Basso) "Ja freilich will in uns das Fleisch und Blut"', 'Teil II, LVII. Aria (Basso) "Komm,
-      süßes Kreuz, so will ich sagen"', 'Teil II, LIX. Recitativo (Alto) "Ach Golgotha"', 'Teil II, LXIV. Recitativo
-      (Basso) "Am Abend, da es kühle war"', 'Teil II, LXV. Aria (Basso) "Mache dich, mein Herze, rein"']}
-- {bwv: '245', complete: false, movements: ['Teil I. No. 13 Aria (Tenor) "Ach, mein Sinn"', 'Teil II. No. 20 Aria
-      (Tenor) "Erwäge, wie sein blutgefärbter Rücken"']}
+- {bwv: '245', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -60,4 +45,8 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 62250633-e888-49bb-ab9f-d6f14ef21012
-  recordings: [be2388f6-2379-4237-b558-a4b85933ec75]
+  recordings: [234eecd2-3c6d-421d-812a-86225242718a, 262d7ff3-ea73-4bca-919b-0ba8aa90af0d, 43baf9e4-9153-41ab-85aa-35aa323bf9ae,
+    51b6e038-13a6-4d02-8184-90327a719aec, 599f2853-a042-421c-b880-d27f1c271735, 6b4e6c91-c7d1-4148-83bc-df44669a4064,
+    74660267-1bc2-40fe-b4f3-75d3b02b35fc, 75a37044-9611-4647-9e8a-0ac208478167, aa299f9f-801f-4cc0-8aa2-011af851b3d6,
+    be2388f6-2379-4237-b558-a4b85933ec75, d962a549-ac7c-411b-846d-f7abce558b75, dde8c817-d729-4ce6-bbec-cf353674c0fd,
+    f1aa791c-0848-4a1c-9c95-ef219ff732fe, f56d67c0-f801-4cef-a13c-4f1a12c4e13f, f6234042-e50d-4e02-a554-2848dd74da49]

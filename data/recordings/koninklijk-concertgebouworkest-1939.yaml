@@ -96,4 +96,5 @@ help_wanted:
 notes: Live recording.
 musicbrainz:
   artist: ad8260b2-2767-4e9b-9ece-7977fbcedadf
-  recordings: [1ef231cc-b26d-4880-a21d-f45455a6b0a7, 62e34f0c-147a-44dd-a348-149e30e43d25, 7021ab0d-4c14-46a6-b079-44f76f048ffb]
+  recordings: [1dffc3bf-25b7-4646-a45d-6e0b0b0c0e3a, 1ef231cc-b26d-4880-a21d-f45455a6b0a7, 62e34f0c-147a-44dd-a348-149e30e43d25,
+    7021ab0d-4c14-46a6-b079-44f76f048ffb]

@@ -1161,19 +1161,122 @@ EXCLUDE_BY_SNAPSHOT["passions"] = {
     "c10fa454-1c7f-451f-92a9-2e21ee94b263": "Virgil Fox alone on the organ (The Bach Gamut, Volume I) linked to the whole St Matthew Passion: an organ piece, not a performance of BWV 244",
     "47c67214-4247-4ddd-970b-db33b9256d2a": "the Richter half of Bach 2000: St Matthew Passion: Six Excerpts Illustrating Performance Practice, a study disc (see the Koopman row)",
     "ae3603c8-784d-4580-abc9-f5292f1fb8dd": "The Moscow Symphony Orchestra alone, without choir or singers, linked to the whole St Matthew Passion on The Essential Bach: a doubtful link, not an identifiable performance (checker, run 23)",
+    "33f4e31d-0a79-4fe4-a452-3f01ec55fcea": "The Story of Bach in Words and Music: a narrated documentary linked to the whole St John Passion, not a performance of it (checker, run 23)",
     "359c92d3-c82a-46b0-9b75-2262023468d6": "Bach 2000: St Matthew Passion: Six Excerpts Illustrating Performance Practice sets excerpts of Koopman's and Richter's recordings side by side for study; not a performance of its own",
 }
 JOIN_BY_SNAPSHOT["passions"] = {
-    "e600212f-cbc3-4fdd-bc4a-debb21ff4c8f": ("d3c53f2a-82b7-4144-946d-423f7ffba706", "Koopman's St Mark Passion reconstruction (Erato, Waalse Kerk, 1999): the recitatives and arias (a row first issued on the Simply Baroque compilation) and the choruses and chorales on the Markus-Passion release are one set; together they are the 67 numbers"),
+    "134b6c27-ff09-40ad-95b5-1298edc876be": ("3a382dae-e5ab-4968-92e5-1f7dc260a475", "Fasolis 1998, opening chorus: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "9bdcb6fe-e1c5-4fb2-a28e-4ee10154b627": ("304e0f30-dd05-443d-982c-8463f5ff1295", "Parrott 1990: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "c4ad6917-55f6-41c1-8002-2d40ea3a6d96": ("878d969c-7d61-4126-82df-f05be681e88c", "Jochum St Matthew 1965: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "b1c7231c-4817-4429-bf3d-1b4536f94acd": ("74381e14-352d-4ff5-8d48-0f4759aa8f15", "Jochum St John 1967: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "74040d0d-2422-4348-a6d7-6bfdbada5077": ("4562a1e2-5acd-474d-a44a-03c7029072b8", "Sándor 1976: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "1f527e05-bb5d-46c0-a8bd-737c22591256": ("0066fd2a-c4a3-436d-ac1e-5cce3ca2774a", "Lehel 1971: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "42770ae2-ef86-47ed-a28e-46e37a3cee75": ("0066fd2a-c4a3-436d-ac1e-5cce3ca2774a", "Lehel 1971: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "a17c684e-25b1-4ac7-bbb5-dd0d856c4d64": ("4e5a9d35-d930-4e06-8894-ebe11a2927ae", "Christophers 1989: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "85a47189-89ee-44cf-b277-fb9502841124": ("782198bf-8381-4c2a-9c39-0007c60fb2e5", "Oberfrank 1993 (the film L'armée du crime reuses it): the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "f71d54ad-8698-430c-9a2f-5e4cb4f2ccba": ("782198bf-8381-4c2a-9c39-0007c60fb2e5", "Oberfrank 1993 (the film L'armée du crime reuses it): the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "b841d937-37e6-49d7-becb-40a56a84c6ec": ("782198bf-8381-4c2a-9c39-0007c60fb2e5", "Oberfrank 1993 (the film L'armée du crime reuses it): the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "c83daed4-3920-46cb-8bbc-92f9203b0fe7": ("782198bf-8381-4c2a-9c39-0007c60fb2e5", "Oberfrank 1993 (the film L'armée du crime reuses it): the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "34d57b83-2787-4a6b-8c2a-1c5c54bb681c": ("fac6a29c-5245-4eb0-907b-efa581019fb1", "Leonhardt 1989: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "a65937c7-d8c4-47f1-8992-2df2e8cbd38f": ("fac6a29c-5245-4eb0-907b-efa581019fb1", "Leonhardt 1989: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "83150f2e-c807-4acd-a504-2d36d771f5d2": ("97f68d26-688f-4e0a-aa27-1458bcad2142", "Müller-Brühl: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "93152c56-9680-4e2e-9eb0-a2fb1bc0be1e": ("97f68d26-688f-4e0a-aa27-1458bcad2142", "Müller-Brühl: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "9457bba2-e190-4141-9e44-d3187de8fa63": ("c2902b5b-031a-497c-a544-d80fae7b1157", "Rilling St Matthew 1994: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "16ffd0eb-6317-4f2a-b33d-c2ff122d6d85": ("7d914828-e6b1-49a6-8111-4f88f357dd5c", "Rilling St John 1996: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "5ba48289-adf5-4a65-b39e-4d10b3e24710": ("7d914828-e6b1-49a6-8111-4f88f357dd5c", "Rilling St John 1996: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "547b6b58-c0a2-4cba-83d8-f23a539632f1": ("cc970d73-1e24-4d5e-b068-f177972e5ac3", "Karajan 1971-72: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "f6d71317-b6f2-4b4c-868b-408867540a16": ("cc970d73-1e24-4d5e-b068-f177972e5ac3", "Karajan 1971-72: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "058c04f9-5db0-4140-bc11-20abb5ac9668": ("cc970d73-1e24-4d5e-b068-f177972e5ac3", "Karajan 1971-72: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "a2dbbde2-179f-45d5-8253-10416938fdbe": ("cc970d73-1e24-4d5e-b068-f177972e5ac3", "Karajan 1971-72: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "148ea28c-f322-4bf5-b910-de7442dfc202": ("cc970d73-1e24-4d5e-b068-f177972e5ac3", "Karajan 1971-72: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "497ba6d6-9ff4-43b2-af39-5b9f9e0104a2": ("732f95f4-8298-4c78-b34e-37e9f0fb69bb", "Sorrell 2016: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "13d96c1f-c988-4f62-abb4-b97cf89278f1": ("25e56f9c-48a1-4eea-a274-2349adc35f9e", "Marinov: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "57e4ac35-b6b4-46a4-b87f-2b8749b70251": ("4e7ed04f-33a2-4e95-8704-b5d029d52511", "Scherchen 1953: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "458b1a70-7c46-442d-a076-6abaac743c00": ("b471580c-7a54-454a-b65d-4f986a4321bc", "Gardiner 1986, the choruses: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "80b97de9-02e1-4b55-9241-b04f513d8619": ("2f3ef048-0978-483e-b92d-97a5424ad95f", "Vermunt: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "4b720598-fc1d-4d7c-a244-ce3d78562978": ("cbf53807-74b5-44d6-bde2-f8b24e305bed", "Daus: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "1880d33c-5edf-4902-9b41-061e3a568bd4": ("f1b7309d-eaa1-40d0-94af-88ca6f4ccfc6", "Forster 1961: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "752ab3c0-100f-4157-ada9-11b21c43815d": ("f1b7309d-eaa1-40d0-94af-88ca6f4ccfc6", "Forster 1961: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "480533e7-4e4a-4c03-95b0-72abb3ec3fa8": ("1b1bae98-b561-49e2-9fba-57cd48a705b7", "Richter 1958: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "727312b4-96b0-4481-bcba-39514e4c1982": ("1b1bae98-b561-49e2-9fba-57cd48a705b7", "Richter 1958: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "8be3addc-67af-4668-84fe-b29c23b559c5": ("1b1bae98-b561-49e2-9fba-57cd48a705b7", "Richter 1958: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "e8ffc24f-46e8-460b-9ed9-0f037580e250": ("1b1bae98-b561-49e2-9fba-57cd48a705b7", "Richter 1958: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "b0184803-c100-4b08-aaa6-dcbee21fc3cb": ("7c51574a-5ed4-4425-85cd-a3013cd29cc9", "Richter 1979: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "cd47f64b-2a5e-42c3-bbcd-e354d10c6b3d": ("7c51574a-5ed4-4425-85cd-a3013cd29cc9", "Richter 1979: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "55cd3815-4fe8-4282-96ed-9dcf5bb98e82": ("43b35906-4e33-4840-b14d-84fcc68f7e83", "Harnoncourt 2000: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "257e7dd2-0c75-4cf1-9779-af9de998603d": ("43b35906-4e33-4840-b14d-84fcc68f7e83", "Harnoncourt 2000: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "75818960-ca5a-44a2-92ae-ace3e7983329": ("f16d4cc3-19aa-4ea0-8fa1-ef31327da1a6", "Harnoncourt 1970: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "245681bb-2364-4e35-8464-efaaa5b7e8be": ("801e3c92-04ab-4232-bfd3-00c5b8f06ee4", "Herreweghe St Matthew 1998: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "8bbebc84-7538-43e5-a7f0-a44624ad27eb": ("43ede75b-d1be-44c8-a0a3-672bd38a90ef", "Herreweghe St John 1987: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "c76d0b89-f6ac-4582-842e-c89301664ec0": ("0c417f49-f268-4e50-be04-6348effcd06b", "Pierlot 2010: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "229245bc-290c-46d4-b2ed-a8309bd224a3": ("d7bed2f5-7143-474a-b86a-e8eeecf72dd8", "Leusink 1992: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "50fd2bee-6f86-4548-92d7-b950c10f0c5e": ("d7bed2f5-7143-474a-b86a-e8eeecf72dd8", "Leusink 1992: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "6249aa7b-1c31-47cd-a25a-eea9df096238": ("d7bed2f5-7143-474a-b86a-e8eeecf72dd8", "Leusink 1992: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "796a5719-6bde-4f8e-9e11-a7adc606686c": ("d7bed2f5-7143-474a-b86a-e8eeecf72dd8", "Leusink 1992: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "e2732504-990a-4252-8708-d42dca93a1b6": ("d7bed2f5-7143-474a-b86a-e8eeecf72dd8", "Leusink 1992: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "631ce84b-a75c-4329-9a59-461b779116bc": ("5d12b8aa-0b0d-4677-aca1-a6a96fec3700", "Leusink 2013: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "55b7a27a-d5bd-47f0-a41c-e31e185467fc": ("8cbed360-8549-4014-aecc-5ed7478bbfb2", "Pichon: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "10f9c87a-e54f-4756-bcc6-479cf24a203b": ("5fd64e4e-0856-40d5-9de5-f60f57a51ed1", "Jacobs: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "3419e179-bfdc-4a0b-a02b-56b29e0b1167": ("77af9a0b-8861-4d34-a1f2-6493826e18e2", "Shaw and Anderson: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "c3f17c93-a132-48a8-a361-9be495b33a70": ("42c3378d-9a0e-4dc8-ae9a-51a48af9d41e", "Solti: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "b0346169-d4f6-416f-8a8e-1496bd76a160": ("42c3378d-9a0e-4dc8-ae9a-51a48af9d41e", "Solti: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "4c7e9ceb-3dbf-4a65-9f36-457b3dba7225": ("86b7c524-fd2f-4289-a6ef-d102cca71ef0", "Cleobury St Matthew 2019 (King's College Chapel): the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "97657167-8254-46d0-8925-abe61b21f024": ("8bd2d5d5-6a5a-44e2-a895-bf69549e5de4", "Koopman St John 1993: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "10ec6946-79b3-419f-bacf-690aa6dc6b6f": ("8d7dd3a1-f83e-49ad-b48a-996dc4794d8b", "Koopman St Matthew 1992: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "9111ddcc-8af8-4a34-a8bf-b4568dcb79e1": ("2e470cd4-46e7-48c5-a933-587b42ebc8cc", "Furtwängler 1954: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "7ae6d400-efb8-43b3-800a-fc2109c28311": ("2e470cd4-46e7-48c5-a933-587b42ebc8cc", "Furtwängler 1954: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "1dffc3bf-25b7-4646-a45d-6e0b0b0c0e3a": ("62e34f0c-147a-44dd-a348-149e30e43d25", "Mengelberg: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "26b49203-f385-46d4-9c7b-65132f114a4d": ("76a50b7f-d984-4050-bc4b-fafee1d7eae2", "Helbich St Luke 1996: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "7af69be7-368e-4ba1-ab90-48c67319632d": ("76a50b7f-d984-4050-bc4b-fafee1d7eae2", "Helbich St Luke 1996: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "a6a97998-fe49-48cb-9503-a4e4c716e4c3": ("76a50b7f-d984-4050-bc4b-fafee1d7eae2", "Helbich St Luke 1996: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "d2a3e28a-ecff-4ca8-9265-68a3f8973723": ("9f5ae0ec-0b0e-4548-a5ee-772a162f7761", "Münchinger: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "85a1c3e8-150f-4feb-8b3e-2146afa6507d": ("9f5ae0ec-0b0e-4548-a5ee-772a162f7761", "Münchinger: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "29fea8a5-d9b6-40bf-a244-b6723f938939": ("79825da7-6082-4b54-a468-98639d1e7e6d", "Corboz: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "6dde2146-bd58-4a1f-b54b-2ac146287e5c": ("79825da7-6082-4b54-a468-98639d1e7e6d", "Corboz: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "f6f2c6f1-e83a-466d-9d2c-e7bf955e5a8a": ("79825da7-6082-4b54-a468-98639d1e7e6d", "Corboz: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "f92501a4-0aef-4749-98af-9a0aff2c909e": ("5323ff3b-d8af-4d77-8eaf-e61dc5857636", "Wöldike: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "234eecd2-3c6d-421d-812a-86225242718a": ("74660267-1bc2-40fe-b4f3-75d3b02b35fc", "Schreier 1982: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "262d7ff3-ea73-4bca-919b-0ba8aa90af0d": ("74660267-1bc2-40fe-b4f3-75d3b02b35fc", "Schreier 1982: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "43baf9e4-9153-41ab-85aa-35aa323bf9ae": ("74660267-1bc2-40fe-b4f3-75d3b02b35fc", "Schreier 1982: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "599f2853-a042-421c-b880-d27f1c271735": ("74660267-1bc2-40fe-b4f3-75d3b02b35fc", "Schreier 1982: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "aa299f9f-801f-4cc0-8aa2-011af851b3d6": ("74660267-1bc2-40fe-b4f3-75d3b02b35fc", "Schreier 1982: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "f56d67c0-f801-4cef-a13c-4f1a12c4e13f": ("74660267-1bc2-40fe-b4f3-75d3b02b35fc", "Schreier 1982: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "f6234042-e50d-4e02-a554-2848dd74da49": ("74660267-1bc2-40fe-b4f3-75d3b02b35fc", "Schreier 1982: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "9bc98f66-a673-462c-b68e-340d36b0e48e": ("ec46fe4a-3468-4b2b-a758-9f32d5b524b5", "Dowley: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "6da13a28-6882-4568-97f1-56be1a38f150": ("9a1d9868-e890-4a9a-ad43-f9ec0c5f37c9", "Ozawa: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "8fb39d6c-9878-4f69-a006-5565011095bd": ("9a1d9868-e890-4a9a-ad43-f9ec0c5f37c9", "Ozawa: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "af299b4d-893c-45a0-b10d-9c03d047f66f": ("9a1d9868-e890-4a9a-ad43-f9ec0c5f37c9", "Ozawa: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "c55f1d1a-80d7-497e-aaaa-7bfca0ac13b1": ("9a1d9868-e890-4a9a-ad43-f9ec0c5f37c9", "Ozawa: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "34fa118a-6c0d-44fc-8fb8-f629fa259ee3": ("762f08be-b044-41e3-9356-671bad16d814", "Mauersberger 1970 (the chorus master is credited as a second conductor): the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "12877f52-989b-4e40-8cab-e212642486ac": ("bc7e4b2f-751b-420a-ad0f-87581a15c083", "Spering: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "50e0e3d1-dd63-4308-85ed-ac3e1a914ef0": ("cf05d939-62e7-4cda-8883-4f94838f2496", "Cleobury St Matthew 1994: the Complete Edition reissue (it held both of his Passions in one file): the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "90e2128b-06d5-42bb-9c56-cbba751161a3": ("8ce28c7d-172f-443f-92aa-164bf30537c6", "Cleobury St John 1996: the Complete Edition reissue: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "07be2ff8-b0aa-4975-a0f8-42cb52e4f7d6": ("9f2601d4-f01d-4c7d-83cd-21a47df2cacb", "Gönnenwein 1968: compilation reissues (they held both of his Passions in one file): the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "0be73f93-eb3e-46c0-bdee-4af37fdaccdb": ("9f2601d4-f01d-4c7d-83cd-21a47df2cacb", "Gönnenwein 1968: compilation reissues (they held both of his Passions in one file): the same performers, years and place; complementary or reissued movements (checker, run 23)"),
+    "5051bcc0-2ba0-434a-ba46-660a4446d142": ("4a05504b-602b-4cde-b0d4-a1610f8f828d", "Gönnenwein 1969: a compilation reissue: the same performers, years and place; complementary or reissued movements (checker, run 23)"),
 }
 OVERRIDE_BY_SNAPSHOT["passions"] = {
-    "d3c53f2a-82b7-4144-946d-423f7ffba706": ({"movements": [f"247:{i}" for i in range(67)], "years": [1999], "place": "Waalse Kerk",
-                                               "performers": [{"name": "Amsterdam Baroque Choir", "role": "choir"}, {"name": "Amsterdam Baroque Orchestra", "role": "orchestra"},
-                                                              {"name": "Ton Koopman", "role": "conductor"}, {"name": "Christoph Prégardien", "role": "performer"},
-                                                              {"name": "Peter Kooij", "role": "performer"}, {"name": "Paul Mertens", "role": "performer"},
-                                                              {"name": "Bernhard Landauer", "role": "performer"}, {"name": "Paul Agnew", "role": "performer"},
-                                                              {"name": "Sibylla Rubens", "role": "performer"}]},
-        "Koopman's St Mark Passion: the Erbarme dich, the 1998 date, the Stadsgehoorzaal and Yo-Yo Ma's cello come with the Simply Baroque compilation row joined in; they belong to other recordings on it"),
+    "9a1d9868-e890-4a9a-ad43-f9ec0c5f37c9": ({"performers": [
+        {"name": "Saito Kinen Orchestra", "role": "orchestra"}, {"name": "Tokyo Opera Singers", "role": "choir"},
+        {"name": "SKF Matsumoto Children’s Choir", "role": "choir"}, {"name": "Seiji Ozawa", "role": "conductor"},
+        {"name": "Nathalie Stutzmann", "role": "alto"}, {"name": "Christiane Oelze", "role": "soprano"},
+        {"name": "John Mark Ainsley", "role": "tenor"}, {"name": "Michael Volle", "role": "bass"},
+        {"name": "Thomas Quasthoff", "role": "bass"}, {"name": "Stanford Olsen", "role": "tenor"},
+        {"name": "Katsunori Kono", "role": "performer"}, {"name": "Kazuhide Omori", "role": "performer"},
+        {"name": "Makoto Narita", "role": "performer"}]},
+        "Ozawa's St Matthew Passion (Saito Kinen, 1997): Ozawa and the orchestra are credited twice, in Latin and Japanese script, and Ozawa only as performer"),
+    "4fdf639e-ff62-4e6e-8919-22378cbaab0c": ({"performers": [
+        {"name": "Wiener Kammerorchester", "role": "orchestra"}, {"name": "Ferdinand Grossmann", "role": "conductor"},
+        {"name": "Wiener Kammerchor", "role": "choir"}, {"name": "Mogens Wöldike", "role": "performer"}]},
+        "Grossmann's 1954 recording: MusicBrainz credits Mogens Wöldike with the choir; his part is not clear, so he is kept as performer"),
+    "be4f2119-5d82-4d93-9c18-243915c6114d": ({"arrangement": True, "performance_practice": "unknown"},
+        "Baroque Journey (Academy of Ancient Music, 2018): Lucie Horsch plays the Erbarme dich on the recorder"),
+    "86b7c524-fd2f-4289-a6ef-d102cca71ef0": ({"years": [2019]},
+        "Cleobury's St Matthew Passion (King's College Chapel, 2019): the 2001 date on one row is a MusicBrainz error"),
+    "e600212f-cbc3-4fdd-bc4a-debb21ff4c8f": ({"arrangement": True, "performance_practice": "unknown"},
+        "Simply Baroque (Sony, 1999): Yo-Yo Ma plays the Erbarme dich on the cello with Koopman's Amsterdam Baroque Orchestra"),
+    "304ed904-812a-4234-99a0-0e6a8434d567": ({"years": [2003], "place": "Stavelot"},
+        "Van Waas's St John Passion with Les Agrémens and the Choeur de Chambre de Namur, recorded live in Stavelot on 11 April 2003 (MusicWeb review of the Ricercar box RIC 344)"),
     "4bfdcaae-e68b-4d2c-9fcf-dc661eb0617c": ({"arrangement": True},
         "Winter Gardens (Orchestre de chambre de Paris, Goetzel): the aria played on the trumpet by Lucienne Renaudin Vary (checker, run 23)"),
     "0859ce32-b649-4cf4-a504-63e5bde8df5a": ({"arrangement": True},
@@ -1233,12 +1336,12 @@ PERIOD_ENSEMBLE = re.compile(
     r"petite bande|english concert|taverner|brandenburg consort|giardino armonico|concerto italiano|bach collegium|"
     r"europa galante|age of enlightenment|tafelmusik|concert des nations|caf. zimmermann|dunedin consort|concerto copenhagen|"
     r"musiciens du louvre|zefiro|gardellino|b.rock|\barcangelo\b|accademia bizantina|apollo.s fire|capriccio stravagante|"
-    r"freiburger|netherlands bach society|nederlandse bachvereniging|pratum integrum|la stravaganza|collegium musicum 90|"
+    r"freiburger barock|netherlands bach society|nederlandse bachvereniging|pratum integrum|la stravaganza|collegium musicum 90|"
     r"orchestra of the antipodes|australian brandenburg|concerto k.ln|kammerakademie|cantus c.lln|il pomo d.oro|"
     r"les arts florissants|le concert d.astr.e|ensemble 415|harmonie universelle|sonnerie|la serenissima|"
     r"academy of ancient|monteverdi|english baroque|holland baroque|il complesso barocco|modo antiquo|ensemble 1700|"
     r"incogniti|florilegium|freitagsakademie|hanover band|musica florea|simphonie du marais|ensemble caprice|"
-    r"wiener akademie|eighteenth century|new london consort|linde consort|schola cantorum basiliensis|musica amphion|"
+    r"wiener akademie(?! kammerchor)|eighteenth century|new london consort|linde consort|schola cantorum basiliensis|musica amphion|"
     r"combattimento|harmony of nations|nova stravaganza|muses galantes|new dutch academy|magnifica comm?unit|"
     r"dantone|beznosiuk|barok|ensemble masques|les surprises|il fondamento|concert fran.ais|insula orchestra|"
     r"early music|voices of music|tulipa consort|trillium consort|apollon ensemble|american bach soloists|"
@@ -1248,11 +1351,14 @@ PERIOD_ENSEMBLE = re.compile(
     r"musica ad rhenum|ricercar consort|ausonia|ensemble diderot|aulos ensemble|basses r.unies|"
     r"vox luminis|gabrieli consort|collegium vocale|chapelle royale|orchestra of the sixteen|gaechinger cantorey|"
     r"washington bach consort|les ambassadeurs|gioiosa marca|capella fidicinia|"
-    r"balthasar.neumann|kleine konzert|chapelle harmonique|solomon.s knot|pygmalion|gli angeli gen|la cetra|bach-stiftung", re.I)
+    r"balthasar.neumann|kleine konzert|chapelle harmonique|solomon.s knot|pygmalion|gli angeli gen|la cetra|bach-stiftung|"
+    # Run 23 (checker): period groups the Passions turned up.
+    r"akad.mia\b|chapelle rh.nane|grande .curie|agr.mens|smithsonian chamber|collegium cartusianum|das neue orchester|"
+    r"van diemen|pulcinella|op.ra royal|ensemble vanitas", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
 MODERN_ENSEMBLE = re.compile(r"m.nchener bach|kammerakademie potsdam|zurich baroque ensemble|^baroque chamber orchestra|"
                              r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra|"
-                             r"new bach collegium|neues bachisches|deutsche kammerakademie neuss", re.I)
+                             r"new bach collegium|neues bachisches|deutsche kammerakademie neuss|bach.collegium (stuttgart|m.nchen)", re.I)
 # Credits or names that mean the music was arranged for other forces (jazz trio, brass band, synthesizer …).
 ARRANGED = re.compile(r"drum|saxophone|synthesi[sz]er|moog|electric|accordion|marimba|vibraphone|tuba|"
                       r"clarinet|banjo|mandolin|ukulele|harmonica|beatbox|bass guitar|guitar", re.I)
@@ -1287,7 +1393,7 @@ GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|solois
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
                                r"\bspa\b|for sleep|relaxation|relaxing|meditation|stress relief|healing|tune your brain|lifescapes|suzuki|dangerous liaisons|פסקול|motion picture|movies go baroque|bach minimaliste|"
-                               r"concertos? for recorder|bachbusters|remix|l.alphabet des grands musiciens|production music|bedtime|majors for minors|f.r inl.rning|classical background|orchestral excerpts|sing & moovie|サウンドトラック|inspector morse|l.arm.e du crime", re.I)
+                               r"concertos? for recorder|bachbusters|remix|l.alphabet des grands musiciens|production music|bedtime|majors for minors|f.r inl.rning|classical background|orchestral excerpts|sing & moovie|サウンドトラック|inspector morse", re.I)
 
 # Open-score works (mode "open", the Art of Fugue): keyboards, strings, viols and orchestra are native (plan note);
 # winds, brass, saxophones, recorders, guitars and crossover groups play it arranged. Credits, then group names.
@@ -1593,8 +1699,10 @@ def is_group(perf: dict) -> bool:
 
 
 def period_group(perf: dict) -> bool:
+    # Run 23: the ensemble can be credited only in the track relationships (roles), not the artist credit.
     return (any(PERIOD_INSTRUMENT.search(i.lower()) for i in perf["ins"])
-            or bool(PERIOD_ENSEMBLE.search(" ".join(perf["names"])))) and not MODERN_ENSEMBLE.search(perf["names"][0])
+            or bool(PERIOD_ENSEMBLE.search(" ".join(perf["names"])))
+            or bool(PERIOD_ENSEMBLE.search(" ".join(perf["roles"])))) and not MODERN_ENSEMBLE.search(perf["names"][0])
 
 
 def arranged_credits(perf: dict) -> list[str]:
@@ -1878,6 +1986,24 @@ def solo_player(p: dict, lead: list[str]) -> str | None:
     return p["ids"][0] if len(p["ids"]) == 1 else None
 
 
+def by_conductor(group: list[dict]) -> list[list[dict]]:
+    """Rows of one release and years that credit different conductors are different performances (run 23:
+    Scherchen's and Seymour's Passions on one compilation). Rows naming no conductor stay with the others only
+    when a single conductor is credited."""
+    conds = [{n for n, r in p["roles"].items() if r == "conductor"} for p in group]
+    sets: list[set] = []
+    for c in conds:
+        if not c:
+            continue
+        hit = [s for s in sets if s & c]
+        merged = set(c).union(*hit)
+        sets = [s for s in sets if not s & c] + [merged]
+    if len(sets) <= 1:
+        return [group]
+    subs = [[p for p, c in zip(group, conds) if c and c & s] for s in sets]
+    return subs + [[p] for p, c in zip(group, conds) if not c]
+
+
 def join_by_release(perfs: list[dict], lead: list[str] | None = None) -> list[dict]:
     """Fold rows on the same earliest release with the same recording years into one performance; with `lead`,
     only rows with the same solo player, who then leads the performer list."""
@@ -1889,7 +2015,7 @@ def join_by_release(perfs: list[dict], lead: list[str] | None = None) -> list[di
             key = key + (player,) if player else (p["repId"],)
         groups.setdefault(key, []).append(p)
     out = []
-    for group in groups.values():
+    for group in [sub for g in groups.values() for sub in by_conductor(g)]:
         if len(group) == 1:
             out.append(group[0])
             continue

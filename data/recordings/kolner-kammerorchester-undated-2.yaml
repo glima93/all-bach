@@ -10,6 +10,12 @@ performers:
   role: performer
 - name: Hanno Müller‐Brachmann
   role: performer
+- name: Dresden Chamber Choir
+  role: choir
+- name: Kölner Domchor
+  role: choir
+- name: Dresdner Kammerchor
+  role: choir
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false
@@ -33,4 +39,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: b93816c3-b729-439c-95f3-d9976e0620cc
-  recordings: [97f68d26-688f-4e0a-aa27-1458bcad2142]
+  recordings: [83150f2e-c807-4acd-a504-2d36d771f5d2, 93152c56-9680-4e2e-9eb0-a2fb1bc0be1e, 97f68d26-688f-4e0a-aa27-1458bcad2142]

@@ -5,20 +5,31 @@ performers:
 - name: Stephen Cleobury
   role: conductor
 - name: Emma Kirkby
-  role: performer
+  role: soprano
 - name: Choir of King’s College, Cambridge
   role: choir
+- name: Michael Chance
+  role: alto
+- name: The Choir of Jesus College Cambridge
+  role: soprano
+- name: Rogers Covey‐Crump
+  role: tenor
+- name: Michael George
+  role: bass
+- name: Martyn Hill
+  role: tenor
+- name: David Thomas
+  role: bass
 instrument: voices-and-instruments
 performance_practice: historical
 arrangement: false
 recorded:
-  years: [1994, 1996]
+  years: [1994]
   place: King’s College Chapel
 released: 1996
 original_label: null
 works:
 - {bwv: '244', complete: true}
-- {bwv: '245', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -30,4 +41,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 22b1e838-fbd1-4b60-a4c6-5314625f1697
-  recordings: [cf05d939-62e7-4cda-8883-4f94838f2496]
+  recordings: [50e0e3d1-dd63-4308-85ed-ac3e1a914ef0, cf05d939-62e7-4cda-8883-4f94838f2496]
