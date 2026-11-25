@@ -1288,6 +1288,8 @@ OVERRIDE_BY_SNAPSHOT["passions"] = {
 # Run 24: the Oratorios (BWV 248, 249, 11).
 EXCLUDE_BY_SNAPSHOT["oratorios"] = {
     "fd68772c-67e9-442f-a4ba-fe7c42022de3": "Douglas E. Bush's Orgelbüchlein (Cathedral of the Madeleine): an organ chorale prelude linked to the Christmas Oratorio chorale 'Ach mein herzliebes Jesulein' on the same hymn",
+    "7526823a-efec-43a0-b2fb-a5b185db5d21": "Budapest Strings alone, without choir or singers, linked to the whole Easter Oratorio on Famous Baroque Concerti: a doubtful link, not an identifiable performance (as the Moscow Symphony Orchestra's St Matthew, run 23; settled at Gonçalo's request)",
+    "e2914e92-20ed-4af1-9671-bb618c30a085": "Sacred Arias (Wiener Symphoniker): one row mixes Heynis with Gillesberger (1961) and Hermann with Grossmann (1952), two performances that a join cannot separate (settled at Gonçalo's request)",
 }
 JOIN_BY_SNAPSHOT["oratorios"] = {
 }
@@ -1308,6 +1310,8 @@ OVERRIDE_BY_SNAPSHOT["oratorios"] = {
 
 _R24 = "the same performers, years and place; complementary or reissued movements (checker, run 24)"
 _JOIN24 = {
+    "850dfa98-765d-46da-b208-2b703476bdf0": ("61917e7a-29b1-43d3-8682-51390d515bdd", "Otto 1991, the opening chorus on Das große Wunschkonzert der Klassik (the choir is credited as 'VokalEnsemble Köln'; bach-cantatas.com gives Vokalensemble Frankfurt): " + _R24.replace("checker,", "settled at Gonçalo's request,")),
+    "7bdf7795-d55d-4dd9-bc22-948cf3b9dc8c": ("61917e7a-29b1-43d3-8682-51390d515bdd", "Otto 1991, the opening chorus by Vokalensemble Frankfurt on Gouden Kerstkoren: " + _R24.replace("checker,", "settled at Gonçalo's request,")),
     "b7753b83-3d56-42ba-ab20-8a46a7a397b0": ("6b67b54c-6a5e-42ca-8fac-4d0f965b1e5d", "Harnoncourt 1972, the choruses: " + _R24),
     "2848f983-eb5f-46ba-a9b3-dc87c1f8bfba": ("6b67b54c-6a5e-42ca-8fac-4d0f965b1e5d", "Harnoncourt 1972, the echo aria sung by a Vienna choirboy: " + _R24),
     "cb688f8e-e389-49f7-9b0d-cd931cafe436": ("26c305d7-6adf-44f9-9643-c5eb3a8bbdf3", "Schmidt-Gaden 1973 (Collegium Aureum, Tölzer Knabenchor), the choruses on the highlights disc: " + _R24),
@@ -1350,6 +1354,22 @@ _JOIN24 = {
     "3cb00031-d48d-401f-b566-4b63eca76a85": ("b5d2404c-9117-4889-8c4b-6ca6d5c56989", "Dolci (Musica Fiorita): the bass aria missing from the 2017 set, on the same album and in the same place, dated 2012: " + _R24),
 }
 _OVERRIDE24 = {
+    "61917e7a-29b1-43d3-8682-51390d515bdd": ({"performers": [
+        {"name": "Concerto Köln", "role": "orchestra"}, {"name": "Vokalensemble Frankfurt", "role": "choir"},
+        {"name": "Ralf Otto", "role": "conductor"}, {"name": "Ruth Ziesak", "role": "soprano"},
+        {"name": "Monica Groop", "role": "alto"}, {"name": "Christoph Prégardien", "role": "tenor"},
+        {"name": "Klaus Mertens", "role": "bass"}]},
+        "Otto's Christmas Oratorio (1991): the choir is Vokalensemble Frankfurt (bach-cantatas.com); 'VokalEnsemble Köln' on a compilation row is a miscredit (settled at Gonçalo's request)"),
+    "62b03fc8-c688-476f-9f26-603ed608ead5": ({"arrangement": True},
+        "The Sublime Treble Voice of James Rainbird: an aria sung by a treble with piano, as the Vienna Boys Choir's (settled at Gonçalo's request)"),
+    "2a7db416-ea37-4dc0-b080-c04b800a7acc": ({"arrangement": True},
+        "New York Philharmonia Virtuosi (Kapp) on a Brandenburg Concertos album: the opening chorus and closing chorale played by the orchestra without choir (settled at Gonçalo's request)"),
+    "4792824c-33fe-4f02-8efa-2acecb7f1bc8": ({"performers": [
+        {"name": "Thomanerchor Leipzig", "role": "choir"}, {"name": "Gewandhausorchester Leipzig", "role": "orchestra"},
+        {"name": "Gotthold Schwarz", "role": "conductor"}, {"name": "Dorothee Mields", "role": "soprano"},
+        {"name": "Elvira Bill", "role": "alto"}, {"name": "Patrick Grahl", "role": "tenor"},
+        {"name": "Markus Schäfer", "role": "tenor"}, {"name": "Klaus Häger", "role": "baritone"}]},
+        "Schwarz's Christmas Oratorio with the Thomanerchor (2018): 'The Saint Thomas Choir of Men and Boys' is the New York choir, credited by mistake, and the orchestra was credited twice (settled at Gonçalo's request)"),
     "77879b0a-0e3f-494a-8b7e-56dce4c6be67": ({"arrangement": True, "performance_practice": "unknown", "performers": [
         {"name": "The King’s Singers", "role": "choir"}, {"name": "WDR Big Band", "role": "orchestra"},
         {"name": "Bill Dobbins", "role": "conductor"}]},

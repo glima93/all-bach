@@ -6,14 +6,14 @@ performers:
   role: choir
 - name: Ralf Otto
   role: conductor
-- name: Klaus Mertens
-  role: performer
+- name: Ruth Ziesak
+  role: soprano
+- name: Monica Groop
+  role: alto
 - name: Christoph Prégardien
   role: tenor
-- name: Monica Groop
-  role: performer
-- name: Ruth Ziesak
-  role: performer
+- name: Klaus Mertens
+  role: bass
 instrument: voices-and-instruments
 performance_practice: historical
 arrangement: false
@@ -74,4 +74,5 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 16a29583-0a91-415c-ac87-6ee5c6c2c406
-  recordings: [592a4f94-6ed1-4114-a217-389db6502b22, 61917e7a-29b1-43d3-8682-51390d515bdd]
+  recordings: [592a4f94-6ed1-4114-a217-389db6502b22, 61917e7a-29b1-43d3-8682-51390d515bdd, 7bdf7795-d55d-4dd9-bc22-948cf3b9dc8c,
+    850dfa98-765d-46da-b208-2b703476bdf0]

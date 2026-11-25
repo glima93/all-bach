@@ -1,25 +1,21 @@
-id: st-thomas-choir-2018
+id: thomanerchor-leipzig-2018
 performers:
-- name: St. Thomas Choir
+- name: Thomanerchor Leipzig
   role: choir
-- name: Leipzig Gewandhaus Orchestra
+- name: Gewandhausorchester Leipzig
   role: orchestra
+- name: Gotthold Schwarz
+  role: conductor
+- name: Dorothee Mields
+  role: soprano
 - name: Elvira Bill
   role: alto
 - name: Patrick Grahl
   role: tenor
-- name: Klaus Häger
-  role: baritone
-- name: Dorothee Mields
-  role: soprano
-- name: The Saint Thomas Choir of Men and Boys
-  role: choir
 - name: Markus Schäfer
   role: tenor
-- name: Gotthold Schwarz
-  role: conductor
-- name: Gewandhausorchester Leipzig
-  role: orchestra
+- name: Klaus Häger
+  role: baritone
 instrument: voices-and-instruments
 performance_practice: unknown
 arrangement: false
