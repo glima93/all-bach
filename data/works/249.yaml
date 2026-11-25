@@ -1,0 +1,24 @@
+bwv: "249"
+title: "Easter Oratorio"
+key: "D major"
+collection: "Oratorios"
+genre: oratorio
+scoring: "Four-part choir (SATB), soloists, 2 recorders, flute, 2 oboes, oboe d'amore, bassoon, 3 trumpets, timpani, strings and continuo"
+composed: "Leipzig; first performed as an Easter cantata on 1 April 1725, oratorio version c.1738, revised in the 1740s"
+movements:
+  - "I. Sinfonia"
+  - "II. Adagio"
+  - "III. Coro \"Kommt, eilet und laufet\""
+  - "IV. Recitativo (Sopran, Alt, Tenor, Bass) \"O kalter Männer Sinn\""
+  - "V. Aria (Sopran) \"Seele, deine Spezereien\""
+  - "VI. Recitativo (Alt, Tenor, Bass) \"Hier ist die Gruft\""
+  - "VII. Aria (Tenor) \"Sanfte soll mein Todeskummer\""
+  - "VIII. Recitativo (Sopran, Alt) \"Indessen seufzen wir\""
+  - "IX. Aria (Alt) \"Saget, saget mir geschwinde\""
+  - "X. Recitativo (Bass) \"Wir sind erfreut\""
+  - "XI. Coro \"Preis und Dank\""
+notes: "Begun as the Easter cantata \"Kommt, gehet und eilet\", a parody of the Shepherd Cantata BWV 249a, and later retitled an oratorio. Unusually it has no Evangelist; the four soloists portray the two Marys, Peter and John."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Easter_Oratorio"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/aa43fb56-f149-4a44-85f1-ea4cca667da0

@@ -1,0 +1,37 @@
+id: kammersveit-1972
+performers:
+- name: Kammersveit
+  role: orchestra
+- name: Ingólfur Guðbrandsson
+  role: conductor
+- name: Kammersveit Reykjavíkur
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, III. Recitativo (Alto) „Nun wird mein liebster Bräutigam“',
+    'Teil I, IV. Aria (Alto) „Bereite dich, Zion“', 'Teil I, VII. Choral (Soprano) con Recitativo (Basso) „Er ist
+      auf Erden kommen arm“', 'Teil I, VIII. Aria (Basso) „Großer Herr, o starker König“', 'Teil I, IX. Choral „Ach
+      mein herzliebes Jesulein“', 'Teil II, XIX. Aria (Alto) „Schlafe, mein Liebster“', 'Teil II, XXII. Recitativo
+      (Basso) „So recht, ihr Engel“', 'Teil II, XXIII. Choral „Wir singen dir in deinem Heer“', 'Teil III, XXVI.
+      Coro „Lasset uns nun gehen“', 'Teil III, XXVII. Recitativo (Basso) „Er hat sein Volk getröst“', 'Teil III,
+      XXVIII. Choral „Dies hat er alles uns getan“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8e54b908-5aab-4102-8377-78a30f4efe3e
+  title: Jólaóratóría (Weihnachts-Oratorium, BWV 248)
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93fe9e80-35ef-467b-b178-7f2f9e1c0d7a
+  recordings: [d6fdf946-8e88-4da7-9285-d8eb7daf3ef7]

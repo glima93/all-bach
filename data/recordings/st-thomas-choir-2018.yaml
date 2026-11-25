@@ -1,0 +1,45 @@
+id: st-thomas-choir-2018
+performers:
+- name: St. Thomas Choir
+  role: choir
+- name: Leipzig Gewandhaus Orchestra
+  role: orchestra
+- name: Elvira Bill
+  role: alto
+- name: Patrick Grahl
+  role: tenor
+- name: Klaus Häger
+  role: baritone
+- name: Dorothee Mields
+  role: soprano
+- name: The Saint Thomas Choir of Men and Boys
+  role: choir
+- name: Markus Schäfer
+  role: tenor
+- name: Gotthold Schwarz
+  role: conductor
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2018]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/4792824c-33fe-4f02-8efa-2acecb7f1bc8
+  title: null
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 9c0a13f7-33c1-46ac-8e58-710787f01045
+  recordings: [4792824c-33fe-4f02-8efa-2acecb7f1bc8]

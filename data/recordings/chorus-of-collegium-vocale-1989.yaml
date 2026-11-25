@@ -1,0 +1,38 @@
+id: chorus-of-collegium-vocale-1989
+performers:
+- name: Chorus of Collegium Vocale, Ghent
+  role: ensemble
+- name: Philippe Herreweghe
+  role: conductor
+- name: Howard Crook
+  role: performer
+- name: Peter Kooij
+  role: performer
+- name: Michael Chance
+  role: performer
+- name: Barbara Schlick
+  role: performer
+- name: Collegium Vocale Gent
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: Mindersbroederskerk
+released: 1989
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/35dada10-dc07-4ba1-8d6b-6ee4cc253cb9
+  title: Christmas Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [9850956b-a69b-46b4-9353-9757a5ed2c7e]

@@ -1285,6 +1285,132 @@ OVERRIDE_BY_SNAPSHOT["passions"] = {
         "Neuhold's St Matthew Passion (Corpus Christi): one chorus is linked to the St Luke Passion's 'Er hat andern geholfen' (BWV 246 no. 82); it is the St Matthew chorus, and the set has no BWV 246"),
 }
 
+# Run 24: the Oratorios (BWV 248, 249, 11).
+EXCLUDE_BY_SNAPSHOT["oratorios"] = {
+    "fd68772c-67e9-442f-a4ba-fe7c42022de3": "Douglas E. Bush's Orgelbüchlein (Cathedral of the Madeleine): an organ chorale prelude linked to the Christmas Oratorio chorale 'Ach mein herzliebes Jesulein' on the same hymn",
+}
+JOIN_BY_SNAPSHOT["oratorios"] = {
+}
+OVERRIDE_BY_SNAPSHOT["oratorios"] = {
+    "6d701c01-de2f-4dce-b6e1-e47039134a3b": ({"arrangement": True, "performance_practice": "unknown"},
+        "Royal Fireworks (Balsom Ensemble): Alison Balsom plays Christmas Oratorio chorales and arias on the natural trumpet"),
+    "c7cf37e4-e076-49be-a6e1-395363ccd56c": ({"arrangement": True},
+        "The Organ Plays Music for a Merry Christmas: William Davies plays the chorale 'Brich an, o schönes Morgenlicht' on the organ"),
+    "0332cc63-2b9b-426a-a757-7a0593f6a020": ({"arrangement": True},
+        "Profile (1983): the jazz saxophonist Andrew White plays the Sinfonia"),
+    "04d2d01c-5ea8-47ca-a67d-7bc6d2091e49": ({"arrangement": True},
+        "Christmas: Berdien Stenberg's pop flute album plays the chorale 'Ich steh an deiner Krippen hier'"),
+    "09d04517-e6ce-44fa-becc-01caca889e94": ({"arrangement": True},
+        "The Christmas Album: James Last and his orchestra play the chorale 'Ich steh an deiner Krippen hier'"),
+    "866c2d8b-6aba-45b5-932d-542fd33a5093": ({"arrangement": True},
+        "Stern über Bethlehem: Hans-Jürgen Hufeisen plays Christmas Oratorio arias on the recorder"),
+}
+
+_R24 = "the same performers, years and place; complementary or reissued movements (checker, run 24)"
+_JOIN24 = {
+    "b7753b83-3d56-42ba-ab20-8a46a7a397b0": ("6b67b54c-6a5e-42ca-8fac-4d0f965b1e5d", "Harnoncourt 1972, the choruses: " + _R24),
+    "2848f983-eb5f-46ba-a9b3-dc87c1f8bfba": ("6b67b54c-6a5e-42ca-8fac-4d0f965b1e5d", "Harnoncourt 1972, the echo aria sung by a Vienna choirboy: " + _R24),
+    "cb688f8e-e389-49f7-9b0d-cd931cafe436": ("26c305d7-6adf-44f9-9643-c5eb3a8bbdf3", "Schmidt-Gaden 1973 (Collegium Aureum, Tölzer Knabenchor), the choruses on the highlights disc: " + _R24),
+    "836c9901-584e-477e-b748-151d3c158286": ("8ba65d5c-5617-4a26-bf40-b159bc9fd02f", "Richter 1965 (Herkulessaal), the Choruses and Arias reissue: " + _R24),
+    "ba2b5295-49f2-4e82-a5cc-de6723b1e33c": ("8ba65d5c-5617-4a26-bf40-b159bc9fd02f", "Richter 1965 (Herkulessaal), the Choruses and Arias reissue: " + _R24),
+    "418b5541-d85a-4e9f-82a3-ac46ee9ef6c7": ("8ba65d5c-5617-4a26-bf40-b159bc9fd02f", "Richter 1965 on An Old World Christmas (1990; his 1955 set was first issued in 2022): " + _R24),
+    "30c42bdf-d9cb-4c99-bb0e-2a59252530f1": ("8ba65d5c-5617-4a26-bf40-b159bc9fd02f", "Richter 1965 on Tune Your Brain With Bach (1999; his 1955 set was first issued in 2022), the original recording, not an arrangement: " + _R24),
+    "7933280c-0d53-45cc-a050-db1ccbf7c2a0": ("d4bc3b30-7ab8-4dcb-9e33-75025f642d79", "Shaw and Anderson 1946, 'Bereite dich, Zion' (as their St Matthew aria, run 23): " + _R24),
+    "a666eaae-3af2-4081-8783-8786ae576039": ("3570056d-9a96-480f-958b-a4e53aa2042d", "Lehmann 1955-56, the choruses: " + _R24),
+    "45ac1d91-3a6e-4bb4-a454-30bd5d715a54": ("3570056d-9a96-480f-958b-a4e53aa2042d", "Lehmann 1955-56, a chorale: " + _R24),
+    "f2de8cff-1f7f-4b49-afbb-06fbf27c8de3": ("3570056d-9a96-480f-958b-a4e53aa2042d", "Lehmann 1955-56, Krebs's aria (the chorus master Arndt is credited as conductor): " + _R24),
+    "a9d7bd9f-3564-4057-a98a-2f489717d52b": ("04202b16-e4ff-45b7-a1d9-38d799efb46d", "Rademann 2016, Parts III-IV credited to 'Gächinger Kantorei Stuttgart' with Rademann's soloists (Rilling is credited from a compilation's opening chorus): " + _R24),
+    "fa76cbaf-361b-48d5-a3b5-e50e3e3c0392": ("357d31ce-9469-4f7c-9b48-043a5e805d35", "Rilling 1984 (Hamari and Schöne were his alto and bass), two arias on a school anthology: " + _R24),
+    "e65ef940-3db3-417f-a095-8e1d8d68551c": ("4355ece7-c98b-423f-b97a-faaa466a6cbb", "Kurt Thomas 1958 (Fischer-Dieskau's 'Großer Herr'; Chailly is a compilation credit): " + _R24),
+    "316b4e07-623a-4606-8a9a-315b569b6f3d": ("e550d57b-5a80-4bb3-b62b-9d34b6ec3a2c", "Biller 1998 (Nikolaikirche), the choruses: " + _R24),
+    "19db5758-96af-4acf-a160-2b54dd1fa058": ("445cfe98-7a2e-4404-9bb0-919c7ebd82dc", "Flämig 1974 (Lukaskirche), the two choruses missing from the Bach Edition row: " + _R24),
+    "fcdcd2d1-04c9-43e5-8f39-b373d97d5a2c": ("445cfe98-7a2e-4404-9bb0-919c7ebd82dc", "Flämig 1974 with Burmeister, on In dulci jubilo: " + _R24),
+    "4c7e0516-a11b-4c6b-a651-ff2c1e247169": ("445cfe98-7a2e-4404-9bb0-919c7ebd82dc", "Flämig 1974, a chorale on Vom Himmel hoch da komm ich her: " + _R24),
+    "25cab5ad-b0ba-4b50-8add-4d4875f6a0d0": ("4ad20845-6f4a-443e-af2c-775983aab0c3", "Güttler (Virtuosi Saxoniae, Concentus Vocalis), three choruses on In dulci jubilo: " + _R24),
+    "a5f38115-6af6-4b94-85c1-049ef99d91a4": ("073e2793-3b34-4daa-a093-b4fe007223d9", "Schreier 1986-87 (Lukaskirche), reissued on Best of Bach: " + _R24),
+    "76845d9e-028c-4683-aee3-19a75291ee18": ("073e2793-3b34-4daa-a093-b4fe007223d9", "Schreier 1986-87, the opening chorus on High-Tech Chöre (not an arrangement): " + _R24),
+    "8b214893-a6dd-49f1-9d7d-1c5a1e8eb0a2": ("237d1a37-32c5-4372-8131-4beb4923ac0d", "Corboz 1984 (Casino de Vevey), the choruses: " + _R24),
+    "dd74c54a-46d1-4d5c-bd5e-1c88157ef8fe": ("a58e755d-24b0-43b3-b3d9-342a9477600a", "Münchinger 1966 (Lübecker Kantorei), on a Christmas compilation: " + _R24),
+    "4305ee57-dcd7-48fa-a932-70d6a0d2fe22": ("e0a3c345-4eb2-443d-ae8e-9a270db9b047", "Werner's Christmas Oratorio (Heinrich-Schütz-Chor, Pforzheim), the choruses: " + _R24),
+    "a582b605-b06c-4050-9797-19a04904425c": ("aaeb4b6f-9a50-46af-97b6-6d6435f82e04", "Werner 1964 Easter Oratorio, the Sinfonia with Maurice André on his Edition: " + _R24),
+    "61d29693-2c22-400f-a053-bb891f184162": ("5d66de94-55b3-47cb-ba36-27507c05bddf", "Guttenberg 1991 (Peace on Earth), the closing chorale: " + _R24),
+    "114336b4-7316-48c4-a2e9-4015149ddc31": ("3e17b5be-33ef-43dc-a8d1-15e8a92cc4c1", "Ericson 1993, the opening chorus on a compilation: " + _R24),
+    "ee31932f-c1bf-47d0-bbd8-052dff462909": ("a30319d6-71ee-43f6-9cee-b0e6cc6c1ace", "Koopman 1996, an aria on a Christmas compilation: " + _R24),
+    "7eee964f-fa26-4b87-bfa5-c655c1aff23e": ("2c6ab395-13f4-4bde-b7cb-cde2257fa9be", "Koopman's Ascension Oratorio (Cantatas, Volume 20), the choruses dated 2003 and the rest 2002: " + _R24),
+    "b4d8e162-5e99-4672-a4b6-6a9fb2f1a8f7": ("7954f28e-30fe-40a4-807f-08b18fd03de3", "Fasolis 2002-03, the undated reissue: " + _R24),
+    "58c1d1af-68cc-46ff-93b5-436c8fb58034": ("7954f28e-30fe-40a4-807f-08b18fd03de3", "Fasolis 2002-03, the undated reissue: " + _R24),
+    "2b054c78-d74e-4498-bc64-ee8d28083b29": ("c8dbae52-6610-4471-89e8-499555a67a71", "Oberfrank 1992 (Festetich Castle), the choruses: " + _R24),
+    "92fd567d-6861-48a8-87e3-7c0eeb3c0a3f": ("392efbe7-9024-4b89-926c-ba995c52283f", "Shaw (Christmas with Robert Shaw), the Sinfonia: " + _R24),
+    "93a3886b-ddeb-4a62-9b27-92b866e619e7": ("408cb448-ec59-4541-b0fe-a3c18fdf235d", "King 1998 (The Bright Seraphim), reissued on Essential Bach: " + _R24),
+    "ccb891c8-6d60-4cf5-b5b9-97c3f99f5128": ("a7559a5c-72ed-4e7b-89a4-30c91a36f76b", "Somary 1974 (Conway Hall), the recitative and aria missing from the other row: " + _R24),
+    "95adc5fa-b9f1-4b2b-a4a2-5d5d43f34577": ("2000204d-c096-4569-b4c5-143d5fcd5220", "Titov 1994, the same five movements reissued: " + _R24),
+    "9eaa9656-c84b-44c1-85e4-14d8cde26e9f": ("2bdb5e3e-631f-4cc5-ad29-e32571d46ce6", "Christophers 1993, the opening chorus on Silent Night: " + _R24),
+    "bd240162-3e7f-49f9-ad63-048af06f5951": ("59be5961-3fe8-4467-8d3b-f0caa01d7601", "Jochum 1973, the opening chorus on Leichte Klassik: " + _R24),
+    "6744fef6-4420-4f9b-a18a-c52632a19b2f": ("bcc3a30d-2289-410c-b140-11efc77d4670", "Herreweghe 1993 (Patriasz was his alto), on A New Approach to Johann Sebastian Bach: " + _R24),
+    "3cb00031-d48d-401f-b566-4b63eca76a85": ("b5d2404c-9117-4889-8c4b-6ca6d5c56989", "Dolci (Musica Fiorita): the bass aria missing from the 2017 set, on the same album and in the same place, dated 2012: " + _R24),
+}
+_OVERRIDE24 = {
+    "77879b0a-0e3f-494a-8b7e-56dce4c6be67": ({"arrangement": True, "performance_practice": "unknown", "performers": [
+        {"name": "The King’s Singers", "role": "choir"}, {"name": "WDR Big Band", "role": "orchestra"},
+        {"name": "Bill Dobbins", "role": "conductor"}]},
+        "The King's Singers with the WDR Big Band (Kölner Philharmonie, 2009): Bill Dobbins's jazz big-band arrangement; the band was credited as conductor (checker, run 24)"),
+    "448d2a04-7242-4389-9822-ce47c5de1d81": ({"arrangement": True},
+        "Jubilate Deo (Vienna Boys Choir, 2012): the alto aria 'Bereite dich, Zion' sung by the choir with piano (checker, run 24)"),
+    "ea16d634-df33-439f-bc0d-89f283e23400": ({"performance_practice": "historical"},
+        "Handel and Haydn Society (Llewellyn, Jordan Hall 2007) is a period-instrument orchestra (checker, run 24)"),
+    "b5d2404c-9117-4889-8c4b-6ca6d5c56989": ({"performance_practice": "historical"},
+        "Musica Fiorita (Daniela Dolci, Basel) plays on period instruments (checker, run 24)"),
+    "05e89119-00fa-45b0-836e-657d0b038a73": ({"years": [2013], "movements": [f"249:{i}" for i in range(11)]},
+        "Gardiner's Easter Oratorio (SDG 719): recorded 24-26 June 2013 at Cadogan Hall, each movement on its own track; the alto aria 'Saget, saget mir geschwinde' is not linked in MusicBrainz (MusicWeb review) (checker, run 24)"),
+    "ed5e9da7-f77b-42d5-b98e-0e74466238fa": ({"released": 2024},
+        "Gardiner's second Christmas Oratorio: recorded at St Martin-in-the-Fields in December 2022, released by DG on 25 October 2024; the 1990 first release is another set's (checker, run 24)"),
+    "eca66f0a-7c00-4685-b085-0395b3819e2d": ({"performers": [
+        {"name": "Akademie für Alte Musik Berlin", "role": "orchestra"}, {"name": "Chor des Bayerischen Rundfunks", "role": "choir"},
+        {"name": "Peter Dijkstra", "role": "conductor"}, {"name": "Rachel Harnisch", "role": "soprano"},
+        {"name": "Anke Vondung", "role": "mezzo-soprano"}, {"name": "Maximilian Schmitt", "role": "tenor"},
+        {"name": "Christian Immler", "role": "bass"}]},
+        "Dijkstra's Christmas Oratorio (Herkulessaal, 11-12 December 2010, BR Klassik): René Jacobs and Andreas Scholl are credits from Jacobs's 1997 set with the same orchestra (MusicWeb review) (checker, run 24)"),
+    "9893c11e-b8f5-476b-b0c2-5af9961e6e45": ({"performers": [
+        {"name": "Academy of St Martin in the Fields", "role": "orchestra"}, {"name": "Choir of King’s College, Cambridge", "role": "choir"},
+        {"name": "Philip Ledger", "role": "conductor"}, {"name": "Elly Ameling", "role": "soprano"},
+        {"name": "Dame Janet Baker", "role": "mezzo-soprano"}, {"name": "Robert Tear", "role": "tenor"},
+        {"name": "Dietrich Fischer‐Dieskau", "role": "bass"}]},
+        "Ledger's Christmas Oratorio (King's College Chapel, 1976): Marriner did not take part; he is a credit carried over from the Academy's compilations (checker, run 24)"),
+    "557a51fa-3445-462c-9a30-b3fcde2e1a0f": ({"performers": [
+        {"name": "Academy of St. Martin in the Fields", "role": "orchestra"}, {"name": "Sir Neville Marriner", "role": "conductor"},
+        {"name": "Dame Janet Baker", "role": "mezzo-soprano"}, {"name": "Iona Brown", "role": "violin"}]},
+        "Marriner with Janet Baker: Baker was given Iona Brown's violin credit (checker, run 24)"),
+    "f45c0468-56a8-4347-ae14-5e69e2809226": ({"performers": [
+        {"name": "Neues Bachisches Collegium Musicum", "role": "orchestra"}, {"name": "Max Pommer", "role": "conductor"},
+        {"name": "Ludwig Güttler", "role": "trumpet"}, {"name": "Siegfried Lorenz", "role": "bass"}]},
+        "Die Bach-Trompete (1984): Güttler is the trumpeter and Siegfried Lorenz the bass in 'Großer Herr, o starker König'; Güttler was given the bass credit (checker, run 24)"),
+    "04202b16-e4ff-45b7-a1d9-38d799efb46d": ({"performers": [
+        {"name": "Gaechinger Cantorey", "role": "ensemble"}, {"name": "Hans-Christoph Rademann", "role": "conductor"},
+        {"name": "Regula Mühlemann", "role": "soprano"}, {"name": "Anna Lucia Richter", "role": "soprano"},
+        {"name": "Wiebke Lehmkuhl", "role": "alto"}, {"name": "Sebastian Kohlhepp", "role": "tenor"},
+        {"name": "Michael Nagy", "role": "bass"}]},
+        "Rademann's Christmas Oratorio (Liederhalle, 2016): the Gaechinger Cantorey is choir and orchestra; Rilling and 'Gächinger Kantorei Stuttgart' as orchestra are credits from the joined row (checker, run 24)"),
+    "3570056d-9a96-480f-958b-a4e53aa2042d": ({"performers": [
+        {"name": "Berliner Philharmoniker", "role": "orchestra"}, {"name": "Berliner Motettenchor", "role": "choir"},
+        {"name": "RIAS Kammerchor", "role": "choir"}, {"name": "Fritz Lehmann", "role": "conductor"},
+        {"name": "Günther Arndt", "role": "chorus master"}, {"name": "Gunthild Weber", "role": "soprano"},
+        {"name": "Sieglinde Wagner", "role": "alto"}, {"name": "Helmut Krebs", "role": "tenor"},
+        {"name": "Heinz Rehfuss", "role": "bass"}]},
+        "Lehmann's Christmas Oratorio (1955-56): Günther Arndt, the chorus master, is credited as conductor on one row (checker, run 24)"),
+    "ff49b1c4-d1b7-432a-85a6-cc5e9ca2d1b5": ({"performers": [
+        {"name": "Bach Collegium Japan", "role": "orchestra"}, {"name": "Bach Collegium Japan Chorus", "role": "choir"},
+        {"name": "Masaaki Suzuki", "role": "conductor"}]},
+        "Suzuki is credited twice, in Latin and Japanese script, and once only as performer (as Ozawa, run 23) (checker, run 24)"),
+    "94b859a8-75d9-466f-a646-3c8dc367e64e": ({"performers": [
+        {"name": "Bach Collegium Japan", "role": "orchestra"}, {"name": "Masaaki Suzuki", "role": "conductor"},
+        {"name": "Monika Frimmer", "role": "soprano"}, {"name": "Midori Suzuki", "role": "soprano"},
+        {"name": "Yoshikazu Mera", "role": "alto"}, {"name": "Gerd Türk", "role": "tenor"}, {"name": "Peter Kooij", "role": "bass"}]},
+        "Suzuki is credited twice, in Latin and Japanese script, and once only as performer (as Ozawa, run 23) (checker, run 24)"),
+}
+
+JOIN_BY_SNAPSHOT["oratorios"].update(_JOIN24)
+OVERRIDE_BY_SNAPSHOT["oratorios"].update(_OVERRIDE24)
+
 INSTRUMENTS = {
     "cello": "cello", "violoncello": "cello",
     "baroque cello": "baroque-cello", "baroque violoncello": "baroque-cello",
@@ -1341,7 +1467,7 @@ PERIOD_ENSEMBLE = re.compile(
     r"les arts florissants|le concert d.astr.e|ensemble 415|harmonie universelle|sonnerie|la serenissima|"
     r"academy of ancient|monteverdi|english baroque|holland baroque|il complesso barocco|modo antiquo|ensemble 1700|"
     r"incogniti|florilegium|freitagsakademie|hanover band|musica florea|simphonie du marais|ensemble caprice|"
-    r"wiener akademie(?! kammerchor)|eighteenth century|new london consort|linde consort|schola cantorum basiliensis|musica amphion|"
+    r"wiener akademie(?! ?kammerchor|chor)|eighteenth century|new london consort|linde consort|schola cantorum basiliensis|musica amphion|"
     r"combattimento|harmony of nations|nova stravaganza|muses galantes|new dutch academy|magnifica comm?unit|"
     r"dantone|beznosiuk|barok|ensemble masques|les surprises|il fondamento|concert fran.ais|insula orchestra|"
     r"early music|voices of music|tulipa consort|trillium consort|apollon ensemble|american bach soloists|"
@@ -1645,7 +1771,8 @@ def works_block(perf: dict, bwvs: list[str], moves: dict[str, list[str]]) -> lis
 # Vocal works (run 22): a compilation linked in MusicBrainz to the whole work ("Laudate Dominum: famous arias and
 # choruses") holds a selection, not the complete work, but which movements is not known. A release whose title
 # names no large vocal work is such a compilation: the file keeps the whole work and says so in the notes.
-VOCAL_RELEASE = re.compile(r"magnificat|messe|\bmass\b|missa|passion|oratori|bwv\s*\d", re.I)
+VOCAL_RELEASE = re.compile(r"magnificat|messe|\bmass\b|missa|passion|oratori|bwv\s*\d|"
+                           r"kantat|cantat|\bcomplete\b|bach edition|bach 333", re.I)
 SELECTION_NOTE = "Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements."
 
 

@@ -1,0 +1,28 @@
+id: barokkanerne-2017
+performers:
+- name: Barokkanerne
+  role: ensemble
+- name: Marianne Beate Kielland
+  role: mezzo-soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: 'Operahuset i Oslo: Orchestra Rehearsal Room'
+released: 2018
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, IV. Aria (Alto) „Bereite dich, Zion“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e1975674-10da-4a7b-9f0e-0f117f8897c9
+  title: Er heißet Wunderbar!
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 237af3b0-5b90-460d-9d10-eea9f2abd2cb
+  recordings: [5486c58f-4b87-4ae2-aaa6-7381fe218427]

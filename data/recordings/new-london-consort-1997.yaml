@@ -1,0 +1,38 @@
+id: new-london-consort-1997
+performers:
+- name: New London Consort
+  role: orchestra
+- name: Philip Pickett
+  role: conductor
+- name: Paul Agnew
+  role: performer
+- name: Michael George
+  role: performer
+- name: Michael Chance
+  role: performer
+- name: Catherine Bott
+  role: performer
+- name: Andrew King
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: Walthamstow Assembly Hall
+released: 1999
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7635e2ab-121a-4703-8a3f-26c8d8bab8a5
+  title: Christmas Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 63441cee-1a27-46f1-82ae-408f739ee520
+  recordings: [0ad90b60-0879-4231-8a31-4aba1adf34ce]

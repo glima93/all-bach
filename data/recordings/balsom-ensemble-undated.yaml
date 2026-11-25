@@ -1,0 +1,33 @@
+id: balsom-ensemble-undated
+performers:
+- name: Balsom Ensemble
+  role: performer
+- name: Alison Balsom
+  role: natural trumpet
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, V. Choral „Wie soll ich dich empfangen“', 'Teil I, IX. Choral
+      „Ach mein herzliebes Jesulein“', 'Teil II, X. Sinfonia', 'Teil III, XXIV. Coro „Herrscher des Himmels, erhöre
+      das Lallen“', 'Teil VI, LIV. Coro „Herr, wenn die stolzen Feinde schnauben“', 'Teil VI, LXIV. Choral „Nun
+      seid ihr wohl gerochen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6a111884-a41f-4834-ad98-75fc070c0724
+  title: Royal Fireworks
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9c47a740-c741-42f0-a14f-fd7fb81e8275
+  recordings: [6d701c01-de2f-4dce-b6e1-e47039134a3b]

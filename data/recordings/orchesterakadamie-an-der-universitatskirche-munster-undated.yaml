@@ -1,0 +1,59 @@
+id: orchesterakadamie-an-der-universitatskirche-munster-undated
+performers:
+- name: Orchesterakadamie an der Universitätskirche Münster
+  role: orchestra
+- name: Studentenkantorei an der Universitätskirche Münster
+  role: choir
+- name: Ellen Beinert
+  role: conductor
+- name: Christian-Kai Sander
+  role: tenor
+- name: Stefan Adam
+  role: performer
+- name: Schirin Partowi
+  role: performer
+- name: Dorothee Wohlgemuth
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, I. Coro „Jauchzet, frohlocket“', 'Teil I, II. Recitativo „Es
+      begab sich aber zu der Zeit“ (Evangelista)', 'Teil I, III. Recitativo (Alto) „Nun wird mein liebster Bräutigam“',
+    'Teil I, IV. Aria (Alto) „Bereite dich, Zion“', 'Teil I, V. Choral „Wie soll ich dich empfangen“', 'Teil I,
+      VI. Recitativo „Und sie gebar ihren ersten Sohn“ (Evangelista)', 'Teil I, VII. Choral (Soprano) con Recitativo
+      (Basso) „Er ist auf Erden kommen arm“', 'Teil I, VIII. Aria (Basso) „Großer Herr, o starker König“', 'Teil
+      I, IX. Choral „Ach mein herzliebes Jesulein“', 'Teil II, X. Sinfonia', 'Teil II, XI. Recitativo „Und es waren
+      Hirten in derselben Gegend“ (Evangelista)', 'Teil II, XII. Choral „Brich an, o schönes Morgenlicht“', 'Teil
+      II, XIII. Recitativo „Und der Engel sprach zu ihnen“ (Evangelista, Angelus)', 'Teil II, XIV. Recitativo (Basso)
+      „Was Gott dem Abraham verheißen“', 'Teil II, XVI. Recitativo „Und das habt zum Zeichen“ (Evangelista)', 'Teil
+      II, XVII. Choral „Schaut hin, dort liegt im finstern Stall“', 'Teil II, XVIII. Recitativo (Basso) „So geht
+      denn hin“', 'Teil II, XIX. Aria (Alto) „Schlafe, mein Liebster“', 'Teil II, XX. Recitativo „Und alsobald war
+      da bei dem Engel“ (Evangelista)', 'Teil II, XXI. Coro „Ehre sei Gott in der Höhe“', 'Teil II, XXII. Recitativo
+      (Basso) „So recht, ihr Engel“', 'Teil II, XXIII. Choral „Wir singen dir in deinem Heer“', 'Teil III, XXIV.
+      Coro „Herrscher des Himmels, erhöre das Lallen“', 'Teil III, XXV. Recitativo „Und da die Engel“ (Evangelista)',
+    'Teil III, XXVI. Coro „Lasset uns nun gehen“', 'Teil III, XXVII. Recitativo (Basso) „Er hat sein Volk getröst“',
+    'Teil III, XXVIII. Choral „Dies hat er alles uns getan“', 'Teil III, XXIX. Aria duetto (Soprano, Basso) „Herr,
+      dein Mitleid“', 'Teil III, XXX. Recitativo „Und sie kamen eilend“ (Evangelista)', 'Teil III, XXXI. Aria (Alto)
+      „Schließe, mein Herze“', 'Teil III, XXXII. Recitativo (Alto) „Ja, ja, mein Herz soll es bewahren“', 'Teil
+      III, XXXIII. Choral „Ich will dich mit Fleiß bewahren“', 'Teil III, XXXIV. Recitativo „Und die Hirten kehrten
+      wieder um“ (Evangelista)', 'Teil III, XXXV. Choral "Seid froh dieweil"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a4c31c0d-fff9-4664-9a6a-09814c06eb9d
+  title: Weihnachtsoratorium BWV 248 Kantanten I-III
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cd999567-759c-46cb-8dd9-bed547af1637
+  recordings: [877c8be9-7a08-4f5e-bf6f-ef123f0523f7, f379b5e1-4b1d-44ff-a619-8fc11fb3dd7c]

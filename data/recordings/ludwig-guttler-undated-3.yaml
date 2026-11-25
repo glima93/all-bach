@@ -1,0 +1,28 @@
+id: ludwig-guttler-undated-3
+performers:
+- name: Ludwig Güttler
+  role: trumpet
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '249', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d11a5fe7-89ba-444c-9156-f028d9fbbf2e
+  title: Virtuose Trompete
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6217e9fd-3029-499b-b574-0c4aaaf17ee8
+  recordings: [98c82be2-07a9-43a6-8c0b-2ae5687dad52]

@@ -1,0 +1,29 @@
+id: collegium-vocale-gent-1994
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '249', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b5c5ee91-6ff7-4b1b-a6c9-3a74deb26414
+  title: Oster-Oratorium, BWV 249 / Kantate, BWV 66
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [1a098d4a-d7c0-4a14-a53d-34e043ef3d6a]

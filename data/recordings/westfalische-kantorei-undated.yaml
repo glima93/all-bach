@@ -1,0 +1,36 @@
+id: westfalische-kantorei-undated
+performers:
+- name: Westfälische Kantorei
+  role: choir
+- name: German Bach Orchestra
+  role: orchestra
+- name: Arno Schönstedt
+  role: organ
+- name: Helmut Winschermann
+  role: conductor
+- name: Deutsche Bachsolisten
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, IX. Choral „Ach mein herzliebes Jesulein“', 'Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/db5b6c44-6f9a-489f-be54-8daf706a9ebb
+  title: Christmas Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a5b18f6f-f4b6-452a-abd7-2f834f431d6b
+  recordings: [6399dc40-a410-4bee-ac3d-5963b8fdb7c6]

@@ -1,0 +1,28 @@
+id: academy-of-ancient-music-1982
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Christopher Hogwood
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1982]
+  place: St. Barnabas Church
+released: 1983
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/723052c1-ce18-420b-8a68-7b67463b2a63
+  title: Christmas Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [07df741a-6cfa-4103-ac38-738db9ec132f]

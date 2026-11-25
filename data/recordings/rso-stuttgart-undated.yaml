@@ -1,0 +1,34 @@
+id: rso-stuttgart-undated
+performers:
+- name: RSO Stuttgart
+  role: orchestra
+- name: Garcia Navarro
+  role: performer
+- name: Luis Antonio García Navarro
+  role: conductor
+- name: Radio‐Sinfonieorchester Stuttgart des SWR
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/16d8dafb-a4ac-4e01-834f-b6e797773e21
+  title: The World of the Classics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 09caaa4a-868f-4434-bcc3-4921ac8539df
+  recordings: [2d2083fb-8f58-4d38-b84f-3190dee11cf7]

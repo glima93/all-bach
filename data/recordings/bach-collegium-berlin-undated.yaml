@@ -1,0 +1,47 @@
+id: bach-collegium-berlin-undated
+performers:
+- name: Bach-Collegium Berlin
+  role: orchestra
+- name: Bach-Chor an der Kaiser-Wilhelm Gedächtniskirche Berlin
+  role: choir
+- name: Christian Schlicke
+  role: organ
+- name: Karl Hochreither
+  role: conductor
+- name: Lothar Odinius
+  role: tenor
+- name: Ralf Lukas
+  role: performer
+- name: Ulrike Helzel
+  role: performer
+- name: Regina Schudel
+  role: performer
+- name: Joachim Pliquett
+  role: trumpet
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Kaiser-Wilhelm-Gedächtniskirche
+released: null
+original_label: null
+works:
+- {bwv: '11', complete: false, movements: [I. Coro "Lobet Gott in seinen Reichen", II. "Der Herr Jesu hub seine
+      Hände auf" (Evangelista), 'III. Recitativo (Bass) "Ach, Jesu, ist dein Abschied schon so nah"', 'IV. Aria
+      (Alt) "Ach bleibe doch, mein liebstes Leben"', V. "Und ward aufgehoben zusehends" (Evangelista), VI. Choral
+      "Nun lieget alles unter dir", VII. "Und da sie ihm nachsahen" (Evangelista), 'X. Aria (Sopran) "Jesu, deine
+      Gnadenblicke"', XI. Choral "Wenn soll es doch geschehen"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/442d9fd2-7912-4257-8e02-bd33d2886e78
+  title: Bach-Kantaten in Berlin
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 3d15dde6-747c-46f3-abe0-284d2d3e512e
+  recordings: [542292c8-43b8-4a44-b650-7832683d0397, d220caa1-ceb7-40d1-a8d5-d0e6a8161cc7]

@@ -1,0 +1,32 @@
+id: sudfunk-chor-stuttgart-undated
+performers:
+- name: Südfunk-Chor Stuttgart
+  role: choir
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Hans Grischkat
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '11', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/825a9155-7bdf-4e58-8568-380bbc7cc476
+  title: 'Ascension: Oratorio intégral'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 47bce2e2-7c52-4fa6-a009-181eeb0b3827
+  recordings: [788c5b6d-2e9a-46af-9497-2322346f2b2f]

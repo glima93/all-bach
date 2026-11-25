@@ -1,0 +1,30 @@
+id: choir-of-king-s-college-undated
+performers:
+- name: Choir of King’s College, Cambridge
+  role: choir
+- name: Stephen Cleobury
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, XII. Choral „Brich an, o schönes Morgenlicht“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d6315cab-74c6-4a4f-8e5c-59d804278cca
+  title: 100 Years of Nine Lessons & Carols
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 67af7195-bcc0-413e-969b-b26f8a41d5ff
+  recordings: [6b14440c-902b-4fbe-933b-b5bd3ae434a5]

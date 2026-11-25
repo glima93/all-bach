@@ -1,0 +1,34 @@
+id: vienna-boys-choir-undated
+performers:
+- name: Vienna Boys Choir
+  role: choir
+- name: Gerald Wirth
+  role: piano
+- name: Manolo Cagnin
+  role: conductor
+- name: Wiener Sängerknaben
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, IV. Aria (Alto) „Bereite dich, Zion“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6a686355-1299-48bf-ae3b-e6f2175500d1
+  title: Jubilate Deo
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7badcc14-8d16-4734-acda-40645d156602
+  recordings: [448d2a04-7242-4389-9822-ce47c5de1d81]

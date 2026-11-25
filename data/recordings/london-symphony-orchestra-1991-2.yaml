@@ -1,0 +1,30 @@
+id: london-symphony-orchestra-1991-2
+performers:
+- name: London Symphony Orchestra
+  role: orchestra
+- name: Cheryl Studer
+  role: soprano
+- name: Ion Marin
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: Henry Wood Hall
+released: 1992
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil IV, XXXIX. (Soprano) „Flößt, mein Heiland, flößt dein Namen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/86c0d1bb-423c-4bb6-a31f-98bcbf3371a5
+  title: Songs of Praise
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 38712b4c-0fd4-4c65-8c7a-45676fecc973
+  recordings: [838cd67b-0941-4b60-9291-ab63b968c85b]

@@ -1,0 +1,33 @@
+id: venice-baroque-orchestra-undated-3
+performers:
+- name: Venice Baroque Orchestra
+  role: orchestra
+- name: Angelika Kirchschlager
+  role: mezzo-soprano
+- name: Andrea Marcon
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, IV. Aria (Alto) „Bereite dich, Zion“', 'Teil I, V. Choral „Wie
+      soll ich dich empfangen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/719cf3d6-3dff-47b3-95bb-4c2f231fb9ca
+  title: Opera for Christmas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 457ef80d-96a3-4b22-903e-70e2ef45a1f9
+  recordings: [321ddaa5-42fc-4154-a566-e82c5b9f69c4]

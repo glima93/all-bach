@@ -1,0 +1,32 @@
+id: english-chamber-orchestra-1974-2
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Johannes Somary
+  role: conductor
+- name: Michael Rippon
+  role: bass
+- name: Amor Artis Chorale
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974]
+  place: Conway Hall
+released: 2013
+original_label: null
+works:
+- {bwv: '11', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0824ea87-fd5d-431b-9ce0-9d9e9be33fe1
+  title: Bigger Bach Set
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [a7559a5c-72ed-4e7b-89a4-30c91a36f76b, ccb891c8-6d60-4cf5-b5b9-97c3f99f5128]

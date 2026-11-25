@@ -1,0 +1,31 @@
+id: new-york-philharmonia-virtuosi-undated-4
+performers:
+- name: New York Philharmonia Virtuosi
+  role: orchestra
+- name: Richard Kapp
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, I. Coro „Jauchzet, frohlocket“', 'Teil VI, LXIV. Choral „Nun
+      seid ihr wohl gerochen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e5f25af-d65a-4dac-84ba-3fefc9caa890
+  title: 'The Brandenburg Concertos, Vol. I: Concertos No. 1, 2 & 3 & Other Bach Favorites'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24f7fdaa-f1e0-4fab-ae05-a186137a921a
+  recordings: [2a7db416-ea37-4dc0-b080-c04b800a7acc]

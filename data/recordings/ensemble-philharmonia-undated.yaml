@@ -1,0 +1,28 @@
+id: ensemble-philharmonia-undated
+performers:
+- name: Ensemble Philharmonia
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5360bae1-2ccb-4133-abf1-3a0d13eb3c2c
+  title: A Classical Christmas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 23723a51-f938-403e-9006-76df0f3e4e86
+  recordings: [39451140-f387-4743-baeb-770cff29f408]

@@ -1,0 +1,33 @@
+id: sinfonia-rundfunk-sinfonieorchester-berlin-undated
+performers:
+- name: Sinfonia Rundfunk-Sinfonieorchester Berlin
+  role: orchestra
+- name: Helmut Koch
+  role: conductor
+- name: Rundfunk‐Sinfonieorchester Berlin
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e87b69c6-9353-4ece-a97a-c1f9cdbe7f7c
+  title: The Most Relaxing Christmas Album in the Universe
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49e9e1ca-8a85-4a76-b02f-5566532705f0
+  recordings: [610c7bd2-8a83-4015-92aa-f11370577c32]

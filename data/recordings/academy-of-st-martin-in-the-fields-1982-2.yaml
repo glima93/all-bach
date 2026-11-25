@@ -1,0 +1,31 @@
+id: academy-of-st-martin-in-the-fields-1982-2
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Heinz Holliger
+  role: conductor
+- name: Gidon Kremer
+  role: violin
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1982]
+  place: null
+released: 1984
+original_label: null
+works:
+- {bwv: '249', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef2634ad-f518-455d-b81c-3dc1405e4f8c
+  title: 'Bach: Concerto in C minor, BWV 1060 / Vivaldi: Concerti RV 576 & 582'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [ade5e1d3-49e4-454f-8d10-59370aa8821e]

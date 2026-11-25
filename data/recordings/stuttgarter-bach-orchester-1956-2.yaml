@@ -1,0 +1,38 @@
+id: stuttgarter-bach-orchester-1956-2
+performers:
+- name: Stuttgarter Bach-Orchester
+  role: orchestra
+- name: Stuttgarter Bach-Chor
+  role: choir
+- name: Marcel Couraud
+  role: conductor
+- name: Fritz Wunderlich
+  role: tenor
+- name: August Messthaler
+  role: bass
+- name: Margarete Bence
+  role: performer
+- name: Friederike Sailer
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1956]
+  place: Studio des Süddeutschen Rundfunks
+released: 2005
+original_label: null
+works:
+- {bwv: '249', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac52836c-d5d7-4242-9119-6198c6c51c2b
+  title: Complete Studio Recordings on Deutsche Grammophon
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ef781c3e-eddb-4f61-b493-f3f5243af63f
+  recordings: [713fc677-1b32-4d45-9501-a35d00a5fb28, a2f337bb-9ce4-4487-940e-d6afaba1a76d]

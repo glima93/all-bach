@@ -1,0 +1,30 @@
+id: taverner-players-undated
+performers:
+- name: Taverner Players
+  role: orchestra
+- name: Andrew Parrott
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: St. Giles’ without Cripplegate
+released: 1988
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0515ba8-9787-4d3e-9d85-324c37acc259
+  title: 'BBC Music, Volume 2, Number 4: Music for Christmas'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 64c537f4-fea4-477f-b360-ce81552f7ad6
+  recordings: [25f8268d-ccc4-49d5-9f81-d312fa0ed9e3]

@@ -1,0 +1,39 @@
+id: rias-kammerchor-1997
+performers:
+- name: RIAS Kammerchor
+  role: choir
+- name: Akademie für Alte Musik Berlin
+  role: orchestra
+- name: René Jacobs
+  role: conductor
+- name: Werner Güra
+  role: performer
+- name: Klaus Häger
+  role: performer
+- name: Andreas Scholl
+  role: performer
+- name: Dorothea Röschmann
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3ace20ef-c702-4422-80c3-5ae0f90d035c
+  title: Weihnachts-Oratorium, BWV 248
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f461b350-a814-4341-b427-c8fd59430d1f
+  recordings: [7252c888-d7af-4d05-b99b-2a47bfaad33f]

@@ -1,0 +1,30 @@
+id: friends-of-the-boston-symphony-orchestra-2002
+performers:
+- name: Friends of the Boston Symphony Orchestra
+  role: orchestra
+- name: Keisuke Wakao
+  role: performer
+- name: Boston Symphony Orchestra
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002]
+  place: Mechanics Hall
+released: 2003
+original_label: null
+works:
+- {bwv: '249', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/df68f8f8-167a-4370-b370-33dae74021bf
+  title: Keisuke Wakao Plays Bach, Mozart, Britten, Prokofiev with Friends of the Boston Symphony Orchestra
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ed6a493-0300-428d-82da-91c62b4d50aa
+  recordings: [4080a4c6-b01b-4586-a067-42cc0cae886c]

@@ -1,0 +1,30 @@
+id: gachinger-kantorei-stuttgart-undated-2
+performers:
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Bachkollegium Stuttgart
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, I. Coro „Jauchzet, frohlocket“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/97a02d70-5343-42e2-aa64-e23f1b6b9cfc
+  title: Chœurs éternels
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [9fd67443-d451-4b0d-9236-0ae116735ab4]

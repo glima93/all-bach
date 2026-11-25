@@ -1,0 +1,30 @@
+id: philharmonic-chamber-orchestra-undated
+performers:
+- name: Philharmonic Chamber Orchestra
+  role: orchestra
+- name: Louis Ablazzo
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil VI, LIX. Choral „Ich steh an deiner Krippen hier“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/74c4e19b-02b8-4e77-b410-36941dd6d5c5
+  title: International Christmas Carols
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0959ce42-246a-49a6-8423-07ab62c43cdb
+  recordings: [9a8c3a5c-d807-41bb-bea6-557fdc756b1d]

@@ -1,0 +1,38 @@
+id: stuttgarter-kammerorchester-1968
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Der Wiener Akademiechor
+  role: choir
+- name: Karl Münchinger
+  role: conductor
+- name: Elly Ameling
+  role: performer
+- name: Helen Watts
+  role: performer
+- name: Tom Krause
+  role: bass
+- name: Werner Krenn
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1968]
+  place: Evangelisches Schloßkirche
+released: 1990
+original_label: null
+works:
+- {bwv: '249', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b5980ed-b557-4e41-b74e-d87c2a573cf7
+  title: Oster-Oratorium / Kantate, BWV 10
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [16683a81-a49c-4c9b-9f5c-d7fb83b6ad4c, 171194a5-5bbd-4150-b36b-639d80a529cf]

@@ -1,0 +1,27 @@
+id: william-davies-undated
+performers:
+- name: William Davies
+  role: organ
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: St. Gabriel’s
+released: 1968
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, XII. Choral „Brich an, o schönes Morgenlicht“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b28d2a4-ca63-4455-af08-f5ad8c786b20
+  title: The Organ Plays Music for a Merry Christmas
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6ffe4a4b-9b17-4223-be2f-fc07a0f04083
+  recordings: [c7cf37e4-e076-49be-a6e1-395363ccd56c]

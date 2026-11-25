@@ -1,0 +1,24 @@
+bwv: "11"
+title: "Ascension Oratorio"
+key: "D major"
+collection: "Oratorios"
+genre: oratorio
+scoring: "Four-part choir (SATB), soloists, 2 flutes, 2 oboes, 3 trumpets, timpani, strings and continuo"
+composed: "Leipzig; first performed on Ascension Day, 19 May 1735"
+movements:
+  - "I. Coro \"Lobet Gott in seinen Reichen\""
+  - "II. \"Der Herr Jesu hub seine Hände auf\" (Evangelista)"
+  - "III. Recitativo (Bass) \"Ach, Jesu, ist dein Abschied schon so nah\""
+  - "IV. Aria (Alt) \"Ach bleibe doch, mein liebstes Leben\""
+  - "V. \"Und ward aufgehoben zusehends\" (Evangelista)"
+  - "VI. Choral \"Nun lieget alles unter dir\""
+  - "VII. \"Und da sie ihm nachsahen\" (Evangelista)"
+  - "VIII. Recitativo (Alto) \"Ach ja! so komme bald zurück\""
+  - "IX. \"Sie aber beteten ihn an\" (Evangelista)"
+  - "X. Aria (Sopran) \"Jesu, deine Gnadenblicke\""
+  - "XI. Choral \"Wenn soll es doch geschehen\""
+notes: "Bach's shortest oratorio, narrating the Ascension from the Gospels and Acts through a tenor Evangelist. The alto aria was later reworked as the Agnus Dei of the Mass in B minor."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Ascension_Oratorio"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/47bf994c-212e-4fe9-989c-b79316ec334f

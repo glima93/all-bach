@@ -1,0 +1,30 @@
+id: bach-choir-of-bethlehem-1998
+performers:
+- name: Bach Choir of Bethlehem
+  role: choir
+- name: Bethlehem Bach Festival Orchestra
+  role: orchestra
+- name: Greg Funfgeld
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: First Presbyterian Church of Bethlehem
+released: 1999
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/56268c94-780c-47bf-bc18-f0582866c80b
+  title: Christmas Oratorio, BWV 248
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2f7b8c4-8f88-448f-bd0b-f69c4159d06e
+  recordings: [73c4e9dd-03b9-4209-af40-05b73abbce37]

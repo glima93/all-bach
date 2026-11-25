@@ -1,0 +1,28 @@
+id: zagrebacki-solisti-undated-2
+performers:
+- name: Zagrebački solisti
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1372fee3-e145-4a95-8d15-e50def7c1157
+  title: 'Bach: The Ultimate Collection'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e3573325-ec7c-43c9-8025-80895df6d043
+  recordings: [6b6c0d6b-7c18-4523-85ab-3eec26237b39]

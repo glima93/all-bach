@@ -1,0 +1,34 @@
+id: philadelphia-bach-collegium-2014
+performers:
+- name: Philadelphia Bach Collegium
+  role: orchestra
+- name: Choral Arts Philadelphia
+  role: choir
+- name: Matthew Glandorf
+  role: conductor
+- name: Robin Bier
+  role: performer
+- name: Aaron Sheehan
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Philadelphia Episcopal Cathedral
+released: 2014
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/233d73c5-3aab-4398-83e5-192edc339ed3
+  title: Christmas Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d2489063-1cde-437a-bec0-0f934c7d0a8e
+  recordings: [537635a5-3817-4a3d-8905-529a5fb02292, 7d83a93b-209c-4ce9-b030-1afc17e7bfaf]

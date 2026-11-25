@@ -1,0 +1,30 @@
+id: bachorchester-mainz-2017
+performers:
+- name: Bachorchester Mainz
+  role: orchestra
+- name: Mainz Bach Choir
+  role: choir
+- name: Ralf Otto
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Christuskirche
+released: 2018
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd5bbb9b-9fd2-4db4-ae4c-e7f0361641f9
+  title: Christmas Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fca2c0e8-3498-4c88-8c6a-8bd67591af6b
+  recordings: [5f7549cb-f9b4-40d3-8dd1-e26168f0a1ca, 8af72bf6-6740-419b-b7a4-16c350218a94]

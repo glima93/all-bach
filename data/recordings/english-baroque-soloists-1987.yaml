@@ -1,0 +1,36 @@
+id: english-baroque-soloists-1987
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: The Monteverdi Choir
+  role: choir
+- name: John Eliot Gardiner
+  role: conductor
+- name: Anne Sofie von Otter
+  role: performer
+- name: Olaf Bär
+  role: performer
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1987]
+  place: Abbey Road Studios
+released: 1987
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6ffcabab-e5e7-4825-8e6a-e44bc003dbea
+  title: Christmas Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [7963b886-379b-4f5e-baeb-7ae2b628f949, aab928ee-c80e-4207-872d-b868b45d9f6b]

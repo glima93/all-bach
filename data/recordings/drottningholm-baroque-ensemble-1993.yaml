@@ -1,0 +1,34 @@
+id: drottningholm-baroque-ensemble-1993
+performers:
+- name: Drottningholm Baroque Ensemble
+  role: ensemble
+- name: Eric Ericson
+  role: conductor
+- name: Eric Ericson Chamber Choir
+  role: choir
+- name: Eric Ericsons Kammarkör
+  role: choir
+- name: Drottningholms Barockensemble
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: Berwaldhallen
+released: 1994
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0c77bcf5-b0ce-4f1a-b983-afbb08585470
+  title: Weihnachts-Oratorium, BWV 248
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 07fed070-218e-42bb-b0f4-37efae12fc7c
+  recordings: [114336b4-7316-48c4-a2e9-4015149ddc31, 3e17b5be-33ef-43dc-a8d1-15e8a92cc4c1]

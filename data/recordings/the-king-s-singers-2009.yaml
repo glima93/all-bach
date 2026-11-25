@@ -1,0 +1,52 @@
+id: the-king-s-singers-2009
+performers:
+- name: The King’s Singers
+  role: choir
+- name: WDR Big Band
+  role: orchestra
+- name: Bill Dobbins
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: [2009]
+  place: Kölner Philharmonie
+released: 2010
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, I. Coro „Jauchzet, frohlocket“', 'Teil I, II. Recitativo „Es
+      begab sich aber zu der Zeit“ (Evangelista)', 'Teil I, IV. Aria (Alto) „Bereite dich, Zion“', 'Teil I, VI.
+      Recitativo „Und sie gebar ihren ersten Sohn“ (Evangelista)', 'Teil I, IX. Choral „Ach mein herzliebes Jesulein“',
+    'Teil II, XI. Recitativo „Und es waren Hirten in derselben Gegend“ (Evangelista)', 'Teil II, XIII. Recitativo
+      „Und der Engel sprach zu ihnen“ (Evangelista, Angelus)', 'Teil II, XV. Aria (Tenore) „Frohe Hirten, eilt,
+      ach eilet“', 'Teil II, XVI. Recitativo „Und das habt zum Zeichen“ (Evangelista)', 'Teil II, XIX. Aria (Alto)
+      „Schlafe, mein Liebster“', 'Teil III, XXIV. Coro „Herrscher des Himmels, erhöre das Lallen“', 'Teil III, XXV.
+      Recitativo „Und da die Engel“ (Evangelista)', 'Teil III, XXVI. Coro „Lasset uns nun gehen“', 'Teil III, XXX.
+      Recitativo „Und sie kamen eilend“ (Evangelista)', 'Teil III, XXXI. Aria (Alto) „Schließe, mein Herze“', 'Teil
+      III, XXXIV. Recitativo „Und die Hirten kehrten wieder um“ (Evangelista)', 'Teil III, XXXV. Choral "Seid froh
+      dieweil"', 'Teil IV, XXXVI. Coro „Fallt mit Danken, fallt mit Loben“', 'Teil IV, XXXVII. Recitativo „Und da
+      acht Tage um waren“ (Evangelista)', 'Teil IV, XL. Recitativo (Basso) con Chorale (Soprano) „Wohlan, dein Name
+      soll allein“', 'Teil IV, XLI. Aria (Tenore) „Ich will nur dir zu Ehren leben“', 'Teil V, XLIV. Recitativo
+      „Da Jesus geboren war zu Bethlehem“ (Evangelista)', 'Teil V, XLV. Coro e Recitativo (Alto) „Wo ist der neugeborne
+      König“', 'Teil V, XLVI. Choral „Dein Glanz all Finsternis verzehrt“', 'Teil V, XLVII. Aria (Basso) „Erleucht
+      auch meine finstre Sinnen“', 'Teil V, XLVIII. Recitativo „Da das der König Herodes hörte“ (Evangelista)',
+    'Teil V, XLIX. Recitativo (Alto) „Warum wollt ihr erschrecken“', 'Teil V, L. Recitativo „Und ließ versammeln
+      alle Hohepriester“ (Evangelista)', 'Teil VI, LV. Recitativo „Da berief Herodes die Weisen heimlich“ (Evangelista)',
+    'Teil VI, LVI. Recitativo (Soprano) „Du Falscher, suche nur den Herrn zu fällen“', 'Teil VI, LVII. Aria (Soprano)
+      „Nur ein Wink von seinen Händen“', 'Teil VI, LVIII. Recitativo „Als sie nun den König gehöret hatten“ (Evangelista)',
+    'Teil VI, LX. Recitativo „Und Gott befahl ihnen im Traum“ (Evangelista)', 'Teil VI, LXI. Recitativo (Tenore)
+      „So geht! Genug, mein Schatz geht nicht von hier“', 'Teil VI, LXIII. Recitativo (Soprano, Alto, Tenore, Basso)
+      „Was will der Höllen Schrecken nun“', 'Teil VI, LXIV. Choral „Nun seid ihr wohl gerochen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/82a48b80-a8ff-4210-829d-7a7f62c278b4
+  title: 'J. S. Bach: Christmas Oratorio'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9170ee99-b422-4134-a1f9-9f4e5aaf8127
+  recordings: [77879b0a-0e3f-494a-8b7e-56dce4c6be67]

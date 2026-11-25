@@ -1,0 +1,37 @@
+id: munchener-bach-orchester-1955
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Münchener Bach‐Chor
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Hertha Töpper
+  role: performer
+- name: Gert Lutze
+  role: tenor
+- name: Chloë Owen
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1955]
+  place: null
+released: 2022
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/70cb3d04-2583-45ee-a35d-56fe2c65bf2b
+  title: Christmas Oratorio
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [4f887f6d-1ec6-4224-921c-a1edb9c5e377, 71433f0e-5547-42f5-bef7-7c25f4ccceaf]

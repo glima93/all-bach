@@ -1,0 +1,38 @@
+id: ensemble-frauenkirche-2011
+performers:
+- name: Ensemble Frauenkirche
+  role: orchestra
+- name: Kammerchor der Frauenkirche Dresden
+  role: choir
+- name: Matthias Grünert
+  role: conductor
+- name: Gotthold Schwarz
+  role: performer
+- name: Jana Büchner
+  role: performer
+- name: Markus Brutscher
+  role: tenor
+- name: Britta Schwarz
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2011]
+  place: Frauenkirche Dresden
+released: 2012
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92887f59-14ef-4151-8d5c-0ca873b43d76
+  title: Weihnachtsoratorium
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 3392fb9d-df95-4fc5-9c80-7498bdbc59b2
+  recordings: [0b95bdd5-c0c1-4430-960b-1ef115872dba, 573377e2-165f-4699-a9ce-5f7765c9090c]

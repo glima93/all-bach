@@ -1,0 +1,30 @@
+id: tasmanian-symphony-orchestra-undated
+performers:
+- name: Tasmanian Symphony Orchestra
+  role: orchestra
+- name: David Stanhope
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d2436ad5-85f2-4cd0-b831-832119335f2c
+  title: The Classic 100, Volume II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7e33a84d-0866-4d2c-b578-1ced0150d856
+  recordings: [b1700468-3a8d-471f-8db0-483227ce4200]

@@ -1,0 +1,35 @@
+id: bamberg-symphony-orchestra-1991
+performers:
+- name: Bamberg Symphony Orchestra
+  role: orchestra
+- name: Enoch zu Guttenberg
+  role: conductor
+- name: Chorgemeinschaft Neubeuern
+  role: choir
+- name: Bamberger Symphoniker
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, I. Coro „Jauchzet, frohlocket“', 'Teil VI, LXIII. Recitativo
+      (Soprano, Alto, Tenore, Basso) „Was will der Höllen Schrecken nun“', 'Teil VI, LXIV. Choral „Nun seid ihr
+      wohl gerochen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/24f530b0-cdde-4bbe-82de-9c001710ca11
+  title: 'Peace on Earth: A Bavarian Christmas'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 022371c0-e34a-4ce8-aaaf-1cca4f9082e0
+  recordings: [5d66de94-55b3-47cb-ba36-27507c05bddf, 61d29693-2c22-400f-a053-bb891f184162]

@@ -1,0 +1,31 @@
+id: indianapolis-symphonic-choir-2016
+performers:
+- name: Indianapolis Symphonic Choir
+  role: choir
+- name: Indianapolis Chamber Orchestra
+  role: orchestra
+- name: Eric Stark
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d2fc745-35d9-4f0c-8989-36c390fd6202
+  title: Festival of Carols
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cc3b6646-479e-44ca-b621-dde882d07ca1
+  recordings: [9ed62ea0-bc5c-4771-ae4a-908492f8b988]

@@ -1,0 +1,31 @@
+id: regensburger-domspatzen-undated-2
+performers:
+- name: Regensburger Domspatzen
+  role: choir
+- name: Roland Büchner
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, XII. Choral „Brich an, o schönes Morgenlicht“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9fa67915-5958-48bb-9aac-f98f79d60fac
+  title: 'Hörmal: Denkmale zum Klingen bringen: Festliche Weihnachtsmusik, Vol. 4'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d654ba62-1301-43a5-bf4b-603adcb4ffbe
+  recordings: [d841083f-b931-4d43-872b-53ff0a28bc93]

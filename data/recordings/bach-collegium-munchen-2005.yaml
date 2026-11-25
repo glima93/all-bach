@@ -1,0 +1,33 @@
+id: bach-collegium-munchen-2005
+performers:
+- name: Bach‐Collegium München
+  role: ensemble
+- name: Hansjörg Albrecht
+  role: performer
+- name: Peter Schreier
+  role: conductor
+- name: Bach Collegium München
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2005]
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/326b9eca-a2d3-45cb-b800-9e0ca7488b0c
+  title: Weihnachts-Oratorium, BWV 248
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f5bd246e-b29d-469d-8ca6-1bdef5b09fc7
+  recordings: [3ff4a89e-33a7-4389-8b35-479830848731]
