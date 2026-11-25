@@ -1,0 +1,38 @@
+id: academy-of-st-martin-in-the-fields-1976-2
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Choir of King’s College, Cambridge
+  role: choir
+- name: Philip Ledger
+  role: conductor
+- name: Elly Ameling
+  role: soprano
+- name: Dame Janet Baker
+  role: mezzo-soprano
+- name: Robert Tear
+  role: tenor
+- name: Dietrich Fischer‐Dieskau
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: King’s College Chapel
+released: 1994
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f3555d69-811a-4a3d-9d06-01db07c50f05
+  title: Weihnachts-Oratorium
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [4fdb26cb-32eb-4db9-bb70-142a9b0ce707, 9893c11e-b8f5-476b-b0c2-5af9961e6e45]

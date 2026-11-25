@@ -1,0 +1,38 @@
+id: gaechinger-cantorey-2016
+performers:
+- name: Gaechinger Cantorey
+  role: ensemble
+- name: Hans-Christoph Rademann
+  role: conductor
+- name: Regula Mühlemann
+  role: soprano
+- name: Anna Lucia Richter
+  role: soprano
+- name: Wiebke Lehmkuhl
+  role: alto
+- name: Sebastian Kohlhepp
+  role: tenor
+- name: Michael Nagy
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Liederhalle
+released: null
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/25cec62d-8594-4541-b31a-c7aa34468c88
+  title: Weihnachtsoratorium
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [04202b16-e4ff-45b7-a1d9-38d799efb46d, a9d7bd9f-3564-4057-a98a-2f489717d52b]

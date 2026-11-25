@@ -1,0 +1,29 @@
+id: sinfonia-australis-undated
+performers:
+- name: Sinfonia Australis
+  role: orchestra
+- name: Diana Doherty
+  role: oboe
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Eugene Goossens Hall, ABC Centre
+released: 2003
+original_label: null
+works:
+- {bwv: '249', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0de6c24e-f071-4489-b365-c96bfa3c0a3e
+  title: Souvenirs
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cce1e322-a8de-446f-8538-bc1b890316ba
+  recordings: [acaae9ff-de61-49d2-a87b-a79d8500ee8b]

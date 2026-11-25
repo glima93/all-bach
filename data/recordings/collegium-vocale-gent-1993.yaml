@@ -1,0 +1,33 @@
+id: collegium-vocale-gent-1993
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: La Chapelle Royale
+  role: orchestra
+- name: Catherine Patriasz
+  role: contralto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '11', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f2d68ce1-eed7-46bd-ba73-d2df8ed7f8c3
+  title: Himmelfahrts-Oratorium / Oratorio de l'ascension BWV 11
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [6744fef6-4420-4f9b-a18a-c52632a19b2f, bcc3a30d-2289-410c-b140-11efc77d4670]

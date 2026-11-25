@@ -1,0 +1,55 @@
+id: regensburger-domspatzen-undated
+performers:
+- name: Regensburger Domspatzen
+  role: choir
+- name: Collegium St. Emmeram
+  role: orchestra
+- name: Hanns‐Martin Schneidt
+  role: performer
+- name: Heiner Hopfner
+  role: performer
+- name: Nikolaus Hillebrand
+  role: performer
+- name: Georg Ratzinger
+  role: performer
+- name: Michael Hoffmann
+  role: performer
+- name: Hubertus Baumann
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, I. Coro „Jauchzet, frohlocket“', 'Teil I, II. Recitativo „Es
+      begab sich aber zu der Zeit“ (Evangelista)', 'Teil I, III. Recitativo (Alto) „Nun wird mein liebster Bräutigam“',
+    'Teil I, VI. Recitativo „Und sie gebar ihren ersten Sohn“ (Evangelista)', 'Teil I, VII. Choral (Soprano) con
+      Recitativo (Basso) „Er ist auf Erden kommen arm“', 'Teil I, IX. Choral „Ach mein herzliebes Jesulein“', 'Teil
+      II, XI. Recitativo „Und es waren Hirten in derselben Gegend“ (Evangelista)', 'Teil II, XIII. Recitativo „Und
+      der Engel sprach zu ihnen“ (Evangelista, Angelus)', 'Teil II, XVI. Recitativo „Und das habt zum Zeichen“ (Evangelista)',
+    'Teil II, XX. Recitativo „Und alsobald war da bei dem Engel“ (Evangelista)', 'Teil II, XXI. Coro „Ehre sei Gott
+      in der Höhe“', 'Teil III, XXIV. Coro „Herrscher des Himmels, erhöre das Lallen“', 'Teil III, XXV. Recitativo
+      „Und da die Engel“ (Evangelista)', 'Teil III, XXVI. Coro „Lasset uns nun gehen“', 'Teil III, XXVII. Recitativo
+      (Basso) „Er hat sein Volk getröst“', 'Teil III, XXX. Recitativo „Und sie kamen eilend“ (Evangelista)', 'Teil
+      III, XXXIV. Recitativo „Und die Hirten kehrten wieder um“ (Evangelista)', 'Teil IV, XXXVI. Coro „Fallt mit
+      Danken, fallt mit Loben“', 'Teil V, XLIII. Coro „Ehre sei dir, Gott, gesungen“', 'Teil VI, LIV. Coro „Herr,
+      wenn die stolzen Feinde schnauben“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c72b0428-de5a-468e-85c9-e1ab7aa76d6f
+  title: 111 Classics for Christmas
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d654ba62-1301-43a5-bf4b-603adcb4ffbe
+  recordings: [1b7830d7-7003-4e74-8837-caada5cb2238]

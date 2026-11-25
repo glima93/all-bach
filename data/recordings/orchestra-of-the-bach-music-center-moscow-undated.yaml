@@ -1,0 +1,32 @@
+id: orchestra-of-the-bach-music-center-moscow-undated
+performers:
+- name: Orchestra of the Bach Music Center Moscow
+  role: orchestra
+- name: Sergey Miassojedov
+  role: conductor
+- name: Сергей Миассоедов
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '249', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6598798d-8d71-4a28-81e7-767a6241702e
+  title: Jesus
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dc509b25-f87a-4c71-870e-d49f4b9720ce
+  recordings: [a2a226e6-a65f-496d-ace8-ec96d241d7eb]

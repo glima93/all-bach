@@ -1,0 +1,30 @@
+id: athesinus-consort-berlin-undated
+performers:
+- name: Athesinus Consort Berlin
+  role: choir
+- name: Klaus-Martin Bresgott
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil VI, LIX. Choral „Ich steh an deiner Krippen hier“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/62399d58-993a-4544-ba38-605ce13cfa0d
+  title: O Heiland, reiß die Himmel auf
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 85fb4f9e-6bac-4071-9600-48251d3d96be
+  recordings: [14ec5042-c056-442e-b9c6-1734543c7a4f]

@@ -1,0 +1,38 @@
+id: amsterdam-baroque-orchestra-1996-2
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Ton Koopman
+  role: conductor
+- name: Elisabeth von Magnus
+  role: performer
+- name: Christoph Prégardien
+  role: tenor
+- name: Klaus Mertens
+  role: performer
+- name: Lisa Larsson
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Waalse Kerk
+released: 1996
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/791a1b50-2d57-4f2b-91aa-437eec438e18
+  title: Weihnachtsoratorium BWV 248
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [43f8445a-b8e6-4a6f-95cb-87d0e8f87e9f, a30319d6-71ee-43f6-9cee-b0e6cc6c1ace, ee31932f-c1bf-47d0-bbd8-052dff462909]

@@ -1,0 +1,59 @@
+id: petit-baroque-berlin-undated
+performers:
+- name: Petit Baroque Berlin
+  role: orchestra
+- name: Cantores Minores
+  role: choir
+- name: Gerhard Oppelt
+  role: conductor
+- name: Lydia Brotherton
+  role: performer
+- name: Philipp Neumann
+  role: tenor
+- name: Sebastian Noack
+  role: performer
+- name: Daniel Cabena
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Luisenkirche
+released: 2011
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, I. Coro „Jauchzet, frohlocket“', 'Teil I, II. Recitativo „Es
+      begab sich aber zu der Zeit“ (Evangelista)', 'Teil I, IV. Aria (Alto) „Bereite dich, Zion“', 'Teil I, V. Choral
+      „Wie soll ich dich empfangen“', 'Teil I, VI. Recitativo „Und sie gebar ihren ersten Sohn“ (Evangelista)',
+    'Teil I, VII. Choral (Soprano) con Recitativo (Basso) „Er ist auf Erden kommen arm“', 'Teil I, VIII. Aria (Basso)
+      „Großer Herr, o starker König“', 'Teil I, IX. Choral „Ach mein herzliebes Jesulein“', 'Teil II, X. Sinfonia',
+    'Teil II, XI. Recitativo „Und es waren Hirten in derselben Gegend“ (Evangelista)', 'Teil II, XII. Choral „Brich
+      an, o schönes Morgenlicht“', 'Teil II, XIII. Recitativo „Und der Engel sprach zu ihnen“ (Evangelista, Angelus)',
+    'Teil II, XIV. Recitativo (Basso) „Was Gott dem Abraham verheißen“', 'Teil II, XV. Aria (Tenore) „Frohe Hirten,
+      eilt, ach eilet“', 'Teil II, XVI. Recitativo „Und das habt zum Zeichen“ (Evangelista)', 'Teil II, XVII. Choral
+      „Schaut hin, dort liegt im finstern Stall“', 'Teil II, XVIII. Recitativo (Basso) „So geht denn hin“', 'Teil
+      II, XIX. Aria (Alto) „Schlafe, mein Liebster“', 'Teil II, XX. Recitativo „Und alsobald war da bei dem Engel“
+      (Evangelista)', 'Teil II, XXI. Coro „Ehre sei Gott in der Höhe“', 'Teil II, XXII. Recitativo (Basso) „So recht,
+      ihr Engel“', 'Teil II, XXIII. Choral „Wir singen dir in deinem Heer“', 'Teil III, XXIV. Coro „Herrscher des
+      Himmels, erhöre das Lallen“', 'Teil III, XXV. Recitativo „Und da die Engel“ (Evangelista)', 'Teil III, XXVI.
+      Coro „Lasset uns nun gehen“', 'Teil III, XXVII. Recitativo (Basso) „Er hat sein Volk getröst“', 'Teil III,
+      XXVIII. Choral „Dies hat er alles uns getan“', 'Teil III, XXIX. Aria duetto (Soprano, Basso) „Herr, dein Mitleid“',
+    'Teil III, XXX. Recitativo „Und sie kamen eilend“ (Evangelista)', 'Teil III, XXXI. Aria (Alto) „Schließe, mein
+      Herze“', 'Teil III, XXXII. Recitativo (Alto) „Ja, ja, mein Herz soll es bewahren“', 'Teil III, XXXIII. Choral
+      „Ich will dich mit Fleiß bewahren“', 'Teil III, XXXIV. Recitativo „Und die Hirten kehrten wieder um“ (Evangelista)',
+    'Teil III, XXXV. Choral "Seid froh dieweil"', 'Teil III, XXIV (da capo). Coro da capo „Herrscher des Himmels,
+      erhöre das Lallen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2d8fcffe-1cef-4934-8466-135a6007eabb
+  title: Weihnachtsoratorium
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3ce8eced-24a0-4f9a-9ad2-672dc16e960d
+  recordings: [bee5216b-9120-47d1-891b-ed9bf9bf9a7f, d400ff39-6e9e-4c58-b8e7-758a91578671]

@@ -1,0 +1,29 @@
+id: klaus-gottler-undated
+performers:
+- name: Klaus Göttler
+  role: acoustic guitar
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil VI, LIX. Choral „Ich steh an deiner Krippen hier“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/56b55aef-b07d-4ff9-95ee-6e2d72df2fa0
+  title: Christmas Acoustics
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With acoustic guitar.
+musicbrainz:
+  artist: 9340da09-d385-4c77-82d3-41425ec36b7f
+  recordings: [237919f7-a901-499d-8822-a82646b297d8]

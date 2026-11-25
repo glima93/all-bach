@@ -1,0 +1,48 @@
+id: the-monteverdi-choir-2022
+performers:
+- name: The Monteverdi Choir
+  role: choir
+- name: English Baroque Soloists
+  role: orchestra
+- name: John Eliot Gardiner
+  role: conductor
+- name: Hugh Cutting
+  role: performer
+- name: Hilary Cronin
+  role: performer
+- name: Frederick Long
+  role: performer
+- name: Nick Pritchard
+  role: performer
+- name: Dingle Yandell
+  role: performer
+- name: Alison Ponsford-Hill
+  role: performer
+- name: Christopher Webb
+  role: performer
+- name: Jonathan Hanley
+  role: performer
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2022]
+  place: St Martin-in-the-Fields
+released: 2024
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/35491ea0-36a2-4eac-991f-919bd2fc0caf
+  title: Christmas Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a3016390-1ea7-41e2-afac-8d3d3d021fe0
+  recordings: [ed5e9da7-f77b-42d5-b98e-0e74466238fa]

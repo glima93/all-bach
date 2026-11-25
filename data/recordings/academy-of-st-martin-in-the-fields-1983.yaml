@@ -1,0 +1,30 @@
+id: academy-of-st-martin-in-the-fields-1983
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Sir Neville Marriner
+  role: conductor
+- name: Ian Watson
+  role: harpsichord
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1983]
+  place: Abbey Road Studios
+released: 1984
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f8bd1af7-d6d6-41df-89a3-bcee2b2c49ac
+  title: The Academy–By Request
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [06b60e1b-fc1d-499a-b38d-f6bfd5c36672]

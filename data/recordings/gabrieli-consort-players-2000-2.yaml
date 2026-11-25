@@ -1,0 +1,30 @@
+id: gabrieli-consort-players-2000-2
+performers:
+- name: Gabrieli Consort & Players
+  role: orchestra
+- name: Paul McCreesh
+  role: conductor
+- name: Gabrieli Players
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Ev.-Luth. Kirche - St. Michaelis
+released: 2001
+original_label: null
+works:
+- {bwv: '249', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e622cba4-ecd9-4ce8-9a62-6d0dc933d6f3
+  title: Magnificat / Easter Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1cb79018-6057-4fc6-b155-143b9fd91b11
+  recordings: [ab40b55a-98a0-4140-a74f-f2bea4ed5a91]

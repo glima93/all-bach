@@ -1,0 +1,53 @@
+id: gewandhausorchester-leipzig-1958
+performers:
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Thomanerchor
+  role: choir
+- name: Kurt Thomas
+  role: conductor
+- name: Agnes Giebel
+  role: performer
+- name: Dietrich Fischer‐Dieskau
+  role: baritone
+- name: Riccardo Chailly
+  role: performer
+- name: Marga Höffgen
+  role: alto
+- name: Josef Traxel
+  role: performer
+- name: Thomanerchor Leipzig
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1958]
+  place: Thomaskirche
+released: 1988
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, I. Coro „Jauchzet, frohlocket“', 'Teil I, IV. Aria (Alto) „Bereite
+      dich, Zion“', 'Teil I, V. Choral „Wie soll ich dich empfangen“', 'Teil I, VII. Choral (Soprano) con Recitativo
+      (Basso) „Er ist auf Erden kommen arm“', 'Teil I, VIII. Aria (Basso) „Großer Herr, o starker König“', 'Teil
+      I, IX. Choral „Ach mein herzliebes Jesulein“', 'Teil II, X. Sinfonia', 'Teil II, XII. Choral „Brich an, o
+      schönes Morgenlicht“', 'Teil II, XV. Aria (Tenore) „Frohe Hirten, eilt, ach eilet“', 'Teil II, XVII. Choral
+      „Schaut hin, dort liegt im finstern Stall“', 'Teil II, XIX. Aria (Alto) „Schlafe, mein Liebster“', 'Teil II,
+      XXI. Coro „Ehre sei Gott in der Höhe“', 'Teil II, XXIII. Choral „Wir singen dir in deinem Heer“', 'Teil III,
+      XXV. Recitativo „Und da die Engel“ (Evangelista)', 'Teil III, XXVI. Coro „Lasset uns nun gehen“', 'Teil III,
+      XXVII. Recitativo (Basso) „Er hat sein Volk getröst“', 'Teil III, XXVIII. Choral „Dies hat er alles uns getan“',
+    'Teil III, XXIX. Aria duetto (Soprano, Basso) „Herr, dein Mitleid“', 'Teil III, XXXI. Aria (Alto) „Schließe,
+      mein Herze“', 'Teil III, XXXIII. Choral „Ich will dich mit Fleiß bewahren“', 'Teil III, XXXV. Choral "Seid
+      froh dieweil"', 'Teil III, XXIV (da capo). Coro da capo „Herrscher des Himmels, erhöre das Lallen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e5ce7048-6c61-4bd0-9f74-1ec87b2fff89
+  title: 'Weihnachtsoratorium: Arien & Chöre'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [4355ece7-c98b-423f-b97a-faaa466a6cbb, d111657c-6ef6-45f2-b898-9067a9a9cbed, e65ef940-3db3-417f-a095-8e1d8d68551c]

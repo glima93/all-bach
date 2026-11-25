@@ -1,0 +1,44 @@
+id: freiburger-barockorchester-undated
+performers:
+- name: Freiburger Barockorchester
+  role: orchestra
+- name: Vox Luminis
+  role: choir
+- name: Lionel Meunier
+  role: conductor
+- name: Raphael Höhn
+  role: tenor
+- name: Tobias Wicky
+  role: performer
+- name: Alexander Chance
+  role: performer
+- name: Zsuzsi Tóth
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '11', complete: false, movements: [I. Coro "Lobet Gott in seinen Reichen", II. "Der Herr Jesu hub seine
+      Hände auf" (Evangelista), 'III. Recitativo (Bass) "Ach, Jesu, ist dein Abschied schon so nah"', 'IV. Aria
+      (Alt) "Ach bleibe doch, mein liebstes Leben"', V. "Und ward aufgehoben zusehends" (Evangelista), VI. Choral
+      "Nun lieget alles unter dir", VII. "Und da sie ihm nachsahen" (Evangelista), 'X. Aria (Sopran) "Jesu, deine
+      Gnadenblicke"', XI. Choral "Wenn soll es doch geschehen"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6defff1b-5814-4eff-aabe-1bd5e4d12003
+  title: Himmelfahrt
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 21a558f0-22b1-4959-aa24-df7b0d7a571d
+  recordings: [7f26c417-2107-45c7-b7fd-1e30bea53e45, dc999a69-1a1d-4bb3-bd85-c9ec434106d6]

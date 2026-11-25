@@ -1,0 +1,58 @@
+id: handel-and-haydn-society-2007
+performers:
+- name: Händel and Haydn Society
+  role: ensemble
+- name: Grant Llewellyn
+  role: conductor
+- name: Aaron Sheehan
+  role: performer
+- name: Philip Cutlip
+  role: performer
+- name: Krista River
+  role: performer
+- name: Kristen Watson
+  role: performer
+- name: Handel and Haydn Society
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: Jordan Hall
+released: null
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, I. Coro „Jauchzet, frohlocket“', 'Teil I, II. Recitativo „Es
+      begab sich aber zu der Zeit“ (Evangelista)', 'Teil I, III. Recitativo (Alto) „Nun wird mein liebster Bräutigam“',
+    'Teil I, IV. Aria (Alto) „Bereite dich, Zion“', 'Teil I, V. Choral „Wie soll ich dich empfangen“', 'Teil I,
+      VI. Recitativo „Und sie gebar ihren ersten Sohn“ (Evangelista)', 'Teil I, VII. Choral (Soprano) con Recitativo
+      (Basso) „Er ist auf Erden kommen arm“', 'Teil I, VIII. Aria (Basso) „Großer Herr, o starker König“', 'Teil
+      I, IX. Choral „Ach mein herzliebes Jesulein“', 'Teil II, X. Sinfonia', 'Teil II, XI. Recitativo „Und es waren
+      Hirten in derselben Gegend“ (Evangelista)', 'Teil II, XII. Choral „Brich an, o schönes Morgenlicht“', 'Teil
+      II, XIII. Recitativo „Und der Engel sprach zu ihnen“ (Evangelista, Angelus)', 'Teil II, XIV. Recitativo (Basso)
+      „Was Gott dem Abraham verheißen“', 'Teil II, XV. Aria (Tenore) „Frohe Hirten, eilt, ach eilet“', 'Teil II,
+      XVI. Recitativo „Und das habt zum Zeichen“ (Evangelista)', 'Teil II, XVII. Choral „Schaut hin, dort liegt
+      im finstern Stall“', 'Teil II, XVIII. Recitativo (Basso) „So geht denn hin“', 'Teil II, XIX. Aria (Alto) „Schlafe,
+      mein Liebster“', 'Teil II, XX. Recitativo „Und alsobald war da bei dem Engel“ (Evangelista)', 'Teil II, XXI.
+      Coro „Ehre sei Gott in der Höhe“', 'Teil II, XXII. Recitativo (Basso) „So recht, ihr Engel“', 'Teil II, XXIII.
+      Choral „Wir singen dir in deinem Heer“', 'Teil III, XXIV. Coro „Herrscher des Himmels, erhöre das Lallen“',
+    'Teil III, XXV. Recitativo „Und da die Engel“ (Evangelista)', 'Teil III, XXVI. Coro „Lasset uns nun gehen“',
+    'Teil III, XXVII. Recitativo (Basso) „Er hat sein Volk getröst“', 'Teil III, XXVIII. Choral „Dies hat er alles
+      uns getan“', 'Teil III, XXIX. Aria duetto (Soprano, Basso) „Herr, dein Mitleid“', 'Teil III, XXX. Recitativo
+      „Und sie kamen eilend“ (Evangelista)', 'Teil III, XXXI. Aria (Alto) „Schließe, mein Herze“', 'Teil III, XXXII.
+      Recitativo (Alto) „Ja, ja, mein Herz soll es bewahren“', 'Teil III, XXXIII. Choral „Ich will dich mit Fleiß
+      bewahren“', 'Teil III, XXXIV. Recitativo „Und die Hirten kehrten wieder um“ (Evangelista)', 'Teil III, XXXV.
+      Choral "Seid froh dieweil"', 'Teil III, XXIV (da capo). Coro da capo „Herrscher des Himmels, erhöre das Lallen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/94a96d7c-e199-4373-b3aa-e121b166eb3b
+  title: '2007-12-xx: NEC''s Jordan Hall, Boston, MA, USA: Christmas Oratorio, BWV 248'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 35ddcb29-4c16-4af6-b6f8-32143ee24a6c
+  recordings: [ea16d634-df33-439f-bc0d-89f283e23400]

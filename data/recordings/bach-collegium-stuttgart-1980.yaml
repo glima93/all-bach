@@ -1,0 +1,38 @@
+id: bach-collegium-stuttgart-1980
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: Philippe Huttenlocher
+  role: bass
+- name: Adalbert Kraus
+  role: tenor
+- name: Júlia Hamari
+  role: performer
+- name: Arleen Augér
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980, 1981]
+  place: Tonstudio van Geest
+released: 1987
+original_label: null
+works:
+- {bwv: '249', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fd371301-2972-40c1-8dff-30a2f564f43c
+  title: Osteroratorium BWV 249 / Bleib bei uns BWV 6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [0c3995ef-e73f-4f13-83a5-e8db6afd5906, f4ec936d-b3a5-4e70-a693-56da3185f678]

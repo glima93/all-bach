@@ -1,0 +1,36 @@
+id: neues-bachisches-collegium-musicum-leipzig-undated
+performers:
+- name: Neues Bachisches Collegium Musicum Leipzig
+  role: orchestra
+- name: Universitätschor Leipzig
+  role: ensemble
+- name: Ludwig Güttler
+  role: trumpet
+- name: Max Pommer
+  role: conductor
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil VI, LXIV. Choral „Nun seid ihr wohl gerochen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2b6be0ef-b807-491f-ba9e-74e753fd838d
+  title: Highlights
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [dca8c13d-5e43-4180-ab38-5eeeef21f869]

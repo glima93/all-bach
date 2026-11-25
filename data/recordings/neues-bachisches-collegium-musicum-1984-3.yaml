@@ -1,0 +1,32 @@
+id: neues-bachisches-collegium-musicum-1984-3
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Ludwig Güttler
+  role: trumpet
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Hans-Joachim Rotzsch
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Paul-Gerhardt-Kirche
+released: 1984
+original_label: null
+works:
+- {bwv: '11', complete: false, movements: [XI. Choral "Wenn soll es doch geschehen"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/72dc27ee-e7d3-49fa-af78-d38432862e38
+  title: Die Bach-Trompete
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [838bb7a1-b1ed-4daa-a879-cfd6bceeb729]

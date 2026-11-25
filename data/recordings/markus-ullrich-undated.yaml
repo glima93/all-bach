@@ -1,0 +1,28 @@
+id: markus-ullrich-undated
+performers:
+- name: Markus Ullrich
+  role: voices and instruments
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil VI, LXIV. Choral „Nun seid ihr wohl gerochen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/277ec117-d861-4dc6-ae51-21a89cd7d06b
+  title: 'X5 Free Classical Sampler: Classical Christmas'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a9c4a3f5-1df2-414b-9d85-56c2fb4916a7
+  recordings: [4f384618-f23b-49bf-b260-10e18f4e135e]

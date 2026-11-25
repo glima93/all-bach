@@ -1,0 +1,32 @@
+id: holland-baroque-orchestra-undated
+performers:
+- name: Holland Baroque Orchestra
+  role: orchestra
+- name: Pieter Jan Leusink
+  role: conductor
+- name: Dutch Baroque Orchestra
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/78030e81-f109-4871-bfd9-90cf4b33d539
+  title: Het beste uit de barok
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: efd96942-fc86-4d58-9694-46d4fc8fe288
+  recordings: [1a41d857-1a5f-4886-88f2-89074707c791]

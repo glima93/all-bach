@@ -1,0 +1,29 @@
+id: german-brass-undated-3
+performers:
+- name: German Brass
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '249', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/83651f1d-fc1e-455f-bbb8-2349df60b985
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6e0558a0-c9cc-4dd6-9cfa-f32b24d35f9c
+  recordings: [83651f1d-fc1e-455f-bbb8-2349df60b985]

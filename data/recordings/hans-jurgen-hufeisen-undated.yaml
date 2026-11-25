@@ -1,0 +1,29 @@
+id: hans-jurgen-hufeisen-undated
+performers:
+- name: Hans-Jürgen Hufeisen
+  role: voices and instruments
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, IV. Aria (Alto) „Bereite dich, Zion“', 'Teil I, VIII. Aria
+      (Basso) „Großer Herr, o starker König“', 'Teil VI, LXII. Aria (Tenore) „Nun mögt ihr stolzen Feinde schrecken“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b49bad7e-b3fb-4dc2-b307-1ebe64cc0f72
+  title: Stern über Bethlehem
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 264da861-02dc-49a6-8ea9-8fb0343199da
+  recordings: [866c2d8b-6aba-45b5-932d-542fd33a5093]

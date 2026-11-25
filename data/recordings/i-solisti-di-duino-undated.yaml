@@ -1,0 +1,30 @@
+id: i-solisti-di-duino-undated
+performers:
+- name: I Solisti Di Duino
+  role: orchestra
+- name: Antonio Pellegrini
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1992
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a052f97a-06c3-4d43-bd09-9bde4b16f5da
+  title: 'Celestial Christmas 3: A Special Collection of Seasonal Works'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b3c5c893-3b6e-4266-a5a4-2de6f8f29aa5
+  recordings: [fb82c65a-9af8-4b57-88ff-d7941894ff25]

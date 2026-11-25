@@ -1,0 +1,28 @@
+id: kathleen-battle-1995
+performers:
+- name: Kathleen Battle
+  role: soprano
+- name: Robert Sadin
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: St. George's Episcopal Church
+released: 1997
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil IV, XXXIX. (Soprano) „Flößt, mein Heiland, flößt dein Namen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/444ffadb-5869-4171-a959-66995d6fcb6d
+  title: Grace
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7247de86-da8d-4b7d-a48d-04a6cdf1eb79
+  recordings: [5a6f85cb-374b-4331-a597-cd72ee405f4f]

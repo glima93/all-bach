@@ -1,0 +1,32 @@
+id: academy-of-st-martin-in-the-fields-1973-2
+performers:
+- name: Academy of St. Martin in the Fields
+  role: orchestra
+- name: Sir Neville Marriner
+  role: conductor
+- name: Dame Janet Baker
+  role: mezzo-soprano
+- name: Iona Brown
+  role: violin
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973, 1975]
+  place: 'Abbey Road Studios: Studio 1'
+released: 2001
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, IV. Aria (Alto) „Bereite dich, Zion“', 'Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b8f05ff-3003-4cea-96e1-308f8e6f1d7d
+  title: The Complete Warner Classics Recordings
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [557a51fa-3445-462c-9a30-b3fcde2e1a0f]

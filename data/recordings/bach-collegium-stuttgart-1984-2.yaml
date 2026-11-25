@@ -1,0 +1,35 @@
+id: bach-collegium-stuttgart-1984-2
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: Wolfgang Schöne
+  role: bass
+- name: Júlia Hamari
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1aa7a663-4832-4f63-ae64-1a7dcdb48d2c
+  title: Weihnachtsoratorium, BWV 248
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [357d31ce-9469-4f7c-9b48-043a5e805d35, df632f1a-80c0-4fee-a1c9-3e00ae902b21, fa76cbaf-361b-48d5-a3b5-e50e3e3c0392]

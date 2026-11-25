@@ -1,0 +1,29 @@
+id: prima-choir-undated
+performers:
+- name: Prima Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil III, XXXV. Choral "Seid froh dieweil"', 'Teil V, XLVI. Choral
+      „Dein Glanz all Finsternis verzehrt“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/17c570a5-c167-4f45-8b43-48a42b2c34c6
+  title: The 99 Most Essential Christmas Masterpieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49e38e34-6b2a-4d2a-a7bd-f77677e93532
+  recordings: [18430db2-2235-429c-b08d-f308980162d5]

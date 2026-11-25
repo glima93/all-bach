@@ -1,0 +1,36 @@
+id: chamber-choir-of-europe-2002
+performers:
+- name: Chamber Choir of Europe
+  role: choir
+- name: Nicol Matt
+  role: conductor
+- name: Freiburger Barockorchester
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2002, 2003]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, XII. Choral „Brich an, o schönes Morgenlicht“', 'Teil II,
+      XVII. Choral „Schaut hin, dort liegt im finstern Stall“', 'Teil III, XXVIII. Choral „Dies hat er alles uns
+      getan“', 'Teil III, XXXIII. Choral „Ich will dich mit Fleiß bewahren“', 'Teil III, XXXV. Choral "Seid froh
+      dieweil"', 'Teil V, XLVI. Choral „Dein Glanz all Finsternis verzehrt“', 'Teil V, LIII. Choral „Zwar ist solche
+      Herzensstube“', 'Teil VI, LIX. Choral „Ich steh an deiner Krippen hier“', 'Teil VI, LXIV. Choral „Nun seid
+      ihr wohl gerochen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/209df44d-1205-4506-8536-0a0f467fb7e7
+  title: 'Bach Edition, Volume 23: Chorale / Chorales'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3550ab78-4fa4-465d-9cd1-fba1543a949d
+  recordings: [5f64592b-56fa-4db2-a828-1e635ab77e3d]

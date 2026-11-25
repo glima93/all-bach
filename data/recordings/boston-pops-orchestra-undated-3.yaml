@@ -1,0 +1,31 @@
+id: boston-pops-orchestra-undated-3
+performers:
+- name: Boston Pops Orchestra
+  role: orchestra
+- name: Arthur Fiedler
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1980
+original_label: null
+works:
+- {bwv: '249', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f25a4bc-3777-42de-8988-36881a9cb693
+  title: Toccata und Fuge - Die schönsten Melodien von Bach
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cba412a5-4f8d-4999-827a-92b63e112892
+  recordings: [711f01f7-c464-4dc3-923f-848ed4e1d224]

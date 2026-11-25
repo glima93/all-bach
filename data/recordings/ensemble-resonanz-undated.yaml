@@ -1,0 +1,46 @@
+id: ensemble-resonanz-undated
+performers:
+- name: Ensemble Resonanz
+  role: ensemble
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, I. Coro „Jauchzet, frohlocket“', 'Teil I, II. Recitativo „Es
+      begab sich aber zu der Zeit“ (Evangelista)', 'Teil I, III. Recitativo (Alto) „Nun wird mein liebster Bräutigam“',
+    'Teil I, IV. Aria (Alto) „Bereite dich, Zion“', 'Teil I, V. Choral „Wie soll ich dich empfangen“', 'Teil I,
+      VI. Recitativo „Und sie gebar ihren ersten Sohn“ (Evangelista)', 'Teil I, VII. Choral (Soprano) con Recitativo
+      (Basso) „Er ist auf Erden kommen arm“', 'Teil I, VIII. Aria (Basso) „Großer Herr, o starker König“', 'Teil
+      II, X. Sinfonia', 'Teil II, XI. Recitativo „Und es waren Hirten in derselben Gegend“ (Evangelista)', 'Teil
+      II, XII. Choral „Brich an, o schönes Morgenlicht“', 'Teil II, XIX. Aria (Alto) „Schlafe, mein Liebster“',
+    'Teil III, XXV. Recitativo „Und da die Engel“ (Evangelista)', 'Teil III, XXVI. Coro „Lasset uns nun gehen“',
+    'Teil III, XXVII. Recitativo (Basso) „Er hat sein Volk getröst“', 'Teil III, XXVIII. Choral „Dies hat er alles
+      uns getan“', 'Teil III, XXX. Recitativo „Und sie kamen eilend“ (Evangelista)', 'Teil III, XXXI. Aria (Alto)
+      „Schließe, mein Herze“', 'Teil III, XXXII. Recitativo (Alto) „Ja, ja, mein Herz soll es bewahren“', 'Teil
+      III, XXXIII. Choral „Ich will dich mit Fleiß bewahren“', 'Teil IV, XXXIX. (Soprano) „Flößt, mein Heiland,
+      flößt dein Namen“', 'Teil IV, XL. Recitativo (Basso) con Chorale (Soprano) „Wohlan, dein Name soll allein“',
+    'Teil IV, XLI. Aria (Tenore) „Ich will nur dir zu Ehren leben“', 'Teil V, XLVIII. Recitativo „Da das der König
+      Herodes hörte“ (Evangelista)', 'Teil V, XLIX. Recitativo (Alto) „Warum wollt ihr erschrecken“', 'Teil V, LI.
+      Aria Terzetto (Soprano, Alto, Tenore) „Ach, wenn wird die Zeit erscheinen“', 'Teil V, LII. Recitativo (Alto)
+      „Mein Liebster herrschet schon“', 'Teil VI, LIX. Choral „Ich steh an deiner Krippen hier“', 'Teil VI, LXIII.
+      Recitativo (Soprano, Alto, Tenore, Basso) „Was will der Höllen Schrecken nun“', 'Teil VI, LXIV. Choral „Nun
+      seid ihr wohl gerochen“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bda54c7d-dc90-4eee-a725-dd3c38dd2778
+  title: Weihnachtsoratorium
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f4fb1421-1d1a-493a-b72e-dcf915eabe7b
+  recordings: [05d5d119-ba87-4b44-8652-1e07631457c7]

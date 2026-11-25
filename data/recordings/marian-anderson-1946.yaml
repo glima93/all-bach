@@ -1,0 +1,33 @@
+id: marian-anderson-1946
+performers:
+- name: Marian Anderson
+  role: contralto
+- name: RCA Symphony Orchestra
+  role: orchestra
+- name: Robert Shaw
+  role: conductor
+- name: RCA Victor Symphony Orchestra
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1946]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, IV. Aria (Alto) „Bereite dich, Zion“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/20016e82-bb35-4bd6-a6e9-23da7098802c
+  title: Soli Deo Gloria - Meisterwerke in bedeutenden Aufnahmen
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 845ed4e4-a7c2-4065-ad8a-65303fdf8af4
+  recordings: [7933280c-0d53-45cc-a050-db1ccbf7c2a0, d4bc3b30-7ab8-4dcb-9e33-75025f642d79]

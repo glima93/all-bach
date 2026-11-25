@@ -1,0 +1,31 @@
+id: swr-rundfunkorchester-kaiserslautern-2003
+performers:
+- name: SWR Rundfunkorchester Kaiserslautern
+  role: orchestra
+- name: Paul Goodwin
+  role: conductor
+- name: Olaf Bär
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2003]
+  place: Der Mainzer Dom
+released: 2004
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, VIII. Aria (Basso) „Großer Herr, o starker König“', 'Teil II,
+      X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2ee64a8a-8598-4d87-b1dc-2a47c9f6431f
+  title: Four Centuries of Christmas Music
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62a87182-82d2-41f6-8096-f010df93a8de
+  recordings: [a8f03396-b0e2-406b-9a44-3e596729d16c]

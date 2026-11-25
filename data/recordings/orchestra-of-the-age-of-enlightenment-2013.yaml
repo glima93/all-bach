@@ -1,0 +1,42 @@
+id: orchestra-of-the-age-of-enlightenment-2013
+performers:
+- name: Orchestra of the Age of Enlightenment
+  role: orchestra
+- name: Choir of Trinity College
+  role: choir
+- name: Stephen Layton
+  role: conductor
+- name: Iestyn Davies
+  role: performer
+- name: Matthew Brook
+  role: performer
+- name: James Gilchrist
+  role: tenor
+- name: Katherine Watson
+  role: performer
+- name: Rachel Ambrose Evans
+  role: performer
+- name: Choir of Trinity College, Cambridge
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2013]
+  place: Trinity College Chapel
+released: 2013
+original_label: null
+works:
+- {bwv: '248', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2ec5d1f3-de08-49b8-a63d-e83c1216a1d1
+  title: Christmas Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 16402041-4d4c-431a-94c6-b2c7f820d031
+  recordings: [37eea2db-a43b-4bac-b35e-affbaf226139, 5ee75602-0356-4e1e-bc58-4bead7a5ff78]

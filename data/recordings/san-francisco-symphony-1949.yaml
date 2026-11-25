@@ -1,0 +1,29 @@
+id: san-francisco-symphony-1949
+performers:
+- name: San Francisco Symphony
+  role: orchestra
+- name: Pierre Monteux
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1949]
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9e9e4b5a-4824-48b7-9b59-1b61a6f91c0d
+  title: The Complete RCA Album Collection
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: deebc49a-6e06-418e-860f-8c7f770a8bac
+  recordings: [f7e8ac69-fb32-43a5-9989-8c6bab0925e6]

@@ -1,0 +1,26 @@
+id: andrew-white-1983
+performers:
+- name: Andrew White
+  role: voices and instruments
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: [1983]
+  place: Track Recorders
+released: 1984
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1c49cafe-63c3-4447-9619-cd7edc26cb16
+  title: Profile
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bc8a7bd-419d-49b7-b7c7-0841744b0730
+  recordings: [0332cc63-2b9b-426a-a757-7a0593f6a020]

@@ -1,0 +1,28 @@
+id: philip-jones-brass-ensemble-1982
+performers:
+- name: Philip Jones Brass Ensemble
+  role: brass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1982]
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil I, IX. Choral „Ach mein herzliebes Jesulein“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5044b1ec-be46-4507-ac7e-58e476a493e4
+  title: Brass Splendour
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c4eea4f6-6213-4796-88c5-b7087f255632
+  recordings: [f86aa140-8db2-419a-9975-b3c02fbf9bee]

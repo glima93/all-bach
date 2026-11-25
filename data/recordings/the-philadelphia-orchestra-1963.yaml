@@ -1,0 +1,42 @@
+id: the-philadelphia-orchestra-1963
+performers:
+- name: The Philadelphia Orchestra
+  role: orchestra
+- name: Temple University Concert Choir
+  role: choir
+- name: Eugene Ormandy
+  role: conductor
+- name: Richard Lewis
+  role: tenor
+- name: Herbert Beattie
+  role: bass
+- name: Maureen Forrester
+  role: performer
+- name: Judith Raskin
+  role: performer
+- name: Robert Page
+  role: performer
+- name: Temple University Choirs
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1963]
+  place: Philadelphia Athletic Club
+released: 1964
+original_label: null
+works:
+- {bwv: '249', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/290cc28f-fe8b-4c27-930a-173ec92f4a14
+  title: Easter Oratorio
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ff3fcff7-6c85-49d6-b954-ed7011a44e5a
+  recordings: [30270926-79d1-4dc0-8fa6-b5ec90392111, 419606be-f8a0-4b4e-aeec-a836021925cd]

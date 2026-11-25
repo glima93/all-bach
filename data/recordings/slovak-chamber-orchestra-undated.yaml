@@ -1,0 +1,32 @@
+id: slovak-chamber-orchestra-undated
+performers:
+- name: Slovak Chamber Orchestra
+  role: orchestra
+- name: Bohdan Warchal
+  role: conductor
+- name: Slovenský komorný orchester
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/441ac59b-2bdd-465a-8ae7-c59904369608
+  title: Beroemde Kerst Concerten
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4cfa3ebc-eb6c-4647-bd02-d1475e6de877
+  recordings: [49ba3e57-0da0-4164-8cd5-8ee356c5bfd4]

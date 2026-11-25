@@ -1,0 +1,34 @@
+id: taverner-players-1993
+performers:
+- name: Taverner Players
+  role: orchestra
+- name: Taverner Choir
+  role: choir
+- name: The Taverner Consort & Players
+  role: orchestra
+- name: Andrew Parrott
+  role: conductor
+- name: The Taverner Choir, Consort & Players
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: St Jude‐on‐the‐Hill
+released: 1994
+original_label: null
+works:
+- {bwv: '249', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2fa2b912-a59c-428c-92c8-0eace1c5545c
+  title: Easter Oratorio BWV 249, Cantata "Christ lag in Todes Banden" BWV 4
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 64c537f4-fea4-477f-b360-ce81552f7ad6
+  recordings: [a32e5acb-3f08-4e6e-8f1b-9f8909b36831, feb1e9b7-f5f3-4cc2-a9b8-b963fbcaff74]

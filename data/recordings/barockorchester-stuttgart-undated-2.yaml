@@ -1,0 +1,41 @@
+id: barockorchester-stuttgart-undated-2
+performers:
+- name: Barockorchester Stuttgart
+  role: orchestra
+- name: Kammerchor Stuttgart
+  role: choir
+- name: Frieder Bernius
+  role: conductor
+- name: Samuel Boden
+  role: tenor
+- name: Tobias Berndt
+  role: performer
+- name: David Allsopp
+  role: performer
+- name: Joanne Lunn
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '11', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/78f3c5ef-d3ee-40c0-9422-3b8e5a21d7fd
+  title: Osteroratorium, BWV 249 / Himmelfahrtsoratorium, BWV 11
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 02c59317-d6f1-4362-a1d7-bfbf38cc72bd
+  recordings: [3ceab873-dd7e-4de6-ad90-12136e570351, 4abde36c-b151-4c8a-9592-643c1a947050]

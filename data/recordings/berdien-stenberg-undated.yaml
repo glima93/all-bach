@@ -1,0 +1,28 @@
+id: berdien-stenberg-undated
+performers:
+- name: Berdien Stenberg
+  role: voices and instruments
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 1986
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil VI, LIX. Choral „Ich steh an deiner Krippen hier“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9afe4a4-b7a7-43f1-852a-25177a129641
+  title: Christmas
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ac507bb2-466b-42dd-935f-3d1ce88508d5
+  recordings: [04d2d01c-5ea8-47ca-a67d-7bc6d2091e49]

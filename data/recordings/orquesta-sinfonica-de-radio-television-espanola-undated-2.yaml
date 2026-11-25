@@ -1,0 +1,32 @@
+id: orquesta-sinfonica-de-radio-television-espanola-undated-2
+performers:
+- name: Orquesta Sinfónica de Radio Televisión Española
+  role: orchestra
+- name: Coro de Radio Televisión Española
+  role: choir
+- name: Enrique García Asensio
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '11', complete: false, movements: [XI. Choral "Wenn soll es doch geschehen"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/501540a6-ffd8-4e86-b34b-d38cfe5d3da8
+  title: Clásicos populares 2
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cc0b6db0-9a21-431f-8a9a-a52a9e4b00f9
+  recordings: [aec86ee8-f7d7-4749-8f55-9e25b1e5c0a2]

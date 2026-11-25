@@ -1,0 +1,30 @@
+id: deutsche-bachsolisten-1978-2
+performers:
+- name: Deutsche Bachsolisten
+  role: orchestra
+- name: Helmut Winschermann
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978]
+  place: Eching Kirche
+released: 1979
+original_label: null
+works:
+- {bwv: '248', complete: false, movements: ['Teil II, X. Sinfonia']}
+- {bwv: '249', complete: false, movements: [II. Adagio]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/279800dc-14d2-4799-84c2-37fbfe1c6318
+  title: 'Jesus bleibet meine Freude: Die Deutschen Bachsolisten spielen Bachs beliebteste Werke: Hirtenmusik /
+    Air / Wachet auf / Chaconne'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bf5a484-6a6a-40a2-bbd4-95129f53fbc3
+  recordings: [15262cc9-ff22-4820-ae65-9af26fc40bef, 2e8bd979-23c2-494d-bb3e-9d2cdd7d175d]
