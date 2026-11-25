@@ -84,7 +84,7 @@ collections:
    note: "246 St Luke is spurious; 247 St Mark is lost (reconstructions get their own entries if MusicBrainz has them)"}
 - {id: oratorios, title: "Oratorios", chapter: Passions and Oratorios, bwv: ["248", "249", "11"], mode: vocal, wave: 2, run: 24, status: imported,
    note: "Christmas (248, six parts), Easter (249) and Ascension (11) Oratorios"}
-- {id: motets, title: "Motets", chapter: Motets, bwv: ["225-231", "118"], mode: vocal, wave: 2, run: 25, status: queued,
+- {id: motets, title: "Motets", chapter: Motets, bwv: ["225-231", "118"], mode: vocal, wave: 2, run: 25, status: collected,
    note: "118 sits in the cantata numbers but is a motet in all but name; 231 is a reworking of a movement of cantata 28"}
 - {id: missae-breves, title: "Missae breves and mass movements", chapter: Masses and Magnificat, bwv: ["233-242"], mode: vocal, wave: 2, run: 25, status: queued}
 - {id: secular-cantatas, title: "Secular Cantatas", chapter: Cantatas, bwv: ["201-216"], mode: vocal, wave: 2, run: 26, status: todo,
