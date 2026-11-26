@@ -87,7 +87,7 @@ collections:
 - {id: motets, title: "Motets", chapter: Motets, bwv: ["225-231", "118"], mode: vocal, wave: 2, run: 25, status: imported,
    note: "118 sits in the cantata numbers but is a motet in all but name; 231 is a reworking of a movement of cantata 28"}
 - {id: missae-breves, title: "Missae breves and mass movements", chapter: Masses and Magnificat, bwv: ["233-242"], mode: vocal, wave: 2, run: 25, status: imported}
-- {id: secular-cantatas, title: "Secular Cantatas", chapter: Cantatas, bwv: ["201-216"], mode: vocal, wave: 2, run: 26, status: queued,
+- {id: secular-cantatas, title: "Secular Cantatas", chapter: Cantatas, bwv: ["201-216"], mode: vocal, wave: 2, run: 26, status: collected,
    note: "Coffee Cantata (211), Peasant Cantata (212), Hunting Cantata (208)"}
 - {id: church-cantatas, title: "Church Cantatas", chapter: Cantatas, bwv: ["1-10", "12-117", "119-200", "217-224"], mode: vocal, wave: 2, run: [27, 28, 29, 30], status: todo,
    note: "Too big for one run: run 27 takes 1–50, 28 takes 51–100, 29 takes 101–150, 30 takes 151–200 and 217–224 (doubtful). Complete cycles (Rilling, Leusink, Koopman, Suzuki, Gardiner, Harnoncourt/Leonhardt) dominate"}

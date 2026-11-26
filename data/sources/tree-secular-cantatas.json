@@ -1,0 +1,1040 @@
+{
+ "collection": "secular-cantatas",
+ "collector": 8,
+ "taken": "2026-11-26",
+ "recordings": 1887,
+ "performances": 238,
+ "works": [
+  {
+   "bwv": "201",
+   "id": "fa3ff6ea-72d0-498d-a8e4-676648729e30",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "fa3ff6ea-72d0-498d-a8e4-676648729e30",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\"",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "2559db54-2d3d-332b-996f-b5a3b5da693c",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": I. Coro \"Geschwinde, ihr wirbelnden Winde\""
+    },
+    {
+     "id": "ea5e617c-569a-3621-b06d-e81fba8e2874",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": II. Recitativo (Sopran e Bass I+II) \"Und du bist doch so unverschämt und frei\""
+    },
+    {
+     "id": "d260c4da-351c-393a-93e7-98870997dc18",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": III. Aria (Sopran) \"Patron, das macht der Wind\""
+    },
+    {
+     "id": "71a23770-1158-3baf-8171-d2fa3b86718d",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": IV. Recitativo (Alt e Bass I+II) \"Was braucht ihr euch zu zanken\""
+    },
+    {
+     "id": "c0703082-eccc-3aaf-84b6-416d1eaa17c8",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": V. Aria (Bass I) \"Mit Verlangen drück ich deine zarten Wangen\""
+    },
+    {
+     "id": "ab925f53-8462-39f2-99de-a663cfb2482b",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": VI. Recitativo (Sopran e Bass II) \"Pan, rücke deine Kehle nun\""
+    },
+    {
+     "id": "1463d952-9961-3447-a750-b69db1d218ce",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": VII. Aria (Bass II) \"Zu Tanze, zu Sprunge\""
+    },
+    {
+     "id": "33cbb3b4-7f0f-3dc2-92fe-6573c48dd1bf",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": VIII. Recitativo (Alt e Tenor I) \"Nunmehro Richter her\""
+    },
+    {
+     "id": "29db10aa-4222-34f9-a119-019c3e58e5da",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": IX. Aria (Tenor I) \"Phoebus, deine Melodie\""
+    },
+    {
+     "id": "d8e42fa0-4b5b-37bb-bf0e-fe615127f280",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": X. Recitativo (Tenor II e Bass II) \"Komm, Midas, sage du nun an\""
+    },
+    {
+     "id": "486c7e18-785c-3583-86fc-32e17e9a3227",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": XI. Aria (Tenor II) \"Pan ist Meister, laßt ihn gehn\""
+    },
+    {
+     "id": "8823c439-b862-3606-841b-0c92bafbe52b",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": XII. Recitativo (Tutti) \"Wie, Midas, bist du toll\""
+    },
+    {
+     "id": "5640f11a-f0d8-349e-9865-e8425bcdcfca",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": XIII. Aria (Alt) \"Aufgeblasne Hitze\""
+    },
+    {
+     "id": "07b9f5d2-9d46-3535-bf2b-8515d8097c70",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": XIV. Recitativo (Sopran) \"Du guter Midas, geh nun hin\""
+    },
+    {
+     "id": "dfa8e0a6-fd07-37fc-9f27-46f85d715dbb",
+     "title": "Kantate, BWV 201 \"Geschwinde, ihr wirbelnden Winde\": XV. Coro \"Labt das Herz, ihr holden Saiten\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "202",
+   "id": "ea24019b-2959-4442-b5f5-0e14669e15ae",
+   "also": [],
+   "skipped": {
+    "2e3a226d-bdea-459e-8b95-0891705e88e1": "arrangement of Kantate, BWV 202 \"Weichet nur, betrübte Schatten\""
+   },
+   "candidates": [
+    {
+     "id": "2e3a226d-bdea-459e-8b95-0891705e88e1",
+     "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\""
+    },
+    {
+     "id": "ea24019b-2959-4442-b5f5-0e14669e15ae",
+     "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\"",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "cac779e5-ffd6-3e00-a0e4-7c387ea7bef6",
+     "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\": I. Aria \"Weichet nur, betrübte Schatten\""
+    },
+    {
+     "id": "93240e88-605a-3f47-beae-cbde81618369",
+     "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\": II. Recitativo \"Die Welt wird wieder neu\""
+    },
+    {
+     "id": "e0e19b4b-72c3-3261-9df8-96286e9f93c1",
+     "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\": III. Aria \"Phoebus eilt mit schnellen Pferden\""
+    },
+    {
+     "id": "051e8221-b7b7-31e9-92ad-9d8d42fcb5f4",
+     "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\": IV. Recitativo \"Drum sucht auch Amor sein Vergnügen\""
+    },
+    {
+     "id": "e1f40a6f-743d-376c-b6ea-8675010a88e4",
+     "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\": V. Aria \"Wenn die Frühlingslüfte streichen\""
+    },
+    {
+     "id": "1faf62b7-d02a-3ab9-9c7c-0036a6d40a5e",
+     "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\": VI. Recitativo \"Und dieses ist das Glücke\""
+    },
+    {
+     "id": "211e6bf8-06fd-3794-af92-aa0cf44d7043",
+     "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\": VII. Aria \"Sich üben im Lieben\""
+    },
+    {
+     "id": "a7852ca5-dc0d-3101-9542-6552a4097cb1",
+     "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\": VIII. Recitativo \"So sei das Band der keuschen Liebe\""
+    },
+    {
+     "id": "e40eb60b-26ec-35fb-bdea-0e82b12b247f",
+     "title": "Kantate, BWV 202 \"Weichet nur, betrübte Schatten\": IX. Gavotte \"Sehet in Zufriedenheit\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "203",
+   "id": "0ce82b31-b2a4-456d-8697-5334a8f77b01",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "0ce82b31-b2a4-456d-8697-5334a8f77b01",
+     "title": "Kantate, BWV 203 \"Amore traditore\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 203 \"Amore traditore\"",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "5105d039-8544-381c-a3d9-0817a42fc602",
+     "title": "Kantate, BWV 203 \"Amore traditore\": I. Aria (Bass) \"Amore traditore\""
+    },
+    {
+     "id": "05569cd0-1279-3d07-9023-6f39c9fc80c2",
+     "title": "Kantate, BWV 203 \"Amore traditore\": II. Recitativo (Bass) \"Voglio provar\""
+    },
+    {
+     "id": "49f133d8-6a45-32cb-8638-6892eb54faf2",
+     "title": "Kantate, BWV 203 \"Amore traditore\": III. Aria (Bass) \"Chi in amore ha nemica la sorte\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "204",
+   "id": "e01a83bb-d8d1-4295-b6aa-22a28cc04d85",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "e01a83bb-d8d1-4295-b6aa-22a28cc04d85",
+     "title": "Kantate, BWV 204 \"Ich bin in mir vergnügt\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 204 \"Ich bin in mir vergnügt\"",
+   "key": "B-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "82486f9e-75f4-377b-8e43-9337548afe62",
+     "title": "Kantate, BWV 204 \"Ich bin in mir vergnügt\": I. Recitativo (Sopran) \"Ich bin in mir vergnügt\""
+    },
+    {
+     "id": "011696e0-b122-328f-ae52-b750e993ac3b",
+     "title": "Kantate, BWV 204 \"Ich bin in mir vergnügt\": II. Aria (Sopran) \"Ruhig und in sich zufrieden\""
+    },
+    {
+     "id": "886c2577-7145-3614-bbc1-e28942d9b69a",
+     "title": "Kantate, BWV 204 \"Ich bin in mir vergnügt\": III. Recitativo (Sopran) \"Ihr Seelen, die ihr außer euch stets in die Irre lauft\""
+    },
+    {
+     "id": "7da76542-0d74-3ed5-9981-f4443780e411",
+     "title": "Kantate, BWV 204 \"Ich bin in mir vergnügt\": IV. Aria (Sopran) \"Die Schätzbarkeit der weiten Erden\""
+    },
+    {
+     "id": "4fef4b85-6a42-338a-bdc4-8380c2946970",
+     "title": "Kantate, BWV 204 \"Ich bin in mir vergnügt\": V. Recitativo (Sopran) \"Schwer ist es zwar, viel Eitles zu besitzen\""
+    },
+    {
+     "id": "9747d578-1f3e-303f-96ed-17679f3b83c0",
+     "title": "Kantate, BWV 204 \"Ich bin in mir vergnügt\": VI. Aria (Sopran) \"Meine Seele sei vergnügt\""
+    },
+    {
+     "id": "38eef2ec-4940-31ba-8406-760e1002486e",
+     "title": "Kantate, BWV 204 \"Ich bin in mir vergnügt\": VII. Recitativo (Sopran) \"Ein edler Mensch ist Perlenmuscheln gleich\""
+    },
+    {
+     "id": "52346e70-318a-33cb-afe9-043e3734163b",
+     "title": "Kantate, BWV 204 \"Ich bin in mir vergnügt\": VIII. Aria (Sopran) \"Himmlische Vergnügsamkeit\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "205",
+   "id": "fa359d80-4583-4617-bfd7-50e5edd227d9",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "fa359d80-4583-4617-bfd7-50e5edd227d9",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\"",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "47d7d7ba-53e6-3d0c-b78e-6b97ac2af4b1",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": I. Chor der Winde \"Zerreißet, zersprenget, zertrümmert die Gruft\""
+    },
+    {
+     "id": "5fa8cb72-d7ac-3e84-a333-38e8c43e5c12",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": II. Recitativo (Bass) \"Ja, ja! Die Stunden sind nunmehro nah\""
+    },
+    {
+     "id": "cdf01385-9506-3315-a9fb-91d9a7f268ed",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": III. Aria (Bass) \"Wie will ich lustiglachen\""
+    },
+    {
+     "id": "ba808542-baa8-30b6-b000-e676cb853bf8",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": IV. Recitativo (Tenor) \"Gefürcht'ter Äolus\""
+    },
+    {
+     "id": "4fd55349-e4e0-3084-9c9e-2dc8d721644e",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": V. Aria (Tenor) \"Frische Schatten, meine Freude\""
+    },
+    {
+     "id": "6edb5203-e7e9-34bd-a198-fadf41efcc63",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": VI. Recitativo (Bass) \"Beinahe wirst du mich bewegen\""
+    },
+    {
+     "id": "1bccbc49-5666-3e51-b916-2ff194612da1",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": VII. Aria (Alt) \"Können nicht die roten Wangen\""
+    },
+    {
+     "id": "f1ba75ad-f3b3-378a-b0e4-d88926d2f2d5",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": VIII. Recitativo (Alt, Sopran) \"So willst du, grimmger Äolus\""
+    },
+    {
+     "id": "8bcd1e98-9674-3789-baa5-1835dfd0e9c8",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": IX. Aria (Sopran) \"Angenehmer Zephyrus\""
+    },
+    {
+     "id": "15add025-ef24-3932-92d9-045cac2986df",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": X. Recitativo (Sopran, Bass) \"Mein Äolus, Ach!\""
+    },
+    {
+     "id": "f4992160-9543-30ed-a493-fc9a38caf72d",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": XI. Aria (Bass) \"Zurücke, zurücke, geflügelten Winde\""
+    },
+    {
+     "id": "23eaf8c5-c24f-308b-b54b-3d7cc6ae89e0",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": XII. Recitativo (Sopran, Alt, Tenor) \"Was Lust! Was Freude! Welch Vergnügen!\""
+    },
+    {
+     "id": "6de12f9b-61d4-3375-90f0-b24bd9655308",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": XIII. Aria (Alt, Tenor) \"Zweig und Äste\""
+    },
+    {
+     "id": "6923c900-fe33-30a6-9206-df67844e8b6d",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": XIV. Recitativo (Sopran) \"Ja, ja! Ich lad euch selbst zu dieser Feier ein\""
+    },
+    {
+     "id": "c56fe117-f12b-3009-989b-21fd4ec3448a",
+     "title": "Kantate, BWV 205 \"Zerreißet, zersprenget, zertrümmert die Gruft\": XV. Chor der Winde \"Vivat! August, August vivat!\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "206",
+   "id": "42ce0cf9-11d0-404e-9955-5f24f2dfd70a",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "42ce0cf9-11d0-404e-9955-5f24f2dfd70a",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\"",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "7b4dd44a-9050-313c-908b-af0b01493fdf",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\": I. Chorus \"Schleicht, spielende Wellen, und murmelt gelinde!\""
+    },
+    {
+     "id": "38ca1e6f-9d59-3f97-be9c-0ae7db01325a",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\": II. Recitativo (Bass) \"O glückliche Veränderung!\""
+    },
+    {
+     "id": "b6344aed-a1b0-3747-89c1-15a7c16ce3db",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\": III. Aria (Bass) \"Schleuß des Janustempels Türen\""
+    },
+    {
+     "id": "f37e4549-0640-3bf0-8e49-cdde880c7076",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\": IV. Recitativo (Tenor) \"So recht! beglückter Weichselstrom!\""
+    },
+    {
+     "id": "595d8f22-27f0-3b78-bb85-7465113a20f7",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\": V. Aria (Tenor) \"Jede Woge meiner Wellen\""
+    },
+    {
+     "id": "1491a4af-d854-3dcf-bade-04f4d438b6ff",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\": VI. Recitativo (Alt) \"Ich nehm zugleich an deiner Freude teil\""
+    },
+    {
+     "id": "43101c82-7bf0-3cdc-8b40-4901e1d7d7c8",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\": VII. Aria (Alt) \"Reis von Habsburgs hohem Stamme\""
+    },
+    {
+     "id": "df43f043-29c8-3d3c-b7a0-f3b9e1bd965c",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\": VIII. Recitativo (Sopran) \"Verzeiht, bemooste Häupter starker Ströme\""
+    },
+    {
+     "id": "d4bab60f-8961-3b4b-8e63-1bbefb619696",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\": IX. Aria (Sopran) \"Hört doch! der sanften Flöten Chor\""
+    },
+    {
+     "id": "bee6db47-55b0-3abe-80f8-081988db92dc",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\": X. Recitativo (Sopran, Alt, Tenor, Bass) \"Ich muß, ich will gehorsam sein\""
+    },
+    {
+     "id": "57488911-3535-31ea-b895-2c9c99035238",
+     "title": "Kantate, BWV 206 \"Schleicht, spielende Wellen, und murmelt gelinde!\": XI. Chorus \"Die himmlische Vorsicht der ewigen Güte\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "207",
+   "id": "c571dfc5-fc1a-46eb-a0b1-71bb6cd4cf61",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "c571dfc5-fc1a-46eb-a0b1-71bb6cd4cf61",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\"",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "7cbdb4b2-61d9-44a2-8099-97bb2f367745",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\": I. Chorus \"Vereinigte Zwietracht der wechselnden Saiten\""
+    },
+    {
+     "id": "cc29487b-18ab-36ed-9603-90509bd90934",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\": II. Recitativo \"Wen treibt ein edler Trieb zu dem, was Ehre heißt\" (Tenore)"
+    },
+    {
+     "id": "61d6fa35-7a88-4b66-859e-5b432946153a",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\": III. Aria \"Zieht euren Fuß nur nicht zurücke\" (Tenore)"
+    },
+    {
+     "id": "7c8f901f-0cf9-3269-b27f-89aa3778c90a",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\": IV. Recitativo \"Dem nur allein\" (Basso, Soprano)"
+    },
+    {
+     "id": "f6035aab-6bfa-4d39-ae7a-d9ae8ba58419",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\": V. Aria Duetto \"Den soll mein Lorbeer\" (Basso, Soprano)"
+    },
+    {
+     "id": "51179e4f-31aa-4fbe-8999-af0b91c8ba9b",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\": Va. Ritornello"
+    },
+    {
+     "id": "f7a8e029-8f0c-30fe-bdeb-84563f4add30",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\": VI. Recitativo \"Es ist kein leeres Wort \" (Alto)"
+    },
+    {
+     "id": "8f443c8b-c63e-457b-b805-35742d6a62fb",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\": VII. Aria \"Ätzet dieses Angedenken\" (Alto)"
+    },
+    {
+     "id": "5f18a271-1d92-44cc-acda-2be06b760d03",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\": VIII. Recitativo \"Ihr Schläfrigen, herbei\" (Tenore, Basso, Soprano, Alto)"
+    },
+    {
+     "id": "fdbe8166-f077-4fbd-b4d2-995d20f69622",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\": IX. Chorus \"Kortte lebe, Kortte blühe\""
+    },
+    {
+     "id": "e6b44668-4e4c-4b1f-83e0-0ef423d855f8",
+     "title": "Kantate, BWV 207 \"Vereinigte Zwietracht der wechselnden Saiten\": Anhang: Marche"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "208",
+   "id": "42d6fa14-89d1-4bc5-b7e8-c1df011247fb",
+   "also": [],
+   "skipped": {
+    "6f350775-8398-41d0-8eda-9ff927000a60": "arrangement of Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: IX. Aria (Sopran II) “Schafe können sicher weiden”",
+    "803ac4ad-2317-4afb-bf07-1610832990d9": "arrangement of Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: IX. Aria (Sopran II) “Schafe können sicher weiden”"
+   },
+   "candidates": [
+    {
+     "id": "6f350775-8398-41d0-8eda-9ff927000a60",
+     "title": "Sheep May Safely Graze from Cantata, BWV 208"
+    },
+    {
+     "id": "803ac4ad-2317-4afb-bf07-1610832990d9",
+     "title": "Sheep May Safely Graze from Cantata, BWV 208"
+    },
+    {
+     "id": "42d6fa14-89d1-4bc5-b7e8-c1df011247fb",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "4c02d181-93e2-35e7-9047-7f694c234287",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: I. Recitativo (Sopran I) “Was mir behagt, ist nur die muntre Jagd!”"
+    },
+    {
+     "id": "89126fe0-b578-3188-b551-cd8cd18b3093",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: II. Aria (Sopran I) “Jagen ist die Lust de Göter”"
+    },
+    {
+     "id": "c95259bf-0dd1-35d9-b97e-78c20953fbee",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: III. Recitativo (Tenor) “Wie? Schönste Göttin! Wie?”"
+    },
+    {
+     "id": "8cacb451-565c-326a-9191-be984eeb2e2e",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: IV. Aria (Tenor) “Willst du dich nicht mehr ergötzen”"
+    },
+    {
+     "id": "0ac7a898-2c56-3555-b88d-3fbd428b892f",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: V. Recitativo (Sopran I, Tenor) “Ich liebe dich zwar noch!”"
+    },
+    {
+     "id": "615e7045-3f4b-3202-a328-37ca60a4e987",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: VI. Recitativo (Bass) “Ich, der ich sonst ein Gott in diesen Feldern bin”"
+    },
+    {
+     "id": "a4ad7ab0-a122-3662-bb75-37955d8e30de",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: VII. Aria (Bass) “Ein Fürst ist seines Landes Pan!”"
+    },
+    {
+     "id": "21b53949-5d13-33e0-bdb2-c278ca2ba317",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: VIII. Recitativo (Sopran II) “Soll denn der Pales Opfer hier das letzte sein?”"
+    },
+    {
+     "id": "2d5eb418-0444-3f2b-a280-ccc5f69c2b60",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: IX. Aria (Sopran II) “Schafe können sicher weiden”"
+    },
+    {
+     "id": "7070e342-83ce-33f8-957e-052545514158",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: X. Recitativo (Sopran I) “So stimmt mit ein”"
+    },
+    {
+     "id": "05019c9f-cefd-3829-9071-27f65b3817f6",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: XI. Chorus (Aria a 4) “Lebe, Sonne dieser Erdem”"
+    },
+    {
+     "id": "8da4119c-4640-327f-bf0f-f47d98cef8aa",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: XII. Duetto (Sopran I, Tenor) “Entzücket uns beide”"
+    },
+    {
+     "id": "268d9da6-ac14-3c5a-9aee-21684d0e1143",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: XIII. Aria (Sopran II) “Weil die wollenreichen Herden”"
+    },
+    {
+     "id": "74f52009-51bf-36d7-92d7-ec20e248db97",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: XIV. Aria (Bass) “Ihr felder und Auen, laßt grünend euch schauen”"
+    },
+    {
+     "id": "2b24ed82-d68b-3ae7-bded-639a866f3a14",
+     "title": "Kantate, BWV 208 “Was mir behagt, ist nur die muntre Jagd!”: XV. Chorus “Ihr lieblichste Bliche! ihr freudige Stunden”"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "209",
+   "id": "43fa1a90-7f72-4e45-905f-3d845d500f66",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "43fa1a90-7f72-4e45-905f-3d845d500f66",
+     "title": "Kantate, BWV 209 \"Non sa che sia dolore\""
+    },
+    {
+     "id": "0d1bc60f-4ece-4a68-b13b-3d05bc5787e3",
+     "title": "Konzert für Oboe d'amore nach BWV 209"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 209 \"Non sa che sia dolore\"",
+   "key": "B minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "92f84ded-9b0c-31a6-aa26-70da94d8102a",
+     "title": "Kantate, BWV 209 \"Non sa che sia dolore\": I. Sinfonia"
+    },
+    {
+     "id": "20611d48-f0ae-3a30-997e-80ea6ce64a27",
+     "title": "Kantate, BWV 209 \"Non sa che sia dolore\": II. Recitativo \"Non sa che sia dolore\""
+    },
+    {
+     "id": "c60be8d5-42a8-3a30-b0fd-5e9a14ab97b6",
+     "title": "Kantate, BWV 209 \"Non sa che sia dolore\": III. Aria \"Parti pur e con dolore\""
+    },
+    {
+     "id": "3422d693-dfb6-31f6-8c17-2d347b92f509",
+     "title": "Kantate, BWV 209 \"Non sa che sia dolore\": IV. Recitativo \"Tuo saver al tempo\""
+    },
+    {
+     "id": "f1f696af-8101-3e88-be56-92a692a951aa",
+     "title": "Kantate, BWV 209 \"Non sa che sia dolore\": V. Aria \"Ricetti gramezza e pavento\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "210",
+   "id": "5a9b0907-c61b-4be0-a5d8-ea5c3675c489",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "0e61d05d-2b28-44c8-8395-01b049abe2e9",
+     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\""
+    },
+    {
+     "id": "5a9b0907-c61b-4be0-a5d8-ea5c3675c489",
+     "title": "O angenehme Melodei, BWV 210.1"
+    }
+   ],
+   "ambiguous": false,
+   "title": "O angenehme Melodei, BWV 210.1",
+   "key": "A major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "4ebaf557-be5d-449e-9123-7494328182fd",
+     "title": "O angenehme Melodei, BWV 210a: I. O angenehme Melodei (Recitativo)"
+    },
+    {
+     "id": "566ad853-19e5-4505-b025-096a1b0794d8",
+     "title": "O angenehme Melodei, BWV 210a: II. Spielet, ihr beseelten Lieder"
+    },
+    {
+     "id": "5c2df9ca-49b0-45e2-b80d-dbd4451401d0",
+     "title": "O angenehme Melodei, BWV 210a: III. Ihr Sorgen, flieht (Recitativo)"
+    },
+    {
+     "id": "c74d6f85-7aed-487b-a214-b0aa17bbe4b5",
+     "title": "O angenehme Melodei, BWV 210a: IV. Ruhet hie, matte Sinne"
+    },
+    {
+     "id": "89d70f7e-3663-451f-9c66-64bda02aaaa8",
+     "title": "O angenehme Melodei, BWV 210a: V. Wiewohl, beliebte Musica (Recitativo)"
+    },
+    {
+     "id": "f6ffce55-729d-476c-b8d0-86a7fc067fec",
+     "title": "O angenehme Melodei, BWV 210a: VI. Schweigt, ihr Flöten, schweigt, ihr Töne"
+    },
+    {
+     "id": "a94233af-54c1-4041-96b6-caea740f2ce8",
+     "title": "O angenehme Melodei, BWV 210a: VII. Doch fasse dich (Recitativo)"
+    },
+    {
+     "id": "715270c1-6762-4756-874b-2176fe056ff4",
+     "title": "O angenehme Melodei, BWV 210a: VIII. Werte Gönner, alles Wissen"
+    },
+    {
+     "id": "56fa916d-b24e-48e7-ab3c-fb542a324525",
+     "title": "O angenehme Melodei, BWV 210a: IX. Verehrte Gönner, so bleibet fernerweit (Recitativo)"
+    },
+    {
+     "id": "2666e5e6-cfdc-4c7f-8f38-c33e417187a4",
+     "title": "O angenehme Melodei, BWV 210a: X. Seid vergnügt, werte Gönner"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "211",
+   "id": "a31f4009-ffcb-4195-95fc-28a9a5088e97",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "a31f4009-ffcb-4195-95fc-28a9a5088e97",
+     "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\"",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0b0caa9b-0d87-3d77-855c-ec6a3992b1b6",
+     "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\": I. Recitativo (Tenor) \"Schweigt stille, plaudert nicht\""
+    },
+    {
+     "id": "f96a3708-1548-334f-8062-cdf395d8493b",
+     "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\": II. Aria (Bass) \"Hat man nicht mit seinen Kindern\""
+    },
+    {
+     "id": "e86176ae-d1d5-32e0-b8f8-c0da4198f367",
+     "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\": III. Recitativo (Bass, Sopran) \"Du böses Kind, du loses Mädchen\""
+    },
+    {
+     "id": "132a340d-ba92-3c02-b213-2a5dd5e40bc4",
+     "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\": IV. Aria (Sopran) \"Ei, wie schmeckt der Coffee süße\""
+    },
+    {
+     "id": "6a705a52-63c7-364c-8349-f903c3d7e531",
+     "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\": V. Recitativo (Bass, Sopran) \"Wenn du mir nicht den Coffee läßt\""
+    },
+    {
+     "id": "e43b1410-27da-34fd-a6f4-8591348ee4ba",
+     "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\": VI. Aria (Bass) \"Mädchen, die von harten Sinnen\""
+    },
+    {
+     "id": "959d0f74-1594-36bb-a351-cb4b16c8d7a6",
+     "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\": VII. Recitativo (Bass, Sopran) \"Nun folge, was dein Vater spricht\""
+    },
+    {
+     "id": "7187cab4-f3a7-3a5c-92a7-e688a90f92b7",
+     "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\": VIII. Aria (Sopran) \"Heute noch, lieber Vater, tut es doch\""
+    },
+    {
+     "id": "981352eb-a6ca-3a90-b09e-352bfe01d78b",
+     "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\": IX. Recitativo (Tenor) \"Nun geht und sucht der alte Schlendrian\""
+    },
+    {
+     "id": "0e376dd9-b598-3a84-bd6a-d9875e422c3b",
+     "title": "Kantate, BWV 211 \"Schweigt stille, plaudert nicht\": X. Chorus (Sopran, Tenor, Bass) \"Die Katze läßt das Mausen nicht\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "212",
+   "id": "1f668d50-d5a3-41b8-b3a8-010a540ab2e8",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "1f668d50-d5a3-41b8-b3a8-010a540ab2e8",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\"",
+   "key": "A major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "d4735abe-fe39-3360-8b20-d7e65149fee0",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": I. Ouvertüre"
+    },
+    {
+     "id": "2aa53428-3676-32b0-b684-c815a7d2e0cb",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": II. Aria (Duetto Sopran, Bass) \"Mer hahn en neue Oberkeet\""
+    },
+    {
+     "id": "9f290830-ec26-3e3e-bd54-a5a6326c2c0b",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": III. Recitativo (Sopran, Bass) \"Nu, Mieke, gib dein Guschel immer her\""
+    },
+    {
+     "id": "ec4127df-1f02-32a1-861d-dee56141348d",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": IV. Aria (Sopran) \"Ach, es schmeckt doch gar zu gut\""
+    },
+    {
+     "id": "a3cfe595-c7f7-3d2d-8a0e-1ae553984549",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": V. Recitativo (Bass) \"Der Herr ist gut\""
+    },
+    {
+     "id": "b8d062f7-3a33-3483-acad-2c3bf6c5b600",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": VI. Aria (Bass) \"Ach, Herr Schösser, geht nicht gar zu schlimm\""
+    },
+    {
+     "id": "e6380b4f-d8d5-3f1e-a0b7-70dfd1c325af",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": VII. Recitativo (Sopran) \"Es bleibt dabei\""
+    },
+    {
+     "id": "45afb016-8447-3121-b39b-bd984c2bfa90",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": VIII. Aria (Sopran) \"Unser trefflicher, lieber Kammerherr\""
+    },
+    {
+     "id": "6412b862-42b7-3f19-ab70-dc60ace2682c",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": IX. Recitativo (Sopran, Bass) \"Er hilft uns allen, alt und jung\""
+    },
+    {
+     "id": "589a1bd7-1d7f-338e-a549-b42444f20c51",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": X. Aria (Sopran) \"Das ist galant\""
+    },
+    {
+     "id": "3103276d-17e8-3de5-8d9f-8d0a1edb53f4",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XI. Recitativo (Bass) \"Und unsre gnädge Frau\""
+    },
+    {
+     "id": "5aa5f1fa-ee40-3f27-b83e-c4cb5de54260",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XII. Aria (Bass) \"Fünfzig Taler bares Geld\""
+    },
+    {
+     "id": "b2de720c-a76a-3cbc-af5e-9851b17b5209",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XIII. Recitativo (Sopran) \"Im Ernst ein Wort\""
+    },
+    {
+     "id": "5522797f-4a63-34c0-87de-4a1860ad0c73",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XIV. Aria (Sopran) \"Klein-Zschocher müsse\""
+    },
+    {
+     "id": "3344c4f5-5675-34db-a208-66989d9eb8f9",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XV. Recitativo (Bass) \"Das ist zu klug vor dich\""
+    },
+    {
+     "id": "ed4681fc-001b-3663-bc64-5ef99cc016fb",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XVI. Aria (Bass) \"Es nehme zehntausend Dukaten\""
+    },
+    {
+     "id": "adf7b0f0-87ae-391e-8dc1-a2129d83b9fa",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XVII. Recitativo (Sopran) \"Das klingt zu liederlich\""
+    },
+    {
+     "id": "a49b0d2c-1e2e-3f2d-8980-8ec2974b8f8c",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XVIII. Aria (Sopran) \"Gib, Schöne, viel Söhne\""
+    },
+    {
+     "id": "3bd91a5e-f51f-3076-bae7-3e1387f76931",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XIX. Recitativo (Bass) \"Du hast wohl recht\""
+    },
+    {
+     "id": "b647ce8f-b757-3251-9bf7-584595872acb",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XX. Aria (Bass) \"Dein Wachstum sei feste und lache vor Lust\""
+    },
+    {
+     "id": "6e00007c-f2da-340e-ba40-65a25e9328dd",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XXI. Recitativo (Sopran, Bass) \"Und damit sei es auch genug\""
+    },
+    {
+     "id": "187cfea0-ebf6-3e26-a7e7-f5d9636be5a7",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XXII. Aria (Sopran) \"Und daß ihrs alle wißt\""
+    },
+    {
+     "id": "b5999b7b-ae22-375b-bc42-7f112576e1f4",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XXIII. Recitativo (Sopran, Bass) \"Mein Schatz! erraten\""
+    },
+    {
+     "id": "31ac05db-537e-3865-92fc-575ea0e6f3bc",
+     "title": "Kantate, BWV 212 \"Mer hahn en neue Oberkeet\": XXIV. Chor (Sopran, Bass) \"Wir gehn nun, wo der Tudelsack\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "213",
+   "id": "52e05636-af60-4514-a243-78e95d7c207f",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "52e05636-af60-4514-a243-78e95d7c207f",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\"",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "4ddcaee2-067e-398f-8eb7-8ee98c985d8d",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": I. Chorus \"Laßt uns sorgen, laßt uns wachen\""
+    },
+    {
+     "id": "6718ec00-a6fe-3d76-819d-da6252dc7a7d",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": II. Recitativo (Alt) \"Und wo? Wo ist die rechte Bahn\""
+    },
+    {
+     "id": "cbdd344d-2c08-3d64-8571-ecff809593e3",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": III. Aria (Sopran) \"Schlafe, mein liebster\""
+    },
+    {
+     "id": "a356cb91-e787-3522-9b38-c901249b85cf",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": IV. Recitativo (Sopran, Tenor) \"Auf! folge meiner Bahn\""
+    },
+    {
+     "id": "6ad6dc56-44ee-334c-8f60-d475ff6715bf",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": V. Aria (Alt, Alt) \"Treues Echo dieser Orten\""
+    },
+    {
+     "id": "ce39d282-eeca-377d-95b0-9134dd5b3291",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": VI. Recitativo (Tenor) \"Mein hoffnungsvoller Held\""
+    },
+    {
+     "id": "fe750b4f-138e-300c-8d48-69077889d437",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": VII. Aria (Tenor) \"Auf meinen Flügeln sollst du schweben\""
+    },
+    {
+     "id": "6129a952-1e45-32af-b7a9-5363d9d9a2cb",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": VIII. Recitativo (Tenor) \"Die weiche Wollust locket zwar\""
+    },
+    {
+     "id": "0b9d23e1-b6f9-35d1-b7fb-8134d93b9ca4",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": IX. Aria (Alt) \"Ich will dich nicht hören\""
+    },
+    {
+     "id": "1e45b7d9-e4dc-3d16-af55-8890140cd7cb",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": X. Recitativo (Alt, Tenor) \"Geliebte Tugend, du allein\""
+    },
+    {
+     "id": "24f3f4ff-9758-3ecf-afe2-6057931dd5ca",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": XI. Aria (Duetto Alt, Tenor) \"Ich bin deine\""
+    },
+    {
+     "id": "46a4614e-0182-3471-86cb-b4fcdabfde81",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": XII. Recitativo accompagnato (Bass) \"Schaut, Götter, dieses ist ein Bild\""
+    },
+    {
+     "id": "2c6a622f-be36-37a6-b846-81a55a993f4b",
+     "title": "Kantate, BWV 213 \"Laßt uns sorgen, laßt uns wachen\": XIII. Chorus \"Lust der Völker, Lust der Deinen\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "214",
+   "id": "28e769cf-185a-4764-8a18-1c431c03bfa1",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "28e769cf-185a-4764-8a18-1c431c03bfa1",
+     "title": "Kantate, BWV 214 \"Tönet, ihr Pauken! Erschallet, Trompeten!\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 214 \"Tönet, ihr Pauken! Erschallet, Trompeten!\"",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "6ff0f8dc-1005-3b03-a2c0-e808d54f728e",
+     "title": "Kantate, BWV 214 \"Tönet, ihr Pauken! Erschallet, Trompeten!\": I. Coro \"Tönet, ihr Pauken! Erschallet, Trompeten!\""
+    },
+    {
+     "id": "d3bdd66a-f22c-389f-9999-e7c851a34b9f",
+     "title": "Kantate, BWV 214 \"Tönet, ihr Pauken! Erschallet, Trompeten!\": II. Recitativo (Tenor) \"Heut ist der Tag\""
+    },
+    {
+     "id": "3506e20f-9150-33ec-a02c-8638d9f612ec",
+     "title": "Kantate, BWV 214 \"Tönet, ihr Pauken! Erschallet, Trompeten!\": III. Aria (Sopran) \"Blast die wohlgegriffnen Flöten\""
+    },
+    {
+     "id": "753bbd07-7609-3f8c-aa9f-9baac864df3b",
+     "title": "Kantate, BWV 214 \"Tönet, ihr Pauken! Erschallet, Trompeten!\": IV. Recitativo (Sopran) \"Mein knallendes Metall\""
+    },
+    {
+     "id": "65c8b427-63d9-315a-a06b-d0d1c6086f33",
+     "title": "Kantate, BWV 214 \"Tönet, ihr Pauken! Erschallet, Trompeten!\": V. Aria (Alt) \"Fromme Musen! meine Glieder!\""
+    },
+    {
+     "id": "deea2975-9047-3f1f-857b-7a3977acee46",
+     "title": "Kantate, BWV 214 \"Tönet, ihr Pauken! Erschallet, Trompeten!\": VI. Recitativo (Alt) \"Unsre Königin im Lande\""
+    },
+    {
+     "id": "cf360f8c-00f1-3876-b82d-96d23b5b81ee",
+     "title": "Kantate, BWV 214 \"Tönet, ihr Pauken! Erschallet, Trompeten!\": VII. Aria (Bass) \"Kron und Preis gekrönter Damen\""
+    },
+    {
+     "id": "a3b403db-aa97-3d27-b5c1-3e82f41e1f55",
+     "title": "Kantate, BWV 214 \"Tönet, ihr Pauken! Erschallet, Trompeten!\": VIII. Recitativo (Bass) \"So dringe in das weite Erdenrund\""
+    },
+    {
+     "id": "c295fda1-71f8-3911-a2ec-cf099ab6a1c4",
+     "title": "Kantate, BWV 214 \"Tönet, ihr Pauken! Erschallet, Trompeten!\": IX. Coro \"Blühet, ihr Linden in Sachsen, wie Zedern!\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "215",
+   "id": "b27f02e2-8e01-47e5-9e56-451cde9be0c9",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "b27f02e2-8e01-47e5-9e56-451cde9be0c9",
+     "title": "Kantate, BWV 215 \"Preise dein Glücke, gesegnetes Sachsen\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 215 \"Preise dein Glücke, gesegnetes Sachsen\"",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "c1e41f35-833e-3df3-af77-1c92cdd90064",
+     "title": "Kantate, BWV 215 \"Preise dein Glücke, gesegnetes Sachsen\": I. Coro I/II \"Preise dein Glücke, gesegnetes Sachsen\""
+    },
+    {
+     "id": "758171d8-5c91-3b27-a145-29df356398d6",
+     "title": "Kantate, BWV 215 \"Preise dein Glücke, gesegnetes Sachsen\": II. Recitativo (Tenor) \"Wie können wir, großmächtigster August\""
+    },
+    {
+     "id": "dcadff69-c102-3d07-b144-0b260e0187ce",
+     "title": "Kantate, BWV 215 \"Preise dein Glücke, gesegnetes Sachsen\": III. Aria (Tenor) \"Freilich trotzt Augustus' Name\""
+    },
+    {
+     "id": "045538b8-f7af-3cd6-8815-4898723f5aa0",
+     "title": "Kantate, BWV 215 \"Preise dein Glücke, gesegnetes Sachsen\": IV. Recitativo (Bass) \"Was hat dich sonst, Sarmatien, bewogen\""
+    },
+    {
+     "id": "8db0b702-278c-36b7-8688-a69a58c3ec1b",
+     "title": "Kantate, BWV 215 \"Preise dein Glücke, gesegnetes Sachsen\": V. Aria (Bass) \"Rase nur, verwegner Schwarm\""
+    },
+    {
+     "id": "451cbad3-c7ea-3662-b8eb-a5aaef0c4b7e",
+     "title": "Kantate, BWV 215 \"Preise dein Glücke, gesegnetes Sachsen\": VI. Recitativo (Sopran) \"Ja, ja! Gott ist uns noch mit seiner Hülfe nah\""
+    },
+    {
+     "id": "a3f1e16b-5399-32f9-b965-d9876e118198",
+     "title": "Kantate, BWV 215 \"Preise dein Glücke, gesegnetes Sachsen\": VII. Aria (Sopran) \"Durch die von Eifer entflammeten Waffen\""
+    },
+    {
+     "id": "67b17bb1-211e-3529-b349-4ef3d62f7ae3",
+     "title": "Kantate, BWV 215 \"Preise dein Glücke, gesegnetes Sachsen\": VIII. Recitativo (Sopran, Tenor, Bass) \"Laß doch, o teurer Landesvater, zu\""
+    },
+    {
+     "id": "574cc71d-43cc-3066-b813-82e9c4883968",
+     "title": "Kantate, BWV 215 \"Preise dein Glücke, gesegnetes Sachsen\": IX. Coro I/II \"Stifter der Reiche, Beherrscher der Kronen\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "216",
+   "id": "8334616b-353d-4ba2-bd31-3029992fe821",
+   "also": [],
+   "skipped": {
+    "58127ac4-8d1d-4f8b-b774-a933ebb24b5a": "earlier version (216.1)"
+   },
+   "candidates": [
+    {
+     "id": "8334616b-353d-4ba2-bd31-3029992fe821",
+     "title": "Erwählte Pleißenstadt, BWV 216.2"
+    },
+    {
+     "id": "58127ac4-8d1d-4f8b-b774-a933ebb24b5a",
+     "title": "Vergnügte Pleißenstadt, BWV 216.1"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Erwählte Pleißenstadt, BWV 216.2",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "5278426b-075b-4e49-8abf-9f8f7fc5e514",
+     "title": "Erwählte Pleißenstadt, BWV 216.2: I. Duet: Erwählte Pleißenstadt"
+    },
+    {
+     "id": "bce71ba2-1066-40b9-94e3-6867e712e18a",
+     "title": "Erwählte Pleißenstadt, BWV 216.2: II. [Recitative:] Ihr Städte, die man in der Welt"
+    },
+    {
+     "id": "8f55ba39-c796-47b1-a984-80c55612398a",
+     "title": "Erwählte Pleißenstadt, BWV 216.2: III. Aria: Angenehmes Pleiß-Athen"
+    },
+    {
+     "id": "20a27614-0b9b-4101-9c49-2dca8e6ab7fe",
+     "title": "Erwählte Pleißenstadt, BWV 216.2: IV. [Recitative:] Nicht die Gelehrsamkeit allein"
+    },
+    {
+     "id": "cec8fbff-cc0d-4c9c-a922-2011736eff9f",
+     "title": "Erwählte Pleißenstadt, BWV 216.2: V. Aria: Mit Lachen und Scherzen"
+    },
+    {
+     "id": "1ac62ddf-abb5-4627-a049-89f6541e00d1",
+     "title": "Erwählte Pleißenstadt, BWV 216.2: VI. [Recitative:] Drum ist gewiss"
+    },
+    {
+     "id": "24742eaa-b9c4-4e6d-aa2c-58905748266d",
+     "title": "Erwählte Pleißenstadt, BWV 216.2: VII. Duet: Heil und Segen"
+    }
+   ],
+   "sections": []
+  }
+ ]
+}
