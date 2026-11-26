@@ -1,0 +1,319 @@
+{
+ "collection": "missae-breves",
+ "collector": 8,
+ "taken": "2026-11-25",
+ "recordings": 449,
+ "performances": 122,
+ "works": [
+  {
+   "bwv": "233",
+   "id": "1ab33597-e31a-4da8-b133-e84da10dba59",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "1ab33597-e31a-4da8-b133-e84da10dba59",
+     "title": "Messe F-Dur, BWV 233"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Messe F-Dur, BWV 233",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "002264b6-3d08-32cd-a4ee-add401c607e7",
+     "title": "Messe F-Dur, BWV 233: I. Coro \"Kyrie eleison\""
+    },
+    {
+     "id": "55c0feb9-9c2a-3ead-bd45-78d933dc9894",
+     "title": "Messe F-Dur, BWV 233: II. Coro \"Gloria in excelsis Deo\""
+    },
+    {
+     "id": "6e911b4e-6ebd-3b09-b50a-7f3d96f9bbd6",
+     "title": "Messe F-Dur, BWV 233: III. Aria (Bass) \"Domine Deus\""
+    },
+    {
+     "id": "02dce3f9-9fc6-3e25-aca9-1cf736769dda",
+     "title": "Messe F-Dur, BWV 233: IV. Aria (Soprano) \"Qui tollis peccata mundi\""
+    },
+    {
+     "id": "e2ba1d2c-dc78-36f5-8869-f7b8273a772f",
+     "title": "Messe F-Dur, BWV 233: V. Aria (Alto) \"Quoniam tu solus sanctus\""
+    },
+    {
+     "id": "df526aa8-bc73-3026-bea1-6de33aacb5ba",
+     "title": "Messe F-Dur, BWV 233: VI. Coro \"Cum sancto spiritu\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "234",
+   "id": "c0c6c2ff-7b7c-46ef-a5b6-170849aef34d",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "c0c6c2ff-7b7c-46ef-a5b6-170849aef34d",
+     "title": "Messe A-Dur, BWV 234"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Messe A-Dur, BWV 234",
+   "key": "A major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "8996fe4e-6717-36c4-948a-8bf94277edbd",
+     "title": "Messe A-Dur, BWV 234: I. Coro \"Kyrie eleison\""
+    },
+    {
+     "id": "df83acff-7956-3a82-b650-c224b78ef2e0",
+     "title": "Messe A-Dur, BWV 234: II. Coro \"Gloria in excelsis Deo\""
+    },
+    {
+     "id": "85d75517-504f-3ccd-9328-12f25de4a78e",
+     "title": "Messe A-Dur, BWV 234: III. Aria (Bass) \"Domine Deus\""
+    },
+    {
+     "id": "361f904c-ec50-3c6f-a312-fa61e2cceb7c",
+     "title": "Messe A-Dur, BWV 234: IV. Aria (Soprano) \"Qui tollis peccata mundi\""
+    },
+    {
+     "id": "987e611c-0bb2-3e9c-8b36-afb72d558ef9",
+     "title": "Messe A-Dur, BWV 234: V. Aria (Alto) \"Quoniam tu solus sanctus\""
+    },
+    {
+     "id": "b1c0f5ca-b8f7-3d5d-9289-647adfe6f4a3",
+     "title": "Messe A-Dur, BWV 234: VI. Coro \"Cum sancto spiritu\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "235",
+   "id": "e301f65c-a36a-46f6-9d55-8e9261db2f80",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "e301f65c-a36a-46f6-9d55-8e9261db2f80",
+     "title": "Messe g-Moll, BWV 235"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Messe g-Moll, BWV 235",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "5a884fa4-c7a9-3016-a534-e98c5f53249e",
+     "title": "Messe g-Moll, BWV 235: I. Coro \"Kyrie eleison\""
+    },
+    {
+     "id": "f25ef596-5b03-3ad1-81e6-5f48454eed97",
+     "title": "Messe g-Moll, BWV 235: II. Coro \"Gloria in excelsis Deo\""
+    },
+    {
+     "id": "64bb9f03-4991-3fbc-99d7-e0157ceb97c7",
+     "title": "Messe g-Moll, BWV 235: III. Aria (Bass) \"Gratias agimus tibi\""
+    },
+    {
+     "id": "11098aea-cd4a-35fb-903a-c9bf20efd9d4",
+     "title": "Messe g-Moll, BWV 235: IV. Aria (Alto) \"Domine Fili unigenite\""
+    },
+    {
+     "id": "f3bcadb4-cf03-3f31-bc3b-30057b053bde",
+     "title": "Messe g-Moll, BWV 235: V. Aria (Tenor) \"Qui tollis peccata mundi\""
+    },
+    {
+     "id": "dcd92694-db37-33b4-a567-e136cea0f5fa",
+     "title": "Messe g-Moll, BWV 235: VI. Coro \"Cum sancto spiritu\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "236",
+   "id": "433265d8-ce20-4fc4-afd4-d3700dc5b9e2",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "433265d8-ce20-4fc4-afd4-d3700dc5b9e2",
+     "title": "Messe G-Dur, BWV 236"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Messe G-Dur, BWV 236",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "898382b2-d9df-3880-9e46-5de8f24d2c0d",
+     "title": "Messe G-Dur, BWV 236: I. Coro \"Kyrie eleison\""
+    },
+    {
+     "id": "aca301f7-bd02-33e9-8619-7eeb5d7d8827",
+     "title": "Messe G-Dur, BWV 236: II. Coro \"Gloria in excelsis Deo\""
+    },
+    {
+     "id": "977f37f8-ab02-3c77-91e0-0e13f54ef37c",
+     "title": "Messe G-Dur, BWV 236: III. Aria (Bass) \"Gratias agimus tibi\""
+    },
+    {
+     "id": "33d679de-f6b9-37fa-b3ab-3a89f99db459",
+     "title": "Messe G-Dur, BWV 236: IV. Duet (Soprano, Alto) \"Domine Deus\""
+    },
+    {
+     "id": "5720ea7b-9632-3752-83d8-547432f91584",
+     "title": "Messe G-Dur, BWV 236: V. Aria (Tenor) \"Quoniam tu solus sanctus\""
+    },
+    {
+     "id": "a5cff12f-b12f-31aa-9785-95e11b38b716",
+     "title": "Messe G-Dur, BWV 236: VI. Coro \"Cum sancto spiritu\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "237",
+   "id": "dc1a8e07-9ec7-3740-89e2-7a1a38ba27ba",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "dc1a8e07-9ec7-3740-89e2-7a1a38ba27ba",
+     "title": "Sanctus C-Dur, BWV 237"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sanctus C-Dur, BWV 237",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "dc1a8e07-9ec7-3740-89e2-7a1a38ba27ba",
+     "title": "Sanctus C-Dur, BWV 237"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "238",
+   "id": "a575a552-a5cd-3939-b9b9-9720753a0025",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "a575a552-a5cd-3939-b9b9-9720753a0025",
+     "title": "Sanctus D-Dur, BWV 238"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sanctus D-Dur, BWV 238",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "a575a552-a5cd-3939-b9b9-9720753a0025",
+     "title": "Sanctus D-Dur, BWV 238"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "239",
+   "id": "4dea288e-03a8-4ab6-af2e-e430a01bd8d5",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "4dea288e-03a8-4ab6-af2e-e430a01bd8d5",
+     "title": "Sanctus in d-Moll, BWV 239"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sanctus in d-Moll, BWV 239",
+   "key": "D minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "4dea288e-03a8-4ab6-af2e-e430a01bd8d5",
+     "title": "Sanctus in d-Moll, BWV 239"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "240",
+   "id": "44997e90-508e-3eb0-bbff-3d2fd207e874",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "44997e90-508e-3eb0-bbff-3d2fd207e874",
+     "title": "Sanctus G-Dur, BWV 240"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sanctus G-Dur, BWV 240",
+   "key": "G major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "44997e90-508e-3eb0-bbff-3d2fd207e874",
+     "title": "Sanctus G-Dur, BWV 240"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "241",
+   "id": "5d87bdc0-77bb-3e5f-9083-d6b9cf344492",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "5d87bdc0-77bb-3e5f-9083-d6b9cf344492",
+     "title": "Sanctus D-Dur, BWV 241"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sanctus D-Dur, BWV 241",
+   "key": "D major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "5d87bdc0-77bb-3e5f-9083-d6b9cf344492",
+     "title": "Sanctus D-Dur, BWV 241"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "242",
+   "id": "b221376c-733c-39b0-8e95-6acea465f4a8",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "b221376c-733c-39b0-8e95-6acea465f4a8",
+     "title": "Christe eleison g-Moll, BWV 242"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Christe eleison g-Moll, BWV 242",
+   "key": "G minor",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "b221376c-733c-39b0-8e95-6acea465f4a8",
+     "title": "Christe eleison g-Moll, BWV 242"
+    }
+   ],
+   "sections": []
+  }
+ ]
+}
