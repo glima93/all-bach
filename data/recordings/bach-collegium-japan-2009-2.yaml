@@ -1,0 +1,36 @@
+id: bach-collegium-japan-2009-2
+performers:
+- name: Bach Collegium Japan
+  role: orchestra
+- name: Masaaki Suzuki
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: 神戸松蔭女子学院大学チャペル
+released: 2010
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fdd6c83f-cd16-40ec-8486-c82e182f657a
+  title: Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [3003a0e5-e1d4-4a35-a8f3-0302ca8634f2, 4c19018a-bed6-4a78-9499-2cc796ec47d8, 77cf72b1-f26c-4808-bee5-e4a3410a9d72,
+    91d27211-94a6-4c5a-9560-62e9b48759db, 9cdec915-c9b1-48f0-ab5c-6c8bd0ffddab, c6780998-63e8-4ac9-ba29-19d66025b813,
+    caee2f5e-6785-40a1-8610-54cb5b718d00]

@@ -1,0 +1,14 @@
+bwv: "240"
+title: "Sanctus in G major"
+key: "G major"
+collection: "Missae breves and mass movements"
+genre: mass
+scoring: "Four-part choir (SATB), 2 oboes, strings and continuo"
+composed: "Leipzig, c.1742"
+movements:
+  - "Sanctus G-Dur"
+notes: "Its authenticity is doubtful; it may be Bach's arrangement of a work by another composer."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/44997e90-508e-3eb0-bbff-3d2fd207e874

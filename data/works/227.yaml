@@ -1,0 +1,24 @@
+bwv: "227"
+title: "Jesu, meine Freude"
+key: "E minor"
+collection: "Motets"
+genre: motet
+scoring: "Five-part choir (SSATB) and continuo"
+composed: "Leipzig, c.1723–35"
+movements:
+  - "I. Corale „Jesu, meine Freude“"
+  - "II. \"Es ist nun nichts Verdammliches\""
+  - "III. Corale: \"Unter deinem Schirmen\""
+  - "IV. \"Denn das Gesetz des Geistes\""
+  - "V. Corale: \"Trotz dem alten Drachen\""
+  - "VI. \"Ihr aber seid nicht fleischlich\""
+  - "VII. Corale: \"Weg mit allen Schätzen\""
+  - "VIII. \"So aber Christus in euch ist\""
+  - "IX. Corale: \"Gute Nacht, o Wesen\""
+  - "X. \"So nun der Geist\""
+  - "XI. Corale: \"Weicht, ihr Trauergeister\""
+notes: "Alternates the six stanzas of Johann Franck's hymn with verses from Romans 8 in a symmetrical eleven-movement design. A long-held association with a funeral in July 1723 is not supported by the sources."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Jesu,_meine_Freude,_BWV_227"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/32b9332b-2eb4-3d0c-aac0-f99bf50a962f

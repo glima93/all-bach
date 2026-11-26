@@ -1,0 +1,35 @@
+id: regensburger-domspatzen-1973
+performers:
+- name: Regensburger Domspatzen
+  role: choir
+- name: Capella Academica Wien
+  role: orchestra
+- name: Hanns‐Martin Schneidt
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1973]
+  place: Kirche St. Emmeram
+released: 1989
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2113bf3-5c26-4501-9c3a-a4f2a9741b68
+  title: Motets BWV 225-229
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d654ba62-1301-43a5-bf4b-603adcb4ffbe
+  recordings: [15506835-f5cb-451e-bb05-02d592ed9e2d, 179f805e-fdf0-419c-bd0d-7f99d54ed60d, 5388e6fa-f683-4f6b-8b19-8f3c62e280d8,
+    9becd188-8eea-4aec-84d2-f7eb054cd61f, cae564c4-d440-4111-8901-5b5a9a7fae81, ee1f7a83-4942-4b49-950d-1eb455b125e1]

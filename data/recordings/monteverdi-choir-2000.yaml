@@ -1,0 +1,30 @@
+id: monteverdi-choir-2000
+performers:
+- name: Monteverdi Choir
+  role: choir
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: English Baroque Soloists
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: St. Bartholomew’s Church
+released: 2007
+original_label: null
+works:
+- {bwv: '225', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b4649c26-23be-4c0c-bcc1-625f8b44b5ec
+  title: 'Cantatas, Volume 16: New York (For the Sunday after Christmas)'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: a3016390-1ea7-41e2-afac-8d3d3d021fe0
+  recordings: [c00f4939-1be4-4fda-8c08-c7b5c3d0d751]

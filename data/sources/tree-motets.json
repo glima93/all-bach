@@ -1,0 +1,282 @@
+{
+ "collection": "motets",
+ "collector": 8,
+ "taken": "2026-11-25",
+ "recordings": 810,
+ "performances": 382,
+ "works": [
+  {
+   "bwv": "225",
+   "id": "7d0e3e95-dc3b-3b22-bd9c-6425cfdde0bb",
+   "also": [],
+   "skipped": {
+    "84b59b64-8800-4278-acd5-6a16fcaa0b76": "arrangement of Singet dem Herrn ein neues Lied, BWV 225"
+   },
+   "candidates": [
+    {
+     "id": "7d0e3e95-dc3b-3b22-bd9c-6425cfdde0bb",
+     "title": "Singet dem Herrn ein neues Lied, BWV 225"
+    },
+    {
+     "id": "84b59b64-8800-4278-acd5-6a16fcaa0b76",
+     "title": "Singet dem Herrn ein neues Lied, BWV 225"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Singet dem Herrn ein neues Lied, BWV 225",
+   "key": "B-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "7cc4ce66-2a8f-3175-9151-90ac67cbbff9",
+     "title": "Singet dem Herrn ein neues Lied, BWV 225: I. \"Singet dem Herrn ein neues Lied\""
+    },
+    {
+     "id": "0859d304-25c5-3380-a91f-3359bb3a5ec7",
+     "title": "Singet dem Herrn ein neues Lied, BWV 225: II. \"Wie sich ein Vater erbarmet\""
+    },
+    {
+     "id": "72b86a9e-2fdb-3029-8f40-a41a3c72bef4",
+     "title": "Singet dem Herrn ein neues Lied, BWV 225: III. \"Lobet den Herrn in seinen Taten\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "226",
+   "id": "7ea07991-45e1-357f-8fe9-925c7025b0fc",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "7ea07991-45e1-357f-8fe9-925c7025b0fc",
+     "title": "Der Geist hilft unsrer Schwachheit auf, BWV 226"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Der Geist hilft unsrer Schwachheit auf, BWV 226",
+   "key": "B-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "27d99c89-7c8e-30be-b061-1c632824f82d",
+     "title": "Der Geist hilft unser Schwachheit auf, BWV 226: I. \"Der Geist hilft unser Schwachheit auf\""
+    },
+    {
+     "id": "52389f2d-e0fd-377f-9d6e-6f76b85d7761",
+     "title": "Der Geist hilft unser Schwachheit auf, BWV 226: II. \"Der aber die Herzen forschet\""
+    },
+    {
+     "id": "a7bf265b-4dda-30e1-b9fd-3e6c935172ad",
+     "title": "Der Geist hilft unsrer Schwachheit auf, BWV 226: III. \"Du heilige Brunst\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "227",
+   "id": "32b9332b-2eb4-3d0c-aac0-f99bf50a962f",
+   "also": [],
+   "skipped": {
+    "4115e272-2926-41e6-9936-f46fc5fef76e": "arrangement of Jesu, meine Freude, BWV 227",
+    "05f291a2-2ebe-496e-8c28-d78699411561": "arrangement of Jesu, meine Freude, BWV 227"
+   },
+   "candidates": [
+    {
+     "id": "32b9332b-2eb4-3d0c-aac0-f99bf50a962f",
+     "title": "Jesu, meine Freude, BWV 227"
+    },
+    {
+     "id": "4115e272-2926-41e6-9936-f46fc5fef76e",
+     "title": "Jesu, meine Freude, BWV 227"
+    },
+    {
+     "id": "05f291a2-2ebe-496e-8c28-d78699411561",
+     "title": "Jesu, meine Freude, BWV 227"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Jesu, meine Freude, BWV 227",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "145beb7d-9882-328e-9519-1662f0e9e8cb",
+     "title": "Jesu, meine Freude, BWV 227: I. Corale „Jesu, meine Freude“"
+    },
+    {
+     "id": "b9441f6c-331b-3cc0-be73-e9138cd497c9",
+     "title": "Jesu, meine Freude, BWV 227: II. \"Es ist nun nichts Verdammliches\""
+    },
+    {
+     "id": "246eb780-d82f-33e5-809c-52eb6fa96d26",
+     "title": "Jesu, meine Freude, BWV 227: III. Corale: \"Unter deinem Schirmen\""
+    },
+    {
+     "id": "ee5ee77e-8708-35b1-a7ec-b7de1cdb68e5",
+     "title": "Jesu, meine Freude, BWV 227: IV. \"Denn das Gesetz des Geistes\""
+    },
+    {
+     "id": "ed1d772d-f510-35d3-a395-191154374238",
+     "title": "Jesu, meine Freude, BWV 227: V. Corale: \"Trotz dem alten Drachen\""
+    },
+    {
+     "id": "69d838b6-23cc-3c01-8e18-0079c156dbb4",
+     "title": "Jesu, meine Freude, BWV 227: VI. \"Ihr aber seid nicht fleischlich\""
+    },
+    {
+     "id": "f2c2fa6d-cfe3-306c-8887-7463d2f4737c",
+     "title": "Jesu, meine Freude, BWV 227: VII. Corale: \"Weg mit allen Schätzen\""
+    },
+    {
+     "id": "48a20a0c-c97d-305a-91c9-032a302a1415",
+     "title": "Jesu, meine Freude, BWV 227: VIII. \"So aber Christus in euch ist\""
+    },
+    {
+     "id": "32e24751-6de0-36bc-8edc-a104cc88cf3f",
+     "title": "Jesu, meine Freude, BWV 227: IX. Corale: \"Gute Nacht, o Wesen\""
+    },
+    {
+     "id": "e370a6d8-5954-371c-b376-470fa2f07d68",
+     "title": "Jesu, meine Freude, BWV 227: X. \"So nun der Geist\""
+    },
+    {
+     "id": "184a8d64-5b74-3bff-886b-edfe65b5ed50",
+     "title": "Jesu, meine Freude, BWV 227: XI. Corale: \"Weicht, ihr Trauergeister\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "228",
+   "id": "82b9ae17-0f61-3f35-a568-99c451c4e548",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "82b9ae17-0f61-3f35-a568-99c451c4e548",
+     "title": "Fürchte dich nicht, ich bin bei dir, BWV 228"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Fürchte dich nicht, ich bin bei dir, BWV 228",
+   "key": "A major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "82b9ae17-0f61-3f35-a568-99c451c4e548",
+     "title": "Fürchte dich nicht, ich bin bei dir, BWV 228"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "229",
+   "id": "1e760ef5-b5f7-3b9e-b702-a4bdd1a57eb0",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "1e760ef5-b5f7-3b9e-b702-a4bdd1a57eb0",
+     "title": "Komm, Jesu, komm, BWV 229"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Komm, Jesu, komm, BWV 229",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "82daae3d-4555-3ef0-962f-24b58d537559",
+     "title": "Komm, Jesu, komm, BWV 229: I. \"Komm, Jesu, komm\""
+    },
+    {
+     "id": "d07fef5a-201e-3802-9751-6baaa544efc7",
+     "title": "Komm, Jesu, komm, BWV 229: II. Aria \"Drum schließ ich mich in deine Hände\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "230",
+   "id": "1d8fc884-29ab-3cec-a8fa-23b4506bad99",
+   "also": [],
+   "skipped": {
+    "450e091a-84ea-41bf-a724-96f4e5906e3a": "arrangement of Lobet den Herrn, alle Heiden, BWV 230"
+   },
+   "candidates": [
+    {
+     "id": "1d8fc884-29ab-3cec-a8fa-23b4506bad99",
+     "title": "Lobet den Herrn, alle Heiden, BWV 230"
+    },
+    {
+     "id": "450e091a-84ea-41bf-a724-96f4e5906e3a",
+     "title": "Lobet den Herrn, alle Heiden, BWV 230"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Lobet den Herrn, alle Heiden, BWV 230",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "1d8fc884-29ab-3cec-a8fa-23b4506bad99",
+     "title": "Lobet den Herrn, alle Heiden, BWV 230"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "231",
+   "id": "7882f6a4-0cd9-4331-be30-f9f373ab1618",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "7882f6a4-0cd9-4331-be30-f9f373ab1618",
+     "title": "Sei Lob und Preis mit Ehren, BWV 231"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Sei Lob und Preis mit Ehren, BWV 231",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "7882f6a4-0cd9-4331-be30-f9f373ab1618",
+     "title": "Sei Lob und Preis mit Ehren, BWV 231"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "118",
+   "id": "76a7c26f-e4ea-4aab-af88-aece95a6b8aa",
+   "also": [],
+   "skipped": {
+    "737cdf3a-c912-4cf8-b1b7-bdf437d657a7": "arrangement of BWV 118 \"O Jesu Christ, meins Lebens Licht\""
+   },
+   "candidates": [
+    {
+     "id": "76a7c26f-e4ea-4aab-af88-aece95a6b8aa",
+     "title": "BWV 118 \"O Jesu Christ, meins Lebens Licht\""
+    },
+    {
+     "id": "737cdf3a-c912-4cf8-b1b7-bdf437d657a7",
+     "title": "BWV 118 \"O Jesu Christ, meins Lebens Licht\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "BWV 118 \"O Jesu Christ, meins Lebens Licht\"",
+   "key": "B-flat major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "76a7c26f-e4ea-4aab-af88-aece95a6b8aa",
+     "title": "BWV 118 \"O Jesu Christ, meins Lebens Licht\""
+    }
+   ],
+   "sections": []
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+id: rodolfus-choir-2005
+performers:
+- name: Rodolfus Choir
+  role: choir
+- name: Ralph Allwood
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2005]
+  place: School Hall, Eton College
+released: 2005
+original_label: null
+works:
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b21ae842-3f5d-487e-8db8-ac408434c872
+  title: 'BBC Music, Volume 14, Number 4: A Bach Christmas'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6812351d-e38f-4cc3-b2eb-ec0a7209bfe2
+  recordings: [908c81a9-613d-4f09-baad-56e0553e54cd]

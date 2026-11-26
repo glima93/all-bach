@@ -1,0 +1,30 @@
+id: ottawa-bach-choir-2018
+performers:
+- name: Ottawa Bach Choir
+  role: choir
+- name: Ensemble Caprice
+  role: ensemble
+- name: Lisette Canton
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: Église Jean-Baptiste Ottawa
+released: 2019
+original_label: null
+works:
+- {bwv: '229', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/acec0593-e340-4412-893c-9b198c5ff0f4
+  title: 'Handel: Dixit Dominus / Bach & Schütz: Motets'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 964334cb-b6c7-4db7-b99f-3d6de666abba
+  recordings: [d03ebc5d-e4b5-4c56-8c05-008d125728dd]

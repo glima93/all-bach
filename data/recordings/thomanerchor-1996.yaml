@@ -1,0 +1,36 @@
+id: thomanerchor-1996
+performers:
+- name: Thomanerchor
+  role: choir
+- name: Georg Christoph Biller
+  role: conductor
+- name: Thomanerchor Leipzig
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Paul-Gerhardt-Kirche
+released: 2004
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a7c850a0-7b00-4159-b1f3-f9535302e032
+  title: Bach in Leipzig
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 995a8150-123b-4f04-8c2c-904a262dd607
+  recordings: [17eee693-b84c-4292-bc42-f86aa57157f1, 45696b0a-02ec-4c45-9ada-f59602e00fc1, 5782eac5-bade-48fa-bda0-2cf996ab0352,
+    5fed1169-7a9d-4416-9082-54659871c3f6, 60a65685-f946-467b-912a-fae6471246dd, b8cf00fd-0132-47cf-a843-ecb13ba45070]

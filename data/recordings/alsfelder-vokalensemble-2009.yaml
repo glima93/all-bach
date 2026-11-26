@@ -1,0 +1,32 @@
+id: alsfelder-vokalensemble-2009
+performers:
+- name: Alsfelder Vokalensemble
+  role: choir
+- name: Hannoversche Hofkapelle
+  role: orchestra
+- name: Wolfgang Helbich
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: Festhalle der Johannischen Kirche
+released: 2012
+original_label: null
+works:
+- {bwv: '237', complete: true}
+- {bwv: '239', complete: true}
+- {bwv: '240', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/92c63a9e-4b25-42f5-933c-b08ece9cf7ba
+  title: Apocryphal Bach Masses II
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e0cbd3-e764-4c23-bf61-0f86e87a161b
+  recordings: [14536419-d927-491f-8c7c-4780593b9781, 1dbc88ab-25d4-46e3-ae75-217a7c3c9dc1, a1e43898-6f44-4f1a-8df0-6e0eeabed0ad]

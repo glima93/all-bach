@@ -1,0 +1,38 @@
+id: bach-collegium-stuttgart-1990-2
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: Stiftskirche Kaufungen
+released: 1999
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/54468a6a-bc56-4df1-9b15-6995ef7e49c2
+  title: Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [070d210b-529f-4fcb-a934-418989084ac9, 1c6f19be-42f8-4e64-aa17-8ebaf3c4b769, 28fb6414-b8d2-43c4-8975-f012f25d25e7,
+    2bcaee0b-b149-437f-a259-347f4ccd9108, 32987a9d-82a8-42cb-a95f-2faf772286d4, 49b7b42d-bf67-47ef-9463-8e340c25e2bb,
+    85e6547b-a49a-45a7-9162-46fbfd1863ea]

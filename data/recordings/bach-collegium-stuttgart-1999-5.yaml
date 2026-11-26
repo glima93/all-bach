@@ -1,0 +1,36 @@
+id: bach-collegium-stuttgart-1999-5
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Stadthalle Leonberg; Stadthalle Sindelfingen
+released: 1999
+original_label: null
+works:
+- {bwv: '236', complete: true}
+- {bwv: '237', complete: true}
+- {bwv: '238', complete: true}
+- {bwv: '240', complete: true}
+- {bwv: '241', complete: true}
+- {bwv: '242', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8d1cc04c-45c6-4a6b-b6b6-77ff6f6b406c
+  title: Sacred Music in Latin, 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [4bc70d3d-ec19-4832-90c6-34d34ce0a20e, 6d0d7d2d-2d6b-48d6-836d-582c1481a067, abaadf97-c6f6-43c7-a5c0-0fb6d96d13eb,
+    c8e4530c-3f52-4a38-bf50-1c684273aff2, d87f4c23-3a9e-4b2e-b4a9-73ebefbb0441, f17a5d44-6653-4ee0-ab0e-9aa4dc1538af]

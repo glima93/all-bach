@@ -1,0 +1,36 @@
+id: collegium-vocale-gent-1985
+performers:
+- name: Collegium Vocale Gent
+  role: choir
+- name: La Chapelle Royale
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1985]
+  place: Mindersbroederskerk
+released: 1986
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b6f1437-fbe9-42ca-a88e-06cd27c6ff24
+  title: Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [5513e392-a548-42d0-aa7d-b2b1ae9bbdaf, 73b89eca-7e1c-4d9c-a374-4eb5a0e6ffa3, 86fe49c8-c492-48ac-9f75-cdb2ac51dc3f,
+    8a271991-d21c-4ac1-bba4-6af0d08ab573, b1249414-eabd-4010-a595-764e5756a3da, be7fc65c-fdcb-42f0-9ffd-59ab8cc1b8f0]

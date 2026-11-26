@@ -1,0 +1,16 @@
+bwv: "226"
+title: "Der Geist hilft unser Schwachheit auf"
+key: "B-flat major"
+collection: "Motets"
+genre: motet
+scoring: "Double choir (SATB/SATB), strings doubling choir I, 2 oboes, taille and bassoon doubling choir II, and continuo"
+composed: "Leipzig, 1729; performed at the funeral of Johann Heinrich Ernesti on 20 October 1729"
+movements:
+  - "I. \"Der Geist hilft unser Schwachheit auf\""
+  - "II. \"Der aber die Herzen forschet\""
+  - "III. \"Du heilige Brunst\""
+notes: "Written for the funeral of the Thomasschule rector Johann Heinrich Ernesti, setting Romans 8:26–27 and a Luther chorale. It is the only Bach motet whose original instrumental parts survive."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Der_Geist_hilft_unser_Schwachheit_auf,_BWV_226"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/7ea07991-45e1-357f-8fe9-925c7025b0fc

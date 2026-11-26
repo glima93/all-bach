@@ -1,0 +1,39 @@
+id: motettenchor-pforzheim-undated
+performers:
+- name: Motettenchor Pforzheim
+  role: choir
+- name: Bachorchester Pforzheim
+  role: orchestra
+- name: Rolf Schweizer
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2006
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55fc12d3-bcfb-48c7-a69f-f2c77db37070
+  title: 1000 Meisterwerke der klassischen Musik
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 3815ea38-e7b0-4c16-a3e7-8908497f4718
+  recordings: [2c40aeed-ba31-44dd-b92b-ddf8d4a3037f, 2da02fbb-de80-4613-98ca-76be6be76fe6, 36245da7-7e68-4429-a102-7687dce1e05f,
+    3c01d04a-f08a-4514-8c9f-eb6374ca6a59, 7af0485d-f941-48f2-9793-6c2f887c50eb, aa3f007e-92bc-4ed4-b1e3-94bf61b06bc9]

@@ -1,0 +1,35 @@
+id: trinity-baroque-2006
+performers:
+- name: Trinity Baroque
+  role: choir
+- name: Julian Podger
+  role: conductor
+- name: James Johnstone
+  role: organ
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: Stadtkirche St. Wenzel
+released: 2007
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bb81ee9a-9c49-478c-bb2f-675aa79aaef1
+  title: 'Motetten: Meines Herzens Weide'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e591fae3-555a-45f1-b91a-0ade9b6e5153
+  recordings: [05d49b51-f98d-4c9d-b661-296315c8b034, 092c834e-1587-43a1-add0-58fcff3e7b82, 3d11677e-c398-4809-8acf-9dc3a6fb71e2,
+    6e4740bb-a340-410a-b110-e52349b49ce4, e8501f81-450e-4335-b64e-b7e980f43b23]

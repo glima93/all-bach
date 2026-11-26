@@ -1,0 +1,36 @@
+id: cbc-vancouver-orchestra-undated
+performers:
+- name: CBC Vancouver Orchestra
+  role: orchestra
+- name: Ensemble Vocal de Lausanne
+  role: choir
+- name: Vancouver Chamber Choir
+  role: choir
+- name: Jon Washburn
+  role: conductor
+- name: CBC Radio Orchestra
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '225', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fc8fe8a2-9f00-47a1-9d3e-96e36afc0e4a
+  title: Baroque Fest
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: b66a5867-07bc-4d60-bb99-10bef321950f
+  recordings: [982189f1-0641-4bd0-b296-060a70a86ee4, cc3bf791-faca-43b8-b80d-5dc35377affc]

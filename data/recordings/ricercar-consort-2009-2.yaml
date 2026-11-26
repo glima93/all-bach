@@ -1,0 +1,35 @@
+id: ricercar-consort-2009-2
+performers:
+- name: Ricercar Consort
+  role: orchestra
+- name: Philippe Pierlot
+  role: conductor
+- name: Stephan MacLeod
+  role: bass
+- name: Hans-Jörg Mammel
+  role: tenor
+- name: Carlos Mena
+  role: alto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '235', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/24962ecd-e032-4a91-86d0-f75328a8932d
+  title: Magnificat
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6264b98d-4ddc-4b96-a79d-18f53394a99e
+  recordings: [9ca37c51-1559-49d4-a8c3-ffc646a2fc7a]

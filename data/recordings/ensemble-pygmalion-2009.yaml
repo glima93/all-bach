@@ -1,0 +1,28 @@
+id: ensemble-pygmalion-2009
+performers:
+- name: Ensemble Pygmalion
+  role: orchestra
+- name: Raphaël Pichon
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: Église Notre‐Dame du Liban
+released: 2010
+original_label: null
+works:
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/345ece57-d708-4c37-bbcb-f3a4af456f8d
+  title: Missae Breves, BWV 233 & 236
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a62aaaee-e9ec-403f-b7f1-274a5e46adb1
+  recordings: [6a8253b3-9705-4bd3-9bd7-e088f57536cf]

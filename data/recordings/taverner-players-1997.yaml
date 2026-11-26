@@ -1,0 +1,31 @@
+id: taverner-players-1997
+performers:
+- name: Taverner Players
+  role: orchestra
+- name: Taverner Choir
+  role: choir
+- name: Andrew Parrott
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: St Jude‐on‐the‐Hill
+released: 1998
+original_label: null
+works:
+- {bwv: '227', complete: true}
+- {bwv: '229', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3c203098-62f1-409e-94c9-b597e96e4aea
+  title: '"Jesu, meine Freude"'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 64c537f4-fea4-477f-b360-ce81552f7ad6
+  recordings: [0a7b4ead-196f-4f47-b06f-084b3f3d6f66, c7ee3e9a-abf2-4cf0-a07f-f72557b4c739, edd5da22-91ec-4ee6-bbec-6bb90483f3ce]

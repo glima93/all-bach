@@ -1,0 +1,30 @@
+id: maulbronner-kammerchor-undated
+performers:
+- name: Maulbronner Kammerchor
+  role: choir
+- name: Jürgen Budday
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '226', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1469ac50-4dcd-42c8-9894-2914aad3b57b
+  title: Tröste mich wieder
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 40330780-5f14-44d5-91fe-e19cfe64117e
+  recordings: [8e5aec12-13c6-473d-9358-991a135355f5]

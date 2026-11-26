@@ -1,0 +1,34 @@
+id: dresdner-philharmonie-1972
+performers:
+- name: Dresdner Philharmonie
+  role: orchestra
+- name: Martin Flämig
+  role: conductor
+- name: Dresdner Kreuzchor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972]
+  place: Lukaskirche
+released: 1995
+original_label: null
+works:
+- {bwv: '233', complete: true}
+- {bwv: '234', complete: true}
+- {bwv: '235', complete: true}
+- {bwv: '236', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/56589905-2e83-4a34-9dcd-ff2ee5fd8ac5
+  title: Masses BWV 233-236
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6fc009d4-6f05-4ffa-8151-a560508f6f4c
+  recordings: [35633eb3-ded2-4374-af9f-9b78629414f9, 3ca06ffe-1afe-4f09-b0ec-eeb05a41d3c2, 75e1a497-8a9e-4cab-bbed-f2fba008c7d8,
+    8a183c27-8e41-42eb-9de3-a8ab980abbbc]

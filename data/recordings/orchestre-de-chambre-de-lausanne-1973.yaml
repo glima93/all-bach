@@ -1,0 +1,76 @@
+id: orchestre-de-chambre-de-lausanne-1973
+performers:
+- name: Orchestre de Chambre de Lausanne
+  role: orchestra
+- name: Ensemble Vocal de Lausanne
+  role: choir
+- name: Michel Corboz
+  role: conductor
+- name: Philippe Huttenlocher
+  role: bass
+- name: Wally Stämpfli
+  role: soprano
+- name: Nicole Rossier-Maradan
+  role: alto
+- name: Hanna Schaer
+  role: performer
+- name: Marianne Clement
+  role: flute
+- name: Jörg Ewald Dähler
+  role: harpsichord
+- name: Jean-Paul Goy
+  role: oboe d'amore
+- name: Pablo Loerkens
+  role: cello
+- name: Jean Piguet
+  role: violin
+- name: Matthias Spaeter
+  role: lute
+- name: Jean-Paul Visard
+  role: lute
+- name: Pierre Wavre
+  role: flute
+- name: Françoise Winzap
+  role: viola da gamba
+- name: John Elwes
+  role: performer
+- name: Claudine Perret
+  role: performer
+- name: Olivier Dufour
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973]
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '233', complete: true}
+- {bwv: '234', complete: true}
+- {bwv: '235', complete: true}
+- {bwv: '236', complete: true}
+- {bwv: '237', complete: true}
+- {bwv: '238', complete: true}
+- {bwv: '239', complete: true}
+- {bwv: '240', complete: true}
+- {bwv: '241', complete: true}
+- {bwv: '242', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d9cf920f-3b1d-4577-a104-5a3d462cefa6
+  recordings: [106f71da-9e83-414b-b5b1-ed8b4b18c5e1, 326f037a-0993-4be8-bb88-64783402d1e3, 340dd179-b4f2-40d0-bfa7-95fe8afcd265,
+    76f4547f-fbd9-4d9e-9140-b66bda4ed764, 7ee49d17-6592-40a6-8a8e-0a7c762d8117, 9cf62934-e1be-4676-8476-d214882b91bc,
+    abe0534b-0b83-432a-bed9-2df8bb8777b7, bb29b3c2-d71f-465d-9813-ab9aa808f1ed, c666d083-a11d-4a74-8ec7-95822975253d,
+    cc296070-1514-41b8-8a21-ad5487c4bd16, d853e3fe-d5ca-4552-a1df-1b27a9969f73, e1193705-8bfd-416e-b0a4-501978ddf834,
+    f7400229-6c81-4c2b-8987-fb11695d9ff6, f9ed06a9-4cd1-4493-a7e6-a4244a67f7c3, ffbbaacb-55a4-445c-9d3e-af4926143882]

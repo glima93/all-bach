@@ -1,0 +1,30 @@
+id: choral-arts-philadelphia-undated
+performers:
+- name: Choral Arts Philadelphia
+  role: choir
+- name: Matthew Glandorf
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/45da7c63-75cb-4631-8625-87728eabb5ae
+  title: Bach @ 7 (April 6, 2016)
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 33588761-de79-443e-a3db-2e307da054b8
+  recordings: [b6551cde-cc64-48c2-91a4-4a86a41bdfea]

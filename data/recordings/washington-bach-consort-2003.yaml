@@ -1,0 +1,29 @@
+id: washington-bach-consort-2003
+performers:
+- name: Washington Bach Consort
+  role: orchestra
+- name: J. Reilly Lewis
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Omega Recording Studios
+released: 2004
+original_label: null
+works:
+- {bwv: '233', complete: true}
+- {bwv: '235', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/63960f24-c3f5-469a-b174-9c0c4d60e333
+  title: The Bach Masses, Vol. 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ca12f844-8c1b-4dc7-9bdf-1ccae6ed35d9
+  recordings: [03b4ce0c-8359-4d2f-bb52-693356b06dbb, 3cba1c6c-2c65-4243-8d53-f45918535393]

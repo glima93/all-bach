@@ -1,0 +1,32 @@
+id: the-hilliard-ensemble-2003
+performers:
+- name: The Hilliard Ensemble
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2003]
+  place: Propstei Sankt Gerold
+released: null
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/291c9de5-aa0d-44a0-aa8a-7452de50ce37
+  title: Motetten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c8db3d2b-19d8-4dc7-b2cb-deea37aa274a
+  recordings: [1c1b3961-5c28-4c42-8a45-65b43c0aa2d0, 2265e1dd-2d0e-484f-a03b-786d24d5bd46, 40c3ec75-f35c-4f7a-a6e8-a78bf6da9bf1,
+    451c837b-c605-4449-a353-a5048dd055ca, 4d6a65d1-dede-43bd-b8ea-feabe101d5a9, 518b8d3a-9df1-4331-9aa1-8fc6a802f8ec]

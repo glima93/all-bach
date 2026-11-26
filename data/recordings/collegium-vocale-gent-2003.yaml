@@ -1,0 +1,35 @@
+id: collegium-vocale-gent-2003
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Sibylla Rubens
+  role: performer
+- name: Stéphanie Houtzeel
+  role: performer
+- name: Thomas E. Bauer
+  role: performer
+- name: Philippe Herreweghe
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Stiftskirche Melk
+released: 2023
+original_label: null
+works:
+- {bwv: '233', complete: false, movements: [I. Coro "Kyrie eleison", II. Coro "Gloria in excelsis Deo", III. Aria
+      (Bass) "Domine Deus", IV. Aria (Soprano) "Qui tollis peccata mundi", VI. Coro "Cum sancto spiritu"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8b59a910-6efa-4b97-a878-5d4a37d2872e
+  title: 'Early Music Log: J.S Bach'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [04c222d9-960e-46d0-9483-2a0a5059ecd5]

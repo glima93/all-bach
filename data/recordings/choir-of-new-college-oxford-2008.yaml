@@ -1,0 +1,34 @@
+id: choir-of-new-college-oxford-2008
+performers:
+- name: Choir of New College Oxford
+  role: choir
+- name: Edward Higginbottom
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: New College, Oxford
+released: 2010
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/be9ad308-28c0-47a9-be81-0ff46bdf0d0b
+  title: 'Bach, Johann Sebastian: Motets BWV 225‒230'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 430770c6-7720-4086-b5b6-045a6edad385
+  recordings: [082f4c9c-4627-4a2e-8c7c-bc2e6186107f, 13cdc888-9583-471b-98ef-84282fee36fc, 51ace1f4-135f-4223-9651-2cd6917122a2,
+    d6f1c89d-b908-49ac-8ed0-30b3deb02aae, ef2c583a-0f2a-4273-8236-806be5e5c9f3, f5711ac1-f0ff-4c47-93cc-23abc9524bdb]

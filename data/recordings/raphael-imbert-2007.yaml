@@ -1,0 +1,26 @@
+id: raphael-imbert-2007
+performers:
+- name: Raphaël Imbert
+  role: string quartet
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: [2007]
+  place: Eglise Saint André
+released: 2007
+original_label: null
+works:
+- {bwv: '227', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8430078e-5350-431e-91d3-101dd9167543
+  title: Bach Coltrane
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: e387616c-f73f-4e53-b319-bb87eddadc0f
+  recordings: [01dce589-425b-411c-8093-dee2f2861b3a]

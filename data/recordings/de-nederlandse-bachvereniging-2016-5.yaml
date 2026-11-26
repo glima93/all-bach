@@ -1,0 +1,102 @@
+id: de-nederlandse-bachvereniging-2016-5
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Stephan MacLeod
+  role: conductor
+- name: Benny Aghassi
+  role: bassoon
+- name: Pieter-Jan Belder
+  role: organ
+- name: Robert Franenberg
+  role: violone
+- name: Peter Frankenberg
+  role: oboe
+- name: Siebe Henstra
+  role: harpsichord
+- name: Shunske Sato
+  role: violin
+- name: Yongcheon Shin
+  role: oboe
+- name: Martin Stadler
+  role: oboe
+- name: Lucia Swarts
+  role: cello
+- name: Staas Swierstra
+  role: viola
+- name: Sayuri Yamagata
+  role: violin
+- name: Matthew Baker
+  role: bass
+- name: Martijn de Graaf Bierbrauwer
+  role: bass
+- name: Victoria Cassano
+  role: alto
+- name: Guy Cutting
+  role: tenor
+- name: Griet De Geyter
+  role: soprano
+- name: Adriaan De Koster
+  role: tenor
+- name: Jelle Draijer
+  role: bass
+- name: Marine Fribourg
+  role: alto
+- name: Wolfgang Frisch
+  role: tenor
+- name: Barnabás Hegyi
+  role: alto
+- name: Gemma Jansen
+  role: alto
+- name: Aleksandra Lewandowska
+  role: soprano
+- name: Michiel Meijer
+  role: bass
+- name: Sebastian Myrus
+  role: bass
+- name: Bernadett Nagy
+  role: alto
+- name: Marta Paklar
+  role: soprano
+- name: Stephanie Pfeffer
+  role: soprano
+- name: Elena Pozhidaeva
+  role: alto
+- name: Diederik Rooker
+  role: tenor
+- name: Immo Schröder
+  role: tenor
+- name: Marjon Strijk
+  role: soprano
+- name: Ronald Threels
+  role: tenor
+- name: Hilde Van Ruymbeke
+  role: soprano
+- name: Klaartje van Veldhoven
+  role: soprano
+- name: Orlanda Velez Isidro
+  role: soprano
+- name: Pierre-Guy Le Gall White
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Grote Kerk
+released: null
+original_label: null
+works:
+- {bwv: '228', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/46c5879d-44a9-42f2-9142-63afa5dfe6ed
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [46c5879d-44a9-42f2-9142-63afa5dfe6ed]

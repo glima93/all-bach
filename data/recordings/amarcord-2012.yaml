@@ -1,0 +1,36 @@
+id: amarcord-2012
+performers:
+- name: amarcord
+  role: choir
+- name: Lautten Compagney
+  role: orchestra
+- name: Wolfgang Katschner
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2012]
+  place: Jesus‐Christus‐Kirche
+released: 2012
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf9845ff-2866-48ee-b8f1-fd98ad1b3026
+  title: die Motetten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 708adcb7-e3b9-4815-b315-3ac108513ac3
+  recordings: [619f7b74-bea2-4e6d-870f-b62fc68ce882, b177c4b7-b661-4bcb-bcfe-76b39df8e3c1, b76eb20f-d7a2-4b8e-813d-78a91ce2e0e9,
+    b7ad6970-f6c3-4d2f-9cad-5fae2e0de3ef, c64c9f72-2c21-4be4-ae5c-1e36133fe988, f85fdc0a-fbc3-4f3c-9b87-c54812493631]

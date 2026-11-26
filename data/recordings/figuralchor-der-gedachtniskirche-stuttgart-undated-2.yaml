@@ -1,0 +1,41 @@
+id: figuralchor-der-gedachtniskirche-stuttgart-undated-2
+performers:
+- name: Figuralchor der Gedächtniskirche Stuttgart
+  role: choir
+- name: Württembergisches Kammerorchester Heilbronn
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Antonia Fahberg
+  role: soprano
+- name: Margarethe Bence
+  role: alto
+- name: Theophil Maier
+  role: tenor
+- name: Ulrich Schaible
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '234', complete: false, movements: [I. Coro "Kyrie eleison", II. Coro "Gloria in excelsis Deo", III. Aria
+      (Bass) "Domine Deus", IV. Aria (Soprano) "Qui tollis peccata mundi", VI. Coro "Cum sancto spiritu"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f2b5236-51ec-41db-a419-86f872d3e79d
+  title: Wedding Cantata / Peasant Cantata / Masses BWV 233, 234, 236
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b24c1a44-93df-460b-b9df-80fc0a79bfa1
+  recordings: [bde951cf-f899-4967-979e-ba38f7154125]

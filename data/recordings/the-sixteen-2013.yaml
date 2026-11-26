@@ -1,0 +1,30 @@
+id: the-sixteen-2013
+performers:
+- name: The Sixteen
+  role: choir
+- name: Orchestra of The Sixteen
+  role: orchestra
+- name: Harry Christophers
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2013]
+  place: St. Augustine’s Church
+released: 2018
+original_label: null
+works:
+- {bwv: '236', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f3f0de88-d376-466d-a810-1863e29e8656
+  title: 'Vivaldi: Gloria / Bach: Mass in G major'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c3881c54-a782-478b-a242-80cb3fa287b1
+  recordings: [0887f136-99de-4c1b-817c-8a5faddd5f8c]

@@ -1,0 +1,49 @@
+id: monteverdi-choir-1980
+performers:
+- name: Monteverdi Choir
+  role: choir
+- name: English Baroque Soloists
+  role: orchestra
+- name: John Eliot Gardiner
+  role: conductor
+- name: Gillian Fisher
+  role: soprano
+- name: Neil McKenzie
+  role: tenor
+- name: Elisabeth Priday
+  role: soprano
+- name: Richard Savage
+  role: bass
+- name: Ashley Stafford
+  role: alto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1980]
+  place: All Saints Church
+released: 1981
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+- {bwv: '231', complete: true}
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0a63dd93-7c25-4fd5-b02d-09753c68ee11
+  title: Die Motetten Bwv 225-231 - Bwv 50 & 118
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a3016390-1ea7-41e2-afac-8d3d3d021fe0
+  recordings: [15d6bb91-ff9a-423b-ab9e-1ce8646788aa, 1ceec97d-f047-4c95-ab4f-7ce15cb83281, 2664b484-3e3f-4a43-b343-cca11f4f5962,
+    41030619-4ed5-4c7d-ab83-460acd8d8456, 541ebad2-486e-4faf-9cb6-0a138ae20703, 79a65d74-1392-4e89-9ae4-3d2b6f5542e9,
+    bf5eef80-19d3-4222-9ce9-25bf6bcbf313, d1e4947e-e185-482a-92ac-7e1f74fcd7b3, d784bfae-3627-47df-a2af-328476b32053]

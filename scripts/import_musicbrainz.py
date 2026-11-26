@@ -340,10 +340,17 @@ JOIN_BY_RELEASE = {
   "mass-in-b-minor": "choruses and arias have different line-ups, so the collector splits each performance",
   "passions": "choruses, chorales, recitatives and arias have different line-ups",
   "oratorios": "choruses, chorales, recitatives and arias have different line-ups",
+  # Run 25: the collector also splits a disc of motets or missae breves into one row per work.
+  "motets": "the collector splits a recorded set into one row per motet, and the continuo or instruments into other rows",
+  "missae-breves": "choruses and arias have different line-ups, and a set of masses is split into one row per work",
 }
 # Chamber sets the collector splits by line-up (the solo partita, the sonatas with keyboard, the continuo sonatas
 # with a cellist or gambist added): rows on the same release, with the same recording years and the same solo
 # player, are one performance.
+# Rows on one release that JOIN_BY_RELEASE must not fold in: a reissue that couples two performances with the
+# same conductor (run 25: two Rilling missae on one undated disc).
+NO_JOIN_BY_SNAPSHOT: dict[str, dict[str, str]] = {}
+NO_JOIN: set[str] = set()
 JOIN_BY_PLAYER_RELEASE = {
   "flute-works": "a flutist's set is split into the solo Partita, the obbligato sonatas and the continuo sonatas",
   "gamba-sonatas": "a set is split by line-up when a player is credited on only some sonatas",
@@ -1431,6 +1438,112 @@ _OVERRIDE24 = {
 JOIN_BY_SNAPSHOT["oratorios"].update(_JOIN24)
 OVERRIDE_BY_SNAPSHOT["oratorios"].update(_OVERRIDE24)
 
+# Run 25: the Motets (BWV 225-231, 118) and the Missae breves and mass movements (BWV 233-242).
+EXCLUDE_BY_SNAPSHOT["motets"] = {
+    "b699fa69-ee6c-4942-91a0-bccc9bc18328": "Douglas E. Bush's Orgelbüchlein: the organ chorale prelude 'Jesu, meine Freude' (BWV 610) linked to the motet's opening chorale on the same hymn (as in the Oratorios, run 24)",
+    "48486cd6-e305-40fb-a7ec-551f32ed4c88": "Dick Koomans on Het Historische Orgel in Nederland: an organ piece on 'Jesu, meine Freude' linked to the whole motet; organ alone, no choir",
+    "b0adfb63-1119-4ae1-9e59-72ec139eb0e4": "Marie-Louise Beckman's Pastoral: an organ chorale prelude on 'Jesu, meine Freude' linked to the motet's opening chorale",
+}
+_R25 = "the same performers and recording year; complementary movements or a reissue (run 25)"
+JOIN_BY_SNAPSHOT["motets"] = {
+    "79a65d74-1392-4e89-9ae4-3d2b6f5542e9": ("41030619-4ed5-4c7d-ab83-460acd8d8456", "Gardiner's Erato motets (1980), BWV 228 on another issue of the set: " + _R25),
+    "d784bfae-3627-47df-a2af-328476b32053": ("41030619-4ed5-4c7d-ab83-460acd8d8456", "Gardiner's Erato motets (1980), Jesu, meine Freude reissued on Motetten und Kantaten: " + _R25),
+    "4ed6e6d3-b8db-4e8a-ad5e-dd1b7815220b": ("8f6e98b7-416d-4ce0-a16e-d4a79c0942e7", "Eschenburg's motets with the Rostocker Motettenchor (1982-83), BWV 225 on Vokalmusik 2: " + _R25),
+    "f769ec80-f8c9-4885-bdcd-e92109055d23": ("8f6e98b7-416d-4ce0-a16e-d4a79c0942e7", "Eschenburg's motets (1982-83), BWV 227 on Vokalmusik 2: " + _R25),
+    "2d98b1e4-3b10-49ff-88f1-1fc6b4459222": ("8f6e98b7-416d-4ce0-a16e-d4a79c0942e7", "Eschenburg's motets (1982-83), BWV 229 on Vokalmusik 2: " + _R25),
+    "43887765-589e-45c5-a2f6-3c28863dff30": ("8f6e98b7-416d-4ce0-a16e-d4a79c0942e7", "Eschenburg's motets (1982-83), BWV 230 on Christmas Music: " + _R25),
+    "2b135398-1d3a-4676-beca-1157031475c6": ("7bc2fb9c-51bb-41ae-bbc6-22bf83f8b886", "Jacobs's motets (1995), BWV 225 on A New Approach to Johann Sebastian Bach: " + _R25),
+    "8098ab33-406b-4449-b006-d0c73d7ef565": ("2fa8c179-ddfe-427b-b729-753254b7281d", "Marlow's motets with Trinity College (1988), BWV 226 on The Great Tradition: " + _R25),
+    "71ee2df4-fcbc-45a4-a52a-a4bdf80d183e": ("2fa8c179-ddfe-427b-b729-753254b7281d", "Marlow's motets with Trinity College (1988), BWV 230 on Inspired Voices: " + _R25),
+    "cae564c4-d440-4111-8901-5b5a9a7fae81": ("9becd188-8eea-4aec-84d2-f7eb054cd61f", "Schneidt's 1973 Singet dem Herrn on Tune Your Brain With Bach, the original recording, not an arrangement (as Richter, run 24): " + _R25),
+}
+OVERRIDE_BY_SNAPSHOT["motets"] = {
+    "c9524c6e-ce19-42f3-a4df-69982cd9c873": ({"arrangement": False},
+        "Biller's BWV 118 with the Baroque Brass of London: the first version is scored for litui, cornett and trombones, so the brass group plays the original, not an arrangement"),
+    "434c8891-e213-4b6c-be56-8f348c6dece7": ({"arrangement": True},
+        "Re-Switched: Bach on the Phone: Rainer Sauer's electronic version of Jesu, meine Freude"),
+    "01dce589-425b-411c-8093-dee2f2861b3a": ({"arrangement": True},
+        "Bach Coltrane: Raphaël Imbert's jazz quartet plays Jesu, meine Freude"),
+}
+
+_C25 = "(checker, run 25)"
+JOIN_BY_SNAPSHOT["motets"].update({
+    "03ce01ae-4cd7-4343-b81f-49fb70616936": ("b97ee1ef-1ad9-49e2-996f-24fc4f21c5a2", "Jürgens's BWV 118 (1966-67) on Bach 2000; the Teldec LP credits the Leonhardt-Consort, the reissue Concerto Amsterdam: " + _R25 + " " + _C25),
+    "24a78b99-c5b2-4372-9206-c049ced2f0b8": ("ef5cd19b-2108-4926-b56d-4493430ef2e7", "Bernius's 2012 Carus motets, Jesu, meine Freude on Les Diapason d'or (Septembre 2012): a reissue " + _C25),
+    "0e49a6a6-a069-4a31-bc8a-cbccacb650bf": ("1e70b23e-9036-46ef-b67e-30dec46fd49b", "Gardiner's live motets (2011, SDG), Der Geist hilft on Les Diapason d'or (Été 2012): a reissue " + _C25),
+    "e7de42a2-bf74-4f40-8297-6ccbf9024869": ("346c8078-7488-4672-9173-65e6caa24a26", "Schweizer's Pforzheim recordings (1990), BWV 118 on another budget reissue: " + _R25 + " " + _C25),
+    "a7cd411f-ef1c-4568-b0a6-6e1f5689af1f": ("8f6e98b7-416d-4ce0-a16e-d4a79c0942e7", "Eschenburg's Rostock motets with Capella Fidicinia (Hans Grüß), Jesu, meine Freude on Sternstunden der Musik: a reissue " + _C25),
+})
+JOIN_BY_SNAPSHOT["missae-breves"] = {
+    "5ac28cca-c49b-4eb9-8d68-1d7516785f33": ("a3e2dcd9-ddd4-42cf-b367-9367f6600967", "Schreier's missae with the RIAS Kammerchor (Philips, 1994), the choruses reissued in Bach 333: " + _R25 + " " + _C25),
+    "8650636f-2b2c-43ff-b2e0-f6a48c3ec60c": ("a3e2dcd9-ddd4-42cf-b367-9367f6600967", "Schreier's missae (Philips, 1994), the choruses reissued in Bach 333: " + _R25 + " " + _C25),
+    "bb29b3c2-d71f-465d-9813-ab9aa808f1ed": ("f7400229-6c81-4c2b-8987-fb11695d9ff6", "Corboz's 1973 Latin church music on Bach 2000: the Kyrie of BWV 234, the one movement the set's other row lacks " + _C25),
+}
+NO_JOIN_BY_SNAPSHOT["missae-breves"] = {
+    "bde951cf-f899-4967-979e-ba38f7154125": "Rilling's earlier BWV 234 (Figuralchor der Gedächtniskirche, Württembergisches Kammerorchester Heilbronn; Bence, Fahberg, Maier, Schaible) is coupled with his Gächinger Kantorei 233 and 236 on one undated disc: two performances " + _C25,
+}
+_BCJ = "Suzuki is credited twice, in Latin and Japanese script, and sometimes only as performer (as in run 24) " + _C25
+OVERRIDE_BY_SNAPSHOT["motets"].update({
+    "c3f855a7-7425-4f86-9953-0bd46822db24": ({"performers": [{"name": "Regensburger Domspatzen", "role": "choir"},
+        {"name": "Capella Academica Wien", "role": "orchestra"}, {"name": "Hanns‐Martin Schneidt", "role": "conductor"},
+        {"name": "Eduard Melkus", "role": "director"}]},
+        "Schneidt conducts the Domspatzen, as on his 1973 motets; Melkus directs his Capella Academica Wien (the rows swap the credits) " + _C25),
+    "8bd9fe87-086c-46c9-926e-9eebf5a01e7f": ({"notes": "Sung with a viol consort on an album of chorale preludes for viols. Which four-part setting of 'Jesu, meine Freude' this is (the motet's opening chorale or another harmonisation such as BWV 358) has not been checked."},
+        "Preludi ai corali: the chorale may be another harmonisation of the hymn; flagged for a contributor " + _C25),
+    "8f6e98b7-416d-4ce0-a16e-d4a79c0942e7": ({"performers": [{"name": "Rostocker Motettenchor", "role": "choir"},
+        {"name": "Capella Fidicinia", "role": "orchestra"}, {"name": "Hartwig Eschenburg", "role": "conductor"},
+        {"name": "Hans Grüß", "role": "director"}]},
+        "Hans Grüß directs Capella Fidicinia; the joined rows credit him twice, once as Grüss " + _C25),
+    "03e0b39f-0ddc-4dd4-b495-59d4293990f1": ({"performers": [{"name": "Choir of King’s College, Cambridge", "role": "choir"},
+        {"name": "Stephen Cleobury", "role": "conductor"}, {"name": "Benjamin Bayl", "role": "organ"}]},
+        "Cleobury's 1999-2000 disc: the rows credit Benjamin Bayl on the organ; Willcocks comes from another track " + _C25),
+    "7ad1cc1a-d52a-4560-8b32-bb39ad6c3373": ({"performers": [{"name": "St. Olaf Choir", "role": "choir"},
+        {"name": "Olaf C. Christiansen", "role": "conductor"}]}, "Olaf C. Christiansen directed the St. Olaf Choir " + _C25),
+    "3003a0e5-e1d4-4a35-a8f3-0302ca8634f2": ({"performers": [{"name": "Bach Collegium Japan", "role": "orchestra"},
+        {"name": "Masaaki Suzuki", "role": "conductor"}]}, _BCJ),
+    "418cb778-4b9f-4af5-b24e-28848f8f79b9": ({"arrangement": True, "notes": None, "performers": [{"name": "Calmus Ensemble", "role": "choir"},
+        {"name": "Lautten Compagney", "role": "orchestra"}, {"name": "Wolfgang Katschner", "role": "conductor"}]},
+        "BACHArkaden (Carus): an arranged programme, with bells and flute added to Jesu, meine Freude (MusicWeb review); Calmus is credited twice " + _C25),
+    "1771796c-2da9-4c6b-b181-4b11a6dd33f1": ({"performance_practice": "historical"},
+        "Herreweghe's Bach is with the period forces of Collegium Vocale Gent " + _C25),
+    "7e8730a7-1725-4e00-bf23-8f083e0fe5d9": ({"performance_practice": "historical"},
+        "Hermann Max's Rheinische Kantorei motets are with his period group Das Kleine Konzert, credited only on the album " + _C25),
+    "61978acd-7fbb-4975-a040-a947bafcdf7e": ({"performance_practice": "unknown"},
+        "Nicol Matt's Brilliant chorales: the Freiburger Barockorchester credit is probably album-level, from other tracks " + _C25),
+    "1b8f7745-d471-4a7f-bc64-b9cf58c639f2": ({"performance_practice": "unknown"},
+        "Nicol Matt's Brilliant chorales: the Freiburger Barockorchester credit is probably album-level, from other tracks " + _C25),
+    "0a7b4ead-196f-4f47-b06f-084b3f3d6f66": ({"notes": None}, "Parrott's \"Jesu, meine Freude\" disc holds the whole motets, not a selection " + _C25),
+    "17eee693-b84c-4292-bc42-f86aa57157f1": ({"notes": None}, "Biller's Bach in Leipzig holds all six motets, not a selection " + _C25),
+})
+OVERRIDE_BY_SNAPSHOT["missae-breves"] = {
+    "bde951cf-f899-4967-979e-ba38f7154125": ({"performers": [{"name": "Figuralchor der Gedächtniskirche Stuttgart", "role": "choir"},
+        {"name": "Württembergisches Kammerorchester Heilbronn", "role": "orchestra"}, {"name": "Helmuth Rilling", "role": "conductor"},
+        {"name": "Antonia Fahberg", "role": "soprano"}, {"name": "Margarethe Bence", "role": "alto"}, {"name": "Theophil Maier", "role": "tenor"},
+        {"name": "Ulrich Schaible", "role": "bass"}]},
+        "Rilling's earlier BWV 234, kept apart from the disc's other performance (NO_JOIN): the conductor credit sits on the coupled row " + _C25),
+    "0887f136-99de-4c1b-817c-8a5faddd5f8c": ({"performers": [{"name": "The Sixteen", "role": "choir"},
+        {"name": "Orchestra of The Sixteen", "role": "orchestra"}, {"name": "Harry Christophers", "role": "conductor"}]},
+        "Harry Christophers conducts; MusicBrainz gives him the orchestra role " + _C25),
+    "e144695e-1a69-448c-b7f4-0c0ae2f9f881": ({"performers": [{"name": "Collegium Vocale Gent", "role": "choir"},
+        {"name": "Philippe Herreweghe", "role": "conductor"}, {"name": "Agnès Mellon", "role": "soprano"},
+        {"name": "Gérard Lesne", "role": "alto"}, {"name": "Christoph Prégardien", "role": "tenor"}, {"name": "Peter Kooy", "role": "bass"}]},
+        "Herreweghe's 1990 Missae BWV 233 & 236: Rubens, Houtzeel and Bauer are the soloists of his 2003 performance, from a joined reissue " + _C25),
+    "c02236ad-c043-4872-b3dd-91742217572b": ({"performers": [{"name": "Bach Collegium Japan", "role": "orchestra"},
+        {"name": "Masaaki Suzuki", "role": "conductor"}, {"name": "Hana Blažíková", "role": "soprano"}, {"name": "Robin Blaze", "role": "countertenor"},
+        {"name": "Gerd Türk", "role": "tenor"}, {"name": "Peter Kooij", "role": "bass"}]}, _BCJ),
+    "4673a494-e2c4-4550-9cf0-57175428f46e": ({"performers": [{"name": "Bach Collegium Japan", "role": "orchestra"},
+        {"name": "Masaaki Suzuki", "role": "conductor"}, {"name": "Hana Blažíková", "role": "soprano"}, {"name": "Robin Blaze", "role": "countertenor"},
+        {"name": "Peter Kooij", "role": "bass"}]}, _BCJ),
+    "23df9875-10c0-41ed-a00c-85b947b38286": ({"performers": [{"name": "Bach Collegium Japan", "role": "orchestra"},
+        {"name": "Masaaki Suzuki", "role": "conductor"}, {"name": "Joanne Lunn", "role": "soprano"}, {"name": "Robin Blaze", "role": "countertenor"}]}, _BCJ),
+    "594b2de2-7561-46ec-9626-058c9e3feaf8": ({"performers": [{"name": "Bach Collegium Japan", "role": "orchestra"},
+        {"name": "Masaaki Suzuki", "role": "conductor"}]}, _BCJ),
+    "a3e2dcd9-ddd4-42cf-b367-9367f6600967": ({"performers": [{"name": "Kammerorchester Carl Philipp Emanuel Bach", "role": "orchestra"},
+        {"name": "RIAS Kammerchor", "role": "choir"}, {"name": "Peter Schreier", "role": "conductor"}, {"name": "Barbara Bonney", "role": "soprano"},
+        {"name": "Birgit Remmert", "role": "mezzo-soprano"}, {"name": "Rainer Trost", "role": "tenor"}, {"name": "Olaf Bär", "role": "baritone"}]},
+        "Schreier conducts his 1994 Philips missae; the soloists' roles are from the release " + _C25),
+}
+
 INSTRUMENTS = {
     "cello": "cello", "violoncello": "cello",
     "baroque cello": "baroque-cello", "baroque violoncello": "baroque-cello",
@@ -1497,6 +1610,8 @@ PERIOD_ENSEMBLE = re.compile(
     r"musica ad rhenum|ricercar consort|ausonia|ensemble diderot|aulos ensemble|basses r.unies|"
     r"vox luminis|gabrieli consort|collegium vocale|chapelle royale|orchestra of the sixteen|gaechinger cantorey|"
     r"washington bach consort|les ambassadeurs|gioiosa marca|capella fidicinia|"
+    # Run 25: period brass and continuo groups the Motets and Missae breves turned up.
+    r"lautten compagney|concerto palatino|his majest(y|ie)s?.? sag|purcell quartet|"
     r"balthasar.neumann|kleine konzert|chapelle harmonique|solomon.s knot|pygmalion|gli angeli gen|la cetra|bach-stiftung|"
     # Run 23 (checker): period groups the Passions turned up.
     r"akad.mia\b|chapelle rh.nane|grande .curie|agr.mens|smithsonian chamber|collegium cartusianum|das neue orchester|"
@@ -1791,7 +1906,7 @@ def works_block(perf: dict, bwvs: list[str], moves: dict[str, list[str]]) -> lis
 # Vocal works (run 22): a compilation linked in MusicBrainz to the whole work ("Laudate Dominum: famous arias and
 # choruses") holds a selection, not the complete work, but which movements is not known. A release whose title
 # names no large vocal work is such a compilation: the file keeps the whole work and says so in the notes.
-VOCAL_RELEASE = re.compile(r"magnificat|messe|\bmass\b|missa|passion|oratori|bwv\s*\d|"
+VOCAL_RELEASE = re.compile(r"magnificat|messe|\bmass\b|missa|passion|oratori|bwv\s*\d|motet|\bmasses\b|sacred music in latin|"
                            r"kantat|cantat|\bcomplete\b|bach edition|bach 333", re.I)
 SELECTION_NOTE = "Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements."
 
@@ -1801,7 +1916,9 @@ SELECTION_NOTE = "Linked to the whole work in MusicBrainz on a compilation: prob
 HIGHLIGHTS_RELEASE = re.compile(r"highlights?|cross[- ]section|querschnitt|ausz[üu]ge|excerpts?|extraits", re.I)
 
 
-def vocal_selection(perf: dict, works: list) -> bool:
+def vocal_selection(perf: dict, works: list, moves: dict[str, list[str]] | None = None) -> bool:
+    # A single-movement work (BWV 118, the Sanctus settings) linked whole is the whole work (run 25).
+    works = [w for w in works if moves is None or len(moves.get(w["bwv"], [])) != 1]
     return bool(perf["releases"]) and any(w["complete"] for w in works) \
         and (not any(VOCAL_RELEASE.search(r["title"]) for r in perf["releases"])
              or all(HIGHLIGHTS_RELEASE.search(r["title"]) for r in perf["releases"]))
@@ -2079,7 +2196,7 @@ def from_perf(perf: dict, bwvs: list[str], moves: dict[str, list[str]], native: 
             rec["notes"] = ((rec["notes"] or "") + f" Played on {', '.join(perf['ins'][:3])}.").strip()
         elif others:
             rec["notes"] = ((rec["notes"] or "") + f" With {', '.join(others[:3])}.").strip()
-    if mode == "vocal" and vocal_selection(perf, rec["works"]):
+    if mode == "vocal" and vocal_selection(perf, rec["works"], moves):
         rec["notes"] = ((rec["notes"] or "") + " " + SELECTION_NOTE).strip()
     rec["help_wanted"] = help_items(rec, same_performer)
     return rec
@@ -2156,7 +2273,8 @@ def join_by_release(perfs: list[dict], lead: list[str] | None = None) -> list[di
     only rows with the same solo player, who then leads the performer list."""
     groups: dict[tuple, list[dict]] = {}
     for p in perfs:
-        key = (p["releases"][0]["id"], tuple(sorted(p["years"]))) if p["releases"] else (p["repId"],)
+        key = (p["releases"][0]["id"], tuple(sorted(p["years"]))) if p["releases"] and p["repId"] not in NO_JOIN \
+            else (p["repId"],)
         if lead is not None:
             player = solo_player(p, lead) if p["releases"] else None
             key = key + (player,) if player else (p["repId"],)
@@ -2201,6 +2319,8 @@ def main(snapshot: str) -> int:
     data = json.loads(Path(snapshot).read_text(encoding="utf-8"))
     EXCLUDE.clear()
     EXCLUDE.update(EXCLUDE_BY_SNAPSHOT.get(Path(snapshot).stem.removeprefix("musicbrainz-"), {}))
+    NO_JOIN.clear()
+    NO_JOIN.update(NO_JOIN_BY_SNAPSHOT.get(Path(snapshot).stem.removeprefix("musicbrainz-"), {}))
     if isinstance(data, list):
         data = {"works": CELLO_SUITES, "native": CELLO_FAMILY, "rows": data}
     bwvs, native, rows = data["works"], set(data["native"]), data["rows"]
@@ -2308,6 +2428,8 @@ def main(snapshot: str) -> int:
                 new["works"] = works_block({**perf, "mv": fix["movements"]}, bwvs, moves)
             if "released" in fix:
                 new["released"] = fix["released"]
+            if "notes" in fix:
+                new["notes"] = fix["notes"]
             if "place" in fix:
                 new["recorded"]["place"] = fix["place"]
             if "years" in fix:

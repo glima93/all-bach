@@ -1,0 +1,38 @@
+id: collegium-vocale-gent-1989
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Peter Kooij
+  role: performer
+- name: Gérard Lesne
+  role: performer
+- name: Agnès Mellon
+  role: performer
+- name: Christoph Prégardien
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: Abbaye aux Dames
+released: 1990
+original_label: null
+works:
+- {bwv: '234', complete: true}
+- {bwv: '235', complete: true}
+- {bwv: '238', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/78712d60-5857-40f4-8304-f232c8056340
+  title: Missae BWV 234 & 235 - Sanctus BWV 238
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [249d1b16-d180-4f2f-82f1-34c5b081d242, 2f130cd2-3e1e-4271-b004-e52f0e52e247, a8a13aaf-bcd0-4efe-9657-dfce0f4b015d]

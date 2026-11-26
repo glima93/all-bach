@@ -1,0 +1,35 @@
+id: cantus-colln-1995
+performers:
+- name: Cantus Cölln
+  role: orchestra
+- name: Konrad Junghänel
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/032dafd1-f173-4baa-b28d-86bb090c1724
+  title: Motetten/Motets, BWV 225-230
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dae66f74-3955-4548-8369-b3182e759f16
+  recordings: [07715707-049a-45c5-bc53-27aade81c894, 35d86d9b-d1cd-46f9-9694-d3b20ee6ffc8, 3a06d30c-77f3-4477-b74a-3e8c24fcf3d3,
+    5befd504-1cd4-4f2b-8567-1ce3650e337c, 81f9492a-7353-4312-983a-2bcd23578224, cbcc01a8-445d-44b5-869c-12ee8f35c3e5]

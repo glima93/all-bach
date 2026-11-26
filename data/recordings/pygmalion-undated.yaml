@@ -1,0 +1,37 @@
+id: pygmalion-undated
+performers:
+- name: Pygmalion
+  role: orchestra
+- name: Raphaël Pichon
+  role: conductor
+- name: Ensemble Pygmalion
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Église Notre‐Dame du Liban
+released: 2020
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1c8c7dd9-3a76-4318-9f41-c655eca0c104
+  title: Motets
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a62aaaee-e9ec-403f-b7f1-274a5e46adb1
+  recordings: [2cfd3e55-8120-400d-87be-b1a1cf8fe344, 3a1b0713-41f3-4619-b13f-8848e664db70, 507bc199-578d-4571-b20c-d15ea09f7a66,
+    8d468c5c-caee-42fe-8af0-4b0c2aa39060, ccaf196b-4c62-4ba3-ac50-e6fe91bbf880, fa05d803-3dd8-420e-9427-bf4ae1d0af85]

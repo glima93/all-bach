@@ -1,0 +1,36 @@
+id: i-barocchisti-undated-2
+performers:
+- name: I Barocchisti
+  role: choir
+- name: Diego Fasolis
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/60040a22-913c-41ca-8a8b-4938a7e4efd0
+  title: Motets - Motetten BWV 225-230
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 02ff3d27-4ba9-4ebf-bca5-9fb5c54c9b36
+  recordings: [0c04398d-7c4b-438c-b766-5dbe10331005, 1249f252-70a1-429c-b69f-df7f9380428e, 3b9053ec-89d2-4ebd-9693-1a90e4e302d5,
+    4ec36a46-0516-4c9e-b03f-f62d48a09d80, 7a17223a-5aa0-4640-a584-e58acce704fe, d1395df8-4104-40bb-959b-f0208d8cf5d7]

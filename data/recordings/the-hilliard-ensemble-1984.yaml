@@ -1,0 +1,38 @@
+id: the-hilliard-ensemble-1984
+performers:
+- name: The Hilliard Ensemble
+  role: choir
+- name: Knabenchor Hannover
+  role: choir
+- name: London Baroque
+  role: orchestra
+- name: Paul Hillier
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: Kirche St. Osdag
+released: 1987
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85d56793-29b5-4ed1-8210-82756dff536e
+  title: Johann Sebastian Bach, Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c8db3d2b-19d8-4dc7-b2cb-deea37aa274a
+  recordings: [04cb7cab-fe3f-46df-ab5b-646890a13986, 10de1a41-2a7f-4e7b-ac4e-58addfc21700, 4b3e6aa4-aade-4b32-8fcc-7d3570af7c49,
+    adca31d7-d677-4634-a7d1-6381aed99f5d, cd608f9d-e9d7-4389-bd8e-ea0543db77a8, e548239c-4e0a-4504-8e28-c8bdba1e5636]

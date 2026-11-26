@@ -1,0 +1,88 @@
+id: de-nederlandse-bachvereniging-2016-6
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Hans-Christoph Rademann
+  role: conductor
+- name: Peter Affourtit
+  role: violin
+- name: Benny Aghassi
+  role: bassoon
+- name: Robert Franenberg
+  role: double bass
+- name: Peter Frankenberg
+  role: oboe
+- name: Anneke van Haaften
+  role: violin
+- name: Siebe Henstra
+  role: harpsichord
+- name: Gijs Laceulle
+  role: horn
+- name: Richte van der Meer
+  role: cello
+- name: Bart Naessens
+  role: organ
+- name: Martin Stadler
+  role: oboe
+- name: Lucia Swarts
+  role: cello
+- name: Staas Swierstra
+  role: viola
+- name: Annelies van der Vegt
+  role: violin
+- name: Jan Willem Vis
+  role: viola
+- name: Lidewij van der Voort
+  role: violin
+- name: Hanneke Wierenga
+  role: violin
+- name: Erwin Wieringa
+  role: horn
+- name: Sayuri Yamagata
+  role: violin
+- name: Lauren Armishaw
+  role: soprano
+- name: Matthew Brook
+  role: bass
+- name: Lucie Chartin
+  role: soprano
+- name: Elspeth Gerritsen
+  role: alto
+- name: Barnabás Hegyi
+  role: alto
+- name: Daniel Johannsen
+  role: tenor
+- name: Sebastian Myrus
+  role: bass
+- name: Drew Santini
+  role: bass
+- name: Immo Schröder
+  role: tenor
+- name: Kevin Skelton
+  role: tenor
+- name: Zsuzsi Tóth
+  role: soprano
+- name: Bart Uvyn
+  role: alto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Grote Kerk
+released: null
+original_label: null
+works:
+- {bwv: '233', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/09dc034f-539f-45b7-8bb8-e96b7842d23e
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [09dc034f-539f-45b7-8bb8-e96b7842d23e]

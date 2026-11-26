@@ -1,0 +1,30 @@
+id: winchester-college-chapel-choir-2004
+performers:
+- name: Winchester College Chapel Choir
+  role: choir
+- name: Hong Kong Philharmonic Orchestra
+  role: orchestra
+- name: William Lacey
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2004]
+  place: Concert Hall, Hong Kong Cultural Centre
+released: 2005
+original_label: null
+works:
+- {bwv: '236', complete: false, movements: [I. Coro "Kyrie eleison"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a16b510e-5f72-49d3-a6da-91a9197d4c91
+  title: Christmas With the Winchester College Chapel Choir
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 9d642859-f427-4551-a03a-0361eb906990
+  recordings: [0dbd3bdf-a459-4b0a-9039-bcdaf39d864e]

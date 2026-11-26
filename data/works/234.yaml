@@ -1,0 +1,19 @@
+bwv: "234"
+title: "Missa in A major"
+key: "A major"
+collection: "Missae breves and mass movements"
+genre: mass
+scoring: "Soloists (SAB), four-part choir (SATB), 2 flutes, strings and continuo"
+composed: "Leipzig, c.1738–39; performed again in the 1740s"
+movements:
+  - "I. Coro \"Kyrie eleison\""
+  - "II. Coro \"Gloria in excelsis Deo\""
+  - "III. Aria (Bass) \"Domine Deus\""
+  - "IV. Aria (Soprano) \"Qui tollis peccata mundi\""
+  - "V. Aria (Alto) \"Quoniam tu solus sanctus\""
+  - "VI. Coro \"Cum sancto spiritu\""
+notes: "A Kyrie–Gloria mass whose Gloria movements are parodies of cantatas BWV 67, 179, 79 and 136."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Kyrie%E2%80%93Gloria_Masses,_BWV_233%E2%80%93236"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/c0c6c2ff-7b7c-46ef-a5b6-170849aef34d

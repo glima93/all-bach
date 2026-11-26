@@ -1,0 +1,31 @@
+id: st-olaf-choir-undated-2
+performers:
+- name: St. Olaf Choir
+  role: choir
+- name: Anton Armstrong
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '226', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e13484df-0c48-4508-8b6f-ab952f5eaffb
+  title: My Soul’s Been Anchored in the Lord
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 8519368b-1e95-4746-bd96-13f288e522e1
+  recordings: [9bea9cd5-5013-442b-b9b1-a22d7e328668]

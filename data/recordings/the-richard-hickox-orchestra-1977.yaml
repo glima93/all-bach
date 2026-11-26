@@ -1,0 +1,40 @@
+id: the-richard-hickox-orchestra-1977
+performers:
+- name: The Richard Hickox Orchestra
+  role: orchestra
+- name: The Richard Hickox Singers
+  role: choir
+- name: Richard Hickox
+  role: conductor
+- name: Stephen Roberts
+  role: bass
+- name: Wendy Eathorne
+  role: performer
+- name: Paul Esswood
+  role: performer
+- name: Richard Hickox Orchestra
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: St John’s, Smith Square
+released: 2000
+original_label: null
+works:
+- {bwv: '233', complete: true}
+- {bwv: '234', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/79e2922f-bf6a-470f-a0de-66a790cf900f
+  title: The 4 Missae Breves / Cantatas 67 & 130
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: faf0fc1f-2406-4967-9d67-70102f70de4e
+  recordings: [2a803a65-b6af-4180-87bf-3661312ff43e, 4896c105-76ba-4591-996e-e4e46ff3cfca, 7a4ba216-90eb-46e1-9920-9e5f09e2561e,
+    e2f9c108-2793-41db-b969-ef6139326e23]

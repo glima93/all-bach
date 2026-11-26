@@ -1,0 +1,35 @@
+id: kammerchor-stuttgart-1989
+performers:
+- name: Kammerchor Stuttgart
+  role: choir
+- name: Barockorchester Stuttgart
+  role: orchestra
+- name: Frieder Bernius
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: Evangelische Peter-und-Paul-Kirche, Gönningen
+released: 1990
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/02100e12-3d6b-3f76-8d1c-bfcf545490b6
+  title: Motetten BWV 225 - 229
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2d6bae57-48ef-40a1-a7cf-a0bc3e53c838
+  recordings: [39e077b2-bf32-4484-bc4f-276f0e1f2313, 932d1bf2-8e21-4b51-97c0-28d165de963f, b3db45e3-aecb-4729-9869-31637deb85d1,
+    d101eb65-d24f-4304-aec6-5e686785ef67, e677760e-5acd-4c7b-8a27-c396e33ff5e8, faf5aa0a-018a-4615-9b1e-a1554dec9464]

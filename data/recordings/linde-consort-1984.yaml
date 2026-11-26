@@ -1,0 +1,34 @@
+id: linde-consort-1984
+performers:
+- name: Linde Consort
+  role: orchestra
+- name: Hans-Martin Linde
+  role: conductor
+- name: Basler Madrigalisten
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1984]
+  place: Landgasthof Riehen
+released: null
+original_label: null
+works:
+- {bwv: '233', complete: true}
+- {bwv: '234', complete: true}
+- {bwv: '235', complete: true}
+- {bwv: '236', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee56afe9-2418-40ae-9519-4818ceee3cf3
+  title: Messen BWV 233-236
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 10eb2e67-ebab-4306-8bcf-4447bbfef714
+  recordings: [40cb408b-5db0-404f-bf7c-968522b6b499, 4556e557-c515-4237-8c36-0b78b95edd87, 6fd05620-6882-4f30-825c-3a1acf1919a9,
+    9715a5b3-84ec-42be-a49b-316c0bd2e9ae]

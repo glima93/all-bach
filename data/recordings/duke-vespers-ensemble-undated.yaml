@@ -1,0 +1,28 @@
+id: duke-vespers-ensemble-undated
+performers:
+- name: Duke Vespers Ensemble
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/af7d8e13-9e24-45a0-8249-79c235589dab
+  title: Evening Echoes From Memorial Chapel
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 58502db9-60a0-4a99-866e-f1860e8cdddd
+  recordings: [d5a408c9-dfff-4303-bcc2-cbc7b4f05488]

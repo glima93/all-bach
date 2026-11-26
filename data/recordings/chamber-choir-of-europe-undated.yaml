@@ -1,0 +1,31 @@
+id: chamber-choir-of-europe-undated
+performers:
+- name: Chamber Choir of Europe
+  role: choir
+- name: Nicol Matt
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2003
+original_label: null
+works:
+- {bwv: '229', complete: false, movements: [II. Aria "Drum schließ ich mich in deine Hände"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b686da4-3e39-4cb0-9e46-e7bb25e4ec7f
+  title: Great Mass
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3550ab78-4fa4-465d-9cd1-fba1543a949d
+  recordings: [392658f9-a441-439c-8e25-fca5c6203864]

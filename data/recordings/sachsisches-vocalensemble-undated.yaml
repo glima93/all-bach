@@ -1,0 +1,30 @@
+id: sachsisches-vocalensemble-undated
+performers:
+- name: Sächsisches Vocalensemble
+  role: choir
+- name: Matthias Jung
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '225', complete: false, movements: [I. "Singet dem Herrn ein neues Lied"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/14731731-3a7a-4a46-b570-2c50dd5ef4e4
+  title: More Power and Ideas for Your Surround Music System!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bfd530b5-5e4c-4ccf-9234-bca67173731f
+  recordings: [9d2cbef1-8365-4529-86b3-95d6ceac6549]

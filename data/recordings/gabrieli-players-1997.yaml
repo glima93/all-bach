@@ -1,0 +1,40 @@
+id: gabrieli-players-1997
+performers:
+- name: Gabrieli Players
+  role: orchestra
+- name: Gabrieli Consort
+  role: choir
+- name: Paul McCreesh
+  role: conductor
+- name: Peter Harvey
+  role: bass
+- name: Ann Monoyios
+  role: soprano
+- name: Charles Daniels
+  role: tenor
+- name: Angus Davidson
+  role: alto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: Ev.-Luth. Kirche - St. Michaelis
+released: 1998
+original_label: null
+works:
+- {bwv: '233', complete: false, movements: [I. Coro "Kyrie eleison", II. Coro "Gloria in excelsis Deo", III. Aria
+      (Bass) "Domine Deus", IV. Aria (Soprano) "Qui tollis peccata mundi", VI. Coro "Cum sancto spiritu"]}
+- {bwv: '238', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/883f175f-6dbb-4cc4-8a25-55108b4a02d0
+  title: Epiphany Mass
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fa3d98c3-9390-4985-9a9b-c600e2d8f205
+  recordings: [2f620ffd-773a-4182-9c44-1f3f338bb8ab, d9a69746-03dc-4361-bf33-d2ee194552bd, de62285f-4882-4d5d-94e1-c88979016b9b]

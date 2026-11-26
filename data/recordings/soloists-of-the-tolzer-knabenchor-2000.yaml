@@ -1,0 +1,37 @@
+id: soloists-of-the-tolzer-knabenchor-2000
+performers:
+- name: Soloists of the Tölzer Knabenchor
+  role: voice
+- name: Quartetto Italiano di Viole da Gamba
+  role: viola da gamba
+- name: Paolo Biordi
+  role: viola da gamba
+- name: Cristiano Contadin
+  role: viola da gamba
+- name: Vittorio Ghielmi
+  role: viola da gamba
+- name: Rodney Prada
+  role: viola da gamba
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2000]
+  place: Tölzer Knabenchor Haus
+released: 2000
+original_label: null
+works:
+- {bwv: '227', complete: false, movements: ['I. Corale „Jesu, meine Freude“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/06d0c1f7-e7f2-4839-aab4-2a35b325a278
+  title: Preludi ai corali
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Sung with a viol consort on an album of chorale preludes for viols. Which four-part setting of 'Jesu, meine
+  Freude' this is (the motet's opening chorale or another harmonisation such as BWV 358) has not been checked.
+musicbrainz:
+  artist: 63941b65-2932-4fbb-a109-08c779fc9add
+  recordings: [8bd9fe87-086c-46c9-926e-9eebf5a01e7f]

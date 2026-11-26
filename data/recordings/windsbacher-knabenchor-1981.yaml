@@ -1,0 +1,29 @@
+id: windsbacher-knabenchor-1981
+performers:
+- name: Windsbacher Knabenchor
+  role: choir
+- name: Karl-Friedrich Beringer
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1981]
+  place: evangelisch-lutherische Stadtkirche "Unserer lieben Frau"
+released: 1981
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '227', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/502ed8ba-0069-49c9-84b8-0d4bb87d8608
+  title: 'Motetten: Singet dem Herrn ein neues Lied BWV 225 / Jesu, meine Freude BWV 227'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ef4899a7-9e12-401e-b549-553e69a03961
+  recordings: [3126db13-632d-4794-8545-58b371657798, 71873a78-e8f1-4b66-9151-638aa47b10fa]
