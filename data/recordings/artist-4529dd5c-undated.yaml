@@ -1,0 +1,29 @@
+id: artist-4529dd5c-undated
+performers:
+- name: Дзвіночок
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5bd7626f-43f9-48fc-9198-10f5cf5100a2
+  title: Всякое Дихание да Хвалит Господа!
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 4529dd5c-3506-4f43-8fbb-fec9a6f9473a
+  recordings: [29f82280-d526-4e78-ad0c-09d325232bfb, 9f463c40-ba80-4632-ae02-55caa51c5fee]

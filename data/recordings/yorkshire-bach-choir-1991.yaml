@@ -1,0 +1,34 @@
+id: yorkshire-bach-choir-1991
+performers:
+- name: Yorkshire Bach Choir
+  role: choir
+- name: Peter Seymour
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: Ss. Mary & Everilda
+released: 1997
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bc8d29fd-7193-4f79-be7c-0347dd279201
+  title: The Six Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 990486c6-dc24-4807-a98a-f0092472932e
+  recordings: [2c54810f-66e0-4a2c-bda6-b5e93b743d0b, 343a5a1d-d09b-4122-bd1b-b9fa40493041, 7005bb9c-e569-4f5f-9637-23b275a5122a,
+    a7c666e5-a554-4476-85d1-a6893eeb8733, a885fd27-362d-4ef5-90e5-9b5caccb61e2, feaa0e2e-3d6d-4af8-9533-38a820c3f73a]

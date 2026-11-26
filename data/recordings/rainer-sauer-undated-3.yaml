@@ -1,0 +1,28 @@
+id: rainer-sauer-undated-3
+performers:
+- name: Rainer Sauer
+  role: voices and instruments
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '227', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/14755de8-bb9f-41b2-a93b-a0ff6be61b7b
+  title: 'Re-Switched: Bach on the Phone: Celebrating the 50th Anniversary of Electro Music'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 0ef0a0c4-bbab-4128-b9d9-680e6ba53c6d
+  recordings: [434c8891-e213-4b6c-be56-8f348c6dece7]

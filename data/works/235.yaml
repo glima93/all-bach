@@ -1,0 +1,19 @@
+bwv: "235"
+title: "Missa in G minor"
+key: "G minor"
+collection: "Missae breves and mass movements"
+genre: mass
+scoring: "Soloists (ATB), four-part choir (SATB), 2 oboes, strings and continuo"
+composed: "Leipzig, c.1738–39"
+movements:
+  - "I. Coro \"Kyrie eleison\""
+  - "II. Coro \"Gloria in excelsis Deo\""
+  - "III. Aria (Bass) \"Gratias agimus tibi\""
+  - "IV. Aria (Alto) \"Domine Fili unigenite\""
+  - "V. Aria (Tenor) \"Qui tollis peccata mundi\""
+  - "VI. Coro \"Cum sancto spiritu\""
+notes: "A Kyrie–Gloria mass parodied almost entirely from cantatas BWV 102, 72 and 187."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Kyrie%E2%80%93Gloria_Masses,_BWV_233%E2%80%93236"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e301f65c-a36a-46f6-9d55-8e9261db2f80

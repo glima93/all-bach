@@ -1,0 +1,31 @@
+id: choir-of-king-s-college-1999
+performers:
+- name: Choir of King’s College, Cambridge
+  role: choir
+- name: Stephen Cleobury
+  role: conductor
+- name: Benjamin Bayl
+  role: organ
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999, 2000]
+  place: King’s College Chapel
+released: null
+original_label: null
+works:
+- {bwv: '226', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/74f93e6d-6dc5-40e1-9f4a-413528995e0b
+  title: Magnificat
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 67af7195-bcc0-413e-969b-b26f8a41d5ff
+  recordings: [03e0b39f-0ddc-4dd4-b495-59d4293990f1, d2a5dfba-aff8-49f1-9a48-74611351b9ae]

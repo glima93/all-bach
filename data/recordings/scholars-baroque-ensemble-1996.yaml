@@ -1,0 +1,32 @@
+id: scholars-baroque-ensemble-1996
+performers:
+- name: Scholars Baroque Ensemble
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Rosslyn Hill Unitarian Chapel
+released: 1997
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4271c9a6-a820-4ef7-b50a-aa6b8e4ae17e
+  title: Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e7772065-1751-477c-aa79-34578135dda1
+  recordings: [5bfaf1ec-f279-4aca-9dbf-3895524f869c, 6f3093b2-56c7-459a-9678-9d62e1ca888f, 788b982e-d277-477b-8144-26014807d262,
+    df30699f-f326-474b-a974-8ad6344d3bc3, f3d79fb2-d043-48f5-b644-b2a55533bb7d, f626fc0a-a495-4753-b2c7-2fff0930cb6e]

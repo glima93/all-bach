@@ -1,0 +1,35 @@
+id: the-purcell-quartet-1998
+performers:
+- name: The Purcell Quartet
+  role: ensemble
+- name: Susan Gritton
+  role: soprano
+- name: Robin Blaze
+  role: alto
+- name: Peter Harvey
+  role: bass
+- name: Mark Padmore
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: St Jude‐on‐the‐Hill
+released: 1999
+original_label: null
+works:
+- {bwv: '234', complete: true}
+- {bwv: '235', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e060ed4f-de86-45af-8e1e-9338974bb743
+  title: Lutheran Masses, Volume 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3761cf63-a7f0-4316-b5f0-aea26870b980
+  recordings: [8b43d8e3-27ed-4e0e-b1df-5e02a5be7fe6, ad8bec3c-8492-44bc-99f2-55a56b5171f7]

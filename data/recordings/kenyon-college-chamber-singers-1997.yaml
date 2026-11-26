@@ -1,0 +1,27 @@
+id: kenyon-college-chamber-singers-1997
+performers:
+- name: Kenyon College Chamber Singers
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '225', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/55c3fd8c-86cd-44d9-953e-4e9306edda48
+  title: As Torrents in Summer (Kenyon College Chamber Singers 1997)
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 1d625827-3539-4c27-ad0c-e4d2e87899c8
+  recordings: [8efb434e-a88f-4a24-96f8-93319f5fa970]

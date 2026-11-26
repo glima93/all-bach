@@ -1,0 +1,30 @@
+id: gachinger-kantorei-stuttgart-undated-3
+performers:
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '225', complete: false, movements: [III. "Lobet den Herrn in seinen Taten"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/18b22966-97c6-4ab7-be0b-8f503a65ff81
+  title: Halleluja
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [cea0ff63-9b46-4df9-b998-2c4dd832207d]

@@ -1,0 +1,28 @@
+id: philippe-herreweghe-undated
+performers:
+- name: Philippe Herreweghe
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '226', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6812261b-bb39-43ec-877e-d76005a038d6
+  title: Philippe Herreweghe Edition
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 411bdab3-0606-46ef-81c6-92390211fc6e
+  recordings: [1771796c-2da9-4c6b-b181-4b11a6dd33f1]

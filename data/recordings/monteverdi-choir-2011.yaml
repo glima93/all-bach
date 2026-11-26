@@ -1,0 +1,33 @@
+id: monteverdi-choir-2011
+performers:
+- name: Monteverdi Choir
+  role: choir
+- name: Sir John Eliot Gardiner
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: St John’s, Smith Square
+released: 2012
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7cf977f-67ba-4899-9c8d-27c6ad5d43dd
+  title: Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: a3016390-1ea7-41e2-afac-8d3d3d021fe0
+  recordings: [0e49a6a6-a069-4a31-bc8a-cbccacb650bf, 1e70b23e-9036-46ef-b67e-30dec46fd49b, 6ae1515a-a9b9-48d5-be18-e43992d1c1d8,
+    b2f77710-cbd8-4120-9209-63fbae017f12, d4acea7f-7fea-4e07-a2a6-8411bc00e73a, fb1bacb2-67f6-4376-aee2-f5904b313535]

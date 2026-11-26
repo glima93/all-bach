@@ -1,0 +1,30 @@
+id: winchester-cathedral-choir-undated
+performers:
+- name: Winchester Cathedral Choir
+  role: choir
+- name: Martin Neary
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1988
+original_label: null
+works:
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1e5ddb4a-1290-405b-b890-b39226559ab7
+  title: A Solemn Musick
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f3075ae1-c9d7-4213-a5c2-16d0763c069a
+  recordings: [13baed1c-5e53-40fa-8fb2-762f5de62f4e]

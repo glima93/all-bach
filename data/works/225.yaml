@@ -1,0 +1,16 @@
+bwv: "225"
+title: "Singet dem Herrn ein neues Lied"
+key: "B-flat major"
+collection: "Motets"
+genre: motet
+scoring: "Double choir (SATB/SATB) and continuo"
+composed: "Leipzig, 1726–27"
+movements:
+  - "I. \"Singet dem Herrn ein neues Lied\""
+  - "II. \"Wie sich ein Vater erbarmet\""
+  - "III. \"Lobet den Herrn in seinen Taten\""
+notes: "Sets Psalm 149, a chorale verse with a free aria, and Psalm 150 for two four-part choirs. One of the six motets generally accepted as Bach's."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Singet_dem_Herrn_ein_neues_Lied,_BWV_225"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/7d0e3e95-dc3b-3b22-bd9c-6425cfdde0bb

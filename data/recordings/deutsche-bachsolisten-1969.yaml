@@ -1,0 +1,41 @@
+id: deutsche-bachsolisten-1969
+performers:
+- name: Deutsche Bachsolisten
+  role: orchestra
+- name: Westphalian Singers, Herford
+  role: choir
+- name: Helmut Winschermann
+  role: conductor
+- name: William Reimer
+  role: bass
+- name: Theo Altmeyer
+  role: performer
+- name: Birgit Finnilä
+  role: performer
+- name: Westfälische Kantorei
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1969]
+  place: null
+released: 1970
+original_label: null
+works:
+- {bwv: '235', complete: true}
+- {bwv: '236', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6899396a-894b-4746-9b76-0d19975f6ccf
+  title: 4 Missae Breves
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3bf5a484-6a6a-40a2-bbd4-95129f53fbc3
+  recordings: [50052297-4e3c-49e6-81ce-dfaaceb03c89, 92b8b5bf-9060-4abd-9688-7764f6e577e6, 9e9904da-84dc-4509-a3c3-d7c949ed1c7f,
+    d903afea-d41b-4e10-a6cf-935758c48239]

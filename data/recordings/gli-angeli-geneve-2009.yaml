@@ -1,0 +1,28 @@
+id: gli-angeli-geneve-2009
+performers:
+- name: Gli Angeli Genève
+  role: orchestra
+- name: Stephan MacLeod
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: 'Maison de la radio: Studio Ernest Ansermet'
+released: 2009
+original_label: null
+works:
+- {bwv: '227', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5280d3ed-b37c-4c68-aaa1-cc5b6eeec6fc
+  title: 'German Baroque Cantatas, Vol. 2: Jesu, meine Freude'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b13e3667-91b4-47d6-b871-0986865aa4c1
+  recordings: [511d82f5-a033-4104-acaf-621940f07c73]

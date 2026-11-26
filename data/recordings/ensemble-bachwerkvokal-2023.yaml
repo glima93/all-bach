@@ -1,0 +1,28 @@
+id: ensemble-bachwerkvokal-2023
+performers:
+- name: Ensemble BachWerkVokal
+  role: voice
+- name: Gordon Safari
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2023]
+  place: Thomaskirche
+released: 2024
+original_label: null
+works:
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c44ef1c3-1495-4ca0-9f5d-1b1b114216aa
+  title: Jauchzet & Lobet
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cd4033a7-3397-4ade-bd4d-daa31cf4e459
+  recordings: [76922f74-0958-46a1-8a11-901166bdbcac]

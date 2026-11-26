@@ -1,0 +1,36 @@
+id: monteverdi-chor-hamburg-1966
+performers:
+- name: Monteverdi‐Chor Hamburg
+  role: choir
+- name: Leonhardt-Consort
+  role: orchestra
+- name: Jürgen Jürgens
+  role: conductor
+- name: Concerto Amsterdam
+  role: orchestra
+- name: Gustav Leonhardt
+  role: organ
+- name: Jaap Schröder
+  role: recorder
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1966, 1967]
+  place: Hervormde Kerk; Hervormde kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a46ded6-b9e5-4b1b-a741-74b3e8793dce
+  title: Cantatas BWV 106, 182, 152, 118, 18, 89, 90, 161, 59
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c1a3257-5be4-4b3b-b49d-0cce85e847b3
+  recordings: [03ce01ae-4cd7-4343-b81f-49fb70616936, b97ee1ef-1ad9-49e2-996f-24fc4f21c5a2]

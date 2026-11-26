@@ -1,0 +1,30 @@
+id: capella-fidicinia-leipzig-undated-2
+performers:
+- name: Capella Fidicinia Leipzig
+  role: ensemble
+- name: Capella Fidicinia
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '225', complete: false, movements: [III. "Lobet den Herrn in seinen Taten"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/26e384c1-be7f-4598-94b0-9d8f8636c7f9
+  title: Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0480f55d-c416-4537-91bd-fac323b5f78e
+  recordings: [c3211e47-112f-4e46-b863-b593bc5cab45]

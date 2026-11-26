@@ -1,0 +1,34 @@
+id: vocalconsort-berlin-2010
+performers:
+- name: Vocalconsort Berlin
+  role: choir
+- name: Marcus Creed
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: Teldex Studio
+released: 2011
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/13ccb5f6-a932-4d2e-8425-f8b1e98a597a
+  title: Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ee3ca535-f190-4b9e-82f3-70e1b73350ca
+  recordings: [5c2b4a72-e113-43c6-bf6f-72dfcad11d23, 61502fb8-2fd4-4d4b-9bfe-416df5cab059, 91a8f7fd-e1e8-449e-b5b0-6cd9497b92bd,
+    bee5db56-96a9-47e7-9b75-a52369ca224f, c1c34c3c-8739-4b5a-9df0-a7dbbd426570, f24604a2-b276-4d78-892f-47c564a22cdd]

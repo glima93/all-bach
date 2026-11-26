@@ -1,0 +1,37 @@
+id: ensemble-pygmalion-2009-2
+performers:
+- name: Ensemble Pygmalion
+  role: orchestra
+- name: Raphaël Pichon
+  role: conductor
+- name: Christian Immler
+  role: performer
+- name: Eugénie Warnier
+  role: performer
+- name: Terry Wey
+  role: performer
+- name: Emiliano Gonzalez‐Toro
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: Église Notre‐Dame du Liban
+released: 2010
+original_label: null
+works:
+- {bwv: '233', complete: true}
+- {bwv: '236', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/345ece57-d708-4c37-bbcb-f3a4af456f8d
+  title: Missae Breves, BWV 233 & 236
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a62aaaee-e9ec-403f-b7f1-274a5e46adb1
+  recordings: [6a650e9f-7ca1-47f3-be48-d73a790a05b9, bc670c31-29ac-4ba3-8f4e-32f8afb9c2a6]

@@ -1,0 +1,33 @@
+id: calmus-ensemble-undated
+performers:
+- name: Calmus Ensemble
+  role: choir
+- name: Lautten Compagney
+  role: orchestra
+- name: Wolfgang Katschner
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 2007
+original_label: null
+works:
+- {bwv: '225', complete: false, movements: [II. "Wie sich ein Vater erbarmet"]}
+- {bwv: '227', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/465a42a6-7664-4aa9-a3d4-dd45db885939
+  title: Bacharkaden
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b75a3d00-c21c-48d6-a73a-fdd1b3474e06
+  recordings: [418cb778-4b9f-4af5-b24e-28848f8f79b9, a0917c07-5352-4de3-8934-211676f0957c]

@@ -1,0 +1,35 @@
+id: rheinische-kantorei-undated
+performers:
+- name: Rheinische Kantorei
+  role: choir
+- name: Hermann Max
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Deutschlandfunk Kammermusiksaal
+released: 2013
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e476c93b-3606-47d6-bdaf-c10bdf70f29b
+  title: Motets, BWV 225-230 & Anh. 159
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 787247b0-1d78-4148-99a6-a0d9382faf6e
+  recordings: [7e8730a7-1725-4e00-bf23-8f083e0fe5d9, b752f24c-44b9-4ae6-9bd6-d863b438bb6d, cab11eaf-89d9-41a2-821f-56ba82e92b3b,
+    d1b6b2e4-ab9e-461c-9d30-e413c76ea8e8, e05e8105-800f-4b9d-9dae-689cfe245ced, f6641c4d-8eda-4abe-8113-fc807c534bfe]

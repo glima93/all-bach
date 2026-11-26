@@ -1,0 +1,62 @@
+id: de-nederlandse-bachvereniging-2014-4
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Jos van Veldhoven
+  role: conductor
+- name: Leo van Doeselaar
+  role: organ
+- name: Martijn de Graaf Bierbrauwer
+  role: bass
+- name: Robert Buckland
+  role: tenor
+- name: Victoria Cassano
+  role: alto
+- name: Barnabás Hegyi
+  role: alto
+- name: Saskia Kruysse
+  role: alto
+- name: Michiel Meijer
+  role: bass
+- name: Lionel Meunier
+  role: bass
+- name: Elena Pozhidaeva
+  role: alto
+- name: Diederik Rooker
+  role: tenor
+- name: Marjon Strijk
+  role: soprano
+- name: Ronald Threels
+  role: tenor
+- name: Endrik Üksvärav
+  role: tenor
+- name: Hilde Van Ruymbeke
+  role: soprano
+- name: Klaartje van Veldhoven
+  role: soprano
+- name: Orlanda Velez Isidro
+  role: soprano
+- name: Pierre-Guy Le Gall White
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Martinikerk
+released: null
+original_label: null
+works:
+- {bwv: '231', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/87fdea7c-6f3e-4c18-84a6-a98648b697c4
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [87fdea7c-6f3e-4c18-84a6-a98648b697c4]

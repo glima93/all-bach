@@ -1,0 +1,32 @@
+id: chamber-choir-of-europe-1999-2
+performers:
+- name: Chamber Choir of Europe
+  role: choir
+- name: Nicol Matt
+  role: conductor
+- name: Freiburger Barockorchester
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '226', complete: false, movements: [III. "Du heilige Brunst"]}
+- {bwv: '229', complete: false, movements: [II. Aria "Drum schließ ich mich in deine Hände"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c3b1d921-8855-4c7a-9154-ea5badb209fe
+  title: 'Bach Edition, Volume 17: Vocal Works / Vokalwerke Vol.II'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3550ab78-4fa4-465d-9cd1-fba1543a949d
+  recordings: [61978acd-7fbb-4975-a040-a947bafcdf7e, b79d399f-75d1-47ce-8b30-439b1ff23f7d]

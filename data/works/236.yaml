@@ -1,0 +1,19 @@
+bwv: "236"
+title: "Missa in G major"
+key: "G major"
+collection: "Missae breves and mass movements"
+genre: mass
+scoring: "Soloists (SATB), four-part choir (SATB), 2 oboes, strings and continuo"
+composed: "Leipzig, c.1738–39"
+movements:
+  - "I. Coro \"Kyrie eleison\""
+  - "II. Coro \"Gloria in excelsis Deo\""
+  - "III. Aria (Bass) \"Gratias agimus tibi\""
+  - "IV. Duet (Soprano, Alto) \"Domine Deus\""
+  - "V. Aria (Tenor) \"Quoniam tu solus sanctus\""
+  - "VI. Coro \"Cum sancto spiritu\""
+notes: "A Kyrie–Gloria mass parodied from cantatas BWV 179, 79, 138 and 17."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Kyrie%E2%80%93Gloria_Masses,_BWV_233%E2%80%93236"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/433265d8-ce20-4fc4-afd4-d3700dc5b9e2

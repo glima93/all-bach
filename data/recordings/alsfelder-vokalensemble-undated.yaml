@@ -1,0 +1,33 @@
+id: alsfelder-vokalensemble-undated
+performers:
+- name: Alsfelder Vokalensemble
+  role: choir
+- name: Wolfgang Helbich
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St.-Petri-Dom
+released: 1986
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '229', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ce69fdf3-174b-49a6-9e5c-cf538a1472b3
+  title: Motetten
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e0cbd3-e764-4c23-bf61-0f86e87a161b
+  recordings: [58f77b2b-edb9-4b00-bfb8-d651bcbf27a3, 8fb8bb5c-dd52-417e-a8fa-b6e9bc5128f8, bcb10f46-244a-48b4-a1b6-a86527ee1dc7,
+    ed4e5774-3047-413e-bb60-66597eda4a9a]

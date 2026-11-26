@@ -1,0 +1,28 @@
+id: children-s-chorus-of-washington-2004
+performers:
+- name: Children's Chorus of Washington
+  role: choir
+- name: Joan Gregoryk
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2004]
+  place: National Presbyterian Church
+released: 2004
+original_label: null
+works:
+- {bwv: '236', complete: false, movements: ['IV. Duet (Soprano, Alto) "Domine Deus"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/343f812b-8966-4250-8f20-54dbb6845699
+  title: 2003-2004 Season Treble Chorus
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: b89778d2-1bea-4224-96d8-c3d725ed93e2
+  recordings: [a27c2f30-31e8-4861-a63e-4c11792f98b7]

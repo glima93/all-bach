@@ -1,0 +1,50 @@
+id: his-majestys-consort-of-voices-2000
+performers:
+- name: His Majestys Consort of Voices
+  role: voice
+- name: His Majestys Sagbutts and Cornetts
+  role: ensemble
+- name: Michael Harrison
+  role: trumpet
+- name: Michael Laird
+  role: trumpet
+- name: Abigail Newman
+  role: sackbut
+- name: Steve Saunders
+  role: sackbut
+- name: David Staff
+  role: cornett
+- name: Jeremy West
+  role: cornett
+- name: Adam Woolf
+  role: sackbut
+- name: Julia Gooding
+  role: soprano
+- name: Robert Macdonald
+  role: bass
+- name: Angus Smith
+  role: tenor
+- name: Ashley Stafford
+  role: alto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: St Jude‐on‐the‐Hill
+released: 2002
+original_label: null
+works:
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/53769ed1-08e0-4620-848e-1a97ef955913
+  title: A Bach Album
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ba4ce4e1-1b93-4291-9739-7c2f51f10a64
+  recordings: [27e03ba2-ea91-4425-afd2-57790e617aa1]

@@ -1,0 +1,30 @@
+id: west-coast-mennonite-chamber-choir-undated
+performers:
+- name: West Coast Mennonite Chamber Choir
+  role: choir
+- name: Tony Funk
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/572c1411-6b4d-448d-8f58-d5c90d7d5d63
+  title: By Light Indwelled
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad4afcc8-551d-4ea7-b0c4-a1e3b330bbc7
+  recordings: [b6e63bf4-1884-439a-b6cb-c8e38fc65a5d]

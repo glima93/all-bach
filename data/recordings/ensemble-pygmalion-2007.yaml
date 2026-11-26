@@ -1,0 +1,29 @@
+id: ensemble-pygmalion-2007
+performers:
+- name: Ensemble Pygmalion
+  role: orchestra
+- name: Raphaël Pichon
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: Temple protestant du Saint-Esprit de Paris
+released: 2008
+original_label: null
+works:
+- {bwv: '234', complete: true}
+- {bwv: '235', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7e2fcd2f-af54-4944-91ea-3cd59afb64ca
+  title: Missae Breves, BWV 234 & 235
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a62aaaee-e9ec-403f-b7f1-274a5e46adb1
+  recordings: [2067e11a-93d5-437c-8a93-d92c8e90f50b, deec5205-3559-4303-a9ea-88e63da24f4b]

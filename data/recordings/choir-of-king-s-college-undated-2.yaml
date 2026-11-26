@@ -1,0 +1,39 @@
+id: choir-of-king-s-college-undated-2
+performers:
+- name: Choir of King’s College, Cambridge
+  role: choir
+- name: Sir David Willcocks
+  role: conductor
+- name: Simon Preston
+  role: performer
+- name: Stephen Cleobury
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1989
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f0e5fba9-924a-4073-86f9-61dd9275c40e
+  title: Motets
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 67af7195-bcc0-413e-969b-b26f8a41d5ff
+  recordings: [16122413-f021-4b7e-8541-87e13fe4d771, 2e0d1164-bb2b-4ece-b9cf-2cc3c5918f78, 4cc16dbe-d006-4d84-b591-d2b449b3f2f5,
+    8929d4e0-627f-4d7e-a727-31382210fe9d]

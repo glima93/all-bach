@@ -1,0 +1,32 @@
+id: academy-of-st-martin-in-the-fields-1970-2
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Sir David Willcocks
+  role: conductor
+- name: Choir of King’s College, Cambridge
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: King’s College Chapel
+released: 1992
+original_label: null
+works:
+- {bwv: '226', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/69fe3394-592c-460a-8e0b-ded799f70434
+  title: Cantata No. 147 / Three Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [3fe27677-2447-4877-914b-b233330c5d4a, 6b0bdffa-f231-4884-8a14-24541a2c27ac, 90d54629-47b9-40db-970f-002c2d3e6cbc]

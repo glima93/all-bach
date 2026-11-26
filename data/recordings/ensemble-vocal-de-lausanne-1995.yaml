@@ -1,0 +1,35 @@
+id: ensemble-vocal-de-lausanne-1995
+performers:
+- name: Ensemble Vocal de Lausanne
+  role: choir
+- name: Michel Corboz
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1995]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fc1f62c0-5218-444d-b266-31bb25929c99
+  title: 'Bach Edition, Volume 2: Vocal Works/Vokalwerke, Volume I'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3953cc0e-1b93-4f48-a256-00d85eb762bd
+  recordings: [1e8f2241-db24-44ee-85b4-79db693cdaf9, 4f18aef7-9bb4-4ef7-a282-c809c2985e34, 57c0de22-c832-4406-8812-6384a7b6642f,
+    5d3fe843-6433-4c07-86a5-ed4cc130cca1, 8445abde-6e53-4d84-ad29-1d62d04d09e6, 9939c1d7-8b4e-4462-920d-d286ecbd684a]

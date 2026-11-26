@@ -1,0 +1,14 @@
+bwv: "237"
+title: "Sanctus in C major"
+key: "C major"
+collection: "Missae breves and mass movements"
+genre: mass
+scoring: "Four-part choir (SATB), trumpets, timpani, 2 oboes, strings and continuo"
+composed: "Leipzig, probably 1723"
+movements:
+  - "Sanctus C-Dur"
+notes: "A short festive Sanctus for the Leipzig liturgy, probably from Bach's first year as Thomaskantor."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/dc1a8e07-9ec7-3740-89e2-7a1a38ba27ba

@@ -1,0 +1,33 @@
+id: norwegian-soloists-choir-2015
+performers:
+- name: Norwegian Soloists’ Choir
+  role: choir
+- name: Ensemble Allegria
+  role: ensemble
+- name: Grete Pedersen
+  role: conductor
+- name: Det Norske Solistkor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2015]
+  place: Ris kirke
+released: 2017
+original_label: null
+works:
+- {bwv: '227', complete: true}
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4c6955df-3891-453f-8fb5-1b7638fd21e6
+  title: The Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 09b5c35e-50fb-48b2-a304-ddfdd0560f59
+  recordings: [2d3c5cd6-c6e5-4f91-a7d4-276cb2ec986e, 663007e7-41a9-4c6f-82e1-2c2f1090f278]

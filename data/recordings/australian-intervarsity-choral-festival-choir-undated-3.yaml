@@ -1,0 +1,29 @@
+id: australian-intervarsity-choral-festival-choir-undated-3
+performers:
+- name: Australian Intervarsity Choral Festival Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/53547c8b-3faa-487b-9f07-0ab4d2a77200
+  title: 51st Australian Intervarsity Choral Festival Brisbane 2000 - Westminster Mass
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3d55dcac-19b6-41c8-b341-16d0a3e256e0
+  recordings: [4650a682-8e11-4ffd-a6a5-104c9072c653]

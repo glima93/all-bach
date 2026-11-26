@@ -1,0 +1,30 @@
+id: ormond-college-choir-undated
+performers:
+- name: Ormond College Choir
+  role: choir
+- name: Douglas Lawrence
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '225', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d5e57d07-5f4f-43c7-86a3-6d4e99dff8e9
+  title: Music From Heaven
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 5210238d-d64c-45d7-8cfa-4e29ec47c1ef
+  recordings: [909d44ce-32d5-445a-9a02-cbba059079da]

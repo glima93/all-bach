@@ -1,0 +1,35 @@
+id: helligandskirkens-kor-1996
+performers:
+- name: Helligåndskirkens Kor
+  role: choir
+- name: Torsdagskoret
+  role: choir
+- name: Collegium Danicum
+  role: ensemble
+- name: Sven-Ingvart Mikkelsen
+  role: organ
+- name: Hans Christian Hein
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7a44d56-8ad8-40d6-b1d5-0d5c6f9ee323
+  title: Christiansfeld 21/4 1996
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fe038061-b32f-4f9a-9971-4c2f4a03b0e3
+  recordings: [0fc638af-81da-4ffa-802b-9906281a9f13]

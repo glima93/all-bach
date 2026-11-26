@@ -1,0 +1,32 @@
+id: thomanerchor-leipzig-1997
+performers:
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Baroque Brass of London
+  role: orchestra
+- name: Capella Thomana
+  role: orchestra
+- name: Georg Christoph Biller
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: Paul-Gerhardt-Kirche
+released: 2012
+original_label: null
+works:
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1fbeed42-135c-4e26-b665-7538dc4c6ce2
+  title: Thomanerchor Leipzig singt J.S. Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 995a8150-123b-4f04-8c2c-904a262dd607
+  recordings: [c9524c6e-ce19-42f3-a4df-69982cd9c873]

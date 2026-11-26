@@ -1,0 +1,14 @@
+bwv: "228"
+title: "Fürchte dich nicht, ich bin bei dir"
+key: "A major"
+collection: "Motets"
+genre: motet
+scoring: "Double choir (SATB/SATB) and continuo"
+composed: "Probably Weimar, c.1715 (traditionally dated Leipzig, 1726)"
+movements:
+  - "Fürchte dich nicht, ich bin bei dir"
+notes: "Sets Isaiah 41:10 and 43:1 with a chorale by Paul Gerhardt. Its date is debated: older literature links it to a Leipzig funeral in 1726, recent scholarship places it in Weimar."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/F%C3%BCrchte_dich_nicht,_BWV_228"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/82b9ae17-0f61-3f35-a568-99c451c4e548

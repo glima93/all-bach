@@ -1,0 +1,38 @@
+id: eric-ericson-chamber-choir-1992
+performers:
+- name: Eric Ericson Chamber Choir
+  role: choir
+- name: Drottningholm Baroque Ensemble
+  role: ensemble
+- name: Eric Ericson
+  role: conductor
+- name: Eric Ericsons Kammarkör
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1992]
+  place: S:t Tomas’ kyrka
+released: 1992
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a0e3371-5f8f-47e4-bd83-2edbfd8fba83
+  title: Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 62151fdf-9296-4f1f-9977-2f939bb776db
+  recordings: [3920b01d-08a8-45d9-bf41-f46b395eec4d, 3f9e0476-4218-46ff-b4c3-e1b1c72954f0, a3116beb-5218-47f5-9088-b65324c932e2,
+    caaf338f-d624-45d3-b885-9bf5a5c88d16, e2b36bf0-9ec9-4e45-b5d7-7493f5500c02, f224675e-8877-4a27-9b76-f44bab14aaca]

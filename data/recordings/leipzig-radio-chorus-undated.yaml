@@ -1,0 +1,30 @@
+id: leipzig-radio-chorus-undated
+performers:
+- name: Leipzig Radio Chorus
+  role: choir
+- name: MDR Rundfunkchor Leipzig
+  role: voice
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '227', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f48751cf-57cd-4615-bf7c-ea63d999e1ef
+  title: Famous A-Cappella Pieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 25644cee-ce2d-4f88-ba4e-c1677a57592d
+  recordings: [e65b4b9f-1099-4f93-8743-d9124ceaa4a6]

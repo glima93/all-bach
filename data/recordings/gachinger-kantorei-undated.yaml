@@ -1,0 +1,44 @@
+id: gachinger-kantorei-undated
+performers:
+- name: Gächinger Kantorei
+  role: choir
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Ingeborg Russ
+  role: alto
+- name: Elisabeth Speiser
+  role: soprano
+- name: Jakob Stämpfli
+  role: bass
+- name: Helmuth Rilling
+  role: conductor
+- name: John van Kesteren
+  role: tenor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '233', complete: false, movements: [I. Coro "Kyrie eleison", II. Coro "Gloria in excelsis Deo", III. Aria
+      (Bass) "Domine Deus", IV. Aria (Soprano) "Qui tollis peccata mundi", V. Aria (Alto) "Quoniam tu solus sanctus"]}
+- {bwv: '236', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f2b5236-51ec-41db-a419-86f872d3e79d
+  title: Wedding Cantata / Peasant Cantata / Masses BWV 233, 234, 236
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [19cc0b7d-7acc-425a-82de-18ea9def5385, dde3e3e4-0f8c-444c-a522-665493b3962f]

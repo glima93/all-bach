@@ -1,0 +1,28 @@
+id: new-london-consort-1995-2
+performers:
+- name: New London Consort
+  role: orchestra
+- name: Philip Pickett
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: Walthamstow Assembly Hall
+released: null
+original_label: null
+works:
+- {bwv: '238', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a3fec757-289d-4d5b-98f3-b9d845bba495
+  title: A Bach Christmas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 63441cee-1a27-46f1-82ae-408f739ee520
+  recordings: [44588e62-d5dd-42c0-95c4-1d9a3b9987be]

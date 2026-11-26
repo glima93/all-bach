@@ -1,0 +1,33 @@
+id: voces-undated
+performers:
+- name: Voces8
+  role: voice
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: St. Silas the Martyr
+released: 2010
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/efae3b46-ac08-4382-a21f-5512f99e76b8
+  title: Motets
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2a264f51-0a83-4972-858d-a4825ff02ad9
+  recordings: [47b7bcbb-7881-4543-a762-192619b2de35, 5f074548-9e1b-4f2e-b737-e90ab15bbf49, 6d54fbf6-7bb5-46d8-875b-7760346b53f7,
+    70ed1a09-5bc0-4646-8862-eab48e3be864, b90c8916-c38c-4285-afac-4af08f667fb7, f01a80e9-0dbe-4806-8cf2-7f6180b1d934]

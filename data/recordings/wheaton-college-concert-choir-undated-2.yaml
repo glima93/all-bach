@@ -1,0 +1,29 @@
+id: wheaton-college-concert-choir-undated-2
+performers:
+- name: Wheaton College Concert Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '228', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5479009f-d70d-4196-a319-17ac1c887cf1
+  title: Alleluia! Highlights from 2001-2003
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9f4085e2-48e7-4e0a-a463-761fc81aa494
+  recordings: [3e0cf996-58aa-4da7-91b0-7592e168d4ec]

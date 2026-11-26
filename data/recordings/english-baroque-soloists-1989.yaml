@@ -1,0 +1,30 @@
+id: english-baroque-soloists-1989
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1989]
+  place: St John’s, Smith Square
+released: 1990
+original_label: null
+works:
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fa0b5e57-bdff-49b8-823a-71e6eef7defa
+  title: 'Cantatas: BWV 106, 118/231, 198'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [8c0ad869-5881-4f0a-a624-9ffef8e255cb]

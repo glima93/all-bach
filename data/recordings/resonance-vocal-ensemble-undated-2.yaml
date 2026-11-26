@@ -1,0 +1,27 @@
+id: resonance-vocal-ensemble-undated-2
+performers:
+- name: Resonance Vocal Ensemble
+  role: voice
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Mission San Luis Obispo de Tolosa
+released: 2024
+original_label: null
+works:
+- {bwv: '225', complete: false, movements: [III. "Lobet den Herrn in seinen Taten"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1ab736eb-9bbc-454a-959f-221635ebc9e8
+  title: Life and Breath
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49eabd52-cf9f-4a9f-a72e-3500a7af6cba
+  recordings: [9c58f601-77da-4ac8-8875-32101a312b41]

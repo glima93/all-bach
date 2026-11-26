@@ -1,0 +1,28 @@
+id: i-fagiolini-undated
+performers:
+- name: I Fagiolini
+  role: voice
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '225', complete: false, movements: [III. "Lobet den Herrn in seinen Taten"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e8d3ce40-4961-459b-a057-bce5660ec2cc
+  title: Insalata
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: abbc325e-5464-47e5-bf76-217a3188e485
+  recordings: [79eca4fa-6e54-4cf5-9804-d3535ec7bc96]

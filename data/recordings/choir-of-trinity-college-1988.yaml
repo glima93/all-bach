@@ -1,0 +1,40 @@
+id: choir-of-trinity-college-1988
+performers:
+- name: Choir of Trinity College
+  role: choir
+- name: Richard Marlow
+  role: conductor
+- name: Choir of Trinity College, Cambridge
+  role: choir
+- name: Graham Jackson
+  role: organ
+- name: Richard Pearce
+  role: organ
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1988]
+  place: Trinity College Chapel
+released: 1990
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6958c9aa-c1f7-46e7-9af5-eaf33a6917dd
+  title: 'Bach: Motets'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a6137ec6-4c01-4260-9abf-5f339e789124
+  recordings: [1b677c45-0787-4bb1-b8ac-e5cd3c7d2cd7, 2fa8c179-ddfe-427b-b729-753254b7281d, 71ee2df4-fcbc-45a4-a52a-a4bdf80d183e,
+    8098ab33-406b-4449-b006-d0c73d7ef565, ae3c1825-9921-409c-b2c1-f78947ea356c, be828d88-34aa-4dd6-b49b-5117eb912f74]

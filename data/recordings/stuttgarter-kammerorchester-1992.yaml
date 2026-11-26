@@ -1,0 +1,43 @@
+id: stuttgarter-kammerorchester-1992
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: Ingeborg Danz
+  role: performer
+- name: Christoph Prégardien
+  role: performer
+- name: Thomas Quasthoff
+  role: performer
+- name: Michel Brodard
+  role: bass
+- name: Ruth Ziesak
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1992]
+  place: Stadthalle Leonberg
+released: 1993
+original_label: null
+works:
+- {bwv: '235', complete: true}
+- {bwv: '236', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b07f8bab-1fcb-47ab-be96-53fbe38bb4b9
+  title: Messe g-Moll BWV 235 / Messe G-Dur BWV 236
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [56ebf1e5-4dcc-4cbe-852e-ce346592bd9c, 93afaa95-8f8b-4a16-b056-c701ccd7a56e, fdaeb546-2259-4918-99fc-f25c58f8d094]

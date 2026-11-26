@@ -1,0 +1,30 @@
+id: holland-boys-choir-undated
+performers:
+- name: Holland Boys Choir
+  role: choir
+- name: Pieter Jan Leusink
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '227', complete: false, movements: ['I. Corale „Jesu, meine Freude“']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d96d9a8a-aac8-4f24-8d71-d76b310228df
+  title: Top 100 Favourite Classical Melodies
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df08d3ad-cace-4694-9d27-8799d86a7b05
+  recordings: [f6be9e8b-73c0-4efb-825c-7a5e83922dc8]

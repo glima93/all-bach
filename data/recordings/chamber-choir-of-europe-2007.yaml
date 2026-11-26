@@ -1,0 +1,36 @@
+id: chamber-choir-of-europe-2007
+performers:
+- name: Chamber Choir of Europe
+  role: choir
+- name: Nicol Matt
+  role: conductor
+- name: European Chamber Soloists
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: Festhalle Murrhardt
+released: 2010
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d86f5d1-6d7d-4666-bddb-c4ce5eb4ab8f
+  title: Motets, BWV 225-230
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3550ab78-4fa4-465d-9cd1-fba1543a949d
+  recordings: [181e51e8-c20c-420b-be6e-0a7e6d7e0971, 4628895e-52f9-4f5a-a916-b88b2885378c, 5a127473-18d5-469f-aa29-0debb7fc34d3,
+    5ba7a5ad-7269-429a-a75f-3d77e1e31f75, 71febfe0-e3d7-477b-9ab1-e4808f140ca9, 7490d709-4a76-4d6f-adaf-a40a1818b1c7]

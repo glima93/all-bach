@@ -1,0 +1,29 @@
+id: bach-collegium-japan-2014-3
+performers:
+- name: Bach Collegium Japan
+  role: orchestra
+- name: Masaaki Suzuki
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014, 2015]
+  place: Saitama Arts Theatre Concert Hall
+released: 2018
+original_label: null
+works:
+- {bwv: '240', complete: true}
+- {bwv: '241', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [594b2de2-7561-46ec-9626-058c9e3feaf8, 7e0a6071-9a1f-443b-9a95-7ab6290d3070]

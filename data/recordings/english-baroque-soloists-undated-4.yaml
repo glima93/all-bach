@@ -1,0 +1,38 @@
+id: english-baroque-soloists-undated-4
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Monteverdi Choir
+  role: choir
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Gianluca Buratto
+  role: bass
+- name: Hannah Morrison
+  role: performer
+- name: Reginald Mobley
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '233', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/30d61443-adda-4d2a-86b6-4bd63fcaa789
+  title: Magnificat in E-flat / Missa in F
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [acb9e4f2-ec5c-4276-bd7e-f0bfe0e3bec3, cfa13e88-c77f-4f77-aed1-48931e8dd674]

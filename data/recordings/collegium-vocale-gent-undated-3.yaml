@@ -1,0 +1,30 @@
+id: collegium-vocale-gent-undated-3
+performers:
+- name: Collegium Vocale Gent
+  role: voice
+- name: Philippe Herreweghe
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Mindersbroederskerk
+released: 2010
+original_label: null
+works:
+- {bwv: '118', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c3257bd2-c317-4e71-ac0a-eb23fc22722b
+  title: Mass in B minor / Motets
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [bd5a46de-6909-476b-a1b9-eff8adf0506a]

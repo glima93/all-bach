@@ -1,0 +1,33 @@
+id: thomanerchor-leipzig-undated-3
+performers:
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Capella Thomana
+  role: orchestra
+- name: Georg Christoph Biller
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '225', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef3f5b87-2bbf-489e-8b7d-5b07d54f5465
+  title: Gloria - Eine Auswahl der schönsten Aufnahmen
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 995a8150-123b-4f04-8c2c-904a262dd607
+  recordings: [610b93ff-9371-4c6d-a588-0156964709f8]

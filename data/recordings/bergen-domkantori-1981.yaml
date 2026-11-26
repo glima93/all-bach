@@ -1,0 +1,36 @@
+id: bergen-domkantori-1981
+performers:
+- name: Bergen Domkantori
+  role: choir
+- name: Turid Kniejski
+  role: harpsichord
+- name: Alfred Sundal
+  role: cello
+- name: Matthias Weber
+  role: double bass
+- name: Magnar Mangersnes
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1981]
+  place: Bergen domkirke
+released: 1981
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/97f34eeb-b1b6-4d14-8ea6-be5fc7256825
+  title: Bergen Domkantori synger tre motetter av Johan Sebastian Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 2b34c101-798b-4354-8731-46d7178a8688
+  recordings: [28f1f8f6-cef2-4136-ad09-4704f931fa24, 60c3c19b-d680-4924-b30d-2af0cb5e1346, b3b54d3a-2803-4bab-8764-3afbee6913d0]

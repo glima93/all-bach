@@ -1,0 +1,34 @@
+id: stuttgarter-bachorchester-undated
+performers:
+- name: Stuttgarter Bachorchester
+  role: orchestra
+- name: Gerhard Wilhelm
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5dc520d1-0822-442b-b41b-30c06285ffc4
+  title: 'Quadromania: Gloria'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 61bd33bb-a480-4426-8c52-de78f11263b1
+  recordings: [10d1ed1f-b9b8-4cf2-9322-d8e2156a057b, 5fb6688f-3d84-433f-a39a-ce520499fd6f, 7e864385-698a-4093-bb8c-05e107adc2c8,
+    beb9f837-56d6-4051-ad8f-ad6bec1b8b13]

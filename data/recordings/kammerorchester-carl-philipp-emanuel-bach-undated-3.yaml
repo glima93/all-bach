@@ -1,0 +1,44 @@
+id: kammerorchester-carl-philipp-emanuel-bach-undated-3
+performers:
+- name: Kammerorchester Carl Philipp Emanuel Bach
+  role: orchestra
+- name: RIAS Kammerchor
+  role: choir
+- name: Peter Schreier
+  role: conductor
+- name: Barbara Bonney
+  role: soprano
+- name: Birgit Remmert
+  role: mezzo-soprano
+- name: Rainer Trost
+  role: tenor
+- name: Olaf Bär
+  role: baritone
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Jesus‐Christus‐Kirche
+released: 1994
+original_label: null
+works:
+- {bwv: '233', complete: true}
+- {bwv: '234', complete: true}
+- {bwv: '235', complete: true}
+- {bwv: '236', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3666dc6c-93ad-4a90-ad39-a0628eb87c28
+  title: Magnificat in D major / Mass in A major / Mass in F major / Mass in G minor / Mass in G major
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49abd8a6-b063-477e-a27c-661fb0a5feb3
+  recordings: [044ab1fb-5546-4699-b7e6-1fa0103ac46b, 3af86166-5473-406b-a5f0-6d75c98d7194, 3ddb93c1-ca4e-4f18-8093-60b792aa9d12,
+    5ac28cca-c49b-4eb9-8d68-1d7516785f33, 8650636f-2b2c-43ff-b2e0-f6a48c3ec60c, a3e2dcd9-ddd4-42cf-b367-9367f6600967,
+    c3a11a9a-6ca9-48e4-942a-bfeb7cb20e9d, edbcded1-24cc-4b4d-bec6-43dd683a46e7]

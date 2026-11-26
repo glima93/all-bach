@@ -1,0 +1,37 @@
+id: rias-kammerchor-1995
+performers:
+- name: RIAS Kammerchor
+  role: choir
+- name: Akademie für Alte Musik Berlin
+  role: orchestra
+- name: René Jacobs
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/db599635-2c96-48c0-9ce5-b363668464b0
+  title: Motets
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f461b350-a814-4341-b427-c8fd59430d1f
+  recordings: [2b135398-1d3a-4676-beca-1157031475c6, 3629e5a7-a909-42fa-ba18-e0f1cc7a3342, 71890929-bb57-444d-9244-8968a9174fd5,
+    7aa819b2-dd2b-4b1a-b1e5-47696f68c71e, 7bc2fb9c-51bb-41ae-bbc6-22bf83f8b886, d45d3def-9268-4db6-b4a1-7883f8c4fd9c]

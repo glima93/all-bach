@@ -1,0 +1,37 @@
+id: the-sixteen-1989
+performers:
+- name: The Sixteen
+  role: choir
+- name: Harry Christophers
+  role: conductor
+- name: Paul Nicholson
+  role: organ
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989]
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8ea8fdc7-02a8-40ae-861b-57890862b216
+  title: The Six Motets
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c3881c54-a782-478b-a242-80cb3fa287b1
+  recordings: [0744fbe4-1b44-48e5-80ee-8d1dca6f9c14, 4891c6ae-861f-424b-9465-9a23fb84929f, 7e67f9b4-c57d-49f1-9c8b-992f9810436a,
+    b54c969a-728d-4ab1-9930-e0ac49b9097e, c25105b7-ba19-43ca-9140-d8f53783da44, cd568ff9-e73d-44ce-a261-6adb5034ddf3]

@@ -1,0 +1,38 @@
+id: sette-voci-2009
+performers:
+- name: Sette Voci
+  role: choir
+- name: Peter Kooij
+  role: conductor
+- name: Masato Suzuki
+  role: organ
+- name: Armin Bereuter
+  role: violone
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: St. Andreas Kirche
+released: 2010
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e0ff5235-d6b8-49ca-8902-dacb826269ff
+  title: Jesu, meine Freude - Motets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 419dbf96-3780-4049-98f6-460a8810a525
+  recordings: [5449515a-60d7-4ec3-a7ac-eab4e92e936e, 5877410d-009b-4c8d-983c-e9fc0289e718, 82c56e36-ae23-4c6b-8be4-faf8e1b755c7,
+    980265f2-f803-4356-acb6-fc9adc3614f0, b0fc7d42-4a95-44c2-b5b5-a30a83c9680f, d29a7a01-c97c-4516-bd75-d818ff5518fc]

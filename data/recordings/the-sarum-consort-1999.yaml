@@ -1,0 +1,36 @@
+id: the-sarum-consort-1999
+performers:
+- name: The Sarum Consort
+  role: voice
+- name: Robert Quinney
+  role: organ
+- name: Andrew Mackay
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1999]
+  place: Wardour Chapel
+released: 2001
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5b9d915a-7583-43f0-93c8-cfecd8fe1a34
+  title: The 6 Motets, BWV 225-230 / Jesu, Meine Freude (fantasia)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cbbf72ac-18fd-42fb-a85b-5190c475ce57
+  recordings: [0ef09b39-f594-433e-93bf-959048ef084d, 14ffee30-1890-4c96-9f25-fd9a7bc13386, 232169d3-371a-4381-a146-ee2dac4dafcc,
+    4dfa33bd-3437-4449-8e81-8e7bcec8383e, 79d57da8-0fe8-4377-bff9-0be9652c5691, dfcf395e-9838-45e5-a1fe-b7a75cc1c9fb]

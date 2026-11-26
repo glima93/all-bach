@@ -1,0 +1,34 @@
+id: nederlands-kamerkoor-1986
+performers:
+- name: Nederlands Kamerkoor
+  role: voice
+- name: Ton Koopman
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1986, 1987]
+  place: Philharmonie Haarlem
+released: 1992
+original_label: null
+works:
+- {bwv: '225', complete: true}
+- {bwv: '226', complete: true}
+- {bwv: '227', complete: true}
+- {bwv: '228', complete: true}
+- {bwv: '229', complete: true}
+- {bwv: '230', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aa845163-538c-4be7-84ff-ada9338d17c1
+  title: Motets BWV 225-230
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 076a10cd-a7ba-4d79-9ee5-a52ac1e4af57
+  recordings: [080f023d-8466-4722-b098-3cc46d481088, 466bea89-903d-4beb-9222-6f6643086fe4, 4c4b2a62-5b16-4caf-8393-cd94cab75f67,
+    79537f5d-ef21-438a-825f-d8c63d4ce6d5, 816d729d-efd5-4dcc-8cde-329b192f24b3, b55f6d9f-7e4b-452e-8e70-c0b944780080]

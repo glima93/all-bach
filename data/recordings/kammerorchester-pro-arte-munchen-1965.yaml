@@ -1,0 +1,41 @@
+id: kammerorchester-pro-arte-munchen-1965
+performers:
+- name: Kammerorchester Pro Arte München
+  role: orchestra
+- name: Chœur Pro Arte de Lausanne
+  role: choir
+- name: Kurt Redel
+  role: conductor
+- name: Hermann Prey
+  role: bass
+- name: Agnes Giebel
+  role: performer
+- name: Gisela Litz
+  role: performer
+- name: Eduard Melkus
+  role: violin
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1965]
+  place: null
+released: 1970
+original_label: null
+works:
+- {bwv: '233', complete: true}
+- {bwv: '234', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6899396a-894b-4746-9b76-0d19975f6ccf
+  title: 4 Missae Breves
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ed05f1ef-562f-49d3-9aac-bfc864acf1a2
+  recordings: [9d75d35d-1814-4a19-bb17-da5eff6f9dcf, cca29b17-22cd-4580-ae5d-5d1462c233d4, dc2a4376-491c-45e1-8292-985aea0311bb,
+    f75daa45-12d7-479e-9463-b54fc152923b]
