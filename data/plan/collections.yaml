@@ -96,7 +96,7 @@ collections:
 # The Church Cantatas are one volume on the shelf but too big for one run: four parts with the same title, each
 # collected and imported by its own run (decided 27 Nov 2026). The parts share the collector's MusicBrainz cache
 # (`cache_from`), which already holds what the 27 Nov collection of the whole set fetched.
-- {id: church-cantatas-1, title: "Church Cantatas", chapter: Cantatas, bwv: ["1-10", "12-50"], mode: vocal, cache_from: church-cantatas, wave: 2, run: 27, status: queued,
+- {id: church-cantatas-1, title: "Church Cantatas", chapter: Cantatas, bwv: ["1-10", "12-50"], mode: vocal, cache_from: church-cantatas, wave: 2, run: 27, status: collected,
    note: "Complete cycles (Rilling, Leusink, Koopman, Suzuki, Gardiner, Harnoncourt/Leonhardt) dominate; BWV 11 is the Ascension Oratorio (oratorios)"}
 - {id: church-cantatas-2, title: "Church Cantatas", chapter: Cantatas, bwv: ["51-100"], mode: vocal, cache_from: church-cantatas, wave: 2, run: 28, status: todo}
 - {id: church-cantatas-3, title: "Church Cantatas", chapter: Cantatas, bwv: ["101-117", "119-150"], mode: vocal, cache_from: church-cantatas, wave: 2, run: 29, status: todo,
