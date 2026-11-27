@@ -52,12 +52,25 @@ def chapter_of() -> dict[int, str]:
     return out
 
 
-def to_come() -> list[dict]:
-    """Planned collections not on the shelf yet, for the dust outlines and the cabinet."""
+def to_come(on_shelf: set[str] = frozenset()) -> list[dict]:
+    """Planned collections not on the shelf yet, for the dust outlines and the cabinet. `on_shelf` holds the
+    titles of the volumes already built, so a collection queued again (Secular Cantatas, run 26: BWV 210 and
+    216 collected again) is not also shown as an outline."""
     plan = yaml.safe_load((ROOT / "data/plan/collections.yaml").read_text(encoding="utf-8"))["collections"]
-    return [{"title": c["title"], "chapter": c["chapter"], "bwv": c["bwv"],
-             "run": c["run"][0] if isinstance(c["run"], list) else c["run"]}
-            for c in plan if c["status"] not in ("done", "imported")]
+    # A collection split into parts with one title (the Church Cantatas) is one volume: one outline until any
+    # part is on the shelf, with the parts' numbers and its first run.
+    out: dict[str, dict] = {}
+    shelved = {c["title"] for c in plan if c["status"] in ("done", "imported")} | set(on_shelf)
+    for c in plan:
+        if c["status"] in ("done", "imported") or c["title"] in shelved:
+            continue
+        run = c["run"][0] if isinstance(c["run"], list) else c["run"]
+        if c["title"] in out:
+            out[c["title"]]["bwv"] = out[c["title"]]["bwv"] + c["bwv"]
+            out[c["title"]]["run"] = min(out[c["title"]]["run"], run)
+        else:
+            out[c["title"]] = {"title": c["title"], "chapter": c["chapter"], "bwv": list(c["bwv"]), "run": run}
+    return list(out.values())
 
 
 def first_year(r: dict):
@@ -120,7 +133,7 @@ def main() -> int:
         "cols": cols,
         "chapters": [ch for ch in CHAPTERS if any(c["chapter"] == ch for c in cols)],
         "all_chapters": CHAPTERS,
-        "to_come": to_come(),
+        "to_come": to_come({c["name"] for c in cols}),
         "stats": stats,
         "total": len(recordings),
         "repo_url": REPO_URL,

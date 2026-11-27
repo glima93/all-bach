@@ -17,6 +17,8 @@ Copenhagen time, for every collection marked `queued`. It pushes a `collect/<id>
 3. `git fetch origin 'refs/heads/collect/*:refs/remotes/origin/collect/*'`.
    - **To import:** each `collect/<id>` branch not yet merged into `main`.
    - **To queue next:** the collections in the lowest run number whose collections are all `todo`.
+   - A collection too big for one run is split into parts with the same title (`church-cantatas-1` … `-4`).
+     Each part is collected and imported on its own, like any collection; the shelf shows them as one volume.
 4. If nothing was collected and nothing is queued, the workflow is stuck. Report the latest `collect.yml`
    run (`gh run list -w collect.yml -L 3`) and stop.
 

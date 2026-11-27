@@ -480,6 +480,10 @@ def dumps(x) -> str:
 
 def collect(col: dict, args) -> bool:
     c = Collector(col["id"], Path(args.state), args.deadline, not args.no_whole)
+    # A part of a collection split over several runs (church-cantatas-1 …) starts from the cache of the whole
+    # (`cache_from`): searches, works and recordings are keyed by MusicBrainz id or BWV number, not by collection.
+    if not c.s and col.get("cache_from") and (src := Path(args.state) / f"state-{col['cache_from']}.json").exists():
+        c.s = {k: v for k, v in json.loads(src.read_text()).items() if not k.startswith("tree-")}
     try:
         # The cached tree is keyed by the parent work, so setting mb_parent later takes effect.
         key = f"tree-v{COLLECTOR_VERSION}" + (":" + col["mb_parent"] if col.get("mb_parent") else "")

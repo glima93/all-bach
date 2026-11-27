@@ -345,6 +345,9 @@ JOIN_BY_RELEASE = {
   "missae-breves": "choruses and arias have different line-ups, and a set of masses is split into one row per work",
   # Run 26: a disc of secular cantatas (Coffee and Peasant on one release) is split into one row per cantata.
   "secular-cantatas": "choruses, recitatives and arias have different line-ups, and a disc of cantatas is split into one row per work",
+  # The Church Cantatas, in four parts (runs 27-30): like the secular cantatas.
+  **{f"church-cantatas-{i}": "choruses, chorales, recitatives and arias have different line-ups, and a disc of cantatas is split into one row per work"
+     for i in (1, 2, 3, 4)},
 }
 # Chamber sets the collector splits by line-up (the solo partita, the sonatas with keyboard, the continuo sonatas
 # with a cellist or gambist added): rows on the same release, with the same recording years and the same solo
