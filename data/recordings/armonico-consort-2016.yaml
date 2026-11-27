@@ -16,6 +16,7 @@ released: 2017
 original_label: null
 works:
 - {bwv: '202', complete: true}
+- {bwv: '210', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -28,4 +29,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 7b26d366-b57d-434a-a32d-085aa579fc2f
-  recordings: [21cf6a73-5976-4bee-8dc9-58d5a06e8857]
+  recordings: [21cf6a73-5976-4bee-8dc9-58d5a06e8857, d8b8aeb3-42ba-4039-a818-25743fea7f62]

@@ -11,11 +11,12 @@ performance_practice: unknown
 arrangement: false
 recorded:
   years: [1994]
-  place: null
+  place: Église Saint-Isidore
 released: 1998
 original_label: null
 works:
 - {bwv: '202', complete: false, movements: [VII. Aria "Sich üben im Lieben"]}
+- {bwv: '210', complete: false, movements: ['X. Aria (Sopran) "Seid beglückt, edle beide"']}
 links:
 - platform: musicbrainz
   kind: release
@@ -23,9 +24,8 @@ links:
   title: Encore!
 status: draft
 help_wanted:
-- Recording place
 - Streaming links (Spotify, Apple Music, YouTube …)
 notes: null
 musicbrainz:
   artist: a118464e-b220-41ff-959d-08da62fa39b7
-  recordings: [bb062a60-da44-4380-b4b3-80c22851eaeb]
+  recordings: [5a5dfbc9-39f4-451a-8a51-7d5a0b54a6f3, bb062a60-da44-4380-b4b3-80c22851eaeb]
