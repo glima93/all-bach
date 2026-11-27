@@ -1,0 +1,30 @@
+id: academy-of-ancient-music-1996
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Emma Kirkby
+  role: soprano
+- name: Christopher Hogwood
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Henry Wood Hall
+released: 1999
+original_label: null
+works:
+- {bwv: '202', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/76dedcc6-f502-4e81-a8e7-a11170b05781
+  title: Wedding Cantatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [c4f2c785-caff-4716-82ad-43b03fb61608]

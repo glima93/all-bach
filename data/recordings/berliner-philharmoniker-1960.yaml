@@ -1,0 +1,37 @@
+id: berliner-philharmoniker-1960
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Chor der St. Hedwigs‐Kathedrale Berlin
+  role: choir
+- name: Karl Forster
+  role: conductor
+- name: Dietrich Fischer‐Dieskau
+  role: bass
+- name: Lisa Otto
+  role: soprano
+- name: Josef Traxel
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: Grunewaldkirche
+released: 1994
+original_label: null
+works:
+- {bwv: '211', complete: true}
+- {bwv: '212', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/47fca19d-53db-4ccd-8d3d-869e12ebebd2
+  title: Cantatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [24b1719d-1e94-4141-8ac6-7fd5a38d464b, 8187f4be-7742-4cb3-9fee-56c8b8239997, aea038cb-ef6e-41f0-84b9-11ca12d5d05e]

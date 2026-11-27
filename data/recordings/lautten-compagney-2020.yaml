@@ -1,0 +1,48 @@
+id: lautten-compagney-2020
+performers:
+- name: Lautten Compagney
+  role: ensemble
+- name: Anna Prohaska
+  role: soprano
+- name: Wolfgang Katschner
+  role: conductor
+- name: Ulrike Becker
+  role: cello
+- name: Elisabeth Grümmer
+  role: oboe
+- name: Daniela Gubatz
+  role: violin
+- name: Anne von Hoff
+  role: violin
+- name: Caroline Kersten
+  role: viola
+- name: Ulrike Paetz
+  role: viola
+- name: Andreas Pfaff
+  role: violin
+- name: Annette Rheinfurth
+  role: double bass
+- name: Birgit Schnurpfeil
+  role: violin
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Christuskirche
+released: 2020
+original_label: null
+works:
+- {bwv: '202', complete: false, movements: ['I. Aria "Weichet nur, betrübte Schatten"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f45430c-9c15-41c4-85af-f57315f9de0b
+  title: Redemption
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 61e6953a-1b1c-40fe-8b72-fdf86ce718ec
+  recordings: [067ec64a-fdba-49a4-8b2a-2b30b3ee2250]

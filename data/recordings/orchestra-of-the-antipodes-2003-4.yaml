@@ -1,0 +1,33 @@
+id: orchestra-of-the-antipodes-2003-4
+performers:
+- name: Orchestra of the Antipodes
+  role: orchestra
+- name: Sara Macliver
+  role: voice
+- name: Antony Walker
+  role: conductor
+- name: Antony Chesterman
+  role: oboe
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: Eugene Goossens Hall, ABC Centre
+released: 2003
+original_label: null
+works:
+- {bwv: '202', complete: false, movements: ['I. Aria "Weichet nur, betrübte Schatten"']}
+- {bwv: '208', complete: false, movements: [IX. Aria (Sopran II) “Schafe können sicher weiden”]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6f0c81d9-3006-41d7-b3bc-3bcb6fcd01b0
+  title: Arias & Duets
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bb991732-f9ac-4396-bc66-e13793250056
+  recordings: [e74ee1f8-1832-4c53-9c73-c8be0ea84800, f82ff815-f688-4e6c-b4cc-d949cc7093bc]

@@ -1,0 +1,30 @@
+id: amsterdam-baroque-orchestra-1995
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Ton Koopman
+  role: conductor
+- name: Klaus Mertens
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: Waalse Kerk
+released: 1996
+original_label: null
+works:
+- {bwv: '203', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1397ebf5-e02f-45e9-84a4-69f8e75ef812
+  title: Complete Cantatas, Volume 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [c4a1581e-1075-4e5a-b52d-cdefce22797c]

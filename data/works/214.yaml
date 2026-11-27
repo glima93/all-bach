@@ -1,0 +1,22 @@
+bwv: "214"
+title: "Tönet, ihr Pauken! Erschallet, Trompeten!"
+key: "D major"
+collection: "Secular Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 3 trumpets, timpani, 2 flutes, 2 oboes (also oboe d'amore), strings and continuo"
+composed: "Leipzig, first performed 8 December 1733"
+movements:
+  - "I. Coro \"Tönet, ihr Pauken! Erschallet, Trompeten!\""
+  - "II. Recitativo (Tenor) \"Heut ist der Tag\""
+  - "III. Aria (Sopran) \"Blast die wohlgegriffnen Flöten\""
+  - "IV. Recitativo (Sopran) \"Mein knallendes Metall\""
+  - "V. Aria (Alt) \"Fromme Musen! meine Glieder!\""
+  - "VI. Recitativo (Alt) \"Unsre Königin im Lande\""
+  - "VII. Aria (Bass) \"Kron und Preis gekrönter Damen\""
+  - "VIII. Recitativo (Bass) \"So dringe in das weite Erdenrund\""
+  - "IX. Coro \"Blühet, ihr Linden in Sachsen, wie Zedern!\""
+notes: "A dramma per musica for the birthday of Maria Josepha, Electress of Saxony and Queen of Poland; the librettist is unknown. The opening chorus became \"Jauchzet, frohlocket\" in the Christmas Oratorio, BWV 248, which also reuses two of its arias and its closing chorus."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/28e769cf-185a-4764-8a18-1c431c03bfa1

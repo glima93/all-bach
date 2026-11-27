@@ -1,0 +1,30 @@
+id: nina-dorliak-undated
+performers:
+- name: Nina Dorliak
+  role: soprano
+- name: Sviatoslav Richter
+  role: piano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '202', complete: false, movements: ['I. Aria "Weichet nur, betrübte Schatten"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/702287cc-e8a4-4392-ad0e-cad365e33364
+  title: The 100th Anniversary Edition
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 91e8b734-de21-4384-9726-34d1ccd15b88
+  recordings: [98f9f54e-cd25-410f-b5b9-8d54ee875cef]

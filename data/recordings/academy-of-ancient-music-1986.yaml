@@ -1,0 +1,37 @@
+id: academy-of-ancient-music-1986
+performers:
+- name: Academy of Ancient Music
+  role: orchestra
+- name: Emma Kirkby
+  role: soprano
+- name: Christopher Hogwood
+  role: conductor
+- name: David Thomas
+  role: bass
+- name: Rogers Covey‐Crump
+  role: tenor
+- name: Lisa Beznosiuk
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1986]
+  place: St. Barnabas Church
+released: 1987
+original_label: null
+works:
+- {bwv: '211', complete: true}
+- {bwv: '212', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f186ddd9-c91f-428a-9d0b-d7cbb04af2c5
+  title: Coffee Cantata BWV 211 / Peasant Cantata BWV 212
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
+  recordings: [1112d187-42ce-499c-a674-1400c8b21a44, e4555e90-ddb5-4b28-bd5c-8f6bac1a1be4]

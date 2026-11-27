@@ -1,0 +1,36 @@
+id: concerto-amsterdam-1966
+performers:
+- name: Concerto Amsterdam
+  role: orchestra
+- name: Jaap Schröder
+  role: conductor
+- name: Anner Bylsma
+  role: cello
+- name: Gustav Leonhardt
+  role: harpsichord
+- name: Ad Mater
+  role: oboe
+- name: Agnes Giebel
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1966]
+  place: Hervormde kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '202', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c512571f-512d-4acf-9e9e-d196918f901a
+  recordings: [0f1acfaf-1c59-4451-a003-f1b75226cf3c]

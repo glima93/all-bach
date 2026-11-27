@@ -1,0 +1,38 @@
+id: berliner-philharmoniker-1961
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Chor der St. Hedwigs‐Kathedrale Berlin
+  role: choir
+- name: Karl Forster
+  role: conductor
+- name: Annelies Kupper
+  role: soprano
+- name: Fritz Wunderlich
+  role: tenor
+- name: Dietrich Fischer‐Dieskau
+  role: performer
+- name: Erika Köth
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: Evangelisches Gemeindehaus
+released: 1998
+original_label: null
+works:
+- {bwv: '208', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/47fca19d-53db-4ccd-8d3d-869e12ebebd2
+  title: Cantatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [7b7e836d-eb4a-45aa-b151-60cab206f7f2, 8b1a7137-923d-403a-8d29-f08280ae4e52, eba0ed09-4929-44f2-b6f4-67bb7cd249b9]

@@ -1,0 +1,30 @@
+id: musica-antiqua-koln-1999
+performers:
+- name: Musica Antiqua Köln
+  role: orchestra
+- name: Christine Schäfer
+  role: soprano
+- name: Reinhard Goebel
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Deutschlandfunk Kammermusiksaal; Sendesaal, DeutschlandRadio
+released: null
+original_label: null
+works:
+- {bwv: '202', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6b35be36-2509-4f82-9b94-b0282881bd96
+  title: Hochzeitskantaten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 16f26d89-eabf-46fd-9786-4b66bb9a2302
+  recordings: [8c345adb-5f7e-4962-9c6c-c5f1ac8c0985]

@@ -1,0 +1,43 @@
+id: collegium-vocale-gent-2004
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Mark Padmore
+  role: performer
+- name: Peter Kooij
+  role: performer
+- name: Carolyn Sampson
+  role: performer
+- name: Ingeborg Danz
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2004]
+  place: null
+released: 2005
+original_label: null
+works:
+- {bwv: '207', complete: false, movements: [I. Chorus "Vereinigte Zwietracht der wechselnden Saiten", 'II. Recitativo
+      "Wen treibt ein edler Trieb zu dem, was Ehre heißt" (Tenore)', III. Aria "Zieht euren Fuß nur nicht zurücke"
+      (Tenore), 'IV. Recitativo "Dem nur allein" (Basso, Soprano)', 'V. Aria Duetto "Den soll mein Lorbeer" (Basso,
+      Soprano)', Va. Ritornello, VI. Recitativo "Es ist kein leeres Wort" (Alto), VII. Aria "Ätzet dieses Angedenken"
+      (Alto), 'VIII. Recitativo "Ihr Schläfrigen, herbei" (Tenore, Basso, Soprano, Alto)', 'IX. Chorus "Kortte lebe,
+      Kortte blühe"']}
+- {bwv: '214', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4bf3d59c-e026-4210-a99a-4dcd2bc54123
+  title: '"Tönet, Ihr Pauken!": Cantates Profanes'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [1267d560-e18f-49d4-9701-6647c1b46d79, 94eb0137-b4cd-465e-a220-ae768836e01e]

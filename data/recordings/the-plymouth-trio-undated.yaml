@@ -1,0 +1,28 @@
+id: the-plymouth-trio-undated
+performers:
+- name: The Plymouth Trio
+  role: ensemble
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '202', complete: false, movements: [VII. Aria "Sich üben im Lieben"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e2b656b5-e073-47ad-9bb3-1223d9456972
+  title: The Plymouth Trio
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c7b82ef5-ebf5-4ff7-be88-0cf477c169f1
+  recordings: [4d7ece10-7b78-44cc-b9dc-b22b796943b4]

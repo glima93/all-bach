@@ -1,0 +1,29 @@
+id: bach-collegium-japan-2016-4
+performers:
+- name: Bach Collegium Japan
+  role: ensemble
+- name: Masaaki Suzuki
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Saitama Arts Theatre Concert Hall
+released: 2017
+original_label: null
+works:
+- {bwv: '206', complete: true}
+- {bwv: '215', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/945cf02f-17a1-4366-9dd8-b3e4c171feca
+  title: 'Secular Cantatas, Volume 8: Celebratory Cantatas'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [75c24470-dc76-4e20-81a5-1ba40248d2fd, f65a49af-f675-42be-bf97-b8b0e67dec43]

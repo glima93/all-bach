@@ -1,0 +1,21 @@
+bwv: "204"
+title: "Ich bin in mir vergnügt"
+key: "B-flat major"
+collection: "Secular Cantatas"
+genre: cantata
+scoring: "Soprano, flute, 2 oboes, strings and continuo"
+composed: "Leipzig, c. 1726–27"
+movements:
+  - "I. Recitativo (Sopran) \"Ich bin in mir vergnügt\""
+  - "II. Aria (Sopran) \"Ruhig und in sich zufrieden\""
+  - "III. Recitativo (Sopran) \"Ihr Seelen, die ihr außer euch stets in die Irre lauft\""
+  - "IV. Aria (Sopran) \"Die Schätzbarkeit der weiten Erden\""
+  - "V. Recitativo (Sopran) \"Schwer ist es zwar, viel Eitles zu besitzen\""
+  - "VI. Aria (Sopran) \"Meine Seele sei vergnügt\""
+  - "VII. Recitativo (Sopran) \"Ein edler Mensch ist Perlenmuscheln gleich\""
+  - "VIII. Aria (Sopran) \"Himmlische Vergnügsamkeit\""
+notes: "A solo cantata on contentment, setting a text by Christian Friedrich Hunold (Menantes)."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Ich_bin_in_mir_vergnügt,_BWV_204"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e01a83bb-d8d1-4295-b6aa-22a28cc04d85

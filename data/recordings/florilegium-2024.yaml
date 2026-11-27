@@ -1,0 +1,30 @@
+id: florilegium-2024
+performers:
+- name: Florilegium
+  role: orchestra
+- name: Rowan Pierce
+  role: soprano
+- name: Ashley Solomon
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2024]
+  place: St John the Evangelist
+released: 2025
+original_label: null
+works:
+- {bwv: '204', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/243a3c64-0fd0-46be-94e7-4a4dbba0f73c
+  title: Tra le fiamme
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: a6b7a55b-d3ff-4461-b817-58cc6f24de09
+  recordings: [c3307d25-98b1-4746-ba55-9a15bc47a627]

@@ -1,0 +1,30 @@
+id: bach-collegium-stuttgart-1997
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Sibylla Rubens
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: Mozartsaal, Liederhalle
+released: 2000
+original_label: null
+works:
+- {bwv: '202', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85576ad4-ea69-4366-aa44-8b25e8940afc
+  title: Secular Cantatas, BWV 202–204
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [af586137-f3b6-44ef-af58-b7958e371e54]

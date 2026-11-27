@@ -1,0 +1,29 @@
+id: marc-mauillon-2023
+performers:
+- name: Marc Mauillon
+  role: baritone
+- name: Benjamin Alard
+  role: harpsichord
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2023]
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '203', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/53aeadee-87de-4ee5-a4bc-c4d843fe4c7e
+  title: The Complete Works for Keyboard, Vol. 9 "Köthen, 1717-1723 - The Happy Years"
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 20b22209-788c-4350-91af-5b06c5e476cc
+  recordings: [a8658abe-57c6-4548-a7a8-31ed718201bb]

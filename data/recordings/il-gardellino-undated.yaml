@@ -1,0 +1,31 @@
+id: il-gardellino-undated
+performers:
+- name: Il Gardellino
+  role: orchestra
+- name: Dominik Wörner
+  role: bass
+- name: Ryo Terakado
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Protestantische Peterskirche
+released: 2013
+original_label: null
+works:
+- {bwv: '203', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7fbdc53f-2fd1-4f43-93d2-06d757a58269
+  title: 'Solo Cantatas: BWV 82, 158, 56, 203'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d0f2aa72-20bd-4ab9-b47c-0256fd01d2c6
+  recordings: [b7311a2c-7273-4232-a3b2-988ec93c53c1]

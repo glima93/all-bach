@@ -1,0 +1,30 @@
+id: collegium-aureum-1966
+performers:
+- name: Collegium Aureum
+  role: orchestra
+- name: Franzjosef Maier
+  role: conductor
+- name: Elly Ameling
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1966]
+  place: Fuggerschloss Kirchheim
+released: 1990
+original_label: null
+works:
+- {bwv: '209', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9b4dea19-d600-4bdd-8a9b-66c973f38940
+  title: Bauern-Kantate / Kaffee-Kantate / Hochzeitskantate / Non Sà Che Sia Dolore
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2cdc12f9-aae5-4b64-a769-6448f2c1c586
+  recordings: [7971de94-fcba-4882-808d-d49fb7242422]

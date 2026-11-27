@@ -1,0 +1,30 @@
+id: kammerorchester-berlin-1976
+performers:
+- name: Kammerorchester Berlin
+  role: orchestra
+- name: Peter Schreier
+  role: conductor
+- name: Edith Mathis
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: Studio Christuskirche
+released: 1996
+original_label: null
+works:
+- {bwv: '202', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c72a4217-a2a1-48ac-a26e-ec114a1d77d3
+  title: 'Weltliche Kantaten: Weichet nur betrübte Schatten BWV 202 / O holder Tag, erwünschte Zeit BWV 210'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f416ff60-3894-4275-af38-f8c96e6a278d
+  recordings: [63fd495d-1c1d-4205-a673-1f73495f06dc]

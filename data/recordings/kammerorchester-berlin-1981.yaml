@@ -1,0 +1,37 @@
+id: kammerorchester-berlin-1981
+performers:
+- name: Kammerorchester Berlin
+  role: orchestra
+- name: Peter Schreier
+  role: conductor
+- name: Walter Heinz Bernstein
+  role: harpsichord
+- name: Matthias Pfaender
+  role: cello
+- name: Markus Strauch
+  role: double bass
+- name: Siegfried Lorenz
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1981]
+  place: Studio Christuskirche
+released: 1996
+original_label: null
+works:
+- {bwv: '203', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/aaefbc01-ff1d-4554-876b-33ca4430c995
+  title: 'Weltliche Kantaten: Schwingt freudig euch empor BWV 36c / Non sa che sia dolore BWV 209 / Amore traditore
+    BWV 203'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f416ff60-3894-4275-af38-f8c96e6a278d
+  recordings: [df59b591-72e1-41f4-b2f1-c612df87c946]

@@ -1,0 +1,32 @@
+id: apollo-s-fire-2018
+performers:
+- name: Apollo’s Fire
+  role: orchestra
+- name: Amanda Forsythe
+  role: soprano
+- name: Debra Nagy
+  role: oboe
+- name: Jeannette Sorrell
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: St. Paul's Episcopal Church
+released: 2022
+original_label: null
+works:
+- {bwv: '202', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b1af3f52-8833-4013-b86e-4d8f76f93e35
+  title: 'Heavenly Bach: Arias & Cantatas of J.S. Bach'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4fd0447c-c25a-4fbe-ac5b-c5b8ddc375ba
+  recordings: [a98405da-5102-473f-aaab-3693fbe58e87]

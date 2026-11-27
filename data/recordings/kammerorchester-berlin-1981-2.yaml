@@ -1,0 +1,31 @@
+id: kammerorchester-berlin-1981-2
+performers:
+- name: Kammerorchester Berlin
+  role: orchestra
+- name: Peter Schreier
+  role: conductor
+- name: Berliner Solisten
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1981]
+  place: Studio Christuskirche
+released: 1996
+original_label: null
+works:
+- {bwv: '205', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/91aaf792-7b72-4041-8c1f-5ab6057d4435
+  title: 'Weltliche Kantaten: Zerreisset, zersprenget, Zertrümmert die Gruft BWV 205 / Vereignitee zwietracht der
+    wechselnden Saiten BWV 207'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f416ff60-3894-4275-af38-f8c96e6a278d
+  recordings: [d8410342-ebce-4a59-af8b-e46a48c1baa0]

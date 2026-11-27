@@ -55,6 +55,8 @@ API = "https://musicbrainz.org/ws/2/"
 # recordings of two works within three years were grouped as one performance (Kuijken's 1987 St John with
 # Leonhardt's 1989 St Matthew, both La Petite Bande), with the years and singers of both. Vocal performances
 # are now grouped per work; versions of one work (BWV 243 and 243a) still group together.
+# Run 26: a plan entry can pin the MusicBrainz work for a BWV number (`mb_works`); a changed pin makes the
+# collect/<id> branch stale, as a changed mb_parent does. Trees are otherwise unchanged, so the version stays 8.
 COLLECTOR_VERSION = 8
 UA = "AllBach/0.2 ( https://github.com/glima93/all-bach )"
 GROUPS = ["Orchestra", "Group", "Choir"]
@@ -270,7 +272,11 @@ class Collector:
             for spec in col["bwv"]:
                 lo, _, hi = spec.partition("-")
                 for n in range(int(lo), int(hi or lo) + 1):
-                    out.append(self.find(str(n)))
+                    # The plan can name the MusicBrainz work for a BWV number when the search keeps the wrong
+                    # version (`mb_works`, run 26: BWV³ 210.1 was kept for BWV 210, and 216.2 for 216).
+                    pin = (col.get("mb_works") or {}).get(str(n))
+                    out.append({"bwv": str(n), "id": pin, "also": [], "skipped": {}, "candidates": [],
+                                "ambiguous": False, "pinned": True} if pin else self.find(str(n)))
             # Versions with their own BWV letter that the plan lists (`variants`: the E-flat Magnificat BWV 243a).
             for v in col.get("variants") or []:
                 out.append(self.find(v))
@@ -476,7 +482,10 @@ def collect(col: dict, args) -> bool:
     c = Collector(col["id"], Path(args.state), args.deadline, not args.no_whole)
     try:
         # The cached tree is keyed by the parent work, so setting mb_parent later takes effect.
-        works = c.cached(f"tree-v{COLLECTOR_VERSION}" + (":" + col["mb_parent"] if col.get("mb_parent") else ""), lambda: c.tree(col))
+        key = f"tree-v{COLLECTOR_VERSION}" + (":" + col["mb_parent"] if col.get("mb_parent") else "")
+        if col.get("mb_works"):  # pinned works change the tree too
+            key += ":" + json.dumps(col["mb_works"], sort_keys=True)
+        works = c.cached(key, lambda: c.tree(col))
         # A tree cached before leaves() dropped repeated movements still lists them (other-keyboard-suites was
         # collected again on 16 Nov 2026 from such a cache, with BWV 818's Sarabandes twice): drop them here too.
         for w in works:
@@ -530,7 +539,7 @@ def stale_branch(col: dict) -> bool:
     except (subprocess.CalledProcessError, FileNotFoundError):
         return False
     old = next((c for c in yaml.safe_load(text)["collections"] if c["id"] == col["id"]), {})
-    if old.get("mb_parent") != col.get("mb_parent"):
+    if old.get("mb_parent") != col.get("mb_parent") or old.get("mb_works") != col.get("mb_works"):
         return True
     # A tree with a movement listed twice was made before leaves() dropped repeats: collect again.
     try:

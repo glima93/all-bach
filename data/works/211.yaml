@@ -1,0 +1,23 @@
+bwv: "211"
+title: "Schweigt stille, plaudert nicht"
+key: "G major"
+collection: "Secular Cantatas"
+genre: cantata
+scoring: "Soloists (STB), flute, strings and continuo"
+composed: "Leipzig, c. 1732–35"
+movements:
+  - "I. Recitativo (Tenor) \"Schweigt stille, plaudert nicht\""
+  - "II. Aria (Bass) \"Hat man nicht mit seinen Kindern\""
+  - "III. Recitativo (Bass, Sopran) \"Du böses Kind, du loses Mädchen\""
+  - "IV. Aria (Sopran) \"Ei, wie schmeckt der Coffee süße\""
+  - "V. Recitativo (Bass, Sopran) \"Wenn du mir nicht den Coffee läßt\""
+  - "VI. Aria (Bass) \"Mädchen, die von harten Sinnen\""
+  - "VII. Recitativo (Bass, Sopran) \"Nun folge, was dein Vater spricht\""
+  - "VIII. Aria (Sopran) \"Heute noch, lieber Vater, tut es doch\""
+  - "IX. Recitativo (Tenor) \"Nun geht und sucht der alte Schlendrian\""
+  - "X. Chorus (Sopran, Tenor, Bass) \"Die Katze läßt das Mausen nicht\""
+notes: "Known as the \"Coffee Cantata\", a comic setting of Picander's text about a father trying to cure his daughter of her love of coffee; probably first performed by Bach's Collegium Musicum at Zimmermann's coffee house."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Coffee_Cantata"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/a31f4009-ffcb-4195-95fc-28a9a5088e97

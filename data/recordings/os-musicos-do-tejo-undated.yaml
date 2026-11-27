@@ -1,0 +1,30 @@
+id: os-musicos-do-tejo-undated
+performers:
+- name: Os Músicos do Tejo
+  role: orchestra
+- name: Marcos Magalhães
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '212', complete: false, movements: [I. Ouvertüre]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/28737126-8477-4acb-b718-09a57b9f6fcc
+  title: 'From Baroque to Fado: A Journey Through Portuguese Music'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 680a6df1-63e1-4fcf-8aa7-579930be7bbe
+  recordings: [e735d446-b1bf-45a6-8772-9f5b63c5230a]

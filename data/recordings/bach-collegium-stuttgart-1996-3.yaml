@@ -1,0 +1,48 @@
+id: bach-collegium-stuttgart-1996-3
+performers:
+- name: Bach Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: James Taylor
+  role: tenor
+- name: Matthias Goerne
+  role: bass
+- name: Sibylla Rubens
+  role: soprano
+- name: Eva Kirchner
+  role: performer
+- name: Thomas Quasthoff
+  role: bass
+- name: Christine Schäfer
+  role: soprano
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Stadthalle Leonberg; Stiftskirche Herrenberg
+released: 1998
+original_label: null
+works:
+- {bwv: '208', complete: true}
+- {bwv: '211', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b97b382-4fbc-41bb-b81b-24dc4e8865b3
+  title: Jagd-Kantate / Kaffee-Kantate
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [2202510a-7404-40f6-a885-6707c99a752f, 32743e62-acf5-45fa-b7d1-3b8a013bfb53, 88571878-ae00-44e3-a456-fd668add10c7,
+    f5071d8f-fe3e-4922-a23a-5116d2a52d61]

@@ -12,6 +12,7 @@
 #   mode      how the importer reads performers (see docs/catalogue-plan.md, "Importer modes")
 #   native    chamber mode only: the solo part's instruments, the written one first
 #   mb_parent MusicBrainz parent work, when there is one; otherwise works are found by BWV number
+#   mb_works  {BWV number: MusicBrainz work id} for works the search finds in the wrong version (run 26)
 #   variants  versions with their own BWV letter, collected as works of their own (243a)
 #   wave      1 = instrumental, existing pipeline; 2 = needs the vocal mode; 3 = long tail
 #   run       the scheduled run that collects it (runs go in order; small collections share a run)
@@ -87,9 +88,10 @@ collections:
 - {id: motets, title: "Motets", chapter: Motets, bwv: ["225-231", "118"], mode: vocal, wave: 2, run: 25, status: imported,
    note: "118 sits in the cantata numbers but is a motet in all but name; 231 is a reworking of a movement of cantata 28"}
 - {id: missae-breves, title: "Missae breves and mass movements", chapter: Masses and Magnificat, bwv: ["233-242"], mode: vocal, wave: 2, run: 25, status: imported}
-- {id: secular-cantatas, title: "Secular Cantatas", chapter: Cantatas, bwv: ["201-216"], mode: vocal, wave: 2, run: 26, status: queued,
-   note: "Coffee Cantata (211), Peasant Cantata (212), Hunting Cantata (208)"}
-- {id: church-cantatas, title: "Church Cantatas", chapter: Cantatas, bwv: ["1-10", "12-117", "119-200", "217-224"], mode: vocal, wave: 2, run: [27, 28, 29, 30], status: todo,
+- {id: secular-cantatas, title: "Secular Cantatas", chapter: Cantatas, bwv: ["201-216"], mode: vocal,
+   mb_works: {"210": 0e61d05d-2b28-44c8-8395-01b049abe2e9, "216": 58127ac4-8d1d-4f8b-b774-a933ebb24b5a}, wave: 2, run: 26, status: queued,
+   note: "Coffee Cantata (211), Peasant Cantata (212), Hunting Cantata (208). Run 26 imported 201–209 and 211–215 from the 26 Nov 2026 snapshot; the collector had kept the BWV³ versions 210.1 (O angenehme Melodei) and 216.2 (Erwählte Pleißenstadt), so mb_works pins O holder Tag (210) and Vergnügte Pleißenstadt (216.1) and the collection is collected again. Remove SKIP_WORKS_BY_SNAPSHOT['secular-cantatas'] in the importer when the new snapshot is imported"}
+- {id: church-cantatas, title: "Church Cantatas", chapter: Cantatas, bwv: ["1-10", "12-117", "119-200", "217-224"], mode: vocal, wave: 2, run: [27, 28, 29, 30], status: queued,
    note: "Too big for one run: run 27 takes 1–50, 28 takes 51–100, 29 takes 101–150, 30 takes 151–200 and 217–224 (doubtful). Complete cycles (Rilling, Leusink, Koopman, Suzuki, Gardiner, Harnoncourt/Leonhardt) dominate"}
 
 # ── Wave 3: the long tail ────────────────────────────────────────────────────────────────

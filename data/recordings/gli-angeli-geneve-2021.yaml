@@ -1,0 +1,28 @@
+id: gli-angeli-geneve-2021
+performers:
+- name: Gli Angeli Genève
+  role: orchestra
+- name: Stephan MacLeod
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Landgasthof Riehen
+released: 2022
+original_label: null
+works:
+- {bwv: '203', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dd7bf188-351d-492c-ab75-097349765334
+  title: Cantatas for Bass
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b13e3667-91b4-47d6-b871-0986865aa4c1
+  recordings: [678de9be-c922-475d-ba58-5729c2e7be86]

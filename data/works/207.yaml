@@ -1,0 +1,24 @@
+bwv: "207"
+title: "Vereinigte Zwietracht der wechselnden Saiten"
+key: "D major"
+collection: "Secular Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 3 trumpets, timpani, 2 flutes, 2 oboes d'amore, taille, strings and continuo"
+composed: "Leipzig, first performed 11 December 1726"
+movements:
+  - "I. Chorus \"Vereinigte Zwietracht der wechselnden Saiten\""
+  - "II. Recitativo \"Wen treibt ein edler Trieb zu dem, was Ehre heißt\" (Tenore)"
+  - "III. Aria \"Zieht euren Fuß nur nicht zurücke\" (Tenore)"
+  - "IV. Recitativo \"Dem nur allein\" (Basso, Soprano)"
+  - "V. Aria Duetto \"Den soll mein Lorbeer\" (Basso, Soprano)"
+  - "Va. Ritornello"
+  - "VI. Recitativo \"Es ist kein leeres Wort\" (Alto)"
+  - "VII. Aria \"Ätzet dieses Angedenken\" (Alto)"
+  - "VIII. Recitativo \"Ihr Schläfrigen, herbei\" (Tenore, Basso, Soprano, Alto)"
+  - "IX. Chorus \"Kortte lebe, Kortte blühe\""
+  - "Anhang: Marche"
+notes: "Written for the installation of Gottlieb Kortte as professor of law at Leipzig University. The opening chorus and an instrumental ritornello are adapted from the first Brandenburg Concerto, BWV 1046."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Vereinigte_Zwietracht_der_wechselnden_Saiten,_BWV_207"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/c571dfc5-fc1a-46eb-a0b1-71bb6cd4cf61

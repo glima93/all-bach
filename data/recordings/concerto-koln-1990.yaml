@@ -1,0 +1,38 @@
+id: concerto-koln-1990
+performers:
+- name: Concerto Köln
+  role: orchestra
+- name: Kammerchor Stuttgart
+  role: choir
+- name: Frieder Bernius
+  role: conductor
+- name: Peter Kooij
+  role: bass
+- name: Christoph Prégardien
+  role: performer
+- name: Michael Chance
+  role: performer
+- name: Ruth Ziesak
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Evangelische Peter-und-Paul-Kirche, Gönningen
+released: 1991
+original_label: null
+works:
+- {bwv: '206', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ddfcadcb-846d-40e2-b630-828a6254a0bd
+  title: Auf, schmetternde Töne, BWV 207a / Schleicht, spielende Wellen, BWV 206
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 16a29583-0a91-415c-ac87-6ee5c6c2c406
+  recordings: [0c457370-b250-42dd-90ff-2a715516ad04, a0134778-1631-4c3d-8549-97b517ddd2ec]

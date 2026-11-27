@@ -1,0 +1,28 @@
+id: bach-collegium-stuttgart-1998-2
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: Stadthalle Sindelfingen
+released: 1999
+original_label: null
+works:
+- {bwv: '209', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6eb5d165-82e2-40fc-a0f7-9df728a99a01
+  title: Secular Cantatas BWV 208, 209
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [786bbfc9-bc7d-4a84-bae9-003a3b4f9d79]

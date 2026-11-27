@@ -1,0 +1,28 @@
+id: jean-pierre-rampal-undated-5
+performers:
+- name: Jean-Pierre Rampal
+  role: flute
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '209', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5a1803ce-6264-4c2d-ad48-0bb1c4d14429
+  title: 'The Complete Erato Recordings: III. 1970-82'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4deb8a6c-38f1-47d6-9e75-ada1add9dd65
+  recordings: [f5e5dd6a-e47d-48fa-b805-c7fffc0b921e]

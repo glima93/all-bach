@@ -1,0 +1,45 @@
+id: ex-tempore-1996
+performers:
+- name: Ex Tempore
+  role: choir
+- name: Musica Antiqua Köln
+  role: orchestra
+- name: Florian Heyerick
+  role: performer
+- name: Christoph Genz
+  role: tenor
+- name: Stefan Geyer
+  role: bass
+- name: Dana Hanchard
+  role: soprano
+- name: Axel Köhler
+  role: countertenor
+- name: Reinhard Goebel
+  role: conductor
+- name: Scot Weir
+  role: tenor
+- name: Hans-Georg Wimmer
+  role: bass-baritone
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Deutschlandfunk Kammermusiksaal
+released: 2018
+original_label: null
+works:
+- {bwv: '201', complete: true}
+- {bwv: '206', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d996abaa-ce14-45c7-944a-9c62adee19fe
+  title: Bach 333 - J.S. Bach The New Complete Edition
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9398fd3c-dfc3-4448-90ec-cdef7aa60404
+  recordings: [37a410c6-5ded-47e7-b077-12b463ea087c, c627571f-4821-4c63-9c95-466e2fae8a34]

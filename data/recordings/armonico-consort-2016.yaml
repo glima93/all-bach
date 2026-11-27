@@ -1,0 +1,31 @@
+id: armonico-consort-2016
+performers:
+- name: Armonico Consort
+  role: orchestra
+- name: Gillian Keith
+  role: soprano
+- name: Christopher Monks
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2016]
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '202', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/77182ccd-59e0-4127-a792-df819f643e70
+  title: The Complete Solo Soprano Cantatas, Vol. 1
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7b26d366-b57d-434a-a32d-085aa579fc2f
+  recordings: [21cf6a73-5976-4bee-8dc9-58d5a06e8857]

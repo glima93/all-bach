@@ -1,0 +1,30 @@
+id: bach-collegium-japan-2017
+performers:
+- name: Bach Collegium Japan
+  role: orchestra
+- name: Carolyn Sampson
+  role: soprano
+- name: Masaaki Suzuki
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Saitama Arts Theatre Concert Hall
+released: 2018
+original_label: null
+works:
+- {bwv: '204', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6fbff1ef-6069-4cc8-834a-081ddbd07f5d
+  title: 'Secular Cantatas, Volume 10: Cantatas of contentment'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [87e2225b-4eff-4014-97bf-b64196474f3e]

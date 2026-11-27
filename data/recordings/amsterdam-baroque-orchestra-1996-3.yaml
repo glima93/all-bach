@@ -1,0 +1,48 @@
+id: amsterdam-baroque-orchestra-1996-3
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Ton Koopman
+  role: conductor
+- name: Klaus Mertens
+  role: bass
+- name: Lisa Larsson
+  role: soprano
+- name: Christoph Prégardien
+  role: performer
+- name: Elisabeth von Magnus
+  role: alto
+- name: Anne Grimm
+  role: performer
+- name: Sibylla Rubens
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Waalse Kerk
+released: 1997
+original_label: null
+works:
+- {bwv: '202', complete: true}
+- {bwv: '205', complete: true}
+- {bwv: '206', complete: true}
+- {bwv: '212', complete: true}
+- {bwv: '213', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b64e9c52-23c7-4868-b05f-60ed5ceca0ce
+  title: Complete Cantatas, Volume 5
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [2d91c6c3-2098-46aa-bf5f-d29745813fa1, 420bc080-44e7-4fe3-90cd-9573aba07579, 444a73da-89c4-4e82-b632-2e26f453abb7,
+    4633811d-f884-49a5-a2f6-a731d3f10801, 51c93d9e-a090-415f-a02c-14b7dfcae69f, 5b8f3d44-4923-4d1b-b76e-e735faf94e39,
+    d0734ef2-005b-4586-a571-c5a6267134f1, dd09291b-e846-4029-b2e1-62702592df70]
