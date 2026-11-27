@@ -16,6 +16,7 @@ released: null
 original_label: null
 works:
 - {bwv: '202', complete: true}
+- {bwv: '210', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -27,4 +28,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 16f26d89-eabf-46fd-9786-4b66bb9a2302
-  recordings: [8c345adb-5f7e-4962-9c6c-c5f1ac8c0985]
+  recordings: [5c05fa4d-c561-49e0-a76c-c78bfa0c7796, 8c345adb-5f7e-4962-9c6c-c5f1ac8c0985]

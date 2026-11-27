@@ -1,0 +1,30 @@
+id: the-bach-ensemble-1980
+performers:
+- name: The Bach Ensemble
+  role: orchestra
+- name: Judith Nelson
+  role: soprano
+- name: Joshua Rifkin
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1980]
+  place: Ambassador Auditorium
+released: 1981
+original_label: null
+works:
+- {bwv: '210', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d3d66be4-d3e2-4b8f-ab2a-4f8c0a83ac68
+  title: Wedding Cantata, BWV 210
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8eea2dff-8c06-4a9b-b3f9-4acd0365522a
+  recordings: [ac15b782-147c-4ee3-ba28-2cb89b98cfe5]

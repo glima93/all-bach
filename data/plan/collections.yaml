@@ -91,8 +91,8 @@ collections:
    note: "118 sits in the cantata numbers but is a motet in all but name; 231 is a reworking of a movement of cantata 28"}
 - {id: missae-breves, title: "Missae breves and mass movements", chapter: Masses and Magnificat, bwv: ["233-242"], mode: vocal, wave: 2, run: 25, status: imported}
 - {id: secular-cantatas, title: "Secular Cantatas", chapter: Cantatas, bwv: ["201-216"], mode: vocal,
-   mb_works: {"210": 0e61d05d-2b28-44c8-8395-01b049abe2e9, "216": 58127ac4-8d1d-4f8b-b774-a933ebb24b5a}, wave: 2, run: 26, status: queued,
-   note: "Coffee Cantata (211), Peasant Cantata (212), Hunting Cantata (208). Run 26 imported 201–209 and 211–215 from the 26 Nov 2026 snapshot; the collector had kept the BWV³ versions 210.1 (O angenehme Melodei) and 216.2 (Erwählte Pleißenstadt), so mb_works pins O holder Tag (210) and Vergnügte Pleißenstadt (216.1) and the collection is collected again. Remove SKIP_WORKS_BY_SNAPSHOT['secular-cantatas'] in the importer when the new snapshot is imported"}
+   mb_works: {"210": 0e61d05d-2b28-44c8-8395-01b049abe2e9, "216": 58127ac4-8d1d-4f8b-b774-a933ebb24b5a}, wave: 2, run: 26, status: imported,
+   note: "Coffee Cantata (211), Peasant Cantata (212), Hunting Cantata (208). The collector keeps the latest BWV³ version, which for 210 is 210.1 (O angenehme Melodei) and for 216 is 216.2 (Erwählte Pleißenstadt): mb_works pins O holder Tag (210) and Vergnügte Pleißenstadt (216.1)"}
 # The Church Cantatas are one volume on the shelf but too big for one run: four parts with the same title, each
 # collected and imported by its own run (decided 27 Nov 2026). The parts share the collector's MusicBrainz cache
 # (`cache_from`), which already holds what the 27 Nov collection of the whole set fetched.

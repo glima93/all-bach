@@ -1,0 +1,30 @@
+id: bach-collegium-stuttgart-1996-6
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Sibylla Rubens
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Stadthalle Sindelfingen
+released: 1999
+original_label: null
+works:
+- {bwv: '210', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6526a7c5-c40b-408e-b7fc-d6c5066ddb12
+  title: Secular Cantatas BWV 210, 211
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [a027bab2-f617-40de-8ede-9d9101cfba22]

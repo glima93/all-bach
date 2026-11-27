@@ -20,6 +20,7 @@ released: 2004
 original_label: null
 works:
 - {bwv: '211', complete: true}
+- {bwv: '210', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -31,4 +32,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
-  recordings: [94c1e9fc-e8c1-4d8d-96c6-d9fc05bfa6f8]
+  recordings: [94c1e9fc-e8c1-4d8d-96c6-d9fc05bfa6f8, dc05a600-5638-4d5e-b2cf-afbde89b0513]

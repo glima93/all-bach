@@ -16,6 +16,7 @@ released: 1999
 original_label: null
 works:
 - {bwv: '202', complete: true}
+- {bwv: '210', complete: true}
 links:
 - platform: musicbrainz
   kind: release
@@ -27,4 +28,4 @@ help_wanted:
 notes: null
 musicbrainz:
   artist: 5c8fd1e4-574d-495f-9a24-2dfaadf2e8c0
-  recordings: [c4f2c785-caff-4716-82ad-43b03fb61608]
+  recordings: [af2af9cf-c1c7-4297-99a6-77fe12b9bc02, c4f2c785-caff-4716-82ad-43b03fb61608]

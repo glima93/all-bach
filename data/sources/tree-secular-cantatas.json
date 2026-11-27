@@ -1,9 +1,9 @@
 {
  "collection": "secular-cantatas",
  "collector": 8,
- "taken": "2026-11-26",
- "recordings": 1887,
- "performances": 238,
+ "taken": "2026-11-27",
+ "recordings": 1955,
+ "performances": 245,
  "works": [
   {
    "bwv": "201",
@@ -567,63 +567,55 @@
   },
   {
    "bwv": "210",
-   "id": "5a9b0907-c61b-4be0-a5d8-ea5c3675c489",
+   "id": "0e61d05d-2b28-44c8-8395-01b049abe2e9",
    "also": [],
    "skipped": {},
-   "candidates": [
-    {
-     "id": "0e61d05d-2b28-44c8-8395-01b049abe2e9",
-     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\""
-    },
-    {
-     "id": "5a9b0907-c61b-4be0-a5d8-ea5c3675c489",
-     "title": "O angenehme Melodei, BWV 210.1"
-    }
-   ],
+   "candidates": [],
    "ambiguous": false,
-   "title": "O angenehme Melodei, BWV 210.1",
+   "pinned": true,
+   "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\"",
    "key": "A major",
    "has_parts": true,
    "movements": [
     {
-     "id": "4ebaf557-be5d-449e-9123-7494328182fd",
-     "title": "O angenehme Melodei, BWV 210a: I. O angenehme Melodei (Recitativo)"
+     "id": "a7a8045e-1d7c-3660-bcd8-1467b68440ba",
+     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\": I. Recitativo (Sopran) \"O holder Tag, erwünschte Zeit\""
     },
     {
-     "id": "566ad853-19e5-4505-b025-096a1b0794d8",
-     "title": "O angenehme Melodei, BWV 210a: II. Spielet, ihr beseelten Lieder"
+     "id": "f5e19634-3dc9-3cf5-b286-b59dda8bab8a",
+     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\": II. Aria (Sopran) \"Spielet, ihr beseelten Lieder\""
     },
     {
-     "id": "5c2df9ca-49b0-45e2-b80d-dbd4451401d0",
-     "title": "O angenehme Melodei, BWV 210a: III. Ihr Sorgen, flieht (Recitativo)"
+     "id": "ad78b9bc-adbf-319b-bc41-93d5a70fed09",
+     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\": III. Recitativo (Sopran) \"Doch, haltet ein, ihr muntern Saiten\""
     },
     {
-     "id": "c74d6f85-7aed-487b-a214-b0aa17bbe4b5",
-     "title": "O angenehme Melodei, BWV 210a: IV. Ruhet hie, matte Sinne"
+     "id": "b9cf8afd-34c3-3161-8734-cc715b0a1ebe",
+     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\": IV. Aria (Sopran) \"Ruhet hie, matte Töne\""
     },
     {
-     "id": "89d70f7e-3663-451f-9c66-64bda02aaaa8",
-     "title": "O angenehme Melodei, BWV 210a: V. Wiewohl, beliebte Musica (Recitativo)"
+     "id": "0ddc3dfc-5dd9-371c-b0e3-029a8d624797",
+     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\": V. Recitativo (Sopran) \"So glaubt man denn, daß die Musik verführe\""
     },
     {
-     "id": "f6ffce55-729d-476c-b8d0-86a7fc067fec",
-     "title": "O angenehme Melodei, BWV 210a: VI. Schweigt, ihr Flöten, schweigt, ihr Töne"
+     "id": "5db32aff-280d-3fa1-bbda-a5e0a2d8b0e9",
+     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\": VI. Aria (Sopran) \"Schweigt, ihr Flöten, schweigt, ihr Töne\""
     },
     {
-     "id": "a94233af-54c1-4041-96b6-caea740f2ce8",
-     "title": "O angenehme Melodei, BWV 210a: VII. Doch fasse dich (Recitativo)"
+     "id": "eb784bdb-6162-39ae-822d-482b1f9f18cc",
+     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\": VII. Recitativo (Sopran) \"Was Luft? was Grab?\""
     },
     {
-     "id": "715270c1-6762-4756-874b-2176fe056ff4",
-     "title": "O angenehme Melodei, BWV 210a: VIII. Werte Gönner, alles Wissen"
+     "id": "0b0284ef-abe8-3c34-b671-9511524ec96f",
+     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\": VIII. Aria (Sopran) \"Großer Gönner, dein Vergnügen\""
     },
     {
-     "id": "56fa916d-b24e-48e7-ab3c-fb542a324525",
-     "title": "O angenehme Melodei, BWV 210a: IX. Verehrte Gönner, so bleibet fernerweit (Recitativo)"
+     "id": "b7daf9e7-80ad-3360-81cc-35faa7935539",
+     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\": IX. Recitativo (Sopran) \"Hochteurer Mann, so fahre ferner fort\""
     },
     {
-     "id": "2666e5e6-cfdc-4c7f-8f38-c33e417187a4",
-     "title": "O angenehme Melodei, BWV 210a: X. Seid vergnügt, werte Gönner"
+     "id": "6d3be9a3-67dd-3527-9a52-fea75df65758",
+     "title": "Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\": X. Aria (Sopran) \"Seid beglückt, edle beide\""
     }
    ],
    "sections": []
@@ -985,53 +977,19 @@
   },
   {
    "bwv": "216",
-   "id": "8334616b-353d-4ba2-bd31-3029992fe821",
+   "id": "58127ac4-8d1d-4f8b-b774-a933ebb24b5a",
    "also": [],
-   "skipped": {
-    "58127ac4-8d1d-4f8b-b774-a933ebb24b5a": "earlier version (216.1)"
-   },
-   "candidates": [
-    {
-     "id": "8334616b-353d-4ba2-bd31-3029992fe821",
-     "title": "Erwählte Pleißenstadt, BWV 216.2"
-    },
+   "skipped": {},
+   "candidates": [],
+   "ambiguous": false,
+   "pinned": true,
+   "title": "Vergnügte Pleißenstadt, BWV 216.1",
+   "key": "C major",
+   "has_parts": false,
+   "movements": [
     {
      "id": "58127ac4-8d1d-4f8b-b774-a933ebb24b5a",
      "title": "Vergnügte Pleißenstadt, BWV 216.1"
-    }
-   ],
-   "ambiguous": false,
-   "title": "Erwählte Pleißenstadt, BWV 216.2",
-   "key": null,
-   "has_parts": true,
-   "movements": [
-    {
-     "id": "5278426b-075b-4e49-8abf-9f8f7fc5e514",
-     "title": "Erwählte Pleißenstadt, BWV 216.2: I. Duet: Erwählte Pleißenstadt"
-    },
-    {
-     "id": "bce71ba2-1066-40b9-94e3-6867e712e18a",
-     "title": "Erwählte Pleißenstadt, BWV 216.2: II. [Recitative:] Ihr Städte, die man in der Welt"
-    },
-    {
-     "id": "8f55ba39-c796-47b1-a984-80c55612398a",
-     "title": "Erwählte Pleißenstadt, BWV 216.2: III. Aria: Angenehmes Pleiß-Athen"
-    },
-    {
-     "id": "20a27614-0b9b-4101-9c49-2dca8e6ab7fe",
-     "title": "Erwählte Pleißenstadt, BWV 216.2: IV. [Recitative:] Nicht die Gelehrsamkeit allein"
-    },
-    {
-     "id": "cec8fbff-cc0d-4c9c-a922-2011736eff9f",
-     "title": "Erwählte Pleißenstadt, BWV 216.2: V. Aria: Mit Lachen und Scherzen"
-    },
-    {
-     "id": "1ac62ddf-abb5-4627-a049-89f6541e00d1",
-     "title": "Erwählte Pleißenstadt, BWV 216.2: VI. [Recitative:] Drum ist gewiss"
-    },
-    {
-     "id": "24742eaa-b9c4-4e6d-aa2c-58905748266d",
-     "title": "Erwählte Pleißenstadt, BWV 216.2: VII. Duet: Heil und Segen"
     }
    ],
    "sections": []

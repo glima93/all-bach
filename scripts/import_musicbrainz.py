@@ -356,10 +356,8 @@ JOIN_BY_RELEASE = {
 # same conductor (run 25: two Rilling missae on one undated disc).
 # Works in a snapshot that are not imported, per snapshot, with the reason (see main()).
 SKIP_WORKS_BY_SNAPSHOT: dict[str, dict[str, str]] = {
-    "secular-cantatas": {
-        "210": "the collector took 'O angenehme Melodei, BWV 210.1' (BWV 210a) instead of 'Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\"' (run 26); collected again with the plan's mb_works",
-        "216": "the collector took 'Erwählte Pleißenstadt, BWV 216.2' (BWV 216a) instead of 'Vergnügte Pleißenstadt, BWV 216.1', which is BWV 216 (run 26); collected again with the plan's mb_works",
-    },
+    # Run 26 left out BWV 210 and 216 of the 26 Nov 2026 snapshot (the collector kept their BWV³ versions 210.1
+    # and 216.2); the plan now pins them (`mb_works`) and the 27 Nov snapshot has the right works.
 }
 NO_JOIN_BY_SNAPSHOT: dict[str, dict[str, str]] = {}
 NO_JOIN: set[str] = set()
@@ -1664,6 +1662,7 @@ CHAMBER_OTHER_SOLO = re.compile(r"\bharp\b|pardessus|bandone|bassoon|fagott|pan 
 NOT_INSTRUMENTS = {"solo"}
 # Performer names that are groups even when MusicBrainz gives no artist type.
 SCORINGS: dict[str, str] = {}  # scoring of each work, set in main()
+SNAPSHOT_BWVS: set[str] = set()  # the works of the snapshot being imported, set in main()
 GROUP_NAME = re.compile(r"\bensemble\b|orchest|consort|collegium|camerata|soloists|sinfonia", re.I)
 # Release titles that mean an arrangement (film and game soundtracks, lessons, nursery and relaxation albums).
 ARRANGED_RELEASES = re.compile(r"soundtrack|learn to play|nursery|lullab|\bbaby\b|babies|bossa|switched.on|"
@@ -1707,7 +1706,7 @@ class FlowDict(dict):
     """A mapping written in YAML flow style: { a: 1 }."""
 
 
-# Run 26: the Secular Cantatas (BWV 201-209, 211-215; 210 and 216 wait for a new collection, see SKIP_WORKS_BY_SNAPSHOT).
+# Run 26: the Secular Cantatas (BWV 201-216; 210 and 216 from the 27 Nov 2026 collection).
 EXCLUDE_BY_SNAPSHOT["secular-cantatas"] = {
     "2d521c23-0729-48a3-929b-cb776ab83e32": "Rademann's Weihnachtsoratorium: 'Jauchzet, frohlocket' (BWV 248 No. 1) linked to the chorus of BWV 214 it parodies",
     "3a21bfab-482c-4233-8438-fdbb443d4a86": "Classical Christmas (Universitätschor Leipzig, Pommer): 'Jauchzet, frohlocket' from the Christmas Oratorio linked to the chorus of BWV 214 it parodies",
@@ -1775,6 +1774,8 @@ OVERRIDE_BY_SNAPSHOT["secular-cantatas"].update({
         "Rampal plays the flute in the Sinfonia of BWV 209 " + _C26),
     "4d7ece10-7b78-44cc-b9dc-b22b796943b4": ({"arrangement": True},
         "The Plymouth Trio: a trio cannot play 'Sich üben im Lieben' in Bach's scoring (soprano, oboe, strings, continuo) " + _C26),
+    "ac15b782-147c-4ee3-ba28-2cb89b98cfe5": ({"performance_practice": "historical"},
+        "Rifkin's Bach Ensemble plays period instruments: his 1980 O holder Tag, collected on 27 Nov 2026 (run 26)"),
     "06b649f3-690e-4a64-a70d-6c9e09ceb349": ({"performance_practice": "historical"},
         "Rifkin's Bach Ensemble plays period instruments (the-bach-ensemble-1981 is filed historical) " + _C26),
     "a8658abe-57c6-4548-a7a8-31ed718201bb": ({"performance_practice": "historical"},
@@ -2316,6 +2317,12 @@ def merge(old: dict, new: dict) -> dict:
         if out.get("performance_practice") in (None, "unknown"):
             out["performance_practice"] = new["performance_practice"]
     out["works"] = [FlowDict(w, **({"movements": Flow(w["movements"])} if "movements" in w else {})) for w in old["works"]]
+    # Works the file does not list yet are added when the file is one of this snapshot's (run 26: BWV 210,
+    # collected a day after the other secular cantatas, on discs already filed); the works it lists are left
+    # as they are, and a file of another collection that a recording matched keeps its works.
+    have = {w["bwv"] for w in old["works"]}
+    if have & SNAPSHOT_BWVS:
+        out["works"] += [w for w in new["works"] if w["bwv"] not in have]
     urls = {l["url"] for l in old["links"]}
     out["links"] = list(old["links"]) + [l for l in new["links"] if l["url"] not in urls]
     mb = dict(old.get("musicbrainz") or {})
@@ -2447,6 +2454,8 @@ def main(snapshot: str) -> int:
     SCORINGS.clear()
     SCORINGS.update(scorings)
     scoring = " ".join(scorings.get(b, "") for b in bwvs) if data.get("mode") == "ensemble" else None
+    SNAPSHOT_BWVS.clear()
+    SNAPSHOT_BWVS.update(bwvs)
     moves = movement_names()
     missing = [b for b in bwvs if b not in moves]
     if missing:
