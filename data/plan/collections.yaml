@@ -13,9 +13,11 @@
 #   native    chamber mode only: the solo part's instruments, the written one first
 #   mb_parent MusicBrainz parent work, when there is one; otherwise works are found by BWV number
 #   mb_works  {BWV number: MusicBrainz work id} for works the search finds in the wrong version (run 26)
+#   cache_from another collector state to start from when this collection has none (the Church Cantatas parts)
 #   variants  versions with their own BWV letter, collected as works of their own (243a)
 #   wave      1 = instrumental, existing pipeline; 2 = needs the vocal mode; 3 = long tail
-#   run       the scheduled run that collects it (runs go in order; small collections share a run)
+#   run       the scheduled run that collects it (runs go in order; small collections share a run; a collection
+#             too big for one run is split into parts with the same title, which the shelf shows as one volume)
 #   status    done | todo | queued (for the GitHub collector) | collected | imported
 #   note      anything a run must know
 
@@ -91,8 +93,16 @@ collections:
 - {id: secular-cantatas, title: "Secular Cantatas", chapter: Cantatas, bwv: ["201-216"], mode: vocal,
    mb_works: {"210": 0e61d05d-2b28-44c8-8395-01b049abe2e9, "216": 58127ac4-8d1d-4f8b-b774-a933ebb24b5a}, wave: 2, run: 26, status: queued,
    note: "Coffee Cantata (211), Peasant Cantata (212), Hunting Cantata (208). Run 26 imported 201–209 and 211–215 from the 26 Nov 2026 snapshot; the collector had kept the BWV³ versions 210.1 (O angenehme Melodei) and 216.2 (Erwählte Pleißenstadt), so mb_works pins O holder Tag (210) and Vergnügte Pleißenstadt (216.1) and the collection is collected again. Remove SKIP_WORKS_BY_SNAPSHOT['secular-cantatas'] in the importer when the new snapshot is imported"}
-- {id: church-cantatas, title: "Church Cantatas", chapter: Cantatas, bwv: ["1-10", "12-117", "119-200", "217-224"], mode: vocal, wave: 2, run: [27, 28, 29, 30], status: queued,
-   note: "Too big for one run: run 27 takes 1–50, 28 takes 51–100, 29 takes 101–150, 30 takes 151–200 and 217–224 (doubtful). Complete cycles (Rilling, Leusink, Koopman, Suzuki, Gardiner, Harnoncourt/Leonhardt) dominate"}
+# The Church Cantatas are one volume on the shelf but too big for one run: four parts with the same title, each
+# collected and imported by its own run (decided 27 Nov 2026). The parts share the collector's MusicBrainz cache
+# (`cache_from`), which already holds what the 27 Nov collection of the whole set fetched.
+- {id: church-cantatas-1, title: "Church Cantatas", chapter: Cantatas, bwv: ["1-10", "12-50"], mode: vocal, cache_from: church-cantatas, wave: 2, run: 27, status: queued,
+   note: "Complete cycles (Rilling, Leusink, Koopman, Suzuki, Gardiner, Harnoncourt/Leonhardt) dominate; BWV 11 is the Ascension Oratorio (oratorios)"}
+- {id: church-cantatas-2, title: "Church Cantatas", chapter: Cantatas, bwv: ["51-100"], mode: vocal, cache_from: church-cantatas, wave: 2, run: 28, status: todo}
+- {id: church-cantatas-3, title: "Church Cantatas", chapter: Cantatas, bwv: ["101-117", "119-150"], mode: vocal, cache_from: church-cantatas, wave: 2, run: 29, status: todo,
+   note: "BWV 118 is with the Motets"}
+- {id: church-cantatas-4, title: "Church Cantatas", chapter: Cantatas, bwv: ["151-200", "217-224"], mode: vocal, cache_from: church-cantatas, wave: 2, run: 30, status: todo,
+   note: "217–224 are doubtful"}
 
 # ── Wave 3: the long tail ────────────────────────────────────────────────────────────────
 - {id: kirnberger, title: "Kirnberger Chorale Preludes", chapter: Organ, bwv: ["690-713"], mode: organ, wave: 3, run: 31, status: todo}
