@@ -343,12 +343,21 @@ JOIN_BY_RELEASE = {
   # Run 25: the collector also splits a disc of motets or missae breves into one row per work.
   "motets": "the collector splits a recorded set into one row per motet, and the continuo or instruments into other rows",
   "missae-breves": "choruses and arias have different line-ups, and a set of masses is split into one row per work",
+  # Run 26: a disc of secular cantatas (Coffee and Peasant on one release) is split into one row per cantata.
+  "secular-cantatas": "choruses, recitatives and arias have different line-ups, and a disc of cantatas is split into one row per work",
 }
 # Chamber sets the collector splits by line-up (the solo partita, the sonatas with keyboard, the continuo sonatas
 # with a cellist or gambist added): rows on the same release, with the same recording years and the same solo
 # player, are one performance.
 # Rows on one release that JOIN_BY_RELEASE must not fold in: a reissue that couples two performances with the
 # same conductor (run 25: two Rilling missae on one undated disc).
+# Works in a snapshot that are not imported, per snapshot, with the reason (see main()).
+SKIP_WORKS_BY_SNAPSHOT: dict[str, dict[str, str]] = {
+    "secular-cantatas": {
+        "210": "the collector took 'O angenehme Melodei, BWV 210.1' (BWV 210a) instead of 'Kantate, BWV 210 \"O holder Tag, erwünschte Zeit\"' (run 26); collected again with the plan's mb_works",
+        "216": "the collector took 'Erwählte Pleißenstadt, BWV 216.2' (BWV 216a) instead of 'Vergnügte Pleißenstadt, BWV 216.1', which is BWV 216 (run 26); collected again with the plan's mb_works",
+    },
+}
 NO_JOIN_BY_SNAPSHOT: dict[str, dict[str, str]] = {}
 NO_JOIN: set[str] = set()
 JOIN_BY_PLAYER_RELEASE = {
@@ -1615,9 +1624,11 @@ PERIOD_ENSEMBLE = re.compile(
     r"balthasar.neumann|kleine konzert|chapelle harmonique|solomon.s knot|pygmalion|gli angeli gen|la cetra|bach-stiftung|"
     # Run 23 (checker): period groups the Passions turned up.
     r"akad.mia\b|chapelle rh.nane|grande .curie|agr.mens|smithsonian chamber|collegium cartusianum|das neue orchester|"
-    r"van diemen|pulcinella|op.ra royal|ensemble vanitas", re.I)
+    r"van diemen|pulcinella|op.ra royal|ensemble vanitas|"
+    # Run 26: period groups the Secular Cantatas turned up.
+    r"collegium 1704|parley of instruments|m.sicos do tejo|cappella coloniensis", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
-MODERN_ENSEMBLE = re.compile(r"m.nchener bach|kammerakademie potsdam|zurich baroque ensemble|^baroque chamber orchestra|"
+MODERN_ENSEMBLE = re.compile(r"m.nchener bach|amsterdam chamber orchestra|kammerakademie potsdam|zurich baroque ensemble|^baroque chamber orchestra|"
                              r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra|"
                              r"new bach collegium|neues bachisches|deutsche kammerakademie neuss|bach.collegium (stuttgart|m.nchen)", re.I)
 # Credits or names that mean the music was arranged for other forces (jazz trio, brass band, synthesizer …).
@@ -1691,6 +1702,91 @@ class Flow(list):
 
 class FlowDict(dict):
     """A mapping written in YAML flow style: { a: 1 }."""
+
+
+# Run 26: the Secular Cantatas (BWV 201-209, 211-215; 210 and 216 wait for a new collection, see SKIP_WORKS_BY_SNAPSHOT).
+EXCLUDE_BY_SNAPSHOT["secular-cantatas"] = {
+    "2d521c23-0729-48a3-929b-cb776ab83e32": "Rademann's Weihnachtsoratorium: 'Jauchzet, frohlocket' (BWV 248 No. 1) linked to the chorus of BWV 214 it parodies",
+    "3a21bfab-482c-4233-8438-fdbb443d4a86": "Classical Christmas (Universitätschor Leipzig, Pommer): 'Jauchzet, frohlocket' from the Christmas Oratorio linked to the chorus of BWV 214 it parodies",
+}
+_R26 = "the same performers and recording year on another issue of the disc (run 26)"
+JOIN_BY_SNAPSHOT["secular-cantatas"] = {
+    "e4555e90-ddb5-4b28-bd5c-8f6bac1a1be4": ("1112d187-42ce-499c-a674-1400c8b21a44", "Hogwood's Coffee and Peasant Cantatas (1986), the Peasant Cantata: " + _R26),
+    "944957c0-48b1-449b-bfdc-11a67fb48ae9": ("fef7def6-d304-4f4b-a7be-8f77867c42dc", "Ameling and Marriner (1972), BWV 209 with their BWV 202: " + _R26),
+    "5ac39cd1-673f-43fe-9066-8833c6fa6d8c": ("0332565f-b073-45b6-bed8-055892e42331", "Harnoncourt's Bauern- und Kaffee-Kantate (1967), the Peasant Cantata: " + _R26),
+    "a220e546-4d24-44f1-980b-3223b06dd272": ("0332565f-b073-45b6-bed8-055892e42331", "Harnoncourt's 1967 Coffee Cantata on Bach 2000, credited to the Leonhardt-Consort (Leonhardt plays the harpsichord): " + _R26),
+    "5a0a2206-d4d9-407a-8c5c-4fd21aa3eb47": ("20d2355b-be50-4e43-93f1-47ff4eed352c", "Harnoncourt's Hunting and Peasant Cantatas (1988), the choruses credited to the Arnold Schoenberg Chor: " + _R26),
+    "79c6e6bd-ea68-4b36-88b9-3bb12281e37e": ("20d2355b-be50-4e43-93f1-47ff4eed352c", "Harnoncourt's 1988 Hunting and Peasant Cantatas reissued in 2008 (Blasi, Holl): " + _R26),
+    "ca400645-182f-4a38-928d-c477d294bd7e": ("20d2355b-be50-4e43-93f1-47ff4eed352c", "Harnoncourt's 1988 Hunting and Peasant Cantatas reissued in 2008 (Blasi, Holl): " + _R26),
+    "197c7854-f96a-43cc-aca9-a8155a9e85d0": ("4916fd47-2b40-45f1-9828-dddd1a863f43", "Harnoncourt's Aeolus (1983), the choruses credited to the Arnold Schoenberg Chor: " + _R26),
+    "1aef80ac-8cf7-4384-b726-bb9374462853": ("c4e6f001-f3e8-4a26-99ce-98f4f1fac3ff", "Leonhardt's Philips disc of BWV 211 and 213 with the OAE (1994), the Coffee Cantata on another issue: " + _R26),
+    "0eb646a8-4b59-479c-a161-f04c1d4737a9": ("c4e6f001-f3e8-4a26-99ce-98f4f1fac3ff", "Leonhardt's Philips disc of BWV 211 and 213 with the OAE (1994), Hercules auf dem Scheidewege: " + _R26),
+    "bcd749f2-e8d3-411a-8f58-0d19b86eaa2f": ("6ec96821-ef8c-441c-bd50-a0f40d3634b1", "Argenta and Sonnerie's BWV 202 (1993) reissued on In the Nursery: Music for My Baby 2, the original recording, not an arrangement: " + _R26),
+}
+OVERRIDE_BY_SNAPSHOT["secular-cantatas"] = {
+    "47a43f22-4230-45f6-af14-ef51a43ab9b7": ({"arrangement": True},
+        "Bach für Kinder: Marko Simsa's children's programme with narration and song"),
+    "55f65b74-9d24-4b2b-adf2-c1f0f0c9724c": ({"years": [], "notes": "MusicBrainz dates this recording 1967, before Musica Antiqua Köln was founded (1973); the real year is not known."},
+        "Goebel's BWV 207 with Ex Tempore: the 1967 date in MusicBrainz is impossible, so the year is left for a contributor"),
+}
+
+
+_C26 = "(checker, run 26)"
+EXCLUDE_BY_SNAPSHOT["secular-cantatas"].update({
+    "dd9764cf-3c68-47ff-bc2c-51e97514ef4c": "Pommer's Die Bach-Trompete (1984): the Christmas Oratorio's opening chorus, on the same release, year and place as his BWV 248 tracks, linked to the chorus of BWV 214 it parodies " + _C26,
+    "f5d3f835-4f2b-4b8f-a09e-b7675f9057f0": "Schiersteiner Kantorei on Klangraum: a lone opening chorus with an oratorio cast on a church-choir anthology, the Christmas Oratorio's 'Jauchzet, frohlocket' linked to BWV 214 " + _C26,
+})
+JOIN_BY_SNAPSHOT["secular-cantatas"].update({
+    "88bece97-55ea-440c-a105-cc08cc48aa29": ("f2e16406-ccb0-49b1-b8f9-4b4b56a0c32b", "Rieu's Telefunken Cantatas BWV 206 & 208, the Hunting Cantata on a reissue " + _C26),
+    "0f58a115-ec1a-4dc8-a6e8-3f2a0306e4dc": ("12d492c7-1933-4344-b565-466e91c4d74e", "Schreier's BWV 213 choruses on Die Grössten Chorwerke " + _C26),
+    "c7629a2d-ae3a-470e-a66a-b0aff30a0731": ("e898be12-95d5-47cb-9618-bf600dd0bfeb", "Schreier's BWV 214 choruses on Die Grössten Chorwerke " + _C26),
+    "eb06c831-1f39-4dac-bb3f-45400bd4301d": ("e445cc0e-2b16-4adb-98d1-8f77100df909", "Augér's 'Schafe können sicher weiden' from Schreier's Hunting Cantata (1976) on a compilation " + _C26),
+    "4ef33d9d-3de4-4b3d-b6fd-dfe011720336": ("0c7c5642-b4b0-446d-90c8-65fe2177fc38", "Ewerhart's 1966 Wedding and Peasant Cantatas with Buckel and Ocker: one disc " + _C26),
+    "cdd35aef-0e22-46de-aef5-58ecb0c0fed2": ("50d853bf-15b3-4537-879b-d73d77c0efd5", "Battle, Perlman and Nelson's DG Arias (1989-90): one album " + _C26),
+    "eba0ed09-4929-44f2-b6f4-67bb7cd249b9": ("8b1a7137-923d-403a-8d29-f08280ae4e52", "Wunderlich's tenor numbers from Forster's 1961 Hunting Cantata on an EMI compilation " + _C26),
+})
+_BCJ26 = "Suzuki is credited twice, in Latin and Japanese script, and sometimes only as performer (as in runs 24-25) " + _C26
+OVERRIDE_BY_SNAPSHOT["secular-cantatas"].update({
+    "94c1e9fc-e8c1-4d8d-96c6-d9fc05bfa6f8": ({"performers": [{"name": "Bach Collegium Japan", "role": "ensemble"}, {"name": "Masaaki Suzuki", "role": "conductor"}, {"name": "Stephan Schreckenberger", "role": "performer"}, {"name": "Carolyn Sampson", "role": "performer"}, {"name": "Makoto Sakurada", "role": "tenor"}]}, _BCJ26),
+    "6dd4c0cf-99f4-4746-8809-758666e56a64": ({"performers": [{"name": "Bach Collegium Japan", "role": "orchestra"}, {"name": "Bach Collegium Japan Chorus", "role": "choir"}, {"name": "Masaaki Suzuki", "role": "conductor"}, {"name": "Sophie Junker", "role": "soprano"}, {"name": "Makoto Sakurada", "role": "performer"}, {"name": "Roderick Williams", "role": "performer"}, {"name": "Joanne Lunn", "role": "performer"}]}, _BCJ26),
+    "60c1a4aa-5a5e-47dd-a90f-aaeca334bac6": ({"performers": [{"name": "Bach Collegium Japan", "role": "ensemble"}, {"name": "Joanne Lunn", "role": "soprano"}, {"name": "Masaaki Suzuki", "role": "conductor"}]}, _BCJ26),
+    "0bf7cf24-54d5-4d7d-9239-86111dd4fd08": ({"performers": [{"name": "Bach Collegium Japan", "role": "ensemble"}, {"name": "Masaaki Suzuki", "role": "conductor"}, {"name": "Roderick Williams", "role": "performer"}, {"name": "Joanne Lunn", "role": "performer"}, {"name": "Wolfram Lattke", "role": "performer"}, {"name": "Robin Blaze", "role": "performer"}]}, _BCJ26),
+    "be29cb36-f498-4936-8d41-51f1d9702883": ({"performers": [{"name": "Bach Collegium Japan", "role": "orchestra"}, {"name": "Masaaki Suzuki", "role": "conductor"}, {"name": "Makoto Sakurada", "role": "performer"}, {"name": "Robin Blaze", "role": "performer"}, {"name": "Joanne Lunn", "role": "performer"}, {"name": "Dominik Wörner", "role": "performer"}]}, _BCJ26),
+    "8bbca03e-c8aa-4b58-994f-91d40bbba7bc": ({"performers": [{"name": "Bach Collegium Japan", "role": "ensemble"}, {"name": "Masaaki Suzuki", "role": "conductor"}]}, _BCJ26),
+    "6fb6019d-f0cb-4841-93f3-6c6c087a221c": ({"performers": [{"name": "Bach Collegium Japan", "role": "orchestra"}, {"name": "Masaaki Suzuki", "role": "conductor"}]}, _BCJ26),
+    "75c24470-dc76-4e20-81a5-1ba40248d2fd": ({"performers": [{"name": "Bach Collegium Japan", "role": "ensemble"}, {"name": "Masaaki Suzuki", "role": "conductor"}]}, _BCJ26),
+    "87e2225b-4eff-4014-97bf-b64196474f3e": ({"performers": [{"name": "Bach Collegium Japan", "role": "orchestra"}, {"name": "Carolyn Sampson", "role": "soprano"}, {"name": "Masaaki Suzuki", "role": "conductor"}]}, _BCJ26),
+    "b7311a2c-7273-4232-a3b2-988ec93c53c1": ({"performers": [{"name": "Il Gardellino", "role": "orchestra"}, {"name": "Dominik Wörner", "role": "bass"}, {"name": "Ryo Terakado", "role": "conductor"}]}, 'Ryo Terakado is credited twice, in Latin and Japanese script' + " " + _C26),
+    "6e0716b7-df47-4521-98cc-5dcefc45ae22": ({"performers": [{"name": "Collegium 1704", "role": "orchestra"}, {"name": "Martina Janková", "role": "soprano"}, {"name": "Václav Luks", "role": "conductor"}]}, 'Václav Luks is credited twice, once without accents' + " " + _C26),
+    "60d8ca3c-0b00-4262-b23e-36d75d7fa714": ({"performers": [{"name": "Felix Prohaska", "role": "conductor"}, {"name": "Anny Felbermayer", "role": "soprano"}]}, "The Bach Guild is Vanguard's label, not an orchestra" + " " + _C26),
+    "f2b597ba-982e-4a25-9370-c69c8f12210c": ({"performers": [{"name": "Orchester der Wiener Staatsoper", "role": "orchestra"}, {"name": "Anton Heiller", "role": "conductor"}]}, "The Bach Guild is Vanguard's label, not an orchestra" + " " + _C26),
+    "df743fc0-1ee5-4712-9fdb-5c30c33af6e0": ({"performers": [{"name": "Koninklijk Concertgebouworkest", "role": "orchestra"}, {"name": "Elisabeth Schwarzkopf", "role": "soprano"}, {"name": "Otto Klemperer", "role": "conductor"}]}, "Klemperer's 1957 BWV 202 with Schwarzkopf: Ameling and Jochum come from other tracks of the box" + " " + _C26),
+    "a6b6cc64-454f-4a24-823b-4ef78e44fd63": ({"performers": [{"name": "English Chamber Orchestra", "role": "orchestra"}, {"name": "Elly Ameling", "role": "soprano"}, {"name": "William Bennett", "role": "flute"}, {"name": "Raymond Leppard", "role": "conductor"}]}, "Ameling and Leppard's BWV 209 has no choir: London Voices and their director come from other tracks of the box" + " " + _C26),
+    "d0ff41b3-4da8-4d34-9239-4c0b954e3e3f": ({"performers": [{"name": "Akademie für Alte Musik Berlin", "role": "orchestra"}, {"name": "René Jacobs", "role": "conductor"}, {"name": "Andreas Scholl", "role": "countertenor"}, {"name": "RIAS Kammerchor", "role": "choir"}]}, "Andreas Scholl is a countertenor, not a choir " + _C26),
+    "3f46a9ae-235b-4772-a13f-7275e19ab3ba": ({"performers": [{"name": "Danielle de Niese", "role": "soprano"}, {"name": "The English Concert", "role": "orchestra"},
+        {"name": "Harry Bicket", "role": "conductor"}], "performance_practice": "historical"},
+        "Beauty of the Baroque was recorded with The English Concert under Harry Bicket; the row credits only the singer " + _C26),
+    "98f9f54e-cd25-410f-b5b9-8d54ee875cef": ({"performers": [{"name": "Nina Dorliak", "role": "soprano"}, {"name": "Sviatoslav Richter", "role": "piano"}], "arrangement": True},
+        "Dorliak sings the aria with Richter at the piano in place of the orchestra (as run 24's piano-accompanied arias) " + _C26),
+    "f5e5dd6a-e47d-48fa-b805-c7fffc0b921e": ({"performers": [{"name": "Jean-Pierre Rampal", "role": "flute"}]},
+        "Rampal plays the flute in the Sinfonia of BWV 209 " + _C26),
+    "4d7ece10-7b78-44cc-b9dc-b22b796943b4": ({"arrangement": True},
+        "The Plymouth Trio: a trio cannot play 'Sich üben im Lieben' in Bach's scoring (soprano, oboe, strings, continuo) " + _C26),
+    "06b649f3-690e-4a64-a70d-6c9e09ceb349": ({"performance_practice": "historical"},
+        "Rifkin's Bach Ensemble plays period instruments (the-bach-ensemble-1981 is filed historical) " + _C26),
+    "a8658abe-57c6-4548-a7a8-31ed718201bb": ({"performance_practice": "historical"},
+        "Amore traditore with Benjamin Alard at the harpsichord in his complete keyboard series " + _C26),
+    "17b4e103-270d-471b-ba9e-d353935f9060": ({"notes": "Live recording. One track linked to the whole of BWV 214 on a sampler; it may be a Christmas Oratorio chorus ('Jauchzet, frohlocket') rather than this cantata. Not checked: flagged for a contributor."},
+        "Koopman's live Melk track: possibly the Christmas Oratorio; flagged " + _C26),
+    "5b82a625-db44-42d3-8ac4-22577df4132c": ({"notes": "'Schlafe, mein Liebster' shares its opening with the Christmas Oratorio's No. 19 ('… genieße der Ruh'); which of the two this track is has not been checked."},
+        "Sabadus's arias album: possibly the Christmas Oratorio aria; flagged " + _C26),
+    "68736a61-54bd-44f1-8e01-5a535b07107c": ({"notes": "'Schlafe, mein Liebster' shares its opening with the Christmas Oratorio's No. 19 ('… genieße der Ruh'); which of the two this track is has not been checked."},
+        "Rydén's arias: possibly the Christmas Oratorio aria; flagged " + _C26),
+    "c45a2566-8528-4e9b-aa3b-a55a8035b64c": ({"notes": "Linked to the whole work on a narrated programme, so probably a selection. The artist credit names Günter Kehr and the Mainz Chamber Orchestra, the track relationships Helmuth Rilling and the Bach-Collegium Stuttgart: which performance this is has not been checked."},
+        "The Story of Bach in Words and Music: conflicting credits; flagged " + _C26),
+    "03222585-6362-4949-b6a6-14c041edccea": ({"notes": "The artist credit of the BWV 209 track names Helmuth Rilling, its relationships Rudolf Ewerhart (with Helmut Steinkraus, flute); not checked."},
+        "Ewerhart/Rilling credit conflict on BWV 209; flagged " + _C26),
+})
 
 
 def _dumper():
@@ -2324,6 +2420,18 @@ def main(snapshot: str) -> int:
     if isinstance(data, list):
         data = {"works": CELLO_SUITES, "native": CELLO_FAMILY, "rows": data}
     bwvs, native, rows = data["works"], set(data["native"]), data["rows"]
+    # Works the collector took from the wrong MusicBrainz work (run 26: the BWV³ version 210.1, O angenehme
+    # Melodei, for BWV 210, O holder Tag; 216.2, Erwählte Pleißenstadt, for BWV 216, Vergnügte Pleißenstadt) are
+    # left out of the snapshot until it is collected again: their mask is dropped, and a row that plays nothing
+    # else is skipped.
+    drop = SKIP_WORKS_BY_SNAPSHOT.get(Path(snapshot).stem.removeprefix("musicbrainz-"), {})
+    if drop:
+        keep_i = [i for i, b in enumerate(bwvs) if b not in drop]
+        rows = [{**c, "m": ",".join(c["m"].split(",")[i] for i in keep_i)} for c in rows]
+        n0 = len(rows)
+        rows = [c for c in rows if any(x != "0" for x in c["m"].split(","))]
+        bwvs = [bwvs[i] for i in keep_i]
+        print(f"BWV {', '.join(drop)} left out (SKIP_WORKS_BY_SNAPSHOT): {n0 - len(rows)} rows playing only them skipped")
     native |= set(NATIVE_EXTRA_BY_SNAPSHOT.get(Path(snapshot).stem.removeprefix("musicbrainz-"), ([], ""))[0])
     # Importer mode (docs/catalogue-plan.md): older snapshots have none; "ensemble" was then the native list.
     mode = data.get("mode") or ("ensemble" if "ensemble" in native else "classic")

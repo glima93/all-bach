@@ -1,0 +1,43 @@
+id: musica-antiqua-koln-undated
+performers:
+- name: Musica Antiqua Köln
+  role: orchestra
+- name: Ex Tempore
+  role: choir
+- name: Reinhard Goebel
+  role: conductor
+- name: Christoph Genz
+  role: tenor
+- name: Dorothea Röschmann
+  role: performer
+- name: Hans-Georg Wimmer
+  role: performer
+- name: Axel Köhler
+  role: performer
+- name: Florian Heyerick
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Deutschlandfunk Kammermusiksaal
+released: 1999
+original_label: null
+works:
+- {bwv: '207', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: MusicBrainz dates this recording 1967, before Musica Antiqua Köln was founded (1973); the real year is not
+  known.
+musicbrainz:
+  artist: 16f26d89-eabf-46fd-9786-4b66bb9a2302
+  recordings: [55f65b74-9d24-4b2b-adf2-c1f0f0c9724c, c437f18f-b4f6-4189-b63f-23fe2f86a821]

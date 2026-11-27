@@ -1,0 +1,31 @@
+id: academy-of-st-martin-in-the-fields-1972
+performers:
+- name: Academy of St Martin in the Fields
+  role: orchestra
+- name: Elly Ameling
+  role: soprano
+- name: Sir Neville Marriner
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972]
+  place: Kingsway Hall
+released: 2024
+original_label: null
+works:
+- {bwv: '202', complete: true}
+- {bwv: '209', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3c524c08-1d14-47b1-9872-37d1659971f6
+  title: Sir Neville Marriner Conducts Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: f0ac992d-edd9-4672-ac23-ba0ca93f6539
+  recordings: [944957c0-48b1-449b-bfdc-11a67fb48ae9, fef7def6-d304-4f4b-a7be-8f77867c42dc]

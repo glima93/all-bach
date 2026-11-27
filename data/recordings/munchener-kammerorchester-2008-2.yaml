@@ -1,0 +1,39 @@
+id: munchener-kammerorchester-2008-2
+performers:
+- name: Münchener Kammerorchester
+  role: orchestra
+- name: Alexander Liebreich
+  role: conductor
+- name: Rosario Conte
+  role: theorbo
+- name: Kristin von der Goltz
+  role: cello
+- name: Hilary Hahn
+  role: violin
+- name: 北谷直樹
+  role: harpsichord
+- name: Christine Schäfer
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2008]
+  place: Himmelfahrtskirche
+released: 2010
+original_label: null
+works:
+- {bwv: '204', complete: false, movements: [IV. Aria (Sopran) "Die Schätzbarkeit der weiten Erden"]}
+- {bwv: '205', complete: false, movements: [IX. Aria (Sopran) "Angenehmer Zephyrus"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/893fc1cf-7e80-4609-aac0-965f3b8472f9
+  title: Violin and Voice
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6cd8706c-2bf1-4406-8377-187136acb110
+  recordings: [3404cfd8-530b-466d-a167-8f399aea02cc, c9347408-a5c3-4935-a88a-9e834128dff4]

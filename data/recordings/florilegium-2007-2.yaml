@@ -1,0 +1,28 @@
+id: florilegium-2007-2
+performers:
+- name: Florilegium
+  role: orchestra
+- name: Lucy Crowe
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: St Michael’s Church
+released: 2008
+original_label: null
+works:
+- {bwv: '209', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99d6b86f-b931-4c17-b4fe-dbc6808eb12c
+  title: 'Bach & Telemann: Non sa che dolore; Triple Concerto; Concerto in A major'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: a6b7a55b-d3ff-4461-b817-58cc6f24de09
+  recordings: [c73f6ba1-48b6-498b-95c3-b77395fb4d38]

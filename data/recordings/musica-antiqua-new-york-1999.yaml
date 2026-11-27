@@ -1,0 +1,31 @@
+id: musica-antiqua-new-york-1999
+performers:
+- name: Musica Antiqua New York
+  role: orchestra
+- name: Kristin Norderval
+  role: soprano
+- name: Mary Jane Newman
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '202', complete: false, movements: ['I. Aria "Weichet nur, betrübte Schatten"', IX. Gavotte "Sehet in Zufriedenheit"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/643d34b1-5d9b-473b-a519-7b9ac2af63b6
+  title: Wedding Favorites
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6eac6c5f-f877-47d8-b7f5-7c5dc1272d17
+  recordings: [9e6a22d3-c65a-4168-8ce5-d4892c336f9d]

@@ -1,0 +1,40 @@
+id: failoni-chamber-orchestra-undated
+performers:
+- name: Failoni Chamber Orchestra
+  role: orchestra
+- name: Mátyás Antal
+  role: conductor
+- name: Ingrid Kertesi
+  role: soprano
+- name: József Mukk
+  role: tenor
+- name: István Gáti
+  role: performer
+- name: Failoni Kamarazenekar
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '211', complete: true}
+- {bwv: '212', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/80b8755b-b01e-4ac9-ac76-01a907cd8f80
+  title: 'Life and Works: Johann Sebastian Bach'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 2111f157-909f-4bcd-bc8e-c2af050d4a08
+  recordings: [197a0e98-de69-40fc-92dc-42d40bb19a7b, 3af3dece-1703-4b8f-a96b-0dc7a2cc3447]

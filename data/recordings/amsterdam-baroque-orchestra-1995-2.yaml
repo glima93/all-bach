@@ -1,0 +1,38 @@
+id: amsterdam-baroque-orchestra-1995-2
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Ton Koopman
+  role: conductor
+- name: Elisabeth von Magnus
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: Waalse Kerk
+released: 1996
+original_label: null
+works:
+- {bwv: '208', complete: false, movements: ['I. Recitativo (Sopran I) “Was mir behagt, ist nur die muntre Jagd!”',
+    II. Aria (Sopran I) “Jagen ist die Lust der Götter”, 'III. Recitativo (Tenor) “Wie? Schönste Göttin! Wie?”',
+    IV. Aria (Tenor) “Willst du dich nicht mehr ergötzen”, 'V. Recitativo (Sopran I, Tenor) “Ich liebe dich zwar
+      noch!”', 'VI. Recitativo (Bass) “Ich, der ich sonst ein Gott in diesen Feldern bin”', 'VIII. Recitativo (Sopran
+      II) “Soll denn der Pales Opfer hier das letzte sein?”', IX. Aria (Sopran II) “Schafe können sicher weiden”,
+    X. Recitativo (Sopran I) “So stimmt mit ein”, 'XI. Chorus (Aria a 4) “Lebe, Sonne dieser Erden”', 'XII. Duetto
+      (Sopran I, Tenor) “Entzücket uns beide”', XIII. Aria (Sopran II) “Weil die wollenreichen Herden”, 'XIV. Aria
+      (Bass) “Ihr Felder und Auen, laßt grünend euch schauen”', XV. Chorus “Ihr lieblichste Blicke! ihr freudige
+      Stunden”]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5436599d-16f6-436d-8e59-4f0bf4b54da9
+  title: Complete Cantatas, Volume 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [da3fc61c-d1e1-4025-ae54-bd8970eb4b3c]

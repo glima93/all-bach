@@ -1,0 +1,36 @@
+id: amsterdam-chamber-orchestra-1967
+performers:
+- name: Amsterdam Chamber Orchestra
+  role: orchestra
+- name: André Rieu
+  role: conductor
+- name: Irmgard Jacobeit
+  role: performer
+- name: Amsterdams Kamerorkest
+  role: orchestra
+- name: Monteverdi‐Chor Hamburg
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1967]
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '206', complete: true}
+- {bwv: '208', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f17edbf1-8415-4063-ae24-2271f9c499cd
+  recordings: [88bece97-55ea-440c-a105-cc08cc48aa29, f2e16406-ccb0-49b1-b8f9-4b4b56a0c32b]

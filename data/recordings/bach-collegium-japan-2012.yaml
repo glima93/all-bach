@@ -1,0 +1,30 @@
+id: bach-collegium-japan-2012
+performers:
+- name: Bach Collegium Japan
+  role: ensemble
+- name: Joanne Lunn
+  role: soprano
+- name: Masaaki Suzuki
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2012]
+  place: MS & AD Shirakawa Hall
+released: 2013
+original_label: null
+works:
+- {bwv: '202', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cdb078c7-257e-4af0-b238-d6a452247efc
+  title: Secular Cantatas, Volume 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [60c1a4aa-5a5e-47dd-a90f-aaeca334bac6]

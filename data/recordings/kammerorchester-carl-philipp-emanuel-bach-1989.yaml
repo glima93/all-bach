@@ -1,0 +1,35 @@
+id: kammerorchester-carl-philipp-emanuel-bach-1989
+performers:
+- name: Kammerorchester Carl Philipp Emanuel Bach
+  role: orchestra
+- name: Barbara Hendricks
+  role: soprano
+- name: Peter Schreier
+  role: conductor
+- name: Eckart Haupt
+  role: recorder
+- name: Gudrun Jahn
+  role: recorder
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989]
+  place: Jesus‐Christus‐Kirche
+released: 1990
+original_label: null
+works:
+- {bwv: '202', complete: true}
+- {bwv: '208', complete: false, movements: [IX. Aria (Sopran II) “Schafe können sicher weiden”]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a2b0e6ff-d668-46d7-9c7b-1025ad1a802a
+  title: Kantaten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49abd8a6-b063-477e-a27c-661fb0a5feb3
+  recordings: [21e35d68-c1f5-443f-abd8-43569fb712ea, 2d5067e2-530b-4c84-80b4-74f0884fdadd]

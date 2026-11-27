@@ -1,0 +1,38 @@
+id: collegium-musicum-des-wdr-undated
+performers:
+- name: Collegium Musicum des WDR
+  role: orchestra
+- name: Windsbacher Knabenchor
+  role: choir
+- name: Karl-Friedrich Beringer
+  role: conductor
+- name: Paul Elliott
+  role: tenor
+- name: Stephen Varcoe
+  role: performer
+- name: Barbara Schlick
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '215', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/416afbfa-4e56-425e-841e-2c3d3bcc8edc
+  title: 'Kantaten: Preise dein Glücke gesegnetes Sachsen, BWV 215 / Dem Gerechten muss das Licht, BWV 195'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 55e5a4c3-57e7-45e2-b5c3-415a3bb72770
+  recordings: [87e2a8db-6b97-4274-819a-fc29a3f5f1a9, c6e099eb-cc70-4bb6-a2f3-b4add954ac6e]

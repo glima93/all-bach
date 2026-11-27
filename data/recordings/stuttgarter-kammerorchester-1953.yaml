@@ -1,0 +1,31 @@
+id: stuttgarter-kammerorchester-1953
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+- name: Suzanne Danco
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1953]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '202', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a9e7dbe-e33d-4c97-a25b-8614f17fee2d
+  title: Cantatas
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [4243f381-32f3-43d6-8c7f-c0df055af3b8]

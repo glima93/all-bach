@@ -1,0 +1,26 @@
+bwv: "213"
+title: "Laßt uns sorgen, laßt uns wachen"
+key: "F major"
+collection: "Secular Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 2 horns, 2 oboes (also oboe d'amore), strings and continuo"
+composed: "Leipzig, first performed 5 September 1733"
+movements:
+  - "I. Chorus \"Laßt uns sorgen, laßt uns wachen\""
+  - "II. Recitativo (Alt) \"Und wo? Wo ist die rechte Bahn\""
+  - "III. Aria (Sopran) \"Schlafe, mein liebster\""
+  - "IV. Recitativo (Sopran, Tenor) \"Auf! folge meiner Bahn\""
+  - "V. Aria (Alt, Alt) \"Treues Echo dieser Orten\""
+  - "VI. Recitativo (Tenor) \"Mein hoffnungsvoller Held\""
+  - "VII. Aria (Tenor) \"Auf meinen Flügeln sollst du schweben\""
+  - "VIII. Recitativo (Tenor) \"Die weiche Wollust locket zwar\""
+  - "IX. Aria (Alt) \"Ich will dich nicht hören\""
+  - "X. Recitativo (Alt, Tenor) \"Geliebte Tugend, du allein\""
+  - "XI. Aria (Duetto Alt, Tenor) \"Ich bin deine\""
+  - "XII. Recitativo accompagnato (Bass) \"Schaut, Götter, dieses ist ein Bild\""
+  - "XIII. Chorus \"Lust der Völker, Lust der Deinen\""
+notes: "Known as \"Hercules at the Crossroads\" (Hercules auf dem Scheidewege), a dramma per musica by Picander for the eleventh birthday of the Saxon prince Friedrich Christian. Bach reused the opening chorus and most of its arias in the Christmas Oratorio, BWV 248."
+links:
+  wikipedia: null
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/52e05636-af60-4514-a243-78e95d7c207f

@@ -1,0 +1,31 @@
+id: les-violons-du-roy-1994
+performers:
+- name: Les Violons du Roy
+  role: orchestra
+- name: Dorothea Röschmann
+  role: soprano
+- name: Bernard Labadie
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '202', complete: false, movements: [VII. Aria "Sich üben im Lieben"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b7d22e06-fade-4b53-8922-77f8f075181e
+  title: Encore!
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a118464e-b220-41ff-959d-08da62fa39b7
+  recordings: [bb062a60-da44-4380-b4b3-80c22851eaeb]

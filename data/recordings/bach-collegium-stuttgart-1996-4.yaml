@@ -1,0 +1,32 @@
+id: bach-collegium-stuttgart-1996-4
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Christine Schäfer
+  role: performer
+- name: Thomas Quasthoff
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1996]
+  place: Casino Zögernitz
+released: 1999
+original_label: null
+works:
+- {bwv: '212', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/037f6332-d33f-40e5-9d87-861993fac55c
+  title: Secular Cantatas, BWV 212–213
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [459c1875-56f4-4b42-b689-3f3630a55029]

@@ -1,0 +1,33 @@
+id: kammerorchester-basel-undated-4
+performers:
+- name: Kammerorchester Basel
+  role: orchestra
+- name: Nuria Rial
+  role: soprano
+- name: Julia Schröder
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '208', complete: false, movements: [IX. Aria (Sopran II) “Schafe können sicher weiden”]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b9d9d1c5-6099-4748-894c-d80800262592
+  title: Arias
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 717795bb-cd5e-417f-b4c9-27181ad1e8a4
+  recordings: [fda93919-cb80-4d35-9f1e-34290ea126d9]

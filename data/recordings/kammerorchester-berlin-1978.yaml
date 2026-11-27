@@ -1,0 +1,31 @@
+id: kammerorchester-berlin-1978
+performers:
+- name: Kammerorchester Berlin
+  role: orchestra
+- name: Peter Schreier
+  role: conductor
+- name: Berliner Solisten
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978, 1979]
+  place: Studio Christuskirche
+released: 1996
+original_label: null
+works:
+- {bwv: '213', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/52b99ae9-977f-49a3-bac6-b681740f4b59
+  title: 'Weltliche Kantaten: Laßt uns sorgen, laßt uns wachen Bwv 213 / Tonet, ihr Pauken! Erschallet, Trompeten!
+    BWV 214'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f416ff60-3894-4275-af38-f8c96e6a278d
+  recordings: [0f58a115-ec1a-4dc8-a6e8-3f2a0306e4dc, 12d492c7-1933-4344-b565-466e91c4d74e]

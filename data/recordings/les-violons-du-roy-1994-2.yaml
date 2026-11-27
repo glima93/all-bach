@@ -1,0 +1,31 @@
+id: les-violons-du-roy-1994-2
+performers:
+- name: Les Violons du Roy
+  role: orchestra
+- name: Bernard Labadie
+  role: conductor
+- name: Hughes Saint-Gelias
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: Église Saint-Isidore
+released: 1994
+original_label: null
+works:
+- {bwv: '211', complete: true}
+- {bwv: '212', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5affbd70-96fb-4041-9369-dddfc13a0009
+  title: Secular Cantatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a118464e-b220-41ff-959d-08da62fa39b7
+  recordings: [c0160733-7bf2-4c98-94a3-44bab33b7c9b, e95bc1a2-2932-439e-99b8-85c07229e01f]

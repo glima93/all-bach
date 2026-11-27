@@ -1,0 +1,34 @@
+id: akademie-fur-alte-musik-berlin-1994
+performers:
+- name: Akademie für Alte Musik Berlin
+  role: orchestra
+- name: René Jacobs
+  role: conductor
+- name: Andreas Scholl
+  role: countertenor
+- name: RIAS Kammerchor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '205', complete: true}
+- {bwv: '213', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/98a5bd39-e413-414c-9a9b-f69f867d3b97
+  title: Weltliche Kantaten
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ad1b876d-1f4a-4126-8965-7e35076b9962
+  recordings: [ce897c99-fb07-4615-980f-8ba0e9997895, d0ff41b3-4da8-4d34-9239-4c0b954e3e3f]

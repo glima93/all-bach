@@ -1,0 +1,35 @@
+id: linde-consort-1983
+performers:
+- name: Linde Consort
+  role: orchestra
+- name: Hans-Martin Linde
+  role: conductor
+- name: Rosmarie Hofmann
+  role: performer
+- name: Gregory Reinhart
+  role: performer
+- name: Guy de Mey
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1983]
+  place: Landgasthof Riehen
+released: 1996
+original_label: null
+works:
+- {bwv: '211', complete: true}
+- {bwv: '212', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/53fcf4af-4097-4409-8b1f-757e4478471e
+  title: Kaffee-Kantate / Bauern-Kantate
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 10eb2e67-ebab-4306-8bcf-4447bbfef714
+  recordings: [00d9f595-e5a1-4322-b1c9-2f0f7a3f0d9b, aafbf00a-3250-4895-a8f3-401b41bc7dcc]

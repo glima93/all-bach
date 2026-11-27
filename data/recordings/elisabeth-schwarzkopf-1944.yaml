@@ -1,0 +1,27 @@
+id: elisabeth-schwarzkopf-1944
+performers:
+- name: Elisabeth Schwarzkopf
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1944]
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '208', complete: false, movements: [IX. Aria (Sopran II) “Schafe können sicher weiden”]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9c7a9e6a-89e5-4e9d-b816-e42fd5adc334
+  title: Ihre größten Erfolge
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f17aa6af-8d75-4559-b212-b83b9549758e
+  recordings: [191b01ba-c8a7-41a6-844a-6358642a3144]

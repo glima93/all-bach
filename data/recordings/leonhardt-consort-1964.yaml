@@ -1,0 +1,33 @@
+id: leonhardt-consort-1964
+performers:
+- name: Leonhardt‐Consort
+  role: orchestra
+- name: Gustav Leonhardt
+  role: conductor
+- name: Jacques Villisech
+  role: bass
+- name: Frans Vester
+  role: flute
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1964]
+  place: Queekhoven
+released: 1999
+original_label: null
+works:
+- {bwv: '203', complete: true}
+- {bwv: '209', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdcb74c4-2c5f-4d57-a052-b9ae935a3302
+  recordings: [0a2851db-9bf5-4440-ad7b-c368e816db35, 28ee9b8a-df28-4cbc-ba67-787ab3eb452f]

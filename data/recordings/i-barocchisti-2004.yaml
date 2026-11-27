@@ -1,0 +1,36 @@
+id: i-barocchisti-2004
+performers:
+- name: I Barocchisti
+  role: orchestra
+- name: Diego Fasolis
+  role: conductor
+- name: Nancy Argenta
+  role: soprano
+- name: Coro della Radiotelevisione Svizzera
+  role: choir
+- name: Charles Daniels
+  role: tenor
+- name: Claudia Iten
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2004]
+  place: Auditorio Stelio Molo
+released: 2004
+original_label: null
+works:
+- {bwv: '205', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cbb72b18-e434-4973-a7ee-edfdffcd17c4
+  title: Ouvertures per orchestra, BWV 1066-1069 / Cantate, BWV 110 & 205
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 02ff3d27-4ba9-4ebf-bca5-9fb5c54c9b36
+  recordings: [fe2beb4f-17c9-41f9-b4c7-677e2347ae24]

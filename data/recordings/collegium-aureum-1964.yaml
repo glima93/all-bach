@@ -1,0 +1,30 @@
+id: collegium-aureum-1964
+performers:
+- name: Collegium Aureum
+  role: orchestra
+- name: Elly Ameling
+  role: soprano
+- name: Reinhard Peters
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1964]
+  place: Fuggerschloss Kirchheim
+released: 1990
+original_label: null
+works:
+- {bwv: '202', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9b4dea19-d600-4bdd-8a9b-66c973f38940
+  title: Bauern-Kantate / Kaffee-Kantate / Hochzeitskantate / Non Sà Che Sia Dolore
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2cdc12f9-aae5-4b64-a769-6448f2c1c586
+  recordings: [90ccf5d4-0547-444f-9d2d-9df56952c384]

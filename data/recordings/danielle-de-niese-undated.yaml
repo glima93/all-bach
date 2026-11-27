@@ -1,0 +1,33 @@
+id: danielle-de-niese-undated
+performers:
+- name: Danielle de Niese
+  role: soprano
+- name: The English Concert
+  role: orchestra
+- name: Harry Bicket
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2011
+original_label: null
+works:
+- {bwv: '202', complete: false, movements: [VII. Aria "Sich üben im Lieben"]}
+- {bwv: '208', complete: false, movements: [IX. Aria (Sopran II) “Schafe können sicher weiden”]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cec6c680-4fc8-491e-b350-4af391035370
+  title: Beauty of the Baroque
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9d92e90f-2081-4736-bdd2-5fa7a415573e
+  recordings: [3f46a9ae-235b-4772-a13f-7275e19ab3ba, 9dd79b43-dd57-4c53-8f8d-e913c14ebfd8]

@@ -1,0 +1,30 @@
+id: kammerorchester-berlin-1979
+performers:
+- name: Kammerorchester Berlin
+  role: orchestra
+- name: Peter Schreier
+  role: conductor
+- name: Berliner Solisten
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979, 1981]
+  place: Studio Christuskirche
+released: 1995
+original_label: null
+works:
+- {bwv: '201', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/228be5d7-c4e8-4e2c-8cdb-87a8a100535d
+  title: 'Weltliche Kantaten: Geschwinde, ihr wirbelnden Winde: Der Streit zwischen Phoebus und Pan BWV 201'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f416ff60-3894-4275-af38-f8c96e6a278d
+  recordings: [da5d6072-4594-440e-8f4d-1d7f6b8edc38]

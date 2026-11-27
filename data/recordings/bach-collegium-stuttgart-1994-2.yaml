@@ -1,0 +1,30 @@
+id: bach-collegium-stuttgart-1994-2
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: Stadthalle Leonberg
+released: 2000
+original_label: null
+works:
+- {bwv: '206', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a7ba23fa-c45e-4619-acd7-54157405713e
+  title: Secular Cantatas, BWV 206–207
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [5623efcb-b98f-49c9-b1a3-52542a357a05]

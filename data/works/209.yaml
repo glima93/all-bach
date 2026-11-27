@@ -1,0 +1,18 @@
+bwv: "209"
+title: "Non sa che sia dolore"
+key: "B minor"
+collection: "Secular Cantatas"
+genre: cantata
+scoring: "Soprano, flute, strings and continuo"
+composed: null
+movements:
+  - "I. Sinfonia"
+  - "II. Recitativo \"Non sa che sia dolore\""
+  - "III. Aria \"Parti pur e con dolore\""
+  - "IV. Recitativo \"Tuo saver al tempo\""
+  - "V. Aria \"Ricetti gramezza e pavento\""
+notes: "A solo cantata on an anonymous Italian text, apparently a farewell to a departing scholar. Bach's authorship has been questioned."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Non_sa_che_sia_dolore,_BWV_209"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/43fa1a90-7f72-4e45-905f-3d845d500f66

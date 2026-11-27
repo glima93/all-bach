@@ -1,0 +1,32 @@
+id: taverner-players-1981
+performers:
+- name: Taverner Players
+  role: orchestra
+- name: Emma Kirkby
+  role: soprano
+- name: Andrew Parrott
+  role: conductor
+- name: David Reichenberg
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1981]
+  place: St James’s Church, Clerkenwell
+released: 1987
+original_label: null
+works:
+- {bwv: '202', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/89d652c5-a0f8-4190-bc04-8c7a02f1c0c8
+  title: Cantatas 82 & 202
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 64c537f4-fea4-477f-b360-ce81552f7ad6
+  recordings: [3cfd5295-211d-421f-a450-67fbae925b6a]

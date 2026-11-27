@@ -1,0 +1,34 @@
+id: hermitage-museum-orchestra-undated
+performers:
+- name: Hermitage Museum Orchestra
+  role: orchestra
+- name: Catherine Bremen
+  role: soprano
+- name: Pavel Bubelnikov
+  role: conductor
+- name: St. Petersburg Camerata
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '211', complete: false, movements: ['IV. Aria (Sopran) "Ei, wie schmeckt der Coffee süße"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/228e3307-9db8-4873-8a45-55e5e838d9a6
+  title: The 99 Most Essential Baroque Masterpieces
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9e147317-76e7-4e0b-8308-690cca6ddf6a
+  recordings: [3b831e37-2e26-4867-b110-20acc836f4c6]

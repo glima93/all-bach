@@ -1,0 +1,30 @@
+id: new-york-philharmonia-virtuosi-undated-5
+performers:
+- name: New York Philharmonia Virtuosi
+  role: orchestra
+- name: Richard Kapp
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '207', complete: false, movements: ['Anhang: Marche']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2dcf775b-c32d-490f-9229-c10a627900f6
+  title: Greatest Hits - Marches
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 24f7fdaa-f1e0-4fab-ae05-a186137a921a
+  recordings: [44d0aa8f-b930-4d50-9fb0-8900d76798b1]

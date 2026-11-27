@@ -1,0 +1,112 @@
+id: de-nederlandse-bachvereniging-2016-7
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Jos van Veldhoven
+  role: conductor
+- name: Peter Affourtit
+  role: violin
+- name: Benny Aghassi
+  role: bassoon
+- name: Deirdre Dowling
+  role: viola
+- name: Annabelle Ferdinand
+  role: violin
+- name: Robert Franenberg
+  role: double bass
+- name: Peter Frankenberg
+  role: oboe
+- name: Mark Geelen
+  role: trumpet
+- name: Anneke van Haaften
+  role: violin
+- name: Fruzsina Hara
+  role: trumpet
+- name: Siebe Henstra
+  role: harpsichord
+- name: Doretthe Janssens
+  role: flute
+- name: Paulien Kostense
+  role: violin
+- name: Richte van der Meer
+  role: cello
+- name: Marten Root
+  role: flute
+- name: Shunske Sato
+  role: violin
+- name: Martin Stadler
+  role: oboe
+- name: Staas Swierstra
+  role: viola
+- name: Robert Vanryne
+  role: trumpet
+- name: Hanneke Wierenga
+  role: violin
+- name: Peppie Wiersma
+  role: timpani
+- name: Aysha Wills
+  role: flute
+- name: Sayuri Yamagata
+  role: violin
+- name: Matthew Baker
+  role: bass
+- name: Donald Bentvelsen
+  role: bass
+- name: Martijn de Graaf Bierbrauwer
+  role: bass
+- name: Matthew Brook
+  role: bass
+- name: Maarten Engeltjes
+  role: alto
+- name: Elspeth Gerritsen
+  role: alto
+- name: Marleene Goldstein
+  role: alto
+- name: Barnabás Hegyi
+  role: alto
+- name: Thomas Hobbs
+  role: tenor
+- name: Gemma Jansen
+  role: alto
+- name: Maria Keohane
+  role: soprano
+- name: Diederik Rooker
+  role: tenor
+- name: Kevin Skelton
+  role: tenor
+- name: Marjon Strijk
+  role: soprano
+- name: Ronald Threels
+  role: tenor
+- name: Hilde Van Ruymbeke
+  role: soprano
+- name: René Veen
+  role: tenor
+- name: Klaartje van Veldhoven
+  role: soprano
+- name: Orlanda Velez Isidro
+  role: soprano
+- name: Pierre-Guy Le Gall White
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Paushuize
+released: null
+original_label: null
+works:
+- {bwv: '206', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/ccc30959-ed3b-482b-8af5-026f901a5871
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [ccc30959-ed3b-482b-8af5-026f901a5871]

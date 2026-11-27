@@ -1,0 +1,32 @@
+id: kathleen-battle-undated
+performers:
+- name: Kathleen Battle
+  role: soprano
+- name: James Levine
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '202', complete: false, movements: [VI. Recitativo "Und dieses ist das Glücke", VII. Aria "Sich üben im
+      Lieben"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9c018c20-393e-417b-a93f-c9204f4cd4ab
+  title: Tears from Heaven
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7247de86-da8d-4b7d-a48d-04a6cdf1eb79
+  recordings: [2aaf8940-568a-4ac4-8bfc-a5058d06988b]

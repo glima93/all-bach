@@ -1,0 +1,35 @@
+id: ensemble-masques-undated
+performers:
+- name: Ensemble Masques
+  role: ensemble
+- name: Olivier Fortin
+  role: conductor
+- name: Lisandro Abadie
+  role: performer
+- name: Hana Blažíková
+  role: performer
+- name: Reinoud Van Mechelen
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Église luthérienne de Bon Secours
+released: 2019
+original_label: null
+works:
+- {bwv: '211', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a3a6e0a6-8615-4b85-8c09-2f7ac41235aa
+  title: Routes du café
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 86ed2e67-1702-4586-adda-54a41f5aea32
+  recordings: [f08da6bc-2f7f-46ca-9802-68c47082133b]

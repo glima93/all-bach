@@ -1,0 +1,30 @@
+id: dietrich-fischer-dieskau-1960
+performers:
+- name: Dietrich Fischer‐Dieskau
+  role: bass
+- name: Edith Picht‐Axenfeld
+  role: harpsichord
+- name: Irmgard Poppen
+  role: cello
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1960]
+  place: Zehlendorf Studio
+released: 1999
+original_label: null
+works:
+- {bwv: '203', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8009b224-7b27-4c57-a287-f53ec408d439
+  title: Cantatas BWV 158 & 203. Arias & Chorals (Cantatas BWV 8, 13, 73, 123, 157 & 158)
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1bdc5968-3ca3-497f-b0c1-6de471b26b00
+  recordings: [3e508666-b625-42f0-a8b6-af8890dea492]

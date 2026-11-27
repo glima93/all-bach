@@ -1,0 +1,36 @@
+id: kammerorchester-berlin-1976-2
+performers:
+- name: Kammerorchester Berlin
+  role: orchestra
+- name: Berliner Solisten
+  role: ensemble
+- name: Peter Schreier
+  role: conductor
+- name: Arleen Augér
+  role: soprano
+- name: Edith Mathis
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: Studio Christuskirche
+released: 1989
+original_label: null
+works:
+- {bwv: '204', complete: true}
+- {bwv: '208', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ce6b3a73-6902-4810-a588-db6952b4f0e9
+  title: 'Weltliche Kantaten: Was mir behagt, ist nur die muntre Jagd, Jagdkantate BWV 208 / Ich bin in mir vernügt
+    BWV 204'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f416ff60-3894-4275-af38-f8c96e6a278d
+  recordings: [abcd8e6c-07ca-4235-a1fe-235f41ba19cb, e445cc0e-2b16-4adb-98d1-8f77100df909, eb06c831-1f39-4dac-bb3f-45400bd4301d]

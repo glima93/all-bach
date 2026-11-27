@@ -1,0 +1,35 @@
+id: music-from-ravinia-orchestra-1977-2
+performers:
+- name: Music From Ravinia Orchestra
+  role: orchestra
+- name: James Levine
+  role: conductor
+- name: Kathleen Battle
+  role: soprano
+- name: Ravinia Festival Orchestra
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: Medinah Temple
+released: null
+original_label: null
+works:
+- {bwv: '202', complete: false, movements: ['I. Aria "Weichet nur, betrübte Schatten"', II. Recitativo "Die Welt
+      wird wieder neu", III. Aria "Phoebus eilt mit schnellen Pferden", IV. Recitativo "Drum sucht auch Amor sein
+      Vergnügen", V. Aria "Wenn die Frühlingslüfte streichen", VI. Recitativo "Und dieses ist das Glücke", VII.
+      Aria "Sich üben im Lieben", VIII. Recitativo "So sei das Band der keuschen Liebe"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7a90cb23-0167-433b-9411-6613ee46baa0
+  title: Brandenburg Concer 5 & 2, Cantata 202 "Hochzeitding"
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4be6690c-30ad-484f-aab2-f9fa48d7d2fe
+  recordings: [9813a7aa-da25-4b9c-a6c0-b72cde190608]

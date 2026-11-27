@@ -1,0 +1,16 @@
+bwv: "203"
+title: "Amore traditore"
+key: "A minor"
+collection: "Secular Cantatas"
+genre: cantata
+scoring: "Bass, harpsichord and continuo"
+composed: null
+movements:
+  - "I. Aria (Bass) \"Amore traditore\""
+  - "II. Recitativo (Bass) \"Voglio provar\""
+  - "III. Aria (Bass) \"Chi in amore ha nemica la sorte\""
+notes: "A solo cantata on an anonymous Italian text, with an obbligato harpsichord in the final aria. Bach's authorship has been questioned."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Amore_traditore,_BWV_203"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/0ce82b31-b2a4-456d-8697-5334a8f77b01

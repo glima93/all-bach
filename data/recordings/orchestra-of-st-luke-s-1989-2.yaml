@@ -1,0 +1,33 @@
+id: orchestra-of-st-luke-s-1989-2
+performers:
+- name: Orchestra of St. Luke’s
+  role: orchestra
+- name: Kathleen Battle
+  role: soprano
+- name: Itzhak Perlman
+  role: violin
+- name: John Nelson
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989, 1990]
+  place: RCA Studio A
+released: 1991
+original_label: null
+works:
+- {bwv: '202', complete: false, movements: [V. Aria "Wenn die Frühlingslüfte streichen"]}
+- {bwv: '204', complete: false, movements: [IV. Aria (Sopran) "Die Schätzbarkeit der weiten Erden"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f856896-3343-4fc9-b650-3f9d3a472ebc
+  title: Arias
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2dc04707-7cf9-4e9b-8869-6cb5644794b8
+  recordings: [50d853bf-15b3-4537-879b-d73d77c0efd5, cdd35aef-0e22-46de-aef5-58ecb0c0fed2]

@@ -1,0 +1,35 @@
+id: bach-collegium-stuttgart-1998
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Dietrich Henschel
+  role: bass
+- name: Michael Behringer
+  role: harpsichord
+- name: Sibylla Rubens
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: Stadthalle Sindelfingen
+released: 2000
+original_label: null
+works:
+- {bwv: '203', complete: true}
+- {bwv: '204', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85576ad4-ea69-4366-aa44-8b25e8940afc
+  title: Secular Cantatas, BWV 202–204
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [18dba324-0387-4cf9-8796-40931e20f420, d042d43b-8746-4302-925f-53e5cf54c264]

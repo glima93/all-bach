@@ -1,0 +1,31 @@
+id: kammerorchester-berlin-1979-2
+performers:
+- name: Kammerorchester Berlin
+  role: orchestra
+- name: Peter Schreier
+  role: conductor
+- name: Berliner Solisten
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979, 1981]
+  place: Studio Christuskirche
+released: 1996
+original_label: null
+works:
+- {bwv: '206', complete: true}
+- {bwv: '215', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de745482-691a-4b1d-8325-88861c185d48
+  title: 'Weltliche Kantaten: Schleicht, spielende Wellen BWV 206 / Preise dein Glücke, gesegnetes Sachsen'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: f416ff60-3894-4275-af38-f8c96e6a278d
+  recordings: [2addce47-95f7-4e91-9903-cdc12c66e876, fb1f7678-093e-4141-b242-e6ce828f5ad3]
