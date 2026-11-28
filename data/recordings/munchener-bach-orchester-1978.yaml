@@ -1,0 +1,40 @@
+id: munchener-bach-orchester-1978
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Münchener Bach‐Chor
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Trudeliese Schmidt
+  role: alto
+- name: Dietrich Fischer‐Dieskau
+  role: bass
+- name: Peter Schreier
+  role: performer
+- name: Edith Mathis
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1978]
+  place: Herkulessaal
+released: 1994
+original_label: null
+works:
+- {bwv: '5', complete: true}
+- {bwv: '38', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e14db34-175e-48f7-811f-29a0a28df0c5
+  title: 'Kantaten, Vol. 5: Sonntage nach Trinitatis II'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [259b126a-fec5-4bc4-a135-d472ea6ec2fb, 34584afc-dfa7-4beb-af13-3470aafe9f63, 459a1905-2482-4d5f-a40d-0fbff9c1903e,
+    b78dd835-2f9a-418a-a965-71630d32a78a]

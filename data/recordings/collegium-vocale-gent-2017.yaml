@@ -1,0 +1,36 @@
+id: collegium-vocale-gent-2017
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Dorothee Mields
+  role: performer
+- name: Thomas Hobbs
+  role: performer
+- name: Alex Potter
+  role: performer
+- name: Peter Kooij
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Jesus‐Christus‐Kirche
+released: 2018
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/070c3049-e4b4-4d91-99e1-3a3d90cd4b40
+  title: 'Sonn und Schild: Cantatas BWV 4 / 79 / 80'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [1a46825b-63f2-4eea-97fd-a9807021ad11]

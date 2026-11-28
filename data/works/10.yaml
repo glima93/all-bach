@@ -1,0 +1,20 @@
+bwv: "10"
+title: "Meine Seel erhebt den Herren"
+key: "G minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, trumpet, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 2 July 1724 (Visitation)"
+movements:
+  - "I. Coro \"Meine Seel erhebt den Herren\""
+  - "II. Aria (Soprano) \"Herr, der du stark und mächtig bist\""
+  - "III. Recitativo (Tenore) \"Des Höchsten Güt und Treu\""
+  - "IV. Aria (Basso) \"Gewaltige stößt Gott vom Stuhl\""
+  - "V. Duetto e Choral (Alto, tenore) \"Er denket der Barmherzigkeit\""
+  - "VI. Recitativo (Tenore) \"Was Gott den Vätern alter Zeiten\""
+  - "VII. Choral \"Lob und Preis sei Gott dem Vater und dem Sohn\""
+notes: "Part of Bach's chorale cantata cycle 1724–25, known as his \"German Magnificat\": it is based on Luther's German Magnificat and its plainchant tone. The duet with chorale (movement 5) was later arranged for organ as Schübler Chorale BWV 648."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Meine_Seel_erhebt_den_Herren,_BWV_10"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e78b737a-f035-4304-b7a9-6d2fd096b615

@@ -1,0 +1,21 @@
+bwv: "40"
+title: "Darzu ist erschienen der Sohn Gottes"
+key: "F major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (ATB), four-part choir, 2 horns, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 26 December 1723 (Second Day of Christmas)"
+movements:
+  - "I. Coro \"Darzu ist erschienen der Sohn Gottes\""
+  - "II. Recitativo (Tenore) \"Das Wort ward Fleisch\""
+  - "III. Choral \"Die Sünd macht Leid\""
+  - "IV. Aria (Basso) \"Höllische Schlange\""
+  - "V. Recitativo (Alto) \"Die Schlange, so im Paradies\""
+  - "VI. Choral \"Schüttle deinen Kopf und sprich\""
+  - "VII. Aria (Tenore) \"Christenkinder, freuet euch!\""
+  - "VIII. Choral \"Jesu, nimm dich deiner Glieder\""
+notes: "Bach's first Christmas cantata for Leipzig, from his first cycle, on a text by an unknown poet with three chorale stanzas from three different hymns. The opening chorus was later reworked as the \"Cum Sancto Spiritu\" of the Missa in F major, BWV 233."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Darzu_ist_erschienen_der_Sohn_Gottes,_BWV_40"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/1e380596-a222-4eba-845b-a71fba189503

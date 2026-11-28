@@ -1,0 +1,32 @@
+id: orchestra-of-st-luke-s-1989-3
+performers:
+- name: Orchestra of St. Luke’s
+  role: orchestra
+- name: Kathleen Battle
+  role: soprano
+- name: Itzhak Perlman
+  role: violin
+- name: John Nelson
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1989]
+  place: RCA Studio A
+released: 1991
+original_label: null
+works:
+- {bwv: '36', complete: false, movements: ['VII. Aria (Soprano) “Auch mit gedämpften, schwachen Stimmen”']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0f856896-3343-4fc9-b650-3f9d3a472ebc
+  title: Arias
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2dc04707-7cf9-4e9b-8869-6cb5644794b8
+  recordings: [848fc4e5-ec1d-4f56-af21-4fb295733865]

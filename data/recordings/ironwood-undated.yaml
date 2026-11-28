@@ -1,0 +1,30 @@
+id: ironwood-undated
+performers:
+- name: Ironwood
+  role: ensemble
+- name: Diana Doherty
+  role: oboe
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Eugene Goossens Hall, ABC Centre
+released: 2010
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: [I. Sinfonia]}
+- {bwv: '21', complete: false, movements: ['Teil I, I. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e478191d-de7e-4b68-b450-fe934c9e48df
+  title: 'The Bach Album: Concertos for Oboe and Oboe d''amore'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 10cb20ce-e927-4ddc-a406-24d9246a6de1
+  recordings: [2de90b06-523c-4d48-8eba-969bb18ea612, 45e28527-8c92-4900-a079-9e5c8799aea8]

@@ -1,0 +1,36 @@
+id: alia-mens-2021
+performers:
+- name: Alia Mens
+  role: ensemble
+- name: Olivier Spilmont
+  role: conductor
+- name: Thomas Hobbs
+  role: tenor
+- name: William Shelton
+  role: performer
+- name: Élodie Fonnard
+  role: performer
+- name: Romain Bockler
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Église paroissiale catholique Saint-Josse à Montreuil
+released: 2023
+original_label: null
+works:
+- {bwv: '13', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/41e5f5c8-450d-448d-ba4f-5074aaa74614
+  title: Anti-Melancholicus
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: fd20f92e-1a13-4a73-b93f-b1290395f6d9
+  recordings: [b3f1e004-09ba-494c-a099-a224279f789d]

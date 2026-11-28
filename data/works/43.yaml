@@ -1,0 +1,24 @@
+bwv: "43"
+title: "Gott fähret auf mit Jauchzen"
+key: "C major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 3 trumpets, timpani, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 30 May 1726 (Ascension)"
+movements:
+  - "Teil I, I. Coro \"Gott fähret auf mit Jauchzen\""
+  - "Teil I, II. Recitativo (Tenore) \"Es will der Höchste sich ein Siegsgepräng bereiten\""
+  - "Teil I, III. Aria (Tenore) \"Ja tausend mal tausend begleiten den Wagen\""
+  - "Teil I, IV. Recitativo (Soprano) \"Und der Herr, nachdem er mit ihnen geredet hatte\""
+  - "Teil I, V. Aria (Soprano) \"Mein Jesus hat nunmehr\""
+  - "Teil II, VI. Recitativo (Basso) \"Es kommt der Helden Held\""
+  - "Teil II, VII. Aria (Basso) \"Er ists, der ganz allein die Kelter hat getreten\""
+  - "Teil II, VIII. Recitativo (Alto) \"Der Vater hat ihm ja ein ewig Reich bestimmet\""
+  - "Teil II, IX. Aria (Alto) \"Ich sehe schon im Geist\""
+  - "Teil II, X. Recitativo (Soprano) \"Er will mir neben sich die Wohnung zubereiten\""
+  - "Teil II, XI. Choral \"Du Lebensfürst, Herr Jesu Christ\""
+notes: "An Ascension cantata in two parts from Bach's third cycle, on an anonymous text published in Rudolstadt in 1725 and possibly by Duke Ernst Ludwig of Saxe-Meiningen. It closes with stanzas from Johann Rist's \"Du Lebensfürst, Herr Jesu Christ\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Gott_f%C3%A4hret_auf_mit_Jauchzen,_BWV_43"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/c07eb8bc-f65c-447a-a71a-1c086fa46b46

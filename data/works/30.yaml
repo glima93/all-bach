@@ -1,0 +1,25 @@
+bwv: "30"
+title: "Freue dich, erlöste Schar"
+key: "D major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 2 flutes, 2 oboes, oboe d'amore, strings and continuo (3 trumpets and timpani optional in the outer choruses)"
+composed: "Leipzig; first performed on 24 June 1738 (Feast of St. John the Baptist)"
+movements:
+  - "Teil I, I. Coro \"Freue dich, erlöste Schar\""
+  - "Teil I, II. Recitativo (Basso) \"Wir haben Rast\""
+  - "Teil I, III. Aria (Basso) \"Gelobet sei Gott, gelobet sein Name\""
+  - "Teil I, IV. Recitativo (Alto) \"Der Herold kömmt und meldt den König an\""
+  - "Teil I, V. Aria (Alto) \"Kommt, ihr angefochtnen Sünder\""
+  - "Teil I, VI. Choral \"Eine Stimme lässt sich hören\""
+  - "Teil II, VII. Recitativo (Basso) \"So bist du denn, mein Heil, bedacht\""
+  - "Teil II, VIII. Aria (Basso) \"Ich will nun hassen\""
+  - "Teil II, IX. Recitativo (Soprano) \"Und obwohl sonst der Unbestand\""
+  - "Teil II, X. Aria (Soprano) \"Eilt, ihr Stunden, kommt herbei\""
+  - "Teil II, XI. Recitativo (Tenore) \"Geduld, der angenehme Tag\""
+  - "Teil II, XII. Coro \"Freue dich, geheilgte Schar\""
+notes: "A parody of the secular cantata \"Angenehmes Wiederau\" (BWV 30a, 1737), with text probably by Picander; Bach reused its outer choruses and four arias and composed new recitatives. Part I ends with a stanza of Johann Olearius's \"Tröstet, tröstet meine Lieben\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Freue_dich,_erl%C3%B6ste_Schar,_BWV_30"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/761944ce-af2e-46c8-9623-e894e9f27522

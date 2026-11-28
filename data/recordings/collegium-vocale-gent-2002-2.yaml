@@ -1,0 +1,29 @@
+id: collegium-vocale-gent-2002-2
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2002]
+  place: Stolberger Saal
+released: 2003
+original_label: null
+works:
+- {bwv: '2', complete: true}
+- {bwv: '20', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d04529b0-e650-44c4-b940-9a518b5b2d29
+  title: '"O Ewigkeit, du Donnerwort", Cantatas BWV 2, 20, 176'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [cc28c43c-1406-4d24-a642-3e5124a7744a, dac9a15a-dc79-4a71-819f-24fc5957af17]

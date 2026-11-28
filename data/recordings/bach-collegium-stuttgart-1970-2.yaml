@@ -1,0 +1,30 @@
+id: bach-collegium-stuttgart-1970-2
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Figuralchor der Gedächtniskirche Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: Gedächtniskirche Stuttgart
+released: 1999
+original_label: null
+works:
+- {bwv: '40', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb3967a9-bcab-46b2-a1d7-d908aabd3ee7
+  title: Cantatas BWV 38-40
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [c5d6fbf4-74ab-4c01-876b-9d4182794689]

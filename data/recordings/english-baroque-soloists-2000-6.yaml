@@ -1,0 +1,36 @@
+id: english-baroque-soloists-2000-6
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Choir of Clare College, Cambridge
+  role: choir
+- name: Choir of Trinity College, Cambridge
+  role: choir
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Walpole St. Peter; King’s College Chapel
+released: 2006
+original_label: null
+works:
+- {bwv: '1', complete: true}
+- {bwv: '22', complete: true}
+- {bwv: '23', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5ea3aa0b-becb-4361-bad3-97c7fe2abef4
+  title: 'Cantatas, Volume 21: Cambridge/Walpole St Peter'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [2af3c849-baf7-4a36-9f10-caab066c4326, caa263c6-f26b-46e1-80c5-ed013cecec1e, d56a5940-6933-46cc-8452-96a7b6504a2f]

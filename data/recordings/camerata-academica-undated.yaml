@@ -1,0 +1,32 @@
+id: camerata-academica-undated
+performers:
+- name: Camerata Academica
+  role: orchestra
+- name: Kurt Redel
+  role: conductor
+- name: Camerata Salzburg
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1987
+original_label: null
+works:
+- {bwv: '29', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5eeb851e-23c4-48fe-a846-59d7f14229ae
+  title: Bach Greatest Hits
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 56c5b7f8-1972-49dd-a38e-a55909537a42
+  recordings: [218946ea-bf30-42ee-856a-01570345215e]

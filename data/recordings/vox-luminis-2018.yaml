@@ -1,0 +1,46 @@
+id: vox-luminis-2018
+performers:
+- name: Vox Luminis
+  role: choir
+- name: Lionel Meunier
+  role: conductor
+- name: Victoria Cassano
+  role: performer
+- name: Zsuzsi Tóth
+  role: performer
+- name: Stefanie True
+  role: performer
+- name: Kristen Witmer
+  role: performer
+- name: Daniel Elgersma
+  role: performer
+- name: Jan Kullmann
+  role: performer
+- name: Robert Buckland
+  role: performer
+- name: Philippe Froeliger
+  role: performer
+- name: Sebastian Myrus
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: Église Notre-Dame de la Nativité
+released: 2019
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4212a76c-6d3c-4de2-9f57-41ed128bcee2
+  title: Kantaten
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b00bc079-7c5f-4a1b-a65f-e86bba64b751
+  recordings: [83fab7ea-707d-458a-b3bf-7a4f9457dd8d]

@@ -1,0 +1,19 @@
+bwv: "6"
+title: "Bleib bei uns, denn es will Abend werden"
+key: "C minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 2 oboes, oboe da caccia, violoncello piccolo, strings and continuo"
+composed: "Leipzig; first performed on 2 April 1725 (Easter Monday)"
+movements:
+  - "I. Coro \"Bleib bei uns, denn es will Abend werden\""
+  - "II. Aria (Alto) \"Hochgelobter Gottessohn, Laß es dir nicht sein entgegen\""
+  - "III. Choral (Soprano) \"Ach bleib bei uns, Herr Jesu Christ\""
+  - "IV. Recitativo (Basso) \"Es hat die Dunkelheit\""
+  - "V. Aria (Tenore) \"Jesu, lass uns auf dich sehen\""
+  - "VI. Choral \"Beweis dein Macht, Herr Jesu Christ\""
+notes: "From Bach's second Leipzig cycle, the first cantata of that cycle that is not a chorale cantata; the text, by an anonymous poet, starts from the Emmaus story (Luke 24:29). The soprano chorale \"Ach bleib bei uns, Herr Jesu Christ\" was later arranged for organ as Schübler Chorale BWV 649."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Bleib_bei_uns,_denn_es_will_Abend_werden,_BWV_6"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/81d80e6f-38ea-4c74-8f53-6b81f82f66ef

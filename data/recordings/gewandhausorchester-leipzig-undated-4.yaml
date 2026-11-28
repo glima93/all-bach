@@ -1,0 +1,43 @@
+id: gewandhausorchester-leipzig-undated-4
+performers:
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Hans-Joachim Rotzsch
+  role: conductor
+- name: E. Power Biggs
+  role: performer
+- name: Almuth Reuther
+  role: performer
+- name: Hermann Christian Polster
+  role: performer
+- name: Eberhard Büchner
+  role: performer
+- name: Helga Termer
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2008
+original_label: null
+works:
+- {bwv: '31', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/148b2ffe-b27f-4cce-8d1c-c4993b91e9e0
+  title: 'Johann Sebastian Bach: Kantaten BWV 106, BWV 31, BWV 66'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [6f570583-8881-4f43-8493-d75fc1788c4d, e3c5b8ba-faa6-47c8-910c-a9961ad155bb]

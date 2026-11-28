@@ -1,0 +1,28 @@
+id: la-petite-bande-1988-2
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Sigiswald Kuijken
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1988]
+  place: Augustinuskerk
+released: 1989
+original_label: null
+works:
+- {bwv: '21', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/771f21e6-fc7c-4890-8ae8-e0c9d6f1d52a
+  title: Magnificat BWV 243 - Cantata "Ich hatte viel Bekümmernis" BWV 21
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [03d9c7e5-7160-47b7-92d5-7fbb7d9015fb]

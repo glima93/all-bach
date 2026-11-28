@@ -1,0 +1,31 @@
+id: berliner-philharmoniker-1952-3
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Fritz Lehmann
+  role: conductor
+- name: Berliner Motettenchor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1952]
+  place: null
+released: 1995
+original_label: null
+works:
+- {bwv: '1', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/524d2bf8-5c59-4c62-92db-1a1bdd96d495
+  title: Magnificat / Kantage »Wie schön leuchtet der Morgenstern«
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [e4b58487-8ded-4545-b5dc-02566422305f]

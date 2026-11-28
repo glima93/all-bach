@@ -1,0 +1,28 @@
+id: vikingur-olafsson-undated-3
+performers:
+- name: Víkingur Ólafsson
+  role: piano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '38', complete: false, movements: [VI. Choral "Ob bei uns ist der Sünden viel"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/35e044c0-c234-442f-ad21-720605d6829e
+  title: Continuum II
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With piano, piano.
+musicbrainz:
+  recordings: [9ed1bd4f-e247-4a5e-8354-f60484f8285d]

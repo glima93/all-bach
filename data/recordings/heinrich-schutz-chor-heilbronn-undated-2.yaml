@@ -1,0 +1,40 @@
+id: heinrich-schutz-chor-heilbronn-undated-2
+performers:
+- name: Heinrich-Schütz-Chor Heilbronn
+  role: choir
+- name: Südwestdeutsches Kammerorchester Pforzheim
+  role: orchestra
+- name: Agnes Giebel
+  role: soprano
+- name: Claudia Hellmann
+  role: mezzo-soprano
+- name: Helmut Krebs
+  role: tenor
+- name: Erich Wenk
+  role: bass-baritone
+- name: Fritz Werner
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Ilsfeld
+released: 2004
+original_label: null
+works:
+- {bwv: '31', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8699ad72-4aeb-409a-b6a9-fc9f50732141
+  title: Cantatas, Vol. 1
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: be56db9e-fd6e-453a-9583-cb14d8d5a7fd
+  recordings: [a65ad186-4ede-47ec-b3ed-da2d94e8a770]

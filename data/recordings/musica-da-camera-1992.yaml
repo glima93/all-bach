@@ -1,0 +1,28 @@
+id: musica-da-camera-1992
+performers:
+- name: Musica da Camera
+  role: orchestra
+- name: Robert King
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1992]
+  place: Henry Wood Hall
+released: 1992
+original_label: null
+works:
+- {bwv: '42', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f6bd8d54-00ed-441f-a02e-72c75b4018c6
+  title: 'Albinoni: Adagio for Organ and Strings / Pachelbel: Canon and Gigue'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 789a19bd-ab77-4060-a507-ddc9e4b4dfab
+  recordings: [fda9842e-96fe-4bcb-8733-f33f24ef94ce]

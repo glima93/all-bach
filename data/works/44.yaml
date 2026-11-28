@@ -1,0 +1,20 @@
+bwv: "44"
+title: "Sie werden euch in den Bann tun"
+key: "G minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 21 May 1724 (Exaudi, Sunday after Ascension)"
+movements:
+  - "I. Aria (Duetto: Tenore, Basso) \"Sie werden euch in den Bann tun\""
+  - "II. Coro \"Es kömmt aber die Zeit\""
+  - "III. Aria (Alto) \"Christen müssen auf der Erden\""
+  - "IV. Choral (Tenore) \"Ach Gott, wie manches Herzeleid\""
+  - "V. Recitativo (Basso) \"Es sucht der Antichrist\""
+  - "VI. Aria (Soprano) \"Es ist und bleibt der Christen Trost\""
+  - "VII. Choral \"So sei nun, Seele, deine\""
+notes: "The last newly composed cantata of Bach's first cycle, on a text by an unknown poet. The Gospel words are split between a duet and a turbulent chorus, and the closing chorale is from Paul Fleming's \"In allen meinen Taten\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Sie_werden_euch_in_den_Bann_tun,_BWV_44"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/74bf5976-6f92-45f1-981c-7375e78e8e01

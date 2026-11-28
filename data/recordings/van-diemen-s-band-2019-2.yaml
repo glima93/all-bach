@@ -1,0 +1,29 @@
+id: van-diemen-s-band-2019-2
+performers:
+- name: Van Diemen’s Band
+  role: ensemble
+- name: Julia Fredersdorff
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2019]
+  place: ABC Studios Ultimo
+released: 2020
+original_label: null
+works:
+- {bwv: '21', complete: false, movements: ['Teil I, I. Sinfonia']}
+- {bwv: '35', complete: false, movements: ['Teil II, V. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eea3397e-cb7e-4bd5-a80c-69d635f4602d
+  title: Bass Cantatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 29b39558-f0f4-426e-b38d-068b227c2d4b
+  recordings: [62f2e59d-5608-4f82-8fe5-1cabcc24467b, 8b1fff41-b2dd-4643-820a-3a3c49867a48]

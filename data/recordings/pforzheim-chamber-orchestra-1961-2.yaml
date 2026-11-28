@@ -1,0 +1,39 @@
+id: pforzheim-chamber-orchestra-1961-2
+performers:
+- name: Pforzheim Chamber Orchestra
+  role: orchestra
+- name: Heinrich-Schütz-Chor Heilbronn
+  role: choir
+- name: Fritz Werner
+  role: conductor
+- name: Helmut Krebs
+  role: tenor
+- name: Claudia Hellmann
+  role: performer
+- name: Jakob Stämpfli
+  role: performer
+- name: Südwestdeutsches Kammerorchester Pforzheim
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '34', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8699ad72-4aeb-409a-b6a9-fc9f50732141
+  title: Cantatas, Vol. 1
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7728bbd6-1fd8-4027-9203-1e480fb56dbe
+  recordings: [22b88957-bcb2-40fc-91f9-23fc555a2f98, 73a4cceb-631f-47f9-84cd-9d4dad0668cf]

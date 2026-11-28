@@ -1,0 +1,42 @@
+id: leonhardt-consort-1972-2
+performers:
+- name: Leonhardt‐Consort
+  role: orchestra
+- name: Gustav Leonhardt
+  role: conductor
+- name: Paul Esswood
+  role: alto
+- name: Walter Gampert
+  role: treble
+- name: Choir of King’s College, Cambridge
+  role: choir
+- name: Max van Egmond
+  role: bass
+- name: Kurt Equiluz
+  role: tenor
+- name: Tölzer Knabenchor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1972]
+  place: null
+released: 1985
+original_label: null
+works:
+- {bwv: '22', complete: true}
+- {bwv: '23', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/21591e5b-5a46-4b86-9c77-df6321e77705
+  title: Das Kantatenwerk, Volume 6
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdcb74c4-2c5f-4d57-a052-b9ae935a3302
+  recordings: [5f3a2178-cf37-4c7f-bb58-ff718f18ccb4, 8c7a7837-c645-4d0d-94d9-299f31dbef89]

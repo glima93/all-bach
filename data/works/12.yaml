@@ -1,0 +1,20 @@
+bwv: "12"
+title: "Weinen, Klagen, Sorgen, Zagen"
+key: "F minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (ATB), four-part choir, trumpet, oboe, bassoon, 2 violins, 2 violas and continuo"
+composed: "Weimar; first performed on 22 April 1714 (Jubilate, third Sunday after Easter)"
+movements:
+  - "I. Sinfonia"
+  - "II. Coro “Weinen, Klagen, Sorgen, Zagen”"
+  - "III. Recitativo (Alto) \"Wir müssen durch viel Trübsal\""
+  - "IV. Aria (Alto) \"Kreuz und Krone sind verbunden\""
+  - "V. Aria (Basso) \"Ich folge Christo nach\""
+  - "VI. Aria (Tenore) \"Sei getreu, alle Pein wird doch nur ein Kleines sein\""
+  - "VII. Choral \"Was Gott tut, das ist wohlgetan\""
+notes: "Written in Weimar to a text probably by Salomon Franck, ending with the last stanza of Samuel Rodigast's \"Was Gott tut, das ist wohlgetan\". Bach reworked the opening chorus as the \"Crucifixus\" of the Mass in B minor."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Weinen,_Klagen,_Sorgen,_Zagen,_BWV_12"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/a5058c10-1d60-44a1-921c-e1c6c2a168fb

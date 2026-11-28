@@ -1,0 +1,34 @@
+id: english-chamber-orchestra-undated-9
+performers:
+- name: English Chamber Orchestra
+  role: orchestra
+- name: Thomas Indermühle
+  role: oboe
+- name: Simon Preston
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: [I. Sinfonia]}
+- {bwv: '21', complete: false, movements: ['Teil I, I. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8c532071-4ad1-463a-a963-66e27a1dd1db
+  title: Oboenkonzerte
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8c936585-f1e5-4729-9402-98f319d265b0
+  recordings: [210ac3cf-e2e3-4663-a88a-916323f2876a, 4b4cbd88-5e91-4668-81cc-7e1a99b5f368]

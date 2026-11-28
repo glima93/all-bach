@@ -1,0 +1,24 @@
+bwv: "21"
+title: "Ich hatte viel Bekümmernis"
+key: "C minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (STB), four-part choir, 3 trumpets, timpani, 4 trombones, oboe, bassoon, strings and continuo"
+composed: "Weimar; first performed on 17 June 1714 (Third Sunday after Trinity); Leipzig version with trombones first performed on 13 June 1723"
+movements:
+  - "Teil I, I. Sinfonia"
+  - "Teil I, II. Coro \"Ich hatte viel Bekümmernis in meinem Herzen\""
+  - "Teil I, III. Aria (Soprano) \"Seufzer, Tränen, Kummer, Not\""
+  - "Teil I, IV. Recitativo (Tenore) \"Wie hast du dich, mein Gott\""
+  - "Teil I, V. Aria (Tenore) \"Bäche von gesalznen Zähren\""
+  - "Teil I, VI. Coro \"Was betrübst du dich, meine Seele\""
+  - "Teil II, VII. Recitativo \"Ach Jesu, meine Ruh\" (Seele, Jesus)"
+  - "Teil II, VIII. Aria \"Komm, mein Jesu, und erquicke\" (Duetto: Seele, Jesus)"
+  - "Teil II, IX. Coro \"Sei nun wieder zufrieden, meine Seele\""
+  - "Teil II, X. Aria (Tenore) \"Erfreue dich, Seele, erfreue dich, Herze\""
+  - "Teil II, XI. Coro \"Das Lamm, das erwürget ist\""
+notes: "Probably on a text by Salomon Franck, with earlier forms going back to 1713 (Weimar, Halle) and a performance in D minor in Hamburg in 1720; the Leipzig version of 1723, which adds four trombones in the ninth movement, is the one mostly performed today. Movements 7 and 8 are a dialogue between the Soul and Jesus, and the closing chorus sets the same text from Revelation as the end of Handel's Messiah."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Ich_hatte_viel_Bek%C3%BCmmernis,_BWV_21"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/139ddaa9-2bb2-43b6-8ad5-1b5faeefa7ee

@@ -1,0 +1,40 @@
+id: bach-collegium-japan-2009-3
+performers:
+- name: Bach Collegium Japan
+  role: ensemble
+- name: Masaaki Suzuki
+  role: performer
+- name: Gerd Türk
+  role: performer
+- name: Peter Kooij
+  role: performer
+- name: Robin Blaze
+  role: performer
+- name: Hana Blažíková
+  role: performer
+- name: 鈴木雅明
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2009]
+  place: 神戸松蔭女子学院大学チャペル
+released: 2010
+original_label: null
+works:
+- {bwv: '17', complete: true}
+- {bwv: '19', complete: true}
+- {bwv: '45', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/10bc58ca-7575-4f5f-aefc-835b6dee9a0a
+  title: Cantatas, Volume 46
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [82d0a3fe-5bcb-46b2-88ac-a49d1ade6050, a9f3b657-3b6e-4c3f-b2a5-e78ba10498e6, c0303046-f94a-4ad3-90ed-a5a77938b715]

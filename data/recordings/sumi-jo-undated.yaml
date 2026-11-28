@@ -1,0 +1,32 @@
+id: sumi-jo-undated
+performers:
+- name: Sumi Jo
+  role: soprano
+- name: Suyoen Kim
+  role: violin
+- name: Marco Socías
+  role: guitar
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: Beethovensaal
+released: 2014
+original_label: null
+works:
+- {bwv: '49', complete: false, movements: ['IV. Aria (Soprano) "Ich bin herrlich, ich bin schön"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/857ea1be-f169-4f8f-834b-d42536c01a06
+  title: 'Only Bach: Cantatas for Soprano, Violin & Guitar'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: With guitar.
+musicbrainz:
+  artist: dd21a142-cf44-4e22-add6-a50eea696854
+  recordings: [b182a60a-22fc-4aae-b4fc-490116685100]

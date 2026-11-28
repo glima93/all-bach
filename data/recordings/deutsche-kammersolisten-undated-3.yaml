@@ -1,0 +1,33 @@
+id: deutsche-kammersolisten-undated-3
+performers:
+- name: Deutsche Kammersolisten
+  role: orchestra
+- name: Albrecht Mayer
+  role: oboe
+- name: Stephan Frucht
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: [I. Sinfonia]}
+- {bwv: '21', complete: false, movements: ['Teil I, I. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f34073c9-8a19-4760-a57b-a43310d99111
+  title: Bach‐Jahr 2000
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4d5b459c-dfdf-4aeb-ab21-68b928c53fb4
+  recordings: [2a02a361-3799-4a43-a104-9bcf279ba264, ef8a122c-1e87-43d8-a567-e49720646d1f]

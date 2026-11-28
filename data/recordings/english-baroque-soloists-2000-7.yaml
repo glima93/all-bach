@@ -1,0 +1,34 @@
+id: english-baroque-soloists-2000-7
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Old Royal Naval College Chapel; Romsey Abbey
+released: 2006
+original_label: null
+works:
+- {bwv: '3', complete: true}
+- {bwv: '13', complete: true}
+- {bwv: '14', complete: true}
+- {bwv: '26', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/718bf564-a279-43bb-9866-40c690510ad5
+  title: 'Cantatas, Volume 19: Greenwich/Romsey'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [25ef0b38-bcc6-471e-8afe-aad9293a3944, 62318eb5-624a-4bc8-aa05-bda656041bb4, 68f9ea86-3cb5-4d60-b2a3-db882f14788b,
+    6f9791af-99db-44b5-9b66-1c96bb99d5e3]

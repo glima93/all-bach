@@ -1,0 +1,34 @@
+id: the-purcell-quartet-2007
+performers:
+- name: The Purcell Quartet
+  role: ensemble
+- name: Charles Daniels
+  role: performer
+- name: Emma Kirkby
+  role: performer
+- name: Peter Harvey
+  role: performer
+- name: Michael Chance
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: St Jude‐on‐the‐Hill
+released: 2008
+original_label: null
+works:
+- {bwv: '21', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3f393030-851e-4973-9ffe-515458b48404
+  title: 'Early Cantatas, Volume 3: Weimar II'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3761cf63-a7f0-4316-b5f0-aea26870b980
+  recordings: [e365f586-3ffe-460c-8ae0-bdd577867991]

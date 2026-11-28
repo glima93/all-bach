@@ -1,0 +1,30 @@
+id: bach-collegium-stuttgart-1979-5
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Adalbert Kraus
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979, 1980, 1982]
+  place: Gedächtniskirche Stuttgart
+released: 1999
+original_label: null
+works:
+- {bwv: '37', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0079b08b-7ec7-49b0-9fce-74cabadea36b
+  title: Cantatas BWV 35-37
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [5087bfb2-6f99-4bbd-95f7-6ab955ff4263]

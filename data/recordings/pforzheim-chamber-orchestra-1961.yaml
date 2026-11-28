@@ -1,0 +1,46 @@
+id: pforzheim-chamber-orchestra-1961
+performers:
+- name: Pforzheim Chamber Orchestra
+  role: orchestra
+- name: Heinrich-Schütz-Chor Heilbronn
+  role: voice
+- name: Fritz Werner
+  role: conductor
+- name: Friederike Sailer
+  role: performer
+- name: Helmut Krebs
+  role: tenor
+- name: Claudia Hellmann
+  role: performer
+- name: Jakob Stämpfli
+  role: performer
+- name: Erich Wenk
+  role: performer
+- name: Südwestdeutsches Kammerorchester Pforzheim
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '8', complete: true}
+- {bwv: '26', complete: true}
+- {bwv: '43', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/14f017e8-3fb7-4828-9b68-19ae1a582894
+  title: 'Kantaten: BWV 8, 26, 43, 61, 81, 130, 132'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7728bbd6-1fd8-4027-9203-1e480fb56dbe
+  recordings: [4caae8a7-d60f-4751-aff9-e532f537268d, 4ecfda7b-edd3-4693-8026-4dee087940c1, 779755af-9e7a-41db-bed8-80d554678269,
+    a8ba7d9b-c522-4087-bf67-68f3f7152884, b607f63e-28de-414e-85b4-ce8c72586307, fae9f609-6c9a-4b16-a545-35c94bad58de]

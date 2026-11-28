@@ -1,0 +1,30 @@
+id: bach-collegium-stuttgart-1980-7
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980, 1982]
+  place: Gedächtniskirche Stuttgart
+released: 1992
+original_label: null
+works:
+- {bwv: '36', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c7735623-07cf-4a61-abb1-f35321f794e3
+  title: Kantaten zum Weihnachtsfestkreis
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [c5fe49ff-06a2-4c00-9f35-37ac29c109b2]

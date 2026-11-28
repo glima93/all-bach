@@ -1,0 +1,36 @@
+id: montreal-baroque-2006
+performers:
+- name: Montréal Baroque
+  role: ensemble
+- name: Eric Milnes
+  role: conductor
+- name: Charles Daniels
+  role: tenor
+- name: Stephan MacLeod
+  role: bass
+- name: Monika Mauch
+  role: soprano
+- name: Matthew White
+  role: alto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: Église Saint-Augustin
+released: 2006
+original_label: null
+works:
+- {bwv: '1', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2dbde0cf-09d4-450b-9433-f9836d77eecf
+  title: Cantates Marie de Nazareth 1, 82, 147
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 962f5e29-593f-4d24-8dbd-8df425b8e9df
+  recordings: [55327e8c-8a16-4f44-9cf1-c2687830353d]

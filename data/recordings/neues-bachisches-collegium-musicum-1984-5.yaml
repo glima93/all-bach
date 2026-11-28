@@ -1,0 +1,33 @@
+id: neues-bachisches-collegium-musicum-1984-5
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Ludwig Güttler
+  role: trumpet
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Hans-Joachim Rotzsch
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Paul-Gerhardt-Kirche
+released: 1984
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: ['VII. Choral "Was Gott tut, das ist wohlgetan"']}
+- {bwv: '31', complete: false, movements: [IX. Choral "So fahr ich hin zu Jesu Christ"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/72dc27ee-e7d3-49fa-af78-d38432862e38
+  title: Die Bach-Trompete
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [92eaa3c1-f4b1-46fb-8e4e-4eff07a86496, b31bfebd-ec65-4729-81fb-8bb628157457]

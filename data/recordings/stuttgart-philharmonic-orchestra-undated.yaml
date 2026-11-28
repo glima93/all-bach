@@ -1,0 +1,40 @@
+id: stuttgart-philharmonic-orchestra-undated
+performers:
+- name: Stuttgart Philharmonic Orchestra
+  role: orchestra
+- name: Vienna Boys' Choir
+  role: choir
+- name: Peter Marschik
+  role: conductor
+- name: Guido Mancusi
+  role: performer
+- name: Michael Knapp
+  role: tenor
+- name: Stuttgarter Philharmoniker
+  role: orchestra
+- name: Wiener Sängerknaben
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '21', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/81b4d6ab-134b-45f9-9cdc-153ad3eb0880
+  title: Christmas with the Vienna Boys' Choir
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 12e07bd7-6472-4147-8e53-2670d7b1a7d3
+  recordings: [cc841e80-bc91-4d61-8a75-ce74116c4a53, f33b8aab-70db-4d0c-96d2-894a4fa3015e]

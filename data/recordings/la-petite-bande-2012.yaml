@@ -1,0 +1,43 @@
+id: la-petite-bande-2012
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Sigiswald Kuijken
+  role: conductor
+- name: Jan Van der Crabben
+  role: bass
+- name: Christoph Genz
+  role: tenor
+- name: Petra Noskaiová
+  role: alto
+- name: Gerlinde Sämann
+  role: soprano
+- name: Magdalena Kožená
+  role: performer
+- name: Knut Schoch
+  role: performer
+- name: 鈴木美登里
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2012]
+  place: Predikherenkerk
+released: 2012
+original_label: null
+works:
+- {bwv: '9', complete: true}
+- {bwv: '34', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3f5ee870-221f-48f7-bc3e-289a5c5e9e7a
+  title: 'Cantatas: The Complete Liturgical Year in 64 Cantatas'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [111efc83-e4aa-4932-9ce2-9b41c4b4377c, d548226a-5180-436a-9323-719400d391da]

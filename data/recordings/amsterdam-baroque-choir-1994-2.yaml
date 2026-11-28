@@ -1,0 +1,32 @@
+id: amsterdam-baroque-choir-1994-2
+performers:
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Ulrike Wild
+  role: organ
+- name: Ton Koopman
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: Grote Kerk
+released: 1995
+original_label: null
+works:
+- {bwv: '5', complete: false, movements: [I. Coro "Wo soll ich fliehen hin", VII. Choral "Führ auch mein Herz und
+      Sinn"]}
+- {bwv: '36', complete: false, movements: ['II. Choral “Nun komm, der Heiden Heiland”']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/25585756-a113-4bc2-92df-ec5a2ecb328e
+  title: Organ Works, Volume 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7573ab88-b3ee-424a-84ec-3f8581385e5d
+  recordings: [5705627b-791d-4d5d-b875-29551b45496c, de74995b-fa7b-42eb-bfe3-6153b5d98719]

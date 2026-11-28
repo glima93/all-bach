@@ -1,0 +1,19 @@
+bwv: "28"
+title: "Gottlob! nun geht das Jahr zu Ende"
+key: "A minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, cornett, 3 trombones, 2 oboes, taille, strings and continuo"
+composed: "Leipzig; first performed on 30 December 1725 (First Sunday after Christmas)"
+movements:
+  - "I. Aria (Soprano) \"Gottlob! nun geht das Jahr zu Ende\""
+  - "II. Coro \"Nun lob, mein Seel, den Herren\""
+  - "III. Recitativo (Arioso: Basso) \"So spricht der Herr\""
+  - "IV. Recitativo (Tenore) \"Gott ist ein Quell, wo lauter Güte fleußt\""
+  - "V. Aria (Duetto: Alto, Tenore) \"Gott hat uns im heurigen Jahre gesegnet\""
+  - "VI. Choral \"All solch dein Güt wir preisen\""
+notes: "From Bach's third Leipzig cycle, on a text by Erdmann Neumeister about the turn of the year; the second movement is a motet in stile antico on Johann Gramann's \"Nun lob, mein Seel, den Herren\". It closes with a stanza of Paul Eber's \"Helft mir Gotts Güte preisen\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Gottlob!_nun_geht_das_Jahr_zu_Ende,_BWV_28"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/60cd3ee6-1063-4ed9-9a8b-3f4fd51a205b

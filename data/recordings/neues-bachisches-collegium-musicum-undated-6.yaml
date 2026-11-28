@@ -1,0 +1,32 @@
+id: neues-bachisches-collegium-musicum-undated-6
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Hans-Joachim Rotzsch
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '1', complete: true}
+- {bwv: '40', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/257bf60f-3f1b-464f-bff1-03eb23a1d5b4
+  title: Weihnachtskantaten BWV 1, 61, 40
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [222b3809-3675-48e9-bdd7-3aa458629670, 38011d3f-155f-4f24-a8f4-c4d6d8758a59]

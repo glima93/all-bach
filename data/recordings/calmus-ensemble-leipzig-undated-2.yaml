@@ -1,0 +1,29 @@
+id: calmus-ensemble-leipzig-undated-2
+performers:
+- name: Calmus Ensemble Leipzig
+  role: ensemble
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2017
+original_label: null
+works:
+- {bwv: '4', complete: false, movements: [II. Chor Versus I „Christ lag in Todes Banden“, V. Chor Versus IV „Es
+      war ein wunderlicher Krieg“, VIII. Choral Versus VII „Wir essen und leben wohl“]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/22348aa2-7b0d-43df-9c99-9bb9e65ec877
+  title: Luther Collage
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b75a3d00-c21c-48d6-a73a-fdd1b3474e06
+  recordings: [e53c7646-d862-42ce-902f-a5f396ef16f6]

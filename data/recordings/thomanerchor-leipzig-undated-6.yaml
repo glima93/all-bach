@@ -1,0 +1,41 @@
+id: thomanerchor-leipzig-undated-6
+performers:
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Philharmonie Leipzig
+  role: orchestra
+- name: Hans-Joachim Rotzsch
+  role: conductor
+- name: Peter Schreier
+  role: voice
+- name: Siegfried Lorenz
+  role: voice
+- name: Ortrun Wenkel
+  role: voice
+- name: Arleen Augér
+  role: voice
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1994
+original_label: null
+works:
+- {bwv: '40', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d5a25844-6aed-488a-8158-0b9b86b87cbb
+  title: BACH KANTATEN BWV 110 - 40 - 71
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 995a8150-123b-4f04-8c2c-904a262dd607
+  recordings: [199bbfcc-1703-4b64-a33f-447d4a4ea05f, b99b3ca2-52cc-43bd-9c28-386c2ce555d5]

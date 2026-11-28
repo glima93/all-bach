@@ -1,0 +1,41 @@
+id: amsterdam-baroque-orchestra-1998-3
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Ton Koopman
+  role: conductor
+- name: Paul Agnew
+  role: tenor
+- name: Klaus Mertens
+  role: bass
+- name: Michael Chance
+  role: performer
+- name: Caroline Stam
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Waalse Kerk
+released: 2005
+original_label: null
+works:
+- {bwv: '2', complete: true}
+- {bwv: '20', complete: true}
+- {bwv: '44', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b562d419-a407-40f8-93aa-9ddce641071d
+  title: Cantatas, Volume 10
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [4e372109-4752-476e-b2b5-d5613268e922, 751526bb-b3ee-40c2-a2f8-8916740a71dd, 8f851b53-eb43-4165-b2cb-ddc24356eebd,
+    c1a2ac43-9593-4b19-94df-e2337b914c74, d75feb5c-1132-4c95-9832-dc3bad4d34ca, ecb03324-dac2-42e6-a0c0-1ae817e04f9f]

@@ -1,0 +1,38 @@
+id: thomanerchor-leipzig-1952
+performers:
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Eva Fleischer
+  role: alto
+- name: Hans Hauptmann
+  role: bass
+- name: Gert Lutze
+  role: tenor
+- name: Hannes Kästner
+  role: organ
+- name: Günther Ramin
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1952]
+  place: Thomaskirche
+released: 1972
+original_label: null
+works:
+- {bwv: '24', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2484a36f-054a-4bd7-9d38-61fb42c36af7
+  title: Les Cantates de Bach Vol. 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 995a8150-123b-4f04-8c2c-904a262dd607
+  recordings: [30482b9b-07bf-484c-ad0a-dc3d9f135914]

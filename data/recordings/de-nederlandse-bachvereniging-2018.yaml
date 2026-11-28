@@ -1,0 +1,28 @@
+id: de-nederlandse-bachvereniging-2018
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Jos van Veldhoven
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: Waalse Kerk
+released: null
+original_label: null
+works:
+- {bwv: '6', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/ea07575b-5948-42c3-8a84-f94fec2d44ec
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [ea07575b-5948-42c3-8a84-f94fec2d44ec]

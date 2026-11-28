@@ -1,0 +1,32 @@
+id: netherlands-bach-collegium-1999-4
+performers:
+- name: Netherlands Bach Collegium
+  role: orchestra
+- name: Pieter Jan Leusink
+  role: conductor
+- name: Holland Boys Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Sint-Nicolaaskerk
+released: 2000
+original_label: null
+works:
+- {bwv: '2', complete: true}
+- {bwv: '3', complete: true}
+- {bwv: '8', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d009f71f-0857-4908-9011-d58914b59250
+  title: 'Bach Edition, Volume 12: Cantatas/Kantaten, Volume VI'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a422d36-6a96-47fa-90c8-7a0a3413f3c7
+  recordings: [6f47a444-442b-4673-a0d6-1367109fea85, b77195d9-f5c7-48e8-a5ec-65038001c32d, c18d8c1a-ee6d-435d-933d-8f38a55b09cc]

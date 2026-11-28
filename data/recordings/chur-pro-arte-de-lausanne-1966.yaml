@@ -1,0 +1,40 @@
+id: chur-pro-arte-de-lausanne-1966
+performers:
+- name: Chœur Pro Arte de Lausanne
+  role: choir
+- name: Chœur de la Suisse Romande
+  role: voice
+- name: Orchestre de la Suisse Romande
+  role: orchestra
+- name: Tom Krause
+  role: baritone
+- name: Ian Partridge
+  role: tenor
+- name: Helen Watts
+  role: contralto
+- name: Ernest Ansermet
+  role: conductor
+- name: André Pépin
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966]
+  place: Victoria Hall
+released: 2023
+original_label: null
+works:
+- {bwv: '45', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a500975b-984b-420d-9efc-310bb275a0ab
+  title: The Stereo Years
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 7fdba06b-75e9-408a-bfae-10a4b3d86653
+  recordings: [33508f62-09b9-4e9f-82a8-92ac9d6505df]

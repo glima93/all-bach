@@ -1,0 +1,20 @@
+bwv: "42"
+title: "Am Abend aber desselbigen Sabbats"
+key: "D major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 2 oboes, bassoon, strings and continuo"
+composed: "Leipzig; first performed on 8 April 1725 (First Sunday after Easter, Quasimodogeniti)"
+movements:
+  - "I. Sinfonia"
+  - "II. Recitativo (Tenore) \"Am Abend aber desselbigen Sabbats\""
+  - "III. Aria (Alto) \"Wo zwei und drei versammelt sind\""
+  - "IV. Choral (Duetto: Soprano, Tenore) \"Verzage nicht, o Häuflein klein\""
+  - "V. Recitativo (Basso) \"Man kann hiervon ein schön Exempel sehen\""
+  - "VI. Aria (Basso) \"Jesus ist ein Schild der Seinen\""
+  - "VII. Choral \"Verleih uns Frieden gnädiglich\""
+notes: "From Bach's second cycle, though not a chorale cantata, on a text by an unknown librettist; it opens with an extended sinfonia, possibly taken from an earlier Köthen work. The choir sings only in the closing chorale, \"Verleih uns Frieden gnädiglich\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Am_Abend_aber_desselbigen_Sabbats,_BWV_42"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/0de99534-8446-4c61-af46-ad1c50e1b849

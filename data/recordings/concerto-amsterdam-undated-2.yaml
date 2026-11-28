@@ -1,0 +1,39 @@
+id: concerto-amsterdam-undated-2
+performers:
+- name: Concerto Amsterdam
+  role: orchestra
+- name: Monteverdi‐Chor Hamburg
+  role: choir
+- name: Jürgen Jürgens
+  role: conductor
+- name: Kurt Equiluz
+  role: tenor
+- name: Helen Watts
+  role: alto
+- name: Rotraud Hansmann
+  role: soprano
+- name: Max van Egmond
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Hervormde Kerk
+released: 1994
+original_label: null
+works:
+- {bwv: '27', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/918fa979-2066-45fc-999c-43c897b267d4
+  title: Cantatas BWV 198, 158 & 27
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c512571f-512d-4acf-9e9e-d196918f901a
+  recordings: [40408038-d920-4523-9bd6-2b1e64807eef, 5ef409ed-88c8-4d2e-9901-8d00b48c1e2f]

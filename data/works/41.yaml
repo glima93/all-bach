@@ -1,0 +1,19 @@
+bwv: "41"
+title: "Jesu, nun sei gepreiset"
+key: "C major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 3 trumpets, timpani, 3 oboes, violoncello piccolo, strings and continuo"
+composed: "Leipzig; first performed on 1 January 1725 (New Year's Day)"
+movements:
+  - "I. Coro \"Jesu, nun sei gepreiset\""
+  - "II. Aria (Soprano) \"Laß uns, o höchster Gott, das Jahr vollbringen\""
+  - "III. Recitativo (Alto) \"Ach! deine Hand, dein Segen\""
+  - "IV. Aria (Tenore) \"Woferne du den edlen Frieden\""
+  - "V. Recitativo (Basso) e Coro \"Doch weil der Feind bei Tag und Nacht\""
+  - "VI. Choral \"Dein ist allein die Ehre\""
+notes: "A chorale cantata from Bach's second cycle, based on Johannes Hermann's New Year hymn. The trumpet fanfares of the opening chorale fantasia return in the closing chorale."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Jesu,_nun_sei_gepreiset,_BWV_41"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/754b7b10-4c18-477e-972c-99d00136bdf2

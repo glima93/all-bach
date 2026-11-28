@@ -1,0 +1,28 @@
+id: the-plymouth-trio-undated-2
+performers:
+- name: The Plymouth Trio
+  role: ensemble
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '32', complete: false, movements: ['I. Aria (Soprano) "Liebster Jesu, mein Verlangen"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e2b656b5-e073-47ad-9bb3-1223d9456972
+  title: The Plymouth Trio
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c7b82ef5-ebf5-4ff7-be88-0cf477c169f1
+  recordings: [3ed010bc-b7d0-4e74-b6eb-428c40d85638]

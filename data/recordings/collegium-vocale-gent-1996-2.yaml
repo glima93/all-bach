@@ -1,0 +1,35 @@
+id: collegium-vocale-gent-1996-2
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Christoph Prégardien
+  role: performer
+- name: Peter Kooij
+  role: performer
+- name: Sibylla Rubens
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: null
+released: 1997
+original_label: null
+works:
+- {bwv: '36', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5793d46c-0a8d-4e1f-b8c2-7c11f6ed1d59
+  title: 'Advent Cantatas: BWV 36, 61 & 62'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [f2cb4aae-501f-4330-913e-e3a614d47a73]

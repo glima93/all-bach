@@ -1,0 +1,40 @@
+id: neues-bachisches-collegium-musicum-undated-7
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Thomanerchor
+  role: choir
+- name: Hans-Joachim Rotzsch
+  role: conductor
+- name: Monika Frimmer
+  role: soprano
+- name: Eberhard Büchner
+  role: performer
+- name: Andreas Scheibner
+  role: performer
+- name: Thomanerchor Leipzig
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Paul-Gerhardt-Kirche
+released: 1984
+original_label: null
+works:
+- {bwv: '14', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0169849f-64a8-493f-837b-f6b803857299
+  title: Kantaten mit Corno da caccia
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [9b0a7d8d-a745-43f3-93ec-aac83bd5426c, ae9feb2c-8864-44bc-bb60-5f650631b97b]

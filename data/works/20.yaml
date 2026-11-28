@@ -1,0 +1,24 @@
+bwv: "20"
+title: "O Ewigkeit, du Donnerwort"
+key: "F major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (ATB), four-part choir, tromba da tirarsi, 3 oboes, strings and continuo"
+composed: "Leipzig; first performed on 11 June 1724 (First Sunday after Trinity)"
+movements:
+  - "Teil I, I. Chorale \"O Ewigkeit, du Donnerwort\""
+  - "Teil I, II. Recitativo (Tenore) \"Kein Unglück ist in aller Welt zu finden\""
+  - "Teil I, III. Aria (Tenore) \"Ewigkeit, du machst mir bange\""
+  - "Teil I, IV. Recitativo (Basso) \"Gesetzt, es dau'rte der Verdammten Qual\""
+  - "Teil I, V. Aria (Basso) \"Gott ist gerecht in seinen Werken\""
+  - "Teil I, VI. Aria (Alto) \"O Mensch, errette deine Seele\""
+  - "Teil I, VII. Chorale \"Solang ein Gott im Himmel lebt\""
+  - "Teil II, VIII. Aria (Basso) \"Wacht auf, wacht auf, verlorne Schafe\""
+  - "Teil II, IX. Recitativo (Alto) \"Verlaß, o Mensch, die Wollust dieser Welt\""
+  - "Teil II, X. Aria (Duetto: Alto, Tenore) \"O Menschenkind, hör auf geschwind\""
+  - "Teil II, XI. Chorale \"O Ewigkeit, du Donnerwort\""
+notes: "The first cantata of Bach's second Leipzig cycle of chorale cantatas, based on Johann Rist's hymn \"O Ewigkeit, du Donnerwort\" (1642); the opening chorale fantasia is cast as a French overture. It is in two parts, performed before and after the sermon."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/O_Ewigkeit,_du_Donnerwort,_BWV_20"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/4d8364fd-488a-47d2-9573-93a4b5e2d631

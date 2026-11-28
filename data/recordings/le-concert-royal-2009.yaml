@@ -1,0 +1,29 @@
+id: le-concert-royal-2009
+performers:
+- name: Le Concert Royal
+  role: orchestra
+- name: Daniel Leininger
+  role: organ
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2009]
+  place: Église Saint-Thomas
+released: 2009
+original_label: null
+works:
+- {bwv: '43', complete: false, movements: ['Teil II, VII. Aria (Basso) "Er ists, der ganz allein die Kelter hat
+      getreten"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/109fbb49-bad3-431a-af59-cbfa32439ffb
+  title: 'Musica Michaelis: Cantate festives'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b7de961d-ba27-4b53-a887-bf3ecfb43797
+  recordings: [7567dfb6-d88f-48e2-a217-ed6ef774bc31]

@@ -1,0 +1,32 @@
+id: dunedin-consort-2020
+performers:
+- name: Dunedin Consort
+  role: ensemble
+- name: John Butt
+  role: conductor
+- name: Matthew Brook
+  role: performer
+- name: Joanne Lunn
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: St Jude‐on‐the‐Hill
+released: 2021
+original_label: null
+works:
+- {bwv: '32', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dbb27c2e-7e0f-4699-a384-4ffed967f6fe
+  title: 'Ich habe genug: Cantatas, BWV 32, 82 & 106'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1cca9a39-48c5-48f8-9710-969f81c4d319
+  recordings: [413f5108-3f1d-480d-8b78-a42268e3f637]

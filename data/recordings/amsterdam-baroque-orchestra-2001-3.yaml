@@ -1,0 +1,39 @@
+id: amsterdam-baroque-orchestra-2001-3
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Ton Koopman
+  role: conductor
+- name: Klaus Mertens
+  role: bass
+- name: Sibylla Rubens
+  role: performer
+- name: Bogna Bartosz
+  role: performer
+- name: Paul Agnew
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: Waalse Kerk
+released: 2004
+original_label: null
+works:
+- {bwv: '16', complete: true}
+- {bwv: '49', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5ff204c2-63b8-497f-9d44-d96c2bb1d944
+  title: Cantatas, Volume 16
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [45557625-191f-4661-8e63-16fa7b63ebc0, 69e050e3-17f5-4ce2-b2e2-93d0cba7ec31, a96339f8-cb40-4a63-8c17-df759f23cd45]

@@ -1,0 +1,36 @@
+id: bach-collegium-japan-1997
+performers:
+- name: Bach Collegium Japan
+  role: ensemble
+- name: Masaaki Suzuki
+  role: performer
+- name: Gerd Türk
+  role: performer
+- name: Monika Frimmer
+  role: performer
+- name: Peter Kooij
+  role: performer
+- name: 鈴木雅明
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: 神戸松蔭女子学院大学チャペル
+released: 1998
+original_label: null
+works:
+- {bwv: '31', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0b263eda-f014-4c5e-8dba-e4871c5941bd
+  title: Cantatas, Volume 6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [9ae0d664-2924-4707-b436-3f62ff95ad73]

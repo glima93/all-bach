@@ -1,0 +1,30 @@
+id: combattimento-consort-amsterdam-1990
+performers:
+- name: Combattimento Consort Amsterdam
+  role: orchestra
+- name: Han de Vries
+  role: oboe
+- name: Jan Willem de Vriend
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: Doopsgezinde kerk
+released: 1995
+original_label: null
+works:
+- {bwv: '21', complete: false, movements: ['Teil I, I. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a036d70f-bbb2-4a78-b57c-f96f564b42bd
+  title: Barok - de collectie
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d91526ce-ee11-4530-8fe1-021674b6bd57
+  recordings: [c9c28a47-4288-46f0-b437-0eb07d930881]

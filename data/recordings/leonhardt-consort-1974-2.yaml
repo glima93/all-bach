@@ -1,0 +1,38 @@
+id: leonhardt-consort-1974-2
+performers:
+- name: Leonhardt‐Consort
+  role: orchestra
+- name: Knabenchor Hannover
+  role: choir
+- name: Gustav Leonhardt
+  role: conductor
+- name: Kurt Equiluz
+  role: tenor
+- name: René Jacobs
+  role: performer
+- name: Hanns-Friedrich Kunz
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1974, 1975]
+  place: Doopsgezinde kerk
+released: 1994
+original_label: null
+works:
+- {bwv: '45', complete: true}
+- {bwv: '46', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bc8a1462-d303-4d24-98af-faa34da3fce3
+  title: 'Das Kantatenwerk: Sacred Cantatas Vol. 3: BWV 37-52, 54-60'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdcb74c4-2c5f-4d57-a052-b9ae935a3302
+  recordings: [65719bce-aa83-42e2-8ffb-d2edc309fd2f, 77d5e8f9-91e1-4ddc-8a72-712f03324b3d, 8e72a56b-f89a-474d-811c-61aee5cab94b,
+    cda22246-8890-4261-9dac-2ce3797af00b]

@@ -1,0 +1,44 @@
+id: saxon-baroque-orchestra-undated
+performers:
+- name: Saxon Baroque Orchestra
+  role: orchestra
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Gotthold Schwarz
+  role: conductor
+- name: Wolfram Lattke
+  role: performer
+- name: Stefan Kahle
+  role: alto
+- name: Tobias Berndt
+  role: bass
+- name: Julia Sophie Wagner
+  role: performer
+- name: Sächsisches Barockorchester
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '17', complete: true}
+- {bwv: '33', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0c092d21-f354-4e0f-bc83-62fe12c44fed
+  title: 'J.S. Bach: Cantatas, BWV 33, 17 & 99'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0babb1da-eafc-4803-b3e1-7a22cba43433
+  recordings: [1ef0b53e-8226-41be-b230-5215777092cd, 2619d20a-6e21-4ca8-af1f-a8a41aeae312, a78eaabf-3098-47c0-b134-9be8a09fbaae,
+    e2e5867e-4718-467b-ab7a-c62f0ac37d05]

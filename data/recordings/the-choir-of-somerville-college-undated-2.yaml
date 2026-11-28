@@ -1,0 +1,30 @@
+id: the-choir-of-somerville-college-undated-2
+performers:
+- name: The Choir of Somerville College, Oxford
+  role: choir
+- name: David Crown
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '36', complete: false, movements: ['II. Choral “Nun komm, der Heiden Heiland”']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/76b10b07-9d23-4734-9aa4-7b13f7715f77
+  title: Advent Calendar
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: df97c8a3-e039-48ee-b42b-dfee2d783ccd
+  recordings: [c178bc01-afbc-48b0-b50a-4bcbc5f49d96]

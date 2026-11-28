@@ -1,0 +1,32 @@
+id: netherlands-bach-collegium-2000-2
+performers:
+- name: Netherlands Bach Collegium
+  role: orchestra
+- name: Pieter Jan Leusink
+  role: conductor
+- name: Holland Boys Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Sint-Nicolaaskerk
+released: 2000
+original_label: null
+works:
+- {bwv: '4', complete: true}
+- {bwv: '10', complete: true}
+- {bwv: '12', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b45f5059-e1d8-4ce4-a1e2-e9740f059789
+  title: 'Bach Edition, Volume 20: Cantatas/Kantaten, Volume XI'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a422d36-6a96-47fa-90c8-7a0a3413f3c7
+  recordings: [440f7b7d-5712-4d3e-819e-153c158296eb, 5df884e3-c285-4a10-abce-2cbd1ee30d2c, da164c76-dd02-4c97-96ca-aadad2093ac6]

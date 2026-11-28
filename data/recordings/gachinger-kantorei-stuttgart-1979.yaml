@@ -1,0 +1,38 @@
+id: gachinger-kantorei-stuttgart-1979
+performers:
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Aldo Baldin
+  role: performer
+- name: Arleen Augér
+  role: performer
+- name: Wolfgang Schöne
+  role: performer
+- name: Margit Neubauer
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979]
+  place: Gedächtniskirche Stuttgart
+released: 1988
+original_label: null
+works:
+- {bwv: '10', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b0500d07-c953-4fd2-ae02-cbc8310d6016
+  title: 'Die Bach Kantate, Volume 17: BWV 10, 130, 17'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [9e06c53b-7106-43c3-b4b9-b53bb792e7fc]

@@ -1,0 +1,36 @@
+id: neues-bachisches-collegium-musicum-1980
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Hans-Joachim Rotzsch
+  role: conductor
+- name: Arleen Augér
+  role: voice
+- name: Siegfried Lorenz
+  role: voice
+- name: Peter Schreier
+  role: voice
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980, 1981]
+  place: Paul-Gerhardt-Kirche
+released: 1994
+original_label: null
+works:
+- {bwv: '36', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de39d7ab-5ac9-4fd7-a321-5a58bddc5fb2
+  title: Kantaten BWV 140, 61, 36
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [5d023071-8fc9-4a86-9871-246111a53b9c, 92ec618b-9940-4316-b158-fe94109af971, e233fdcc-a222-4882-be96-1fac4bf39e20]

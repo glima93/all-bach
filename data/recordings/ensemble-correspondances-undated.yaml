@@ -1,0 +1,35 @@
+id: ensemble-correspondances-undated
+performers:
+- name: Ensemble Correspondances
+  role: orchestra
+- name: Sébastien Daucé
+  role: conductor
+- name: Sebastian Myrus
+  role: performer
+- name: Caroline Weynants
+  role: performer
+- name: Raphael Höhn
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Chapelle Corneille
+released: 2025
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d32fb01f-4f29-4b96-8f24-a1a23334af56
+  title: 'Christ lag in Todesbanden: Cantatas BWV 4, 106, 131'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a55daa37-9bf1-4f36-ac1e-c60b79d7703c
+  recordings: [315ef4ad-94f2-4e48-ab81-968d2a05b223]

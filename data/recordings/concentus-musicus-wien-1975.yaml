@@ -1,0 +1,28 @@
+id: concentus-musicus-wien-1975
+performers:
+- name: Concentus Musicus Wien
+  role: orchestra
+- name: Nikolaus Harnoncourt
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1975]
+  place: Casino Zögernitz
+released: 1994
+original_label: null
+works:
+- {bwv: '49', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bc8a1462-d303-4d24-98af-faa34da3fce3
+  title: 'Das Kantatenwerk: Sacred Cantatas Vol. 3: BWV 37-52, 54-60'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9b891046-35af-4eb0-a058-eba4c9b8d01f
+  recordings: [51875c4c-9b8a-4e03-9970-49c8f77dc4d8]

@@ -1,0 +1,38 @@
+id: la-petite-bande-1993-2
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Nancy Argenta
+  role: soprano
+- name: Klaus Mertens
+  role: bass
+- name: Pierre Hantaï
+  role: organ
+- name: Sigiswald Kuijken
+  role: conductor
+- name: Marcel Ponseele
+  role: oboe
+- name: Hidemi Suzuki
+  role: cello
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1993]
+  place: Doopsgezinde kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '49', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d898d51c-1e7a-45aa-b7c2-5bcc5c3ee3cf
+  title: Cantates, BWV 82 / 49 / 58
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [f9a0b0b4-8079-4527-8b42-575222c30df3]

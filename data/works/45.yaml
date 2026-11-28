@@ -1,0 +1,20 @@
+bwv: "45"
+title: "Es ist dir gesagt, Mensch, was gut ist"
+key: "E major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (ATB), four-part choir, 2 flutes, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 11 August 1726 (Eighth Sunday after Trinity)"
+movements:
+  - "I. Coro \"Es ist dir gesagt, Mensch, was gut ist\""
+  - "II. Recitativo (Tenore) \"Der Höchste läßt mich seinen Willen wissen\""
+  - "III. Aria (Tenore) \"Weiß ich Gottes Rechte\""
+  - "IV. Arioso (Basso) \"Es werden viele zu mir sagen\""
+  - "V. Aria (Alto) \"Wer Gott bekennt aus wahrem Herzensgrund\""
+  - "VI. Recitativo (Alto) \"So wird denn Herz und Mund\""
+  - "VII. Choral \"Gib, daß ich tu mit Fleiß\""
+notes: "A two-part cantata from Bach's third cycle, on a text attributed to Duke Ernst Ludwig of Saxe-Meiningen. Part II opens with the words of Christ, sung by the bass as an arioso; the closing chorale is from Johann Heermann's \"O Gott, du frommer Gott\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Es_ist_dir_gesagt,_Mensch,_was_gut_ist,_BWV_45"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/71471c19-89db-47a5-a23f-bac334a69740

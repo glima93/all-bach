@@ -1,0 +1,19 @@
+bwv: "25"
+title: "Es ist nichts Gesundes an meinem Leibe"
+key: "E minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (STB), four-part choir, cornett, 3 trombones, 3 recorders, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 29 August 1723 (Fourteenth Sunday after Trinity)"
+movements:
+  - "I. Coro \"Es ist nichts Gesundes an meinem Leibe\""
+  - "II. Recitativo (Tenore) \"Die ganze Welt ist nur ein Hospital\""
+  - "III. Aria (Basso) \"Ach, wo hol ich Armer Rat?\""
+  - "IV. Recitativo (Soprano) \"O Jesu, lieber Meister\""
+  - "V. Aria (Soprano) \"Öffne meinen schlechten Liedern\""
+  - "VI. Choral \"Ich will alle meine Tage\""
+notes: "Part of Bach's first Leipzig cantata cycle, on a text probably by Johann Jacob Rambach; in the opening chorus the trombones and recorders play the chorale tune \"Herzlich tut mich verlangen\" independently of the voices. It closes with the last stanza of Johann Heermann's \"Treuer Gott, ich muss dir klagen\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Es_ist_nichts_Gesundes_an_meinem_Leibe,_BWV_25"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/c3fa41d8-e8b8-4a25-a74c-86201c91ae88

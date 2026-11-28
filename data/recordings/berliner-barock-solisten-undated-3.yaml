@@ -1,0 +1,36 @@
+id: berliner-barock-solisten-undated-3
+performers:
+- name: Berliner Barock Solisten
+  role: orchestra
+- name: Raphael Alpermann
+  role: harpsichord
+- name: Stefan Fuchs
+  role: cello
+- name: Kristin von der Goltz
+  role: cello
+- name: Reinhard Goebel
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Jesus‐Christus‐Kirche
+released: 2017
+original_label: null
+works:
+- {bwv: '42', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2fc39841-3d48-45b5-8160-dc60e20dd4e2
+  title: Brandenburg Concertos
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5a22dc2a-1479-4bb7-b914-b8d55569b8e0
+  recordings: [5a2e1cc0-bd92-4a57-923c-582b973e3e5c]

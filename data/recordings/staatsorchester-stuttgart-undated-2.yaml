@@ -1,0 +1,30 @@
+id: staatsorchester-stuttgart-undated-2
+performers:
+- name: Staatsorchester Stuttgart
+  role: orchestra
+- name: Marcel Couraud
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1958
+original_label: null
+works:
+- {bwv: '31', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/54850f6e-d52f-4713-9b76-39d6e8ef0b6a
+  title: Magnificat / Cantate de Pâques
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1487b19f-f421-40ab-a24b-379099776466
+  recordings: [7282170e-bd65-4426-a896-9650698f29ad]

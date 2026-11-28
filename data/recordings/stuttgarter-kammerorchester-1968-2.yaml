@@ -1,0 +1,31 @@
+id: stuttgarter-kammerorchester-1968-2
+performers:
+- name: Stuttgarter Kammerorchester
+  role: orchestra
+- name: Karl Münchinger
+  role: conductor
+- name: Wiener Akademie Kammerchor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1968]
+  place: null
+released: 1969
+original_label: null
+works:
+- {bwv: '10', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4b5980ed-b557-4e41-b74e-d87c2a573cf7
+  title: Oster-Oratorium / Kantate, BWV 10
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 65c56f38-ee1e-4668-b284-64cc8ba2ad53
+  recordings: [d68620f0-3409-4117-a92f-d9245f90dff9]

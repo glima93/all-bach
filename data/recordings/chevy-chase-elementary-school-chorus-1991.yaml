@@ -1,0 +1,27 @@
+id: chevy-chase-elementary-school-chorus-1991
+performers:
+- name: Chevy Chase Elementary School Chorus
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1991]
+  place: null
+released: 1991
+original_label: null
+works:
+- {bwv: '9', complete: false, movements: ['V. Aria (Duetto: Soprano, Alto) "Herr, du siehst statt guter Werke"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d308de85-20f1-4cad-b95b-721e3505bfd1
+  title: 1990-1991 Spring Concert
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: afafac67-1c9b-49cd-b858-d6b82e2cd619
+  recordings: [aae045d1-0257-4281-a5cc-daa2de3a93a8]

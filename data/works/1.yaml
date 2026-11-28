@@ -1,0 +1,19 @@
+bwv: "1"
+title: "Wie schön leuchtet der Morgenstern"
+key: "F major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (STB), four-part choir, 2 horns, 2 oboes da caccia, 2 solo violins, strings and continuo"
+composed: "Leipzig; first performed on 25 March 1725 (Annunciation, which fell on Palm Sunday that year)"
+movements:
+  - "I. Coro “Wie schön leuchtet der Morgenstern”"
+  - "II. Recitativo (Tenore) “Du wahrer Gottes und Marien Sohn”"
+  - "III. Aria (Soprano) “Erfüllet, ihr himmlischen göttlichen Flammen”"
+  - "IV. Recitativo (Basso) “Ein irdscher Glanz, ein leiblich Licht”"
+  - "V. Aria (Tenore) “Unser Mund und Ton der Saiten”"
+  - "VI. Choral “Wie bin ich doch so herzlich froh”"
+notes: "The last chorale cantata of Bach's chorale cantata cycle 1724–25, based on Philipp Nicolai's 1599 hymn \"Wie schön leuchtet der Morgenstern\". The outer movements keep the hymn's first and last stanzas; an unknown poet paraphrased the inner stanzas."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Wie_schön_leuchtet_der_Morgenstern,_BWV_1"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/13bb5d97-00db-4fd8-920c-14da7c11bdd4

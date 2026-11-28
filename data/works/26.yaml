@@ -1,0 +1,19 @@
+bwv: "26"
+title: "Ach wie flüchtig, ach wie nichtig"
+key: "A minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, horn, flute, 3 oboes, strings and continuo"
+composed: "Leipzig; first performed on 19 November 1724 (Twenty-fourth Sunday after Trinity)"
+movements:
+  - "I. Choral \"Ach wie flüchtig, ach wie nichtig\""
+  - "II. Aria (Tenore) \"So schnell ein rauschend Wasser schießt\""
+  - "III. Recitativo (Alto) \"Die Freude wird zur Traurigkeit\""
+  - "IV. Aria (Basso) \"An irdische Schätze das Herze zu hängen\""
+  - "V. Recitativo (Soprano) \"Die höchste Herrlichkeit und Pracht\""
+  - "VI. Choral \"Ach wie flüchtig, ach wie nichtig\""
+notes: "A chorale cantata from Bach's second Leipzig cycle, based on Michael Franck's hymn \"Ach wie flüchtig, ach wie nichtig\" (1652) on the transience of life. The bass aria with three oboes has been described by John Eliot Gardiner as a dance of death."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Ach_wie_fl%C3%BCchtig,_ach_wie_nichtig,_BWV_26"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/8ecb0512-0e57-4c6a-81da-353fbd7d0a65

@@ -1,0 +1,37 @@
+id: collegium-vocale-gent-2003-2
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Daniel Taylor
+  role: performer
+- name: Peter Kooij
+  role: performer
+- name: Mark Padmore
+  role: performer
+- name: Carolyn Sampson
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2003]
+  place: 'Flagey Arts Center: Studio 4'
+released: 2005
+original_label: null
+works:
+- {bwv: '12', complete: true}
+- {bwv: '38', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d98258e1-33cd-410d-b885-17850be43130
+  title: 'Weinen, klagen...: Cantatas nos. 12, 38 & 75'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [119995b0-25e6-4063-9ea5-63eeca324b4d, 6fcaf1cf-5f37-4533-8f0a-aa02f7cf80d4]

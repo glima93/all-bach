@@ -1,0 +1,34 @@
+id: gaechinger-cantorey-2024
+performers:
+- name: Gaechinger Cantorey
+  role: choir
+- name: Hans-Christoph Rademann
+  role: conductor
+- name: Tobias Berndt
+  role: performer
+- name: Benedikt Kristjánsson
+  role: performer
+- name: Miriam Feuersinger
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2024]
+  place: Evangelische Christuskirchengemeinde Stuttgart
+released: 2025
+original_label: null
+works:
+- {bwv: '18', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cd8315d7-29e7-4ad7-bb44-87b23dbf58f0
+  title: The First Cantata Year, Vol. 7
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [a1088ff7-3fd1-4dc5-80cb-636df0bd2058]

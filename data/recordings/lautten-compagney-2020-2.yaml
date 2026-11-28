@@ -1,0 +1,76 @@
+id: lautten-compagney-2020-2
+performers:
+- name: Lautten Compagney
+  role: ensemble
+- name: Anna Prohaska
+  role: soprano
+- name: Wolfgang Katschner
+  role: conductor
+- name: Susanne Langner
+  role: alto
+- name: Karsten Müller
+  role: bass
+- name: Christian Pohlers
+  role: tenor
+- name: Lea Rahel Bader
+  role: cello
+- name: Elisabeth Grümmer
+  role: oboe
+- name: Anne von Hoff
+  role: violin
+- name: Martin Jelev
+  role: oboe
+- name: Inga Maria Klaucke
+  role: recorder
+- name: Ulrike Paetz
+  role: viola
+- name: Andreas Pfaff
+  role: violin
+- name: Mirjam Wittulski
+  role: double bass
+- name: Ulrike Becker
+  role: cello
+- name: Annette Rheinfurth
+  role: double bass
+- name: Birgit Schnurpfeil
+  role: violin
+- name: Daniela Gubatz
+  role: violin
+- name: Carl-Philipp Kaptain
+  role: trombone
+- name: Caroline Kersten
+  role: viola
+- name: Ulrike Ködding
+  role: flute
+- name: Till Krause
+  role: trombone
+- name: Friederike Otto
+  role: cornett
+- name: Martin Ripper
+  role: recorder
+- name: David Yacus
+  role: trombone
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: Christuskirche
+released: 2020
+original_label: null
+works:
+- {bwv: '25', complete: false, movements: [I. Coro "Es ist nichts Gesundes an meinem Leibe"]}
+- {bwv: '31', complete: false, movements: ['VIII. Aria (Soprano) e Choral "Letzte Stunde, brich herein"']}
+- {bwv: '44', complete: false, movements: [VI. Aria (Soprano) "Es ist und bleibt der Christen Trost"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7f45430c-9c15-41c4-85af-f57315f9de0b
+  title: Redemption
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 61e6953a-1b1c-40fe-8b72-fdf86ce718ec
+  recordings: [9a11d7ef-c593-4332-8fe6-1cf7aba05fc0, b47d9143-38ab-4b7d-8226-dff1f889b5fa, db39acc4-a77c-4fe2-a06f-bf2f2b1b505a]

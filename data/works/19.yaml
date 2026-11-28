@@ -1,0 +1,20 @@
+bwv: "19"
+title: "Es erhub sich ein Streit"
+key: "C major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (STB), four-part choir, 3 trumpets, timpani, 2 oboes, 2 oboes d'amore, oboe da caccia, strings and continuo"
+composed: "Leipzig; first performed on 29 September 1726 (Feast of St. Michael)"
+movements:
+  - "I. Coro \"Es erhub sich ein Streit\""
+  - "II. Recitativo (Basso) \"Gottlob! der Drache liegt\""
+  - "III. Aria (Soprano) \"Gott schickt uns Mahanaim zu\""
+  - "IV. Recitativo (Tenore) \"Was ist der schnöde Mensch, das Erdenkind?\""
+  - "V. Aria (Tenore) \"Bleibt, ihr Engel, bleibt bei mir!\""
+  - "VI. Recitativo (Soprano) \"Laßt uns das Angesicht\""
+  - "VII. Choral \"Laß dein' Engel mit mir fahren\""
+notes: "Written for Michaelmas in Bach's third Leipzig year, on a text reworked from a 1725 libretto by Picander; the opening chorus depicts the battle of the archangel Michael with the dragon. In the tenor aria a trumpet plays the chorale melody \"Herzlich lieb hab ich dich, o Herr\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Es_erhub_sich_ein_Streit,_BWV_19"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/382c2eb1-dd22-4088-930a-d774d57e78e0

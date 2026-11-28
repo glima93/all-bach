@@ -1,0 +1,32 @@
+id: munchener-kammerorchester-undated-3
+performers:
+- name: Münchener Kammerorchester
+  role: orchestra
+- name: The Hilliard Ensemble
+  role: choir
+- name: Christoph Poppen
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Himmelfahrtskirche
+released: 2003
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1ed0343c-6eca-4a1a-9cde-0a36ce0b6652
+  title: Ricercar
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 6cd8706c-2bf1-4406-8377-187136acb110
+  recordings: [2980740f-215c-424b-8c87-b4866586c708, 861a2499-3901-43b1-aeb0-9c1e8205de97]

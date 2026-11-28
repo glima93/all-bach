@@ -1,0 +1,36 @@
+id: wurttembergisches-kammerorchester-heilbronn-1983
+performers:
+- name: Württembergisches Kammerorchester Heilbronn
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: Bach-Ensemble
+  role: performer
+- name: Philippe Huttenlocher
+  role: performer
+- name: Ulrike Sonntag
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1983, 1984]
+  place: Gedächtniskirche Stuttgart
+released: 1985
+original_label: null
+works:
+- {bwv: '29', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a3fc1891-e74f-45da-bc52-8e5393f5a8e7
+  title: 'Die Bach-Kantate, Volume 6: BWV 50, 140, 29'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 556a5295-5b20-4da7-a9d1-49833162cb73
+  recordings: [854121ea-5d50-4505-9372-d6aac6666415, f79c8f70-f203-4824-afdf-32fd498ba700]

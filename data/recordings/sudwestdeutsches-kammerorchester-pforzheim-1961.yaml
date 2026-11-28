@@ -1,0 +1,36 @@
+id: sudwestdeutsches-kammerorchester-pforzheim-1961
+performers:
+- name: Südwestdeutsches Kammerorchester Pforzheim
+  role: orchestra
+- name: Heinrich-Schütz-Chor Heilbronn
+  role: choir
+- name: Fritz Werner
+  role: conductor
+- name: Claudia Hellmann
+  role: performer
+- name: Helmut Krebs
+  role: performer
+- name: Jakob Stämpfli
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1961]
+  place: Bartholomäuskirche
+released: 1989
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b155a569-2825-4b17-a407-5cc6ce93b077
+  title: 'Kantaten: BWV 4 / 21 / 90 / 140 / 147'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7728bbd6-1fd8-4027-9203-1e480fb56dbe
+  recordings: [098769d0-3fda-4523-b9bc-b02bf7383a6a, d1d759fa-e3a3-4f50-a26e-4e5f6b9decc5]

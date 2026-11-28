@@ -1,0 +1,31 @@
+id: english-baroque-soloists-2007
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: Basilique Saint-Denis
+released: 2010
+original_label: null
+works:
+- {bwv: '2', complete: true}
+- {bwv: '10', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2dce8f40-e672-431d-b9a7-a89afe33a783
+  title: 'Cantatas, Volume 2: Paris/Zürich'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [311fb2b2-7975-40ed-a186-d00ff3c28458, bb6e8d1b-f0bd-4ce4-9ccf-e24e79512b9e]

@@ -1,0 +1,34 @@
+id: bach-collegium-stuttgart-1973-2
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: Marga Höffgen
+  role: alto
+- name: Aldo Baldin
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973]
+  place: Gedächtniskirche Stuttgart
+released: 1999
+original_label: null
+works:
+- {bwv: '48', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b3cc4332-7007-4dd2-8a9a-d53b799c2917
+  title: 'Edition Bachakademie, Volume 16: Cantatas BWV 46-48'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [d004f1dc-99fa-446a-a8fe-8c227890cb2c, db85e9e8-925d-4be8-a4e5-7d83515db6d0]

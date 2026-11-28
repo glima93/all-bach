@@ -1,0 +1,28 @@
+id: akademia-2014-2
+performers:
+- name: Akadêmia
+  role: orchestra
+- name: Françoise Lasserre
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Église Saint-Genès des Carmes
+released: 2015
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cc290e55-099f-4680-85fb-4988de9f1b9f
+  title: 'Une passion : Et ils me cloueront sur le bois'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e680d7a9-8adc-4fbf-9400-1abbc12b4537
+  recordings: [a35796d2-41a6-4568-acf6-2b13f9ec72ad]

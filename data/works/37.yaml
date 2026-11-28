@@ -1,0 +1,19 @@
+bwv: "37"
+title: "Wer da gläubet und getauft wird"
+key: "A major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 2 oboes d'amore, strings and continuo"
+composed: "Leipzig; first performed on 18 May 1724 (Ascension)"
+movements:
+  - "I. Coro \"Wer da gläubet und getauft wird, der wird selig werden\""
+  - "II. Aria (Tenore) \"Der Glaube ist das Pfand der Liebe\""
+  - "III. Choral (Soprano, Alto) \"Herr Gott Vater, mein starker Held!\""
+  - "IV. Recitativo (Basso) \"Ihr Sterblichen, verlanget ihr\""
+  - "V. Aria (Basso) \"Der Glaube schafft der Seele Flügel\""
+  - "VI. Choral \"Den Glauben mir verleihe\""
+notes: "Bach's first cantata for Ascension, from his first Leipzig cycle, on a text by an unknown poet. The solo violin part of the tenor aria is lost and is usually reconstructed in performance."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Wer_da_gl%C3%A4ubet_und_getauft_wird,_BWV_37"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/76c43df9-8ba4-49d5-9c3c-f046a086e5c5

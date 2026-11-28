@@ -1,0 +1,34 @@
+id: gaechinger-cantorey-2021
+performers:
+- name: Gaechinger Cantorey
+  role: choir
+- name: Hans-Christoph Rademann
+  role: conductor
+- name: Núria Rial
+  role: performer
+- name: Benedikt Kristjánsson
+  role: performer
+- name: Matthias Winckhler
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2021]
+  place: Forum am Schlosspark
+released: 2021
+original_label: null
+works:
+- {bwv: '21', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3fa7f050-4adf-4644-a595-ccdf52b13eca
+  title: Ich hatte viel Bekümmernis, BWV 21 / Herz und Mund und Tat und Leben, BWV 147
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [05e711ae-99bf-451c-888b-f7bead078c46]

@@ -1,0 +1,34 @@
+id: huelgas-ensemble-undated
+performers:
+- name: Huelgas Ensemble
+  role: ensemble
+- name: Paul Van Nevel
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '2', complete: false, movements: ['I. Coro "Ach Gott, vom Himmel sieh darein"']}
+- {bwv: '33', complete: false, movements: ['I. Coro "Allein zu dir, Herr Jesu Christ"', VI. Choral "Ehr sei Gott
+      in dem höchsten Thron"]}
+- {bwv: '38', complete: false, movements: [I. Choral. "Aus tiefer Not schrei ich zu dir", VI. Choral "Ob bei uns
+      ist der Sünden viel"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d3a62d75-ae36-4f4d-bd86-c663cd811d8f
+  title: PraeBACHtorius
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 393ec3fa-66f4-4f34-b181-0e3e84232f41
+  recordings: [88477e90-91c2-447e-827b-136abfd10d1f, a8e151fc-6b88-40fd-a9ba-87a441ba76ba, bd20a69b-ee88-4b81-9a49-01f26918ac71]

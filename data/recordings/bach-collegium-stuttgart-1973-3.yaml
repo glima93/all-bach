@@ -1,0 +1,34 @@
+id: bach-collegium-stuttgart-1973-3
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Aldo Baldin
+  role: tenor
+- name: Wolfgang Schöne
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1973, 1979]
+  place: Gedächtniskirche Stuttgart
+released: 1999
+original_label: null
+works:
+- {bwv: '44', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d00b43c1-28cd-4e16-813c-2cfa6b18e24a
+  title: Cantatas BWV 43-45
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [598b2814-da8e-46b7-96b3-ecc7ef544b47, a9e8e8c3-fa4e-437f-be9c-3f2658e0da00]

@@ -1,0 +1,30 @@
+id: bach-collegium-stuttgart-1980-6
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980]
+  place: Gedächtniskirche Stuttgart
+released: 1987
+original_label: null
+works:
+- {bwv: '6', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fd371301-2972-40c1-8dff-30a2f564f43c
+  title: Osteroratorium BWV 249 / Bleib bei uns BWV 6
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [297938c1-ddc1-418e-8e94-79d8c42befb1]

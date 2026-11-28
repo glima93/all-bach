@@ -1,0 +1,32 @@
+id: neues-bachisches-collegium-musicum-1984-4
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Ludwig Güttler
+  role: trumpet
+- name: Peter Schreier
+  role: tenor
+- name: Max Pommer
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1984]
+  place: Paul-Gerhardt-Kirche
+released: 1984
+original_label: null
+works:
+- {bwv: '19', complete: false, movements: ['V. Aria (Tenore) "Bleibt, ihr Engel, bleibt bei mir!"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/72dc27ee-e7d3-49fa-af78-d38432862e38
+  title: Die Bach-Trompete
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [9e7a16e7-1bb3-4699-bff4-f939488a98a2]

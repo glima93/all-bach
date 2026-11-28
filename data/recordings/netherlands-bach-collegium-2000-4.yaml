@@ -1,0 +1,38 @@
+id: netherlands-bach-collegium-2000-4
+performers:
+- name: Netherlands Bach Collegium
+  role: orchestra
+- name: Pieter Jan Leusink
+  role: conductor
+- name: Holland Boys Choir
+  role: choir
+- name: Sytse Buwalda
+  role: alto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Sint-Nicolaaskerk
+released: 2000
+original_label: null
+works:
+- {bwv: '19', complete: true}
+- {bwv: '24', complete: true}
+- {bwv: '29', complete: true}
+- {bwv: '31', complete: true}
+- {bwv: '34', complete: true}
+- {bwv: '41', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/230a08d9-0488-41fe-b331-4c0787288a14
+  title: 'Bach Edition, Volume 21: Cantatas/Kantaten, Volume XII'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a422d36-6a96-47fa-90c8-7a0a3413f3c7
+  recordings: [2b7ea176-3c64-4488-8bdd-713556572f4d, 4cdd1848-fa56-44dd-8ea1-c11674c6f008, 55174b17-89c9-4757-b07a-b0447016c1a9,
+    9c838fc0-ee29-49e4-9636-5666fe69f4f3, a22a4300-7776-430d-ad06-079340665b91, f1a3cf09-7763-4351-9ce5-b7d0f2200c6e]

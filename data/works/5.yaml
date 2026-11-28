@@ -1,0 +1,20 @@
+bwv: "5"
+title: "Wo soll ich fliehen hin"
+key: "G minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, tromba da tirarsi, 2 oboes, strings (with solo viola) and continuo"
+composed: "Leipzig; first performed on 15 October 1724 (Nineteenth Sunday after Trinity)"
+movements:
+  - "I. Coro \"Wo soll ich fliehen hin\""
+  - "II. Recitativo (Basso) \"Der Sünden Wust hat mich nicht nur befleckt\""
+  - "III. Aria (Tenore) \"Ergieße dich reichlich, du göttliche Quelle\""
+  - "IV. Recitativo (Alto) \"Mein treuer Heiland tröstet mich\""
+  - "V. Aria (Basso) \"Verstumme, Höllenheer, Du machst mich nicht verzagt!\""
+  - "VI. Recitativo (Soprano) \"Ich bin ja nur das kleinste Teil der Welt\""
+  - "VII. Choral \"Führ auch mein Herz und Sinn\""
+notes: "Part of Bach's chorale cantata cycle 1724–25, based on Johann Heermann's 1630 hymn \"Wo soll ich fliehen hin\". The first and last stanzas are kept; an unknown librettist paraphrased the others."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Wo_soll_ich_fliehen_hin,_BWV_5"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/030ed1d6-6405-4a60-b414-08c0b8e78500

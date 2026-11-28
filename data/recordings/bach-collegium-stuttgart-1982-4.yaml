@@ -1,0 +1,30 @@
+id: bach-collegium-stuttgart-1982-4
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1982]
+  place: Gedächtniskirche Stuttgart
+released: 1999
+original_label: null
+works:
+- {bwv: '45', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d00b43c1-28cd-4e16-813c-2cfa6b18e24a
+  title: Cantatas BWV 43-45
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [77a4452f-9008-46ad-93e4-419b8b6f61a0]

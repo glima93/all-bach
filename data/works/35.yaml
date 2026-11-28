@@ -1,0 +1,20 @@
+bwv: "35"
+title: "Geist und Seele wird verwirret"
+key: "D minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Alto solo, 2 oboes, taille, obbligato organ, strings and continuo"
+composed: "Leipzig; first performed on 8 September 1726 (Twelfth Sunday after Trinity)"
+movements:
+  - "Teil I, I. Sinfonia"
+  - "Teil I, II. Aria (Alto) \"Geist und Seele wird verwirret\""
+  - "Teil I, III. Recitativo (Alto) \"Ich wundre mich, denn alles, was man sieht\""
+  - "Teil I, IV. Aria (Alto) \"Gott hat alles wohlgemacht\""
+  - "Teil II, V. Sinfonia"
+  - "Teil II, VI. Recitativo (Alto) \"Ach, starker Gott, laß mich doch\""
+  - "Teil II, VII. Aria (Alto) \"Ich wünsche mir, bei Gott zu leben\""
+notes: "A solo cantata from Bach's third cycle, on a text by Georg Christian Lehms. The organ is soloist in the two sinfonias, which open each part and were probably drawn from a lost concerto (related to the harpsichord concerto fragment BWV 1059), and plays obbligato in all three arias."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Geist_und_Seele_wird_verwirret,_BWV_35"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/f56ca74c-43c2-42a1-9fe6-3f03079ace69

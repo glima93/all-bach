@@ -1,0 +1,30 @@
+id: english-baroque-soloists-1999-2
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: St John’s, Smith Square
+released: 2000
+original_label: null
+works:
+- {bwv: '34', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3e8c6bdc-98fb-49fc-8f86-c8ef9b04f33d
+  title: 'Cantatas, Whitsun: BWV 34, 59, 74, 172'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [e3011b7b-0271-4087-b23d-ac48767838d8]

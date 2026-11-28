@@ -1,0 +1,78 @@
+id: balthasar-neumann-chor-2008
+performers:
+- name: Balthasar-Neumann-Chor
+  role: choir
+- name: Balthasar-Neumann-Ensemble
+  role: orchestra
+- name: Thomas Hengelbrock
+  role: conductor
+- name: Basma Abdel-Rahim
+  role: violin
+- name: Michael Behringer
+  role: organ
+- name: Bettina Van Roosebeke
+  role: violin
+- name: Anna Carewe
+  role: cello
+- name: Carles Cristóbal
+  role: bassoon
+- name: Davide Vittone
+  role: double bass
+- name: Dorle Sommer
+  role: viola
+- name: Emma Black
+  role: oboe
+- name: Friedemann Wollheim
+  role: viola
+- name: Gunther Schwiddessen
+  role: violin
+- name: Rachel Harris
+  role: violin
+- name: Claudia Hofert
+  role: viola
+- name: Jeanette Dorée
+  role: viola
+- name: Josep Domenech
+  role: oboe
+- name: Ariane Lallemand
+  role: cello
+- name: Martina Warecka
+  role: violin
+- name: Mechthild Blaumer
+  role: violin
+- name: Monika Nußächer
+  role: violin
+- name: Gesine Queyras
+  role: cello
+- name: Regula Keller
+  role: violin
+- name: Verena Schoneweg
+  role: violin
+- name: Undine Holzwarth
+  role: soprano
+- name: Barbara Ostertag
+  role: alto
+- name: Sibylle Schaible
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: Martinskirche Mullheim
+released: 2009
+original_label: null
+works:
+- {bwv: '12', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6578d1d6-72df-4de1-9ba5-39b9d5192c73
+  title: Lotti, Zelenka, Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: f34425ff-6236-42a6-b767-d145933a3048
+  recordings: [2a2fb719-d913-49a8-a70f-99dbebecf2f8]

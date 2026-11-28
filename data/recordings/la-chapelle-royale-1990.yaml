@@ -1,0 +1,32 @@
+id: la-chapelle-royale-1990
+performers:
+- name: La Chapelle Royale
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Marcel Ponseele
+  role: oboe
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1990]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '21', complete: true}
+- {bwv: '42', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5198ed7b-97f6-4bf4-a071-c21240b6403e
+  title: 'Ich hatte viel Bekümmernis : Cantates BWV 21 & 42'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 30b7cd73-6e32-4a78-bf1f-bb0129b44184
+  recordings: [1db45ec7-47a1-4602-a038-868b7f72ed6d, 63b4ec61-1852-4a0d-92c0-5707cef5685f]

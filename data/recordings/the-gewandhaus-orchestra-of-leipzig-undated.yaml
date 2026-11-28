@@ -1,0 +1,38 @@
+id: the-gewandhaus-orchestra-of-leipzig-undated
+performers:
+- name: The Gewandhaus Orchestra of Leipzig
+  role: orchestra
+- name: E. Power Biggs
+  role: organ
+- name: Almuth Reuther
+  role: harpsichord
+- name: Hans-Joachim Rotzsch
+  role: conductor
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2019
+original_label: null
+works:
+- {bwv: '29', complete: false, movements: [I. Sinfonia]}
+- {bwv: '35', complete: false, movements: ['Teil I, I. Sinfonia', 'Teil II, V. Sinfonia']}
+- {bwv: '49', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c7ab61d1-1e0b-4a77-b4b1-c5530094d83a
+  title: Music for Organ, Brass and Percussion / The Six Organ-Concerto Sinfonias
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [19ac7948-ea01-41d6-bf1a-2967ee5e8f17, 3c3eb59b-4a8f-4743-be46-f8a8c4bad60e, 6e7263c4-b472-4cd4-8942-99b88d4bd5e2]

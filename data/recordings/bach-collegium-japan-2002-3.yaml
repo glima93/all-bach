@@ -1,0 +1,38 @@
+id: bach-collegium-japan-2002-3
+performers:
+- name: Bach Collegium Japan
+  role: ensemble
+- name: Masaaki Suzuki
+  role: performer
+- name: Makoto Sakurada
+  role: performer
+- name: Yukari Nonoshita
+  role: performer
+- name: Peter Kooij
+  role: performer
+- name: Matthew White
+  role: performer
+- name: 鈴木雅明
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2002]
+  place: 神戸松蔭女子学院大学チャペル
+released: 2003
+original_label: null
+works:
+- {bwv: '10', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8791acfd-4446-4f31-b7c2-f636a3973dfe
+  title: Cantatas, Volume 23
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [e9ae871e-06a8-4eb8-8ec2-cdad991b9131]

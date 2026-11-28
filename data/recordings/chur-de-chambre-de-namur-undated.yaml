@@ -1,0 +1,32 @@
+id: chur-de-chambre-de-namur-undated
+performers:
+- name: Chœur de Chambre de Namur
+  role: choir
+- name: Ricercar Consort
+  role: orchestra
+- name: Pierre Cao
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Eglise Saint-Jacques
+released: 2014
+original_label: null
+works:
+- {bwv: '4', complete: false, movements: [V. Chor Versus IV „Es war ein wunderlicher Krieg“, VIII. Choral Versus
+      VII „Wir essen und leben wohl“]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4affc312-e072-44b0-8af0-96d268566b6e
+  title: 'German Baroque Sacred Music: Passion‐Resurrection'
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 55a168d5-e633-44db-8fc2-7c1bc612e81f
+  recordings: [ef04193d-f746-4f8b-91c6-7cb0ab8d869f]

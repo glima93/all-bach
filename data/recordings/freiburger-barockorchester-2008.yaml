@@ -1,0 +1,31 @@
+id: freiburger-barockorchester-2008
+performers:
+- name: Freiburger Barockorchester
+  role: orchestra
+- name: Petra Müllejans
+  role: conductor
+- name: Bernarda Fink
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '35', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d8bcee76-df93-43e6-b240-5cb9491ce3fb
+  title: Solo Cantatas
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 21a558f0-22b1-4959-aa24-df7b0d7a571d
+  recordings: [b538015a-4523-4323-85c5-6e8ee5bb862e]

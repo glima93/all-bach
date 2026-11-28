@@ -1,0 +1,36 @@
+id: gaechinger-cantorey-2018
+performers:
+- name: Gaechinger Cantorey
+  role: choir
+- name: David Franke
+  role: organ
+- name: Hans-Christoph Rademann
+  role: conductor
+- name: Lenneke Ruiten
+  role: performer
+- name: Benedikt Kristjansson
+  role: performer
+- name: Peter Harvey
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: Stadtkirche St. Wenzel
+released: 2019
+original_label: null
+works:
+- {bwv: '19', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50427720-efc6-46bf-bd7b-c220c24890e5
+  title: 'Stay, ye angels: Cantatas'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [d7a13739-31c1-4060-b661-40a90d089c0d]

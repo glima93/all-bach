@@ -1,0 +1,36 @@
+id: la-petite-bande-2006
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Sigiswald Kuijken
+  role: conductor
+- name: Jan Kobow
+  role: tenor
+- name: Petra Noskaiová
+  role: alto
+- name: Jan Van der Crabben
+  role: bass
+- name: Elisabeth Hermans
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: Sint-Jans en Sint-Stevenskerk der Miniemen
+released: 2006
+original_label: null
+works:
+- {bwv: '16', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bc0401a9-2c92-4c56-b7cb-2255741ede45
+  title: Cantatas 16 - 153 - 65 - 154 ›Sie Werden Aus Saba Alle Kommen‹
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [bce4fa6b-c78f-4a8f-acdc-4043412995f7]

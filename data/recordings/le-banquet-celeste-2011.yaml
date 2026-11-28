@@ -1,0 +1,30 @@
+id: le-banquet-celeste-2011
+performers:
+- name: Le Banquet Céleste
+  role: ensemble
+- name: Damien Guillon
+  role: performer
+- name: Maude Gratton
+  role: organ
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: Église réformée du Bouclier
+released: 2012
+original_label: null
+works:
+- {bwv: '35', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c7998321-727d-4478-96da-09adfcd1f82a
+  title: Cantates, BWV 170 & 35
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2f7a882-83dc-47bc-a97b-591971885611
+  recordings: [69c10dde-e0b8-4d7c-824f-8028aa45e91c]

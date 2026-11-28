@@ -1,0 +1,31 @@
+id: hansjorg-albrecht-2007-2
+performers:
+- name: Hansjörg Albrecht
+  role: conductor
+- name: Christian Brembeck
+  role: organ
+- name: Münchener Bach‐Chor
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '38', complete: false, movements: [I. Choral. "Aus tiefer Not schrei ich zu dir"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b078e044-1f33-43e3-8db7-5da613e6238e
+  title: 'Orgelmesse: III. Teil der Clavier-Übung'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2c3b356-0dfb-4373-b36b-11b356497d18
+  recordings: [c0066954-503b-4dc3-8a97-ca2898f5549a]

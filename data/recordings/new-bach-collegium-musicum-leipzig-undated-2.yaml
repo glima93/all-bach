@@ -1,0 +1,34 @@
+id: new-bach-collegium-musicum-leipzig-undated-2
+performers:
+- name: New Bach Collegium Musicum Leipzig
+  role: orchestra
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Hans-Joachim Rotzsch
+  role: conductor
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2002
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6458c161-05ff-4ff1-aedf-d28fdee9ad18
+  title: Geistliche Kantaten
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [4ab5c2d2-2a80-4174-b8a7-e4e703641981, 736c343d-4ba6-4b1d-8ca7-fc7699f57eb5]

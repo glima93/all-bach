@@ -1,0 +1,30 @@
+id: amsterdam-baroque-orchestra-2000-3
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Ton Koopman
+  role: conductor
+- name: Amsterdam Baroque Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Waalse Kerk
+released: 2003
+original_label: null
+works:
+- {bwv: '26', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf1c77c2-a57f-4bf9-b775-d9790985f5da
+  title: Cantatas, Volume 14
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [5d1afece-f45b-4d20-bc95-7e0dc3626459]

@@ -1,0 +1,36 @@
+id: american-bach-soloists-1994
+performers:
+- name: American Bach Soloists
+  role: other instruments
+- name: Jeffrey Thomas
+  role: conductor
+- name: Judith Nelson
+  role: performer
+- name: Benjamin Butterfield
+  role: performer
+- name: Daniel Taylor
+  role: performer
+- name: Kurt‐Owen Richards
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1994]
+  place: St. Stephen’s Church
+released: null
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c2a063f4-2cea-4766-869c-2da0eb83a5d1
+  title: 'Cantatas, Volume IV: Early Cantatas from Mühlhausen and Weimar – Cantatas for Holy Week'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cfc35bbe-7855-4674-a8f9-9d5e2cb31ff9
+  recordings: [29cd4560-6f3b-42b7-ae8c-6616d28b1e6f]

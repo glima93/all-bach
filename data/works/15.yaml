@@ -1,0 +1,23 @@
+bwv: "15"
+title: "Denn du wirst meine Seele nicht in der Hölle lassen"
+key: "C major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 3 trumpets, timpani, strings and continuo"
+composed: "Probably Meiningen, 1704 (Easter); performed by J. S. Bach in Leipzig on 21 April 1726 (Easter Sunday)"
+movements:
+  - "I. Arioso \"Denn du wirst meine Seele nicht in der Hölle lassen\""
+  - "II. Recitativo \"Mein Jesus ware tot\""
+  - "III. Aria (Duetto) \"Weichet, weichet, Furcht und Schrecken\""
+  - "IV. Aria \"Entsetzet euch nicht\""
+  - "V. Aria \"Auf, freue dich, Seele, du bist nun getröst'\""
+  - "VI. Terzetto \"Wo bleibet dein Rasen du höllischer Hund\""
+  - "VII. Aria (Duet) \"Ihr klaget mit Seufzen, ich jauchze mit Schall\""
+  - "VIII. Sonata"
+  - "IX. Recitative - Quartet \"Drum danket dem Höchsten, dem Störer des Krieges\""
+  - "X. Chorale \"Weil du vom Tod erstanden bist\""
+notes: "Not by J. S. Bach: the Easter cantata was composed by his cousin Johann Ludwig Bach (JLB 21) and was long counted as an early work of Johann Sebastian. The text is probably by Duke Ernst Ludwig of Saxe-Meiningen."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Denn_du_wirst_meine_Seele_nicht_in_der_Hölle_lassen"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/1c7b5ec3-b974-4259-97e9-3546689df174

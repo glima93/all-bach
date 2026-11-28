@@ -1,0 +1,31 @@
+id: camerata-bern-2010-2
+performers:
+- name: Camerata Bern
+  role: orchestra
+- name: Heinz Holliger
+  role: oboe
+- name: Erich Höbarth
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2010]
+  place: Radio Studio Zürich
+released: 2011
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: [I. Sinfonia]}
+- {bwv: '21', complete: false, movements: ['Teil I, I. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e243ec9-3231-45a4-8670-958780274f89
+  title: Concertos and Sinfonias for Oboe / Ich hatte viel Bekümmernis
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b562bf23-c7db-4254-9435-4772b66d08cd
+  recordings: [d755a86e-507a-4c43-98b6-45bdcb90bf2d, eaee7b89-1b29-40e9-8100-ea55d7482348]

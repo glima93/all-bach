@@ -1,0 +1,19 @@
+bwv: "13"
+title: "Meine Seufzer, meine Tränen"
+key: "D minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 2 recorders, oboe da caccia, strings and continuo"
+composed: "Leipzig; first performed on 20 January 1726 (Second Sunday after Epiphany)"
+movements:
+  - "I. Aria (Tenore) \"Meine Seufzer, meine Tränen\""
+  - "II. Recitativo (Alto) \"Mein liebster Gott lässt mich annoch\""
+  - "III. Choral (Alto) \"Der Gott, der mir hat versprochen\""
+  - "IV. Recitativo (Soprano) \"Mein Kummer nimmet zu\""
+  - "V. Aria (Basso) \"Ächzen und erbärmlich Weinen\""
+  - "VI. Choral \"So sei nun, Seele\""
+notes: "From Bach's third Leipzig cantata cycle, to a text by Georg Christian Lehms. The chorales are a stanza of Johann Heermann's \"Zion klagt mit Angst und Schmerzen\" and the last stanza of Paul Fleming's \"In allen meinen Taten\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Meine_Seufzer,_meine_Tränen,_BWV_13"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/681ff564-ee6b-48e0-8629-de8c302d20fc

@@ -1,0 +1,51 @@
+id: das-neue-orchester-undated
+performers:
+- name: Das Neue Orchester
+  role: orchestra
+- name: Chorus Musicus Köln
+  role: choir
+- name: Christoph Spering
+  role: conductor
+- name: Leandro Marziotte
+  role: alto
+- name: Benedikt Kristjánsson
+  role: tenor
+- name: Yeree Suh
+  role: soprano
+- name: Daniel Ochoa
+  role: performer
+- name: Georg Poplutz
+  role: performer
+- name: Tobias Berndt
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2018
+original_label: null
+works:
+- {bwv: '3', complete: false, movements: ['II. Recitativo e choral (Tenore, Alto, Soprano, Basso) "Wie schwerlich
+      lässt sich Fleisch und Blut"', III. Aria (Basso) "Empfind ich Höllenangst und Pein", IV. Recitativo (Tenore)
+      "Es mag mir Leib und Geist verschmachten", 'V. Aria (Duetto: Soprano, Alto) "Wenn Sorgen auf mich dringen"',
+    VI. Choral "Erhalt mein Herz im Glauben"]}
+- {bwv: '10', complete: true}
+- {bwv: '20', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a82bc2c5-b241-4644-98f9-8e22f28d1fc1
+  title: 'Eternity: Cantatas BWV 20, 93, 3, 10, 116, 124'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a133824f-840d-478c-90b8-6b445e621c25
+  recordings: [2301e58e-f917-48fe-9f95-fee8fa450e7a, 27a8a88c-e7ba-44f8-9fc7-d2028e64faff, 5d46f5e2-2a7b-44c1-a495-d64167ce7fdc,
+    65747d8e-3fcc-4775-ba35-cd2c2438cbdc, b48f9d8a-c620-4115-b617-7e53f94f89e9, f08c2500-5c88-4118-9982-5bf35cf4597c]

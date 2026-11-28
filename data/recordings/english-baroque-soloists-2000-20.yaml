@@ -1,0 +1,28 @@
+id: english-baroque-soloists-2000-20
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Holy Trinity
+released: 2006
+original_label: null
+works:
+- {bwv: '34', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9d74be2c-fc41-4954-b64d-c147a00e9eaf
+  title: 'Cantatas, Volume 26: Long Melford'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [bc538d15-2948-4e78-b9bc-db5956e04b50]

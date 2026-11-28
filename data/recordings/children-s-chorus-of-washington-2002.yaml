@@ -1,0 +1,28 @@
+id: children-s-chorus-of-washington-2002
+performers:
+- name: Children's Chorus of Washington
+  role: choir
+- name: Joan Gregoryk
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2002]
+  place: St Paul's Lutheran Church
+released: 2002
+original_label: null
+works:
+- {bwv: '15', complete: false, movements: ['VII. Aria (Duet) "Ihr klaget mit Seufzen, ich jauchze mit Schall"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3760e07d-7bae-4235-97ab-2db4f82ed011
+  title: 2001-2002 Season Treble Chorus
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: b89778d2-1bea-4224-96d8-c3d725ed93e2
+  recordings: [7fe2fab9-a987-45e3-be43-fc86e242e553]

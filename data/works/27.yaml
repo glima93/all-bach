@@ -1,0 +1,19 @@
+bwv: "27"
+title: "Wer weiß, wie nahe mir mein Ende?"
+key: "C minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, horn, 2 oboes, oboe da caccia, obbligato organ, strings and continuo"
+composed: "Leipzig; first performed on 6 October 1726 (Sixteenth Sunday after Trinity)"
+movements:
+  - "I. Choral e Recitativi (Soprano, Alto, Tenore, Basso) \"Wer weiß, wie nahe mir mein Ende?\""
+  - "II. Recitativo (Tenore) \"Mein Leben hat kein ander Ziel\""
+  - "III. Aria (Alto) \"Willkommen! will ich sagen\""
+  - "IV. Recitativo (Soprano) \"Ach, wer doch schon im Himmel wär!\""
+  - "V. Aria (Basso) \"Gute Nacht, du Weltgetümmel!\""
+  - "VI. Choral \"Welt, ade! ich bin dein müde\""
+notes: "From Bach's fourth year in Leipzig, on a text by an unknown poet; the opening interweaves the hymn of Ämilie Juliane von Schwarzburg-Rudolstadt with recitatives. The five-part closing chorale \"Welt, ade! ich bin dein müde\" is a harmonisation by Johann Rosenmüller, not by Bach."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Wer_wei%C3%9F,_wie_nahe_mir_mein_Ende%3F_BWV_27"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/b6548f15-3465-49df-bba0-a3460f1d64e8

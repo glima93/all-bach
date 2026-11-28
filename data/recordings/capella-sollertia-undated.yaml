@@ -1,0 +1,37 @@
+id: capella-sollertia-undated
+performers:
+- name: Capella Sollertia
+  role: orchestra
+- name: Johanna Soller
+  role: conductor
+- name: Carine Tinney
+  role: performer
+- name: William Shelton
+  role: performer
+- name: Sebastian Myrus
+  role: bass
+- name: Michael Mogl
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Himmelfahrtskirche
+released: 2026
+original_label: null
+works:
+- {bwv: '15', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e5b90759-dedb-4cf7-a9ea-da177ddfc1e1
+  title: The Leipzig Cantatas
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 14a84aa8-4e1e-487c-bab1-cbbdbeaf4d5e
+  recordings: [004cf75b-d85e-48fe-96ff-d62b3650f05d]

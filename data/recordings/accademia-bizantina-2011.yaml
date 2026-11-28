@@ -1,0 +1,34 @@
+id: accademia-bizantina-2011
+performers:
+- name: Accademia Bizantina
+  role: orchestra
+- name: Ottavio Dantone
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: San Girolamo
+released: 2011
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: [I. Sinfonia]}
+- {bwv: '21', complete: false, movements: ['Teil I, I. Sinfonia']}
+- {bwv: '29', complete: false, movements: [I. Sinfonia]}
+- {bwv: '31', complete: false, movements: [I. Sonata]}
+- {bwv: '35', complete: false, movements: ['Teil I, I. Sinfonia', 'Teil II, V. Sinfonia']}
+- {bwv: '42', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/47e6046e-d5af-4d50-a5ac-d4ce614f4107
+  title: Sinfonia
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 2c422cb3-2c82-483d-8815-d38b388d1ee5
+  recordings: [18d92e20-2581-4368-8b78-ab0684dce31d, 29d52aaf-d012-4fb7-b1f8-b08c06470464, 793bfaf3-7e77-4ce2-b819-91cbba7f6c13,
+    800b9748-9bf5-42aa-b723-23a48dd83b3a, ba2a8240-7d5a-4b20-a036-fe47ee9d4d92, cb882d71-7d6e-4e26-801d-85d2895da2c0]

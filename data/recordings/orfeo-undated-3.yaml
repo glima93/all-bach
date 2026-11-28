@@ -1,0 +1,34 @@
+id: orfeo-undated-3
+performers:
+- name: Orfeo 55
+  role: orchestra
+- name: Nathalie Stutzmann
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '21', complete: false, movements: ['Teil I, I. Sinfonia']}
+- {bwv: '30', complete: false, movements: ['Teil I, V. Aria (Alto) "Kommt, ihr angefochtnen Sünder"']}
+- {bwv: '33', complete: false, movements: [III. Aria (Alto) "Wie furchtsam wankten meine Schritte"]}
+- {bwv: '42', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b86a562e-d20a-4aed-a8d7-c609d8c1cfa5
+  title: Une cantate imaginaire
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 59b09f23-02cd-4ed1-8aa3-65ac810ce142
+  recordings: [48c6b340-b0ae-4c5b-9e86-91fc8480c064, 58adad4f-451e-456b-9519-641a942e652c, cf3c8c89-7380-4964-b687-b0083a45e232,
+    d589a3ce-5238-4b59-b806-7b2e4e162fc8]

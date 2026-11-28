@@ -1,0 +1,19 @@
+bwv: "38"
+title: "Aus tiefer Not schrei ich zu dir"
+key: "E minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 4 trombones, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 29 October 1724 (Twenty-first Sunday after Trinity)"
+movements:
+  - "I. Choral. \"Aus tiefer Not schrei ich zu dir\""
+  - "II. Recitativo (Alto) \"In Jesu Gnade wird allein\""
+  - "III. Aria (Tenore) \"Ich höre mitten in den Leiden\""
+  - "IV. Recitativo (Soprano) \"Ach! Daß mein Glaube\""
+  - "V. Aria (Terzetto: Soprano, Alto, Basso) \"Wenn meine Trübsal als mit Ketten\""
+  - "VI. Choral \"Ob bei uns ist der Sünden viel\""
+notes: "A chorale cantata from Bach's second cycle, based on Luther's hymn paraphrasing Psalm 130; the outer stanzas are kept unchanged. The opening chorale fantasia is in motet style, with four trombones doubling the voices."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Aus_tiefer_Not_schrei_ich_zu_dir,_BWV_38"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/2cdf8fd5-4069-3048-9e4a-08b5a643693d

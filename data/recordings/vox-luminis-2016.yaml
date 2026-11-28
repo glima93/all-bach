@@ -1,0 +1,48 @@
+id: vox-luminis-2016
+performers:
+- name: Vox Luminis
+  role: choir
+- name: Lionel Meunier
+  role: conductor
+- name: Johannes Frisch
+  role: violin
+- name: Nadine Henrichs
+  role: viola
+- name: Antina Hugosson
+  role: viola
+- name: Bart Jacobs
+  role: organ
+- name: Jacek Kurzydło
+  role: violin
+- name: Rudolf Lörinc
+  role: trumpet
+- name: Jasu Moisio
+  role: oboe
+- name: Anaïs Ramage
+  role: bassoon
+- name: Emily Robinson
+  role: cello
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Onze-Lieve-Vrouw-en-Leodegariuskerk
+released: 2016
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: [I. Sinfonia, 'II. Coro “Weinen, Klagen, Sorgen, Zagen”', III. Recitativo
+      (Alto) "Wir müssen durch viel Trübsal", V. Aria (Basso) "Ich folge Christo nach", 'VII. Choral "Was Gott tut,
+      das ist wohlgetan"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c4109210-7cb0-4700-b3e0-99d0a49b0787
+  title: Actus Tragicus
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b00bc079-7c5f-4a1b-a65f-e86bba64b751
+  recordings: [33472553-60e8-46a3-bfe0-f6fe561aa928]

@@ -1,0 +1,28 @@
+id: berliner-barock-solisten-2007
+performers:
+- name: Berliner Barock Solisten
+  role: orchestra
+- name: Rainer Kussmaul
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: Jesus‐Christus‐Kirche
+released: 2007
+original_label: null
+works:
+- {bwv: '49', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/32a4976a-40dd-4e5c-9d87-30873ad4edbc
+  title: 'Bach: Dialogue Cantatas'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5a22dc2a-1479-4bb7-b914-b8d55569b8e0
+  recordings: [4473b420-b2fc-4528-a506-608db5873a80]

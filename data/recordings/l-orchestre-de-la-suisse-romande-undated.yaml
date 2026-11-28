@@ -1,0 +1,35 @@
+id: l-orchestre-de-la-suisse-romande-undated
+performers:
+- name: L’Orchestre de la Suisse Romande
+  role: orchestra
+- name: Roger Reversy
+  role: oboe
+- name: Ernest Ansermet
+  role: conductor
+- name: Orchestre de la Suisse Romande
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/017e1a4c-4c12-4b5c-aa58-3e29d214d38d
+  title: Bach Weekend
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9914f9f9-36c0-4156-8799-6544c60ab08c
+  recordings: [0e610658-c36c-4d18-9d28-552ae5d5a775]

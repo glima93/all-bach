@@ -1,0 +1,38 @@
+id: munchener-bach-orchester-1974
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Münchener Bach‐Chor
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Peter Schreier
+  role: performer
+- name: Edith Mathis
+  role: soprano
+- name: Kurt Moll
+  role: performer
+- name: Anna Reynolds
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1974]
+  place: Herkulessaal
+released: 1993
+original_label: null
+works:
+- {bwv: '10', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2b8bb121-3c53-4636-8d07-0c6e36ba1339
+  title: 'Kantaten, Vol. 3: Himmelfahrt · Pfingsten · Trinitatis'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [668b5dff-5120-4554-853f-35f122ed8616, 6aa601a3-2b79-4fdc-afde-f185533b7fee]

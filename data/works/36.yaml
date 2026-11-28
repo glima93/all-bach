@@ -1,0 +1,21 @@
+bwv: "36"
+title: "Schwingt freudig euch empor"
+key: "D major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 2 oboes d'amore, strings and continuo"
+composed: "Leipzig; first performed on 2 December 1731 (First Sunday in Advent)"
+movements:
+  - "I. Coro “Schwingt freudig euch empor”"
+  - "II. Choral “Nun komm, der Heiden Heiland”"
+  - "III. Aria (Tenore) “Die Liebe zieht mit sanften Schritten”"
+  - "IV. Choral “Zwingt die Saiten in Cythara”"
+  - "V. Aria (Basso) “Willkommen, werter Schatz!”"
+  - "VI. Choral (Tenore) “Der du bist dem Vater gleich”"
+  - "VII. Aria (Soprano) “Auch mit gedämpften, schwachen Stimmen”"
+  - "VIII. Choral “Lob sei Gott, dem Vater g’ton”"
+notes: "The 1731 church version interleaves movements of a secular cantata with stanzas of Luther's \"Nun komm, der Heiden Heiland\" and Nicolai's \"Wie schön leuchtet der Morgenstern\". It grew out of a birthday cantata of 1725 (BWV 36c, text probably by Picander), whose music was also used in BWV 36a (1726, lost), BWV 36b (c.1735) and an earlier, shorter Advent version."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Schwingt_freudig_euch_empor,_BWV_36"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/7e46dbea-f4a6-4567-ab56-45572303e4c1

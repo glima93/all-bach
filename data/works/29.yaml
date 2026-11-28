@@ -1,0 +1,21 @@
+bwv: "29"
+title: "Wir danken dir, Gott, wir danken dir"
+key: "D major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 3 trumpets, timpani, 2 oboes, obbligato organ, strings and continuo"
+composed: "Leipzig; first performed on 27 August 1731 (inauguration of the town council)"
+movements:
+  - "I. Sinfonia"
+  - "II. Coro \"Wir danken dir, Gott, wir danken dir\""
+  - "III. Aria (Tenore) \"Halleluja, Stärk und Macht\""
+  - "IV. Recitativo (Basso) \"Gottlob! es geht uns wohl!\""
+  - "V. Aria (Soprano) \"Gedenk an uns mit deiner Liebe\""
+  - "VI. Recitativo (Alto) e Coro \"Vergiß es ferner nicht, mit deiner Hand\""
+  - "VII. Aria (Alto) \"Halleluja, Stärk und Macht\""
+  - "VIII. Choral \"Sei Lob und Preis mit Ehren\""
+notes: "Written for the annual Ratswechsel service at the Nikolaikirche, on a text by an unknown author. The opening sinfonia, with obbligato organ, arranges the prelude of the Violin Partita No. 3 (BWV 1006), and the chorus was later reused for the \"Gratias agimus tibi\" and \"Dona nobis pacem\" of the Mass in B minor."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Wir_danken_dir,_Gott,_wir_danken_dir,_BWV_29"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/16d1bf1e-14c7-4fdb-a835-824a358fd9b0

@@ -1,0 +1,34 @@
+id: gachinger-kantorei-stuttgart-1979-2
+performers:
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Walter Heldwein
+  role: performer
+- name: Arleen Augér
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979, 1981]
+  place: Gedächtniskirche Stuttgart
+released: 1999
+original_label: null
+works:
+- {bwv: '32', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/41a53a3b-6a7e-4dde-b73e-b63a1976143a
+  title: 'Edition Bachakademie, Volume 11: Cantatas BWV 32-34'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e8e5f32c-41c6-453f-914e-08468b47f385
+  recordings: [d9a51a2d-c42b-429f-8d0e-c8aa013e5d43, eb701e62-16b6-4ffe-bd7d-cb6d4cf71419]

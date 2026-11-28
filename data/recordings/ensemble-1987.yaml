@@ -1,0 +1,30 @@
+id: ensemble-1987
+performers:
+- name: Ensemble 415
+  role: orchestra
+- name: Chiara Banchini
+  role: conductor
+- name: Gordon Murray
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1987]
+  place: Église Saint-Martin d'Arles
+released: 1991
+original_label: null
+works:
+- {bwv: '35', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/79ea81d0-e6b9-4686-a4e6-8a29145409c5
+  title: 'Prélude Baroque I: Bach'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: c0be6440-597e-4a17-9133-cb4fdba1be78
+  recordings: [6ec9babc-b925-4000-8f49-ece9d7a31b63]

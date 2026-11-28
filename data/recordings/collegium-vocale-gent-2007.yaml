@@ -1,0 +1,37 @@
+id: collegium-vocale-gent-2007
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Dorothee Mields
+  role: soprano
+- name: Matthew White
+  role: alto
+- name: Jan Kobow
+  role: tenor
+- name: Peter Kooij
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: Orchesterprobenzentrum
+released: 2009
+original_label: null
+works:
+- {bwv: '22', complete: true}
+- {bwv: '23', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cb0466e2-06ca-428f-ac9c-9a5372886f66
+  title: 'Jesu, deine Passion: Cantatas BWV 22, 23, 127 & 159'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [9f5a194d-6ee0-4ffc-becf-5fd298d1b271, 9fb3fa8a-4155-4246-bb4d-0826c5d5a96b]

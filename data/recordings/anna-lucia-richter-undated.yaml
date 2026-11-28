@@ -1,0 +1,43 @@
+id: anna-lucia-richter-undated
+performers:
+- name: Anna Lucia Richter
+  role: soprano
+- name: Roel Dieltiens
+  role: cello
+- name: Andreas Staier
+  role: harpsichord
+- name: Petra Müllejans
+  role: violin
+- name: Georg Nigl
+  role: baritone
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Teldex Studio
+released: 2017
+original_label: null
+works:
+- {bwv: '6', complete: false, movements: ['III. Choral (Soprano) "Ach bleib bei uns, Herr Jesu Christ"']}
+- {bwv: '21', complete: false, movements: ['Teil II, VIII. Aria "Komm, mein Jesu, und erquicke" (Duetto: Seele,
+      Jesus)']}
+- {bwv: '27', complete: false, movements: [III. Aria (Alto) "Willkommen! will ich sagen"]}
+- {bwv: '36', complete: false, movements: ['VII. Aria (Soprano) “Auch mit gedämpften, schwachen Stimmen”']}
+- {bwv: '49', complete: false, movements: ['V. Recitativo (Soprano, Basso) "Mein Glaube hat mich selbst so angezogen"',
+    'VIa. Duetto (Soprano, Basso) "Dich hab'' ich je und je geliebet" / VIb. Duetto "Wie bin ich doch so herzlich
+      froh"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2e123d3b-c056-4d60-8059-68f31785b394
+  title: Bach Privat
+status: draft
+help_wanted:
+- Recording year
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 6cb31c6d-719e-44bc-bf87-bb4cef90db10
+  recordings: [0868975a-665d-40a8-8d7e-94d053f1228b, 0b06ec1e-705b-4f08-ab7f-d2b164dff972, 4dd8395a-6086-4372-bc9e-35f5dee3a5fb,
+    bdc5aeb5-4825-4e71-a231-72e4863c62f3, c00a7810-a0a3-4f79-a8ef-8f8b422ab566]
