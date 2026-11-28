@@ -1802,6 +1802,9 @@ OVERRIDE_BY_SNAPSHOT["church-cantatas-1"] = {
         "The Plymouth Trio: a trio cannot play the soprano aria of BWV 32 in Bach's scoring (as for BWV 202 in run 26)"),
 }
 EXCLUDE_BY_SNAPSHOT["church-cantatas-1"] = {
+    "5705627b-791d-4d5d-b875-29551b45496c": "Koopman's Organ Works Vol. 2: the choir sings the plain chorale between organ settings, not a movement of BWV 5 or 36 (run 27, decided with Gonçalo)",
+    "de74995b-fa7b-42eb-bfe3-6153b5d98719": "Koopman's Organ Works Vol. 2: the choir sings the plain chorale between organ settings, not a movement of BWV 5 or 36 (run 27, decided with Gonçalo)",
+    "c0066954-503b-4dc3-8a97-ca2898f5549a": "Albrecht's Orgelmesse: the choir sings the plain chorale Aus tiefer Not, not the opening chorus of BWV 38 (run 27, decided with Gonçalo)",
     "fc164a4e-69f5-43b7-ae05-f2340af7981a": "Anna Magdalena Notebook album: the song O Ewigkeit, du Donnerwort BWV 513, not the chorale of BWV 20 (checker, run 27)",
     "98c341ff-b0c2-475a-bbb4-a7909c3be389": "Orgelbüchlein album: an organ chorale (BWV 612/644), not a movement of BWV 26 or 40 (checker, run 27)",
     "f862daa8-b2ac-44fd-8a49-a3e1de4240e4": "Orgelbüchlein album: an organ chorale (BWV 612/644), not a movement of BWV 26 or 40 (checker, run 27)",
@@ -1831,6 +1834,12 @@ JOIN_BY_SNAPSHOT["church-cantatas-1"] = {
     "96857b5f-11d4-4160-b6bc-62d8dc30b496": ("395413cb-c642-4fce-be70-3bb9adae1169", "Robert King's BWV 1 movements on a second compilation (checker, run 27)"),
 }
 OVERRIDE_BY_SNAPSHOT["church-cantatas-1"].update({
+    "abbe2c71-1262-4587-9c08-3d3a31cab268": ({"arrangement": True}, "Tenebrae sing the chorales inside the Partita No. 2 and Chaconne for violin, in the Morimur manner (run 27, decided with Gonçalo)"),
+    "0868975a-665d-40a8-8d7e-94d053f1228b": ({"arrangement": True}, "Bach Privat: house-music reductions with violin, cello and harpsichord in place of the orchestra (run 27, decided with Gonçalo)"),
+    "e53c7646-d862-42ce-902f-a5f396ef16f6": ({"arrangement": True}, "Calmus Ensemble's Luther Collage: an a cappella collage, not Bach's setting (run 27, decided with Gonçalo)"),
+    "76f4bbad-6a1d-4552-9455-679dbb2e6482": ({"arrangement": True}, "Café Zimmermann's Imaginary Music Book: the Sinfonia of BWV 29 rearranged for their ensemble (run 27, decided with Gonçalo)"),
+    "56bd00dd-3458-467f-b850-9b327e159db3": ({"arrangement": False}, "Albrecht Mayer plays the Sinfonia of BWV 12 in Bach's scoring (oboe and strings), as on deutsche-kammersolisten-undated-3; only the album is of transcriptions (run 27, decided with Gonçalo)"),
+    "311fb2b2-7975-40ed-a186-d00ff3c28458": ({"years": [2000]}, "Gardiner's Bach Cantata Pilgrimage was recorded in 2000; 2007 is the release (run 27, decided with Gonçalo)"),
     "528ac66a-1bf4-43b5-97dc-cc0bb5c7a599": ({'performance_practice': 'historical'}, "Rifkin's Bach Ensemble plays period instruments (as run 26) (checker, run 27)"),
     "f2d6a61f-45ef-412b-8fdf-1903384fcd34": ({'arrangement': True}, "Battle and Wynton Marsalis: a trumpet plays the oboe obbligato (checker, run 27)"),
     "531f9427-7459-4412-a152-021041293f1e": ({'performance_practice': 'historical'}, "The Sixteen's orchestra played period instruments on its 1990 Collins Bach recordings (checker, run 27)"),

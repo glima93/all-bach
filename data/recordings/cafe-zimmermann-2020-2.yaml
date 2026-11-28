@@ -4,7 +4,7 @@ performers:
   role: ensemble
 instrument: voices-and-instruments
 performance_practice: historical
-arrangement: false
+arrangement: true
 recorded:
   years: [2020]
   place: Temple Saint-Jean de Mulhouse

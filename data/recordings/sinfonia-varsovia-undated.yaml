@@ -6,8 +6,7 @@ performers:
   role: oboe
 instrument: voices-and-instruments
 performance_practice: unknown
-arrangement: true
-arranger: null
+arrangement: false
 recorded:
   years: []
   place: 'Polskie Radio: Studio Koncertowe PR im. Witolda Lutosławskiego'
