@@ -1,0 +1,2253 @@
+{
+ "collection": "church-cantatas-2",
+ "collector": 8,
+ "taken": "2026-11-28",
+ "recordings": 3830,
+ "performances": 931,
+ "works": [
+  {
+   "bwv": "51",
+   "id": "38428a7a-9526-431b-8656-1571b9c3a6fa",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "38428a7a-9526-431b-8656-1571b9c3a6fa",
+     "title": "Kantate, BWV 51 \"Jauchzet Gott in allen Landen\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 51 \"Jauchzet Gott in allen Landen\"",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "218b240c-bfbb-3194-9a30-a498c421828b",
+     "title": "Kantate, BWV 51 \"Jauchzet Gott in allen Landen\": I. Aria \"Jauchzet Gott in allen Landen\""
+    },
+    {
+     "id": "ceb3f728-7b0b-3231-a1f4-25ff5ab066f5",
+     "title": "Kantate, BWV 51 \"Jauchzet Gott in allen Landen\": II. Recitativo \"Wir beten zu dem Tempel an\""
+    },
+    {
+     "id": "564b8492-4317-3657-b111-c0daa9c8eea8",
+     "title": "Kantate, BWV 51 \"Jauchzet Gott in allen Landen\": III. Aria \"Höchster, mache deine Güte\""
+    },
+    {
+     "id": "2011cd1b-c749-3100-99bb-455a49fb8dea",
+     "title": "Kantate, BWV 51 \"Jauchzet Gott in allen Landen\": IV. Chorale \"Sei Lob und Preis mit Ehren\""
+    },
+    {
+     "id": "c8dccb30-719c-395a-8012-6eb966d1ff87",
+     "title": "Kantate, BWV 51 \"Jauchzet Gott in allen Landen\": V. \"Alleluja\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "52",
+   "id": "a27e667d-33aa-414a-9e92-c8447ab6f392",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "a27e667d-33aa-414a-9e92-c8447ab6f392",
+     "title": "Kantate, BWV 52 \"Falsche Welt, dir trau ich nicht\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 52 \"Falsche Welt, dir trau ich nicht\"",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0876a17d-e968-3956-acc1-13252e94bdf8",
+     "title": "Kantate, BWV 52 \"Falsche Welt, dir trau ich nicht\": I. Sinfonia"
+    },
+    {
+     "id": "f85afb98-4952-3005-8b55-b051ed4de1cd",
+     "title": "Kantate, BWV 52 \"Falsche Welt, dir trau ich nicht\": II. Recitativo (Soprano) \"Falsche Welt, dir trau ich nicht!\""
+    },
+    {
+     "id": "38b3d811-d4a8-3a7d-8d8a-cb8933e67a4e",
+     "title": "Kantate, BWV 52 \"Falsche Welt, dir trau ich nicht\": III. Aria (Soprano) \"Immerhin, immerhin, wenn ich gleich verstoßen bin!\""
+    },
+    {
+     "id": "75756a47-d5e8-3296-8c4d-82169902c523",
+     "title": "Kantate, BWV 52 \"Falsche Welt, dir trau ich nicht\": IV. Recitativo (Soprano) \"Gott ist getreu!\""
+    },
+    {
+     "id": "3b0cb1bf-a837-33d2-935b-dfac026269b8",
+     "title": "Kantate, BWV 52 \"Falsche Welt, dir trau ich nicht\": V. Aria (Soprano) \"Ich halt es mit dem lieben Gott\""
+    },
+    {
+     "id": "a032c2a9-7046-3814-be13-6bd53aec903b",
+     "title": "Kantate, BWV 52 \"Falsche Welt, dir trau ich nicht\": VI. Choral \"In dich hab ich gehoffet, Herr\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "53",
+   "id": "6734be78-4f80-4444-8fe5-ee93888a2da5",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "6734be78-4f80-4444-8fe5-ee93888a2da5",
+     "title": "Aria, BWV 53 \"Schlage doch, gewünschte Stunde\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Aria, BWV 53 \"Schlage doch, gewünschte Stunde\"",
+   "key": "E major",
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "6734be78-4f80-4444-8fe5-ee93888a2da5",
+     "title": "Aria, BWV 53 \"Schlage doch, gewünschte Stunde\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "54",
+   "id": "582b6710-4858-4b6c-ab04-adeea8e35436",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "582b6710-4858-4b6c-ab04-adeea8e35436",
+     "title": "Kantate, BWV 54 \"Widerstehe doch der Sünde\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 54 \"Widerstehe doch der Sünde\"",
+   "key": "E-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "96565b39-d91a-340b-a9e3-3abab3f496be",
+     "title": "Kantate, BWV 54 \"Widerstehe doch der Sünde\": I. Aria (Alto) \"Widerstehe doch der Sünde\""
+    },
+    {
+     "id": "12ee28d9-1560-3b0c-aa33-48f2cb5cc639",
+     "title": "Kantate, BWV 54 \"Widerstehe doch der Sünde\": II. Recitativo (Alto) \"Die Art verruchter Sünden\""
+    },
+    {
+     "id": "70691621-e664-365a-a711-e974b90a39f6",
+     "title": "Kantate, BWV 54 \"Widerstehe doch der Sünde\": III. Aria (Alto) Wer Sünde tut, der ist vom Teufel"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "55",
+   "id": "95cc9328-a789-4cf2-b054-339575ec7baf",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "95cc9328-a789-4cf2-b054-339575ec7baf",
+     "title": "Kantate, BWV 55 \"Ich armer Mensch, ich Sündenknecht\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 55 \"Ich armer Mensch, ich Sündenknecht\"",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "93075fa0-0a91-3127-90ee-43a861a4348c",
+     "title": "Kantate, BWV 55 \"Ich armer Mensch, ich Sündenknecht\": I. Aria (Tenore) \"Ich armer Mensch, ich Sündenknecht\""
+    },
+    {
+     "id": "2fe7e102-5ed6-361b-a700-2fc10849d3a2",
+     "title": "Kantate, BWV 55 \"Ich armer Mensch, ich Sündenknecht\": II. Recitativo (Tenore) \"Ich habe wider Gott gehandelt\""
+    },
+    {
+     "id": "e7d3816e-85bd-353a-8309-04530fb856ac",
+     "title": "Kantate, BWV 55 \"Ich armer Mensch, ich Sündenknecht\": III. Aria (Tenore) \"Erbarme dich!\""
+    },
+    {
+     "id": "cc74f44e-05fd-3933-8f6b-5ab5685a9b76",
+     "title": "Kantate, BWV 55 \"Ich armer Mensch, ich Sündenknecht\": IV. Recitativo (Tenore) \"Erbarme dich!\""
+    },
+    {
+     "id": "3c64c97d-7de1-3f5f-a9fd-2d3a052eba53",
+     "title": "Kantate, BWV 55 \"Ich armer Mensch, ich Sündenknecht\": V. Choral \"Bin ich gleich von dir gewichen\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "56",
+   "id": "8bb2d318-d12f-4761-b63b-3b15f5d9f499",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "8bb2d318-d12f-4761-b63b-3b15f5d9f499",
+     "title": "Kantate, BWV 56 \"Ich will den Kreuzstab gerne tragen\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 56 \"Ich will den Kreuzstab gerne tragen\"",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "f89a1159-5d70-362f-8566-929d7b2142bb",
+     "title": "Kantate, BWV 56 \"Ich will den Kreuzstab gerne tragen\": I. Aria \"Ich will den Kreuzstab gerne tragen\""
+    },
+    {
+     "id": "e117a725-2f1e-3993-8df8-d73ad4aa129e",
+     "title": "Kantate, BWV 56 \"Ich will den Kreuzstab gerne tragen\": II. Recitative \"Mein Wandel auf der Welt\""
+    },
+    {
+     "id": "448b1dc8-74f3-353f-a66b-1d5bf1c80333",
+     "title": "Kantate, BWV 56 \"Ich will den Kreuzstab gerne tragen\": III. Aria \"Endlich, endlich wird mein Joch\""
+    },
+    {
+     "id": "03d721e2-4ff3-3f51-be6a-72a6287c2f38",
+     "title": "Kantate, BWV 56 \"Ich will den Kreuzstab gerne tragen\": IV. Recitative and Arioso \"Ich stehe fertig und bereit\""
+    },
+    {
+     "id": "168efe13-a5a3-3278-a80e-9a44c9e37463",
+     "title": "Kantate, BWV 56 \"Ich will den Kreuzstab gerne tragen\": V. Chorale \"Komm, o Tod, du Schlafes Bruder\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "57",
+   "id": "52d43690-2123-4a86-852b-b96b079bb790",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "52d43690-2123-4a86-852b-b96b079bb790",
+     "title": "Kantate, BWV 57 \"Selig ist der Mann\""
+    },
+    {
+     "id": "643b7767-ae5d-4b22-a956-1d9920ebb52b",
+     "title": "Chorale: Kommst du nun, Jesu, vom Himmel herunter, BWV 57"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 57 \"Selig ist der Mann\"",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "4c7729d9-ddeb-3a7d-af2e-b012fe1fa90d",
+     "title": "Kantate, BWV 57 \"Selig ist der Mann\": I. Aria (Bass). \"Selig ist der Mann\""
+    },
+    {
+     "id": "65f2783e-50fc-3835-a7a6-5c5a09623ee8",
+     "title": "Kantate, BWV 57 \"Selig ist der Mann\": II. Recitativo (Soprano) \"Ach! dieser süße Trost\""
+    },
+    {
+     "id": "cb72174a-1c2b-3671-8a26-20d435ba19fd",
+     "title": "Kantate, BWV 57 \"Selig ist der Mann\": III. Aria (Soprano). \"Ich wünschte mir den Tod, den Tod\""
+    },
+    {
+     "id": "06061035-d889-34d4-b1be-75800eb6b02a",
+     "title": "Kantate, BWV 57 \"Selig ist der Mann\": IV. Recitativo (Soprano, Basso) \"Ich reiche dir die Hand\""
+    },
+    {
+     "id": "d84015d0-d363-3c98-911b-89bb04e18181",
+     "title": "Kantate, BWV 57 \"Selig ist der Mann\": V. Aria (Basso) \"Ja, ja, ich kann die Feinde schlagen\""
+    },
+    {
+     "id": "3491cb1f-fe51-397f-b174-63104efc4a42",
+     "title": "Kantate, BWV 57 \"Selig ist der Mann\": VI. Recitativo (Soprano, Bass). \"In meinem Schoß liegt Ruh' und Leben\""
+    },
+    {
+     "id": "11351004-dffa-34c0-95a9-962192b8b44a",
+     "title": "Kantate, BWV 57 \"Selig ist der Mann\": VII. Aria (Soprano) \"Ich ende behende mein irdisches Leben\""
+    },
+    {
+     "id": "8e6f55eb-0716-33bf-a17d-f3702dc9234a",
+     "title": "Kantate, BWV 57 \"Selig ist der Mann\": VIII. Choral. \"Richte dich, Liebste, nach meinem Gefallen und glaube\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "58",
+   "id": "0b5aac53-9ddb-4123-9a16-a85b680fd1be",
+   "also": [],
+   "skipped": {
+    "5ffa17c5-3b6f-4955-b9bd-5062c3b9f363": "earlier version (58.1)"
+   },
+   "candidates": [
+    {
+     "id": "0b5aac53-9ddb-4123-9a16-a85b680fd1be",
+     "title": "Kantate, BWV 58 \"Ach Gott, wie manches Herzeleid\""
+    },
+    {
+     "id": "5ffa17c5-3b6f-4955-b9bd-5062c3b9f363",
+     "title": "Kantate, BWV 58.1 \"Ach Gott, wie manches Herzeleid\""
+    },
+    {
+     "id": "058be2a6-e1e9-4ddc-88eb-cc868a3b8209",
+     "title": "Kantate, BWV 58.2 \"Ach Gott, wie manches Herzeleid\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 58 \"Ach Gott, wie manches Herzeleid\"",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "eef6aee1-5315-3088-8c2b-a5605bf95897",
+     "title": "Kantate, BWV 58 \"Ach Gott, wie manches Herzeleid\": I. Aria con Choral (Coro Soprano, Basso) \"Ach Gott, wie manches Herzeleid\""
+    },
+    {
+     "id": "bef29a61-328e-35ab-832c-411df575fa59",
+     "title": "Kantate, BWV 58 \"Ach Gott, wie manches Herzeleid\": II. Recitativo (Basso) \"Verfolgt dich gleich die arge Welt\""
+    },
+    {
+     "id": "d95d11e3-dabf-38b4-b424-7fd4b32dfdb1",
+     "title": "Kantate, BWV 58 \"Ach Gott, wie manches Herzeleid\": III. Aria (Soprano) \"Ich bin vergnügt in meinem Leiden\""
+    },
+    {
+     "id": "e8da5dbd-87a0-39fc-b40f-450b010c5c6e",
+     "title": "Kantate, BWV 58 \"Ach Gott, wie manches Herzeleid\": IV. Recitativo (Soprano) \"Kann es die Welt nicht lassen\""
+    },
+    {
+     "id": "9512eeda-b8e1-3e0a-988c-0fccc7f900d8",
+     "title": "Kantate, BWV 58 \"Ach Gott, wie manches Herzeleid\": V. Aria con Choral (Coro Soprano, Basso) \"Ich hab für mir ein schwere Reis\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "59",
+   "id": "c9646f51-4567-4db9-a8bd-2537b21bb23a",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "c9646f51-4567-4db9-a8bd-2537b21bb23a",
+     "title": "Kantate, BWV 59 \"Wer mich liebet, der wird mein Wort halten\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 59 \"Wer mich liebet, der wird mein Wort halten\"",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "c56ca2f3-6c19-39dc-8509-ffde9cb826d3",
+     "title": "Kantate, BWV 59 \"Wer mich liebet, der wird mein Wort halten\": I. Duetto (Soprano, Basso) \"Wer mich liebet, der wird mein Wort halten\""
+    },
+    {
+     "id": "6570af27-d26b-36c9-bc3e-c7704ebdae5f",
+     "title": "Kantate, BWV 59 \"Wer mich liebet, der wird mein Wort halten\": II. Recitativo (Soprano) \"O, was sind das für Ehren\""
+    },
+    {
+     "id": "b43f3e04-6dff-3eb6-9f47-94c7780329e3",
+     "title": "Kantate, BWV 59 \"Wer mich liebet, der wird mein Wort halten\": III. Choral \"Komm, Heiliger Geist, Herre Gott\""
+    },
+    {
+     "id": "aa19056c-b06f-3a4c-94d7-85bbbf741a92",
+     "title": "Kantate, BWV 59 \"Wer mich liebet, der wird mein Wort halten\": IV. Aria (Basso) \"Die Welt mit allen Königreichen\""
+    },
+    {
+     "id": "f88ff45d-cec0-48c1-bb22-809338e56e45",
+     "title": "Kantate, BWV 59 \"Wer mich liebet, der wird mein Wort halten\": V. Choral \"Gott Heil\"ger Geist\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "60",
+   "id": "51f1d85c-f640-46a8-ac57-247fa1ae2e30",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "51f1d85c-f640-46a8-ac57-247fa1ae2e30",
+     "title": "Kantate, BWV 60 \"O Ewigkeit, du Donnerwort\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 60 \"O Ewigkeit, du Donnerwort\"",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "1ec6e18b-e009-321c-9419-569e3cf379e9",
+     "title": "Kantate, BWV 60 \"O Ewigkeit, du Donnerwort\": I. Aria (Coro Alto, Tenore) \"O Ewigkeit, du Donnerwort\""
+    },
+    {
+     "id": "86850f7a-0f78-3440-85aa-a977e7dbf02e",
+     "title": "Kantate, BWV 60 \"O Ewigkeit, du Donnerwort\": II. Recitativo (Alto, Tenore) \"O schwerer Gang\""
+    },
+    {
+     "id": "68ea841c-2da6-3eef-9247-31354a01f648",
+     "title": "Kantate, BWV 60 \"O Ewigkeit, du Donnerwort\": III. Aria (Alto, Tenore) \"Mein letztes Lager will mich schrecken\""
+    },
+    {
+     "id": "e4c5826e-39da-38a8-bb71-b7419f0a6346",
+     "title": "Kantate, BWV 60 \"O Ewigkeit, du Donnerwort\": IV. Recitativo (Alto, Basso) \"Der Tod bleibt doch der menschlichen Natur verhaßt\""
+    },
+    {
+     "id": "f2d2bec5-761b-351f-a01a-87ea17392170",
+     "title": "Kantate, BWV 60 \"O Ewigkeit, du Donnerwort\": V. Choral \"Es ist genug; Herr, wenn es dir gefällt\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "61",
+   "id": "0364eb16-76e8-481e-bea1-92c34d20980f",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "0364eb16-76e8-481e-bea1-92c34d20980f",
+     "title": "Kantate, BWV 61 “Nun komm, der Heiden Heiland”"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 61 “Nun komm, der Heiden Heiland”",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "d19fcea7-5e47-35d4-9999-1675a07b5c01",
+     "title": "Kantate, BWV 61 “Nun komm, der Heiden Heiland”: I. Coro “Nun komm, der Heiden Heiland”"
+    },
+    {
+     "id": "3c9ff1ac-1157-3b11-874d-88f03a1a7cd7",
+     "title": "Kantate, BWV 61 “Nun komm, der Heiden Heiland”: II. Recitativo (Tenore): “Der Heiland ist gekommen”"
+    },
+    {
+     "id": "d0d87343-c292-3837-9311-42f4cd2e5c59",
+     "title": "Kantate, BWV 61 “Nun komm, der Heiden Heiland”: III. Aria (Tenore) “Komm, Jesu, komm zu deiner Kirche”"
+    },
+    {
+     "id": "a0ec78a8-0ac4-38af-9d2d-ee10f0a7e733",
+     "title": "Kantate, BWV 61 “Nun komm, der Heiden Heiland”: IV. Recitativo (Basso) “Siehe, ich stehe vor der Tür und klopfe an”"
+    },
+    {
+     "id": "87816fe4-9061-3548-8201-b74bc5a358f2",
+     "title": "Kantate, BWV 61 “Nun komm, der Heiden Heiland”: V. Aria (Soprano) “Öffne dich, mein ganzes Herze”"
+    },
+    {
+     "id": "87a6b2fe-d0e4-3abe-9937-a4163affff78",
+     "title": "Kantate, BWV 61 “Nun komm, der Heiden Heiland”: VI. Choral “Amen, Amen”"
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "62",
+   "id": "b622a846-eee0-4d2b-9b54-2a05c736cd48",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "b622a846-eee0-4d2b-9b54-2a05c736cd48",
+     "title": "Kantate, BWV 62 \"Nun komm, der Heiden Heiland\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 62 \"Nun komm, der Heiden Heiland\"",
+   "key": "B minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "c2a42209-fabc-3233-ac7c-2df9bccd4319",
+     "title": "Kantate, BWV 62 \"Nun komm, der Heiden Heiland\": I. Coro \"Nun komm, der Heiden Heiland\""
+    },
+    {
+     "id": "fa31222c-a4b0-3a74-b791-fed14cb9d9dc",
+     "title": "Kantate, BWV 62 \"Nun komm, der Heiden Heiland\": II. Aria (Tenore) \"Bewundert, o Menschen\""
+    },
+    {
+     "id": "55c67a56-c95b-36f4-80c5-d3ad0629563a",
+     "title": "Kantate, BWV 62 \"Nun komm, der Heiden Heiland\": III. Recitativo (Basso) \"So geht aus Gottes Herrlichkeit\""
+    },
+    {
+     "id": "c919cffe-72ac-3eda-83c4-2c331faf5a32",
+     "title": "Kantate, BWV 62 \"Nun komm, der Heiden Heiland\": IV. Aria (Basso) \"Streite, siege, starker Held!\""
+    },
+    {
+     "id": "e220122d-2641-3579-8f39-0ec0daac7833",
+     "title": "Kantate, BWV 62 \"Nun komm, der Heiden Heiland\": V. Recitativo (Duetto: Soprano, Alto) \"Wir ehren diese Herrlichkeit\""
+    },
+    {
+     "id": "1c9ebb23-8906-3c72-b9e4-c0863e20f193",
+     "title": "Kantate, BWV 62 \"Nun komm, der Heiden Heiland\": VI. Choral \"Lob sei Gott, dem Vater, g'ton\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "63",
+   "id": "5ce8c0ed-44aa-41bc-a2c1-a38f884c36e2",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "5ce8c0ed-44aa-41bc-a2c1-a38f884c36e2",
+     "title": "Kantate, BWV 63 \"Christen, ätzet diesen Tag\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 63 \"Christen, ätzet diesen Tag\"",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "94bbca84-f65d-3621-b9a9-dba7b4eed4ba",
+     "title": "Kantate, BWV 63 \"Christen, ätzet diesen Tag\": I. Coro \"Christen, ätzet diesen Tag\""
+    },
+    {
+     "id": "d26531fe-cc32-382f-a7e3-06e1aa1b5146",
+     "title": "Kantate, BWV 63 \"Christen, ätzet diesen Tag\": II. Recitativo (Alto) \"O selger Tag! o ungemeines Heute\""
+    },
+    {
+     "id": "d0922992-b3f5-30a5-a8b3-69d744e66a13",
+     "title": "Kantate, BWV 63 \"Christen, ätzet diesen Tag\": III. Aria (Duetto: Soprano, Basso) \"Gott, du hast es wohl gefüget\""
+    },
+    {
+     "id": "059a9628-bd90-3358-96ad-adb0c37f0696",
+     "title": "Kantate, BWV 63 \"Christen, ätzet diesen Tag\": IV. Recitativo (Tenore) \"So kehret sich nun heut das bange Leid\""
+    },
+    {
+     "id": "8eea3f78-c7a6-3ce1-a93f-d3c1c09d8b87",
+     "title": "Kantate, BWV 63 \"Christen, ätzet diesen Tag\": V. Aria (Duetto: Alto, Tenore) \"Ruft und fleht den Himmel an\""
+    },
+    {
+     "id": "42b14625-2757-3548-8556-93c8c62b364c",
+     "title": "Kantate, BWV 63 \"Christen, ätzet diesen Tag\": VI. Recitativo (Basso) \"Verdoppelt euch demnach, ihr heißen Andachtsflammen\""
+    },
+    {
+     "id": "e83585e7-54bf-3cb8-bac6-967a7bf3e384",
+     "title": "Kantate, BWV 63 \"Christen, ätzet diesen Tag\": VII. Coro \"Höchster, schau in Gnaden an diese Glut gebückter Seelen!\""
+    },
+    {
+     "id": "a0994836-f67c-48fb-af0a-7ceff3453cb5",
+     "title": "Kantate, BWV 63 (appendix) \"Christen, ätzet diesen Tag\": III(alt). Duet (Soprano & Bass) \"Gott, du hast es wohl gefüget\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "64",
+   "id": "c01040a1-72c7-4290-8a4c-d2c68ad9314d",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "c01040a1-72c7-4290-8a4c-d2c68ad9314d",
+     "title": "Kantate, BWV 64 \"Sehet, welch eine Liebe hat uns der Vater erzeiget\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 64 \"Sehet, welch eine Liebe hat uns der Vater erzeiget\"",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "e93e7216-b0c8-3769-874e-4df028a66b1e",
+     "title": "Kantate, BWV 64 \"Sehet, welch eine Liebe hat uns der Vater erzeiget\": I. Coro \"Sehet, welch eine Liebe hat uns der Vater erzeiget\""
+    },
+    {
+     "id": "ecbece46-f4c2-39b7-a620-a33d9d6c5ea8",
+     "title": "Kantate, BWV 64 \"Sehet, welch eine Liebe hat uns der Vater erzeiget\": II. Choral \"Das hat er alles uns getan\""
+    },
+    {
+     "id": "3268fb29-9385-3d6d-ae79-42527a78c593",
+     "title": "Kantate, BWV 64 \"Sehet, welch eine Liebe hat uns der Vater erzeiget\": III. Recitativo (Alto) \"Geh, Welt! behalte nur das Deine\""
+    },
+    {
+     "id": "d5bbf026-e7d4-3234-b394-da84669415cb",
+     "title": "Kantate, BWV 64 \"Sehet, welch eine Liebe hat uns der Vater erzeiget\": IV. Choral \"Was frag ich nach der Welt\""
+    },
+    {
+     "id": "642317ad-c9af-3151-99ca-183ee28f1961",
+     "title": "Kantate, BWV 64 \"Sehet, welch eine Liebe hat uns der Vater erzeiget\": V. Aria (Soprano) \"Was die Welt in sich hält\""
+    },
+    {
+     "id": "ab219dae-d04b-3618-92f2-8a50a19d39fb",
+     "title": "Kantate, BWV 64 \"Sehet, welch eine Liebe hat uns der Vater erzeiget\": VI. Recitativo (Basso) \"Der Himmel bleibet mir gewiß\""
+    },
+    {
+     "id": "575c8683-a6b3-3ad6-abb3-7e93c63fa241",
+     "title": "Kantate, BWV 64 \"Sehet, welch eine Liebe hat uns der Vater erzeiget\": VII. Aria (Alto) \"Von der Welt verlang ich nichts\""
+    },
+    {
+     "id": "42493a16-7545-33b2-b57a-99931860dc06",
+     "title": "Kantate, BWV 64 \"Sehet, welch eine Liebe hat uns der Vater erzeiget\": VIII. Choral \"Gute Nacht, o Wesen\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "65",
+   "id": "79c16686-659a-4b87-8f7e-740ed02074af",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "79c16686-659a-4b87-8f7e-740ed02074af",
+     "title": "Kantate, BWV 65 \"Sie werden aus Saba alle kommen\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 65 \"Sie werden aus Saba alle kommen\"",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "40cfe987-8efd-3cef-bc70-0180fd952290",
+     "title": "Kantate, BWV 65 \"Sie werden aus Saba alle kommen\": I. Coro \"Sie werden aus Saba alle kommen\""
+    },
+    {
+     "id": "226ced9c-0238-3878-8440-a6274de8978a",
+     "title": "Kantate, BWV 65 \"Sie werden aus Saba alle kommen\": II. Choral \"Die Kön'ge aus Saba kamen dar\""
+    },
+    {
+     "id": "c652b5b8-9491-383e-8d2e-682aa46a27ab",
+     "title": "Kantate, BWV 65 \"Sie werden aus Saba alle kommen\": III. Recitativo (Bass) \"Was dort Jesaias vorhergesehn\""
+    },
+    {
+     "id": "c6b778c1-6c41-3add-9c36-f3e25ca42a93",
+     "title": "Kantate, BWV 65 \"Sie werden aus Saba alle kommen\": IV. Aria (Bass) \"Gold aus Ophir ist zu schlecht\""
+    },
+    {
+     "id": "26192556-29d0-305a-becb-94f14b585d05",
+     "title": "Kantate, BWV 65 \"Sie werden aus Saba alle kommen\": V. Recitativo (Tenor) \"Verschmähe nicht, du meiner Seele Licht\""
+    },
+    {
+     "id": "c6eda3e1-c251-338b-9cd2-2a0cf31cc2e7",
+     "title": "Kantate, BWV 65 \"Sie werden aus Saba alle kommen\": VI. Aria (Tenor) \"Nimm mich dir zu eigen hin\""
+    },
+    {
+     "id": "b18f0fb7-a4f8-30d7-ba4b-6c2bc05488bd",
+     "title": "Kantate, BWV 65 \"Sie werden aus Saba alle kommen\": VII. Choral \"Ei nun, mein Gott, so fall ich dir\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "66",
+   "id": "d34fab8d-a73b-4e77-bcbf-88f3c2fefec5",
+   "also": [],
+   "skipped": {
+    "826a4c3e-e4e1-4972-8e0f-e867a970ce82": "earlier version (66.2)",
+    "6b080043-e033-4b4b-98a2-0fc804e94b69": "earlier version (66.1)"
+   },
+   "candidates": [
+    {
+     "id": "d34fab8d-a73b-4e77-bcbf-88f3c2fefec5",
+     "title": "Kantate, BWV 66.3 \"Erfreut euch, ihr Herzen\""
+    },
+    {
+     "id": "826a4c3e-e4e1-4972-8e0f-e867a970ce82",
+     "title": "Kantate, BWV 66.2/66 \"Erfreut euch, ihr Herzen\""
+    },
+    {
+     "id": "6b080043-e033-4b4b-98a2-0fc804e94b69",
+     "title": "Der Himmel dacht auf Anhalts Ruhm und Glück, BWV 66.1/66a"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 66.3 \"Erfreut euch, ihr Herzen\"",
+   "key": null,
+   "has_parts": false,
+   "movements": [
+    {
+     "id": "d34fab8d-a73b-4e77-bcbf-88f3c2fefec5",
+     "title": "Kantate, BWV 66.3 \"Erfreut euch, ihr Herzen\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "67",
+   "id": "ca2890ae-8886-4d89-8db1-01f796e85ed8",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "ca2890ae-8886-4d89-8db1-01f796e85ed8",
+     "title": "Kantate, BWV 67 \"Halt im Gedächtnis Jesum Christ\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 67 \"Halt im Gedächtnis Jesum Christ\"",
+   "key": "A major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "e4f8eab2-9166-3ddb-8ed3-a18bde3141d9",
+     "title": "Kantate, BWV 67 \"Halt im Gedächtnis Jesum Christ\": I. Coro \"Halt im Gedächtnis Jesum Christ\""
+    },
+    {
+     "id": "d50ef194-13a3-39c9-ba18-41fddf80f2f9",
+     "title": "Kantate, BWV 67 \"Halt im Gedächtnis Jesum Christ\": II. Aria (Tenor) \"Mein Jesus ist erstanden\""
+    },
+    {
+     "id": "dde8d253-05f8-3efb-8350-a9a92f4ace4e",
+     "title": "Kantate, BWV 67 \"Halt im Gedächtnis Jesum Christ\": III. Recitativo (Alt) \"Mein Jesu, heißest du des Todes Gift\""
+    },
+    {
+     "id": "7a083b5b-eb8b-3965-af8a-745d2d9ef339",
+     "title": "Kantate, BWV 67 \"Halt im Gedächtnis Jesum Christ\": IV. Choral \"Erschienen ist der herrlich Tag\""
+    },
+    {
+     "id": "8bdda244-b990-3dcc-8960-1e7f7c875464",
+     "title": "Kantate, BWV 67 \"Halt im Gedächtnis Jesum Christ\": V. Recitativo (Alt) \"Doch scheinet fast\""
+    },
+    {
+     "id": "3de2e317-6c64-3d1f-a0b5-8cfd24f5375f",
+     "title": "Kantate, BWV 67 \"Halt im Gedächtnis Jesum Christ\": VI. Aria (Bass, Coro) \"Friede sei mit euch!\""
+    },
+    {
+     "id": "31181c04-c43b-354b-856d-50a0e948bf95",
+     "title": "Kantate, BWV 67 \"Halt im Gedächtnis Jesum Christ\": VII. Choral \"Du Friedefürst, Herr Jesu Christ\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "68",
+   "id": "589aa0aa-7ada-49d9-8a7e-29bfe8b2dd00",
+   "also": [],
+   "skipped": {
+    "b5a68ff7-b82c-4626-844e-8f6ca5f9bfa4": "arrangement of Kantate, BWV 68 \"Also hat Gott die Welt geliebt\": II. Aria (Sopran) + Ritornello \"Mein gläubiges Herze\""
+   },
+   "candidates": [
+    {
+     "id": "b5a68ff7-b82c-4626-844e-8f6ca5f9bfa4",
+     "title": "My Heart ever Faithful from Cantata, BWV 68"
+    },
+    {
+     "id": "589aa0aa-7ada-49d9-8a7e-29bfe8b2dd00",
+     "title": "Kantate, BWV 68 \"Also hat Gott die Welt geliebt\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 68 \"Also hat Gott die Welt geliebt\"",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "5d3ecdd6-fd29-3a2b-8416-1de00237aa76",
+     "title": "Kantate, BWV 68 \"Also hat Gott die Welt geliebt\": I. Choral \"Also hat Gott die Welt geliebt\""
+    },
+    {
+     "id": "04cdecb4-1c84-3ef3-829a-cc7b7543bd2d",
+     "title": "Kantate, BWV 68 \"Also hat Gott die Welt geliebt\": II. Aria (Sopran) + Ritornello \"Mein gläubiges Herze\""
+    },
+    {
+     "id": "50575df7-0ef6-349f-9fca-f6e166e36e1a",
+     "title": "Kantate, BWV 68 \"Also hat Gott die Welt geliebt\": III. Recitativo (Bass) \"Ich bin mit Petro nicht vermessen\""
+    },
+    {
+     "id": "6be06931-2ae7-3c1c-8fb7-59e512dfdf8c",
+     "title": "Kantate, BWV 68 \"Also hat Gott die Welt geliebt\": IV. Aria (Bass) \"Du bist geboren mir zugute\""
+    },
+    {
+     "id": "ab02e37e-5028-3fbc-bb6e-557efa10f9ed",
+     "title": "Kantate, BWV 68 \"Also hat Gott die Welt geliebt\": V. Coro \"Wer an ihn gläubet, der wird nicht gerichtet\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "69",
+   "id": "686b633b-6bb6-488b-8814-34cad1abcd6e",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "686b633b-6bb6-488b-8814-34cad1abcd6e",
+     "title": "Kantate, BWV 69 \"Lobe den Herrn, meine Seele\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 69 \"Lobe den Herrn, meine Seele\"",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "bad72ef2-b13e-3215-bc80-8c92978971f6",
+     "title": "Kantate, BWV 69 \"Lobe den Herrn, meine Seele\": I. Coro \"Lobe den Herrn meine Seele\""
+    },
+    {
+     "id": "e382550e-e0e5-361a-bbb2-ff36f287d683",
+     "title": "Kantate, BWV 69 \"Lobe den Herrn, meine Seele\": II. Recitativo (Sopran) \"Wie groß ist Gottes Güte doch!\""
+    },
+    {
+     "id": "2c45d703-c03e-323b-945d-55247afe982c",
+     "title": "Kantate, BWV 69 \"Lobe den Herrn, meine Seele\": III. Aria (Alt) \"Meine Seele, auf! erzähle\""
+    },
+    {
+     "id": "00277bd0-42b1-3dab-9f52-010f02bfaa94",
+     "title": "Kantate, BWV 69 \"Lobe den Herrn, meine Seele\": IV. Recitativo (Tenor) \"Der Herr hat große Ding an uns getan\""
+    },
+    {
+     "id": "624882f0-3dbf-359a-a090-c85ddc3a1930",
+     "title": "Kantate, BWV 69 \"Lobe den Herrn, meine Seele\": V. Aria (Bass) \"Mein Erlöser und Erhalter\""
+    },
+    {
+     "id": "9eeb54b3-6bdf-3de3-9c06-c053bf7b7240",
+     "title": "Kantate, BWV 69 \"Lobe den Herrn, meine Seele\": VI. Choral \"Es danke, Gott, und lobe dich\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "70",
+   "id": "0192cdef-a9d9-4c5a-b1ee-527e277c7c2a",
+   "also": [],
+   "skipped": {
+    "af5fde14-9043-477f-b532-4ea935cdec89": "earlier version (70.1)"
+   },
+   "candidates": [
+    {
+     "id": "0192cdef-a9d9-4c5a-b1ee-527e277c7c2a",
+     "title": "Kantate, BWV 70.2 \"Wachet! betet! betet! wachet!\""
+    },
+    {
+     "id": "af5fde14-9043-477f-b532-4ea935cdec89",
+     "title": "Kantate, BWV 70.1 \"Wachet, betet, seid bereit allezeit!\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 70.2 \"Wachet! betet! betet! wachet!\"",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0d382905-ca2f-3ea6-9090-fcfd7f7cad56",
+     "title": "Kantate, BWV 70 \"Wachet! betet! betet! wachet!\": I. Coro \"Wachet! betet! betet! wachet!\""
+    },
+    {
+     "id": "909bf176-40e2-30f5-b268-fa9c93636457",
+     "title": "Kantate, BWV 70 \"Wachet! betet! betet! wachet!\": II. Recitativo (Bass) \"Erschrecket, ihr verstockten Sünder\""
+    },
+    {
+     "id": "ca448f97-8d6c-3d8f-826c-844a43de164b",
+     "title": "Kantate, BWV 70 \"Wachet! betet! betet! wachet!\": III. Aria (Alt) \"Wenn kömmt der Tag\""
+    },
+    {
+     "id": "b3ee024d-e01d-3410-b769-864b40378437",
+     "title": "Kantate, BWV 70 \"Wachet! betet! betet! wachet!\": IV. Recitativo (Tenor) \"Auch bei dem himmlischen Verlangen\""
+    },
+    {
+     "id": "681bb2e1-9b84-3202-ba5d-2256f278c308",
+     "title": "Kantate, BWV 70 \"Wachet! betet! betet! wachet!\": V. Aria (Sopran) \"Laßt der Spötter Zungen schmähen\""
+    },
+    {
+     "id": "54e39957-cb17-3c41-baeb-4249604fb755",
+     "title": "Kantate, BWV 70 \"Wachet! betet! betet! wachet!\": VI. Recitativo (Tenor) \"Jedoch bei dem unartigen Geschlechte\""
+    },
+    {
+     "id": "436b978f-a07b-3243-b428-1cf9eccb013f",
+     "title": "Kantate, BWV 70 \"Wachet! betet! betet! wachet!\": VII. Choral \"Freu dich sehr, o meine Seele\""
+    },
+    {
+     "id": "5cc10722-0ecd-3800-8a72-03c76d6a42e9",
+     "title": "Kantate, BWV 70 \"Wachet! betet! betet! wachet!\": VIII. Aria (Tenor) \"Hebt euer haupt empor\""
+    },
+    {
+     "id": "52de4c76-a332-3b64-a23a-31ac640d81fa",
+     "title": "Kantate, BWV 70 \"Wachet! betet! betet! wachet!\": IX. Recitativo (Bass) \"Ach, soll nicht dieser große Tag\""
+    },
+    {
+     "id": "2cc0e31e-2f05-3eb9-89ec-c5ea908e9271",
+     "title": "Kantate, BWV 70 \"Wachet! betet! betet! wachet!\": X. Aria (Bass) \"Seligster Erquickungstag\""
+    },
+    {
+     "id": "7b4580af-6b7f-3f58-ae0c-7336f85232a5",
+     "title": "Kantate, BWV 70 \"Wachet! betet! betet! wachet!\": XI. Choral \"Nicht nach Welt, nach Himmel nicht\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "71",
+   "id": "523d9701-392e-4e84-aa5f-754dd56fe68b",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "523d9701-392e-4e84-aa5f-754dd56fe68b",
+     "title": "Kantate, BWV 71 \"Gott ist mein König\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 71 \"Gott ist mein König\"",
+   "key": null,
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0db7b363-e44d-3413-94cb-b9150e2f4e24",
+     "title": "Kantate, BWV 71 \"Gott ist mein König von altersher\": I. Coro (Sopran, Alt, Tenor, Bass) \"Gott ist mein König von altersher\""
+    },
+    {
+     "id": "dfca5063-79a5-3cc6-9862-391b0318a852",
+     "title": "Kantate, BWV 71 \"Gott ist mein König von altersher\": II. Aria (Sopran, Tenor) \"Ich bin nun achtzig Jahr\""
+    },
+    {
+     "id": "26861447-9809-3e21-8a62-4850b9b3fade",
+     "title": "Kantate, BWV 71 \"Gott ist mein König von altersher\": III. Fuga (Coro) \"Dein Alter sei wie deine Jugend\""
+    },
+    {
+     "id": "7b995779-5d0f-3a26-a8aa-6ad812e6dd48",
+     "title": "Kantate, BWV 71 \"Gott ist mein König von altersher\": IV. Arioso (Bass) \"Tag und Nacht ist dein\""
+    },
+    {
+     "id": "01edfc3a-9a19-394f-ad4c-af321c877e3f",
+     "title": "Kantate, BWV 71 \"Gott ist mein König von altersher\": V. Aria (Alt) \"Durch mächtige Kraft\""
+    },
+    {
+     "id": "8008aaad-39cf-3fb1-a105-29bb04bdc469",
+     "title": "Kantate, BWV 71 \"Gott ist mein König von altersher\": VI. Coro \"Du wollest dem Feinde\""
+    },
+    {
+     "id": "8034544a-10a9-341c-a986-4cd3d5ac8597",
+     "title": "Kantate, BWV 71 \"Gott ist mein König von altersher\": VII. Coro (Sopran, Alt, Tenor, Bass) \"Das neue Regiment\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "72",
+   "id": "185953e3-e196-4556-9dd7-54a1f5db431e",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "185953e3-e196-4556-9dd7-54a1f5db431e",
+     "title": "Kantate, BWV 72 \"Alles nur nach Gottes Willen\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 72 \"Alles nur nach Gottes Willen\"",
+   "key": "A minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "1cbbf573-0fa1-318b-ae56-d258a1845c9a",
+     "title": "Kantate, BWV 72 \"Alles nur nach Gottes Willen\": I. Coro \"Alles nur nach Gottes Willen\""
+    },
+    {
+     "id": "b45babe1-bd33-3530-b4e2-1b5986524cf4",
+     "title": "Kantate, BWV 72 \"Alles nur nach Gottes Willen\": II. Recitativo (Alt) \"O selger Christ\""
+    },
+    {
+     "id": "ea648875-5ff4-3e15-879a-dc514d513eb9",
+     "title": "Kantate, BWV 72 \"Alles nur nach Gottes Willen\": III. Aria (Alt) \"Mit allem, was ich hab und bin\""
+    },
+    {
+     "id": "3cffcb7f-8239-3f13-922e-15de22526935",
+     "title": "Kantate, BWV 72 \"Alles nur nach Gottes Willen\": IV. Recitativo (Bass) \"So glaube nun!\""
+    },
+    {
+     "id": "f5e392f6-9484-307f-82fc-fbb90ee84d4a",
+     "title": "Kantate, BWV 72 \"Alles nur nach Gottes Willen\": V. Aria (Sopran) \"Mein Jesus will es tun\""
+    },
+    {
+     "id": "cf960682-812b-3c5f-ab4b-45eab8de31cb",
+     "title": "Kantate, BWV 72 \"Alles nur nach Gottes Willen\": VI. Choral \"Was mein Gott will, das gscheh allzeit\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "73",
+   "id": "98a6c474-9d97-47ce-9536-3e3daf568f5e",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "98a6c474-9d97-47ce-9536-3e3daf568f5e",
+     "title": "Kantate, BWV 73 \"Herr, wie du willt, so schicks mit mir\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 73 \"Herr, wie du willt, so schicks mit mir\"",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "ae57e503-a091-3710-8b09-e1d1e62ef145",
+     "title": "Kantate, BWV 73 \"Herr, wie du willt, so schicks mit mir\": I. Choral e Recitativo (Tenor, Bass, Sopran) \"Herr, wie du willt, so schicks mit mir\""
+    },
+    {
+     "id": "0426307a-94b2-3ffc-9cb6-0918f620dd63",
+     "title": "Kantate, BWV 73 \"Herr, wie du willt, so schicks mit mir\": II. Aria (Tenor) \"Ach senke doch den Geist der Freuden\""
+    },
+    {
+     "id": "92cf241b-6774-37a2-9c88-4bbfaa8272f8",
+     "title": "Kantate, BWV 73 \"Herr, wie du willt, so schicks mit mir\": III. Recitativo (Bass) \"Ach, unser Wille bleibt verkehrt\""
+    },
+    {
+     "id": "5db84d47-9daa-34aa-9143-1d99f85765ca",
+     "title": "Kantate, BWV 73 \"Herr, wie du willt, so schicks mit mir\": IV. Aria (Bass) \"Herr, so du willt\""
+    },
+    {
+     "id": "99c979f0-9619-3c41-81a8-48b718960deb",
+     "title": "Kantate, BWV 73 \"Herr, wie du willt, so schicks mit mir\": V. Choral \"Das ist des Vaters Wille\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "74",
+   "id": "959b0d3b-8d54-4f53-a90d-1618b7476beb",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "959b0d3b-8d54-4f53-a90d-1618b7476beb",
+     "title": "Kantate, BWV 74 \"Wer mich liebet, der wird mein Wort halten\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 74 \"Wer mich liebet, der wird mein Wort halten\"",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "b0cb08f3-40ac-3bc8-a6d2-abc3b2c8a02c",
+     "title": "Kantate, BWV 74 \"Wer mich liebet, der wird mein Wort halten\": I. Coro \"Wer mich liebet, der wird mein Wort halten\""
+    },
+    {
+     "id": "5ebd411e-0f9d-342d-b463-3a625590e511",
+     "title": "Kantate, BWV 74 \"Wer mich liebet, der wird mein Wort halten\": II. Aria (Sopran) \"Komm, komm, mein Herze steht dir offen\""
+    },
+    {
+     "id": "98edc6b8-b44e-3f6e-baaa-fbfd1bee687e",
+     "title": "Kantate, BWV 74 \"Wer mich liebet, der wird mein Wort halten\": III. Recitativo (Alt) \"Die Wohnung ist bereit\""
+    },
+    {
+     "id": "6f850809-000b-3f10-91ab-940bef202900",
+     "title": "Kantate, BWV 74 \"Wer mich liebet, der wird mein Wort halten\": IV. Aria (Bass) \"Ich gehe hin und komme wieder zu euch\""
+    },
+    {
+     "id": "5800294e-bebc-35ba-a0be-d2799f2488d2",
+     "title": "Kantate, BWV 74 \"Wer mich liebet, der wird mein Wort halten\": V. Aria (Tenor) \"Kommt, eilet, stimmet Sait und Lieder\""
+    },
+    {
+     "id": "cfd0ec33-b776-370d-a0cb-7cae5ef49cb4",
+     "title": "Kantate, BWV 74 \"Wer mich liebet, der wird mein Wort halten\": VI. Recitativo (Bass) \"Es ist nichts Verdammliches an denen\""
+    },
+    {
+     "id": "b03c3bfd-0801-3b5e-80f5-3830a6fa9843",
+     "title": "Kantate, BWV 74 \"Wer mich liebet, der wird mein Wort halten\": VII. Aria (Alt) \"Nichts kann mich erretten\""
+    },
+    {
+     "id": "bc8aafd4-6d6d-3244-bb71-8abec66784c7",
+     "title": "Kantate, BWV 74 \"Wer mich liebet, der wird mein Wort halten\": VIII. Choral \"Kein Menschenkind hier auf der Erd\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "75",
+   "id": "2cafbd5b-b2c6-4abf-a54b-12fe8a5d522e",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "2cafbd5b-b2c6-4abf-a54b-12fe8a5d522e",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 75 \"Die Elenden sollen essen\"",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "f47e519c-0bcc-30e2-91e3-c237e6b90193",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": I. Coro \"Die Elenden sollen essen\""
+    },
+    {
+     "id": "979f93ac-b2ba-33f3-9a07-bcc8d32ba84a",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": II. Recitativo (Bass) \"Was hilft des Purpurs Majestät\""
+    },
+    {
+     "id": "b1574fe6-dcaf-3dd4-b500-969c7f2c5082",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": III. Aria (Tenor) \"Mein Jesus soll mein alles sein!\""
+    },
+    {
+     "id": "7912b41f-3139-3a4c-8894-e7acbfbd88d8",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": IV. Recitativo (Tenor) \"Gott stürzet und erhöhet\""
+    },
+    {
+     "id": "80fbf059-5b54-317f-a047-fcab3c1ed56d",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": V. Aria (Sopran) \"Ich nehme mein Leiden mit Freuden auf mich\""
+    },
+    {
+     "id": "fb4cacb4-1079-30fb-9de5-3b6020ac882b",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": VI. Recitativo (Sopran) \"Indes schenkt Gott ein gut Gewissen\""
+    },
+    {
+     "id": "5ae95f22-597b-3113-9f17-4f069962ecd2",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": VII. Choral \"Was Gott tut, das ist wohlgetan\""
+    },
+    {
+     "id": "c6bec8df-ec20-3a38-807a-df5acda469ab",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": VIII. Sinfonia"
+    },
+    {
+     "id": "d1ead629-d7b4-36e0-acbc-5f22455f8088",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": IX. Recitativo (Alt) \"Nur eines kränkt ein christliches Gemüte\""
+    },
+    {
+     "id": "f24817e0-0471-32e5-95f9-0afed518c008",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": X. Aria (Alt) \"Jesus macht mich geistlich reich\""
+    },
+    {
+     "id": "87885820-6f9a-3b50-8372-783f071937f6",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": XI. Recitativo (Bass) \"Wer nur in Jesu bleibt\""
+    },
+    {
+     "id": "e4ea6b5a-5749-3821-ba67-c24f97c7814a",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": XII. Aria (Bass) \"Mein Herze glaubt und liebt\""
+    },
+    {
+     "id": "0bd73eef-6712-3ca2-b9b8-03df1067b6c3",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": XIII. Recitativo (Tenor) \"O Armut, der kein Reichtum gleicht!\""
+    },
+    {
+     "id": "ea37517a-3619-3685-a23e-17d6973527f3",
+     "title": "Kantate, BWV 75 \"Die Elenden sollen essen\": XIV. Choral \"Was Gott tut, das ist wohlgetan\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "76",
+   "id": "55a7efe6-e3b0-4e2c-bdd2-adaea24070ea",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "55a7efe6-e3b0-4e2c-bdd2-adaea24070ea",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\"",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "3b58240e-ce03-34dd-97ee-a49a6b5dc6f3",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": I. Coro (Sopran, Alt, Tenor, Bass) \"Die Himmel erzählen die Ehre Gottes\""
+    },
+    {
+     "id": "f0372cba-52b6-31ab-b59b-0b881e0154f8",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": II. Recitativo (Tenor) \"So läßt sich Gott nicht unbezeuget!\""
+    },
+    {
+     "id": "5b94334b-c8d3-3246-9ff9-68fbf6c2c28c",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": III. Aria (Sopran) \"Hört, ihr Völker, Gottes Stimme\""
+    },
+    {
+     "id": "0e9c8d06-2008-3d1f-8218-99b2245589b1",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": IV. Recitativo (Bass) \"Wer aber hört\""
+    },
+    {
+     "id": "76592a1b-4fe7-385a-90a7-1d5614e19f39",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": V. Aria (Bass) \"Fahr hin, abgöttische Zunft!\""
+    },
+    {
+     "id": "2cb444e4-00b3-3efe-aa94-85b274fc44d0",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": VI. Recitativo (Alt) \"Du hast uns, Herr, von allen Straßen\""
+    },
+    {
+     "id": "04bba941-1fe0-34ea-b6a0-5ae70a395e13",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": VII. Choral \"Es woll uns Gott genädig sein\""
+    },
+    {
+     "id": "198f5b1d-7001-34f0-9036-e13d46c0ded0",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": VIII. Sinfonia"
+    },
+    {
+     "id": "9a691b9e-c67f-3dc0-835c-6887c984b560",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": IX. Recitativo (Bass) \"Gott segne noch die treue Schar\""
+    },
+    {
+     "id": "b986270d-2c50-3c42-8a49-7d9dfeb0d3b2",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": X. Aria (Tenor) \"Hasse nur, hasse mich recht\""
+    },
+    {
+     "id": "71bdebfd-d3a0-333c-8ac7-2863f88fc5be",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": XI. Recitativo (Alt) \"Ich fühle schon im Geist\""
+    },
+    {
+     "id": "2d6f96b7-5308-37f1-986f-e13a56018c54",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": XII. Aria (Alt) \"Liebt, ihr Christen, in der Tat!\""
+    },
+    {
+     "id": "1662b37d-565d-3d80-8a67-b4e58e04e4b8",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": XIII. Recitativo (Tenor) \"So soll die Christenheit\""
+    },
+    {
+     "id": "335f7def-45e0-39f2-b4ac-57c0e26d32b2",
+     "title": "Kantate, BWV 76 \"Die Himmel erzählen die Ehre Gottes\": XIV. Choral \"Es danke, Gott, und lobe dich\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "77",
+   "id": "d4cb6992-816b-4b91-8c74-d18c0c500065",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "d4cb6992-816b-4b91-8c74-d18c0c500065",
+     "title": "Kantate, BWV 77 \"Du sollt Gott, deinen Herren, lieben\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 77 \"Du sollt Gott, deinen Herren, lieben\"",
+   "key": "C major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "cbcd5886-cef5-3492-88ac-9247134075f9",
+     "title": "Kantate, BWV 77 \"Du sollt Gott, deinen Herren, lieben\": I. Coro con Choral \"Du sollt Gott, deinen Herren, lieben\""
+    },
+    {
+     "id": "6aa5454e-3493-375b-89ff-9d4cab5f2f18",
+     "title": "Kantate, BWV 77 \"Du sollt Gott, deinen Herren, lieben\": II. Recitativo (Bass) \"So muß es sein!\""
+    },
+    {
+     "id": "73213187-8222-3797-bbca-b3d5584f9cf3",
+     "title": "Kantate, BWV 77 \"Du sollt Gott, deinen Herren, lieben\": III. Aria (Sopran) \"Mein Gott, ich liebe dich von Herzen\""
+    },
+    {
+     "id": "1a863792-1998-36ec-aa7f-5ea3f16e707d",
+     "title": "Kantate, BWV 77 \"Du sollt Gott, deinen Herren, lieben\": IV. Recitativo (Tenor) \"Gib mir dabei, mein Gott! ein Samariterherz\""
+    },
+    {
+     "id": "dbc35443-224a-3908-9edc-cf4e6609d0da",
+     "title": "Kantate, BWV 77 \"Du sollt Gott, deinen Herren, lieben\": V. Aria (Alt) \"Ach, es bleibt in meiner Liebe\""
+    },
+    {
+     "id": "e866fcc2-f65c-3f63-b431-1a04741edee7",
+     "title": "Kantate, BWV 77 \"Du sollt Gott, deinen Herren, lieben\": VI. Choral \"Herr, durch den Glauben wohn in mir\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "78",
+   "id": "99c3f2a2-94ad-4f47-a76d-5a7aeb22d025",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "99c3f2a2-94ad-4f47-a76d-5a7aeb22d025",
+     "title": "Kantate, BWV 78 \"Jesu, der du meine Seele\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 78 \"Jesu, der du meine Seele\"",
+   "key": "G minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "51f58738-fad0-3075-bbbe-8b2ed449d5ff",
+     "title": "Kantate, BWV 78 \"Jesu, der du meine Seele\": I. Coro \"Jesu, der du meine Seele\""
+    },
+    {
+     "id": "ce745450-4d50-34fd-b5b5-120a00057689",
+     "title": "Kantate, BWV 78 \"Jesu, der du meine Seele\": II. Aria (Duetto Sopran, Alt) \"Wir eilen mit schwachen, doch emsigen Schritten\""
+    },
+    {
+     "id": "66f65d5c-9ce8-3d83-8645-c3dc541d8d11",
+     "title": "Kantate, BWV 78 \"Jesu, der du meine Seele\": III. Recitativo (Tenor) \"Ach! ich bin ein Kind der Sünden\""
+    },
+    {
+     "id": "d1996b16-8ecb-35ce-8c47-1d208a53de6a",
+     "title": "Kantate, BWV 78 \"Jesu, der du meine Seele\": IV. Aria (Tenor) \"Das Blut, so meine Schuld durchstreicht\""
+    },
+    {
+     "id": "783a0d92-6517-3d94-a667-da2d99951f02",
+     "title": "Kantate, BWV 78 \"Jesu, der du meine Seele\": V. Recitativo (Bass) \"Die Wunden, Nägel, Kron und Grab\""
+    },
+    {
+     "id": "f377cf23-0eef-333f-9b11-f47c51e7db45",
+     "title": "Kantate, BWV 78 \"Jesu, der du meine Seele\": VI. Aria (Bass) \"Nun du wirst mein Gewissen stillen\""
+    },
+    {
+     "id": "327bbfff-1c6a-3db4-b562-8c2efd52c01d",
+     "title": "Kantate, BWV 78 \"Jesu, der du meine Seele\": VII. Choral \"Herr, ich glaube, hilf mir Schwachen\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "79",
+   "id": "c64441a3-b6e3-4b18-a523-bca767a36a94",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "c64441a3-b6e3-4b18-a523-bca767a36a94",
+     "title": "Kantate, BWV 79 \"Gott der Herr ist Sonn und Schild\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 79 \"Gott der Herr ist Sonn und Schild\"",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "e3614a2c-9a44-3010-839e-9a10defe864d",
+     "title": "Kantate, BWV 79 \"Gott der Herr ist Sonn und Schild\": I. Coro \"Gott der Herr ist Sonn und Schild\""
+    },
+    {
+     "id": "7719ce69-6bfa-346a-bb77-4e7b1d06ef02",
+     "title": "Kantate, BWV 79 \"Gott der Herr ist Sonn und Schild\": II. Aria (Alt) \"Gott ist unser Sonn und Schild!\""
+    },
+    {
+     "id": "ce8b586d-de35-3b93-ac20-9fd0cc8ffcf2",
+     "title": "Kantate, BWV 79 \"Gott der Herr ist Sonn und Schild\": III. Choral \"Nun danket alle gott'\""
+    },
+    {
+     "id": "ef3a1a60-4a70-36e9-91c8-16b53b751cb7",
+     "title": "Kantate, BWV 79 \"Gott der Herr ist Sonn und Schild\": IV. Recitativo (Bass) \"Gottlob, wir wissen den rechten Weg\""
+    },
+    {
+     "id": "4a0f839c-e67f-3f6c-8d65-c4d086c5414a",
+     "title": "Kantate, BWV 79 \"Gott der Herr ist Sonn und Schild\": V. Aria (Duetto Sopran, Bass) \"Gott, ach Gott, verlaß die Deinen\""
+    },
+    {
+     "id": "f7f5c0d1-c798-3522-ba63-59c31fcff2d1",
+     "title": "Kantate, BWV 79 \"Gott der Herr ist Sonn und Schild\": VI. Choral \"Erhalt uns in der Wahrheit\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "80",
+   "id": "f49ebe41-22bf-4c4a-8fcb-1849f29f294d",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "f49ebe41-22bf-4c4a-8fcb-1849f29f294d",
+     "title": "Kantate, BWV 80 \"Ein feste Burg ist unser Gott\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 80 \"Ein feste Burg ist unser Gott\"",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0be03d66-16d5-3bcc-ae30-55f2a8d778e6",
+     "title": "Kantate, BWV 80 \"Ein feste Burg ist unser Gott\": I. Coro \"Ein feste Burg ist unser Gott\""
+    },
+    {
+     "id": "737f5a97-1b88-3bcf-b667-2c3125b730af",
+     "title": "Kantate, BWV 80 \"Ein feste Burg ist unser Gott\": II. Aria (Bass) con Choral (Sopran) \"Alles, was von Gott geboren\""
+    },
+    {
+     "id": "53b1b3f2-ac40-30b0-9005-e1df68666a51",
+     "title": "Kantate, BWV 80 \"Ein feste Burg ist unser Gott\": III. Recitativo (Bass) \"Erwäge doch, Kind Gottes\""
+    },
+    {
+     "id": "76303c28-03b7-3af1-b3cf-d36e5c19bb2b",
+     "title": "Kantate, BWV 80 \"Ein feste Burg ist unser Gott\": IV. Aria (Sopran) \"Komm in mein Herzenshaus\""
+    },
+    {
+     "id": "44057a73-de9c-39b2-91ab-fc0d2c4dd36f",
+     "title": "Kantate, BWV 80 \"Ein feste Burg ist unser Gott\": V. Choral \"Und wenn die Welt voll Teufel wär\""
+    },
+    {
+     "id": "2d72225c-81a2-38ec-b283-ce566780c9c3",
+     "title": "Kantate, BWV 80 \"Ein feste Burg ist unser Gott\": VI. Recitativo (Tenor) \"So stehe dann bei Christi blutgefärbten Fahne\""
+    },
+    {
+     "id": "b18e6bb1-ee74-3945-93ad-e8bda4aa533e",
+     "title": "Kantate, BWV 80 \"Ein feste Burg ist unser Gott\": VII. Duetto (Alt, Tenor) \"Wie selig sind doch die, die Gott im Munde tragen\""
+    },
+    {
+     "id": "7497c48e-56f3-3d93-af4d-a815c7f014b7",
+     "title": "Kantate, BWV 80 \"Ein feste Burg ist unser Gott\": VIII. Choral \"Das Wort sie sollen lassen stahn\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "81",
+   "id": "17e3f27a-e049-46ce-8124-708f296c753f",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "17e3f27a-e049-46ce-8124-708f296c753f",
+     "title": "Kantate, BWV 81 \"Jesus schläft, was soll ich hoffen\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 81 \"Jesus schläft, was soll ich hoffen\"",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "ef5dee7d-ea83-34dd-887d-fc61ed553aa8",
+     "title": "Kantate, BWV 81 \"Jesus schläft, was soll ich hoffen\": I. Aria (Alt) \"Jesus schläft, was soll ich hoffen?\""
+    },
+    {
+     "id": "fa48e1cd-e570-3249-b59a-1e4b87e10ed5",
+     "title": "Kantate, BWV 81 \"Jesus schläft, was soll ich hoffen\": II. Recitativo (Tenor) \"Herr, warum trittest du so ferne?\""
+    },
+    {
+     "id": "61f19322-0088-3bcf-b46e-27c8aaf6d724",
+     "title": "Kantate, BWV 81 \"Jesus schläft, was soll ich hoffen\": III. Aria (Tenor) \"Die schäumenden Wellen von Belials Bächen\""
+    },
+    {
+     "id": "139e8682-cc04-31f7-8e6a-e9c895d92f80",
+     "title": "Kantate, BWV 81 \"Jesus schläft, was soll ich hoffen\": IV. Arioso (Bass) \"Ihr Kleingläubigen, warum seid ihr so furchtsam?\""
+    },
+    {
+     "id": "f6ec6463-6563-37bb-bdb9-d7491ff19241",
+     "title": "Kantate, BWV 81 \"Jesus schläft, was soll ich hoffen\": V. Aria (Bass) \"Schweig, aufgetürmtes Meer!\""
+    },
+    {
+     "id": "e56de2e0-6e93-39a3-aa19-2401c7b8e484",
+     "title": "Kantate, BWV 81 \"Jesus schläft, was soll ich hoffen\": VI. Recitativo (Alt) \"Wohl mir, mein Jesus spricht ein Wort\""
+    },
+    {
+     "id": "70833221-d226-34a4-a4ec-115809af65e0",
+     "title": "Kantate, BWV 81 \"Jesus schläft, was soll ich hoffen\": VII. Choral \"Unter deinen Schirmen\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "82",
+   "id": "c6c039f1-5f7c-4506-b2bc-61a2c037291d",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "c6c039f1-5f7c-4506-b2bc-61a2c037291d",
+     "title": "Kantate, BWV 82 “Ich habe genung”"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 82 “Ich habe genung”",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "64e96022-d94b-382c-a14a-04cbdaf6debf",
+     "title": "Kantate, BWV 82 “Ich habe genung”: I. Aria (Bass) “Ich habe genung, ich habe den Heiland”"
+    },
+    {
+     "id": "b80d0cfd-bb42-3e85-b99b-0d48c16c7195",
+     "title": "Kantate, BWV 82 \"Ich habe genung\": II. Recitativo (Bass) \"Ich habe genung! Mein Trost ist nur allein\""
+    },
+    {
+     "id": "ba546587-659e-3faf-b2d8-e096ff05335b",
+     "title": "Kantate, BWV 82 \"Ich habe genung\": III. Aria (Bass) \"Schlummert ein, ihr matten Augen\""
+    },
+    {
+     "id": "0cfd4e0b-924c-3722-b809-7bad44c137de",
+     "title": "Kantate, BWV 82 \"Ich habe genung\": IV. Recitativo (Bass) \"Mein Gott! wenn kömmt das schöne: Nun!\""
+    },
+    {
+     "id": "05ab791d-5e08-3148-abdc-07d6c1c17e3a",
+     "title": "Kantate, BWV 82 \"Ich habe genung\": V. Aria (Bass) \"Ich freue mich auf meinen Tod\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "83",
+   "id": "4e2a12d7-1213-4a6f-a65c-8049e1677df5",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "4e2a12d7-1213-4a6f-a65c-8049e1677df5",
+     "title": "Kantate, BWV 83 \"Erfreute Zeit im neuen Bunde\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 83 \"Erfreute Zeit im neuen Bunde\"",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "eceeebc3-cbfe-3e14-a71f-79f9759a0964",
+     "title": "Kantate, BWV 83 \"Erfreute Zeit im neuen Bunde\": I. Aria (Alto) \"Erfreute Zeit im neuen Bunde\""
+    },
+    {
+     "id": "75320366-13b5-349e-9f14-53b49055f090",
+     "title": "Kantate, BWV 83 \"Erfreute Zeit im neuen Bunde\": II. Aria (Bass) \"Herr, nun lässest du deinen Diener\""
+    },
+    {
+     "id": "1bf9ed76-8772-3c67-a439-d08142d9779d",
+     "title": "Kantate, BWV 83 \"Erfreute Zeit im neuen Bunde\": III. Aria (Ten) \"Eile, Herz, voll Freudigkeit\""
+    },
+    {
+     "id": "9c6f9083-ba02-36fa-b351-39155ac1f94c",
+     "title": "Kantate, BWV 83 \"Erfreute Zeit im neuen Bunde\": IV. Recitativo (Alto) \"Ja, merkt dein Glaube noch viel Finsternis\""
+    },
+    {
+     "id": "1dc71b25-7417-3f67-a48c-00434bb7b383",
+     "title": "Kantate, BWV 83 \"Erfreute Zeit im neuen Bunde\": V. Choral (Coro) \"Er ist das heil und selig Licht\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "84",
+   "id": "62fde156-1143-4a97-a0b6-4bb9552ac3fa",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "62fde156-1143-4a97-a0b6-4bb9552ac3fa",
+     "title": "Kantate, BWV 84 \"Ich bin vergnügt mit meinem Glücke\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 84 \"Ich bin vergnügt mit meinem Glücke\"",
+   "key": "E minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "91762153-9fc2-3f6a-9748-8bc12455992b",
+     "title": "Kantate, BWV 84 \"Ich bin vergnügt mit meinem Glücke\": I. Aria (Sopran) \"Ich bin vergnügt mit meinem Glücke\""
+    },
+    {
+     "id": "96ae07ad-77b8-3070-9be1-5c7384e23a1a",
+     "title": "Kantate, BWV 84 \"Ich bin vergnügt mit meinem Glücke\": II. Recitativo (Sopran) \"Gott ist mir ja nichts schuldig\""
+    },
+    {
+     "id": "0fb03a2f-1cc7-38dd-a87f-1a1f187f6c71",
+     "title": "Kantate, BWV 84 \"Ich bin vergnügt mit meinem Glücke\": III. Aria (Sopran) \"Ich esse mit Freuden mein weniges Brot\""
+    },
+    {
+     "id": "b1d75c2c-491c-3496-81b4-cb1dfe2a8cd5",
+     "title": "Kantate, BWV 84 \"Ich bin vergnügt mit meinem Glücke\": IV. Recitativo (Sopran) \"Im Schweiße meines Angesichts\""
+    },
+    {
+     "id": "782dcebf-e75c-3683-88ff-c155ec452270",
+     "title": "Kantate, BWV 84 \"Ich bin vergnügt mit meinem Glücke\": V. Choral (Coro) \"Ich leb indes in dir vergnüget\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "85",
+   "id": "55aff653-04cf-413f-87da-7ad449971979",
+   "also": [],
+   "skipped": {
+    "57ab4ae4-f396-4b05-a172-a8bcdcb1eed6": "arrangement of Kantate, BWV 85 \"Ich bin ein guter Hirt\": V. Aria (Tenor) \"Seht, was die Liebe tut\""
+   },
+   "candidates": [
+    {
+     "id": "55aff653-04cf-413f-87da-7ad449971979",
+     "title": "Kantate, BWV 85 \"Ich bin ein guter Hirt\""
+    },
+    {
+     "id": "57ab4ae4-f396-4b05-a172-a8bcdcb1eed6",
+     "title": "See What His Love Can Do, from BWV 85"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 85 \"Ich bin ein guter Hirt\"",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "325447c9-fa89-37df-9ac0-b85f7cf2d7f9",
+     "title": "Kantate, BWV 85 \"Ich bin ein guter Hirt\": I. Aria (Bass) \"Ich bin ein guter Hirt\""
+    },
+    {
+     "id": "ee9749d9-0673-35b4-a6f7-9abf38321758",
+     "title": "Kantate, BWV 85 \"Ich bin ein guter Hirt\": II. Aria (Alt) \"Jesus ist ein guter Hirt\""
+    },
+    {
+     "id": "084a4461-378b-3281-a372-815c8a5a8924",
+     "title": "Kantate, BWV 85 \"Ich bin ein guter Hirt\": III. Choral (Sop) \"Der Herr ist mein getreuer Hirt\""
+    },
+    {
+     "id": "ecdc36ef-d458-323a-ba26-d07a1fbdc324",
+     "title": "Kantate, BWV 85 \"Ich bin ein guter Hirt\": IV. Recitativo (Tenor) \"Wann die Mietlinge schlafen\""
+    },
+    {
+     "id": "4b8370f0-570b-3f52-8a93-e7e4d3b805ce",
+     "title": "Kantate, BWV 85 \"Ich bin ein guter Hirt\": V. Aria (Tenor) \"Seht, was die Liebe tut\""
+    },
+    {
+     "id": "9c7a857f-66ac-3d5c-b61f-e27333d6e27b",
+     "title": "Kantate, BWV 85 \"Ich bin ein guter Hirt\": VI. Choral \"Ist Gott mein Schutz und treuer Hirt\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "86",
+   "id": "5aeba79d-9b33-4f99-a62b-ea8842cb1743",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "5aeba79d-9b33-4f99-a62b-ea8842cb1743",
+     "title": "Kantate, BWV 86 \"Wahrlich, wahrlich, ich sage euch\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 86 \"Wahrlich, wahrlich, ich sage euch\"",
+   "key": "E major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "3184245b-b161-3b40-b6af-5e1beb34e97e",
+     "title": "Kantate, BWV 86 \"Wahrlich, wahrlich, ich sage euch\": I. Aria (Bass) \"Wahrlich, wahrlich, ich sage euch\""
+    },
+    {
+     "id": "ba1a7350-742c-3f3d-84ed-65191feca0d7",
+     "title": "Kantate, BWV 86 \"Wahrlich, wahrlich, ich sage euch\": II. Aria (Alt) \"Ich will doch wohl Rosen brechen\""
+    },
+    {
+     "id": "7d408ebd-fb16-3013-ac6b-1e4534e53df3",
+     "title": "Kantate, BWV 86 \"Wahrlich, wahrlich, ich sage euch\": III. Choral (Sopran) \"Und was der ewig gütig Gott\""
+    },
+    {
+     "id": "455d402f-b40e-3c63-a671-905c1ce404ef",
+     "title": "Kantate, BWV 86 \"Wahrlich, wahrlich, ich sage euch\": IV. Recitativo (Tenor) \"Gott macht es nicht gleichwie die Welt\""
+    },
+    {
+     "id": "1d53ff32-bafe-37e6-a969-062821f09beb",
+     "title": "Kantate, BWV 86 \"Wahrlich, wahrlich, ich sage euch\": V. Aria (Tenor) \"Gott hilft gewiß\""
+    },
+    {
+     "id": "47a7e271-dfc0-3464-a379-b56a285bdede",
+     "title": "Kantate, BWV 86 \"Wahrlich, wahrlich, ich sage euch\": VI. Choral \"Die Hoffnung wart' der rechten Zeit\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "87",
+   "id": "9e7c96d8-c975-46a7-b76f-a7c1bfc7dbbd",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "9e7c96d8-c975-46a7-b76f-a7c1bfc7dbbd",
+     "title": "Kantate, BWV 87 \"Bisher habt ihr nichts gebeten in meinem Namen\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 87 \"Bisher habt ihr nichts gebeten in meinem Namen\"",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "0a295d05-c826-3741-a787-eb31588a3959",
+     "title": "Kantate, BWV 87 \"Bisher habt ihr nichts gebeten in meinem Namen\": I. Arioso (Bass) \"Bisher habt ihr nichts gebeten in meinem Namen\""
+    },
+    {
+     "id": "e270b018-8216-399f-bdf8-fe088c3795b1",
+     "title": "Kantate, BWV 87 \"Bisher habt ihr nichts gebeten in meinem Namen\": II. Recitativo (Alt) \"O Wort, das Geist und Seel erschreckt\""
+    },
+    {
+     "id": "62576e04-5617-3e99-98e8-e7278900e526",
+     "title": "Kantate, BWV 87 \"Bisher habt ihr nichts gebeten in meinem Namen\": III. Aria (Alt) \"Vergib, o Vater, unsre Schuld\""
+    },
+    {
+     "id": "f7ba55c9-ef11-3e15-96b2-aeaa8f7158dc",
+     "title": "Kantate, BWV 87 \"Bisher habt ihr nichts gebeten in meinem Namen\": IV. Recitativo (Tenor) \"Wenn unsre Schuld bis an den Himmel steigt\""
+    },
+    {
+     "id": "68d8f433-3aef-3a36-bf4b-9e7fb55fd60a",
+     "title": "Kantate, BWV 87 \"Bisher habt ihr nichts gebeten in meinem Namen\": V. Arioso (Bass) \"In der Welt habt ihr Angst\""
+    },
+    {
+     "id": "69d8b15d-a1dd-33c2-825e-c535d39b3345",
+     "title": "Kantate, BWV 87 \"Bisher habt ihr nichts gebeten in meinem Namen\": VI. Aria (Tenor) \"Ich will leiden, ich will schweigen\""
+    },
+    {
+     "id": "c6e7269d-ecb3-3d69-801b-92dc83b08941",
+     "title": "Kantate, BWV 87 \"Bisher habt ihr nichts gebeten in meinem Namen\": VII. Choral \"Muß ich sein betrübet\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "88",
+   "id": "0833c334-160a-489b-8a81-97420c2ce551",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "0833c334-160a-489b-8a81-97420c2ce551",
+     "title": "Kantate, BWV 88 \"Siehe, ich will viel Fischer aussenden\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 88 \"Siehe, ich will viel Fischer aussenden\"",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "630a9f60-4ca0-3652-8415-5dfb8d0c2234",
+     "title": "Kantate, BWV 88 \"Siehe, ich will viel Fischer aussenden\": I. Aria (Bass) \"Siehe, ich will viel Fischer aussenden\""
+    },
+    {
+     "id": "cbd1be39-3999-3d89-8187-3d3e30f22e1e",
+     "title": "Kantate, BWV 88 \"Siehe, ich will viel Fischer aussenden\": II. Recitativo (Tenor) \"Wie leichtlich könnte doch der Höchste uns entbehren\""
+    },
+    {
+     "id": "048ddd0e-81b9-3128-b89f-1dd3fd53fba5",
+     "title": "Kantate, BWV 88 \"Siehe, ich will viel Fischer aussenden\": III. Aria (Tenor), Ritornello \"Nein, nein! Gott ist allezeit geflissen\""
+    },
+    {
+     "id": "6078842e-ad42-3388-8baa-b0a8c9a64c6c",
+     "title": "Kantate, BWV 88 \"Siehe, ich will viel Fischer aussenden\": IV. Recitativo ed Arioso (Tenor, Bass) \"Jesus sprach zu Simon\""
+    },
+    {
+     "id": "90e9e38a-5aac-3410-b200-c7f57d7f2d52",
+     "title": "Kantate, BWV 88 \"Siehe, ich will viel Fischer aussenden\": V. Aria (Duetto Sopran, Alt) \"Beruft Gott selbst, so muß der Segen\""
+    },
+    {
+     "id": "8cb34494-de06-30be-9d95-bae2bb61af78",
+     "title": "Kantate, BWV 88 \"Siehe, ich will viel Fischer aussenden\": VI. Recitativo (Sopran) \"Was kann dich denn in deinem Wandel schrecken\""
+    },
+    {
+     "id": "a79a0514-a2ad-326f-9a14-91f2447da9f7",
+     "title": "Kantate, BWV 88 \"Siehe, ich will viel Fischer aussenden\": VII. Choral \"Sing, bet und geh auf Gottes Wegen\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "89",
+   "id": "45953334-8004-45c8-b8d4-2bc730561ed8",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "45953334-8004-45c8-b8d4-2bc730561ed8",
+     "title": "Kantate, BWV 89 \"Was soll ich aus dir machen, Ephraim?\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 89 \"Was soll ich aus dir machen, Ephraim?\"",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "b47da132-aa36-3846-a63f-0377b7fe53b4",
+     "title": "Kantate, BWV 89 \"Was soll ich aus dir machen, Ephraim?\": I. Aria (Bass) \"Was soll ich aus dir machen, Ephraim?\""
+    },
+    {
+     "id": "da33b0f8-eea3-306f-90fd-8fb0d964dc26",
+     "title": "Kantate, BWV 89 \"Was soll ich aus dir machen, Ephraim?\": II. Recitativo (Alt) \"Ja, freilich sollte Gott\""
+    },
+    {
+     "id": "c2b1f299-c023-3bef-9dcd-eb20349fc6b0",
+     "title": "Kantate, BWV 89 \"Was soll ich aus dir machen, Ephraim?\": III. Aria (Alt) \"Ein unbarmherziges Gerichte\""
+    },
+    {
+     "id": "d037c2bf-91ae-3f3e-9a57-55faea73ffb4",
+     "title": "Kantate, BWV 89 \"Was soll ich aus dir machen, Ephraim?\": IV. Recitativo (Sopran) \"Wohlan! mein Herze legt Zorn, Zank und Zwietracht hin\""
+    },
+    {
+     "id": "451beda7-123f-33cd-b4d5-63f4a47ca3a8",
+     "title": "Kantate, BWV 89 \"Was soll ich aus dir machen, Ephraim?\": V. Aria (Sopran) \"Gerechter Gott, ach, rechnest du?\""
+    },
+    {
+     "id": "9078ea37-7173-3629-9286-473eac5c1bbf",
+     "title": "Kantate, BWV 89 \"Was soll ich aus dir machen, Ephraim?\": VI. Choral \"Mir mangelt zwar sehr viel\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "90",
+   "id": "7cb6fd6d-021f-4698-974b-0d3153f4d841",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "7cb6fd6d-021f-4698-974b-0d3153f4d841",
+     "title": "Kantate, BWV 90 \"Es reißet euch ein schrecklich Ende\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 90 \"Es reißet euch ein schrecklich Ende\"",
+   "key": "D minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "5e7afeaa-bea0-36e8-ba5a-12146216d247",
+     "title": "Kantate, BWV 90 \"Es reißet euch ein schrecklich Ende\": I. Aria (Tenor) \"Es reißet euch ein schrecklich Ende\""
+    },
+    {
+     "id": "7ecd4e7d-fc00-3841-ac50-65c386f5c8d0",
+     "title": "Kantate, BWV 90 \"Es reißet euch ein schrecklich Ende\": II. Recitativo (Alt) \"Des Höchsten Güte wird von Tag zu Tage neu\""
+    },
+    {
+     "id": "a38d067f-7f66-3e06-8744-ce95e351f73f",
+     "title": "Kantate, BWV 90 \"Es reißet euch ein schrecklich Ende\": III. Aria (Bass) \"So löschet im Eifer der rächende Richter\""
+    },
+    {
+     "id": "36eec8d3-7f39-3e4a-9d33-3bbe610ff95e",
+     "title": "Kantate, BWV 90 \"Es reißet euch ein schrecklich Ende\": IV. Recitativo (Tenor) \"Doch Gottes Auge sieht auf uns\""
+    },
+    {
+     "id": "24c27c9e-0c6d-3571-a755-36404e2886fa",
+     "title": "Kantate, BWV 90 \"Es reißet euch ein schrecklich Ende\": V. Choral \"Leit uns mit deiner rechten Hand\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "91",
+   "id": "25cba879-64c9-4af9-a4d2-020f6df4b89a",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "25cba879-64c9-4af9-a4d2-020f6df4b89a",
+     "title": "Kantate, BWV 91 \"Gelobet seist du, Jesu Christ\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 91 \"Gelobet seist du, Jesu Christ\"",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "3eea11cb-67a5-3021-bf47-77cfe0bb3f21",
+     "title": "Kantate, BWV 91 \"Gelobet seist du, Jesu Christ\": I. Coro \"Gelobet seist du, Jesu Christ\""
+    },
+    {
+     "id": "0d11b62a-8aaf-30b9-8b89-a28085a75aab",
+     "title": "Kantate, BWV 91 \"Gelobet seist du, Jesu Christ\": II. Recitativo (Sopran) e Choral \"Der Glanz der höchsten Herrlichkeit\""
+    },
+    {
+     "id": "8ee7f1dd-decf-379e-ab1d-a1e11f1368c6",
+     "title": "Kantate, BWV 91 \"Gelobet seist du, Jesu Christ\": III. Aria (Tenor) \"Gott, dem der Erden Kreis zu klein\""
+    },
+    {
+     "id": "76ee0eb4-f2af-3b8c-b6f7-f13b00bcc0b9",
+     "title": "Kantate, BWV 91 \"Gelobet seist du, Jesu Christ\": IV. Recitativo (Bass) \"O Christenheit!\""
+    },
+    {
+     "id": "2a3456fe-1f64-3fee-8387-9f52e0d53002",
+     "title": "Kantate, BWV 91 \"Gelobet seist du, Jesu Christ\": V. Aria (Duetto Sopran, Alt) \"Die Armut, so Gott auf sich nimmt\""
+    },
+    {
+     "id": "c1921958-3926-3fc5-a0ad-67207daffe16",
+     "title": "Kantate, BWV 91 \"Gelobet seist du, Jesu Christ\": VI. Choral \"Das hat er alles uns getan\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "92",
+   "id": "9340de87-7bee-4958-b8e1-54db3046863e",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "9340de87-7bee-4958-b8e1-54db3046863e",
+     "title": "Kantate, BWV 92 \"Ich hab in Gottes Herz und Sinn\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 92 \"Ich hab in Gottes Herz und Sinn\"",
+   "key": "B minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "1f0e94d3-55e1-3764-8792-42d2cf1094b5",
+     "title": "Kantate, BWV 92 \"Ich hab in Gottes Herz und Sinn\": I. Coro \"Ich hab in Gottes Herz und Sinn\""
+    },
+    {
+     "id": "796441f0-f074-3926-9ddc-5f0d0bc2eb6b",
+     "title": "Kantate, BWV 92 \"Ich hab in Gottes Herz und Sinn\": II. Choral e Recitativo (Bass) \"Es kann mir fehlen nimmermehr\""
+    },
+    {
+     "id": "3021180b-cabb-317f-9bc0-d86f2ff0d4b3",
+     "title": "Kantate, BWV 92 \"Ich hab in Gottes Herz und Sinn\": III. Aria (Tenor) \"Seht, seht! wie reißt, wie bricht, wie fällt\""
+    },
+    {
+     "id": "ebe78440-9042-36e2-9565-a1b5a2d727cf",
+     "title": "Kantate, BWV 92 \"Ich hab in Gottes Herz und Sinn\": IV. Choral (Alt) \"Zudem ist Weisheit und Verstand\""
+    },
+    {
+     "id": "01044934-1fe5-3a95-b043-34cb2761d4df",
+     "title": "Kantate, BWV 92 \"Ich hab in Gottes Herz und Sinn\": V. Recitativo (Tenor) \"Wir wollen nun nicht länger zagen\""
+    },
+    {
+     "id": "81ff5eb7-db1c-34bf-841a-aaa472c0c4a9",
+     "title": "Kantate, BWV 92 \"Ich hab in Gottes Herz und Sinn\": VI. Aria (Bass) \"Das Stürmen von den rauhen Winden\""
+    },
+    {
+     "id": "7fd2dc8c-c663-38b7-b007-96ff8ed3482d",
+     "title": "Kantate, BWV 92 \"Ich hab in Gottes Herz und Sinn\": VII. (Choral e) Recitativo (Bass, Tenor, Alt, Sopran) \"Ei nun, mein Gott, so fall ich dir\""
+    },
+    {
+     "id": "06af3d00-819d-372e-9139-4d7a5f16c84d",
+     "title": "Kantate, BWV 92 \"Ich hab in Gottes Herz und Sinn\": VIII. Aria (Sopran) \"Meinem Hirten bleib ich treu\""
+    },
+    {
+     "id": "018cd0a1-8b35-3e69-8131-2e82bc7a2ce2",
+     "title": "Kantate, BWV 92 \"Ich hab in Gottes Herz und Sinn\": IX. Choral \"Soll ich denn auch des Todes Weg\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "93",
+   "id": "d49b3cd7-5fca-48c8-b36e-dc52323a40b5",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "d49b3cd7-5fca-48c8-b36e-dc52323a40b5",
+     "title": "Kantate, BWV 93 \"Wer nur den lieben Gott läßt walten\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 93 \"Wer nur den lieben Gott läßt walten\"",
+   "key": "C minor",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "4cc40721-cc15-3f5e-808b-0b2a288ed955",
+     "title": "Kantate, BWV 93 \"Wer nur den lieben Gott läßt walten\": I. Coro (Sopran, Alt, Tenor, Bass) \"Wer nur den lieben Gott läßt walten\""
+    },
+    {
+     "id": "0d91ca9e-aa98-3115-b8f7-213541724aac",
+     "title": "Kantate, BWV 93 \"Wer nur den lieben Gott läßt walten\": II. Recitativo (e Choral) (Bass) \"Was helfen uns die schweren Sorgen?\""
+    },
+    {
+     "id": "c33f59f2-4849-34b0-a2fc-3f7b42e7b72b",
+     "title": "Kantate, BWV 93 \"Wer nur den lieben Gott läßt walten\": III. Aria (Tenor) \"Man halte nur ein wenig stille\""
+    },
+    {
+     "id": "b91971ae-21e0-324c-bc40-5fdabdec7f44",
+     "title": "Kantate, BWV 93 \"Wer nur den lieben Gott läßt walten\": IV. Aria (Duetto Sopran, Alt) (con Choral) \"Er kennt die rechten Freudenstunden\""
+    },
+    {
+     "id": "9c5d926e-e0ed-3935-bc74-203d69921027",
+     "title": "Kantate, BWV 93 \"Wer nur den lieben Gott läßt walten\": V. Recitativo (e Choral) (Tenor) \"Denk nicht in deiner Drangsalshitze\""
+    },
+    {
+     "id": "3be3b1e4-743e-342f-8af7-2c25d68db848",
+     "title": "Kantate, BWV 93 \"Wer nur den lieben Gott läßt walten\": VI. Aria (Sopran) \"Ich will auf den Herren schaun\""
+    },
+    {
+     "id": "687a8352-ce3e-3d75-a887-81f8bb569c0a",
+     "title": "Kantate, BWV 93 \"Wer nur den lieben Gott läßt walten\": VII. Choral \"Sing, bet und geh auf Gottes Wegen\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "94",
+   "id": "acaa5fbd-0ea1-44d6-a393-468247123e69",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "acaa5fbd-0ea1-44d6-a393-468247123e69",
+     "title": "Kantate, BWV 94 \"Was frag ich nach der Welt\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 94 \"Was frag ich nach der Welt\"",
+   "key": "D major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "78e1a4e6-5d74-3685-aa0e-ded231c7d136",
+     "title": "Kantate, BWV 94 \"Was frag ich nach der Welt\": I. Coro \"Was frag ich nach der Welt\""
+    },
+    {
+     "id": "fba5b898-ea96-3af4-96a7-a8e57ac7eee9",
+     "title": "Kantate, BWV 94 \"Was frag ich nach der Welt\": II. Aria (Bass) \"Die Welt ist wie ein Rauch und Schatten\""
+    },
+    {
+     "id": "851f9475-c8ed-30a5-bdd9-c2c19ea8a1f7",
+     "title": "Kantate, BWV 94 \"Was frag ich nach der Welt\": III. Recitativo (Tenor) \"Die Welt sucht Ehr und Ruhm\""
+    },
+    {
+     "id": "fcfd25aa-7d38-3f00-893c-f2cbc2928eea",
+     "title": "Kantate, BWV 94 \"Was frag ich nach der Welt\": IV. Aria (Alt) \"Betörte Welt, betörte Welt!\""
+    },
+    {
+     "id": "522ca8a7-35ba-386c-afe7-aae6bb8bc4b8",
+     "title": "Kantate, BWV 94 \"Was frag ich nach der Welt\": V. Recitativo (Bass) \"Die Welt bekümmert sich\""
+    },
+    {
+     "id": "966589ea-6cb1-3257-a32b-363c69e839fd",
+     "title": "Kantate, BWV 94 \"Was frag ich nach der Welt\": VI. Aria (Tenor) \"Die Welt kann ihre Lust und Freud\""
+    },
+    {
+     "id": "11258c15-da96-3639-82a6-9a72ae454c50",
+     "title": "Kantate, BWV 94 \"Was frag ich nach der Welt\": VII. Aria (Sopran) \"Es halt es mit der blinden Welt\""
+    },
+    {
+     "id": "59453582-20d6-331c-a544-5ac271def391",
+     "title": "Kantate, BWV 94 \"Was frag ich nach der Welt\": VIII. Choral \"Was frag ich nach der Welt!\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "95",
+   "id": "c2da2994-84e5-4f51-9f84-7f5e17635312",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "c2da2994-84e5-4f51-9f84-7f5e17635312",
+     "title": "Kantate, BWV 95 \"Christus, der ist mein Leben\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 95 \"Christus, der ist mein Leben\"",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "38c57b96-8e68-397a-9ef1-b6a6a3a16f5e",
+     "title": "Kantate, BWV 95 \"Christus, der ist mein Leben\": I. Coro e Recitativo (Tenor) \"Christus, der ist mein Leben\""
+    },
+    {
+     "id": "ca549385-61d9-3ef1-97e2-a2f9e5c7214d",
+     "title": "Kantate, BWV 95 \"Christus, der ist mein Leben\": II. Recitativo (Sopran) \"Nun, falsche Welt!\""
+    },
+    {
+     "id": "610d8df2-c2f4-3486-8286-9596c156e651",
+     "title": "Kantate, BWV 95 \"Christus, der ist mein Leben\": III. Choral (Sopran) \"Valet will ich dir geben\""
+    },
+    {
+     "id": "19520185-5f8a-3728-9cb9-092cde53b3d5",
+     "title": "Kantate, BWV 95 \"Christus, der ist mein Leben\": IV. Recitativo (Tenor) \"Ach könnte mir doch bald so wohl geschehn\""
+    },
+    {
+     "id": "68acc48b-e9a5-3c30-b570-c0999b327954",
+     "title": "Kantate, BWV 95 \"Christus, der ist mein Leben\": V. Aria (Tenor) \"Ach, schlage doch bald, selge Stunde\""
+    },
+    {
+     "id": "4f32552a-9533-3667-8849-29e83db7c88a",
+     "title": "Kantate, BWV 95 \"Christus, der ist mein Leben\": VI. Recitativo (Bass) \"Denn ich weiß dies\""
+    },
+    {
+     "id": "02bd525f-c1b7-3b21-9600-a7216d970498",
+     "title": "Kantate, BWV 95 \"Christus, der ist mein Leben\": VII. Choral \"Weil du vom Tod erstanden bist\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "96",
+   "id": "7e33e158-8c69-48d4-bb27-7f01e0675521",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "7e33e158-8c69-48d4-bb27-7f01e0675521",
+     "title": "Kantate, BWV 96 \"Herr Christ, der einge Gottessohn\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 96 \"Herr Christ, der einge Gottessohn\"",
+   "key": "F major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "8ada9076-071f-3199-9329-2a2aad23d181",
+     "title": "Kantate, BWV 96 \"Herr Christ, der einge Gottessohn\": I. Coro \"Herr Christ, der einge Gottessohn\""
+    },
+    {
+     "id": "3a7d8781-d83a-363b-a0e6-d2d02d493920",
+     "title": "Kantate, BWV 96 \"Herr Christ, der einge Gottessohn\": II. Recitativo (Alt) \"O Wunderkraft der Liebe\""
+    },
+    {
+     "id": "9ab240c2-1243-34ae-8f31-9aada4ca5e80",
+     "title": "Kantate, BWV 96 \"Herr Christ, der einge Gottessohn\": III. Aria (Tenor) \"Ach, ziehe die Seele mit Seilen der Liebe\""
+    },
+    {
+     "id": "393d622d-5432-3c51-8639-4ba1f825e0e8",
+     "title": "Kantate, BWV 96 \"Herr Christ, der einge Gottessohn\": IV. Recitativo (Sopran) \"Ach, führe mich, o Gott, zum rechten Wege\""
+    },
+    {
+     "id": "a6d152ad-c171-33cd-9f0f-60ea86bf0433",
+     "title": "Kantate, BWV 96 \"Herr Christ, der einge Gottessohn\": V. Aria (Bass) \"Bald zur Rechten, bald zur Linken\""
+    },
+    {
+     "id": "aa3db8d5-e18a-3d45-b6a2-13886aa3f4e7",
+     "title": "Kantate, BWV 96 \"Herr Christ, der einge Gottessohn\": VI. Choral \"Ertöt uns durch dein Güte\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "97",
+   "id": "6bf1c73f-ef03-40d3-9c7b-e724dfc7c5ca",
+   "also": [],
+   "skipped": {
+    "08070396-d89a-4a65-9625-350ea76f3bcc": "arrangement of Kantate, BWV 97 \"In allen meinen Taten\": I. Coro \"In allen meinen Taten\""
+   },
+   "candidates": [
+    {
+     "id": "6bf1c73f-ef03-40d3-9c7b-e724dfc7c5ca",
+     "title": "Kantate, BWV 97 \"In allen meinen Taten\""
+    },
+    {
+     "id": "08070396-d89a-4a65-9625-350ea76f3bcc",
+     "title": "Ouverture no. 3 in B-flat major, BWV 97[a]"
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 97 \"In allen meinen Taten\"",
+   "key": "B-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "6d5a1a75-8398-3eb0-910a-de3b514d9652",
+     "title": "Kantate, BWV 97 \"In allen meinen Taten\": I. Coro \"In allen meinen Taten\""
+    },
+    {
+     "id": "9dba0d2a-6ca6-3d80-956a-d12cc0c61fea",
+     "title": "Kantate, BWV 97 \"In allen meinen Taten\": II. Aria (Bass) \"Nichts ist es spat und frühe\""
+    },
+    {
+     "id": "dddeab5c-a971-3bb7-a9bb-001e36c6051b",
+     "title": "Kantate, BWV 97 \"In allen meinen Taten\": III. Recitativo (Tenor) \"Es kann mir nichts geschehen\""
+    },
+    {
+     "id": "bcd5b704-cd0e-35af-b059-39118054b460",
+     "title": "Kantate, BWV 97 \"In allen meinen Taten\": IV. Aria (Tenor) \"Ich traue seiner Gnaden\""
+    },
+    {
+     "id": "4a585b4e-f3f6-363c-930c-e463fdc491ce",
+     "title": "Kantate, BWV 97 \"In allen meinen Taten\": V. Recitativo (Alt) \"Er wolle meiner Sünden\""
+    },
+    {
+     "id": "8fc1eb3a-595d-3a83-9393-588a7c355d44",
+     "title": "Kantate, BWV 97 \"In allen meinen Taten\": VI. Aria (Alt) \"Leg ich mich späte nieder\""
+    },
+    {
+     "id": "1bb3ab52-e992-3c75-99d8-7692bd8a9760",
+     "title": "Kantate, BWV 97 \"In allen meinen Taten\": VII. Duetto (Sopran, Bass) \"Hat er es denn beschlossen\""
+    },
+    {
+     "id": "a4f834b9-eed0-3c97-acd0-55a8bfaed1ba",
+     "title": "Kantate, BWV 97 \"In allen meinen Taten\": VIII. Aria (Sopran) \"Ihm hab ich mich ergeben\""
+    },
+    {
+     "id": "cac4b100-df5a-3edd-a6ab-6f1237179f77",
+     "title": "Kantate, BWV 97 \"In allen meinen Taten\": IX. Choral \"So sei nun, Seele, deine\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "98",
+   "id": "736655d1-aab5-4683-8f5d-3f93e1e81959",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "736655d1-aab5-4683-8f5d-3f93e1e81959",
+     "title": "Kantate, BWV 98 \"Was Gott tut, das ist wohlgetan\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 98 \"Was Gott tut, das ist wohlgetan\"",
+   "key": "B-flat major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "1f77133a-1a96-3870-b2ec-b46c40cb98b1",
+     "title": "Kantate, BWV 98 \"Was Gott tut, das ist wohlgetan\": I. Coro \"Was Gott tut, das ist wohl getan\""
+    },
+    {
+     "id": "2f0476c3-f2d3-34ca-9f2c-41beac0381ad",
+     "title": "Kantate, BWV 98 \"Was Gott tut, das ist wohlgetan\": II. Recitativo (Tenor) \"Ach Gott! wenn wirst du mich einmal\""
+    },
+    {
+     "id": "7c8f9196-203c-3a06-b8d2-84dfca41bcee",
+     "title": "Kantate, BWV 98 \"Was Gott tut, das ist wohlgetan\": III. Aria (Sopran) \"Hört, ihr Augen, auf zu weinen!\""
+    },
+    {
+     "id": "f523423e-a329-3b4a-bfb5-44596896a3c1",
+     "title": "Kantate, BWV 98 \"Was Gott tut, das ist wohlgetan\": IV. Recitativo (Alt) \"Gott hat ein Herz, das des Erbarmens Überfluß\""
+    },
+    {
+     "id": "90f33c91-50b0-3910-b8fc-b9cf5caa24f9",
+     "title": "Kantate, BWV 98 \"Was Gott tut, das ist wohlgetan\": V. Aria (Bass) \"Meinen Jesum laß ich nicht\""
+    }
+   ],
+   "sections": []
+  },
+  {
+   "bwv": "99",
+   "id": "706f95b4-1d21-49b3-bc9a-8c55335e2582",
+   "also": [],
+   "skipped": {},
+   "candidates": [
+    {
+     "id": "706f95b4-1d21-49b3-bc9a-8c55335e2582",
+     "title": "Kantate, BWV 99 \"Was Gott tut, das ist wohlgetan\""
+    }
+   ],
+   "ambiguous": false,
+   "title": "Kantate, BWV 99 \"Was Gott tut, das ist wohlgetan\"",
+   "key": "G major",
+   "has_parts": true,
+   "movements": [
+    {
+     "id": "b6e1be19-0137-37ad-8a3c-6aceeb02ccb9",
+     "title": "Kantate, BWV 99 \"Was Gott tut, das ist wohlgetan\": I. Coro \"Was Gott tut, das ist wohlgetan\""
+    },
+    {
+     "id": "373017d7-ec99-353a-80b9-c7e4e912d805",
+     "title": "Kantate, BWV 99 \"Was Gott tut, das ist wohlgetan\": II. Recitativo (Bass) \"Sein Wort der Wahrheit stehet fest\""
+    },
+    {
+     "id": "b6511b90-a1f1-324a-a004-6a49352b369a",
+     "title": "Kantate, BWV 99 \"Was Gott tut, das ist wohlgetan\": III. Aria (Tenor) \"Erschüttre dich nur nicht, verzagte Seele\""
+    },
+    {
+     "id": "77a9940b-0a3c-3a0d-8d0a-2046de9569ce",
+     "title": "Kantate, BWV 99 \"Was Gott tut, das ist wohlgetan\": IV. Recitativo (Alt) \"Nun, der von Ewigkeit geschloßne Bund\""
+    },
+    {
+     "id": "90cd96b0-c9d6-3acd-96ee-2ab739102266",
+     "title": "Kantate, BWV 99 \"Was Gott tut, das ist wohlgetan\": V. Aria (Duetto Sopran, Alt) \"Wenn des Kreuzes Bitterkeiten\""
+    },
+    {
+     "id": "e3de9236-5372-49b6-a252-3756fd77b5b7",
+     "title": "Kantate, BWV 99 \"Was Gott tut, das ist wohlgetan\": VI. Chorale \"Was Gott tut, das ist wohlgetan\""
+    }
+   ],
+   "sections": []
+  }
+ ]
+}
