@@ -1,0 +1,32 @@
+id: vocalconsort-berlin-2017
+performers:
+- name: Vocalconsort Berlin
+  role: choir
+- name: Elina Albach
+  role: organ
+- name: Ophira Zakai
+  role: performer
+- name: Daniel Reuss
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2017]
+  place: Lindenkirche
+released: 2018
+original_label: null
+works:
+- {bwv: '20', complete: false, movements: ['Teil II, XI. Chorale "O Ewigkeit, du Donnerwort"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f36947cf-4080-4e5b-b0e4-9ac79e5ca9b5
+  title: BACH 333 4-Part Chorales vol. 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ee3ca535-f190-4b9e-82f3-70e1b73350ca
+  recordings: [8e1cb5c2-fb28-49ae-bd57-80bb089c6842]

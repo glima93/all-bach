@@ -1,0 +1,32 @@
+id: concerto-copenhagen-2008-4
+performers:
+- name: Concerto Copenhagen
+  role: orchestra
+- name: Lars Ulrik Mortensen
+  role: conductor
+- name: Anne Sofie von Otter
+  role: mezzo-soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: null
+released: 2009
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: [I. Sinfonia]}
+- {bwv: '30', complete: false, movements: ['Teil I, V. Aria (Alto) "Kommt, ihr angefochtnen Sünder"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/40e619a9-9834-4530-b582-96dea82c370e
+  title: Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7dfcbf3a-84c1-4fcd-8428-03589244b125
+  recordings: [2352d11d-c2d3-40c2-a44c-9a5cc70b2669, 52375387-7af8-408c-b06a-2a80cbda7ed7]

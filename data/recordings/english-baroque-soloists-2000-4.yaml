@@ -1,0 +1,45 @@
+id: english-baroque-soloists-2000-4
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Monteverdi Choir
+  role: choir
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Dietrich Henschel
+  role: bass
+- name: Wilke te Brummelstroete
+  role: performer
+- name: Paul Agnew
+  role: tenor
+- name: Joanne Lunn
+  role: performer
+- name: Gillian Keith
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: St. Giles’ without Cripplegate
+released: 2005
+original_label: null
+works:
+- {bwv: '7', complete: true}
+- {bwv: '20', complete: true}
+- {bwv: '30', complete: true}
+- {bwv: '39', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3d2d1030-3759-4fca-b213-1a42ebab1440
+  title: 'Cantatas, Volume 1: City of London'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [1539b07a-8c84-42e2-8edd-ee8d89c99c1c, 18e29c75-fc54-492b-b084-06e54dea10c8, 1b3d2ba1-5188-4e8b-a25f-6486d8fbd448,
+    1d02a5bf-b176-45eb-8ad8-a83e8e7d1037, 22e0f072-1382-4cfb-bbb9-70bada1ad448, 5b2c2b7e-7556-4262-a484-9a26c9ee0335,
+    86c7edf5-6dce-4af5-874d-b2cb30c88c37, 974e134f-0df1-429e-a44e-73995630cc9b]

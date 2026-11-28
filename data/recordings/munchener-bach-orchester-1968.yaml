@@ -1,0 +1,36 @@
+id: munchener-bach-orchester-1968
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Münchener Bach‐Chor
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Ernst Haefliger
+  role: tenor
+- name: Edith Mathis
+  role: performer
+- name: Dietrich Fischer‐Dieskau
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1968]
+  place: Herkulessaal
+released: 1993
+original_label: null
+works:
+- {bwv: '1', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/d83502e6-d70f-4c22-9272-5cc8cdf2c444
+  title: 'Kantaten, Vol. 2: Ostern'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [49892217-691e-4322-a6bd-5877a58f8d6c, a0f728b9-4826-45f3-a89f-099cbfd0f74e]

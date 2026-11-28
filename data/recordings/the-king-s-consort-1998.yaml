@@ -1,0 +1,31 @@
+id: the-king-s-consort-1998
+performers:
+- name: The King’s Consort
+  role: orchestra
+- name: Robert King
+  role: conductor
+- name: Choir of the King’s Consort
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: AIR Studios
+released: 1998
+original_label: null
+works:
+- {bwv: '1', complete: false, movements: [I. Coro “Wie schön leuchtet der Morgenstern”, VI. Choral “Wie bin ich
+      doch so herzlich froh”]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/85582349-54c7-4860-b563-fce8e2f2bcef
+  title: Essential Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a5bc84d6-e1d2-4780-9d30-ad04a3e61c87
+  recordings: [395413cb-c642-4fce-be70-3bb9adae1169, 96857b5f-11d4-4160-b6bc-62d8dc30b496]

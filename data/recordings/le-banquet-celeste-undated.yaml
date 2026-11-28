@@ -1,0 +1,36 @@
+id: le-banquet-celeste-undated
+performers:
+- name: Le Banquet Céleste
+  role: ensemble
+- name: Damien Guillon
+  role: conductor
+- name: Benoît Arnould
+  role: bass
+- name: Céline Scheen
+  role: soprano
+- name: Thomas Hobbs
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Église réformée du Bouclier
+released: 2023
+original_label: null
+works:
+- {bwv: '47', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ecbf8864-2acf-42ba-a1df-ee0db08ca1a6
+  title: 'Trinitatis: Bach Cantatas'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c2f7a882-83dc-47bc-a97b-591971885611
+  recordings: [e821b28b-8352-4973-a09b-742ee09a2ed0]

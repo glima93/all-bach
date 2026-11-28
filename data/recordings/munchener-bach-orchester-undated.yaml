@@ -1,0 +1,35 @@
+id: munchener-bach-orchester-undated
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Karl Richter
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '8', complete: false, movements: ['II. Aria (Tenore) "Was willst du dich, mein Geist, entsetzen"', III.
+      Recitativo (Alto) "Zwar fühlt mein schwaches Herz", 'IV. Aria (Basso) "Doch weichet, ihr tollen, vergeblichen
+      Sorgen!"', 'V. Recitativo (Soprano) "Behalte nur, o Welt, das Meine!"', VI. Choral "Herrscher über Tod und
+      Leben"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/763f265c-2dd9-4c78-86c9-e73d3490067f
+  title: 'Kantaten, Volume 4 (Münchener Bach-Chor, Münchener Bach-Orchester feat. conductor: Karl Richter) (disc
+    6)'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [67216d7f-657b-4bb6-8e10-b329312ae112]

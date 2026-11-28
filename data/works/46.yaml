@@ -1,0 +1,19 @@
+bwv: "46"
+title: "Schauet doch und sehet, ob irgend ein Schmerz sei"
+key: "D minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (ATB), four-part choir, corno da tirarsi, 2 recorders, 2 oboes da caccia, strings and continuo"
+composed: "Leipzig; first performed on 1 August 1723 (Tenth Sunday after Trinity)"
+movements:
+  - "I. Coro \"Schauet doch und sehet, ob irgendein Schmerz sei\""
+  - "II. Recitativo (Tenore) \"So klage, du zerstörte Gottesstadt\""
+  - "III. Aria (Basso) \"Dein Wetter zog sich auf von weiten\""
+  - "IV. Recitativo (Alto) \"Doch bildet euch, o Sünder, ja nicht ein\""
+  - "V. Aria (Alto) \"Doch Jesus will auch bei der Strafe\""
+  - "VI. Choral \"O großer Gott von Treu\""
+notes: "From Bach's first cycle, on a text by an unknown poet, closing with a stanza of Johann Matthäus Meyfart's \"O großer Gott von Macht\". The first section of the opening chorus was reworked as the \"Qui tollis peccata mundi\" of the Mass in B minor."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Schauet_doch_und_sehet,_ob_irgend_ein_Schmerz_sei,_BWV_46"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/2b6314d2-8ac6-4d9e-b4d7-8e9668937b38

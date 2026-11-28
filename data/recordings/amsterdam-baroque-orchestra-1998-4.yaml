@@ -1,0 +1,31 @@
+id: amsterdam-baroque-orchestra-1998-4
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Ton Koopman
+  role: conductor
+- name: Amsterdam Baroque Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Waalse Kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '37', complete: true}
+- {bwv: '48', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3eb485c3-2077-4f06-9f7b-8f272e3a2f5d
+  title: Complete Cantatas, Volume 9
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [52912cff-db77-4627-a56b-2ee0590847d8, a3144d5e-00cf-44c3-9a9c-08f4a130e4dc]

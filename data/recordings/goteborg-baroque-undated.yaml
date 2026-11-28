@@ -1,0 +1,34 @@
+id: goteborg-baroque-undated
+performers:
+- name: Göteborg Baroque
+  role: orchestra
+- name: Leif Aruhn-Solén
+  role: tenor
+- name: Fredrik From
+  role: violin
+- name: Magnus Kjellson
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '29', complete: false, movements: ['VII. Aria (Alto) "Halleluja, Stärk und Macht"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/29315c34-36ef-4c3a-8535-6dfafd70fb81
+  title: Tenor Arias
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 45105c8e-1ee1-4385-8a3b-16264bce89ea
+  recordings: [547eb9c3-6fe5-4987-8ed8-b151a9e41526]

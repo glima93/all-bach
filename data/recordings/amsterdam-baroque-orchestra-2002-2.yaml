@@ -1,0 +1,38 @@
+id: amsterdam-baroque-orchestra-2002-2
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Ton Koopman
+  role: conductor
+- name: Klaus Mertens
+  role: bass
+- name: James Gilchrist
+  role: tenor
+- name: Bogna Bartosz
+  role: performer
+- name: Sandrine Piau
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2002]
+  place: Waalse Kerk
+released: 2005
+original_label: null
+works:
+- {bwv: '9', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dc172f9d-ebb0-4ab8-be98-8ca0ebfb8e5a
+  title: Cantatas, Volume 20
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [b65c2bdc-2062-42e2-a303-ec02822ce4e3, ef9b18cb-5bab-485e-9d58-8901c41e64c5, fdfc9283-f272-4e24-9bc5-44dbf83e10a6]

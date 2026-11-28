@@ -1,0 +1,20 @@
+bwv: "17"
+title: "Wer Dank opfert, der preiset mich"
+key: "A major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 22 September 1726 (Fourteenth Sunday after Trinity)"
+movements:
+  - "Teil I, I. Coro \"Wer Dank opfert, der preiset mich\""
+  - "Teil I, II. Recitativo (Alto) \"Er muß die ganze Welt ein stummer Zeuge werden\""
+  - "Teil I, III. Aria (Soprano) \"Herr, deine Güte reicht, so weit der Himmel ist\""
+  - "Teil II, IV. Recitativo (Tenore) \"Einer aber unter ihnen\""
+  - "Teil II, V. Aria (Tenore) \"Welch Übermaß der Güte\""
+  - "Teil II, VI. Recitativo (Basso) \"Sieh meinen Willen an\""
+  - "Teil II, VII. Choral \"Wie sich ein Vat'r erbarmet\""
+notes: "A cantata in two parts, to be performed before and after the sermon, on a text probably by Duke Ernst Ludwig of Saxe-Meiningen, ending with a stanza of Johann Gramann's \"Nun lob, mein Seel, den Herren\". Bach later reused the opening chorus in his Missa in G major, BWV 236."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Wer_Dank_opfert,_der_preiset_mich,_BWV_17"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/4934af1c-7e31-4bdd-957c-ef0e50b513eb

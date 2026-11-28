@@ -1,0 +1,32 @@
+id: bach-collegium-stuttgart-1977-3
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Arleen Augér
+  role: soprano
+- name: Helen Watts
+  role: alto
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1977]
+  place: Gedächtniskirche Stuttgart
+released: 2000
+original_label: null
+works:
+- {bwv: '23', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/cacff666-648d-4b1e-9ab7-a24ebb9d17e8
+  title: Cantatas, BWV 23–26
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [37865a51-334c-48b4-afed-a470a4e08bff]

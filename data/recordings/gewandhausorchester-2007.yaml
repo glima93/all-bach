@@ -1,0 +1,38 @@
+id: gewandhausorchester-2007
+performers:
+- name: Gewandhausorchester
+  role: orchestra
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Georg Christoph Biller
+  role: conductor
+- name: Conrad Zuber
+  role: performer
+- name: Martin Petzold
+  role: performer
+- name: Gotthold Schwarz
+  role: bass
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [2007]
+  place: Thomaskirche
+released: 2011
+original_label: null
+works:
+- {bwv: '19', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1d2a4958-1191-458b-aa42-767ea388cfb8
+  title: Kantaten BWV 19, 50, 79, 80
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [27fe66cc-6f95-4906-ad1c-952f76baf277, 899bd9b0-06af-403c-88db-f4a80400ad40]

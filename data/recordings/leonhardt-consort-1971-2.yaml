@@ -1,0 +1,42 @@
+id: leonhardt-consort-1971-2
+performers:
+- name: Leonhardt‐Consort
+  role: orchestra
+- name: King's College Choir Cambridge
+  role: choir
+- name: Gustav Leonhardt
+  role: conductor
+- name: Max van Egmond
+  role: bass
+- name: Kurt Equiluz
+  role: performer
+- name: Paul Esswood
+  role: performer
+- name: David Willcocks
+  role: performer
+- name: Choir of King’s College, Cambridge
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1971]
+  place: Casino Zögernitz
+released: 1985
+original_label: null
+works:
+- {bwv: '9', complete: true}
+- {bwv: '10', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3d79076d-5f5a-4f5d-bf65-6c8a0b27abaa
+  title: Das Kantatenwerk, Volume 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdcb74c4-2c5f-4d57-a052-b9ae935a3302
+  recordings: [11e35699-f82f-41c5-9179-0834cfa0d88f, 12b011ed-8bd9-435a-bc7c-f1ef4c685737, 189c735c-1e3b-441e-a502-a647bcbd0a07,
+    6df81a34-bf5c-4774-a8ad-687eab7d4064]

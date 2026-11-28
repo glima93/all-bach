@@ -1,0 +1,33 @@
+id: bach-collegium-stuttgart-1980-4
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980]
+  place: Gedächtniskirche Stuttgart
+released: 1998
+original_label: null
+works:
+- {bwv: '3', complete: false, movements: ['I. Coro "Ach Gott, wie manches Herzeleid"', 'II. Recitativo e choral
+      (Tenore, Alto, Soprano, Basso) "Wie schwerlich lässt sich Fleisch und Blut"', III. Aria (Basso) "Empfind ich
+      Höllenangst und Pein", IV. Recitativo (Tenore) "Es mag mir Leib und Geist verschmachten", 'V. Aria (Duetto:
+      Soprano, Alto) "Wenn Sorgen auf mich dringen"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/94d396db-ef16-426d-9fe9-348a1ee8de5a
+  title: Cantatas, BWV 1–3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [3dd6f715-9c97-4cc8-bb13-3ef6e072659e]

@@ -1,0 +1,45 @@
+id: pforzheim-chamber-orchestra-1972
+performers:
+- name: Pforzheim Chamber Orchestra
+  role: orchestra
+- name: Württembergisches Kammerorchester Heilbronn
+  role: orchestra
+- name: Heinrich-Schütz-Chor Heilbronn
+  role: choir
+- name: Fritz Werner
+  role: conductor
+- name: Barbara Scherler
+  role: alto
+- name: Ingeborg Reichelt
+  role: soprano
+- name: Bruce Abel
+  role: bass
+- name: Friedreich Melzer
+  role: performer
+- name: Südwestdeutsches Kammerorchester Pforzheim
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1972]
+  place: null
+released: 2004
+original_label: null
+works:
+- {bwv: '23', complete: true}
+- {bwv: '39', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8699ad72-4aeb-409a-b6a9-fc9f50732141
+  title: Cantatas, Vol. 1
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7728bbd6-1fd8-4027-9203-1e480fb56dbe
+  recordings: [0abd1348-3d39-4d58-a710-ff7d15003962, 12134acc-1d3a-432c-a806-d1c643edf67c, 2e0e2401-c053-4ee8-83f1-8305d5df0957,
+    98253c97-c9ef-4389-8829-ec1aec40b000]

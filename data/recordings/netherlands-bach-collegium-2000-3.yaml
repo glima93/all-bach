@@ -1,0 +1,32 @@
+id: netherlands-bach-collegium-2000-3
+performers:
+- name: Netherlands Bach Collegium
+  role: orchestra
+- name: Pieter Jan Leusink
+  role: conductor
+- name: Holland Boys Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Sint-Nicolaaskerk
+released: 2000
+original_label: null
+works:
+- {bwv: '9', complete: true}
+- {bwv: '36', complete: true}
+- {bwv: '47', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f96f95d2-645d-4c24-aefa-c70739ce713c
+  title: 'Bach Edition, Volume 14: Cantatas/Kantaten, Volume VII'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a422d36-6a96-47fa-90c8-7a0a3413f3c7
+  recordings: [1a6849c8-2b82-4b23-b5c4-d1ac9d59e7ed, 887b55d9-1011-4c1d-a2aa-b5a3bf7eba14, ab9d767a-a697-4cbb-895b-c96fcd71601b]

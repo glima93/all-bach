@@ -1,0 +1,40 @@
+id: concentus-musicus-wien-2007-2
+performers:
+- name: Concentus Musicus Wien
+  role: orchestra
+- name: Arnold Schoenberg Chor
+  role: choir
+- name: Nikolaus Harnoncourt
+  role: conductor
+- name: Bernarda Fink
+  role: performer
+- name: Werner Güra
+  role: performer
+- name: Christian Gerhaher
+  role: performer
+- name: Christine Schäfer
+  role: performer
+- name: Erwin Ortner
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: 'Wiener Musikverein: Großer Musikvereinssaal'
+released: 2009
+original_label: null
+works:
+- {bwv: '29', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c41652c7-e188-44bc-a58c-44e8c62a9c54
+  title: Cantatas BWV 29, 61 & 140
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9b891046-35af-4eb0-a058-eba4c9b8d01f
+  recordings: [16916df9-c173-4ab4-bed0-098d51172873, 16a957a6-2240-420b-9626-744c20b3fff4]

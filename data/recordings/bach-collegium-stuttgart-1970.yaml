@@ -1,0 +1,32 @@
+id: bach-collegium-stuttgart-1970
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Frankfurter Kantorei
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: Wolfgang Schöne
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1970]
+  place: Gedächtniskirche Stuttgart
+released: 1991
+original_label: null
+works:
+- {bwv: '20', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac8e5273-71f1-4bf2-8b46-620f134cf6ee
+  title: 'Die Bach-Kantate, Volume 39: BWV 176, 20, 2'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [3914bde4-a0bd-4c07-86a0-c71e462fce54, 391d65c0-a66e-421c-a26d-6752671d5069]

@@ -1,0 +1,32 @@
+id: bach-collegium-japan-2006-2
+performers:
+- name: Bach Collegium Japan
+  role: ensemble
+- name: Masaaki suzuki
+  role: performer
+- name: Robin Blaze
+  role: performer
+- name: 鈴木雅明
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2006]
+  place: 神戸松蔭女子学院大学チャペル
+released: 2007
+original_label: null
+works:
+- {bwv: '35', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/009d4b35-0e26-4818-b5c9-e175315b7007
+  title: Cantatas, Volume 37
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [d5a05317-9e7d-4173-bf8d-c82c1ab2ca59]

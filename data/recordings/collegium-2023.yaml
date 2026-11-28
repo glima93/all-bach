@@ -1,0 +1,30 @@
+id: collegium-2023
+performers:
+- name: Collegium 1704
+  role: orchestra
+- name: Václav Luks
+  role: conductor
+- name: Benno Schachtner
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2023]
+  place: Thomaskirche
+released: 2026
+original_label: null
+works:
+- {bwv: '35', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/39a20ec6-3efb-46dc-95ee-ddf3b67823dc
+  title: Cantatas for Alto
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c42d3fc-0a30-4fd0-9617-0ea14b165c4c
+  recordings: [c6a56d47-a2fa-4763-b988-73326bc299f3]

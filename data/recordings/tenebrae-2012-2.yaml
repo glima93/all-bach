@@ -1,0 +1,29 @@
+id: tenebrae-2012-2
+performers:
+- name: Tenebrae
+  role: choir
+- name: Nigel Short
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+recorded:
+  years: [2012]
+  place: St. Giles’ without Cripplegate
+released: 2012
+original_label: null
+works:
+- {bwv: '4', complete: false, movements: ['III. Duett (Sopran, Alt) Versus II „Den Tod niemand zwingen kunnt“',
+    VIII. Choral Versus VII „Wir essen und leben wohl“]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c0c8b86c-d5ce-47dd-93d9-3cea31ff12cb
+  title: 'Fauré: Requiem / Bach: Partita, Chorales & Ciaconna'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 74a3c9b7-02de-4cbb-8e20-86edea7e0b4b
+  recordings: [abbe2c71-1262-4587-9c08-3d3a31cab268]

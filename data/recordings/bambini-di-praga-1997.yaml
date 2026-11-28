@@ -1,0 +1,33 @@
+id: bambini-di-praga-1997
+performers:
+- name: Bambini di Praga
+  role: choir
+- name: Jan Kalfus
+  role: organ
+- name: Kühnův smíšený sbor
+  role: choir
+- name: Bohumil Kulínský
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1997]
+  place: St. Claire Church
+released: 1997
+original_label: null
+works:
+- {bwv: '36', complete: false, movements: [IV. Choral “Zwingt die Saiten in Cythara”]}
+- {bwv: '45', complete: false, movements: ['VII. Choral "Gib, daß ich tu mit Fleiß"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3646e2b1-553b-4378-bd80-dfc573fe5473
+  title: Jesus bleibet meine Freude
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 403d0055-8939-40f3-8fd5-8f7c47440fa6
+  recordings: [e3c7b4cc-dfb2-4135-844d-5c5aa936c2ad, ece35fec-b2a2-4722-9556-547955c83294]

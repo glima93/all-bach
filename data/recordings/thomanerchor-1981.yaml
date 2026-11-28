@@ -1,0 +1,33 @@
+id: thomanerchor-1981
+performers:
+- name: Thomanerchor
+  role: choir
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Hans-Joachim Rotzsch
+  role: conductor
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1981, 1983]
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '1', complete: false, movements: [I. Coro “Wie schön leuchtet der Morgenstern”]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2b90e646-68a0-40d0-a02b-45bb13b97832
+  title: Best of Bach
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 995a8150-123b-4f04-8c2c-904a262dd607
+  recordings: [adb4e9ef-0340-474e-8c78-8b7914ca718e]

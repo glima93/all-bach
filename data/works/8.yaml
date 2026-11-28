@@ -1,0 +1,19 @@
+bwv: "8"
+title: "Liebster Gott, wenn werd ich sterben?"
+key: "E major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, horn, flauto traverso, 2 oboes d'amore, strings and continuo"
+composed: "Leipzig; first performed on 24 September 1724 (Sixteenth Sunday after Trinity)"
+movements:
+  - "I. Coro \"Liebster Gott, wenn werd ich sterben?\""
+  - "II. Aria (Tenore) \"Was willst du dich, mein Geist, entsetzen\""
+  - "III. Recitativo (Alto) \"Zwar fühlt mein schwaches Herz\""
+  - "IV. Aria (Basso) \"Doch weichet, ihr tollen, vergeblichen Sorgen!\""
+  - "V. Recitativo (Soprano) \"Behalte nur, o Welt, das Meine!\""
+  - "VI. Choral \"Herrscher über Tod und Leben\""
+notes: "Part of Bach's chorale cantata cycle 1724–25, based on Caspar Neumann's hymn \"Liebster Gott, wenn werd ich sterben\", with Daniel Vetter's setting of the melody in the outer movements. Bach later made a version in D major (late 1740s)."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Liebster_Gott,_wenn_werd_ich_sterben,_BWV_8"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/3a3c9b9a-069f-47ef-86db-df3ed1b11002

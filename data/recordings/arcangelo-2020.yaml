@@ -1,0 +1,30 @@
+id: arcangelo-2020
+performers:
+- name: Arcangelo
+  role: orchestra
+- name: Jonathan Cohen
+  role: conductor
+- name: Iestyn Davies
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2020]
+  place: St Jude‐on‐the‐Hill
+released: 2022
+original_label: null
+works:
+- {bwv: '35', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7df0a067-8ae7-4853-a51f-94e5ec6f4053
+  title: 'Bach: Gott soll allein mein Herze haben / Geist und Seele wird verwirret / Buxtehude: Klag-Lied'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 93f71f5a-9fad-48de-bd4a-25ffd625b3d6
+  recordings: [fa8b1b4a-e8d8-479b-8d3a-3f97a2566baf]

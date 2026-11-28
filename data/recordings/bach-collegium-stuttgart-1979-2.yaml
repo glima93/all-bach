@@ -1,0 +1,33 @@
+id: bach-collegium-stuttgart-1979-2
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+- name: Helmuth Rilling
+  role: conductor
+- name: Adalbert Kraus
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1979]
+  place: Gedächtniskirche Stuttgart
+released: 1998
+original_label: null
+works:
+- {bwv: '7', complete: true}
+- {bwv: '8', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a56e8128-0102-4535-9f8b-3ea18d1b1ce3
+  title: Cantatas BWV 7-9
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [321c5cdc-55ed-4605-abb0-64b5a7d68d46, 34a89f0d-0926-4af3-8959-cdfb29df72ae, 9abddfe0-624b-4497-9109-32fb36d536c9]

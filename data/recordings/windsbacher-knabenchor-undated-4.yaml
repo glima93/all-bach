@@ -1,0 +1,30 @@
+id: windsbacher-knabenchor-undated-4
+performers:
+- name: Windsbacher Knabenchor
+  role: choir
+- name: Hans Thamm
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1996
+original_label: null
+works:
+- {bwv: '17', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a04b6683-5541-441e-b511-5c315aeb1db2
+  title: Unser Mund sei voll Lachens BWV 110 / Wer Dank opfert, der preiset mich BWV 17
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: ef4899a7-9e12-401e-b549-553e69a03961
+  recordings: [421f0509-9e89-4e07-b4b8-eefc9c9d4904, d10e742d-d36d-4775-925c-515f538c1443]

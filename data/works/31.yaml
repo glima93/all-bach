@@ -1,0 +1,22 @@
+bwv: "31"
+title: "Der Himmel lacht! Die Erde jubilieret"
+key: "C major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (STB), five-part choir, 3 trumpets, timpani, 3 oboes, taille, bassoon, strings and continuo"
+composed: "Weimar; first performed on 21 April 1715 (Easter Sunday)"
+movements:
+  - "I. Sonata"
+  - "II. Coro \"Der Himmel lacht! die Erde jubilieret\""
+  - "III. Recitativo (Basso) \"Erwünschter Tag! sei, Seele, wieder froh!\""
+  - "IV. Aria (Basso) \"Fürst des Lebens, starker Streiter\""
+  - "V. Recitativo (Tenore) \"So stehe dann, du gottergebne Seele\""
+  - "VI. Aria (Tenore) \"Adam muss in uns verwesen\""
+  - "VII. Recitativo (Soprano) \"Weil dann das Haupt sein Glied\""
+  - "VIII. Aria (Soprano) e Choral \"Letzte Stunde, brich herein\""
+  - "IX. Choral \"So fahr ich hin zu Jesu Christ\""
+notes: "An Easter cantata on a text by Salomon Franck, revived in Leipzig in 1724 and 1731 (the five-part choir probably dates from the revival). It ends with a stanza of Nikolaus Herman's \"Wenn mein Stündlein vorhanden ist\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Der_Himmel_lacht!_Die_Erde_jubilieret,_BWV_31"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/ed684f7a-648e-4277-8b8d-f4f5778c52b0

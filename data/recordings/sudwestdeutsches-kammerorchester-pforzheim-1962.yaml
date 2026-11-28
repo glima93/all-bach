@@ -1,0 +1,36 @@
+id: sudwestdeutsches-kammerorchester-pforzheim-1962
+performers:
+- name: Südwestdeutsches Kammerorchester Pforzheim
+  role: orchestra
+- name: Heinrich-Schütz-Chor Heilbronn
+  role: choir
+- name: Fritz Werner
+  role: conductor
+- name: Édith Selig
+  role: performer
+- name: Georg Jelden
+  role: performer
+- name: Erich Wenk
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1962]
+  place: Bartholomäuskirche
+released: 1989
+original_label: null
+works:
+- {bwv: '21', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b155a569-2825-4b17-a407-5cc6ce93b077
+  title: 'Kantaten: BWV 4 / 21 / 90 / 140 / 147'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7728bbd6-1fd8-4027-9203-1e480fb56dbe
+  recordings: [642090d5-d6aa-4247-986e-4c63ac0c4da6, db7ffc4d-b895-4311-bb38-d470bc91e2e9]

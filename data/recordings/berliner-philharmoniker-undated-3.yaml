@@ -1,0 +1,33 @@
+id: berliner-philharmoniker-undated-3
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Dietrich Fischer‐Dieskau
+  role: baritone
+- name: Karl Forster
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: Grunewaldkirche
+released: 1994
+original_label: null
+works:
+- {bwv: '13', complete: false, movements: ['I. Aria (Tenore) "Meine Seufzer, meine Tränen"', 'VI. Choral "So sei
+      nun, Seele"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/9236a9da-c17b-404b-a9d9-17dc57c50183
+  title: 'Cantates: Arias & Chorals'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [6a0f62bc-7ae8-412b-916a-a584450ad30e]

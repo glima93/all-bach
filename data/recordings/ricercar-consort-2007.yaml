@@ -1,0 +1,38 @@
+id: ricercar-consort-2007
+performers:
+- name: Ricercar Consort
+  role: orchestra
+- name: Philippe Pierlot
+  role: conductor
+- name: Pierre Cao
+  role: performer
+- name: Greta de Reyghere
+  role: performer
+- name: Ian Honeyman
+  role: performer
+- name: Steve Dugardin
+  role: performer
+- name: Max van Egmond
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: Eglise de Saint Loup sur Thouet
+released: 2008
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef799519-4cf8-4b89-9126-8d0684c1f245
+  title: Aus der Tieffen
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Live recording. Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 6264b98d-4ddc-4b96-a79d-18f53394a99e
+  recordings: [183eb4cd-cdd4-47c5-a516-e64872b88f49]

@@ -1,0 +1,32 @@
+id: capella-sancti-michaelis-undated
+performers:
+- name: Capella Sancti Michaelis
+  role: choir
+- name: Ricercar Consort
+  role: orchestra
+- name: Erik Van Nevel
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: null
+original_label: null
+works:
+- {bwv: '38', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b3cd6072-186f-46b7-8042-8009757ef4bc
+  title: Aus Der Tiefe
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 65fc51fd-2b93-4771-b7c4-8c774d327532
+  recordings: [0f76788e-18aa-4b08-bfa0-ab7721da0cbc]

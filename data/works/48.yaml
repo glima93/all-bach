@@ -1,0 +1,20 @@
+bwv: "48"
+title: "Ich elender Mensch, wer wird mich erlösen"
+key: "G minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (AT), four-part choir, trumpet, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 3 October 1723 (Nineteenth Sunday after Trinity)"
+movements:
+  - "I. Coro \"Ich elender Mensch, wer wird mich erlösen\""
+  - "II. Recitativo (Alto) \"O Schmerz, o Elend, so mich trifft\""
+  - "III. Choral \"Solls ja so sein, daß Straf und Pein\""
+  - "IV. Aria (Alto) \"Ach, lege das Sodom der sündlichen Glieder\""
+  - "V. Recitativo (Tenore) \"Hier aber tut des Heilands Hand\""
+  - "VI. Aria (Tenore) \"Vergibt mir Jesus meine Sünden\""
+  - "VII. Choral \"Herr Jesu Christ, einiger Trost\""
+notes: "From Bach's first cycle, on a text by an unknown poet. In the opening chorus the trumpet and oboes play the chorale melody \"Herr Jesu Christ, ich schrei zu dir\" in canon, the same tune as the closing chorale."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Ich_elender_Mensch,_wer_wird_mich_erl%C3%B6sen,_BWV_48"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/13e1505b-9e76-4efe-8abe-afb6f512069b

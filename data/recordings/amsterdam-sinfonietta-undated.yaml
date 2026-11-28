@@ -1,0 +1,33 @@
+id: amsterdam-sinfonietta-undated
+performers:
+- name: Amsterdam Sinfonietta
+  role: orchestra
+- name: Simone Lamsma
+  role: violin
+- name: Candida Thompson
+  role: violin
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: []
+  place: null
+released: 2024
+original_label: null
+works:
+- {bwv: '21', complete: false, movements: ['Teil I, I. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8cf2d5ef-5495-47e1-9162-5eb8b960bd10
+  title: Pärt über Bach
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 73be5c4b-0f04-40d2-bc70-b9cdaf8b303e
+  recordings: [39c6ba0f-780a-42aa-a62a-6481055c569c]

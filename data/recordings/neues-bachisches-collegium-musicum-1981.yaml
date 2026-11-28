@@ -1,0 +1,36 @@
+id: neues-bachisches-collegium-musicum-1981
+performers:
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Hans‐Joachim Rotzsch
+  role: conductor
+- name: Peter Schreier
+  role: tenor
+- name: Arleen Auger
+  role: performer
+- name: Siegfried Lorenz
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1981, 1983]
+  place: Paul-Gerhardt-Kirche
+released: 2021
+original_label: null
+works:
+- {bwv: '1', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/40dca72b-2ff6-4f45-8c2f-1ca6130aaee7
+  title: Wachet auf, ruft uns die Stimme, BWV 140 / Wie schön leuchtet der Morgenstern, BWV 1
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 9140cc7a-66d1-4375-9846-d0e5d1f80ca9
+  recordings: [c6cd48be-cc76-4121-a095-6b064dd701c2, fbd043cb-a77e-445a-b0d1-7abd9cf6ba37]

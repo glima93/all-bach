@@ -1,0 +1,30 @@
+id: bach-collegium-stuttgart-1980-2
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980]
+  place: Gedächtniskirche Stuttgart
+released: 1988
+original_label: null
+works:
+- {bwv: '1', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a9e8cd89-2117-4a37-bb19-6af37dd8cd45
+  title: 'Die Bach-Kantate, Volume 16: BWV 61, 191, 1'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [6b1002dc-8fb1-424f-af90-3e7529702ddd]

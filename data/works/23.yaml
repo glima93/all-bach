@@ -1,0 +1,17 @@
+bwv: "23"
+title: "Du wahrer Gott und Davids Sohn"
+key: "C minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SAT), four-part choir, 2 oboes (oboes d'amore), strings and continuo"
+composed: "Köthen, c. 1722–23; first performed in Leipzig on 7 February 1723 (Estomihi) as Bach's audition piece"
+movements:
+  - "I. Aria (Duetto: Soprano, Alto) \"Du wahrer Gott und Davids Sohn\""
+  - "II. Recitativo (Tenore) \"Ach! gehe nicht vorüber\""
+  - "III. Coro \"Aller Augen warten, Herr\""
+  - "IV. Choral \"Christe, du Lamm Gottes\""
+notes: "Composed in C minor in Köthen and performed with BWV 22 for Bach's audition as Thomaskantor; the closing setting of the German Agnus Dei \"Christe, du Lamm Gottes\" was probably added from the lost Weimar Passion. Bach transposed it to B minor for Leipzig, adding a cornett and three trombones in 1724, and revived it in the original C minor without brass in 1728."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Du_wahrer_Gott_und_Davids_Sohn,_BWV_23"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/155d056b-267c-4a0a-a405-d93956cfa54d

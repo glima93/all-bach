@@ -1,0 +1,19 @@
+bwv: "24"
+title: "Ein ungefärbt Gemüte"
+key: "F major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (ATB), four-part choir, clarino, 2 oboes, 2 oboes d'amore, strings and continuo"
+composed: "Leipzig; first performed on 20 June 1723 (Fourth Sunday after Trinity)"
+movements:
+  - "I. Aria (Alto) \"Ein ungefärbt Gemüte\""
+  - "II. Recitativo (Tenore) \"Die Redlichkeit ist eine von den Gottesgaben\""
+  - "III. Coro (Soprano, Alto, Tenore, Basso) \"Alles nun, das ihr wollet\""
+  - "IV. Recitativo (Basso) \"Die Heuchelei ist eine Brut\""
+  - "V. Aria (Tenore) \"Treu und Wahrheit sei der Grund\""
+  - "VI. Choral \"O Gott, du frommer Gott\""
+notes: "Part of Bach's first Leipzig cantata cycle, on a text by Erdmann Neumeister (1714); the central chorus sets Matthew 7:12. It closes with the first stanza of Johann Heermann's \"O Gott, du frommer Gott\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Ein_ungef%C3%A4rbt_Gem%C3%BCte,_BWV_24"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/22a95c51-49a7-4996-9619-346a074084cd

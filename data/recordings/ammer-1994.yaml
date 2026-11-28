@@ -1,0 +1,31 @@
+id: ammer-1994
+performers:
+- name: Ammer
+  role: performer
+- name: Einheit
+  role: performer
+- name: Haage
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: true
+arranger: null
+recorded:
+  years: [1994]
+  place: Marstall
+released: 1995
+original_label: null
+works:
+- {bwv: '19', complete: false, movements: [I. Coro "Es erhub sich ein Streit"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4201104f-9b9f-499a-8bec-b8ec2293b7bb
+  title: Apocalypse live
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5f9334b1-de01-4f48-96f2-3510b2b741e2
+  recordings: [37115b44-e49d-412e-a0ae-80dc558d6c27]

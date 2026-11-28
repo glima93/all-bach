@@ -1,0 +1,39 @@
+id: ricercar-consort-2018-2
+performers:
+- name: Ricercar Consort
+  role: orchestra
+- name: Collegium Vocale Gent
+  role: choir
+- name: Philippe Pierlot
+  role: conductor
+- name: Maria Keohane
+  role: performer
+- name: Julian Prégardien
+  role: performer
+- name: Matthias Vieweg
+  role: performer
+- name: Carlos Mena
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2018]
+  place: null
+released: 2020
+original_label: null
+works:
+- {bwv: '21', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/99eb2b75-8780-46fa-abbe-6fff29cf70e5
+  title: Soli Deo Gloria
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 6264b98d-4ddc-4b96-a79d-18f53394a99e
+  recordings: [7ddd3e95-a7d0-4e87-bcc0-d46d26231be4, f44a2341-4bb8-4004-9e29-5850997ed2bd]

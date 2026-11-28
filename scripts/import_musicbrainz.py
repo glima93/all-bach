@@ -1627,7 +1627,9 @@ PERIOD_ENSEMBLE = re.compile(
     r"akad.mia\b|chapelle rh.nane|grande .curie|agr.mens|smithsonian chamber|collegium cartusianum|das neue orchester|"
     r"van diemen|pulcinella|op.ra royal|ensemble vanitas|"
     # Run 26: period groups the Secular Cantatas turned up.
-    r"collegium 1704|parley of instruments|m.sicos do tejo|cappella coloniensis", re.I)
+    r"collegium 1704|parley of instruments|m.sicos do tejo|cappella coloniensis|"
+    # Run 27: period groups the first part of the Church Cantatas turned up.
+    r"banquet c.leste|alia mens|\bamarillis\b|aradia ensemble|ensemble correspondances|publick musick|i febiarmonici|orfeo 55", re.I)
 # Modern-instrument groups whose names would otherwise match PERIOD_ENSEMBLE or whose credits mention period instruments.
 MODERN_ENSEMBLE = re.compile(r"m.nchener bach|amsterdam chamber orchestra|kammerakademie potsdam|zurich baroque ensemble|^baroque chamber orchestra|"
                              r"hamburg symphony baroque|festival baroque orchestra|berliner barock solisten|french baroque orchestra|"
@@ -1790,6 +1792,62 @@ OVERRIDE_BY_SNAPSHOT["secular-cantatas"].update({
         "The Story of Bach in Words and Music: conflicting credits; flagged " + _C26),
     "03222585-6362-4949-b6a6-14c041edccea": ({"notes": "The artist credit of the BWV 209 track names Helmuth Rilling, its relationships Rudolf Ewerhart (with Helmut Steinkraus, flute); not checked."},
         "Ewerhart/Rilling credit conflict on BWV 209; flagged " + _C26),
+})
+
+# Run 27: the first part of the Church Cantatas (BWV 1–10, 12–49; BWV 50 was not found by the collector).
+OVERRIDE_BY_SNAPSHOT["church-cantatas-1"] = {
+    "f9458f38-0985-43b5-a452-dc497087d1ba": ({"arrangement": True},
+        "Rainer Sauer's Sinfonia of BWV 29 on Re-Switched: Bach on the Phone, an electronic tribute album to Switched-On Bach (run 27)"),
+    "3ed010bc-b7d0-4e74-b6eb-428c40d85638": ({"arrangement": True},
+        "The Plymouth Trio: a trio cannot play the soprano aria of BWV 32 in Bach's scoring (as for BWV 202 in run 26)"),
+}
+EXCLUDE_BY_SNAPSHOT["church-cantatas-1"] = {
+    "5705627b-791d-4d5d-b875-29551b45496c": "Koopman's Organ Works Vol. 2: the choir sings the plain chorale between organ settings, not a movement of BWV 5 or 36 (run 27, decided with Gonçalo)",
+    "de74995b-fa7b-42eb-bfe3-6153b5d98719": "Koopman's Organ Works Vol. 2: the choir sings the plain chorale between organ settings, not a movement of BWV 5 or 36 (run 27, decided with Gonçalo)",
+    "c0066954-503b-4dc3-8a97-ca2898f5549a": "Albrecht's Orgelmesse: the choir sings the plain chorale Aus tiefer Not, not the opening chorus of BWV 38 (run 27, decided with Gonçalo)",
+    "fc164a4e-69f5-43b7-ae05-f2340af7981a": "Anna Magdalena Notebook album: the song O Ewigkeit, du Donnerwort BWV 513, not the chorale of BWV 20 (checker, run 27)",
+    "98c341ff-b0c2-475a-bbb4-a7909c3be389": "Orgelbüchlein album: an organ chorale (BWV 612/644), not a movement of BWV 26 or 40 (checker, run 27)",
+    "f862daa8-b2ac-44fd-8a49-a3e1de4240e4": "Orgelbüchlein album: an organ chorale (BWV 612/644), not a movement of BWV 26 or 40 (checker, run 27)",
+    "3ccf5cb7-bb81-41f1-acb7-80d25abf3f52": "Stich-Randall, André and Ristenpart's Cantata BWV 51, mislinked to BWV 41 (checker, run 27)",
+}
+JOIN_BY_SNAPSHOT["church-cantatas-1"] = {
+    "9e73393a-2686-4cd3-95b6-272ea20b911d": ("acb15a58-52a6-41c4-b144-51e02ddd9fc6", "Harnoncourt's BWV 20: the chorales credited to the choir (checker, run 27)"),
+    "2a4073db-c63c-48a9-8675-88e808a8f47b": ("6f45b2d6-025c-44ac-aaa5-30929336e9da", "Harnoncourt's BWV 31: the choruses credited to the choir (checker, run 27)"),
+    "af0c862c-ab4d-4537-baca-2a13d13a1cbd": ("6f45b2d6-025c-44ac-aaa5-30929336e9da", "Harnoncourt's BWV 31: the choruses credited to the choir (checker, run 27)"),
+    "bcee7e8d-9007-4e1b-aab9-54ccb32d4abf": ("6f45b2d6-025c-44ac-aaa5-30929336e9da", "Harnoncourt's BWV 31 and 34 again, on Das Kantatenwerk Vol. 9 (checker, run 27)"),
+    "c2e7b640-7e1a-446d-aa6f-b10bc6619f3c": ("6a1dedf5-3568-4fda-98e1-f83c189549b0", "Harnoncourt's BWV 31 and 34 again, on Das Kantatenwerk Vol. 9 (checker, run 27)"),
+    "4dbd769c-705a-4fb1-9aac-09a4e88eebc2": ("8177d0fe-492f-460a-bcee-c1726667f7d8", "Leonhardt's BWV 32 and 33 credited to the choir (checker, run 27)"),
+    "d6a2d9b1-4d08-4fb7-aa51-b525f8f2dadc": ("f5f61035-9f70-4c92-bba7-0f6d4619fd2d", "Leonhardt's BWV 32 and 33 credited to the choir (checker, run 27)"),
+    "e0362109-a3d6-4cbb-b004-c8fc4a160f68": ("18ba8008-7be2-4249-9647-c3b3f5bdd2cf", "Leonhardt's BWV 7 with King's College Choir (Willcocks), same soloists (checker, run 27)"),
+    "ca925446-e073-4da9-a0eb-05098cb695d4": ("7b6c1fc9-5c88-482d-a910-649e5846445b", "Leonhardt's 1995 BWV 34: the last movement credited to the choir (checker, run 27)"),
+    "3f1b7642-c5bf-4a65-ac38-2858c3b783be": ("4b1f947c-2d9e-4e56-82dd-5a9429e21eb3", "Koopman's BWV 14 and 29: the choruses credited to the choir (checker, run 27)"),
+    "9c445d72-44aa-4161-b38e-f35e5399bc06": ("27f10fb4-a143-4baf-b3cb-7fde148ab3a8", "Koopman's BWV 14 and 29: the choruses credited to the choir (checker, run 27)"),
+    "097e7e6c-8a2e-4fac-9423-3270ee3b1ee4": ("3a1d6663-3d52-405d-a63d-5b049200820f", "Koopman's BWV 30: the choruses credited to the choir (checker, run 27)"),
+    "162bd2b2-f8a9-4177-8f4c-6a46aacf74f3": ("c585bec1-7d31-49e8-a759-3d03225661d2", "Koopman's BWV 47: the choruses credited to the choir (checker, run 27)"),
+    "b65c2bdc-2062-42e2-a303-ec02822ce4e3": ("ef9b18cb-5bab-485e-9d58-8901c41e64c5", "Koopman's BWV 9: the undated rest of the set (checker, run 27)"),
+    "3080303d-5701-4521-a2d6-619e1491131a": ("76b85b9c-19e7-4091-82c3-7fd784155c7a", "Rilling's BWV 19: the choruses credited to the choir (checker, run 27)"),
+    "d9a51a2d-c42b-429f-8d0e-c8aa013e5d43": ("eb701e62-16b6-4ffe-bd7d-cb6d4cf71419", "Rilling's BWV 32: movements I-V on their own row (checker, run 27)"),
+    "a9e8e8c3-fa4e-437f-be9c-3f2658e0da00": ("598b2814-da8e-46b7-96b3-ecc7ef544b47", "Rilling's BWV 44: one movement on the same release dated 1973 in MusicBrainz (checker, run 27)"),
+    "17393257-30a3-49e6-9dba-059dbedc1935": ("18732d3c-f427-4014-9c05-992ca57c47ad", "Rotzsch's BWV 26: the chorales credited to the choir (checker, run 27)"),
+    "92ec618b-9940-4316-b158-fe94109af971": ("5d023071-8fc9-4a86-9871-246111a53b9c", "Rotzsch's BWV 36 again (Kantaten BWV 140, 61, 36), same soloists (checker, run 27)"),
+    "886b1ebe-0140-4caf-8769-6299805cd019": ("5805f68a-62d8-4027-8142-becc1678c297", "Prohaska's BWV 4: the one movement missing from the 1951 set (checker, run 27)"),
+    "96857b5f-11d4-4160-b6bc-62d8dc30b496": ("395413cb-c642-4fce-be70-3bb9adae1169", "Robert King's BWV 1 movements on a second compilation (checker, run 27)"),
+}
+OVERRIDE_BY_SNAPSHOT["church-cantatas-1"].update({
+    "abbe2c71-1262-4587-9c08-3d3a31cab268": ({"arrangement": True}, "Tenebrae sing the chorales inside the Partita No. 2 and Chaconne for violin, in the Morimur manner (run 27, decided with Gonçalo)"),
+    "0868975a-665d-40a8-8d7e-94d053f1228b": ({"arrangement": True}, "Bach Privat: house-music reductions with violin, cello and harpsichord in place of the orchestra (run 27, decided with Gonçalo)"),
+    "e53c7646-d862-42ce-902f-a5f396ef16f6": ({"arrangement": True}, "Calmus Ensemble's Luther Collage: an a cappella collage, not Bach's setting (run 27, decided with Gonçalo)"),
+    "76f4bbad-6a1d-4552-9455-679dbb2e6482": ({"arrangement": True}, "Café Zimmermann's Imaginary Music Book: the Sinfonia of BWV 29 rearranged for their ensemble (run 27, decided with Gonçalo)"),
+    "56bd00dd-3458-467f-b850-9b327e159db3": ({"arrangement": False}, "Albrecht Mayer plays the Sinfonia of BWV 12 in Bach's scoring (oboe and strings), as on deutsche-kammersolisten-undated-3; only the album is of transcriptions (run 27, decided with Gonçalo)"),
+    "311fb2b2-7975-40ed-a186-d00ff3c28458": ({"years": [2000]}, "Gardiner's Bach Cantata Pilgrimage was recorded in 2000; 2007 is the release (run 27, decided with Gonçalo)"),
+    "528ac66a-1bf4-43b5-97dc-cc0bb5c7a599": ({'performance_practice': 'historical'}, "Rifkin's Bach Ensemble plays period instruments (as run 26) (checker, run 27)"),
+    "f2d6a61f-45ef-412b-8fdf-1903384fcd34": ({'arrangement': True}, "Battle and Wynton Marsalis: a trumpet plays the oboe obbligato (checker, run 27)"),
+    "531f9427-7459-4412-a152-021041293f1e": ({'performance_practice': 'historical'}, "The Sixteen's orchestra played period instruments on its 1990 Collins Bach recordings (checker, run 27)"),
+    "041d626d-ca4d-4b62-8581-3a782933532d": ({'performers': [{'name': 'Mormon Tabernacle Choir', 'role': 'choir'}, {'name': 'Richard P. Condie', 'role': 'conductor'}]}, "the choir is credited as a conductor (checker, run 27)"),
+    "199bbfcc-1703-4b64-a33f-447d4a4ea05f": ({'performers': [{'name': 'Thomanerchor Leipzig', 'role': 'choir'}, {'name': 'Philharmonie Leipzig', 'role': 'orchestra'}, {'name': 'Hans-Joachim Rotzsch', 'role': 'conductor'}, {'name': 'Peter Schreier', 'role': 'voice'}, {'name': 'Siegfried Lorenz', 'role': 'voice'}, {'name': 'Ortrun Wenkel', 'role': 'voice'}, {'name': 'Arleen Augér', 'role': 'voice'}]}, "the Thomanerchor is credited as an orchestra (checker, run 27)"),
+    "d7a13739-31c1-4060-b661-40a90d089c0d": ({'performers': [{'name': 'Gaechinger Cantorey', 'role': 'choir'}, {'name': 'David Franke', 'role': 'organ'}, {'name': 'Hans-Christoph Rademann', 'role': 'conductor'}, {'name': 'Lenneke Ruiten', 'role': 'performer'}, {'name': 'Benedikt Kristjansson', 'role': 'performer'}, {'name': 'Peter Harvey', 'role': 'performer'}]}, "Gächinger Kantorei Stuttgart is the Gaechinger Cantorey's old name, not a second group (checker, run 27)"),
+    "05e711ae-99bf-451c-888b-f7bead078c46": ({'performers': [{'name': 'Gaechinger Cantorey', 'role': 'choir'}, {'name': 'Hans-Christoph Rademann', 'role': 'conductor'}, {'name': 'Núria Rial', 'role': 'performer'}, {'name': 'Benedikt Kristjánsson', 'role': 'performer'}, {'name': 'Matthias Winckhler', 'role': 'performer'}]}, "Gächinger Kantorei Stuttgart is the Gaechinger Cantorey's old name, not a second group (checker, run 27)"),
+    "a1088ff7-3fd1-4dc5-80cb-636df0bd2058": ({'performers': [{'name': 'Gaechinger Cantorey', 'role': 'choir'}, {'name': 'Hans-Christoph Rademann', 'role': 'conductor'}, {'name': 'Tobias Berndt', 'role': 'performer'}, {'name': 'Benedikt Kristjánsson', 'role': 'performer'}, {'name': 'Miriam Feuersinger', 'role': 'performer'}]}, "Gächinger Kantorei Stuttgart is the Gaechinger Cantorey's old name, not a second group (checker, run 27)"),
 })
 
 
@@ -2073,12 +2131,28 @@ def arranged_credits(perf: dict) -> list[str]:
     return [i for i in perf["ins"] if ARRANGED.search(i)]
 
 
+# Vocal works (run 27): roles that are voices or performing groups. A performance with none of them, only
+# instrumental soloists (an organist's or pianist's Sinfonia of BWV 29, an oboist's Sinfonia of BWV 12, organ with
+# trumpets and timpani), plays a transcription. A piano anywhere is one too: no Bach vocal work has a piano.
+VOCAL_ROLES = re.compile(r"soprano|alto|tenor|bass(?!oon)|baritone|counter|treble|voice|vocal|choir|chorus|"
+                         r"orchestra|ensemble|conductor", re.I)
+VOCAL_PIANO = re.compile(r"(?<!forte)piano(?!forte)", re.I)
+# Vocal works (run 27): release titles that name a transcription or a crossover work built on the music.
+VOCAL_ARRANGED_RELEASES = re.compile(r"transkription|transcription|p.rt .ber bach|apocalypse live", re.I)
+
+
 def vocal_of(perf: dict) -> tuple[str, str, bool, list[str]]:
     """Vocal works: choir, orchestra and soloists are all native; only jazz, pop and the like are arrangements."""
     arranged = arranged_credits(perf)
+    titles = " ".join(r["title"] for r in perf["releases"])
+    roles = [v for v in perf["roles"].values()]
+    no_voices = (bool(roles) and not any(VOCAL_ROLES.search(v) for v in roles)
+                 and not any(t in GROUP_TYPES for t in perf["types"]))
+    piano = [v for v in roles + perf["ins"] if VOCAL_PIANO.search(v)]
     # Release titles too (run 22): trumpet excerpt lessons and film-song albums take single arias.
-    if arranged or ARRANGED_NAMES.search(" ".join(perf["names"])) \
-            or ARRANGED_RELEASES.search(" ".join(r["title"] for r in perf["releases"])):
+    if arranged or piano or no_voices or ARRANGED_NAMES.search(" ".join(perf["names"])) \
+            or ARRANGED_RELEASES.search(titles) or VOCAL_ARRANGED_RELEASES.search(titles):
+        arranged = arranged + [c for c in piano if c not in arranged]
         return "voices-and-instruments", "unknown", True, arranged
     return "voices-and-instruments", "historical" if period_group(perf) else "unknown", False, []
 

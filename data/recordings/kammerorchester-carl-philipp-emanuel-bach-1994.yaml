@@ -1,0 +1,29 @@
+id: kammerorchester-carl-philipp-emanuel-bach-1994
+performers:
+- name: Kammerorchester Carl Philipp Emanuel Bach
+  role: orchestra
+- name: Hartmut Haenchen
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1994]
+  place: Kirche Zur frohen Botschaft
+released: 1995
+original_label: null
+works:
+- {bwv: '35', complete: true}
+- {bwv: '49', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/fa9d71f6-2913-42a4-9312-1756f81acd17
+  title: Bach Kantaten BWV 35, BWV 169, BWV 49
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 49abd8a6-b063-477e-a27c-661fb0a5feb3
+  recordings: [11d85545-fc01-4e3a-82d6-e5c0a1a32d7a, 2dbc0ad6-c3c8-4c45-9197-2426aa983b3a]

@@ -1,0 +1,46 @@
+id: pforzheimer-kammerorchester-1964
+performers:
+- name: Pforzheimer Kammerorchester
+  role: orchestra
+- name: Heinrich Schütz Choir, Heilbronn
+  role: choir
+- name: Fritz Werner
+  role: conductor
+- name: Georg Jelden
+  role: tenor
+- name: Jakob Stämpfli
+  role: bass
+- name: Édith Selig
+  role: performer
+- name: Claudia Hellmann
+  role: performer
+- name: Maurice André
+  role: performer
+- name: Südwestdeutsches Kammerorchester Pforzheim
+  role: orchestra
+- name: Heinrich-Schütz-Chor Heilbronn
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1964]
+  place: Heilbronn Harmonie
+released: 1995
+original_label: null
+works:
+- {bwv: '19', complete: true}
+- {bwv: '40', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7ec2182c-7394-4aaa-bfe5-f2b5f8882733
+  title: 'Kantaten: BWV 19, 40, 70, 140, 149, 180'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 7728bbd6-1fd8-4027-9203-1e480fb56dbe
+  recordings: [4660c79f-9186-481b-ba2f-28c24fded7dd, 525d62e4-9a92-4727-b7b4-9eb0ac1c01fb, a2e96a74-11d9-424d-b6a3-2a0763ede6a6,
+    dddb9076-6fdb-45e8-9364-c70b81b6fee3]

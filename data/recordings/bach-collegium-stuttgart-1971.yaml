@@ -1,0 +1,36 @@
+id: bach-collegium-stuttgart-1971
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Barbara Rondelli
+  role: performer
+- name: Adalbert Kraus
+  role: performer
+- name: Siegmund Nimsgern
+  role: bass
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1971]
+  place: Gedächtniskirche Stuttgart
+released: 1988
+original_label: null
+works:
+- {bwv: '19', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac2a592b-eae6-4656-9d80-ceef7972025e
+  title: Cantatas, BWV 19–20
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [3080303d-5701-4521-a2d6-619e1491131a, 76b85b9c-19e7-4091-82c3-7fd784155c7a]

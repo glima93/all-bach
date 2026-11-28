@@ -1,0 +1,32 @@
+id: ostrobothnian-chamber-orchestra-1998
+performers:
+- name: Ostrobothnian Chamber Orchestra
+  role: orchestra
+- name: Juha Kangas
+  role: conductor
+- name: Monica Groop
+  role: performer
+- name: Keski‐Pohjanmaan Kamariorkesteri
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1998]
+  place: Kronoby kyrka
+released: 1998
+original_label: null
+works:
+- {bwv: '35', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ceffe7c8-ade0-371b-afec-2b4c7309446c
+  title: Alto Cantatas
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 680d4a74-9b58-409f-b02f-81a1f752f86c
+  recordings: [6931c8cc-d935-4ccb-a06a-951c03cabf08]

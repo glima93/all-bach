@@ -1,0 +1,29 @@
+id: elmer-iseler-singers-1985
+performers:
+- name: Elmer Iseler Singers
+  role: choir
+- name: Mainly Mozart Orchestra
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1985]
+  place: Metropolitan United Church
+released: 1985
+original_label: null
+works:
+- {bwv: '29', complete: false, movements: ['II. Coro "Wir danken dir, Gott, wir danken dir"', VIII. Choral "Sei
+      Lob und Preis mit Ehren"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ac60b1a6-9ff7-4f98-84c8-1817284587f8
+  title: Jesu, Joy of Man's Desiring and Other Great Bach Choruses
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 482f4035-636a-4cb5-a90e-47439f5f964b
+  recordings: [b205a630-e013-4e40-a14a-98e8f630b823]

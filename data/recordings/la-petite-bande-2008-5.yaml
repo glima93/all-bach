@@ -1,0 +1,39 @@
+id: la-petite-bande-2008-5
+performers:
+- name: La Petite Bande
+  role: orchestra
+- name: Sigiswald Kuijken
+  role: conductor
+- name: Jan Van der Crabben
+  role: bass
+- name: Christoph Genz
+  role: tenor
+- name: Petra Noskaiová
+  role: performer
+- name: Siri Karoline Thornhill
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2008]
+  place: Predikherenkerk
+released: 2017
+original_label: null
+works:
+- {bwv: '44', complete: false, movements: ['I. Aria (Duetto: Tenore, Basso) "Sie werden euch in den Bann tun"',
+    II. Coro "Es kömmt aber die Zeit", III. Aria (Alto) "Christen müssen auf der Erden", V. Recitativo (Basso) "Es
+      sucht der Antichrist", VI. Aria (Soprano) "Es ist und bleibt der Christen Trost", 'VII. Choral "So sei nun,
+      Seele, deine"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3f5ee870-221f-48f7-bc3e-289a5c5e9e7a
+  title: 'Cantatas: The Complete Liturgical Year in 64 Cantatas'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 1ce79c93-e3c5-42c7-b09e-6b43a2d1fdd2
+  recordings: [464057aa-bdce-4c68-8640-19f26a470aa8]

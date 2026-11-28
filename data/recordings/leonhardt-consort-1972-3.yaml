@@ -1,0 +1,45 @@
+id: leonhardt-consort-1972-3
+performers:
+- name: Leonhardt‐Consort
+  role: orchestra
+- name: Knabenchor Hannover
+  role: choir
+- name: Gustav Leonhardt
+  role: conductor
+- name: Marius van Altena
+  role: tenor
+- name: Max van Egmond
+  role: bass
+- name: Walter Gambert
+  role: soprano
+- name: René Jacobs
+  role: alto
+- name: Heinz Hennig
+  role: conductor
+- name: Walter Gampert
+  role: treble
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1972, 1974]
+  place: null
+released: 1999
+original_label: null
+works:
+- {bwv: '32', complete: true}
+- {bwv: '33', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/50a2f1ea-d3be-3ca8-8260-76052e32b911
+  title: 'Bach 2000: The Complete Bach Edition'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdcb74c4-2c5f-4d57-a052-b9ae935a3302
+  recordings: [4dbd769c-705a-4fb1-9aac-09a4e88eebc2, 8177d0fe-492f-460a-bcee-c1726667f7d8, d6a2d9b1-4d08-4fb7-aa51-b525f8f2dadc,
+    f5f61035-9f70-4c92-bba7-0f6d4619fd2d]

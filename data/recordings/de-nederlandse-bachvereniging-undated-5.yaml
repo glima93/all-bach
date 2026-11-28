@@ -1,0 +1,34 @@
+id: de-nederlandse-bachvereniging-undated-5
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Maarten Engeltjes
+  role: performer
+- name: Leo van Doeselaar
+  role: performer
+- name: Jos van Veldhoven
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Martinikerk
+released: null
+original_label: null
+works:
+- {bwv: '35', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/ebcf2995-a1df-4202-b954-6239dace3933
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [ebcf2995-a1df-4202-b954-6239dace3933]

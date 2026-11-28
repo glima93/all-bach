@@ -1,0 +1,28 @@
+id: de-nederlandse-bachvereniging-2016-8
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Sigiswald Kuijken
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2016]
+  place: Waalse Kerk
+released: null
+original_label: null
+works:
+- {bwv: '23', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/95c2c8da-3b24-43e3-8deb-9e995e174c04
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [95c2c8da-3b24-43e3-8deb-9e995e174c04]

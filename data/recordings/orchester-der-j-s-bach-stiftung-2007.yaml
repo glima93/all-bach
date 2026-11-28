@@ -1,0 +1,36 @@
+id: orchester-der-j-s-bach-stiftung-2007
+performers:
+- name: Orchester der J. S. Bach-Stiftung
+  role: orchestra
+- name: Chor der J. S. Bach-Stiftung
+  role: choir
+- name: Rudolf Lutz
+  role: conductor
+- name: Markus Volpert
+  role: bass
+- name: Andreas Post
+  role: performer
+- name: Ruth Sandhoff
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2007]
+  place: Evangelische Kirche
+released: 2014
+original_label: null
+works:
+- {bwv: '33', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/718b0792-a169-413d-b27f-c3bd1b71db39
+  title: Kantaten N° 12
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: 7ec77a1b-c25e-4ef9-9f3e-8cc1e497bcaf
+  recordings: [6e04cbdf-b628-4043-b868-864717d9bdbb, fc58e138-01c5-4bb1-98de-098306fc7850]

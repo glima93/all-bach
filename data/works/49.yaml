@@ -1,0 +1,19 @@
+bwv: "49"
+title: "Ich geh und suche mit Verlangen"
+key: "E major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SB), oboe d'amore, violoncello piccolo, obbligato organ, strings and continuo"
+composed: "Leipzig; first performed on 3 November 1726 (Twentieth Sunday after Trinity)"
+movements:
+  - "I. Sinfonia"
+  - "II. Aria (Basso) \"Ich geh und suche mit Verlangen\""
+  - "IIIa. Recitativo (Basso) \"Mein Mahl ist zubereit't\" / IIIb. Arioso (Basso) \"Komm, Schönste, komm und lass dich küssen\""
+  - "IV. Aria (Soprano) \"Ich bin herrlich, ich bin schön\""
+  - "V. Recitativo (Soprano, Basso) \"Mein Glaube hat mich selbst so angezogen\""
+  - "VIa. Duetto (Soprano, Basso) \"Dich hab' ich je und je geliebet\" / VIb. Duetto \"Wie bin ich doch so herzlich froh\""
+notes: "A \"Dialogus\" between Jesus (bass) and the Soul (soprano) from Bach's third cycle, on a text by Christoph Birkmann; the soprano sings a stanza of Nicolai's \"Wie schön leuchtet der Morgenstern\" in the final duet. The opening sinfonia with obbligato organ is probably drawn from a lost concerto, also the source of the finale of the harpsichord concerto BWV 1053."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Ich_geh_und_suche_mit_Verlangen,_BWV_49"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/e43d7270-7672-4901-a86f-4345a2d21c12

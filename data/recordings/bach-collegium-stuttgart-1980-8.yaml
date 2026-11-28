@@ -1,0 +1,31 @@
+id: bach-collegium-stuttgart-1980-8
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+- name: Gächinger Kantorei Stuttgart
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1980]
+  place: Gedächtniskirche Stuttgart
+released: 1999
+original_label: null
+works:
+- {bwv: '38', complete: true}
+- {bwv: '39', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/eb3967a9-bcab-46b2-a1d7-d908aabd3ee7
+  title: Cantatas BWV 38-40
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [f26575de-dad5-459b-872d-3507226727c8, f686132b-6e3b-47e9-a57a-0a05848418d1]

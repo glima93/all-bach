@@ -1,0 +1,39 @@
+id: tulipa-consort-2017-4
+performers:
+- name: Tulipa Consort
+  role: orchestra
+- name: Bart Schneemann
+  role: oboe
+- name: Johannette Zomer
+  role: soprano
+- name: Elisabeth Ingenhousz
+  role: performer
+- name: Daniel Lanthier
+  role: oboe d'amore
+- name: Bart Naessens
+  role: organ
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: Cunerakerk, Rhenen
+released: 2017
+original_label: null
+works:
+- {bwv: '21', complete: false, movements: ['Teil I, I. Sinfonia', 'Teil I, III. Aria (Soprano) "Seufzer, Tränen,
+      Kummer, Not"']}
+- {bwv: '32', complete: false, movements: ['I. Aria (Soprano) "Liebster Jesu, mein Verlangen"']}
+- {bwv: '49', complete: false, movements: [I. Sinfonia]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/89a18aef-eaa8-4cf4-9395-a985f835531e
+  title: JUST Bach
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 51274ef9-8a66-40c8-9dbc-a97f44a2889d
+  recordings: [084d63c2-1bed-45b9-9735-a12b69c5563e, a95d261a-32cd-42b2-a9d9-f6ec8c94f7d3, fbf3d4b2-8940-428e-af38-24a6745f2f48]

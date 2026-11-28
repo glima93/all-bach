@@ -1,0 +1,32 @@
+id: st-paul-s-cathedral-choir-undated
+performers:
+- name: St Paul’s Cathedral Choir
+  role: choir
+- name: John Scott
+  role: organ
+- name: Christopher Dearnley
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2001
+original_label: null
+works:
+- {bwv: '22', complete: false, movements: [V. Choral "Ertöt uns durch dein Güte"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/feaedc8a-7975-48b4-8343-767e4575d1ca
+  title: 'Ultimate Joy: Jesu, Joy of Man’s Desiring'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 60495c91-d736-4476-a442-86a3e6720f68
+  recordings: [53bc34bf-b738-46a3-9f4b-c858ce4d3be1]

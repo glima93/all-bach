@@ -1,0 +1,37 @@
+id: berliner-philharmoniker-1952
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Berliner Motettenchor
+  role: choir
+- name: Fritz Lehmann
+  role: conductor
+- name: Gunthild Weber
+  role: performer
+- name: Helmut Krebs
+  role: performer
+- name: Hermann Schey
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1952]
+  place: Jesus‐Christus‐Kirche
+released: 1956
+original_label: null
+works:
+- {bwv: '19', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/8949401c-131a-49f6-93ae-bdaeee1674b9
+  title: '"Es Erhub Sich Ein Streit" Cantata for Michaelmas Day, BWV 19 / "Gott, der Herr, ist Sonn'' und Schild"
+    Reformation Cantata, BWV 79'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [6bb1bb39-3b0d-477a-beab-0411f765c407, 86e2e5d1-909d-4af6-97e0-5553367ee820]

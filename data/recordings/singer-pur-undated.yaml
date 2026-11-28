@@ -1,0 +1,28 @@
+id: singer-pur-undated
+performers:
+- name: Singer Pur
+  role: voice
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2015
+original_label: null
+works:
+- {bwv: '1', complete: false, movements: [VI. Choral “Wie bin ich doch so herzlich froh”]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/afbd0553-dbc4-4e86-81df-4fdcaf106b27
+  title: Der Singer Pur Adventskalender
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: cd08a02d-7d94-439a-8d98-d992052c6cc7
+  recordings: [6a1d9e73-c62a-4514-9a30-a72df9f79aeb]

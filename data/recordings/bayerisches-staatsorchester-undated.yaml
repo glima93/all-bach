@@ -1,0 +1,37 @@
+id: bayerisches-staatsorchester-undated
+performers:
+- name: Bayerisches Staatsorchester
+  role: orchestra
+- name: Münchener Bach-Chor
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Hedwig Bilgram
+  role: performer
+- name: Kieth Engen
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2014
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/3cbf49fd-a014-4a4e-b81e-773e2766564b
+  title: 'Karl Richter Edition: Magnificat/Kantaten'
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 315899f2-e6b5-4b73-8830-cc2dceb55eac
+  recordings: [01bb8737-3ab3-4c15-a672-ff520370232e, e311dd96-cf29-46c7-bc37-5784571564ae]

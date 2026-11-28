@@ -1,0 +1,42 @@
+id: netherlands-bach-collegium-1999-5
+performers:
+- name: Netherlands Bach Collegium
+  role: orchestra
+- name: Pieter Jan Leusink
+  role: conductor
+- name: Holland Boys Choir
+  role: choir
+- name: Sytse Buwalda
+  role: alto
+- name: Bas Ramselaar
+  role: bass
+- name: Knut Schoch
+  role: tenor
+- name: Marjon Strijk
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Sint-Nicolaaskerk
+released: 2000
+original_label: null
+works:
+- {bwv: '6', complete: true}
+- {bwv: '26', complete: true}
+- {bwv: '27', complete: true}
+- {bwv: '46', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ee0a8ef5-ec2c-424a-a105-bd23c47814e0
+  title: 'Bach Edition, Volume 11: Cantatas/Kantaten, Volume V'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a422d36-6a96-47fa-90c8-7a0a3413f3c7
+  recordings: [34d5522d-8656-4003-ae9e-a461b9004277, c9ae6805-bb65-4f54-b0f3-99edddc1718d, e1d31d57-9eff-4548-8e39-7153a8f1275b,
+    e31b1fbf-5569-45d0-91b0-25a52316a1b6]

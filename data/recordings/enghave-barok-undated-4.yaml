@@ -1,0 +1,29 @@
+id: enghave-barok-undated-4
+performers:
+- name: Enghave Barok
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2016
+original_label: null
+works:
+- {bwv: '39', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/da33a070-56c3-4102-bebf-0ffeeace9262
+  title: Kantater vol 2
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: bb52a0f2-2c87-49ad-8f4a-14cf13a764c3
+  recordings: [ba3881b0-5f9f-4c38-96b5-6f854dd3f682]

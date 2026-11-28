@@ -1,0 +1,29 @@
+id: il-gardellino-2002
+performers:
+- name: Il Gardellino
+  role: orchestra
+- name: Marcel Ponseele
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2002]
+  place: Église Saint-Apollinaire
+released: 2004
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: [I. Sinfonia]}
+- {bwv: '21', complete: false, movements: ['Teil I, I. Sinfonia']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ce024683-c7da-4336-a8ca-69890dd755f9
+  title: Baroque Oboe Concertos
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d0f2aa72-20bd-4ab9-b47c-0256fd01d2c6
+  recordings: [034bf820-7de5-44cc-ab74-b23e737c1b01, 3e275c4f-5e83-4d6d-abf2-4317e951bb54]

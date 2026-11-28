@@ -1,0 +1,30 @@
+id: english-baroque-soloists-2000-21
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: St. Maria im Kapitol
+released: 2009
+original_label: null
+works:
+- {bwv: '36', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/de56adb4-85f6-47dd-9616-aa65faaa610f
+  title: 'Cantatas, Volume 13: Köln/Lüneburg'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [aa0ff51e-8c90-4fa8-b69f-18cabd86d6a0]

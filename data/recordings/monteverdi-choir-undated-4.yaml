@@ -1,0 +1,33 @@
+id: monteverdi-choir-undated-4
+performers:
+- name: Monteverdi Choir
+  role: choir
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '6', complete: false, movements: ['I. Coro "Bleib bei uns, denn es will Abend werden"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ef3f5b87-2bbf-489e-8b7d-5b07d54f5465
+  title: Gloria - Eine Auswahl der schönsten Aufnahmen
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a3016390-1ea7-41e2-afac-8d3d3d021fe0
+  recordings: [ba1b5f1b-613e-4325-8271-fd288befee2d]

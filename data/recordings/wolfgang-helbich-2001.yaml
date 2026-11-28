@@ -1,0 +1,30 @@
+id: wolfgang-helbich-2001
+performers:
+- name: Wolfgang Helbich
+  role: conductor
+- name: Ralf Grobe
+  role: bass
+- name: I Febiarmonici
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: Radio Bremen Sendesaal
+released: 2001
+original_label: null
+works:
+- {bwv: '15', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c5ef7356-c049-44ea-ad89-d479e29ff1ee
+  title: 'Apocryphal Bach Cantatas II: Cantatas BWV 15, 141, 142 & 160'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: d0d717b5-5816-4871-9f49-12090d6c999e
+  recordings: [924eff00-1de0-4a02-863f-4481c3f8fbdd]

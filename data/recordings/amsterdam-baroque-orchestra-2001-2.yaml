@@ -1,0 +1,39 @@
+id: amsterdam-baroque-orchestra-2001-2
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Ton Koopman
+  role: conductor
+- name: Bogna Bartosz
+  role: alto
+- name: Deborah York
+  role: performer
+- name: Klaus Mertens
+  role: performer
+- name: Jörg Dürmüller
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2001]
+  place: Waalse Kerk
+released: 2003
+original_label: null
+works:
+- {bwv: '6', complete: true}
+- {bwv: '42', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bf1c77c2-a57f-4bf9-b775-d9790985f5da
+  title: Cantatas, Volume 14
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [cb21ce35-4ee0-479a-bd5e-2986791ff6ba, e2525610-c817-4c41-90f0-5ff2b154d77b, e31d1dc0-36c7-45de-b608-7f0d2f21c3c0]

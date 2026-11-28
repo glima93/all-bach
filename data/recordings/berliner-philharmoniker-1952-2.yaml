@@ -1,0 +1,38 @@
+id: berliner-philharmoniker-1952-2
+performers:
+- name: Berliner Philharmoniker
+  role: orchestra
+- name: Berliner Motettenchor
+  role: choir
+- name: Fritz Lehmann
+  role: conductor
+- name: Karl Steins
+  role: oboe
+- name: Helmut Krebs
+  role: performer
+- name: Gunthild Weber
+  role: performer
+- name: Hermann Schey
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1952]
+  place: Jesus‐Christus‐Kirche
+released: 1957
+original_label: null
+works:
+- {bwv: '21', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/31b470f8-b888-46fd-a5c7-53b678ceb72b
+  title: Cantata BWV 21 "Ich hatte viel Bekümmernis"
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: dea28aa9-1086-4ffa-8739-0ccc759de1ce
+  recordings: [6ac7b613-b70d-46e9-a9fc-ca94e0c46098, a6f1078c-0db1-48db-8485-c64cf13bb96b]

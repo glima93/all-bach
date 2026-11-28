@@ -1,0 +1,18 @@
+bwv: "18"
+title: "Gleichwie der Regen und Schnee vom Himmel fällt"
+key: "A minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (STB), four-part choir, 2 recorders, 4 violas, bassoon, cello and continuo"
+composed: "Leipzig version (BWV³ 18.2, A minor, with 2 recorders added) performed on 13 February 1724 (Sexagesima); the Weimar original in G minor dates from probably 1713"
+movements:
+  - "I. Sinfonia"
+  - "II. Recitativo (Basso) \"Gleichwie der Regen und Schnee\""
+  - "III. Recitativo (Tenore, Basso, Coro) \"Mein Gott, hier wird mein Herze sein\""
+  - "IV. Aria (Soprano) \"Mein Seelenschatz ist Gottes Wort\""
+  - "V. Chorale \"Ich bitt, o Gott, aus Herzensgrund\""
+notes: "One of Bach's earliest cantatas, on a text by Erdmann Neumeister; the orchestra has violas but no violins, and the central movement sets Luther's litany, with the sopranos interrupting the soloists' prayer. It closes with a stanza of Lazarus Spengler's chorale \"Durch Adams Fall ist ganz verderbt\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Gleichwie_der_Regen_und_Schnee_vom_Himmel_f%C3%A4llt,_BWV_18"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/12139106-2ed7-440e-ad88-a5a21e1d16e9

@@ -1,0 +1,35 @@
+id: gewandhausorchester-leipzig-1964
+performers:
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Hans-Joachim Rotzsch
+  role: conductor
+- name: Hannes Kästner
+  role: organ
+- name: Peter Menzel
+  role: tenor
+- name: Hermann Christian Polster
+  role: bass
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1964, 1989]
+  place: null
+released: 1990
+original_label: null
+works:
+- {bwv: '44', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a665465b-4590-4eff-a9d6-d45297a10699
+  title: 'Cantatas: BWV 44 / BWV 78 / BWV 112'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: c51f9557-009f-420b-a933-47889780aad3
+  recordings: [efbb87f4-b054-4c68-a8be-29f865249c15]

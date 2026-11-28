@@ -1,0 +1,50 @@
+id: chamber-choir-of-europe-1999-4
+performers:
+- name: Chamber Choir of Europe
+  role: choir
+- name: Nicol Matt
+  role: conductor
+- name: Freiburger Barockorchester
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '2', complete: false, movements: ['VI. Choral "Das wollst du, Gott, bewahren rein"']}
+- {bwv: '3', complete: false, movements: [VI. Choral "Erhalt mein Herz im Glauben"]}
+- {bwv: '4', complete: false, movements: [VIII. Choral Versus VII „Wir essen und leben wohl“]}
+- {bwv: '5', complete: false, movements: [VII. Choral "Führ auch mein Herz und Sinn"]}
+- {bwv: '6', complete: false, movements: ['VI. Choral "Beweis dein Macht, Herr Jesu Christ"']}
+- {bwv: '9', complete: false, movements: ['VII. Choral "Ob sichs anließ, als wollt er nicht"']}
+- {bwv: '10', complete: false, movements: [VII. Choral "Lob und Preis sei Gott dem Vater und dem Sohn"]}
+- {bwv: '16', complete: false, movements: [VI. Choral "All solch dein Güt wir preisen"]}
+- {bwv: '37', complete: false, movements: [VI. Choral "Den Glauben mir verleihe"]}
+- {bwv: '38', complete: false, movements: [VI. Choral "Ob bei uns ist der Sünden viel"]}
+- {bwv: '39', complete: false, movements: ['VII. Choral "Selig sind, die aus Erbarmen"']}
+- {bwv: '40', complete: false, movements: [III. Choral "Die Sünd macht Leid", VI. Choral "Schüttle deinen Kopf und
+      sprich", 'VIII. Choral "Jesu, nimm dich deiner Glieder"']}
+- {bwv: '42', complete: false, movements: [VII. Choral "Verleih uns Frieden gnädiglich"]}
+- {bwv: '43', complete: false, movements: ['Teil II, XI. Choral "Du Lebensfürst, Herr Jesu Christ"']}
+- {bwv: '48', complete: false, movements: ['VII. Choral "Herr Jesu Christ, einiger Trost"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/209df44d-1205-4506-8536-0a0f467fb7e7
+  title: 'Bach Edition, Volume 23: Chorale / Chorales'
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 3550ab78-4fa4-465d-9cd1-fba1543a949d
+  recordings: [0ff983dc-1628-491c-a399-009e8f0ba428, 352cbd31-052c-44ac-9820-9b6d359625ea, 6160795c-eb7e-4b9f-b193-6e84474f28ae,
+    63347767-8bd5-4f11-9c1a-42ee65125b00, 6bf4eb56-55e7-410a-8c8d-a6ec8bcf0e04, 82b49b79-a454-47ca-a046-44f7e0be374b,
+    a00f298f-a50d-45c9-83d8-4f21c81b3f30, a42213af-2341-43f8-bc0f-b6645c15f916, babc1494-bd37-4804-829f-119924029d87,
+    bbede569-c519-4d47-a8a5-7b38d9d42bb2, d2803e59-cf70-4f0c-9195-09ff94be1057, d33456e0-c43d-458d-99d0-804b0be530b0,
+    e0ad7af6-5f1a-45ca-babd-05bc10a1e5e5, f6d143e1-cee3-4145-9798-c2a041bd3855, fb1ba6df-cbb7-4605-be04-85d7a3b4089b]

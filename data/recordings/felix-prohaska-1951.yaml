@@ -1,0 +1,33 @@
+id: felix-prohaska-1951
+performers:
+- name: Felix Prohaska
+  role: conductor
+- name: The Bach Guild
+  role: orchestra
+- name: The Bach Guild Choir
+  role: choir
+- name: Hans Braun
+  role: baritone
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1951]
+  place: null
+released: 2013
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0824ea87-fd5d-431b-9ce0-9d9e9be33fe1
+  title: Bigger Bach Set
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 96860121-d3e6-4f45-a532-5e23d86d28af
+  recordings: [5805f68a-62d8-4027-8142-becc1678c297, 886b1ebe-0140-4caf-8769-6299805cd019]

@@ -1,0 +1,34 @@
+id: bach-collegium-japan-2011-3
+performers:
+- name: Bach Collegium Japan
+  role: ensemble
+- name: Masaaki Suzuki
+  role: performer
+- name: Peter Kooij
+  role: performer
+- name: Hana Blažíková
+  role: performer
+- name: 鈴木雅明
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2011]
+  place: 神戸松蔭女子学院大学チャペル
+released: 2011
+original_label: null
+works:
+- {bwv: '49', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2bf4a891-48b7-4101-8a44-d9f4647c5013
+  title: Cantatas, Volume 50
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e64ad5ad-9bdf-4ef1-a943-e1121aca8eef
+  recordings: [e25349f1-9abe-4c5a-8855-9b8d53617a56]

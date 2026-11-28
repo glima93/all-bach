@@ -1,0 +1,28 @@
+id: collegium-vocale-gent-1999
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Doopsgezinde kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '29', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/900606e9-6579-47c4-9c4c-2d4cea1493bf
+  title: '"Wir danken dir, Gott": Cantatas 29, 119 & 120'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [6a33b852-fb56-4056-bd29-d26ed53d7b5c]

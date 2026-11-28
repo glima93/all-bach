@@ -1,0 +1,38 @@
+id: sinfonie-saint-julien-1993
+performers:
+- name: Sinfonie Saint-Julien
+  role: ensemble
+- name: Les petits chanteurs de Versailles
+  role: choir
+- name: Jean-Francois Frémont
+  role: conductor
+- name: Christophe Einhorn
+  role: performer
+- name: Jean-Louis Serre
+  role: performer
+- name: Les Musiciens de Saint-Julien
+  role: orchestra
+- name: Les petits chanteurs de Saint-François de Versailles
+  role: choir
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1993, 1994]
+  place: Église Notre-Dame de Versailles
+released: 1994
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e841a460-14c1-4f65-8301-29c6e86ffefe
+  title: Cantates BWV 106, 4 / Motet der Gerechte kommt um
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: e4640c4b-3aa3-43a5-9209-6f4d1e08936a
+  recordings: [025e5ea6-88c3-41e0-8c59-70f674b2852b, 96993641-b777-4efb-889c-abad7de9da31]

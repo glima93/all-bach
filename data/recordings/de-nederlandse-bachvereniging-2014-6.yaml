@@ -1,0 +1,28 @@
+id: de-nederlandse-bachvereniging-2014-6
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Jos van Veldhoven
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2014]
+  place: Martinikerk
+released: null
+original_label: null
+works:
+- {bwv: '29', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/f5372b6e-4848-4cdf-81bd-254f000468b7
+  title: null
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [f5372b6e-4848-4cdf-81bd-254f000468b7]

@@ -1,0 +1,33 @@
+id: orchestre-de-collegium-vocale-gent-1997
+performers:
+- name: Orchestre de Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Andreas Scholl
+  role: countertenor
+- name: Collegium Vocale Gent
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: null
+released: 1998
+original_label: null
+works:
+- {bwv: '35', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/528887d8-8051-4025-9149-3c683fd6d312
+  title: Cantates pour alto
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [b6cfca88-72d9-4b1c-9644-156abb58fffa]

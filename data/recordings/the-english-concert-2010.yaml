@@ -1,0 +1,32 @@
+id: the-english-concert-2010
+performers:
+- name: The English Concert
+  role: orchestra
+- name: Elizabeth Watts
+  role: soprano
+- name: Katharina Spreckelsen
+  role: oboe
+- name: Harry Bicket
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2010]
+  place: All Hallows’ Church
+released: 2011
+original_label: null
+works:
+- {bwv: '31', complete: false, movements: ['VIII. Aria (Soprano) e Choral "Letzte Stunde, brich herein"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/7aa7b510-eab6-472f-be47-7d8bbd4030a6
+  title: Cantatas and Arias
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8af55e27-c6ad-44f3-a6d2-53df5462798c
+  recordings: [7e030e11-2194-40d1-a08d-35de5b9687e4]

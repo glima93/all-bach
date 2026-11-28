@@ -1,0 +1,34 @@
+id: barokkanerne-2017-2
+performers:
+- name: Barokkanerne
+  role: ensemble
+- name: Berit Norbakken Solset
+  role: performer
+- name: Anders J. Dahlin
+  role: performer
+- name: Marianne Beate Kielland
+  role: performer
+- name: Halvor F. Melien
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2017]
+  place: 'Operahuset i Oslo: Orchestra Rehearsal Room'
+released: 2018
+original_label: null
+works:
+- {bwv: '36', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e1975674-10da-4a7b-9f0e-0f117f8897c9
+  title: Er heißet Wunderbar!
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 237af3b0-5b90-460d-9d10-eea9f2abd2cb
+  recordings: [319af2c6-5eb5-4ef5-81a0-c1a6c7967f65]

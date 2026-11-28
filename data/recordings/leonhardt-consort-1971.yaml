@@ -1,0 +1,42 @@
+id: leonhardt-consort-1971
+performers:
+- name: Leonhardt‐Consort
+  role: orchestra
+- name: King's College Choir Cambridge
+  role: choir
+- name: Gustav Leonhardt
+  role: conductor
+- name: Max van Egmond
+  role: baritone
+- name: Kurt Equiluz
+  role: tenor
+- name: Paul Esswood
+  role: countertenor
+- name: David Willcocks
+  role: performer
+- name: Choir of King’s College, Cambridge
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1971]
+  place: Concertgebouw
+released: 1985
+original_label: null
+works:
+- {bwv: '7', complete: true}
+- {bwv: '8', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e2214ee3-2d0d-4c90-84cd-b82984944c37
+  title: Das Kantatenwerk, Volume 2
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdcb74c4-2c5f-4d57-a052-b9ae935a3302
+  recordings: [18ba8008-7be2-4249-9647-c3b3f5bdd2cf, 3a53cb3d-a2ef-442b-a76a-76a9b6a00cb9, 478bddcc-0e31-4eaf-a74b-7de1ac4396ef,
+    843b861b-3604-44a0-abdf-77a308a1ae99, e0362109-a3d6-4cbb-b004-c8fc4a160f68]

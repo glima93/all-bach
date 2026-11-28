@@ -1,0 +1,32 @@
+id: english-baroque-soloists-2000-8
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Georgenkirche
+released: 2007
+original_label: null
+works:
+- {bwv: '4', complete: true}
+- {bwv: '6', complete: true}
+- {bwv: '31', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dfdc5c3d-400a-485e-9cf2-1b7226579c30
+  title: 'Cantatas, Volume 22: Eisenach'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [338bccb9-c0a0-4721-a71b-8b807b977903, 9cf8a605-979c-4908-969b-f4071dadecb8, d2669996-aedc-400d-ba68-ae86b9452299]

@@ -1,0 +1,30 @@
+id: james-weaver-undated-2
+performers:
+- name: James Weaver
+  role: bass
+- name: American Bach Soloists
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 1993
+original_label: null
+works:
+- {bwv: '8', complete: false, movements: ['IV. Aria (Basso) "Doch weichet, ihr tollen, vergeblichen Sorgen!"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e7ad4f3b-7210-429b-82b9-39cbdae87b03
+  title: 'Classic Cuts: Explore Our Musical World'
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 5c3b104a-42c1-4a56-a626-70b8bfcec0b1
+  recordings: [5a6b0493-8526-4e3b-ac8d-3b106327e308]

@@ -1,0 +1,20 @@
+bwv: "39"
+title: "Brich dem Hungrigen dein Brot"
+key: "G minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SAB), four-part choir, 2 recorders, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 23 June 1726 (First Sunday after Trinity)"
+movements:
+  - "I. Coro \"Brich dem Hungrigen dein Brot\""
+  - "II. Recitativo (Basso) \"Der reiche Gott wirft seinen Überfluß\""
+  - "III. Aria (Alto) \"Seinem Schöpfer noch auf Erden\""
+  - "IV. Aria (Basso) \"Wohlzutun und mitzuteilen vergesset nicht\""
+  - "V. Aria (Soprano) \"Höchster, was ich habe\""
+  - "VI. Recitativo (Alto) \"Wie soll ich dir, o Herr, denn sattsamlich vergelten\""
+  - "VII. Choral \"Selig sind, die aus Erbarmen\""
+notes: "From Bach's third cycle, on a text from the 1704 Meiningen collection attributed to Duke Ernst Ludwig of Saxe-Meiningen; the closing chorale is from David Denicke's \"Kommt, laßt euch den Herren lehren\". Once dated to 1732 and nicknamed the \"Refugee Cantata\", it is now known to be from 1726."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Brich_dem_Hungrigen_dein_Brot,_BWV_39"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/b46fb668-54b8-475a-8b44-27953e7049e2

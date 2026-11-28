@@ -1,0 +1,38 @@
+id: thomanerchor-leipzig-undated-5
+performers:
+- name: Thomanerchor Leipzig
+  role: choir
+- name: Neues Bachisches Collegium Musicum
+  role: orchestra
+- name: Gewandhausorchester Leipzig
+  role: orchestra
+- name: Hans-Joachim Rotzsch
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2012
+original_label: null
+works:
+- {bwv: '21', complete: false, movements: ['Teil I, II. Coro "Ich hatte viel Bekümmernis in meinem Herzen"', 'Teil
+      II, XI. Coro "Das Lamm, das erwürget ist"']}
+- {bwv: '29', complete: false, movements: ['II. Coro "Wir danken dir, Gott, wir danken dir"', VIII. Choral "Sei
+      Lob und Preis mit Ehren"]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/168992d0-13d0-441d-8ee4-3230d366b57d
+  title: Die Grössten Chorwerke (The Greatest Choral Works)
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 995a8150-123b-4f04-8c2c-904a262dd607
+  recordings: [ab5d6469-d0c9-41c3-9dd1-e256502cb367, cae43e4f-f144-4281-8d8b-a59af769f25d]

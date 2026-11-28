@@ -1,0 +1,38 @@
+id: bach-festival-orchestra-1950
+performers:
+- name: Bach Festival Orchestra 1950
+  role: orchestra
+- name: Chor der Staatlichen Hochschule fur Musik Frankfurt am Main
+  role: choir
+- name: Maria Jung
+  role: organ
+- name: Fritz Lehmann
+  role: conductor
+- name: Dietrich Fischer‐Dieskau
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1950]
+  place: Johanniskirche
+released: 1997
+original_label: null
+works:
+- {bwv: '4', complete: false, movements: [I. Sinfonia, II. Chor Versus I „Christ lag in Todes Banden“, 'III. Duett
+      (Sopran, Alt) Versus II „Den Tod niemand zwingen kunnt“', V. Chor Versus IV „Es war ein wunderlicher Krieg“,
+    VI. Arie (Bass) Versus V „Hier ist das rechte Osterlamm“, 'VII. Duett (Sopran, Tenor) Versus VI „So feiern wir
+      das hohe Fest“', VIII. Choral Versus VII „Wir essen und leben wohl“]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/b60e4cac-c38a-41a8-88d2-aef9cc7cb1bc
+  title: Kantaten Christ lag in Todesbanden, BWV 4 / Ich will den Kreuzstab gerne tragen, BWV 56 / Ich habe genug,
+    BWV 82
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b1e21660-aad2-43e5-b8e0-034bf90140f9
+  recordings: [3849b85d-99be-4309-90a3-da41530a4afd, 5c6d1902-75d9-4c56-a2ac-ad3d4be73a02]

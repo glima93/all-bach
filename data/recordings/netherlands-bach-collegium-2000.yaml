@@ -1,0 +1,38 @@
+id: netherlands-bach-collegium-2000
+performers:
+- name: Netherlands Bach Collegium
+  role: orchestra
+- name: Pieter Jan Leusink
+  role: conductor
+- name: Holland Boys Choir
+  role: choir
+- name: Ruth Holton
+  role: soprano
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Sint-Nicolaaskerk
+released: 2000
+original_label: null
+works:
+- {bwv: '1', complete: true}
+- {bwv: '5', complete: true}
+- {bwv: '14', complete: true}
+- {bwv: '20', complete: true}
+- {bwv: '32', complete: true}
+- {bwv: '38', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a5d3a435-5cd8-4a8d-a356-ff628b7a77a2
+  title: 'Bach Edition, Volume 18: Cantatas/Kantaten, Volume IX'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a422d36-6a96-47fa-90c8-7a0a3413f3c7
+  recordings: [4bc15f30-33bf-45bf-ae54-03133e1d8cd2, 60195912-33f1-4f8c-99dd-723511567c8b, b5f75205-602f-472d-b260-896e1180e26e,
+    caa01b3f-cc97-4a93-bc47-4ba2a2db3453, e6daa8be-61eb-4c7a-8eec-75343f6edac5, efd88c70-4c9c-4123-8b3c-7146f6eaae41]

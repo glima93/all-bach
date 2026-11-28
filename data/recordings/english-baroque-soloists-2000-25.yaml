@@ -1,0 +1,31 @@
+id: english-baroque-soloists-2000-25
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Christkirche; Braunschweig Dom
+released: 2008
+original_label: null
+works:
+- {bwv: '45', complete: true}
+- {bwv: '46', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/dd80bd6b-64b7-4cfa-be6a-5b10e326b14f
+  title: 'Cantatas, Volume 5: Rendsburg/Braunschweig'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [5384073c-167a-44d4-addd-3f9ac0d927cc, eaece603-4d25-453f-9bd8-97954faed4ec]

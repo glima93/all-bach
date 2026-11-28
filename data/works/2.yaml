@@ -1,0 +1,19 @@
+bwv: "2"
+title: "Ach Gott, vom Himmel sieh darein"
+key: "G minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (ATB), four-part choir, 4 trombones, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 18 June 1724 (Second Sunday after Trinity)"
+movements:
+  - "I. Coro \"Ach Gott, vom Himmel sieh darein\""
+  - "II. Recitativo (Tenore) \"Sie lehren eitel falsche List\""
+  - "III. Aria (Alto) \"Tilg, o Gott, die Lehren\""
+  - "IV. Recitativo (Basso) \"Die Armen sind verstört\""
+  - "V. Aria (Tenore) \"Durchs Feuer wird das Silber rein\""
+  - "VI. Choral \"Das wollst du, Gott, bewahren rein\""
+notes: "The second cantata of Bach's chorale cantata cycle 1724–25, based on Martin Luther's 1524 hymn \"Ach Gott, vom Himmel sieh darein\", a paraphrase of Psalm 12. An unknown librettist paraphrased the inner stanzas."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Ach_Gott,_vom_Himmel_sieh_darein,_BWV_2"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/fa97639c-ea29-47d6-9461-16b411322bac

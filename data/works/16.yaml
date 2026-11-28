@@ -1,0 +1,19 @@
+bwv: "16"
+title: "Herr Gott, dich loben wir"
+key: "A minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (ATB), four-part choir, corno da caccia, 2 oboes, oboe da caccia (violetta in a later performance), strings and continuo"
+composed: "Leipzig; first performed on 1 January 1726 (New Year's Day)"
+movements:
+  - "I. Coro \"Herr Gott, dich loben wir\""
+  - "II. Recitativo (Basso) \"So stimmen wir bei dieser frohen Zeit\""
+  - "III. Aria (Basso) e Coro \"Laßt uns jauchzen, lasst uns freuen\""
+  - "IV. Recitativo (Alto) \"Ach treuer Hort\""
+  - "V. Aria (Tenore) \"Geliebter Jesu, du allein sollst meiner Seelen Reichtum sein\""
+  - "VI. Choral \"All solch dein Güt wir preisen\""
+notes: "From Bach's third Leipzig cantata cycle, to a text by Georg Christian Lehms. It opens with a setting of Luther's German Te Deum and closes with the last stanza of Paul Eber's \"Helft mir Gotts Güte preisen\"."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Herr_Gott,_dich_loben_wir,_BWV_16"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/97d1d150-2d59-408e-9438-db66ea213da1

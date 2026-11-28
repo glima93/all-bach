@@ -1,0 +1,31 @@
+id: english-baroque-soloists-2000-10
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Church of San Domingos de Bonaval
+released: 2005
+original_label: null
+works:
+- {bwv: '8', complete: true}
+- {bwv: '27', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d69c1b5-a393-4be1-8649-ebb64bc8a88e
+  title: 'Cantatas, Volume 8: Bremen/Santiago'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [39b704a6-8e1f-44c1-841b-f6be757e5910, 4c8d096d-38b5-423c-9cd8-80cf94539ae7]

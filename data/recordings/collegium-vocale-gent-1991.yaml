@@ -1,0 +1,34 @@
+id: collegium-vocale-gent-1991
+performers:
+- name: Collegium Vocale Gent
+  role: orchestra
+- name: Philippe Herreweghe
+  role: conductor
+- name: Peter Kooij
+  role: performer
+- name: Charles Brett
+  role: performer
+- name: Agnès Mellon
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1991]
+  place: Minderbroederskerk
+released: 2002
+original_label: null
+works:
+- {bwv: '39', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/966b666d-135b-48f2-a340-8f9f8ae31b2a
+  title: Cantatas 39, 73, 93, 105, 107, 131
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 95790653-fbba-495b-8701-c857a815880d
+  recordings: [df8394f5-67b0-4b16-9ecd-e419a67d9095]

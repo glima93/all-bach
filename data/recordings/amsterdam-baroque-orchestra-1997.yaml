@@ -1,0 +1,33 @@
+id: amsterdam-baroque-orchestra-1997
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Ton Koopman
+  role: conductor
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Bogna Bartosz
+  role: alto
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1997]
+  place: Waalse Kerk
+released: 1998
+original_label: null
+works:
+- {bwv: '24', complete: true}
+- {bwv: '25', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0af23db3-68ab-4f8e-a3e5-5c44be468e4b
+  title: Complete Cantatas, Volume 7
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [489d7e1e-41bb-412f-97f0-f63eca875202, 4e0d6061-4fd2-49a2-9501-96a3cf90ef4f]

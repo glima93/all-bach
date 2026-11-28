@@ -1,0 +1,41 @@
+id: bayerisches-staatsorchester-undated-2
+performers:
+- name: Bayerisches Staatsorchester
+  role: orchestra
+- name: Münchener Bach-Chor
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Beatrice Krebs
+  role: performer
+- name: Kieth Engen
+  role: performer
+- name: Gert Lutze
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2026
+original_label: null
+works:
+- {bwv: '12', complete: false, movements: [I. Sinfonia, 'II. Coro “Weinen, Klagen, Sorgen, Zagen”', III. Recitativo
+      (Alto) "Wir müssen durch viel Trübsal", V. Aria (Basso) "Ich folge Christo nach", 'VI. Aria (Tenore) "Sei
+      getreu, alle Pein wird doch nur ein Kleines sein"', 'VII. Choral "Was Gott tut, das ist wohlgetan"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/f882922c-5d43-4c1d-9b75-9706127e62ca
+  title: Cantatas, BWV 4, 12, 67, 79, 108, 127, 137, 140 & 160
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 315899f2-e6b5-4b73-8830-cc2dceb55eac
+  recordings: [691bc197-cdc9-4370-b5fe-fa855e18ab48, e4b0b82a-9567-43c8-ad5e-63e14987a6e5]

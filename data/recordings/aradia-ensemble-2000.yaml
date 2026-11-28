@@ -1,0 +1,36 @@
+id: aradia-ensemble-2000
+performers:
+- name: Aradia Ensemble
+  role: orchestra
+- name: Christopher Dawes
+  role: organ
+- name: Kevin Mallon
+  role: conductor
+- name: Teri Dunn
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: null
+released: 2000
+original_label: null
+works:
+- {bwv: '1', complete: false, movements: [VI. Choral “Wie bin ich doch so herzlich froh”]}
+- {bwv: '36', complete: false, movements: [I. Coro “Schwingt freudig euch empor”, 'II. Choral “Nun komm, der Heiden
+      Heiland”', III. Aria (Tenore) “Die Liebe zieht mit sanften Schritten”, 'VII. Aria (Soprano) “Auch mit gedämpften,
+      schwachen Stimmen”']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/c7900912-5215-4258-b4be-4fa9238257a6
+  title: Christmas Cantatas
+status: draft
+help_wanted:
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 52e6d9f8-68f9-4d4c-997f-99a5b9ea5a76
+  recordings: [48f8ba14-4e96-4db8-8401-ec8d0c606906, 9fb2c8b1-92ca-4462-b463-3ef4b8ddf023]

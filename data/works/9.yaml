@@ -1,0 +1,20 @@
+bwv: "9"
+title: "Es ist das Heil uns kommen her"
+key: "E major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, flauto traverso, oboe d'amore, strings and continuo"
+composed: "Leipzig; probably first performed on 1 August 1734 (Sixth Sunday after Trinity)"
+movements:
+  - "I. Coro \"Es ist das Heil uns kommen her\""
+  - "II. Recitativo (Basso) \"Gott gab uns ein Gesetz, doch waren wir zu schwach\""
+  - "III. Aria (Tenore) \"Wir waren schon zu tief gesunken\""
+  - "IV. Recitativo (Basso) \"Doch musste das Gesetz erfüllet werden\""
+  - "V. Aria (Duetto: Soprano, Alto) \"Herr, du siehst statt guter Werke\""
+  - "VI. Recitativo (Basso) \"Wenn wir die Sünd aus dem Gesetz erkennen\""
+  - "VII. Choral \"Ob sichs anließ, als wollt er nicht\""
+notes: "A late addition to Bach's chorale cantata cycle 1724–25, filling a gap in it, based on Paul Speratus's 1524 hymn \"Es ist das Heil uns kommen her\". All three recitatives are given to the bass."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Es_ist_das_Heil_uns_kommen_her,_BWV_9"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/3033ed84-72aa-4fcb-841c-739e276778ec

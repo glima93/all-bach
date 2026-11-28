@@ -1,0 +1,37 @@
+id: amsterdam-baroque-orchestra-1995-4
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Ton Koopman
+  role: conductor
+- name: Elisabeth von Magnus
+  role: alto
+- name: Paul Agnew
+  role: tenor
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Klaus Mertens
+  role: bass
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1995]
+  place: Waalse Kerk
+released: 1996
+original_label: null
+works:
+- {bwv: '22', complete: true}
+- {bwv: '23', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5436599d-16f6-436d-8e59-4f0bf4b54da9
+  title: Complete Cantatas, Volume 3
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [825ea9d6-9d6b-4565-9283-6834c2b0e8e7, e851168a-cd48-4311-897d-3261462e3272]

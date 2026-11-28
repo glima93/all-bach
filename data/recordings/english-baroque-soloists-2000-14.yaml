@@ -1,0 +1,32 @@
+id: english-baroque-soloists-2000-14
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Abbaye Notre-Dame d'Ambronay; Unser Lieben Frauen
+released: 2006
+original_label: null
+works:
+- {bwv: '17', complete: true}
+- {bwv: '19', complete: true}
+- {bwv: '25', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/1780c3a3-4913-4f05-921a-2b100f4b1d1e
+  title: 'Cantatas, Volume 7: Ambronay/Bremen'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [19304bbe-7a23-4dba-b6d0-924c8608fe99, 2bb14922-9f99-4e62-b86d-7d1ce80c2833, f508af8d-1df3-4212-bae9-3e5f54947162]

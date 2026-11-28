@@ -1,0 +1,18 @@
+bwv: "14"
+title: "Wär Gott nicht mit uns diese Zeit"
+key: "G minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (STB), four-part choir, corno da caccia, 2 oboes, strings and continuo"
+composed: "Leipzig; first performed on 30 January 1735 (Fourth Sunday after Epiphany)"
+movements:
+  - "I. Coro \"Wär Gott nicht mit uns diese Zeit\""
+  - "II. Aria (Soprano) \"Unsre Stärke heißt zu schwach\""
+  - "III. Recitativo (Tenore) \"Ja, hätt es Gott nur zugegeben\""
+  - "IV. Aria (Basso) \"Gott, bei deinem starken Schützen\""
+  - "V. Choral \"Gott Lob und Dank, der nicht zugab\""
+notes: "A late addition to Bach's chorale cantata cycle 1724–25, based on Martin Luther's hymn \"Wär Gott nicht mit uns diese Zeit\", a paraphrase of Psalm 124."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Wär_Gott_nicht_mit_uns_diese_Zeit,_BWV_14"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/859577ea-8506-4d00-be02-34075d109a74

@@ -1,0 +1,30 @@
+id: de-nederlandse-bachvereniging-undated-3
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Sigiswald Kuijken
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Waalse Kerk
+released: null
+original_label: null
+works:
+- {bwv: '22', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/f809781b-ce55-49ac-9996-8de5186981c5
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [f809781b-ce55-49ac-9996-8de5186981c5]

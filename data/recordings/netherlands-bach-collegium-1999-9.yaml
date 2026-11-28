@@ -1,0 +1,43 @@
+id: netherlands-bach-collegium-1999-9
+performers:
+- name: Netherlands Bach Collegium
+  role: orchestra
+- name: Pieter Jan Leusink
+  role: conductor
+- name: Ruth Holton
+  role: soprano
+- name: Sytse Buwalda
+  role: alto
+- name: Holland Boys Choir
+  role: choir
+- name: Nico van der Meel
+  role: tenor
+- name: Bas Ramselaar
+  role: bass
+- name: Knut Schoch
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1999]
+  place: Sint-Nicolaaskerk
+released: 1999
+original_label: null
+works:
+- {bwv: '22', complete: true}
+- {bwv: '23', complete: false, movements: ['I. Aria (Duetto: Soprano, Alto) "Du wahrer Gott und Davids Sohn"', II.
+      Recitativo (Tenore) "Ach! gehe nicht vorüber", 'III. Coro "Aller Augen warten, Herr"']}
+- {bwv: '44', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6038c192-1833-4f80-96ec-36c3196de856
+  title: 'Bach Edition, Volume 5: Cantatas/Kantaten, Volume II'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 4a422d36-6a96-47fa-90c8-7a0a3413f3c7
+  recordings: [101e25d2-2ae0-4e2e-af2d-520ef8adce2f, 2e97a9cb-e4a0-4508-a096-a9ca7339adc4, 6bcb0cc6-eccd-4174-ac37-c7e5d482d6df]

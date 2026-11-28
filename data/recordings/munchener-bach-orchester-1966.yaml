@@ -1,0 +1,38 @@
+id: munchener-bach-orchester-1966
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Münchener Bach‐Chor
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Ernst Haefliger
+  role: tenor
+- name: Hertha Töpper
+  role: performer
+- name: Theo Adam
+  role: performer
+- name: Ursula Buckel
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1966]
+  place: Herkulessaal
+released: 1994
+original_label: null
+works:
+- {bwv: '26', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/0e14db34-175e-48f7-811f-29a0a28df0c5
+  title: 'Kantaten, Vol. 5: Sonntage nach Trinitatis II'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [24b78ce0-d245-4272-bf3b-93186df14b86, 313e43d2-0da3-4d29-b899-725672060f0e]

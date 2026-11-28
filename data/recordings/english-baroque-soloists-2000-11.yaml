@@ -1,0 +1,30 @@
+id: english-baroque-soloists-2000-11
+performers:
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: Monteverdi Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: St Gumbertus
+released: 2009
+original_label: null
+works:
+- {bwv: '9', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/ad35b950-35eb-4882-886b-12748914a696
+  title: 'Cantatas, Volume 4: Ansbach/Haddington'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: bae23557-5de4-4510-9234-caea078c34b4
+  recordings: [b8c8f777-8941-43bc-94b8-9a38cb9018c0]

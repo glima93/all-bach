@@ -1,0 +1,47 @@
+id: munchener-bach-orchester-1975
+performers:
+- name: Münchener Bach‐Orchester
+  role: orchestra
+- name: Münchener Bach‐Chor
+  role: choir
+- name: Karl Richter
+  role: conductor
+- name: Kieth Engen
+  role: performer
+- name: Hertha Töpper
+  role: performer
+- name: Ursula Buckel
+  role: soprano
+- name: John van Kesteren
+  role: tenor
+- name: Anna Reynolds
+  role: alto
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1975]
+  place: Herkulessaal
+released: 1993
+original_label: null
+works:
+- {bwv: '24', complete: true}
+- {bwv: '30', complete: true}
+- {bwv: '34', complete: true}
+- {bwv: '39', complete: true}
+- {bwv: '44', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/2b8bb121-3c53-4636-8d07-0c6e36ba1339
+  title: 'Kantaten, Vol. 3: Himmelfahrt · Pfingsten · Trinitatis'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 0b03ac9e-6647-4fe7-9924-d18f7b2643ee
+  recordings: [07953eda-6195-4c5e-a7db-ee6625809979, 0c669759-66da-4029-93c5-fa20c89896e5, 0d33c81b-8453-4a80-b1b8-fb52fe3b6718,
+    15475d02-2d46-4421-bd1b-8e3a6efb0c4d, 1c6314e6-2812-42d3-a418-ceea70a1e019, 29718e88-2a89-4a65-ba05-df7d3db9d275,
+    6118d6dc-4bfc-46db-a9c2-175b280552b8, b10f256b-0226-4ede-81a0-a0cb8cb3b51a, bb3d360a-12e9-4224-95aa-9c69bb41c9c5,
+    ddb4a93c-502c-4379-a4ba-6a84d9dfb498]

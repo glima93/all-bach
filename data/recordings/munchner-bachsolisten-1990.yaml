@@ -1,0 +1,40 @@
+id: munchner-bachsolisten-1990
+performers:
+- name: Münchner Bachsolisten
+  role: orchestra
+- name: Windsbacher Knabenchor
+  role: choir
+- name: Karl-Friedrich Beringer
+  role: conductor
+- name: Thomas Quasthoff
+  role: bass
+- name: Edith Mathis
+  role: performer
+- name: Hans Peter Blochwitz
+  role: performer
+- name: Cornelia Kallisch
+  role: performer
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1990]
+  place: Münster zu Heilsbronn
+released: 1991
+original_label: null
+works:
+- {bwv: '19', complete: true}
+- {bwv: '30', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/a8552fdc-78dc-46af-b86e-4e40caec8cb3
+  title: 'Kantaten: Freue dich, erlöste Schar BWV 30 / Es erhub sich ein Streit BWV 19'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 93253bcc-7e3c-4da2-98eb-7efcf576dd85
+  recordings: [3dc31136-dfaf-4fcc-8c0e-6fcde51f3671, 3fafefe3-222a-46c4-b320-7afae1a67e82, 9675c8c7-a01f-48ec-95b8-184ca1ba2b8e,
+    fff70183-62e5-42dd-8c41-948db3800a69]

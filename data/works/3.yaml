@@ -1,0 +1,19 @@
+bwv: "3"
+title: "Ach Gott, wie manches Herzeleid"
+key: "A major"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Soloists (SATB), four-part choir, horn, trombone, 2 oboes d'amore, strings and continuo"
+composed: "Leipzig; first performed on 14 January 1725 (Second Sunday after Epiphany)"
+movements:
+  - "I. Coro \"Ach Gott, wie manches Herzeleid\""
+  - "II. Recitativo e choral (Tenore, Alto, Soprano, Basso) \"Wie schwerlich lässt sich Fleisch und Blut\""
+  - "III. Aria (Basso) \"Empfind ich Höllenangst und Pein\""
+  - "IV. Recitativo (Tenore) \"Es mag mir Leib und Geist verschmachten\""
+  - "V. Aria (Duetto: Soprano, Alto) \"Wenn Sorgen auf mich dringen\""
+  - "VI. Choral \"Erhalt mein Herz im Glauben\""
+notes: "Part of Bach's chorale cantata cycle 1724–25, based on Martin Moller's 1587 hymn \"Ach Gott, wie manches Herzeleid\", a paraphrase of the Latin \"Jesu dulcis memoria\". The inner stanzas were paraphrased by an unknown librettist."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Ach_Gott,_wie_manches_Herzeleid,_BWV_3"
+  bach_digital: "https://www.bach-digital.de/receive/BachDigitalWork_work_00000003?lang=en"
+# MusicBrainz work: https://musicbrainz.org/work/3edf4a3f-2b11-4a61-a5cf-e193363ef55c

@@ -1,0 +1,21 @@
+bwv: "4"
+title: "Christ lag in Todes Banden"
+key: "E minor"
+collection: "Church Cantatas"
+genre: cantata
+scoring: "Four-part choir and soloists (SATB), cornett, 3 trombones, 2 violins, 2 violas and continuo"
+composed: "Probably Mühlhausen; probably first performed on 24 April 1707 (Easter Sunday); revived in Leipzig in 1724 and 1725"
+movements:
+  - "I. Sinfonia"
+  - "II. Chor Versus I „Christ lag in Todes Banden“"
+  - "III. Duett (Sopran, Alt) Versus II „Den Tod niemand zwingen kunnt“"
+  - "IV. Arie (Tenor) Versus III „Jesus Christus, Gottes Sohn“"
+  - "V. Chor Versus IV „Es war ein wunderlicher Krieg“"
+  - "VI. Arie (Bass) Versus V „Hier ist das rechte Osterlamm“"
+  - "VII. Duett (Sopran, Tenor) Versus VI „So feiern wir das hohe Fest“"
+  - "VIII. Choral Versus VII „Wir essen und leben wohl“"
+notes: "One of Bach's earliest cantatas, setting all seven stanzas of Martin Luther's Easter hymn \"Christ lag in Todes Banden\" unchanged, each as a variation on the chorale melody. The cornett and trombones were added for the 1725 Leipzig performance."
+links:
+  wikipedia: "https://en.wikipedia.org/wiki/Christ_lag_in_Todes_Banden,_BWV_4"
+  bach_digital: null
+# MusicBrainz work: https://musicbrainz.org/work/95ee25ab-dd51-4d08-8800-3945264e10ea

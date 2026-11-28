@@ -1,0 +1,34 @@
+id: monteverdi-choir-1980-2
+performers:
+- name: Monteverdi Choir
+  role: choir
+- name: English Baroque Soloists
+  role: orchestra
+- name: Sir John Eliot Gardiner
+  role: conductor
+- name: William Kendall
+  role: performer
+- name: Stephen Varcoe
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1980]
+  place: All Saints Church
+released: 1993
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/e2eee727-4cd8-4334-b42b-6bf39fbb0f2c
+  title: Cantatas BWV 4 & 131
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: a3016390-1ea7-41e2-afac-8d3d3d021fe0
+  recordings: [85493ebc-2c6f-4764-a53b-18421e3d597b]

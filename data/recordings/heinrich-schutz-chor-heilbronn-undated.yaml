@@ -1,0 +1,38 @@
+id: heinrich-schutz-chor-heilbronn-undated
+performers:
+- name: Heinrich-Schütz-Chor Heilbronn
+  role: choir
+- name: Württembergisches Kammerorchester Heilbronn
+  role: orchestra
+- name: Südwestdeutsches Kammerorchester Pforzheim
+  role: orchestra
+- name: Maurice André
+  role: trumpet
+- name: Fritz Werner
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2010
+original_label: null
+works:
+- {bwv: '30', complete: false, movements: ['Teil I, I. Coro "Freue dich, erlöste Schar"']}
+- {bwv: '31', complete: false, movements: [I. Sonata]}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/44c19d3e-695e-42ae-adcb-53511b675c4d
+  title: Maurice André Edition - Volume 3
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: be56db9e-fd6e-453a-9583-cb14d8d5a7fd
+  recordings: [883aee5d-2d82-43dc-9184-b737148a1639, bc2f298a-5d64-4b6d-ac11-a78470efebaa]

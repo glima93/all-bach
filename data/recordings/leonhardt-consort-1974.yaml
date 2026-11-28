@@ -1,0 +1,38 @@
+id: leonhardt-consort-1974
+performers:
+- name: Leonhardt‐Consort
+  role: orchestra
+- name: Knabenchor Hannover
+  role: choir
+- name: Gustav Leonhardt
+  role: conductor
+- name: René Jacobs
+  role: performer
+- name: Max van Egmond
+  role: performer
+- name: Marius van Altena
+  role: tenor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1974]
+  place: Doopsgezinde kerk
+released: 1994
+original_label: null
+works:
+- {bwv: '39', complete: true}
+- {bwv: '40', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/bc8a1462-d303-4d24-98af-faa34da3fce3
+  title: 'Das Kantatenwerk: Sacred Cantatas Vol. 3: BWV 37-52, 54-60'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fdcb74c4-2c5f-4d57-a052-b9ae935a3302
+  recordings: [0c61b88b-f221-48bf-bf4e-5661e2279f05, cb38767b-bc17-451c-ac47-a9c7d131815d, e6587b76-b302-4bab-b372-67f234bdcfc9,
+    fe7dfeef-f078-419d-9867-f40310b459b9]

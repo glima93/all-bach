@@ -1,0 +1,34 @@
+id: musica-florea-1996-5
+performers:
+- name: Musica Florea
+  role: orchestra
+- name: Magdalena Kožená
+  role: mezzo-soprano
+- name: Marek Štryncl
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1996]
+  place: Concert Hall, Kromeriz
+released: 1997
+original_label: null
+works:
+- {bwv: '1', complete: false, movements: ['III. Aria (Soprano) “Erfüllet, ihr himmlischen göttlichen Flammen”']}
+- {bwv: '14', complete: false, movements: [II. Aria (Soprano) "Unsre Stärke heißt zu schwach"]}
+- {bwv: '30', complete: false, movements: ['Teil I, V. Aria (Alto) "Kommt, ihr angefochtnen Sünder"']}
+- {bwv: '34', complete: false, movements: ['III. Aria (Alto) "Wohl euch, ihr auserwählten Seelen"']}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5e40a543-fc04-4278-96a4-9a2e8cb1c5be
+  title: Bach Arias
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: b8812130-8da9-4b13-a64e-a46f02ed2778
+  recordings: [04a7bfd6-8dcf-4b59-a5ad-a07fb9eaeca2, 1151e569-648f-4dbf-9201-e7ca8d0ca1f7, 3570486a-1459-41b9-9539-d840c0dce4ba,
+    6fda4943-2f6c-4dcc-bb07-245edb5e2d31]

@@ -1,0 +1,41 @@
+id: amsterdam-baroque-orchestra-2000
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Amsterdam Baroque Choir
+  role: choir
+- name: Ton Koopman
+  role: conductor
+- name: Paul Agnew
+  role: tenor
+- name: Klaus Mertens
+  role: bass
+- name: Franziska Gottwald
+  role: alto
+- name: Deborah York
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [2000]
+  place: Waalse Kerk
+released: 2003
+original_label: null
+works:
+- {bwv: '1', complete: true}
+- {bwv: '33', complete: true}
+- {bwv: '38', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/4d1eb87d-1c2a-4a82-b48b-0b8713652ecd
+  title: Cantatas, Volume 13
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [6a374507-fb22-49f2-83b2-035cf25ef046, a3a38d9d-fc54-4e3e-8b60-875d04b5d461, a541a098-4815-4e98-be88-79e278db9da0,
+    c5ccb3c5-e952-481e-8e4f-3eef6c482620, ce40628d-149e-4fef-ab3a-80ecc06f2eb6, cfea12d5-963d-4c0a-bca0-ad7696d445e5]

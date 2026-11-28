@@ -1,0 +1,28 @@
+id: bach-collegium-san-diego-undated
+performers:
+- name: Bach Collegium San Diego
+  role: orchestra
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: null
+released: 2025
+original_label: null
+works:
+- {bwv: '4', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/6255f3da-659f-4287-97ad-1d901780abfb
+  title: A Sonic Youth
+status: draft
+help_wanted:
+- Recording year
+- Recording place
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: 'Linked to the whole work in MusicBrainz on a compilation: probably a selection of movements.'
+musicbrainz:
+  artist: 6fa7a819-d807-4418-83fb-73ed4bb6177b
+  recordings: [2b452af7-2dc2-47d0-b42f-eb658f6292d5]

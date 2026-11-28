@@ -1,0 +1,34 @@
+id: de-nederlandse-bachvereniging-undated-4
+performers:
+- name: De Nederlandse Bachvereniging
+  role: ensemble
+- name: Monika Mauch
+  role: performer
+- name: Stephan MacLeod
+  role: performer
+- name: Jos van Veldhoven
+  role: performer
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: []
+  place: Martinikerk
+released: null
+original_label: null
+works:
+- {bwv: '32', complete: true}
+links:
+- platform: musicbrainz
+  kind: page
+  url: https://musicbrainz.org/recording/f03860ea-98ea-4647-91a0-3fe89f72c6ba
+  title: null
+status: draft
+help_wanted:
+- Recording year
+- Check whether this is the same performance as another entry by this performer
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: Live recording.
+musicbrainz:
+  artist: d7b94f52-d41b-4a01-9679-ceb4f23dba8e
+  recordings: [f03860ea-98ea-4647-91a0-3fe89f72c6ba]

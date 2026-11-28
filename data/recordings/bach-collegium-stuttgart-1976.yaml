@@ -1,0 +1,28 @@
+id: bach-collegium-stuttgart-1976
+performers:
+- name: Bach‐Collegium Stuttgart
+  role: orchestra
+- name: Helmuth Rilling
+  role: conductor
+instrument: voices-and-instruments
+performance_practice: unknown
+arrangement: false
+recorded:
+  years: [1976]
+  place: Gedächtniskirche Stuttgart
+released: 1988
+original_label: null
+works:
+- {bwv: '21', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/5c087f07-eebc-4b93-b30e-507d792da983
+  title: 'Die Bach-Kantate, Volume 14: BWV 21, 93'
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: 8bc4fbd0-f05f-4408-834b-e9540afb3b7f
+  recordings: [fe427ab9-1287-4579-89f0-6dbf7a12d143]

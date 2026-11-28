@@ -1,0 +1,31 @@
+id: amsterdam-baroque-orchestra-1998-5
+performers:
+- name: Amsterdam Baroque Orchestra
+  role: orchestra
+- name: Ton Koopman
+  role: conductor
+- name: Amsterdam Baroque Choir
+  role: choir
+instrument: voices-and-instruments
+performance_practice: historical
+arrangement: false
+recorded:
+  years: [1998]
+  place: Waalse Kerk
+released: 1999
+original_label: null
+works:
+- {bwv: '40', complete: true}
+- {bwv: '46', complete: true}
+links:
+- platform: musicbrainz
+  kind: release
+  url: https://musicbrainz.org/release/374087a0-4ed6-41d5-982f-0af781d98605
+  title: Complete Cantatas, Volume 8
+status: draft
+help_wanted:
+- Streaming links (Spotify, Apple Music, YouTube …)
+notes: null
+musicbrainz:
+  artist: fed3aea9-0069-4970-9344-522066f0b0c1
+  recordings: [5a84404e-ef3d-40ea-8566-6393219da9ff, 9f661032-e92e-4f7a-a753-e4b5e376b614]
